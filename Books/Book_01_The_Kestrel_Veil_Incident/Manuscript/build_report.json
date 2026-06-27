@@ -1,0 +1,131 @@
+﻿{
+    "MasterMd":  true,
+    "Pdf":  false,
+    "ChapterStats":  [
+                         {
+                             "Chapter":  1,
+                             "Words":  2245
+                         },
+                         {
+                             "Chapter":  2,
+                             "Words":  1654
+                         },
+                         {
+                             "Chapter":  3,
+                             "Words":  1543
+                         },
+                         {
+                             "Chapter":  4,
+                             "Words":  1546
+                         },
+                         {
+                             "Chapter":  5,
+                             "Words":  1582
+                         },
+                         {
+                             "Chapter":  6,
+                             "Words":  4840
+                         },
+                         {
+                             "Chapter":  7,
+                             "Words":  4958
+                         },
+                         {
+                             "Chapter":  8,
+                             "Words":  5537
+                         },
+                         {
+                             "Chapter":  9,
+                             "Words":  4879
+                         },
+                         {
+                             "Chapter":  10,
+                             "Words":  5151
+                         },
+                         {
+                             "Chapter":  11,
+                             "Words":  5113
+                         },
+                         {
+                             "Chapter":  12,
+                             "Words":  5447
+                         },
+                         {
+                             "Chapter":  13,
+                             "Words":  5691
+                         },
+                         {
+                             "Chapter":  14,
+                             "Words":  5812
+                         },
+                         {
+                             "Chapter":  15,
+                             "Words":  5550
+                         },
+                         {
+                             "Chapter":  16,
+                             "Words":  5666
+                         },
+                         {
+                             "Chapter":  17,
+                             "Words":  5755
+                         },
+                         {
+                             "Chapter":  18,
+                             "Words":  5595
+                         },
+                         {
+                             "Chapter":  19,
+                             "Words":  10537
+                         },
+                         {
+                             "Chapter":  20,
+                             "Words":  5721
+                         },
+                         {
+                             "Chapter":  21,
+                             "Words":  5892
+                         },
+                         {
+                             "Chapter":  22,
+                             "Words":  5509
+                         },
+                         {
+                             "Chapter":  23,
+                             "Words":  5591
+                         },
+                         {
+                             "Chapter":  24,
+                             "Words":  8479
+                         }
+                     ],
+    "ApproxPages":  481,
+    "PdfWarning":  "\u0027pdflatex\u0027 not found. Please select a different --pdf-engine or install \u0027pdflatex\u0027",
+    "TotalWords":  120293,
+    "Docx":  true,
+    "EpubValidation":  {
+                           "Status":  "PASS",
+                           "Warnings":  [
+                                            "mimetype should be stored uncompressed (common EPUB requirement)"
+                                        ],
+                           "Checks":  [
+                                          {
+                                              "File":  "mimetype",
+                                              "Present":  true
+                                          },
+                                          {
+                                              "File":  "META-INF/container.xml",
+                                              "Present":  true
+                                          },
+                                          {
+                                              "File":  "EPUB/content.opf",
+                                              "Present":  true
+                                          },
+                                          {
+                                              "File":  "EPUB/nav.xhtml",
+                                              "Present":  true
+                                          }
+                                      ]
+                       },
+    "Epub":  true
+}

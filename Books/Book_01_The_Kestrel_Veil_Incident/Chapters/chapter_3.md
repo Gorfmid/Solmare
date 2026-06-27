@@ -14,6 +14,8 @@ Eighteen hours at Theta-7 had produced no informational closure from Fleet Opera
 
 Cadet Captain Calder Venn had completed the fifth diagnostic cycle Koss requested. He had watched the results populate the display with the same green indicators and the same irreconcilable numbers as the first four cycles. Hardware nominal. Contradiction unchanged.
 
+In the passageway outside engineering, Brenner had kicked environmental door 7-C once—the lower-left seam—and the panel had slid open on the second try. Calder had tried the handle first, as he always did. The crew had flowed around him without breaking stride.
+
 Thessaly joined him at the command console after the cycle completed.
 
 "Recommendation," she said. "Abort to L-3 relay range, or interior advance with continuous local logging. Both options preserve crew. Only one preserves mission timeline."
@@ -46,11 +48,19 @@ Transit from boundary marker Theta-7 to Korrath Expanse fringe. Conduct environm
 
 The *Kestrel Veil* broke hold at 0618. Calder secured himself at the command station as Reyes initiated the jump sequence to Korrath Expanse fringe using primary-array coordinates for SO-M4 reference.
 
-"Solution locked," Reyes said. "Variance projection within tolerance."
+Tanaka's checklist was open to sequence seven before Reyes spoke. "Solution locked," Reyes said.
 
-"Execute."
+"Variance projection within tolerance," Tanaka finished.
+
+Reyes waited a beat. "Execute," he said.
+
+"Execute," Calder said.
 
 Jump exit registered within 0.001 parsecs of calculated solution. Thessaly logged transit as nominal. Calder recorded departure in the mission log. Theta-7 and its unresolved star fell away behind them.
+
+"Exit stable," Reyes said.
+
+Thessaly: "Transit nominal."
 
 **Event 2 — Star Field Mismatch**
 
@@ -80,13 +90,17 @@ Calder read both twice. "Buffer both. No auto-selection."
 
 "Preserve. Do not merge."
 
+The crew around him continued—Tanaka logging exit variance, Koss running a hardware pass in engineering, Halden at the tactical station with a scenario list she had not spoken aloud. None of them stopped working to watch him decide. The ship had rhythms for contradiction he had not learned yet.
+
 **Event 4 — Engineering Log Discrepancy**
 
 Koss found Calder in the passageway between the command deck and engineering.
 
 "Captain. Engineering subsystem log shows a completed recalibration at zero-four-four-seven. Prior to departure. During your sleep cycle."
 
-Calder stopped. "Who authorized it?"
+Calder stopped. The passageway hum shifted as a coolant pump cycled—frequency he would not have noticed an hour ago. Koss had stopped because he had stopped. Brenner's toolkit sat open on a maintenance sled three meters back, untouched.
+
+"Who authorized it?"
 
 "No watch officer recalls authorizing the cycle. My personal station log shows no corresponding entry. Master log shows recalibration complete. Status verified."
 
@@ -99,6 +113,8 @@ Calder told her to isolate the master log entry and continue monitoring. He retu
 **Event 5 — Repeated Mapping Failure**
 
 At Korrath fringe, Reyes initiated the environmental mapping sweep. Calder watched the contact indicators populate across the fringe sector display.
+
+Science Technician Ortega ran spectral ingestion at the secondary sensor station, reporting contact counts half a beat ahead of the display refresh. He paused when Reyes's expression did not change, then continued at fleet speed.
 
 "KR-12 cluster," Reyes said. "Primary array: sparse field, eleven objects. Redundant array: dense field, nineteen objects. Overlap correlation forty-one percent. Both arrays verified."
 
@@ -119,6 +135,8 @@ The results matched the Event 4 pattern. Master log contained entries absent fro
 "No one reports unauthorized actions," Koss added.
 
 "And yet the records disagree," Reyes said.
+
+Park had said nothing during the convening. Calder noticed that afterward—Park noticing things and choosing when to speak.
 
 All officers reported conflicting records. None could explain why.
 

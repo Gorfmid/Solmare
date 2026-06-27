@@ -16,17 +16,23 @@ Cadet Captain Calder Venn stood at the command console reviewing the mission pac
 
 Calder read the note again. Signal Deviation implied inconsistency, not hostility. His training treated inconsistency as a data problem awaiting correction.
 
+Below the command deck, maintenance technician voices carried through the hull—routine, unhurried. Someone laughed once, brief and professional. Calder had stood on this deck twice before assuming command, both times for handover briefings. The ship had already learned habits he had not.
+
 "Readiness report," he said.
 
-Executive Officer Mira Thessaly stepped forward from the secondary console. "Fourteen personnel accounted for. All required positions filled. Support technicians assigned to secondary monitoring stations."
+Executive Officer Mira Thessaly stepped forward from the secondary console. While she spoke, her hand moved across the mission packet stack at Calder's elbow—aligning edges he had not noticed were wrong. "Fourteen personnel accounted for. All required positions filled. Support technicians assigned to secondary monitoring stations."
 
 "Engineering?"
 
-Thessaly glanced toward the comm panel. "Chief Engineer Koss reports propulsion and life-support within tolerance. No maintenance flags."
+Thessaly glanced toward the comm panel. "Chief Engineer Koss reports propulsion and life-support within tolerance. No maintenance flags. Senior Maintenance Technician Brenner completed final berth acceptance at zero-five-forty."
+
+Calder noted the name without attaching a face. Brenner had been on the acceptance roster. Calder had signed the summary.
 
 "Navigation?"
 
-"Navigator Reyes has loaded jump calculations for the transit sequence. Helion Prime to relay waypoint L-3, then L-3 to Solmare Quadrant boundary marker Theta-7. Both solutions verified against archived corridor data."
+"Navigator Reyes has loaded jump calculations for the transit sequence. Helion Prime to relay waypoint L-3, then L-3 to Solmare Quadrant boundary marker Theta-7. Both solutions verified against archived corridor data. Flight Operations Chief Tanaka has the transit checklist staged."
+
+Reyes did not look up from his display. At the adjacent navigation position, a petty officer Calder had not met sat with a color-coded checklist already open—sequence three, he would learn later, always sequence three for first jump.
 
 Calder nodded. The sequence was standard mid-rim transit—two jumps, one relay contact, one verification hold at the boundary marker. Nothing in the packet suggested deviation from procedure.
 
@@ -41,6 +47,8 @@ He noted the conditions without articulating them: the ship was functional, the 
 Park transmitted. The response arrived in less than two seconds.
 
 The *Kestrel Veil* received departure clearance at 0647 station time.
+
+In the galley, someone had adjusted the standard ration output—slightly more salt, Calder noticed later, though he could not have said when he first tasted the difference. Thessaly ate standing. Park ate while reviewing relay schedules. Calder took a bar to the command deck and called it sufficient. Dennett, he had heard, used to read from old recon memoirs at cycle-end. Calder had not established a replacement custom. No one had asked him to.
 
 ---
 
@@ -64,11 +72,19 @@ Calder Venn understood the objective in institutional terms. The *Kestrel Veil* 
 
 The *Kestrel Veil* cleared Helion Prime orbital control at 0712. Calder watched the planet recede on the forward display—industrial sectors visible as faint luminescence against the dark—until Reyes initiated the jump sequence to relay waypoint L-3.
 
-"Jump in ten," Reyes said. "Solution locked. Variance projection within tolerance."
+At the secondary navigation position, Tanaka's checklist advanced without visible prompt. Reyes said, "Jump in ten," and Tanaka continued, "—solution locked, variance projection within tolerance," before Reyes could repeat himself.
 
-"Execute."
+Reyes paused half a beat. "Execute," he said, which Calder understood was confirmation, not correction.
+
+"Execute," Calder said.
 
 The transition was instantaneous and unremarkable. Exit coordinates matched predicted values within 0.001 parsecs. Thessaly logged the transit as nominal. Calder recorded the event in the mission log and authorized continuation to Solmare Quadrant.
+
+"Exit stable," Reyes said.
+
+Thessaly: "Transit nominal."
+
+The call happened in order. Calder did not yet know the crew treated that sequence as a single unit.
 
 "Second jump solution ready on your mark," Reyes said.
 
@@ -76,7 +92,9 @@ The transition was instantaneous and unremarkable. Exit coordinates matched pred
 
 **Event 2 — Relay Latency at L-3**
 
-At L-3, Park ran the standard relay handshake before authorizing the interior jump. Midway through the outbound confirmation burst, his expression tightened.
+At L-3, Park ran the standard relay handshake before authorizing the interior jump. At the secondary relay station, a technician watched Park's display rather than her own panel until he glanced over; she adjusted without comment.
+
+Midway through the outbound confirmation burst, Park's expression tightened.
 
 "Report," Calder said.
 
@@ -110,7 +128,7 @@ Reyes ran the sequence again. The numbers did not move.
 
 **Event 4 — Failed Recalibration**
 
-Calder ordered recalibration of both sensor arrays. Koss arrived on the command deck within minutes, diagnostic tablet in hand.
+Calder ordered recalibration of both sensor arrays. Koss arrived on the command deck within minutes, diagnostic tablet in hand. Chief Petty Officer Brenner followed two steps behind and passed her a calibration wrench she had not yet reached for. Koss took it without acknowledgment. Brenner withdrew to the access panel.
 
 "All hardware subsystems nominal," she reported after the first pass. "Temperature, power distribution, alignment—all within specification. No drift indicators. No fault codes."
 
@@ -128,7 +146,7 @@ Koss met Calder's eyes. "No physical explanation for instrument failure. Hardwar
 
 **Event 5 — Command Confirmation Discrepancy**
 
-Calder returned to the command console and composed a verification request to Fleet Operations through L-3 relay. He included mission identifier 4471-S, current positional data, and the dual-fix anomaly report. Thessaly reviewed the packet before transmission.
+Calder returned to the command console and composed a verification request to Fleet Operations through L-3 relay. He included mission identifier 4471-S, current positional data, and the dual-fix anomaly report. Thessaly reviewed the packet before transmission, straightening the corner he had folded wrong.
 
 "Nothing omitted," she said. "Nothing editorialized."
 

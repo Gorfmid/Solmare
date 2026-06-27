@@ -1,4 +1,4 @@
-
+﻿
 # CENTRAL MYSTERY (BOOK ONE)
 
 ## Working Hypothesis
@@ -17,3 +17,13 @@ Every chapter must either:
 - Reinforce normality breaking
 - Introduce contradiction
 - Escalate uncertainty
+
+---
+
+## Resolution Boundaries (Book One Finale)
+
+**Must resolve by end of Book One:** what the anomaly does; how to survive it; that Fleet concealed parts of it.
+
+**Must remain open after Book One:** origin; intent; whether Solmare is unique; whether similar regions exist elsewhere.
+
+Full doctrine: `../../../Writing_System/Series_Principles/series_principles.md`

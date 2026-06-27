@@ -1,4 +1,4 @@
-# BOOK ONE CORE PREMISE
+﻿# BOOK ONE CORE PREMISE
 
 ## TITLE
 Solmare Quadrant: The Kestrel Veil Incident
@@ -82,8 +82,11 @@ Each crew member represents a distinct interpretive model of reality:
 - Navigator → spatial coherence model
 - Engineer → physical continuity model
 - Communications Officer → transmission integrity model
+- Tactical Systems Officer → threat pattern coherence model
 
 These models increasingly diverge under anomaly pressure.
+
+See also: `Characters/Primary_Crew/ensemble_design.md`, `relationship_matrix.md`, `crew_culture.md`
 
 ---
 
@@ -113,3 +116,5 @@ Book One determines whether:
 
 - Signal Deviation is a correctable systemic error
 - or an emergent property of reality structure itself
+
+**Series resolution doctrine:** see `series_principles.md` — Book One must resolve operational truth (what the anomaly does, how to survive, why Fleet concealed) without resolving cosmological origin (creator, intent, uniqueness, galactic prevalence).

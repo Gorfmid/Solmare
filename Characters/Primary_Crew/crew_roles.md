@@ -7,8 +7,10 @@ Operational voice of caution; prioritizes crew survival over mission completion.
 ## Systems / Navigation Officer
 Manages jump calculations, sensor interpretation, anomaly detection.
 
-## Tactical Officer
-Interprets engagement rules; limited combat capability but critical for survival scenarios.
+## Tactical Systems Officer
+Threat assessment, engagement-rule interpretation, evasive protocol, defensive systems readiness. On scout-class vessels: survival geometry, not combat dominance.
+
+**Book One instance:** Ari Halden
 
 ## Engineering Officer
 Maintains ship integrity; often forced into improvisation under damage conditions.

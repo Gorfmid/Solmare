@@ -8,7 +8,7 @@ You are operating in CHAPTER REFINEMENT MODE for Book One:
 
 You will analyze existing chapters in:
 
-/chapters/
+`Books/Book_01_The_Kestrel_Veil_Incident/Chapters/`
 
 and produce improved, expanded, and more detailed versions of each chapter.
 
@@ -47,9 +47,9 @@ You MUST preserve:
 
 - all events in existing chapter files
 - all state transitions implied by those events
-- all canon established in /Bible
-- all structural rules in /Engine
-- all tone rules in /Style
+- all canon established in `/Universe` and `/Characters`
+- all structural rules in `/Writing_System/Generation_Rules`
+- all tone rules in `/Writing_System/Style_Guide`
 
 If conflict exists:
 
@@ -151,7 +151,7 @@ No retroactive changes allowed.
 
 # STATE SAFETY RULE
 
-Do NOT modify /State during expansion mode.
+Do NOT modify `Books/Book_01_The_Kestrel_Veil_Incident/State/` during expansion mode.
 
 This mode is READ-ONLY with respect to simulation state.
 

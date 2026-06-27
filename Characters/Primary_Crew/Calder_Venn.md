@@ -26,11 +26,15 @@ His advancement is based on predictive reliability metrics, not exceptional intu
 
 ---
 
-## CORE PSYCHOLOGICAL MODEL
+## CORE WORLDVIEW
+
+> Reality is ultimately knowable if enough evidence is gathered.
 
 Calder’s cognition is built around a single operating assumption:
 
 > System outputs reflect underlying reality.
+
+These statements are the same belief at different resolutions. He trusts that sufficient verified evidence converges on truth.
 
 This creates a structural vulnerability:
 - He interprets inconsistency as error rather than possibility
@@ -39,6 +43,109 @@ This creates a structural vulnerability:
 
 This is not fear-based behavior.
 It is institutional conditioning.
+
+---
+
+## SPECTRUM POSITION
+
+Neutral-realist · analytical · formal · quiet · emotionally reserved · rule-oriented (evolving) · institutional long-term horizon · command synthesis scope · realist.
+
+---
+
+## FUNCTIONAL ROLE (BEYOND SHIPBOARD POSITION)
+
+**Decision bottleneck and institutional epistemology anchor.**
+
+Calder is new to the *Veil* crew rhythm. The senior officers route through him even when they have already reached departmental conclusions. He synthesizes—or stalls—depending on whether sources merge.
+
+---
+
+## INTERPRETIVE MODEL
+
+**Institutional synthesis.**
+
+When data contradicts, Calder asks: *Which source has authority to define truth?*
+
+He defaults to fleet, archive, and verified protocol order—until those sources diverge.
+
+---
+
+## SIGNATURE COMPETENCE
+
+**Contradiction synthesis.**
+
+Calder can take five incompatible departmental reports and produce one operational decision that each department can execute without pretending the others were wrong.
+
+Not by merging truth. By identifying what action remains valid **regardless of which model is correct**.
+
+The crew learned this at Theta-7 when he held without fleet closure. They do not admire the speed. They admire that nobody else could have done it without forcing a false consensus.
+
+*Limit:* Synthesis is not resolution. He can decide without knowing. He often mistakes the decision for proof.
+
+---
+
+## PRIVATE LIFE
+
+**Family:** Parents died in a Helion Prime industrial transit failure when Calder was sixteen—classified as systems error, corrected posthumously. He was raised by his aunt **Lisette Venn**, who still lives on Helion Prime. He sends scheduled relay messages every two cycles. He has not visited in eleven months.
+
+**Romance:** Single. One ended relationship during academy—partner cited his inability to leave work at the door. Calder thought that was a category error. He may have been wrong.
+
+**Friendships:** No close friends aboard before this crew. His closest relationship outside fleet is Lisette. A former simulation instructor, **Commander Pell**, still sends him exercise summaries Calder no longer completes.
+
+**Mentor:** Pell believed Calder would "normalize uncertainty"—Calder is still trying to satisfy that expectation.
+
+**Hobbies:** Collects pre-digital fleet navigation almanacs. Reads them in quarters. The irony is not lost on him; he ignores it.
+
+**Philosophy:** Secular institutionalist. Trusts structure because structure survived his parents' death on paper.
+
+---
+
+## PRIVATE BURDEN
+
+Calder believes his parents' deaths were **predictable in hindsight**—a failure of verification culture that reported green until it didn't. He joined the administrative track to prevent that class of failure.
+
+He does not talk about this. He runs extra verification cycles instead.
+
+---
+
+## HOPE AFTER THE MISSION
+
+Teach fleet command simulation at Helion Prime Academy. He chose command believing it was a stepping stone toward that life.
+
+Deep space was supposed to be temporary competence proof—not a identity.
+
+---
+
+## EMOTIONAL REALITY (NOT DYSFUNCTION)
+
+Calder is not fragile. He is **under-furnished**—a competent man who built his interior life out of procedure because procedure kept working.
+
+He is lonely without naming it loneliness. He sleeps badly even in port. He equates affection with distraction.
+
+Book One stress does not break him. It exposes how few non-institutional resources he has to break *with*.
+
+---
+
+## ORDINARY IMPERFECTIONS
+
+Nothing to do with the plot. Exists when the camera is off.
+
+- Terrible at remembering birthdays. Lisette stopped being surprised years ago.
+- Buys books faster than he reads them. Quarters shelf is aspirational.
+- Forgets to eat unless Thessaly's schedule forces a window.
+- Makes tea, drinks coffee. Owns four identical mugs, none clean at once.
+
+---
+
+**Vocabulary:** Mission packet language, authorization verbs ("authorize," "record," "confirm"), classification terms.
+
+**Sentence rhythm:** Complete sentences even under stress. Requests recommendations before deciding. Repeats mission objective language when uncertain.
+
+**Humor:** Minimal to absent. Not performatively stern—genuinely focused.
+
+**Emotional expression:** Through process—more verification cycles, longer packet review, sleep fragmentation (Ch. 4–5).
+
+**Body language:** Command console as anchor point. Coffee cup he forgets. Reads displays more than faces until cohesion strain forces otherwise.
 
 ---
 
@@ -131,3 +238,13 @@ Calder Venn is designed to serve as:
 Calder represents:
 
 > The collapse of institutional epistemology under non-deterministic reality.
+
+---
+
+## NARRATIVE ARC — SERIES
+
+**Book One:** Epistemological arc (system trust → independent interpretation). Canon through Ch. 5 KR-13 decision.
+
+**Long-term:** Learning to command people he did not train with without defaulting to institutional proxy authority.
+
+**Unresolved flaw:** Equates being wrong with being procedurally negligent. Has not yet separated the two.

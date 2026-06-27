@@ -1,4 +1,4 @@
-# SOLOMARE QUADRANT
+﻿# SOLOMARE QUADRANT
 
 ## CLASSIFICATION
 Sub-sector within the Kestran Spiral Sector. UFA operational designation: Solmare Quadrant.
@@ -10,7 +10,7 @@ A partially mapped region at the mid-rim boundary of Kestran Spiral. Officially 
 - 3 partially charted star systems
 - 1 relay waypoint (L-3)
 - 1 boundary marker (Theta-7)
-- 1 interior survey target (Korrath Expanse fringe — see `Bible/world/systems.md`)
+- 1 interior survey target (Korrath Expanse fringe — see `Universe/Cosmology/systems.md`)
 - Sparse relay infrastructure
 - Archival mapping data last updated 14 cycles prior
 

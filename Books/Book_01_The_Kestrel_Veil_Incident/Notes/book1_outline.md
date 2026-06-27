@@ -1,4 +1,4 @@
-
+﻿
 # BOOK ONE OUTLINE
 
 ## Title (Placeholder)
@@ -11,4 +11,9 @@ A newly promoted cadet is given command of a scout vessel on a routine reconnais
 Scout mission → anomaly detection → communication degradation → isolated survival decisions → forced autonomy → promotion
 
 ## Ending
-Successful mission completion with partial data recovery and first confirmed anomaly event classified as non-random systemic failure.
+
+Immediate crisis resolved. Partial operational truth established: what the anomaly does, how to survive under contradictory observation, and that Fleet concealed prior knowledge.
+
+Cosmological questions remain open: origin, intent, uniqueness of Solmare, existence of similar regions elsewhere.
+
+See `../../../Writing_System/Series_Principles/series_principles.md` for full resolution boundaries.

@@ -1,77 +1,69 @@
 # CURRENT STATE — BOOK ONE
 
-Last updated: Post-Chapter 5 (validated batch)
+Last updated: Post-Chapter 24 — **BOOK ONE COMPLETE**
 
 ---
 
 ## SHIP STATE
-- hull_integrity: 100
-- system_status: degraded
-- sensor_reliability: low
-- ftl_drive_status: operational
-- weapon_system_status: operational
+- hull_integrity: ~79 (scars persist — ring three micro-fractures stable; no magic repair)
+- system_status: heavily degraded (mast segment four 41%; Margaret cold manual ~recovery ongoing; control bus destroyed)
+- sensor_reliability: very low/bifurcated + dual-truth witness validated (SO-M4 structural persistent)
+- ftl_drive_status: operational (reduced efficiency)
+- weapon_system_status: partial (Margaret cold; restraint through exit — Hale final moment)
+- emissions_control: severely compromised; visibility permanent post-Last Transmission; exterior routing war continues
 
 ## CREW STATE
-- cohesion: strained
-- stress (Captain): high
-- stress (XO): medium-high
-- stress (Navigator): high
-- stress (Engineer): medium
-- stress (Comms): high
-- stress (Tactical): low
+- cohesion: dead reckoning welded → **Book One complete anchor** (trust exercise complete; relief enforced)
+- stress (Captain): critical → functional post-hold (Calder arc complete; sleep debt acknowledged)
+- stress (XO): high (enablement role fulfilled)
+- stress (Navigator): high (Reyes **Fold navigator** recognized; exterior reference witness mode)
+- stress (Engineer): very high (Brenner junction survival; Koss ring three stable)
+- stress (Comms): elevated (Park/Cole peel pair sustainable; Cole relay success)
+- stress (Tactical): medium-high (Halden board quiet; pursuit inactive)
+- stress (Okonkwo): functional (cost ledger complete; sleep enforcement)
 
 ## COMMAND STATE
-- mission_clarity: low
-- command_confidence: superseded for transit decisions (observational authority active)
-- orders_consistency: inconsistent (text and directive content)
+- mission_clarity: **mission 4471-S complete** (reframed — dual-truth verification succeeded)
+- command_confidence: **crew-trust complete** (external authority abandoned; Calder blocking rules abandoned)
+- orders_consistency: crew procedure supersedes institutional headers; Lines of Loyalty govern hold
 
 ## ANOMALY STATE
-- anomaly_present: true
+- anomaly_present: true (understood, not resolved cosmologically)
 - anomaly_stage: 3
-- anomaly_effect_type: spatial_mapping_contradiction; recursive_log_conflict
-- anomaly_conflict_level: high
+- anomaly_effect_type: observation-dependent reality mapping understood; Fold transited; Library read; First Truth acquired
+- anomaly_conflict_level: **immediate threat ended** (pursuit misreferenced inactive)
 
 ## POLITICAL STATE
-- empire_trust_level: high
-- command_transparency: standard
-- faction_conflict_level: low
+- empire_trust_level: fractured mirror (Last Transmission aftermath propagating)
+- command_transparency: permanently changed
+- faction_conflict_level: high exterior (routing war continues — **sequel consequence**)
 
 ## KNOWLEDGE STATE
 - confirmed_facts:
-  - Kestrel Veil assigned to Solmare Quadrant sensor verification mission
-  - Ship hardware nominal; contradictions at observation/record layers
-  - Signal Deviation conditions present from Theta-7 onward
-  - Multi-system coordinate disagreement (sensor vs command)
-  - Relay echo altered coordinate data in transit
-  - Fleet acknowledgments non-responsive to SDE-1 content
-  - Recursive log conflict aboard Kestrel Veil
-  - Simultaneous opposing fleet directives with identical metadata
-  - Multi-source contradiction reproduced at Korrath fringe
-  - Archive aligns with primary array only
-  - Fleet chart fragment matches no onboard source
-  - Calder executed KR-13 transit on primary-array authority without fleet confirmation
-  - Relay contact lost at 2231
+  - **First Truth** operational (observation-dependent mapping; merge fails; Library/Fold/suppression/civilizational divergence understood)
+  - Last Transmission sent; partial fractured reception (KISU/civilian parse; Cartography hostile classify)
+  - Battle for Reality won by preserving contradiction
+  - Dead reckoning through crew trust; Reyes Fold navigator
+  - Membrane exit Theta-7 adjacent; pursuit ended
+  - Walsh historical record complete (column L/D)
+  - Humanity permanently changed; witness networks propagating
 - suspected_facts:
-  - Transmission integrity compromised between Theta-7 and Fleet Operations
-  - Internal record systems affected by Signal Deviation conditions
-  - Relay degradation may contribute to chart fragment variance
-  - Fleet unaware of ship position divergence from last hold directive
+  - Solmare may not be unique (KISU fragment hint — column D suspect log; not proof)
+  - Return grammar may remain partial; local observation networks growing
 - contradicted_facts:
-  - Reference star SO-M4 single-position assumption
-  - Theta-7 archived coordinate as sole valid fix
-  - Acknowledgment implies parsed receipt
-  - Master log represents unified ship history
-  - Archive as neutral arbiter between sensor arrays
-  - Operational decisions require unified external validation
+  - Dual fix must reconcile for mission success
+  - Fleet unified receipt required for resolution
+  - Book One requires unfinished threat
 
 ## LOCATION
-- Korrath Expanse KR-13 exit coordinates
+- Solmare Quadrant exterior hold — Theta-7 adjacent (post-membrane exit)
 
 ## MISSION STATUS
-- Isolated at KR-13; relay contact lost; observational authority protocol in effect; KR-12 partial data in four segregated buffers; KR-13/14 unmapped
+**BOOK ONE COMPLETE.** *The Kestrel Veil Incident* resolved. Immediate threat ended. Mission complete. Crew intact. Witness preserved. Damage persists. Wonder intact. Sequel hook from **consequences** (routing war, propagation, possible other sectors) — not unfinished plot.
 
 ## BATCH EXECUTION RECORD
-- Chapters generated: 2, 3, 4, 5
-- Chapter 1: untouched (immutable canon)
-- Total regen attempts: 1 (Chapter 5, Phase 7 meta language)
-- All chapters validated PASS before state commit
+- Chapters 1–24 complete
+- Act I (Ch. 1–5): Verification
+- Act II (Ch. 6–11): The Veil Opens
+- Act III (Ch. 12–18): Fractured Reality
+- Act IV (Ch. 19–24): The Solmare Quadrant — **Book One closed**

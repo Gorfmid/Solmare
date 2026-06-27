@@ -1,0 +1,5 @@
+﻿C:\Users\gorfm\Documents\projects\Solmare-Quadrant\Books\Book_01_The_Kestrel_Veil_Incident\Act_Outlines\chapter_11_generation_directive.md: chapters/chapter_
+C:\Users\gorfm\Documents\projects\Solmare-Quadrant\Books\Book_01_The_Kestrel_Veil_Incident\Manuscript\README.md: chapters/chapter_
+C:\Users\gorfm\Documents\projects\Solmare-Quadrant\Writing_System\Orchestrator\MASTER_ORCHESTRATOR_PROMPT.md: orchestrator/
+C:\Users\gorfm\Documents\projects\Solmare-Quadrant\Writing_System\Orchestrator\MASTER_ORCHESTRATOR_PROMPT.md: chapters/chapter_
+C:\Users\gorfm\Documents\projects\Solmare-Quadrant\README.md: The Kestrel Veil Incident/

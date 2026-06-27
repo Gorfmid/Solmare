@@ -22,6 +22,20 @@ Cadet Captain Calder Venn faced a decision window. Relay degradation trend indic
 
 He did not request another fleet confirmation. That omission was itself a decision he was only beginning to recognize.
 
+In the galley alcove an hour earlier, Park had refilled Halden's coffee without asking. Halden had not joked. Park had not commented. Thessaly had eaten half a ration bar standing, reviewed Walsh's watch notebook against her own schedule, and left before Calder arrived. He had seen the notebook on the table and not understood why it mattered.
+
+Okwelu found him in Corridor C reviewing abort transit medical constraints. He had paused beside the old docking dent—the one the crew stepped around without looking—and she did not comment on it.
+
+"Sleep fragmentation unchanged," she said. "Third notice. Not a recommendation anymore."
+
+"Acknowledged."
+
+"That is not compliance."
+
+"No," Calder said. "It is acknowledgment."
+
+She left him the summary packet anyway.
+
 He reviewed primary-array navigation solution and redundant-array shadow log. He reviewed Thessaly's abort solution. He did not review fleet chart fragment as decision input. The fragment remained in its segregated buffer, fourteen objects that matched nothing, useful now only as evidence of unreliability.
 
 ---
@@ -41,6 +55,8 @@ Determine transit action before relay cutoff: withdraw to L-3 with preserved dat
 Park presented the decline curve on the comm display—a clean downward slope no one on the command deck wanted to see.
 
 "Full relay loss projected in nine to eleven hours," he said. "Based on current degradation rate."
+
+Cole, at the secondary relay panel, had already logged the projection timestamp. Park did not look at her. She did not look at him. The numbers matched.
 
 "Last fleet transmission?"
 
@@ -66,6 +82,8 @@ Thessaly stood at the command console with the abort solution displayed.
 
 "I recommend abort to L-3," she said. "Declining relay. Recursive log conflict unresolved. Crew cohesion strained. We preserve crew and data. We lose KR-13 and KR-14."
 
+She did not look at Park. Park had told her, off-watch, that Halden had stopped joking two cycles ago and that Ortega had started eating at his station again. Thessaly had logged it as cohesion strain before she logged it as recommendation.
+
 Calder turned to Koss. "Data loss risk on abort transit?"
 
 "None if buffers remain segregated and preserved," Koss said.
@@ -84,7 +102,7 @@ The command deck went quiet.
 
 Thessaly held his gaze. "Aye, Captain." The acknowledgment carried no endorsement. Calder did not ask for one.
 
-Park logged the decision timestamp locally only. No outbound transmission. The choice existed first in the ship's isolated record, nowhere else.
+Park logged the decision timestamp locally only. No outbound transmission. The choice existed first in the ship's isolated record, nowhere else. He did not refill Halden's mug. Calder noticed that too, and did not ask why.
 
 **Event 5 — Jump Execution**
 

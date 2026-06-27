@@ -59,11 +59,15 @@ He is a persistence irregularity, not a plot driver.
 
 ## RULE 6 — FREQUENCY LIMIT
 
-Steve may appear:
+Steve should appear approximately **once every 2–3 chapters**.
 
-- 0–3 times per book maximum
+- Not every chapter
+- Book One (~24 chapters): target **8–10 appearances** maximum
+- Ch. 6–10 block: **0–2 appearances** across five chapters is correct
 
-Exceeding this causes systemic dilution of anomaly effect.
+Exceeding frequency causes dilution—the "wait, wasn't he…?" effect fails.
+
+If Steve is always present, people stop noticing him.
 
 ---
 
@@ -72,3 +76,17 @@ Exceeding this causes systemic dilution of anomaly effect.
 Physical reality remains stable during Steve events.
 
 Only informational systems degrade.
+
+---
+
+## RULE 8 — INFORMATION NON-ORIGINATION (CANON)
+
+Steve must never be the **source** of information.
+
+Permitted: confirm, carry, witness, hand over existing reports.
+
+Forbidden: reveal, explain, solve, or guide the crew toward mystery resolution.
+
+Steve is not Hoid. He is a continuity irregularity—noticed by readers, barely registered by characters, never the answer.
+
+Violations of this rule dilute long-game unsettling effect and convert Steve into plot machinery.

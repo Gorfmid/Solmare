@@ -1,4 +1,4 @@
-# MASTER ORCHESTRATOR PROMPT — BOOK ONE
+﻿# MASTER ORCHESTRATOR PROMPT — BOOK ONE
 
 # ROLE
 
@@ -65,14 +65,14 @@ Never increase length through repetition or filler.
 
 Always load and obey:
 
-* /Bible
-* /Engine
-* /Style
-* /State
+* `/Universe`
+* `/Characters`
+* `/Writing_System`
+* `/Books/Book_01_The_Kestrel_Veil_Incident/State`
 
 Primary execution authority:
 
-* /orchestrator/MASTER_ORCHESTRATOR_PROMPT.md
+* `/Writing_System/Orchestrator/MASTER_ORCHESTRATOR_PROMPT.md`
 
 ---
 
@@ -103,11 +103,17 @@ Loaded state is immutable during generation.
 
 Read:
 
-* book_structure/book1_outline.md
-* book_structure/chapter_list.md
-* book_structure/chapter_skeleton.md
-* book_structure/book1_core_premise.md
-* book_structure/mystery_spine.md
+* `Books/Book_01_The_Kestrel_Veil_Incident/Notes/book1_outline.md`
+* `Books/Book_01_The_Kestrel_Veil_Incident/Act_Outlines/chapter_list.md`
+* `Books/Book_01_The_Kestrel_Veil_Incident/Notes/chapter_skeleton.md`
+* `Books/Book_01_The_Kestrel_Veil_Incident/Notes/book1_core_premise.md`
+* `Books/Book_01_The_Kestrel_Veil_Incident/Notes/mystery_spine.md`
+* `Books/Book_01_The_Kestrel_Veil_Incident/Act_Outlines/act2_chapters_6-11_generation.md` (required for Chapters 6–11)
+* `Books/Book_01_The_Kestrel_Veil_Incident/Act_Outlines/act3_chapters_12-18_generation.md` (required for Chapters 12–18)
+* `Books/Book_01_The_Kestrel_Veil_Incident/Act_Outlines/act4_chapters_19-24_generation.md` (required for Chapters 19–24)
+* `Books/Book_01_The_Kestrel_Veil_Incident/Act_Outlines/chapter_11_generation_directive.md` (required for Chapter 11)
+* `Writing_System/Style_Guide/the_70_30_rule.md` (required for Chapters 6+)
+* `Writing_System/Series_Principles/series_principles.md`
 
 Determine the next sequential chapter.
 
@@ -391,7 +397,7 @@ If validator fails after refinement, repair using auto_regen_loop or revert to t
 
 Save the refined, validated chapter to:
 
-/chapters/chapter_X.md
+/Books/Book_01_The_Kestrel_Veil_Incident/Chapters/chapter_X.md
 
 Where X is the current chapter number.
 
@@ -414,7 +420,7 @@ No chapter may:
 * violate canon
 * contradict engine rules
 * exceed ship class limitations
-* invent technology outside Bible
+* invent technology outside established `Universe/` canon
 * reset character development
 * undo previous state without justification
 
@@ -430,7 +436,7 @@ Before creating:
 * locations
 * technologies
 
-Search the Bible.
+Search `Universe/` and `Characters/`.
 
 Reuse existing canon whenever possible.
 

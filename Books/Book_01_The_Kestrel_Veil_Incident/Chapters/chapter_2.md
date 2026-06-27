@@ -12,11 +12,15 @@
 
 The *Kestrel Veil* had held position at boundary marker Theta-7 for eleven hours under local verification protocol. Outside the forward viewports, SO-M4 held fixed in the deep-field display—fixed twice, in two places, neither position yielding to the other. Inside the hull, conditions remained stable. Hull integrity at full nominal. Propulsion stood ready. Both sensor arrays continued to report verified but mutually exclusive fixes for the reference star.
 
-Chief Engineer Elara Koss reported no hardware drift across three diagnostic cycles. Each cycle had taken forty minutes. Each cycle had returned the same conclusion: instruments functional, outputs irreconcilable.
+Chief Engineer Elara Koss reported no hardware drift across three diagnostic cycles. Each cycle had taken forty minutes. Each cycle had returned the same conclusion: instruments functional, outputs irreconcilable. Brenner had been present for all three without being asked, passing tools before Koss reached for them, listening to bearing harmonics Calder could not distinguish from background hum.
 
 Navigator Damon Reyes maintained dual positional data in parallel buffers without merge authorization. On his screen, the two SO-M4 fixes appeared as separate columns, green indicators steady on both. Calder had looked at those columns so often the numbers had ceased to feel abstract. They felt like a problem awaiting a procedure he had not yet been taught.
 
-Communications Officer Jun Park held all relay traffic in sequential archive. Executive Officer Mira Thessaly had divided the watch into two-hour blocks. Calder had not slept through a full block. Cadet Captain Calder Venn had not received follow-up directive from Fleet Operations since the initial confirmation transmission containing the third coordinate set.
+Communications Officer Jun Park held all relay traffic in sequential archive. Executive Officer Mira Thessaly had divided the watch into two-hour blocks. Calder had not slept through a full block. His eyes burned in a way he attributed to display glare and not to exhaustion.
+
+Tactical Systems Officer Ari Halden had taken the third watch block without complaint and without the jokes Calder had heard her make off-watch in the galley. The absence registered before he could name it.
+
+Cadet Captain Calder Venn had not received follow-up directive from Fleet Operations since the initial confirmation transmission containing the third coordinate set.
 
 Sensor reliability registered medium. Command confidence registered medium, though Calder could feel the second metric thinning each time he opened the comparison display. The mission objective remained formally unchanged. The method of execution did not.
 
@@ -40,7 +44,9 @@ Calder intended to resolve the impasse through institutional process. Report fir
 
 "Compile per SDE-1 format," Calder told Park.
 
-Park pulled the Fleet Intelligence reporting template onto the secondary display. "Raw sensor data attachment?"
+Park pulled the Fleet Intelligence reporting template onto the secondary display. Relay Technician Cole had already staged the outbound buffer on the secondary panel—index aligned, attachment slots open. Park did not comment on the staging. Cole did not comment on Park not commenting.
+
+"Raw sensor data attachment?" Park asked.
 
 "Both fixes," Calder said. "No editorial selection. Reyes?"
 
@@ -86,7 +92,7 @@ Six hours into the hold, Reyes called Calder to the navigation station.
 
 Calder looked at Koss. She was already running a positional stability check on the mounting assemblies.
 
-"Neither array has been physically repositioned," Koss said. "Both remain verified."
+"Neither array has been physically repositioned," Koss said. "Both remain verified." Brenner, at the access panel below the array housing, did not look up. He had already been listening.
 
 One array moved in data. One did not. Both claimed accuracy. Calder asked Reyes to continue logging at fifteen-minute intervals.
 
@@ -100,7 +106,7 @@ Calder crossed to the comm station and read the comparison himself. The original
 
 "Preserve the echo," he said. "No overwrite. No merge with outbound archive."
 
-"Preserved."
+"Preserved," Park said. Cole mirrored the buffer index on the secondary panel without being asked—the same staging discipline Calder had seen at L-3, now routine where he was still learning the steps.
 
 **Event 5 — Directive Delay**
 
@@ -135,6 +141,12 @@ Calder read it twice. Acknowledged was not parsed. Proceed was not reconciled. T
 Calder looked at the jump solution Reyes had prepared and not executed. Interior Solmare space lay beyond Theta-7, sparsely relayed, sparsely charted. He had a directive to proceed and no basis for knowing what proceed meant in coordinate terms.
 
 He ordered the fifth diagnostic cycle scheduled. He did not authorize transit.
+
+Thessaly found him at the command console forty minutes later. "Rest cycle in ninety minutes," she said. "Non-negotiable. Two hours."
+
+"I'll take the block after the cycle completes."
+
+"You will take the block when I call it." She did not wait for acknowledgment. Calder watched her go and wondered when the ship had learned to schedule him more reliably than he scheduled himself.
 
 ---
 

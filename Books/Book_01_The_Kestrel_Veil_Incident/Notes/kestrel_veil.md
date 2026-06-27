@@ -70,10 +70,10 @@ It prioritizes:
 - 1 Captain (Calder Venn)
 - 1 Executive Officer
 - 1 Navigator / Astrometrics Officer
-- 1 Tactical Systems Officer
+- 1 Tactical Systems Officer (Ari Halden)
 - 1 Chief Engineer
 - 1 Communications / Relay Officer
-- Support technicians (variable count)
+- Support technicians (8 named — see `support_crew.md`)
 
 ---
 
@@ -85,6 +85,27 @@ It prioritizes:
 Usage rule:
 - Formal reports, logs, and external transmissions → Kestrel Veil
 - Intra-crew communication → The Veil
+
+---
+
+## Physical Scars (Ship Character)
+
+The *Veil* is not pristine. Refit acceptance cleared systems—not cosmetic history.
+
+These are **lived-in details**, not plot elements. The ship equivalent of Koss's half-finished repair projects. Establish in prose once; let recur without explanation.
+
+| Scar | Location | Crew Relationship |
+|------|----------|-------------------|
+| **Corridor C dent** | Port-side bulkhead, mid-section | Old docking accident (pre-Calder). Documented, paid out, never repaired—cosmetic, non-structural. Crew step around it without looking. New crew walk into the conversation about it once. |
+| **Door 7-C stick** | Environmental door, Corridor C junction | Binds unless kicked at the lower-left seam. Brenner's kick is standard procedure. Maintenance logs say "cleared." Door disagrees. |
+| **Coolant stain display** | Bridge secondary status panel (engineering readout) | Faint discoloration from coolant leak three cycles ago—contained, systems nominal, stain remains. Koss has certified the panel; she has not cleaned the stain. |
+| **The squeak chair** | Command deck, secondary navigation position (Tanaka's usual seat) | Everyone says it squeaks. Maintenance insists it does not. Tanaka insists it does. Ortega once recorded it; results inconclusive. Chair remains. |
+
+**Rule:** Scars do not fail during crisis unless dramatically intentional. They are texture, not Chekhov's gun.
+
+**Rule:** Calder notices these before he learns not to comment on them.
+
+See also: `crew_gravity.md` (Brenner/door 7-C habit).
 
 ---
 

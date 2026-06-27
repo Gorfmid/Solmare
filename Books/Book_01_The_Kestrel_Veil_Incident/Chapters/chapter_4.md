@@ -14,7 +14,11 @@ The *Kestrel Veil* had remained at Korrath Expanse fringe for nine hours with ma
 
 Three positional models for SO-M4 persisted on Reyes's navigation display. Star field alignment unresolved. KR-12 topology conflict unresolved—eleven objects, nineteen objects, forty-one percent overlap, all of it verified, none of it mergeable. Engineering recalibration entry at 0447 remained in master log only. Fleet continue and hold directives remained buffered without merge.
 
+On the bridge secondary display, a faint coolant stain marked the engineering readout panel—contained years ago, certified nominal, never cleaned. Tanaka's chair squeaked when she shifted weight. Maintenance logs said it did not. Tanaka said it did.
+
 Cadet Captain Calder Venn had slept two hours in four segments. He returned to the command console reviewing the same four data layers without convergence. The coffee in his hand had gone cold. He had not noticed when.
+
+Dr. Okwelu had told him, in the passageway outside medical, that his sleep fragmentation was medically unsustainable. Calder had acknowledged the assessment. He had not changed his watch pattern. Okwelu had not looked surprised.
 
 "Recommendations," he said.
 
@@ -25,6 +29,8 @@ Reyes: "Complete the fringe sweep. Primary-array lead with redundant shadow logg
 Koss: "No action dependent on master log until manual reconciliation completes. We preserve record integrity."
 
 Park, from the comm station: "Relay signal strength toward L-3 is declining. Twelve percent below fringe arrival baseline."
+
+Halden, from the tactical station: "If we withdraw on degraded relay, we lose interior data before we lose the crew. If we sweep on split arrays, we risk navigation on a model that may be locally consistent and globally wrong." She did not smile. Calder had learned to read that as seriousness, not pessimism for its own sake.
 
 Calder listened to each assessment. Each recommendation was procedurally defensible. None aligned with the others. He had begun to understand that defensibility was no longer the same as correctness—only the best available substitute.
 
@@ -53,6 +59,8 @@ Calder studied the chart. Eleven objects. The primary array had logged eleven at
 **Event 2 — Sweep Execution**
 
 Reyes executed the sweep per primary-array lead protocol Calder had approved. Calder watched the contact indicators accumulate across the forty-minute window.
+
+Ortega tracked spectral variance at the secondary station, calling increments in the clipped rhythm Reyes preferred. Once, when a redundant-only contact appeared, Ortega started to speak, checked Reyes's profile, and waited for the tiny nod before adding the spectral readout. Reyes gave the nod without turning.
 
 "Primary array: eleven objects," Reyes reported at completion. "Redundant array: nineteen. Spectral analysis—three contacts registered on redundant only. Verified on redundant. Absent on primary."
 
@@ -90,13 +98,15 @@ Park ran the comparison. The fragment matched neither primary sweep, nor redunda
 
 Calder convened the senior officers with the four data layers displayed.
 
-Thessaly reviewed the fleet fragment first. "Treat as corrupted input. Do not merge. Do not navigate from it."
+Thessaly reviewed the fleet fragment first. She did not touch the merge control. "Treat as corrupted input. Do not merge. Do not navigate from it."
 
-Reyes: "Primary-array sweep is local ground truth. It matched archive. It matched our approved protocol."
+Reyes kept his eyes on the primary sweep column. "Primary-array sweep is local ground truth. It matched archive. It matched our approved protocol."
 
-Koss: "I won't certify any output until log reconciliation completes. Master log still contains entries my station doesn't corroborate."
+Koss had her diagnostic tablet open but did not offer certification language. "I won't certify any output until log reconciliation completes. Master log still contains entries my station doesn't corroborate."
 
-Park: "Relay signal strength dropped twelve percent during the transmission window. I can't separate content variance from channel variance."
+Park's relay display showed the transmission window overlay. "Relay signal strength dropped twelve percent during the transmission window. I can't separate content variance from channel variance."
+
+Halden leaned against the bulkhead, arms folded. "If we navigate from the fragment and it's wrong, we die embarrassed. If we navigate from primary and it's wrong, we die with better local logs. Pick your asymmetric downside."
 
 No officer changed position after discussion. Calder had not expected them to. Each model was internally consistent. Consistency, he was learning, was local.
 
@@ -107,6 +117,8 @@ Calder terminated the sweep at the KR-12 boundary. KR-13 and KR-14 remained unma
 "Preserve all sweep data in segregated buffers," he said. "Primary. Redundant. Archive. Fleet fragment. No merge authorized."
 
 Reyes began the segregation. Four copies of the same sector, four incompatible truths. Calder watched the buffers populate and said nothing.
+
+Koss, passing behind his console on the way to engineering, said quietly, "Segregated, not lost." Calder filed the phrase without using it himself.
 
 ---
 
