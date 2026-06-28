@@ -18,11 +18,23 @@ description: "Book One of The Solmare Cycle. A scout crew discovers that reality
 *Cover placeholder - replace with final artwork for retail editions.*
 
 \newpage
-# CHAPTER 1 — VERIFICATION RUN
 
-## VERIFICATION RUN
+## Contents
 
-### SECTION 1 — STATUS QUO
+*(Table of contents generated in export editions.)*
+
+
+\newpage
+
+────────────────────────────────────────
+
+# ~ CHAPTER ONE ~
+
+## Verification Run
+
+────────────────────────────────────────
+
+
 
 Berth 14-C at Helion Prime held the *Kestrel Veil* in standard pre-mission configuration. The docking clamps had released at 0612; the ship rested on internal power only, hull integrity registered at full nominal across all monitored sections. On the command deck, status panels displayed green across propulsion, life-support, and defensive subsystems. The long-range spectral array had completed its cycle check without fault. The jump drive reported operational status on both primary and redundancy layers, calibration drift within acceptable margins.
 
@@ -66,7 +78,6 @@ In the galley, someone had adjusted the standard ration output—slightly more s
 
 ---
 
-### SECTION 2 — OBJECTIVE
 
 **Primary Mission Objective (UFA Fleet Operations Directive 4471-S):**
 
@@ -80,9 +91,7 @@ Calder Venn understood the objective in institutional terms. The *Kestrel Veil* 
 
 ---
 
-### SECTION 3 — INCIDENT CHAIN
 
-**Event 1 — Departure and First Jump**
 
 The *Kestrel Veil* cleared Helion Prime orbital control at 0712. Calder watched the planet recede on the forward display—industrial sectors visible as faint luminescence against the dark—until Reyes initiated the jump sequence to relay waypoint L-3.
 
@@ -104,7 +113,6 @@ The call happened in order. Calder did not yet know the crew treated that sequen
 
 "Mark when L-3 relay check completes."
 
-**Event 2 — Relay Latency at L-3**
 
 At L-3, Park ran the standard relay handshake before authorizing the interior jump. At the secondary relay station, a technician watched Park's display rather than her own panel until he glanced over; she adjusted without comment.
 
@@ -124,7 +132,6 @@ Calder did not halt the mission. Congestion was documented. Uncertainty was not 
 
 "Duplicate sent," Park confirmed.
 
-**Event 3 — Jump to Theta-7 and Dual Positional Fix**
 
 Reyes completed the second jump sequence to boundary marker Theta-7. Exit coordinates again matched predicted values. Calder allowed himself a brief assessment of normalcy before authorizing full sensor activation.
 
@@ -140,7 +147,6 @@ Calder moved to the navigation station. The two coordinate sets occupied adjacen
 
 Reyes ran the sequence again. The numbers did not move.
 
-**Event 4 — Failed Recalibration**
 
 Calder ordered recalibration of both sensor arrays. Koss arrived on the command deck within minutes, diagnostic tablet in hand. Chief Petty Officer Brenner followed two steps behind and passed her a calibration wrench she had not yet reached for. Koss took it without acknowledgment. Brenner withdrew to the access panel.
 
@@ -158,7 +164,6 @@ Koss complied. The result did not change.
 
 Koss met Calder's eyes. "No physical explanation for instrument failure. Hardware is doing what it reports. The reports don't agree."
 
-**Event 5 — Command Confirmation Discrepancy**
 
 Calder returned to the command console and composed a verification request to Fleet Operations through L-3 relay. He included mission identifier 4471-S, current positional data, and the dual-fix anomaly report. Thessaly reviewed the packet before transmission, straightening the corner he had folded wrong.
 
@@ -180,7 +185,6 @@ Thessaly studied the comparison display. "Below standard navigation tolerance," 
 
 Calder stared at three coordinate sets and an archived fourth he could call up in seconds. None converged.
 
-**Event 6 — Local Verification Protocol**
 
 "Suspend standard mapping reconciliation," Calder said.
 
@@ -202,7 +206,6 @@ Calder did not abort the mission. Scout doctrine required observation and data p
 
 ---
 
-### SECTION 4 — DISCOVERY
 
 The dual positional fix was not attributable to hardware failure. Two independent sensor arrays, both reporting verified status after full diagnostic and recalibration, produced mutually exclusive spatial coordinates for a single reference object. The contradiction existed at the observation layer, not the equipment layer. Classification: **sensor contradiction**.
 
@@ -214,7 +217,6 @@ He had been trained to treat verified output as ground truth. Ground truth, in t
 
 ---
 
-### SECTION 5 — AFTERMATH STATE
 
 The *Kestrel Veil* remained at Solmare Quadrant boundary marker Theta-7. Hull integrity unchanged. Propulsion operational. No hardware fault confirmed. Sensor systems functioned as designed; they produced contradictory verified outputs.
 
@@ -228,45 +230,17 @@ The Solmare Quadrant was not empty of error. It was inconsistent at the first me
 
 ---
 
-### SECTION 6 — STATE UPDATE SUMMARY (DELTA ONLY)
+\newpage
 
-### SHIP STATE
-- sensor_reliability: high → medium
+────────────────────────────────────────
 
-### COMMAND STATE
-- mission_clarity: high → medium
-- command_confidence: high → medium
-- orders_consistency: consistent → consistent (text); coordinate data inconsistent
+# ~ CHAPTER TWO ~
 
-### ANOMALY STATE
-- anomaly_present: false → true
-- anomaly_stage: 0 → 2
-- anomaly_effect_type: none → spatial_mapping_contradiction
-- anomaly_conflict_level: none → low
+## Buffered Report
 
-### CREW STATE
-- stress (Captain): low → medium
-- stress (Navigator): low → medium
-
-### KNOWLEDGE STATE
-- confirmed_facts: + Signal Deviation conditions present at Theta-7 upon arrival; + multi-system coordinate disagreement (sensor vs command)
-- suspected_facts: + Active Signal Deviation may affect relay and command coordinate data
-- contradicted_facts: + Reference star SO-M4 single-position assumption; + Theta-7 archived coordinate as sole valid fix
-
-### LOCATION
-- Helion Prime berth 14-C → Solmare Quadrant boundary marker Theta-7
-
-### MISSION STATUS
-- Pre-departure → active; local verification protocol in effect
+────────────────────────────────────────
 
 
-\\newpage
-
-# CHAPTER 2 — BUFFERED REPORT
-
-## BUFFERED REPORT
-
-### SECTION 1 — STATUS QUO
 
 The *Kestrel Veil* had held position at boundary marker Theta-7 for eleven hours under local verification protocol. Outside the forward viewports, SO-M4 held fixed in the deep-field display—fixed twice, in two places, neither position yielding to the other. Inside the hull, conditions remained stable. Hull integrity at full nominal. Propulsion stood ready. Both sensor arrays continued to report verified but mutually exclusive fixes for the reference star.
 
@@ -286,7 +260,6 @@ He reviewed the compiled anomaly packet for the fourth time. Primary array coord
 
 ---
 
-### SECTION 2 — OBJECTIVE
 
 **Primary Mission Objective:**
 
@@ -296,9 +269,7 @@ Calder intended to resolve the impasse through institutional process. Report fir
 
 ---
 
-### SECTION 3 — INCIDENT CHAIN
 
-**Event 1 — Outbound Report Assembly**
 
 "Compile per SDE-1 format," Calder told Park.
 
@@ -320,7 +291,6 @@ Transmission size: 2.4 megabytes. Route: Theta-7 → L-3 → Fleet Operations.
 
 "Send," Calder said.
 
-**Event 2 — Duplicate Acknowledgment**
 
 Park watched the outbound indicator complete its cycle. Then his brow furrowed.
 
@@ -338,7 +308,6 @@ Calder said nothing for three seconds. "Log both. Preserve order of arrival."
 
 "Aye."
 
-**Event 3 — Environmental Mapper Drift**
 
 Six hours into the hold, Reyes called Calder to the navigation station.
 
@@ -354,7 +323,6 @@ Calder looked at Koss. She was already running a positional stability check on t
 
 One array moved in data. One did not. Both claimed accuracy. Calder asked Reyes to continue logging at fifteen-minute intervals.
 
-**Event 4 — Relay Echo Variance**
 
 Park's alert was quiet—a tone Calder had not heard before on this mission.
 
@@ -366,7 +334,6 @@ Calder crossed to the comm station and read the comparison himself. The original
 
 "Preserved," Park said. Cole mirrored the buffer index on the secondary panel without being asked—the same staging discipline Calder had seen at L-3, now routine where he was still learning the steps.
 
-**Event 5 — Directive Delay**
 
 Four hours passed without operational directive. Calder had measured the interval against the priority anomaly response window defined in the mission packet. The window closed without contact.
 
@@ -382,7 +349,6 @@ He read the text once.
 
 Calder set the message beside the four coordinate sets on his display. Five data objects. Still no convergence.
 
-**Event 6 — Hold Continuation**
 
 Calder did not advance the ship.
 
@@ -408,7 +374,6 @@ Thessaly found him at the command console forty minutes later. "Rest cycle in ni
 
 ---
 
-### SECTION 4 — DISCOVERY
 
 The irregularities did not constitute new positional contradictions. They constituted confidence degradation in the information pipeline itself. Classification: **command contradiction** — acknowledgment timestamps out of sequence; directive text non-responsive to reported content. Classification: **sensor contradiction** — drift appeared in one verified array only, without hardware cause.
 
@@ -420,7 +385,6 @@ He still believed—still needed to believe—that the next transmission might r
 
 ---
 
-### SECTION 5 — AFTERMATH STATE
 
 The *Kestrel Veil* remained at Theta-7. No hull damage. No system failure. Sensor reliability unchanged at medium. Operational tempo unchanged.
 
@@ -432,37 +396,17 @@ Calder scheduled a fifth diagnostic cycle before he would consider interior tran
 
 ---
 
-### SECTION 6 — STATE UPDATE SUMMARY (DELTA ONLY)
+\newpage
 
-### SHIP STATE
-- (no change to hull or drive)
+────────────────────────────────────────
 
-### COMMAND STATE
-- command_confidence: medium → low
+# ~ CHAPTER THREE ~
 
-### ANOMALY STATE
-- (anomaly_stage unchanged at 2; informational pipeline degradation logged)
+## Interior Transit
 
-### CREW STATE
-- stress (Captain): medium → medium-high
-- stress (Comms): low → medium
-
-### KNOWLEDGE STATE
-- confirmed_facts: + relay echo altered coordinate data in transit; + fleet acknowledgments non-responsive to SDE-1 content
-- suspected_facts: + transmission integrity may be compromised between Theta-7 and Fleet Operations
-- contradicted_facts: + assumption that acknowledgment implies parsed receipt
-
-### MISSION STATUS
-- local verification protocol in effect → hold at Theta-7 pending informational closure (self-imposed)
+────────────────────────────────────────
 
 
-\\newpage
-
-# CHAPTER 3 — INTERIOR TRANSIT
-
-## INTERIOR TRANSIT
-
-### SECTION 1 — STATUS QUO
 
 Eighteen hours at Theta-7 had produced no informational closure from Fleet Operations. The *Kestrel Veil* remained at full hull integrity. Sensor reliability held at medium. Dual SO-M4 fixes persisted in parallel buffers, the primary-array reading now carrying an additional drift history Reyes logged but did not interpret. Relay echo variance and duplicate acknowledgment remained archived without explanation.
 
@@ -488,7 +432,6 @@ Thessaly held his gaze for a moment, then nodded. "Aye, Captain."
 
 ---
 
-### SECTION 2 — OBJECTIVE
 
 **Primary Mission Objective:**
 
@@ -496,9 +439,7 @@ Transit from boundary marker Theta-7 to Korrath Expanse fringe. Conduct environm
 
 ---
 
-### SECTION 3 — INCIDENT CHAIN
 
-**Event 1 — Departure from Theta-7**
 
 The *Kestrel Veil* broke hold at 0618. Calder secured himself at the command station as Reyes initiated the jump sequence to Korrath Expanse fringe using primary-array coordinates for SO-M4 reference.
 
@@ -516,7 +457,6 @@ Jump exit registered within 0.001 parsecs of calculated solution. Thessaly logge
 
 Thessaly: "Transit nominal."
 
-**Event 2 — Star Field Mismatch**
 
 "Exit stable," Reyes said. Then, after a pause: "Star field alignment discrepancy. Predicted reference constellation KX-9 does not match observed orientation. Deviation zero-point-zero-seven degrees."
 
@@ -526,7 +466,6 @@ Calder moved to the navigation display. KX-9 should have appeared at a defined a
 
 "Log it. No correction authorized."
 
-**Event 3 — Simultaneous Directives**
 
 Park's tone pulled Calder back to the command console.
 
@@ -546,7 +485,6 @@ Calder read both twice. "Buffer both. No auto-selection."
 
 The crew around him continued—Tanaka logging exit variance, Koss running a hardware pass in engineering, Halden at the tactical station with a scenario list she had not spoken aloud. None of them stopped working to watch him decide. The ship had rhythms for contradiction he had not learned yet.
 
-**Event 4 — Engineering Log Discrepancy**
 
 Koss found Calder in the passageway between the command deck and engineering.
 
@@ -564,7 +502,6 @@ Calder stopped. The passageway hum shifted as a coolant pump cycled—frequency 
 
 Calder told her to isolate the master log entry and continue monitoring. He returned to the command deck unsettled by a new category of problem—one that did not require faulty hardware, only faulty records.
 
-**Event 5 — Repeated Mapping Failure**
 
 At Korrath fringe, Reyes initiated the environmental mapping sweep. Calder watched the contact indicators populate across the fringe sector display.
 
@@ -578,7 +515,6 @@ Three objects appeared on the redundant display that the primary array did not r
 
 "Continue logging," Calder said. "No merge."
 
-**Event 6 — Calder Verification Cycle**
 
 Calder ordered a third full-system diagnostic in twelve hours. He had ordered the first two after Events 2 and 4. This one was comprehensive—every station, every log layer, every cross-reference the ship could run on itself.
 
@@ -596,7 +532,6 @@ All officers reported conflicting records. None could explain why.
 
 ---
 
-### SECTION 4 — DISCOVERY
 
 The inconsistencies at Korrath fringe repeated across subsystems without shared hardware cause. Classification: **sensor contradiction** — star field, topology, and SO-M4 carryover fixes remained mutually exclusive. Classification: **command contradiction** — simultaneous directives with identical metadata and opposing instructions.
 
@@ -608,7 +543,6 @@ Calder had entered Solmare space looking for chart errors. The charts might stil
 
 ---
 
-### SECTION 5 — AFTERMATH STATE
 
 The *Kestrel Veil* held at Korrath Expanse fringe. Mapping sweep suspended. Hull and drive intact. Sensor reliability degraded under repeated verified conflict.
 
@@ -620,43 +554,17 @@ Command confidence remained low. Crew cohesion held but required explicit coordi
 
 ---
 
-### SECTION 6 — STATE UPDATE SUMMARY (DELTA ONLY)
+\newpage
 
-### SHIP STATE
-- sensor_reliability: medium → low
+────────────────────────────────────────
 
-### COMMAND STATE
-- orders_consistency: consistent (text); coordinate data inconsistent → inconsistent (text and directive content)
+# ~ CHAPTER FOUR ~
 
-### ANOMALY STATE
-- anomaly_stage: 2 → 3
-- anomaly_effect_type: spatial_mapping_contradiction → spatial_mapping_contradiction; recursive_log_conflict
-- anomaly_conflict_level: low → medium
+## Convergent Error
 
-### CREW STATE
-- stress (Navigator): medium → medium-high
-- stress (Engineer): low → medium
-- stress (XO): low → medium
-
-### KNOWLEDGE STATE
-- confirmed_facts: + recursive log conflict aboard Kestrel Veil; + simultaneous opposing fleet directives with identical metadata
-- suspected_facts: + internal record systems may be affected by same Signal Deviation conditions as external sensors
-- contradicted_facts: + assumption that master log represents unified ship history
-
-### LOCATION
-- Solmare Quadrant boundary marker Theta-7 → Korrath Expanse fringe
-
-### MISSION STATUS
-- hold at Theta-7 pending informational closure → active at Korrath fringe; mapping sweep suspended
+────────────────────────────────────────
 
 
-\\newpage
-
-# CHAPTER 4 — CONVERGENT ERROR
-
-## CONVERGENT ERROR
-
-### SECTION 1 — STATUS QUO
 
 The *Kestrel Veil* had remained at Korrath Expanse fringe for nine hours with mapping sweep suspended. Hull integrity: 100. Sensor reliability: low. FTL drive: operational. Master log and station logs remained isolated in parallel archive per Koss's instruction—two versions of the ship's recent history, neither willing to absorb the other.
 
@@ -684,7 +592,6 @@ Calder listened to each assessment. Each recommendation was procedurally defensi
 
 ---
 
-### SECTION 2 — OBJECTIVE
 
 **Primary Mission Objective:**
 
@@ -692,9 +599,7 @@ Complete partial environmental mapping sweep of Korrath Expanse fringe sector KR
 
 ---
 
-### SECTION 3 — INCIDENT CHAIN
 
-**Event 1 — Archive Retrieval**
 
 Reyes loaded the archived Korrath chart package from the mission data store. The file opened on the central display—sparse graphics, numerical annotations, survey metadata from twelve cycles prior.
 
@@ -704,7 +609,6 @@ Calder studied the chart. Eleven objects. The primary array had logged eleven at
 
 "Authorize limited sweep," he said. "KR-12 only. No extension without my mark."
 
-**Event 2 — Sweep Execution**
 
 Reyes executed the sweep per primary-array lead protocol Calder had approved. Calder watched the contact indicators accumulate across the forty-minute window.
 
@@ -714,7 +618,6 @@ Ortega tracked spectral variance at the secondary station, calling increments in
 
 The three spectral signatures sat on the display like accusations without direction. Koss confirmed hardware nominal from engineering. Calder did not ask her to explain the contacts. She had no explanation to give.
 
-**Event 3 — Archive Cross-Reference**
 
 Reyes ran the cross-reference routine. Numbers populated the comparison table.
 
@@ -730,7 +633,6 @@ Calder looked at the archive—twelve cycles old, verified at issuance, once his
 
 "No, Captain."
 
-**Event 4 — Fleet Chart Update Request**
 
 Calder composed a transmission to Fleet Cartography via L-3: KR-12 sweep summary, contradiction flags, segregated count data. Park routed it. The command deck waited through 9.2 seconds of relay latency—longer than Theta-7, shorter than failure.
 
@@ -742,7 +644,6 @@ Park ran the comparison. The fragment matched neither primary sweep, nor redunda
 
 "Content source unverified," Park said.
 
-**Event 5 — Crew Model Divergence**
 
 Calder convened the senior officers with the four data layers displayed.
 
@@ -758,7 +659,6 @@ Halden leaned against the bulkhead, arms folded. "If we navigate from the fragme
 
 No officer changed position after discussion. Calder had not expected them to. Each model was internally consistent. Consistency, he was learning, was local.
 
-**Event 6 — Sweep Termination**
 
 Calder terminated the sweep at the KR-12 boundary. KR-13 and KR-14 remained unmapped—the interior survey segment incomplete, the objective fulfilled only in partial form.
 
@@ -770,7 +670,6 @@ Koss, passing behind his console on the way to engineering, said quietly, "Segre
 
 ---
 
-### SECTION 4 — DISCOVERY
 
 For the first time, contradiction was confirmed across all available source classes simultaneously. Classification: **sensor contradiction** — primary and redundant arrays diverged on object count and contact presence. Classification: **command contradiction** — fleet chart fragment introduced a fourth object inventory inconsistent with all onboard and archived sources. Classification: **environmental contradiction** — archive matched primary array but not redundant array, implying observation conditions rather than single-instrument fault.
 
@@ -782,7 +681,6 @@ Calder did not assign fault to any single layer. He assigned uncertainty to all 
 
 ---
 
-### SECTION 5 — AFTERMATH STATE
 
 The *Kestrel Veil* remained at Korrath fringe with KR-13 and KR-14 unmapped. Partial data preserved in four segregated buffers. No hull damage. Sensor reliability low. Relay signal strength declining.
 
@@ -794,37 +692,17 @@ Fleet Operations remained unaware of the degree of source segregation aboard. Ca
 
 ---
 
-### SECTION 6 — STATE UPDATE SUMMARY (DELTA ONLY)
+\newpage
 
-### COMMAND STATE
-- command_confidence: low → low (Calder defers fleet truth; no increase)
-- mission_clarity: medium → low
+────────────────────────────────────────
 
-### ANOMALY STATE
-- anomaly_conflict_level: medium → high
+# ~ CHAPTER FIVE ~
 
-### CREW STATE
-- cohesion: stable → strained
-- stress (Captain): medium-high → high
-- stress (XO): medium → medium-high
-- stress (Navigator): medium-high → high
+## Dead Reckoning
 
-### KNOWLEDGE STATE
-- confirmed_facts: + multi-source contradiction reproduced at Korrath fringe; + archive aligns with primary array only; + fleet chart fragment matches no onboard source
-- suspected_facts: + relay degradation may contribute to chart fragment variance
-- contradicted_facts: + archive as neutral arbiter between sensor arrays
-
-### MISSION STATUS
-- active at Korrath fringe; mapping sweep suspended → partial sweep complete (KR-12 only); KR-13/14 unmapped
+────────────────────────────────────────
 
 
-\\newpage
-
-# CHAPTER 5 — DEAD RECKONING
-
-## DEAD RECKONING
-
-### SECTION 1 — STATUS QUO
 
 Fourteen hours had passed since KR-12 sweep termination. Relay signal strength to L-3 had fallen to 58 percent of departure baseline. Response latency exceeded twelve seconds on the last test ping—a delay that would have been unacceptable at Helion Prime and was becoming normal here.
 
@@ -856,7 +734,6 @@ He reviewed primary-array navigation solution and redundant-array shadow log. He
 
 ---
 
-### SECTION 2 — OBJECTIVE
 
 **Primary Mission Objective:**
 
@@ -864,9 +741,7 @@ Determine transit action before relay cutoff: withdraw to L-3 with preserved dat
 
 ---
 
-### SECTION 3 — INCIDENT CHAIN
 
-**Event 1 — Relay Cutoff Projection**
 
 Park presented the decline curve on the comm display—a clean downward slope no one on the command deck wanted to see.
 
@@ -882,7 +757,6 @@ Calder pulled the hold message up beside the earlier continue directive. They st
 
 He did not query Fleet for resolution. Query required bandwidth he could not spare. Resolution, he suspected, would not arrive in usable form.
 
-**Event 2 — Navigation Solution Comparison**
 
 Reyes presented first. "Primary-array solution to KR-13. Jump distance zero-point-four parsecs. Predicted exit variance zero-point-zero-zero-two parsecs. Consistent with KR-12 sweep lead protocol already approved."
 
@@ -892,7 +766,6 @@ Reyes added: "Redundant-array KR-13 solution differs by zero-point-zero-zero-eig
 
 Calder studied both solutions. L-3 offered contact. KR-13 offered mission continuity. Neither offered certainty.
 
-**Event 3 — XO Recommendation**
 
 Thessaly stood at the command console with the abort solution displayed.
 
@@ -908,7 +781,6 @@ Reyes: "KR-13 and KR-14 remain unmapped either path."
 
 Calder absorbed the symmetry. Both options left something unmapped. Only one option left the ship within shouting distance of Fleet.
 
-**Event 4 — Calder Decision**
 
 Calder looked at the primary-array solution one final time. He did not look at the fleet chart fragment.
 
@@ -920,7 +792,6 @@ Thessaly held his gaze. "Aye, Captain." The acknowledgment carried no endorsemen
 
 Park logged the decision timestamp locally only. No outbound transmission. The choice existed first in the ship's isolated record, nowhere else. He did not refill Halden's mug. Calder noticed that too, and did not ask why.
 
-**Event 5 — Jump Execution**
 
 "Jump in ten," Reyes said at 2204. "Solution locked."
 
@@ -934,7 +805,6 @@ Star field orientation matched primary prediction. The redundant model did not.
 
 One event. One validation. Not proof. Prediction.
 
-**Event 6 — KR-13 Hold**
 
 "Hold at exit point," Calder said immediately. "No mapping sweep authorized."
 
@@ -954,7 +824,6 @@ The command deck sat in the silence that followed—a silence deeper than the on
 
 ---
 
-### SECTION 4 — DISCOVERY
 
 Calder had executed operational transit without unified truth. Classification: **command contradiction** — fleet hold directive set aside without override authorization. Classification: **sensor contradiction** — navigation authority assigned to primary array while redundant array continued verified disagreement.
 
@@ -968,7 +837,6 @@ This was not resolution of Signal Deviation. It was operational action in the ab
 
 ---
 
-### SECTION 5 — AFTERMATH STATE
 
 The *Kestrel Veil* held at KR-13 exit coordinates. Relay contact lost. Hull intact. Drive operational. Sensor reliability low. KR-13 unmapped. KR-14 unmapped. KR-12 data preserved in four buffers.
 
@@ -982,42 +850,17 @@ The ship's operational posture at KR-13 began without a single source the crew c
 
 ---
 
-### SECTION 6 — STATE UPDATE SUMMARY (DELTA ONLY)
+\newpage
 
-### SHIP STATE
-- system_status: nominal → degraded (relay dependency lost; sensors low)
+────────────────────────────────────────
 
-### COMMAND STATE
-- command_confidence: low → superseded for transit decisions (observational authority active)
-- mission_clarity: low → low (objective unchanged; execution method autonomous)
+# ~ CHAPTER SIX ~
 
-### ANOMALY STATE
-- (anomaly_stage remains 3; no skip)
+## First Contact
 
-### CREW STATE
-- cohesion: strained → strained (held by explicit order compliance)
-- stress (Captain): high → high
-- stress (Comms): medium → high
-
-### KNOWLEDGE STATE
-- confirmed_facts: + Calder executed KR-13 transit on primary-array authority without fleet confirmation; + relay contact lost at 2231
-- suspected_facts: + fleet unaware of ship position divergence from last hold directive
-- contradicted_facts: + assumption that operational decisions require unified external validation
-
-### LOCATION
-- Korrath Expanse fringe → KR-13 exit coordinates
-
-### MISSION STATUS
-- partial sweep complete (KR-12 only) → isolated at KR-13; relay contact lost; observational authority protocol in effect
+────────────────────────────────────────
 
 
-\\newpage
-
-# CHAPTER 6 — FIRST CONTACT
-
-## FIRST CONTACT
-
-### SECTION 1 — STATUS QUO
 
 Six hours had passed since relay contact ceased at 2231. Park continued passive monitoring on a cycle that would not restore what the decline curve had already taken. No inbound carrier. No acknowledgment of the compressed burst Calder had authorized at KR-13 exit. The ship's last institutional tether had not snapped—it had simply stopped answering.
 
@@ -1049,7 +892,6 @@ He did not request fleet confirmation. Request was impossible. Confirmation, he 
 
 ---
 
-### SECTION 2 — OBJECTIVE
 
 **Primary Mission Objective:**
 
@@ -1057,9 +899,7 @@ Advance from KR-13 hold to KR-14 survey coordinate per primary-array navigation 
 
 ---
 
-### SECTION 3 — INCIDENT CHAIN
 
-**Event 1 — KR-13 Transit Authorization**
 
 Calder convened department heads at 0512. Relay status unchanged. Park reported zero inbound activity across all monitored bands.
 
@@ -1101,7 +941,6 @@ Koss had already appeared in the passageway adjacent to the jump console when Ca
 
 Calder did not interrupt. The exchange was not humor for its own sake—it was calibration between people who had kept scout hulls alive through worse than contradictory charts.
 
-**Event 2 — Jump Execution and KR-14 Hold**
 
 Jump executed at 0547. Exit coordinates: zero-point-zero-zero-one-four parsecs from primary prediction. Within tolerance. Star field orientation matched primary model. Redundant exit fix diverged on bearing by zero-point-zero-zero-five-seven parsecs—consistent with prior KR-13 pattern, logged without merge authority.
 
@@ -1135,7 +974,6 @@ Calder studied the thermal overlay. Forty-one years of decommission did not prod
 
 "Hold at approach range," he said. "Prepare boarding survey team. Installation access, not hull breach. Koss—data recovery protocol before anyone touches a local store."
 
-**Event 3 — Approach and Physical Contradiction**
 
 The *Kestrel Veil* closed to two hundred meters on maneuvering thrusters. Platform KR-14-Alpha resolved on the forward display as a modular survey spine: central hab ring, two instrument booms, external data vault housing aft. Fleet gray paint, faded. Docking collar manual—not rated for scout transfer without Brenner's opinion, which Calder requested before authorizing approach.
 
@@ -1177,7 +1015,6 @@ Halden: "No movement since we've held approach."
 
 "Wasn't us," Brenner said.
 
-**Event 4 — Vault Access and Corrupted Log Chip**
 
 External panel seven required Brenner's hands, a lubricant shim, and eleven minutes. Koss directed power draw through the umbilical while Ortega mapped the platform's passive emissions against archived decommission signatures. The comparison failed immediately—not because sensors were wrong, but because the platform's local power bus showed cycle timestamps within the last eighteen months.
 
@@ -1203,7 +1040,6 @@ Calder authorized chip transfer across the umbilical at 1126. Brenner carried th
 
 "Aye."
 
-**Event 5 — Multi-Department Reconstruction**
 
 The reconstruction consumed six hours and crossed three watch cycles.
 
@@ -1283,7 +1119,6 @@ Calder did not intervene in the technical sequence. His role was authorization a
 
 Park attempted one relay burst at 1500—compressed status stub, no buffer content, no position disclosure beyond generic Korrath sector tag. Nothing returned. He logged the attempt locally and returned to buffer five monitoring without comment. Relay remained lost.
 
-**Event 6 — Log Reconstruction Complete**
 
 Final reconstruction completed at 1622. Buffer five subpartitions merged into a single readable survey log under Park's segregation seal—available for analysis, barred from master log integration pending Calder's order.
 
@@ -1329,7 +1164,6 @@ Watch change occurred at 1630. Walsh logged third-watch handoff. Okwelu appeared
 
 ---
 
-### SECTION 4 — DISCOVERY
 
 The single most important revelation of the chapter was not cosmological. It was archival.
 
@@ -1347,7 +1181,6 @@ The unanswered question was not whether the log was corrupted—it had been, and
 
 ---
 
-### SECTION 5 — AFTERMATH STATE
 
 The *Kestrel Veil* held at KR-14 approach coordinates, soft-docked to Platform KR-14-Alpha via umbilical. Relay contact remained lost. Hull intact. Drive operational. Sensor reliability low. KR-13 segment still unmapped as sweep output; KR-14 segment partially verified through platform proximity and passive contact.
 
@@ -1369,45 +1202,17 @@ He would carry both the recovered data and the question forward.
 
 ---
 
-### SECTION 6 — STATE UPDATE SUMMARY (DELTA ONLY)
+\newpage
 
-### SHIP STATE
-- location: KR-13 exit coordinates → KR-14 Platform KR-14-Alpha approach (soft-docked)
-- system_status: degraded (unchanged; relay lost; sensors low)
+────────────────────────────────────────
 
-### COMMAND STATE
-- mission_clarity: low → low (objective partially advanced; institutional record trust further reduced)
-- command_confidence: superseded for transit decisions (unchanged; observational authority active)
+# ~ CHAPTER SEVEN ~
 
-### ANOMALY STATE
-- (anomaly_stage remains 3; no skip)
-- anomaly_effect_type: + archival_record_contradiction at fixed installation (extends existing spatial/log conflict pattern)
+## Ghost Fleet
 
-### CREW STATE
-- cohesion: strained → strained (task-success anchor; relay isolation unchanged)
-- stress (Captain): high → high
-- stress (Comms): high → high
-- stress (Navigator): high → medium-high (reconstruction success partial relief)
-
-### KNOWLEDGE STATE
-- confirmed_facts: + Platform KR-14-Alpha physically accessible at primary-array coordinates; + archived decommission status (2187.04) contradicted by thermal, access wear, and recovered local log; + Korrath Interior Survey Unit Seven occupied platform 2224.06–2225.11 per reconstructed log; + crew reconstructed seventy-one percent of corrupted local survey log via segregated buffer five; + chip removed improperly within estimated six-to-eighteen-month window before recovery
-- suspected_facts: + Fleet chart package omits or suppresses recent KR-14 occupancy; + survey grid references in recovered log imply KR-13/KR-14 interior mapping prior to current mission
-- contradicted_facts: + Platform KR-14-Alpha uncrewed passive monitoring status since 2187.04
-
-### LOCATION
-- Korrath Expanse KR-13 exit coordinates → KR-14 Platform KR-14-Alpha (soft-docked)
-
-### MISSION STATUS
-- isolated at KR-13; relay contact lost → isolated at KR-14; relay contact lost; KR-14 platform verified; partial interior survey data recovered (buffer five segregated); KR-13 sweep segment unmapped; observational authority protocol in effect
+────────────────────────────────────────
 
 
-\\newpage
-
-# CHAPTER 7 — GHOST FLEET
-
-## GHOST FLEET
-
-### SECTION 1 — STATUS QUO
 
 Third watch had ended forty minutes ago. Calder had not left the command deck.
 
@@ -1455,7 +1260,6 @@ The history work was about to begin whether Calder felt ready or not.
 
 ---
 
-### SECTION 2 — OBJECTIVE
 
 **Primary Mission Objective:**
 
@@ -1463,9 +1267,7 @@ Extract expedition history from buffer five reconstructed survey log and cross-c
 
 ---
 
-### SECTION 3 — INCIDENT CHAIN
 
-**Event 1 — Medical Gate Before History Work**
 
 Calder convened department heads at 0512. Soft dock nominal. Relay status unchanged.
 
@@ -1493,7 +1295,6 @@ Calder looked at Okwelu. She met his gaze with the calm that was not permission 
 
 Okwelu wrote one line in the paper notebook and left. Calder did not ask what the line said. He was learning that some logs existed outside merge authority.
 
-**Event 2 — Compartmentalized History Reconstruction**
 
 Reyes led the history sequence at 0520 with Ortega beside him for the first ninety minutes before rotation. Tanaka cross-indexed authorization stubs from buffer five subpartition D against KR-12 buffer two fragment headers—no merge, visual comparison only, checksum logging on every lookup Park insisted upon.
 
@@ -1545,7 +1346,6 @@ Park: "Not until we know what we're listening to."
 
 That was before Ortega, rested, returned at 1114 and passive sweep changed the priority order.
 
-**Event 3 — Long-Range Contacts**
 
 Ortega resumed passive sweep layers at 1118 with Hale on defensive watch continuity. Thermal, mass, EM quiet-band—standard abandoned-platform profile with one exception.
 
@@ -1571,7 +1371,6 @@ Reyes plotted contact drift on primary array while redundant array shadow-logged
 
 Walsh's watch notebook accumulated timestamps without commentary. Thessaly reviewed the page during a meal packet she ate in four bites standing up. Calder noticed his mission packet stack had been straightened again. He had not seen Thessaly do it. He was getting better at noticing after the fact.
 
-**Event 4 — Hail Sequence and Authentication Anomaly**
 
 Calder authorized passive hold and limited hail attempts at 1142. No outbound position disclosure beyond generic Korrath sector tag. No buffer content. No merge keys.
 
@@ -1637,7 +1436,6 @@ Park listened. Cole tapped his arm once—negative carrier.
 
 The command deck sat with a message that sounded like fleet authority and a scope that showed fleet mass profiles neither fleet nor the message could explain.
 
-**Event 5 — Park Proves One Path Trustworthy**
 
 The argument began before Calder called it one.
 
@@ -1691,7 +1489,6 @@ Calder understood the distinction Park had earned: the crew did not have fleet t
 
 Halden had not joked in two cycles. Park had not refilled her coffee. Calder did not ask whether the channel proof changed that weather. He filed it under problems solved by people rather than problems dissolved by institutional contact.
 
-**Event 6 — Second Fragment and Compartmentalization Order**
 
 The coupler path opened again at 1347 without hail initiation—inbound carrier rise, session stub, payload burst, termination.
 
@@ -1751,7 +1548,6 @@ Who had ordered compartmentalization—and who did **VENN** name in an order the
 
 ---
 
-### SECTION 4 — DISCOVERY
 
 The chapter's revelation was organizational, not cosmological.
 
@@ -1769,7 +1565,6 @@ The unanswered question sharpened: not whether compartmentalization occurred—i
 
 ---
 
-### SECTION 5 — AFTERMATH STATE
 
 The *Kestrel Veil* held soft-docked at KR-14 Platform KR-14-Alpha. Relay contact to L-3 remained lost. Hull intact. Drive operational. Sensor reliability low. One verified narrow communications path existed through platform survey coupler—listen-capture authorized into buffer five subpartition G; not full relay restoration.
 
@@ -1791,45 +1586,17 @@ Who ordered compartmentalization—and who was **VENN** in the order chain?
 
 ---
 
-### SECTION 6 — STATE UPDATE SUMMARY (DELTA ONLY)
+\newpage
 
-### SHIP STATE
-- location: KR-14 Platform KR-14-Alpha (soft-docked; unchanged)
-- system_status: degraded (unchanged; L-3 relay lost; sensors low; + verified narrow survey-coupler duplex path)
+────────────────────────────────────────
 
-### COMMAND STATE
-- mission_clarity: low → low (compartmentalization structure partially mapped; fleet presence denial contradicted by contacts)
-- command_confidence: superseded for transit decisions (unchanged); + one communications path certified actionable for segregated listen-capture (not full relay)
+# ~ CHAPTER EIGHT ~
 
-### ANOMALY STATE
-- (anomaly_stage remains 3; no skip)
-- anomaly_effect_type: + long-range fleet-mass contacts with auth/code anomalies; + archival compartmentalization layer documented (extends archival_record_contradiction pattern)
+## Boarding Action
 
-### CREW STATE
-- cohesion: strained → strained (Okwelu rotation enforced; Park channel-proof anchor; ghost contacts elevate defensive strain)
-- stress (Captain): high → high
-- stress (Comms): high → medium-high (one path verified; L-3 still lost)
-- stress (Medical): medium → medium (Okwelu proactive gate successful)
-
-### KNOWLEDGE STATE
-- confirmed_facts: + multiple long-range mass contacts (fleet scout/corvette profile) interior bearing; + deprecated pre-2190 auth handshake on platform survey coupler; + Park three-pass verification confirms one narrow duplex path exhibits authentic fleet session behavior; + partial **KISC COMPARTMENT DIRECTIVE 07/12/03 REV B** captured in buffer five subpartition G; + compartmentalization of Survey Units One–Seven under KISC with separate archive templates; + template application explicitly not physical decommission; + Fleet Operations visibility sealed **KISC-INT-SEAL-7**; + field/archive cross-reference prohibition documented
-- suspected_facts: + ghost contacts may relate to KISC relay shell; + denial message may be template-class same as decommission headers; + authorization suffix **/VENN/** may reference Calder line or template artifact
-- contradicted_facts: + institutional claim of no current fleet presence in Korrath interior (denial message vs passive contacts)
-
-### LOCATION
-- Korrath Expanse KR-14 Platform KR-14-Alpha (soft-docked; unchanged)
-
-### MISSION STATUS
-- isolated at KR-14; relay contact lost; + one verified narrow coupler listen path (not L-3 restore); buffer five expanded (subpartition G); ghost contacts under passive monitoring; Okwelu rotation enforced; observational authority protocol in effect
+────────────────────────────────────────
 
 
-\\newpage
-
-# CHAPTER 8 — BOARDING ACTION
-
-## BOARDING ACTION
-
-### SECTION 1 — STATUS QUO
 
 Fourteen hours had passed since Park closed the narrow-path verification loop. Relay contact to L-3 remained lost—no carrier, no acknowledgment, no institutional voice to settle arguments the ship had learned to settle without one. What remained was a single low-band handshake lane Park had proven trustworthy enough to act on: not restoration, not authority, but a verified pipe through the same weather that had eaten everything else.
 
@@ -1863,7 +1630,6 @@ He did not request fleet confirmation. Request was impossible. Confirmation, he 
 
 ---
 
-### SECTION 2 — OBJECTIVE
 
 **Primary Mission Objective:**
 
@@ -1871,9 +1637,7 @@ Respond to verified narrow-path distress traffic from damaged scout contact in K
 
 ---
 
-### SECTION 3 — INCIDENT CHAIN
 
-**Event 1 — Narrow-Path Distress**
 
 The handshake arrived at 0714—not on fleet relay, not on the bands Park had watched die, but on the narrow lane he and Cole had spent six hours proving: low-band, compressed, checksum-stable when it answered at all.
 
@@ -1951,7 +1715,6 @@ Tanaka had already opened her checklist to the boarding support page before Reye
 
 ---
 
-**Event 2 — Approach and Contradictory Hull Picture**
 
 The *Kestrel Veil* closed on *Watcher's Mark* using maneuvering thrusters only—no active ping, Halden's passive posture held. The damaged scout resolved on forward display as a familiar silhouette gone wrong: scout spine, instrument boom stowed on one side and sheared on the other, midships hull plate peeled back in a ragged flap that caught starlight like a torn seal.
 
@@ -1993,7 +1756,6 @@ Calder: "Boarding team enters at 0804. Brenner lead. Sharma second. I third. Col
 
 ---
 
-**Event 3 — Interior Boarding Route**
 
 The inner hatch opened onto a corridor Calder recognized from scout-class layouts—narrow, utilitarian, fleet gray paint scuffed at handhold height. Emergency strips glowed amber on backup power. The air tasted wrong—not contaminated, but thin, with the metallic edge of a compartment that had been losing pressure slowly enough for filters to compensate until they couldn't.
 
@@ -2041,7 +1803,6 @@ Brenner opened the inner door.
 
 ---
 
-**Event 4 — Survivor and Vault**
 
 Lieutenant Commander Sade Okonkwo sat against the vault housing in a pressure suit with the helmet off and the seal ring cracked open for air she clearly did not have energy to fight. Calder knew her face from Park's compartmentalization file—expedition lead, older than the portrait, younger than the exhaustion.
 
@@ -2105,7 +1866,6 @@ They brought her clean.
 
 ---
 
-**Event 5 — Extraction Under Sensor Disagreement**
 
 Extraction should have been the simple part. It was not.
 
@@ -2167,7 +1927,6 @@ Okwelu took Okonkwo to medical bay without asking Calder for permission he would
 
 ---
 
-**Event 6 — Buffer Six and Okonkwo's Fragment**
 
 The core store read completed at 1147 after four hours of segregated ingestion—Koss on hardware path, Brenner on pin seating when ghost reads appeared, Ortega and Reyes running lineage cross-check against buffer five without merge authority, Park maintaining buffer six isolation with Cole identifying congestion by sound at hours two and three when ingestion rate threatened narrow-path echo on the local relay bus.
 
@@ -2239,7 +1998,6 @@ Calder would carry the survivor, the data, and the question forward.
 
 ---
 
-### SECTION 4 — DISCOVERY
 
 The single most important revelation of the chapter was not cosmological. It was physical and archival at once.
 
@@ -2257,7 +2015,6 @@ What happened to everyone else on *Watcher's Mark*—and whether any of them cou
 
 ---
 
-### SECTION 5 — AFTERMATH STATE
 
 The *Kestrel Veil* held at KR-14 vicinity following minimal separation burn from SCV-219 *Watcher's Mark*. Relay contact remained mostly lost; narrow-path handshake verified under extraction load. Hull intact. Drive operational. Sensor reliability low—primary/redundant divergence persisted on life signs, range, and interior mass reads.
 
@@ -2277,45 +2034,17 @@ He would carry that question forward.
 
 ---
 
-### SECTION 6 — STATE UPDATE SUMMARY (DELTA ONLY)
+\newpage
 
-### SHIP STATE
-- location: KR-14 Platform KR-14-Alpha approach (soft-dock released) → KR-14 vicinity (minimal separation burn from SCV-219 *Watcher's Mark*)
-- system_status: degraded (unchanged; relay mostly lost; sensors low; narrow path verified under load)
+────────────────────────────────────────
 
-### COMMAND STATE
-- mission_clarity: low → low (objective advanced via recovery; institutional trust unchanged)
-- command_confidence: superseded for transit and boarding decisions (unchanged; observational authority and verified narrow path active)
+# ~ CHAPTER NINE ~
 
-### ANOMALY STATE
-- (anomaly_stage remains 3; no skip)
-- anomaly_effect_type: + temporal_discontinuity_evidence aboard crewed hull (extends spatial/log conflict into personnel timeline scale)
+## The Silent War
 
-### CREW STATE
-- cohesion: strained → strained (boarding success anchor; relay isolation unchanged)
-- stress (Captain): high → high
-- stress (Comms): high → medium-high (narrow path proven under extraction load)
-- stress (Navigator): medium-high → medium-high (array divergence unresolved; operational utility confirmed)
-
-### KNOWLEDGE STATE
-- confirmed_facts: + SCV-219 *Watcher's Mark* (KISU-7) suffered midships breach with staggered compartment failures; + Lieutenant Commander Sade Okonkwo recovered alive; + KISU-7 mission core store recovered intact to segregated buffer six; + crew disappearance evidence indicates multiple temporal discontinuities aboard *Watcher's Mark*; + narrow-path comm lane verified under boarding extraction congestion (Park/Cole); + **Interior Mandate** (Fleet Operations division tag) named in Okonkwo debrief as compartmentalization source layer
-- suspected_facts: + Matu and/or others may remain unaccounted for in forward compartments depending on array authority; + shadow contact during extraction may indicate ongoing surveillance of KR-14 volume; + Interior Mandate orders relate to buffer five platform decommission fiction
-- contradicted_facts: + assumption that redundant array life-sign null confirms hull unoccupied when primary and thermal disagree
-
-### LOCATION
-- KR-14 Platform KR-14-Alpha approach → KR-14 vicinity (holding)
-
-### MISSION STATUS
-- isolated at KR-14; relay mostly lost; platform data in buffer five; KISU-7 survivor and core store in buffer six; SCV-219 *Watcher's Mark* drifting damaged (not recovered); observational authority protocol in effect; boarding extraction complete
+────────────────────────────────────────
 
 
-\\newpage
-
-# CHAPTER 9 — THE SILENT WAR
-
-## THE SILENT WAR
-
-### SECTION 1 — STATUS QUO
 
 Eighteen hours had passed since Brenner mounted the KISU-7 core store in ingestion bay three. Relay contact to L-3 remained lost—no carrier, no acknowledgment, no institutional voice to argue with the ship's own record. What remained was the narrow path Park had proven under boarding load: a low-band handshake lane through Platform KR-14-Alpha's survey coupler, verified enough to listen, not enough to restore command authority.
 
@@ -2349,7 +2078,6 @@ He did not request fleet confirmation. Request remained impossible. Confirmation
 
 ---
 
-### SECTION 2 — OBJECTIVE
 
 **Primary Mission Objective:**
 
@@ -2357,9 +2085,7 @@ Extract and correlate buried administrative and transmission layers from buffer 
 
 ---
 
-### SECTION 3 — INCIDENT CHAIN
 
-**Event 1 — Walsh's Correlation Window**
 
 Thessaly convened the suppression work session at 0612—not a department heads meeting, a working session with defined inputs and a defined stop condition. Calder attended because the output would touch command doctrine whether he wanted it to or not.
 
@@ -2409,7 +2135,6 @@ Walsh closed the book to the ribbon marker. He did not offer the next page. Cald
 
 Walsh nodded once and returned to the secondary station with the notebook against his palm like a tool Brenner might carry—ordinary, specific, earned.
 
-**Event 2 — Buried Transmissions in Buffer Six**
 
 Reyes led buried-layer extraction at 0634 with Ortega beside him after the nod. Tanaka tracked sector boundaries on her checklist in colors only she and Reyes could read without translation. The work was not dramatic. It was archaeological.
 
@@ -2459,7 +2184,6 @@ Calder absorbed that. The distress Okonkwo sent had reached them on the only lan
 
 Either way, the crew had received it. That was not institutional mercy. That was Park and Cole making a thin lane count.
 
-**Event 3 — Okonkwo's Second Debrief**
 
 Okwelu cleared Okonkwo for second debrief at 1404—twenty minutes maximum, sitting only, medical monitor active. Calder attended with Park and Thessaly. Reyes joined for ten minutes at the start because buried-layer timestamps touched *Watcher's Mark* crew entries Okonkwo had authority to speak to. He left when Okwelu signaled time compression.
 
@@ -2511,7 +2235,6 @@ Okwelu ended the debrief at nineteen minutes. Calder left medical bay with Park 
 
 Walsh looked surprised he had said it aloud—the same surprise Cole had worn yesterday. Then he nodded and kept walking.
 
-**Event 4 — Thessaly and Calder Doctrine Tension**
 
 The argument found Calder at 1630 on the command deck after suppression interim structure landed in buffer seven segregated review—fourteen Walsh matches, eleven class-three fragments peeled, three platform bus corroborations, one narrow-path denial template match, zero merge keys issued.
 
@@ -2563,7 +2286,6 @@ Park logged the timestamp locally. Cole whispered "logged" a half-second later, 
 
 Calder felt the decision land—not certainty, enough confidence. Scout doctrine rarely offered both.
 
-**Event 5 — Walsh Completes the Correlation**
 
 Final extraction on buffer six class-three layers completed at 1912 with Tanaka catching a sector boundary stagger error at twenty-one before it propagated—same discipline as boarding ingestion, same human precision beneath the institutional ugliness.
 
@@ -2591,7 +2313,6 @@ Thessaly's mouth moved once—not quite a smile either. "He means me."
 
 Walsh delivered meal packets without disrupting workflow. Calder ate half a ration standing and reviewed the suppression index summary on his tablet—not merged, not fleet-facing, true enough to act inside.
 
-**Event 6 — Protection or Cause**
 
 At 2140, Park reported narrow-path carrier rise—session stub, payload burst, termination in spec-compliant order. Cole identified the burst by sound before the display confirmed. Park captured into buffer five subpartition G—still segregated, still no merge—new plaintext fragment, administrative, partial.
 
@@ -2627,7 +2348,6 @@ That question would follow him into Running Dark.
 
 ---
 
-### SECTION 4 — DISCOVERY
 
 The chapter's revelation was institutional, not cosmological.
 
@@ -2643,7 +2363,6 @@ A late narrow-path fragment added **protective measure** language without resolv
 
 ---
 
-### SECTION 5 — AFTERMATH STATE
 
 The *Kestrel Veil* held at KR-14 vicinity on passive drift. Relay contact to L-3 remained lost. Narrow-path handshake verified; listen-capture into buffer five subpartition G continued under segregated protocol. Hull intact. Drive operational. Sensor reliability low—primary/redundant position agreement on local hold only, not restored merge authority.
 
@@ -2667,45 +2386,17 @@ He would carry that question forward.
 
 ---
 
-### SECTION 6 — STATE UPDATE SUMMARY (DELTA ONLY)
+\newpage
 
-### SHIP STATE
-- location: KR-14 vicinity (passive hold; unchanged)
-- system_status: degraded (unchanged; relay lost; sensors low; narrow path verified)
+────────────────────────────────────────
 
-### COMMAND STATE
-- mission_clarity: low → medium-low (suppression documented as operational fact; motive and scope unresolved)
-- command_confidence: superseded for transit and institutional reliance (unchanged); + acknowledgment shift—suppression named as navigable operational adversary alongside sensor/relay weather
+# ~ CHAPTER TEN ~
 
-### ANOMALY STATE
-- (anomaly_stage remains 3; no skip)
-- anomaly_effect_type: + institutional suppression layer documented as policy response to anomaly-adjacent reporting (extends archival_record_contradiction into active information warfare scale)
+## Running Dark
 
-### CREW STATE
-- cohesion: strained → strained (suppression-index victory anchor; doctrine tension resolved into explicit acknowledgment without merge collapse)
-- stress (Captain): high → high
-- stress (Comms): medium-high → medium-high (narrow path active; L-3 still lost)
-- stress (XO): medium-high → medium (operational conclusion authorized; unofficial intelligence validated)
-
-### KNOWLEDGE STATE
-- confirmed_facts: + Fleet information suppression operated as standing policy in Korrath interior context via Interior Mandate routing; + **suppress-and-reclassify** and **transmission withhold** orders documented in buffer six class-three fragments; + **denial template** authorization matches narrow-path Ghost Fleet denial message class; + Walsh watch notebook timestamp correlation fourteen-of-fourteen with suppression windows (buffer seven); + Okonkwo testimony confirms protocol mechanics—field/archive split, manual verification failure, protection language in mandate packets; + Calder authorized segregated operational conclusion naming suppression as policy-level fact with explicit scope limits
-- suspected_facts: + suppression **protection language** may indicate institutional fear of epistemic collapse rather than punitive intent; + Interior Mandate command tier recall authority exists but authorship sheared; + suppression policy may have contributed to *Watcher's Mark* comm isolation before breach
-- contradicted_facts: + assumption that fleet band flatline during key windows indicates physical relay failure only (correlation shows administrative quiet concurrent with local lane activity)
-
-### LOCATION
-- KR-14 vicinity (holding; unchanged)
-
-### MISSION STATUS
-- isolated at KR-14; relay lost; buffers five/six/seven segregated; suppression index complete pending captain counter-signature; Okonkwo second debrief complete; observational authority protocol in effect; end question active—protection or cause
+────────────────────────────────────────
 
 
-\\newpage
-
-# CHAPTER 10 — RUNNING DARK
-
-## RUNNING DARK
-
-### SECTION 1 — STATUS QUO
 
 Thirty-one hours had passed since Walsh matched the third encrypted stub to a suppression header Park had already logged in buffer six cross-reference.
 
@@ -2757,7 +2448,6 @@ He was almost ready to decide he did not need more certainty to do it.
 
 ---
 
-### SECTION 2 — OBJECTIVE
 
 **Primary Mission Objective:**
 
@@ -2765,9 +2455,7 @@ Execute passive egress from KR-14 departure corridor without engagement. Maintai
 
 ---
 
-### SECTION 3 — INCIDENT CHAIN
 
-**Event 1 — Geometry That Learned**
 
 Halden's brief at 0633 was not dramatic. Calder trusted that about him.
 
@@ -2823,7 +2511,6 @@ Tanaka had already opened her color-coded checklist to the page Reyes had not ye
 
 ---
 
-**Event 2 — The Mark**
 
 Calder waited eleven minutes after the prepare order—not for certainty, for Brenner's confirmation on vent baffle torque and Sharma's final scrubber staging read.
 
@@ -2877,7 +2564,6 @@ Calder watched Halden's silence and understood the humor had not stopped because
 
 ---
 
-**Event 3 — Berth Air and Grandmother Messages**
 
 Hour two of dark running was Sharma's hour in the way boarding extraction had been Cole's— not because Calder gave her the deck, but because every department head eventually routed through her numbers.
 
@@ -2945,7 +2631,6 @@ Calder realized he had not checked fleet contact in ninety minutes because there
 
 ---
 
-**Event 4 — Herding Without Hail**
 
 Hour four brought the first moment Calder understood they were being driven.
 
@@ -2995,7 +2680,6 @@ He did not wake the ship for it.
 
 ---
 
-**Event 5 — Evasion Window**
 
 Hour six was when redundant closure spiked and primary did not—and the crew chose darkness over battle without discussing it as philosophy.
 
@@ -3057,7 +2741,6 @@ Calder heard the boarding extraction in her sentence. He answered the dark run t
 
 ---
 
-**Event 6 — Running Dark**
 
 Hour eight. Emissions control engaged. Lights dimmed on dark-watch preset until the command deck existed in the blue-gray of instruments and faces reduced to cheekbone and habit. Calder's console cast enough glow to read threat envelopes without painting the bulkhead. Somewhere in ring four, a vent baffle ticked once—metal cooling, Brenner's work settling into the new equilibrium Sharma had bought them.
 
@@ -3117,7 +2800,6 @@ Held breath broke.
 
 ---
 
-### SECTION 4 — DISCOVERY
 
 The chapter's operational revelation was not cosmological. It was tactical and human at once.
 
@@ -3133,7 +2815,6 @@ Whether followers were Fleet, Ghost Fleet, or third-party remained open. Whether
 
 ---
 
-### SECTION 5 — AFTERMATH STATE
 
 The *Kestrel Veil* held at KISU-7 segment two **stable dark** waypoint margin under full emissions control—dark-watch lighting, passive sensors, narrow path listen-only. Relay contact absent. No Fleet acknowledgment. Shadow contacts persist on primary; redundant solutions inconsistent.
 
@@ -3153,46 +2834,17 @@ Held breath broke on Halden's warning. Weapons lock was next.
 
 ---
 
-### SECTION 6 — STATE UPDATE SUMMARY (DELTA ONLY)
+\newpage
 
-### SHIP STATE
-- location: KR-14 vicinity departure corridor → Korrath KR-13 segment two **stable dark** waypoint margin (local observation)
-- system_status: degraded (unchanged); emissions control engaged; passive sensors only; relay absent; narrow path listen-only verified
+────────────────────────────────────────
 
-### COMMAND STATE
-- mission_clarity: low → low (egress advanced; institutional trust unchanged)
-- command_confidence: observational authority under dark run (superseded merge reliance further reduced; Calder acting on crew interpretive models with minimal sensor certainty)
+# ~ CHAPTER ELEVEN ~
 
-### ANOMALY STATE
-- (anomaly_stage remains 3; no skip)
-- anomaly_effect_type: unchanged weather; + passive surveillance geometry divergence (primary pacing vs redundant herding/closures)
+## The First Engagement
 
-### CREW STATE
-- cohesion: strained → strained (evasion success anchor; dark-run discipline binding)
-- stress (Captain): high → high (sleep debt; decision load under blind posture)
-- stress (Comms): medium-high → high (intermittent uncertified traffic; listen-only strain)
-- stress (Navigator): medium-high → medium-high (local observation egress successful; array divergence operationalized)
-- stress (Tactical): medium-high → high (Halden humor suppressed; threat models active; no engagement)
-
-### KNOWLEDGE STATE
-- confirmed_facts: + shadowing contacts (3 primary / 4 redundant typical) maintain surveillance without hail; + emissions control reduces identifiable signature under Koss/Sharma protocol; + segment three maneuver broke redundant closure without weapons lock; + KISU-7 local chart marks viable for dark navigation (Reyes/Tanaka); + suppression verification (Ch. 9 chain) remains operational background
-- suspected_facts: + followers may be herding toward **stable dark** volumes; + obsolete callsign fragment on sideband may indicate Ghost Fleet listener overlap; + escort-class mass profiles suggest superior force if engagement occurs
-- contradicted_facts: + assumption that passive pacing equals non-hostile intent (herding behavior on redundant)
-
-### LOCATION
-- KR-14 vicinity → KR-13 segment two **stable dark** waypoint margin (holding dark)
-
-### MISSION STATUS
-- isolated; relay lost; buffers segregated; dark running; shadow contacts persistent; engagement evaded; not safe—uncaught; weapons lock threshold approaching (Ch. 11)
+────────────────────────────────────────
 
 
-\\newpage
-
-# CHAPTER 11 — THE FIRST ENGAGEMENT
-
-## THE FIRST ENGAGEMENT
-
-### SECTION 1 — STATUS QUO
 
 Held breath broke on Halden's warning. Weapons lock was next.
 
@@ -3240,7 +2892,6 @@ This was what happened when the followers stopped lending time.
 
 ---
 
-### SECTION 2 — OBJECTIVE
 
 **Primary Mission Objective:**
 
@@ -3252,9 +2903,7 @@ Maintain emissions discipline where possible. Do not merge primary and redundant
 
 ---
 
-### SECTION 3 — INCIDENT CHAIN
 
-**Event 1 — Commitment**
 
 The lock tone stabilized—two tones, actually, primary and redundant disagreeing on harmonic but agreeing on intent.
 
@@ -3284,7 +2933,6 @@ The *Kestrel Veil* moved like a scout that had been built for exactly this kind 
 
 ---
 
-**Event 2 — First Contact by Capability**
 
 The first hostile action was not a beam. It was a denial.
 
@@ -3322,7 +2970,6 @@ Thessaly's whisper burn held course while Halden fed Hale closure rates in numbe
 
 ---
 
-**Event 3 — Hale's Rebuild**
 
 The second cut was meant for Margaret.
 
@@ -3372,7 +3019,6 @@ Hale did not look up from the junction box. "Margaret learns quicker. She holds 
 
 ---
 
-**Event 4 — Ship as Organism**
 
 Contact three appeared on redundant where primary saw nothing—then both arrays agreed it was real and closing from a vector Reyes's local chart called **stable dark** mouth, which was either a waypoint or a door and was now definitely an ambush geometry.
 
@@ -3436,7 +3082,6 @@ Koss listened—to the ship, not the panel. Sound before alarms. That was her do
 
 ---
 
-**Event 5 — Park's Separation**
 
 The followers tried to herd again—redundant array showing closure from segment five mouth while primary insisted segment four remained open. The same geometry Halden had logged during dark running, except now the herding carried teeth.
 
@@ -3478,7 +3123,6 @@ Calder filed the fact without merging it into motive. Motive was luxury. Capabil
 
 ---
 
-**Event 6 — Interior Egress**
 
 Reyes brought them into segment four thermal null on whisper thrust with primary sensor truth degraded and redundant screaming contacts that primary sometimes denied. Navigation by observation in anomaly weather—exactly the human competence Act II had been building toward.
 
@@ -3552,7 +3196,6 @@ Calder picked.
 
 ---
 
-**Event 7 — Jump**
 
 The jump prep spike lit every emissions discipline they had spent eight hours building. Sharma swore in a dialect her grandmother would have scolded and rerouted bleed through every decoy baffle left intact. Hale ran Margaret cold with hands that shook once and then stopped because Halden was watching and Halden's respect was not given for steady hands alone.
 
@@ -3586,7 +3229,6 @@ Halden: "Minimum eighteen minutes if their tag telemetry matches primary closure
 
 ---
 
-**Event 8 — Damage Control Passage**
 
 Jump exit brought silence that hurt worse than jamming.
 
@@ -3700,7 +3342,6 @@ The interior waited in the forward volume—unmapped, listened-to, and still pre
 
 ---
 
-### SECTION 4 — DISCOVERY
 
 The chapter's operational revelation was capability, not identity.
 
@@ -3733,7 +3374,6 @@ Who they were remained unanswered. What they could do was no longer deniable.
 
 ---
 
-### SECTION 5 — AFTERMATH STATE
 
 The *Kestrel Veil* held at post-jump interior coordinates unmapped on any fleet chart Reyes would certify as authoritative. Jump drive operational at reduced efficiency. Hull integrity eighty-one percent. Primary sensor mast segment four offline. Defensive control bus destroyed; Margaret on cold manual until full rebuild. Persistent hostile tag emission on hull port-aft—cannot silence without nav band sacrifice.
 
@@ -3761,54 +3401,17 @@ Reyes's sentence sat in the nav log like a door closing.
 
 ---
 
-### SECTION 6 — STATE UPDATE SUMMARY (DELTA ONLY)
+\newpage
 
-### SHIP STATE
-- location: KR-13 segment two stable dark margin → Korrath interior drift volume (local-observation jump exit; fleet-unmapped)
-- hull_integrity: 100 → 81 (ring four pressure door seven-C compromised/sealed; ring three micro-fractures post-jump)
-- system_status: degraded → heavily degraded (primary sensor mast segment four offline; defensive control bus destroyed; jump drive operational at reduced efficiency)
-- sensor_reliability: low → very low (primary degraded; redundant functional; arrays still diverge under stress)
-- weapon_system_status: operational → partial (Margaret/manual stagger only; full emitter rebuild required)
-- emissions_control: engaged → compromised (jump prep spike; persistent hull tag emission active port-aft)
-- passive_sensors_only: true → false during engagement; returned passive post-jump
+────────────────────────────────────────
 
-### COMMAND STATE
-- mission_clarity: low → lower (interior deep egress; fleet return path foreclosed)
-- command_confidence: observational authority under dark run → observational authority under combat (Calder delegated; no merge reliance; retreat as doctrine)
-- orders_consistency: inconsistent (unchanged institutional background)
+# ~ CHAPTER TWELVE ~
 
-### ANOMALY STATE
-- (anomaly_stage remains 3; no skip)
-- anomaly_effect_type: unchanged weather + active jamming/sensor split under hostile action; interior chart divergence operationalized
+## Broken Maps
 
-### CREW STATE
-- cohesion: strained → strained-welded (escape-under-fire anchor)
-- stress (Captain): high → very high (combat command; sleep debt; mission irreversibility)
-- stress (XO): medium-high → high (battle stations orchestration; damage liaison)
-- stress (Navigator): medium-high → high (interior jump authority; egress path closed aft)
-- stress (Engineer): medium-high → very high (hull/jump/drive triage; authorized combat bypass)
-- stress (Comms): high → very high (partial buffer loss; hostile metadata recovery)
-- stress (Tactical): high → high (engagement models; Hale integration; no humor except residual dry line)
-
-### KNOWLEDGE STATE
-- confirmed_facts: + followers committed with weapons lock and active illumination; + escort-class capability (jamming, surgical strikes, tag persistence, comm metadata intercept); + crew escaped via interior local jump (Reyes/Tanaka chart); + hull tag binds *Veil* to hostile tracking; + partial outbound queue metadata recovered by hostile force; + clean Korrath fringe egress foreclosed
-- suspected_facts: + hostile force aware of suppression/compartmentalization vocabulary; + interior Korrath volumes viable for continued evasion at cost; + tag may enable follow-on intercept deeper inside
-- contradicted_facts: + assumption shadowing could be indefinitely evaded without engagement; + assumption fleet egress solutions remain valid for *Veil* post-tag
-
-### LOCATION
-- KR-13 segment two stable dark waypoint margin → Korrath interior drift volume (post-jump; local observation coordinates)
-
-### MISSION STATUS
-- isolated; relay lost; buffers segregated (5–7+ intact); first engagement survived by retreat; anonymity compromised; forced deeper interior; Act III threshold—no return on prior vectors
+────────────────────────────────────────
 
 
-\\newpage
-
-# CHAPTER 12 — BROKEN MAPS
-
-## BROKEN MAPS
-
-### SECTION 1 — STATUS QUO
 
 "Then we go forward."
 
@@ -3884,7 +3487,6 @@ He would go forward because backward was closed.
 
 ---
 
-### SECTION 2 — OBJECTIVE
 
 **Primary Mission Objective:**
 
@@ -3896,9 +3498,7 @@ No fleet transmission. No sensor authority merge. Walsh remains on concussion-li
 
 ---
 
-### SECTION 3 — INCIDENT CHAIN
 
-**Event 1 — Damage Roll Call**
 
 Calder convened department heads at 0448—not battle stations, not transit authorization. Damage consolidation.
 
@@ -3944,7 +3544,6 @@ Thessaly: "Understood."
 
 Human victory from the engagement had been escape. Today's inventory was the price list.
 
-**Event 2 — Margaret's Funeral Schedule**
 
 Hale and Koss spent the next ninety minutes on Margaret's rebuild path without warming her.
 
@@ -3998,7 +3597,6 @@ She reviewed his posture for three seconds—the same scan she gave Calder befor
 
 "Forty minutes," she said. "Then you return to the rail or I return to the rail with you."
 
-**Event 3 — Tag Arithmetic**
 
 Calder returned to the command deck at 0644 with hydration and no measurable improvement in sleep debt.
 
@@ -4058,7 +3656,6 @@ Calder almost smiled again. Almost.
 
 Thessaly: "Aye, Captain."
 
-**Event 4 — Broken Maps**
 
 The interior volume refused fleet cartography with the calm indifference of weather.
 
@@ -4125,7 +3722,6 @@ Cole, back at relay: "That's the most Brenner sentence ever."
 
 Thin humor—survival flavor, not banter. Calder let it exist without encouraging more.
 
-**Event 5 — First Conditional Transit**
 
 Calder authorized first living-map transit at 1147: drift reposition from volume seven-alpha to seven-beta using **Corridor Null Split**—whisper thrust, no jump, observation-method hold while mast segment four repair attempt proceeded in parallel.
 
@@ -4181,7 +3777,6 @@ Calder: "Copy."
 
 The *Veil* held at seven-beta on whisper thrust, not victorious, not safe—**oriented by method**, which was the most honest word navigation had offered since relay contact ceased.
 
-**Event 6 — Who Chooses the Map**
 
 Department heads reconvened at 1402 with seven-beta hold stable and the living map's first operational cycle logged.
 
@@ -4263,7 +3858,6 @@ The tag pinged once, aft-port, as if reminding them that something outside still
 
 ---
 
-### SECTION 4 — DISCOVERY
 
 The single most important revelation of the chapter was not hostile identity. It was navigational methodology.
 
@@ -4283,7 +3877,6 @@ Calder could authorize method. He could not authorize certainty.
 
 ---
 
-### SECTION 5 — AFTERMATH STATE
 
 The *Kestrel Veil* held at interior drift volume seven-beta on whisper thrust, post-first living-map cycle. Hull integrity eighty-one percent unchanged. Jump drive operational at reduced efficiency. Primary sensor mast segment four online at forty-one percent effective—partial, corridor-biased. Defensive control bus destroyed; Margaret cold manual only. Persistent hull tag emission port-aft; nav band coupling logged, unmasked.
 
@@ -4309,54 +3902,17 @@ He would carry the question forward with the living map—both alive, both costl
 
 ---
 
-### SECTION 6 — STATE UPDATE SUMMARY (DELTA ONLY)
+\newpage
 
-### SHIP STATE
-- location: interior drift volume seven-alpha (post-jump hold) → interior drift volume seven-beta (first living-map cycle complete)
-- hull_integrity: 81 (unchanged; seven-C sealed; ring three micro-fractures stable)
-- system_status: heavily degraded → heavily degraded with partial nav recovery (mast segment four online 41% effective; Margaret cold manual; control bus destroyed)
-- sensor_reliability: very low → very low/bifurcated (primary partial recovery corridor-biased; redundant functional; arrays diverge by observation method—merge prohibited)
-- weapon_system_status: partial (Margaret cold manual stagger only; rebuild ongoing)
-- emissions_control: compromised (hull tag active port-aft; nav band coupling logged; no mask authorized)
-- passive_sensors_only: true (post-engagement hold; no active illumination)
+────────────────────────────────────────
 
-### COMMAND STATE
-- mission_clarity: lower → lower (interior forward viable; fleet return foreclosed; methodology replaces objective certainty)
-- command_confidence: observational authority under combat → observational authority under conditional navigation (living map doctrine authorized)
-- orders_consistency: inconsistent (unchanged institutional background; fleet orders structurally inapplicable)
+# ~ CHAPTER THIRTEEN ~
 
-### ANOMALY STATE
-- (anomaly_stage remains 3; no skip)
-- anomaly_effect_type: + observation-method-dependent spatial placement (mutually exclusive star/fix locations by array); + living map as operational response (contradiction preserved, not resolved)
+## Espionage
 
-### CREW STATE
-- cohesion: strained-welded → strained-welded (living-map cycle success anchor; fatigue elevated)
-- stress (Captain): very high → very high (sleep debt critical; conditional nav command burden)
-- stress (XO): high → high (damage/repair orchestration; doctrine logging)
-- stress (Navigator): high → high (living map lead; interior authority formalized)
-- stress (Engineer): very high → very high (partial mast recovery; Margaret rebuild; jump corridor tuning)
-- stress (Comms): very high → very high (tag coupling; relay absent; buffer discipline)
-- stress (Tactical): high → high (dual-path threat monitoring; ghost contact logged as method artifact)
-
-### KNOWLEDGE STATE
-- confirmed_facts: + interior volumes place reference objects in mutually exclusive locations by observation method; + KISU-7 store documents prior survey warning against merge; + crew operationalized living map (conditional corridors Primary-True, Redundant-True, Null Split, Hold); + first living-map cycle completed (seven-alpha → seven-beta; segment eight approach Primary-True); + mast segment four partial online 41% (corridor-biased); + tag couples to nav reference oscillator (position metadata sampling)
-- suspected_facts: + interior may reward preserved contradiction operationally; + hostile force may exploit merge pressure or single-solution assumptions; + fleet transmission of living map would be misread as error
-- contradicted_facts: + assumption one array will converge post-jump; + assumption partial mast recovery restores single-solution navigation
-
-### LOCATION
-- Korrath interior drift volume seven-alpha → seven-beta (local-observation coordinates; fleet-unmapped)
-
-### MISSION STATUS
-- isolated; relay lost; buffers segregated (5–7 intact); hull tag active; anonymity compromised; clean fringe egress foreclosed; living map navigation authority in effect; forward interior transit viable at cost of maintained contradictory models
+────────────────────────────────────────
 
 
-\\newpage
-
-# CHAPTER 13 — ESPIONAGE
-
-## ESPIONAGE
-
-### SECTION 1 — STATUS QUO
 
 The narrow path had not spoken since engagement peak, and Park had learned to distrust silence the way he distrusted clean checksums—both could mean honesty, both could mean someone had learned to mimic honesty well enough to pass a tired relay officer.
 
@@ -4398,7 +3954,6 @@ The lattice was somewhere in the buffers, waiting to be read the way Ortega read
 
 ---
 
-### SECTION 2 — OBJECTIVE
 
 **Primary Mission Objective:**
 
@@ -4410,9 +3965,7 @@ Passive analysis only. No master log merge. Preserve buffers five through seven 
 
 ---
 
-### SECTION 3 — INCIDENT CHAIN
 
-**Event 1 — Compartment Lists That Disagree**
 
 Thessaly convened lattice analysis at 0318 in the segregated review bay adjacent to ingestion—not command deck, not galley, the room Koss had certified for buffer read without ingestion path bleed. Calder attended for authorization boundaries only; Okwelu had ordered him to sit, and he sat on the edge of a equipment crate with hydration and the expression of a man who had decided sitting was a form of continuing command.
 
@@ -4470,7 +4023,6 @@ Calder absorbed that without comfort. Park had watched him learn comfort was mer
 
 "Continue," Calder said.
 
-**Event 2 — False Headers and Corrupted Authentication**
 
 By 0440, Cole had mapped congestion patterns across buffer six class-three fragments—the buried transmission layers that carried suppress-and-reclassify language and transmission withhold orders. Pattern was not random. Writes clustered on odd-sector boundaries in six-hour windows Walsh's **S** column had logged as flat-band events before headers were readable.
 
@@ -4524,7 +4076,6 @@ Calder almost smiled. Almost was the ship's humor budget.
 
 "Authorized," Calder said. "Continue lattice appendix. Park leads channel analysis. Walsh correlation. Cole congestion. Thessaly scope enforcement. Reyes—grid references only, then back to living map. No outbound."
 
-**Event 3 — Procedural Espionage: Reading the Pipes**
 
 Procedural espionage was not drama. It was timestamp discipline, partition keys, and the willingness to read a lie as a landmark.
 
@@ -4570,7 +4121,6 @@ Park: "Passive listen only."
 
 "Passive listen only," Thessaly confirmed.
 
-**Event 4 — Human Victory: Lattice Identified**
 
 The breakthrough was not dramatic. It was Cole tapping Park's arm once at 0741 before the display showed narrow-path carrier rise—a half-second tap, the same tap from chapter six when buffer five ingestion threatened overflow.
 
@@ -4632,7 +4182,6 @@ Calder's mouth moved once—not smile, acknowledgment that the crew had earned s
 
 He left for the rail. Park watched him go and understood the next event would find Calder alone with protection-or-cause while the lattice ticked in buffer five subpartition G like a clock that counted field units that no longer answered.
 
-**Event 5 — Calder and the Seam**
 
 Park heard Calder before he saw him—footfall on the command deck ladder, the particular pause Calder took at the rail when a decision had not yet earned its sentence. Park kept listen-only cycle running on shell seven cousin band with one ear on congestion and one on open comm discipline, the way he had since Theta-7 taught him that captains spoke differently when they thought relay was empty.
 
@@ -4674,7 +4223,6 @@ Thessaly: "Aye."
 
 Calder did not resolve protection versus cause. Park logged that non-resolution to buffer seven as **command state: dual model carry**—the most honest entry he had written since relay loss.
 
-**Event 6 — The Lattice Answers**
 
 The cost arrived at 0922, thirteen minutes after Park told Calder heartbeat null meant the lattice did not know their name.
 
@@ -4746,7 +4294,6 @@ He logged the cost without merge and returned to listen-only cycle.
 
 ---
 
-### SECTION 4 — DISCOVERY
 
 The chapter's revelation was institutional architecture, not cosmological cause.
 
@@ -4762,7 +4309,6 @@ Calder carried protection-versus-cause unresolved—dual model that suppression 
 
 ---
 
-### SECTION 5 — AFTERMATH STATE
 
 The *Kestrel Veil* held at interior drift volume seven-beta on whisper thrust, living-map doctrine active for cycle three. Hull integrity eighty-one percent unchanged. Primary sensor mast segment four at forty-one percent effective. Margaret cold manual. Defensive control bus destroyed. Jump drive operational at reduced efficiency. Hull tag active port-aft; nav band coupling logged; no mask authorized.
 
@@ -4784,54 +4330,17 @@ Park would listen for the next stagger window and refuse to merge the answers.
 
 ---
 
-### SECTION 6 — STATE UPDATE SUMMARY (DELTA ONLY)
+\newpage
 
-### SHIP STATE
-- location: interior drift volume seven-beta (unchanged; living-map cycle three proceeding)
-- hull_integrity: 81 (unchanged; seven-C sealed; ring three micro-fractures stable)
-- system_status: heavily degraded with partial nav recovery (unchanged; mast segment four 41%; Margaret cold manual; control bus destroyed)
-- sensor_reliability: very low/bifurcated (unchanged; merge prohibited; living map active)
-- weapon_system_status: partial (Margaret cold manual stagger only; unchanged)
-- emissions_control: compromised (hull tag active port-aft; nav band coupling logged; + lattice deprecated-auth listener exposure without coordinate disclosure)
-- passive_sensors_only: true (unchanged)
+────────────────────────────────────────
 
-### COMMAND STATE
-- mission_clarity: lower → lower (lattice architecture adds institutional structure; objective certainty unchanged)
-- command_confidence: observational authority under conditional navigation → observational authority under conditional navigation + segregated lattice intelligence (dual-model suppression carry; protection vs cause unresolved)
-- orders_consistency: inconsistent (unchanged; fleet orders structurally inapplicable; lattice heartbeat expects field units crew does not satisfy)
+# ~ CHAPTER FOURTEEN ~
 
-### ANOMALY STATE
-- (anomaly_stage remains 3; no skip)
-- anomaly_effect_type: + hidden research lattice as human institutional architecture (Interior Mandate / KISC / KISU continuity system); + suppression as inter-layer seam (not resolved as protection or cause)
+## Lines Of Loyalty
 
-### CREW STATE
-- cohesion: strained-welded → strained-welded (lattice map success anchor; institutional paranoia elevated)
-- stress (Captain): very high → very high (dual-model burden; lattice cost; sleep debt critical)
-- stress (XO): high → high (lattice session lead; doctrine logging; Calder tension witness)
-- stress (Navigator): high → high (grid cross-ref to living map; cycle three margins)
-- stress (Engineer): very high → very high (unchanged; mast/Margaret rebuild)
-- stress (Comms): very high → very high (+ lattice reply capture; listener-present cost; channel burden)
-- stress (Tactical): high → high (unchanged; ghost contact method artifact)
-
-### KNOWLEDGE STATE
-- confirmed_facts: + hidden research lattice confirmed (node families: platform anchors, interior segments, KISC relay shells, mandate dead-drops); + procedural espionage mechanics mapped (false headers, temporal dead-drops, corrupted auth paths, compartmentalized channels, disagreeing personnel lists); + faction instruction divergence preserved (Mandate/KISC/KISU stagger interpretation); + lattice shell seven heartbeat protocol live; + passive listen provoked inbound **listener present** reply (unknown field unit signature; continuity flag active); + lattice map sealed buffer seven subpartition seven-L
-- suspected_facts: + suppression functions as seam between incompatible institutional truths; + cartographer D.M. methodology role across KISU marks; + Interior Mandate and Fleet Operations may each have hidden truth from the other
-- contradicted_facts: + assumption suppression is single-faction malice only; + assumption deprecated auth paths are purely historical (lattice reply confirms live use)
-
-### LOCATION
-- Korrath interior drift volume seven-beta (unchanged; fleet-unmapped; living-map hold)
-
-### MISSION STATUS
-- isolated; relay lost; buffers segregated (5–7 intact; seven-L lattice appendix sealed); hull tag active; anonymity compromised (+ lattice listener-present on deprecated auth); clean fringe egress foreclosed; living map navigation authority in effect; hidden research lattice identified at operational structure level; forward interior transit viable at cost of maintained contradiction and institutional exposure
+────────────────────────────────────────
 
 
-\\newpage
-
-# CHAPTER 14 — LINES OF LOYALTY
-
-## LINES OF LOYALTY
-
-### SECTION 1 — STATUS QUO
 
 Fleet had not spoken in days, and now it would not stop talking.
 
@@ -4889,7 +4398,6 @@ The ship held. The orders accumulated. Calder waited for enough of the storm to 
 
 ---
 
-### SECTION 2 — OBJECTIVE
 
 **Primary Mission Objective:**
 
@@ -4901,9 +4409,7 @@ No outbound transmission that discloses position or surrenders segregated buffer
 
 ---
 
-### SECTION 3 — INCIDENT CHAIN
 
-**Event 1 — Deferred Orders That Disagree**
 
 Thessaly convened directive review at 1044 in the segregated review bay—not command deck, not galley, the room Koss had certified for buffer read without ingestion bleed. Calder attended because authorization boundaries required a captain's counter-signature even when every signature in the stack contradicted the last.
 
@@ -4979,7 +4485,6 @@ Thessaly watched him the way she watched damage tabs become doctrine.
 
 "Captain," she said—not urging, naming. "We need a line."
 
-**Event 2 — Pursuit Geometry**
 
 The directives were still arguing on Thessaly's tablet when Ortega reported pursuit at 1103.
 
@@ -5019,7 +4524,6 @@ Calder: "Lines of authority."
 
 He nodded once. "Convene department heads at 1130. Not directive review. Doctrine."
 
-**Event 3 — Colonial Relay and Civilian Corridor**
 
 At 1122, before the doctrine session, Park recovered a sixth fragment—colonial relay, not narrow path, checksum ugly but body intact.
 
@@ -5055,7 +4559,6 @@ Calder understood the weight: if Mandate headers said decommissioned and KISU fi
 
 He would not merge.
 
-**Event 4 — Loyalty Without Theater**
 
 Department heads convened at 1130 on the command deck—not battle stations, not segregated bay. Calder wanted the crew who would execute whatever line he drew to hear it spoken where stations could hear, because secrecy about loyalty was how institutions pretended obedience was uniform.
 
@@ -5135,7 +4638,6 @@ The acknowledgments moved around the ship like watch turnover—professional, un
 
 Calder felt something shift that was not relief. Relief assumed a problem solved. This was a problem **named**—loyalty redirected from institution to verifiable truth and the bodies that carried it.
 
-**Event 5 — Which Fleet Layer Survives Contact**
 
 Cycle three corridor selection logged at 1217—Primary-True segment nine approach, seven-beta toward seven-gamma, living map cycle breathing. Reyes did not celebrate. Celebration was merge pressure dressed as morale.
 
@@ -5219,7 +4721,6 @@ The ship had refused. Margaret had staggered cold. Reyes had held corridor margi
 
 That was not victory over pursuit. It was victory over **self-fracture**—the institution's favorite weapon when truth stopped fitting one chart.
 
-**Event 6 — Fugitive Record**
 
 They made seven-gamma at 1318—local observation drift volume, fleet-unmapped, living-map cycle three complete. Not safety. A coordinate the institution could not claim without choosing which faction's map to lie with.
 
@@ -5289,7 +4790,6 @@ He authorized forward.
 
 ---
 
-### SECTION 4 — DISCOVERY
 
 The chapter's revelation was institutional fracture made operational—not new cosmology, not lattice architecture, but **command legitimacy failure under deferred contact**.
 
@@ -5305,7 +4805,6 @@ The unanswered question: **If multiple authorities claim legitimacy, who command
 
 ---
 
-### SECTION 5 — AFTERMATH STATE
 
 The *Kestrel Veil* held at interior drift volume seven-gamma post-cycle-three transit. Hull integrity eighty-one percent unchanged. Primary sensor mast segment four at forty-one percent effective. Margaret cold manual. Defensive control bus destroyed. Hull tag active port-aft; nav band coupling logged; lattice listener-present exposure unchanged.
 
@@ -5327,54 +4826,17 @@ Calder carried the question forward with the living map and the sealed lattice�
 
 ---
 
-### SECTION 6 — STATE UPDATE SUMMARY (DELTA ONLY)
+\newpage
 
-### SHIP STATE
-- location: interior drift volume seven-beta → interior drift volume seven-gamma (living-map cycle three complete)
-- hull_integrity: 81 (unchanged; seven-C sealed; ring three micro-fractures stable)
-- system_status: heavily degraded with partial nav recovery (unchanged; mast segment four 41%; Margaret cold manual; control bus destroyed)
-- sensor_reliability: very low/bifurcated (unchanged; merge prohibited; living map active)
-- weapon_system_status: partial (Margaret cold manual stagger only; cold stagger fired 1233; unchanged rebuild status)
-- emissions_control: compromised (hull tag active port-aft; nav band coupling logged; + pursuit illumination exposure 1229–1233; no mask authorized)
-- passive_sensors_only: true (unchanged)
+────────────────────────────────────────
 
-### COMMAND STATE
-- mission_clarity: lower → lower (institutional authority fracture explicit; forward transit viable under internal doctrine)
-- command_confidence: observational authority under conditional navigation + segregated lattice intelligence → observational authority under **Lines of Loyalty** internal principle (truth, crew, civilians before institutional obedience)
-- orders_consistency: inconsistent → **actively contradictory** (multiple Fleet/faction directives received; dual-header Fleet Ops/Mandate order; compliance with one layer violates another)
+# ~ CHAPTER FIFTEEN ~
 
-### ANOMALY STATE
-- (anomaly_stage remains 3; no skip)
-- anomaly_effect_type: unchanged background (interior observation-method dependency; living map operational)
+## Siege Of Korrath
 
-### CREW STATE
-- cohesion: strained-welded → strained-welded (Lines of Loyalty doctrine anchor; professional loyalty test passed without fracture)
-- stress (Captain): very high → very high (+ fugitive authority burden; pursuit illumination decision)
-- stress (XO): high → high (+ doctrine logging; institutional defensibility loss acknowledged)
-- stress (Navigator): high → high (+ cycle three complete; shelter mark deferred)
-- stress (Engineer): very high → very high (unchanged)
-- stress (Comms): very high → very high (+ deferred order cache congestion; dual-header peel)
-- stress (Tactical): high → high (+ pursuit illumination; cold stagger execution)
-
-### KNOWLEDGE STATE
-- confirmed_facts: + contradictory directives received from Fleet Operations recovery, Interior Mandate continuity hold, Fleet Cartography merge emergency, civilian oversight evacuation fragment, KISC shell continuity reclassification, Helion Industrial Consortium franchise recovery; + Fleet is layered factions not monolithic command; + dual-header order (Fleet Ops auth skin / Mandate hostile body) at 1229; + corporate pursuit illumination 1229–1233; + **Lines of Loyalty** doctrine codified (truth, crew, civilians before institutional obedience); + fugitive status Mandate hostile tier and Cartography defect tier; + cycle three transit seven-beta → seven-gamma complete
-- suspected_facts: + Fleet Operations recovery directive may lack Mandate-authorized visibility; + corporate pursuit coordinated with franchise recovery law not Fleet custody; + civilian shelter mark KR-int shelter may intersect Primary-True corridor (unverified contact deferred)
-- contradicted_facts: + assumption Fleet contact restores single legitimate authority; + assumption institutional obedience remains viable without merge
-
-### LOCATION
-- Korrath interior drift volume seven-beta → seven-gamma (local-observation coordinates; fleet-unmapped; living-map hold)
-
-### MISSION STATUS
-- isolated; relay lost; buffers segregated (5–7 intact; seven-L lattice appendix sealed; Lines of Loyalty logged); hull tag active; anonymity compromised; institutional fugitive to Mandate/Cartography layers; Fleet Ops recovery deferred unverified; corporate pursuit paused; living map navigation authority in effect; forward interior transit viable under Lines of Loyalty at cost of multi-layer institutional hostility
+────────────────────────────────────────
 
 
-\\newpage
-
-# CHAPTER 15 — SIEGE OF KORRATH
-
-## SIEGE OF KORRATH
-
-### SECTION 1 — STATUS QUO
 
 The battle arrived as noise before it arrived as geometry.
 
@@ -5418,7 +4880,6 @@ The institution had sent contradictory orders to the *Veil*. Now it was sending 
 
 ---
 
-### SECTION 2 — OBJECTIVE
 
 **Primary Mission Objective:**
 
@@ -5430,9 +4891,7 @@ No outbound transmission disclosing *Veil* position or surrendering segregated b
 
 ---
 
-### SECTION 3 — INCIDENT CHAIN
 
-**Event 1 — Relay Weather**
 
 Thessaly convened battle-adjacent review at 0912—not battle stations, not yet. Calder wanted the shape before the category change.
 
@@ -5500,7 +4959,6 @@ Calder: "Exposure is a dial. We're choosing how far to turn it."
 
 That was command confidence Ch 11 had not granted him—the confidence to name tradeoffs without pretending Fleet math still applied. It was also moral burden Ch 14 had forecast: fugitive to institutions, translator to strangers, captain to crew who would execute because the line was written in truth before obedience.
 
-**Event 2 — Locally Useful Source**
 
 Identifying the beacon as usable was not victory. It was the prerequisite victory would steal from.
 
@@ -5574,7 +5032,6 @@ Ortega: "Call it anyway. I trust your grandmother more than Cartography today."
 
 Sharma did not answer. She did not need to. Running Dark had taught the crew that life support was tactical vocabulary when emissions discipline was life.
 
-**Event 3 — False Target Break**
 
 The correction did not stop fire. It created **hesitation**—the first human victory available in a siege of maps.
 
@@ -5630,7 +5087,6 @@ Okwelu checked Walsh's pupil response between packages. Walsh tolerated it with 
 
 "Continue," Okwelu said. Not to Walsh. To Calder. Permission with a ceiling.
 
-**Event 4 — Broken Maps as Terrain**
 
 Translator role turned navigation into diplomacy written in method tags.
 
@@ -5698,7 +5154,6 @@ Calder: "Then we choose cells where sending saves more than hiding costs."
 
 That was the moral math of siege—not win, **net preserve**. People who trained for fleet victory conditions had to learn a different arithmetic in Korrath interior. Calder had been learning since chapter twelve. This was the exam.
 
-**Event 5 — Human Victory**
 
 The breakthrough was not tactical dominance. It was **coordination without merge**—three ships acting on method-tagged local truth because the alternative was shooting their own maps.
 
@@ -5752,7 +5207,6 @@ Calder felt the ending question form before Thessaly spoke it.
 
 "And revealed ourselves," Calder finished, "to everyone capable of hunting us."
 
-**Event 6 — Siege Afterimage**
 
 The convergence did not end—it **reorganized**. Factions withdrew on incompatible bearings, each assuming the others had betrayed merge doctrine. The *Veil* held in segment eleven occluder shadow while the volume cooled from relay weather into pursuit weather.
 
@@ -5814,7 +5268,6 @@ Calder authorized forward—not because the volume was clear, because **backward
 
 ---
 
-### SECTION 4 — DISCOVERY
 
 The chapter's revelation was siege as **epistemic combat**—not anomaly spectacle, institutional merge exported as area fire control.
 
@@ -5830,7 +5283,6 @@ Unanswered question: **Prevented massacre, or revealed themselves to everyone ca
 
 ---
 
-### SECTION 5 — AFTERMATH STATE
 
 The *Kestrel Veil* held at interior drift volume seven-gamma segment eleven occluder shadow post-siege intervention. Hull integrity approximately eighty percent—ring three micro-fractures from proximity concussive, Koss assessment pending formal roll. Primary sensor mast segment four at forty-one percent effective unchanged. Margaret cold manual—twelve-second stagger window spent; four-hour cold recovery before next certified pulse. Defensive control bus destroyed; junction bypass holding. Tag active port-aft with **tripled** nav band coupling post-translator burst.
 
@@ -5852,54 +5304,17 @@ Calder carried **both** forward—because the alternative had been merge by prox
 
 ---
 
-### SECTION 6 — STATE UPDATE SUMMARY (DELTA ONLY)
+\newpage
 
-### SHIP STATE
-- location: interior drift volume seven-gamma (segment eleven occluder shadow hold; siege convergence volume adjacent)
-- hull_integrity: 81 → ~80 (ring three proximity concussive micro-fractures; Koss formal assessment pending)
-- system_status: heavily degraded with partial nav recovery (unchanged functional baseline; mast segment four 41%; Margaret cold manual post-window spend; control bus destroyed)
-- sensor_reliability: very low/bifurcated (unchanged; merge prohibited; living map validated under siege stress)
-- weapon_system_status: partial (Margaret cold manual; twelve-second stagger window **spent**; 4-hour cold recovery before next certified pulse; Hale partial spine rebuild holding)
-- emissions_control: compromised → **severely compromised** (translator narrow-path burst; tag coupling **tripled**; sideband exposure all factions; no mask authorized)
-- passive_sensors_only: true during hold; brief stagger pulse only
+────────────────────────────────────────
 
-### COMMAND STATE
-- mission_clarity: lower → lower (translator role defined; forward viable under Lines of Loyalty at extreme exposure cost)
-- command_confidence: observational authority under Lines of Loyalty → observational authority under Lines of Loyalty **plus translator intervention doctrine** (Calder decisive outward; moral burden explicit)
-- orders_consistency: actively contradictory → actively contradictory (combat merge overrides vs. Lines of Loyalty; intervention violates Cartography/Mandate/corporate expectations simultaneously)
+# ~ CHAPTER SIXTEEN ~
 
-### ANOMALY STATE
-- (anomaly_stage remains 3; no skip)
-- anomaly_effect_type: unchanged background (interior observation-method dependency; living map operational under multi-faction siege)
+## The Library
 
-### CREW STATE
-- cohesion: strained-welded → strained-welded (outward loyalty test passed; translator role accepted without fracture)
-- stress (Captain): very high → very high (+ translator exposure decision; massacre prevention burden)
-- stress (XO): high → high (+ siege coordination; exposure ledger)
-- stress (Navigator): high → high (+ living map siege validation; shelter occupancy confirmed Primary-True)
-- stress (Engineer): very high → very high (+ Margaret window spend; hull concussive assessment)
-- stress (Comms): very high → very high (+ translator payload gate; all-faction sideband exposure)
-- stress (Tactical): high → high (+ multi-faction envelope; pursuit contact committing)
-
-### KNOWLEDGE STATE
-- confirmed_facts: + Korrath interior siege multi-faction convergence (corporate franchise recovery, Mandate liaison, Fleet Ops escort, civilian tender *Meridian Span*); + Cartography combat merge override authorizes false fire zones; + merge fire targets incompatible with Primary-True civilian shelter occupancy; + KISU-7 KR-int beacon viable local truth source; + *Veil* translator intervention prevented massacre chain on Primary-True shelter approach; + Fleet beta, corporate alpha, *Meridian Span* acted on method-tagged corrections; + **translator role exposed to all hunting factions** (corporate noncompliant refresh, Mandate hostile repeat, Cartography active interference, KISC listener confirmation); + pursuit contact committing (chapter-eleven-class); + shelter mark probable occupancy **confirmed Primary-True**
-- suspected_facts: + hunters will coordinate without merge on translator capture/kill priority; + Fleet beta correction acknowledgment implies defect tier may coexist with field compliance
-- contradicted_facts: + assumption whisper hold preserves anonymity under moral intervention; + assumption siege volume can be navigated without faction awareness of *Veil* observation authority
-
-### LOCATION
-- Korrath interior drift volume seven-gamma segment eleven occluder shadow (post-siege hold; convergence volume adjacent)
-
-### MISSION STATUS
-- isolated; relay lost; buffers segregated (5–7 intact; translator intervention logged); hull tag active with tripled coupling; anonymity **compromised → strategically exposed**; fugitive all major layers; corporate/Mandate/Cartography/KISC pursuit **active**; living map and translator authority operational; forward interior transit viable only at hunter contact risk; human victory (massacre prevented) purchased with full-faction exposure
+────────────────────────────────────────
 
 
-\\newpage
-
-# CHAPTER 16 — THE LIBRARY
-
-## THE LIBRARY
-
-### SECTION 1 — STATUS QUO
 
 The structure had been on the board for six hours before Reyes admitted it was not drift.
 
@@ -6023,7 +5438,6 @@ The ship breathed whisper thrust and moved.
 
 ---
 
-### SECTION 2 — OBJECTIVE
 
 **Primary Mission Objective:**
 
@@ -6035,9 +5449,7 @@ Whisper thrust only; no Margaret pulse; no outbound translator burst; no primary
 
 ---
 
-### SECTION 3 — INCIDENT CHAIN
 
-**Event 1 — Approach Ladder**
 
 Reyes built the approach as a **ladder**, not a vector—each rung a paired observation state the ship had to hold simultaneously.
 
@@ -6083,7 +5495,6 @@ Reyes felt Alden's notebook weight in his pocket like a third instrument.
 
 Calder: "Continue."
 
-**Event 2 — Ingress Without Illumination**
 
 They did not light the Library.
 
@@ -6133,7 +5544,6 @@ Reyes checked three clocks that disagreed politely. "Primary-True: forty-one min
 
 Reyes initialized read protocol draft on buffer seven segregated partition, Calder watching without merging the draft into command authority.
 
-**Event 3 — Read Protocol (Contradiction Preserved)**
 
 The crew convened at navigation without battle stations—professional posture, tired faces, the particular focus of people who had survived siege by translating lies and could not afford to become mystical now.
 
@@ -6169,7 +5579,6 @@ Calder looked at the crew—not heroically. Logistically.
 
 Nobody laughed. The almost did not count today.
 
-**Event 4 — The Read**
 
 Reyes ran the protocol.
 
@@ -6228,7 +5637,6 @@ Reyes logged the fragment to buffer seven appendix with observation-method tags 
 
 Then the cost arrived.
 
-**Event 5 — Positional Adjustment**
 
 The Library did not attack. It **filed** them.
 
@@ -6260,7 +5668,6 @@ Hale: "If they illuminate us on exit, I have no Margaret window. Evasion is geom
 
 Calder: "Then geometry."
 
-**Event 6 — Shadow Reacquisition**
 
 They cleared faceted boundary into occluder shadow Primary-True hold with thirty-seven seconds of ladder margin Reyes would remember in dreams he did not admit.
 
@@ -6306,7 +5713,6 @@ He did not say the question aloud. Tanaka's color grammar already held three hue
 
 ---
 
-### SECTION 4 — DISCOVERY
 
 The chapter's revelation shifted scale from human conspiracy to **pre-human consequence** without resolving origin.
 
@@ -6322,7 +5728,6 @@ Unanswered question: **If the Library stores contradictions on purpose, what was
 
 ---
 
-### SECTION 5 — AFTERMATH STATE
 
 The *Kestrel Veil* held at interior drift volume seven-gamma segment eleven occluder shadow post-Library egress, whisper thrust, passive sensors only. Hull integrity approximately **seventy-nine percent**—ring three micro-fracture propagation from frame stress during positional adjustment; Koss formal assessment updated, not catastrophic. Primary sensor mast segment four at forty-one percent effective unchanged. Margaret cold manual—stagger window still spent; approximately three-point-five hours cold recovery remaining before Hale certifies next pulse. Defensive control bus destroyed; junction bypass holding. Tag active port-aft with **quadruple** nav band coupling post-Library adjustment spike.
 
@@ -6344,54 +5749,17 @@ Reyes maintained three hues on the living map and did not merge them.
 
 ---
 
-### SECTION 6 — STATE UPDATE SUMMARY (DELTA ONLY)
+\newpage
 
-### SHIP STATE
-- location: interior drift volume seven-gamma segment eleven occluder shadow (post-Library egress; archive-adjacent structure astern in redundant-True / Primary-True null relation)
-- hull_integrity: ~80 → **~79** (ring three micro-fracture propagation from Library positional adjustment frame stress; Koss formal assessment updated)
-- system_status: heavily degraded with partial nav recovery (unchanged functional baseline; mast segment four 41%; Margaret cold manual post-window spend ~3.5h recovery remaining; control bus destroyed)
-- sensor_reliability: very low/bifurcated (unchanged; merge prohibited; living map validated under Library ingress/egress)
-- weapon_system_status: partial (Margaret cold manual; stagger window spent; ~3.5h cold recovery before next certified pulse; Hale partial spine rebuild holding)
-- emissions_control: severely compromised → **severely compromised + observer-registration spike** (Library read triggered tag coupling quintuple spike; settled **quadruple** baseline; partial faction position refresh on sideband; no mask authorized)
-- passive_sensors_only: true (unchanged during hold and egress)
+────────────────────────────────────────
 
-### COMMAND STATE
-- mission_clarity: lower → **lower with structural reframing** (pre-human archival consequence confirmed at register level; origin/intent still withheld; forward viable at extreme exposure cost)
-- command_confidence: observational authority under Lines of Loyalty + translator doctrine → observational authority **plus archive-read doctrine** (Calder accepts Reyes-led contradiction-preserving read; moral burden + scale burden explicit)
-- orders_consistency: actively contradictory → actively contradictory (unchanged; Mandate archive-adjacent prohibition fragments vs. crew read under Lines of Loyalty; hunters partial-fix on observer adjustment)
+# ~ CHAPTER SEVENTEEN ~
 
-### ANOMALY STATE
-- (anomaly_stage remains 3; no skip)
-- anomaly_effect_type: + **Library** confirmed as pre-human archival infrastructure (non-mystical; gravitational/spatial/observational layers; truth stored as preserved disagreement); + register CV-7-minor (observation-method dependency = residual boundary condition; human suppression = response layer, not origin); + read protocol requires maintained contradiction; + observer positional adjustment on successful read; builders/intent/full register corpus **withheld**
+## Echoes
 
-### CREW STATE
-- cohesion: strained-welded → strained-welded (Library read passed as professional protocol; no crew fracture; awe absorbed as operational scale)
-- stress (Captain): very high → very high (+ archive-read authorization; dual exposure ledger translator + Library)
-- stress (XO): high → high (+ doctrine logging; read stop conditions; exposure accounting)
-- stress (Navigator): high → **very high** (+ Library approach/read lead; pre-human scale interpretive burden; positional adjustment cost)
-- stress (Engineer): very high → very high (+ hull fracture propagation; frame stress during read)
-- stress (Comms): very high → very high (+ partial faction position refresh capture; listener continuity in shadow)
-- stress (Tactical): high → high (+ pursuit geometry tightened post-adjustment; KISC listener in shadow depth)
-
-### KNOWLEDGE STATE
-- confirmed_facts: + archive-adjacent structure behind segment eleven occluder (**Library**)—ancient distributed architecture, non-human manufacture profile, accessible under contradictory observation; + records in gravitational/spatial, electromagnetic facet, and observational disagreement index layers; + register **CV-7-minor** extracted: interior observation-method dependency is residual pre-human archival boundary condition (not primary weapon/disaster/instrument error); + human suppression lattice (Mandate/KISC/KISU) is **response layer**, not origin layer; + Library read causes observer positional adjustment and tag coupling spike; + further registers exist requiring contradiction-preserving access; + Mandate fragments reference archive-adjacent ingress prohibition (**epistemic pair**); + KISC listener continuity confirmation inside occluder shadow depth post-read
-- suspected_facts: + hunters received partial position fix via observer-adjustment sideband, not full merge fix; + Library function may be **containment** as well as memory (register language ambiguous); + siege cease-fire on archive-adjacent volumes reflects institutional fear of merge touching registers; + positional adjustment may mark observers for continued tracking at structural level
-- contradicted_facts: + assumption interior phenomenon is primarily human-caused (weapon, disaster, or suppression origin); + assumption occluder shadow is only tactical cover (also alignment with archival access geometry); + assumption read without merge is purely human methodology (Library **requires** it—structure enforces contradiction preservation)
-
-### LOCATION
-- Korrath interior drift volume seven-gamma segment eleven occluder shadow (post-Library egress; archive-adjacent structure in redundant-True relation astern)
-
-### MISSION STATUS
-- isolated; relay lost; buffers segregated (5–7 intact; buffer seven Library appendix CV-7-minor); hull tag active **quadruple** coupling; anonymity strategically exposed → **observation-registered** (partial hunter fix + Library adjustment); fugitive all major layers; pursuit active and tightened; living map and translator authority operational; pre-human scale fact acquired without origin closure; forward interior transit viable only at hunter contact risk and maintained contradiction; human victory (one register read) purchased with hull degradation, tag intensification, and partial position disclosure
+────────────────────────────────────────
 
 
-\\newpage
-
-# CHAPTER 17 — ECHOES
-
-## ECHOES
-
-### SECTION 1 — STATUS QUO
 
 The echo arrived forty-one minutes after the Library filed them.
 
@@ -6507,7 +5875,6 @@ The echo was not cheap hallucination. Cheap hallucinations did not carry Sharma 
 
 ---
 
-### SECTION 2 — OBJECTIVE
 
 **Primary Mission Objective:**
 
@@ -6519,9 +5886,7 @@ Whisper hold in occluder shadow where Primary-True permits; no Margaret pulse; n
 
 ---
 
-### SECTION 3 — INCIDENT CHAIN
 
-**Event 1 — First Shelf (Personal Contamination)**
 
 Park and Reyes convened at relay primary with Cole on peel, Walsh at perimeter pen ready, Thessaly on doctrine tags, Calder listening without merging authority.
 
@@ -6587,7 +5952,6 @@ Okonkwo looked at Park. "Your officer hears voices structurally. Good. Tell him 
 
 Park logged *repetition vs request* in buffer seven segregated appendix before the doctrine had a header.
 
-**Event 2 — Crew Weather (Different Failures)**
 
 Echoes did not affect the crew uniformly—which was how Park knew they were not cheap hallucination. Cheap hallucinations were democratic. These were **targeted by instrument and wound.**
 
@@ -6645,7 +6009,6 @@ Park felt the old relay officer dread—not fear of enemies, fear of **channels 
 
 Cole: "Fourth load incoming. Congestion profile changing. Not clean bleed anymore—**structured.**"
 
-**Event 3 — Hopes and Registers (Temporal Pressure)**
 
 The fourth echo was the one that destabilized Park personally, which meant he should have classified it dangerous immediately and instead listened twice because it was addressed to the part of him that was still a son on Helion Prime.
 
@@ -6729,7 +6092,6 @@ He thought of Cole identifying flat lines by ear for six chapters.
 
 Calder: "Then we write rules fast."
 
-**Event 4 — Echo Doctrine (Park / Reyes)**
 
 They wrote it at relay primary with Thessaly logging headers, Walsh copying column **L**, Calder authorizing without merging into command authority, Okonkwo contributing KISU stagger precedent read-only, Koss vetoing any clause that let echoes override engineering certify.
 
@@ -6779,7 +6141,6 @@ Okonkwo stood with Okwelu's hand on her elbow. "Watcher's Mark taught me stagger
 
 Cole nodded once. Park saw the fear in the nod and logged it as trust anyway.
 
-**Event 5 — The Cost Echo (Cannot Ignore)**
 
 The doctrine was eleven minutes old when the sixth echo arrived.
 
@@ -6872,7 +6233,6 @@ The ship breathed whisper thrust and did not merge.
 
 ---
 
-### SECTION 4 — DISCOVERY
 
 Post-Library **echo traffic** confirmed as register-adjacent bleed coupling to buffer seven appendix and narrow-path sideband—future-relative timestamps, Library layer metadata (gravitational shelf, facet index, Primary-True null placeholders), and KISU/Watcher's Mark stagger grammar. Not cheap hallucination: echoes affected crew by instrument and wound (Park personal band, Okonkwo debrief replay, Halden merge-bait sideband, Koss fracture telemetry alignment, Ortega relation spikes).
 
@@ -6886,7 +6246,6 @@ Unanswered question: **If the future appears as record — warning, memory, or t
 
 ---
 
-### SECTION 5 — AFTERMATH STATE
 
 The *Kestrel Veil* held whisper in segment eleven occluder shadow under tightened pursuit geometry, echo load rising with maintained peel pairs. Hull integrity **seventy-nine percent** unchanged—ring three fracture telemetry ticks continue; Koss refuses sprint certify under echo urgency. Primary sensor mast segment four forty-one percent. Margaret cold manual ~3.5h recovery remaining. Tag **quadruple** baseline port-aft. Defensive control bus destroyed; junction bypass holding. Passive sensors only.
 
@@ -6906,55 +6265,17 @@ Park maintained peel pair and did not merge.
 
 ---
 
-### SECTION 6 — STATE UPDATE SUMMARY (DELTA ONLY)
+\newpage
 
-### SHIP STATE
-- location: interior drift volume seven-gamma segment eleven occluder shadow (unchanged hold; pursuit geometry tightened under echo watch)
-- hull_integrity: ~79 (unchanged; ring three fracture telemetry ticks continue; no sprint certify under echo urgency)
-- system_status: heavily degraded baseline unchanged (mast segment four 41%; Margaret cold manual ~3.5h recovery; control bus destroyed)
-- sensor_reliability: very low/bifurcated (unchanged; + echo traffic correlates with redundant relation spikes on passive sweep)
-- weapon_system_status: partial (Margaret cold; stagger window spent)
-- emissions_control: severely compromised + observer-registration (tag **quadruple** baseline unchanged; + echo bleed on local relay bus post-Library harmonic; listener continuity acknowledgment in echo metadata)
-- passive_sensors_only: true
+────────────────────────────────────────
 
-### COMMAND STATE
-- mission_clarity: lower with structural reframing → lower (+ temporal/causal pressure via echo traffic; forward viable only under peel pair + shadow hold discipline)
-- command_confidence: observational authority + archive-read doctrine → + **echo doctrine** (Calder authorizes Park/Reyes rules; action forbidden on single echo; personal contamination relief without penalty)
-- orders_consistency: actively contradictory (unchanged; + echo three Mandate merge-bait vs Lines of Loyalty; + relation echoes preserve disagreement)
+# ~ CHAPTER EIGHTEEN ~
 
-### ANOMALY STATE
-- (anomaly_stage remains 3)
-- anomaly_effect_type: + **echo traffic** (register-adjacent bleed; future-relative timestamps; Library/KISU layer metadata); + consequence register relation maps (**EV-CASUALTY-ADJACENT**); + echo load rises with maintained peel/classification activity; + ambiguity preserved (record/prediction/alternate/manipulation)
+## Into The Fold
 
-### CREW STATE
-- cohesion: strained-welded → strained-welded (+ personal destabilization; absorbed via echo doctrine; peel pair formalized)
-- stress (Captain): very high (+ echo constraint command; pursuit tightening)
-- stress (XO): high (+ doctrine dissemination; relief enforcement coordination)
-- stress (Navigator): very high (+ shadow hold under relation coupling; echo doctrine co-author)
-- stress (Engineer): very high (+ fracture tick alignment to echo timestamps; refuses echo-driven sprint)
-- stress (Comms): very high → **critical** (+ future-shaped personal echo; Cole named in casualty-adjacent relation map; peel pair survival procedure)
-- stress (Tactical): high (+ merge-bait echo three; pursuit commit geometry)
-- stress (Okonkwo): elevated (+ stagger precedent consult; medical limited clearance)
-
-### KNOWLEDGE STATE
-- confirmed_facts: + post-Library echo traffic couples to buffer seven appendix / narrow sideband with future-relative timestamps and Library layer tags; + echoes classify as repetition/request/relation; + **Echo Doctrine** authorized (Park/Reyes); + relation echo links quadruple tag hold without peel pair to casualty-adjacent comms and/or structural paths under preserved disagreement; + Watcher's Mark stagger grammar matches echo character (Okonkwo testimony); + KISC listener continuity acknowledgment appears in echo metadata
-- suspected_facts: + echoes may be consequence register bleed, not sentient prophecy; + hostile factions may inject merge-bait using Library grammar; + personal band echoes exploit senior officer wounds; + maintaining peel pair and refusing merge may prevent single-map casualty collapse (unverified)
-- contradicted_facts: + assumption echo phenomena are hallucination or uniform crew experience; + assumption future timestamps are always spoof (partial auth and Library metadata complicate)
-
-### LOCATION
-- Korrath interior drift volume seven-gamma segment eleven occluder shadow (echo watch; pursuit tightened)
-
-### MISSION STATUS
-- isolated; relay lost; buffers segregated (5–7 intact; buffer seven Library + Echo Doctrine + six echo payloads); hull tag quadruple; observation-registered; fugitive all layers; pursuit active tightened; living map + translator + archive-read + **echo doctrine** operational; human victory (rules for usable vs dangerous echoes); cost (Cole named in future relation map crew cannot ignore without merge); forward viable only under shadow hold, peel pairs, and maintained contradiction; momentum toward Fold decision (Ch. 18) under causal pressure
+────────────────────────────────────────
 
 
-\\newpage
-
-# CHAPTER 18 — INTO THE FOLD
-
-## INTO THE FOLD
-
-### SECTION 1 — STATUS QUO
 
 The shadow broke at 1647 ship time, which meant it broke the way everything broke on the *Kestrel Veil*—in two true shapes at once.
 
@@ -7028,7 +6349,6 @@ Calder intended to choose.
 
 ---
 
-### SECTION 2 — OBJECTIVE
 
 **Primary Mission Objective:**
 
@@ -7046,9 +6366,7 @@ Ingress may sever or distort **external reference frame**—Fleet timestamps, ma
 
 ---
 
-### SECTION 3 — INCIDENT CHAIN
 
-**Event 1 — The Rational Move (Calder / Reyes)**
 
 They convened at decision stations without ceremony—the same deck geometry as battle, different register in the voices. Calder sat at the command rail because sitting was not weakness when standing had become performance. Reyes stood at navigation primary with Alden's notebook open and the living map breathing three hues plus the missing pulse Tanaka refused to restore. Park and Cole at relay peel pair. Halden tactical feed. Koss engineering loop. Thessaly doctrine tags. Walsh perimeter pen, head movement restricted, pen ready.
 
@@ -7114,7 +6432,6 @@ Calder had chosen initiative over reaction.
 
 It did not feel like triumph. It felt like the only rational move left after seven chapters of paying for merge refusals—and that was exactly why he trusted it.
 
-**Event 2 — Approach Under Contradiction (Translator Weather)**
 
 Whisper thrust engaged along occluder membrane tangent—Koss's ring three tick rising on schedule, Brenner's voice on junction channel counting stress the way Cole counted flat lines: by ear, without drama.
 
@@ -7154,7 +6471,6 @@ Calder: "Acknowledged. No reply."
 
 That was Lines of Loyalty in practice: silence to institution, truth to crew.
 
-**Event 3 — Fold Threshold (Living Map / CV-7-minor)**
 
 Convergence coordinate resolved at 1701—not a door, a **relation line** on the living map where Primary-True null met Redundant-True facet stack.
 
@@ -7188,7 +6504,6 @@ The Fold did not explode.
 
 It **folded.**
 
-**Event 4 — Core Mechanism (Ingress Without Spectacle)**
 
 Calder would remember later—if later still had memory grammar—that ingress felt like entering a room where the walls were made of **how you looked at walls.**
 
@@ -7256,7 +6571,6 @@ Reyes updated living map with a marginal note Calder saw upside-down from the ra
 
 Alden's handwriting in Reyes's pen—tradition, not forgery.
 
-**Event 5 — Steve (Passage)**
 
 Someone opened the port passage hatch from tactical secondary to nav spine without being asked—supply case, two sealed fluid pouches, a roll of patch tape that had followed the ship since chapter four like a minor superstition.
 
@@ -7276,7 +6590,6 @@ Thessaly: "His name is Steve."
 
 Calder did not defend himself. Steve was optional weather in the human system—brief, final Act III appearance, no answers origination, only **continuity.** Calder made a note on Thessaly's pad to learn the name before Act IV asked something worse of him.
 
-**Event 6 — Reference Loss (Quiet Ending)**
 
 They held ingress state for eleven minutes because eleven minutes was how long the ship needed to prove peel pair, living map, and ring three watch could operate inside mechanism without merging authority for comfort.
 
@@ -7354,7 +6667,6 @@ Act IV would require a different grammar.
 
 ---
 
-### SECTION 4 — DISCOVERY
 
 **Fold confirmed** as anomaly core mechanism—active process adjacent to Library archive, ingress viable under living-map contradictory observation approach (Primary-True tangent misdirection / Redundant-True inward shelf vector maintained without nav merge). Register CV-7-minor boundary-condition knowledge operationalized at threshold crossing; ingress experienced as **frame slip** not detonation—external parallax baseline lost Primary-True, local relation indices hold redundant peel.
 
@@ -7374,7 +6686,6 @@ Unanswered question: **Can they return from a place where reference itself no lo
 
 ---
 
-### SECTION 5 — AFTERMATH STATE
 
 The *Kestrel Veil* held inside Fold convergence state—segment eleven core mechanism ingress complete, location unreferenced on fleet master lattice; local living-map relation tree operational. Hull integrity **seventy-nine percent** unchanged through ingress—ring three tick stable, echo seventy-two threshold not crossed; no sprint certify under echo urgency. Primary sensor mast segment four forty-one percent. Margaret cold manual ~3h recovery remaining. Tag **quadruple** baseline port-aft—coupling character altered post-ingress (observer-registration decoupled from sideband faction refresh; self-echo acknowledgment redundant peel only). Defensive control bus destroyed; junction bypass holding. Passive sensors only; returns index-relation without master-frame coordinates.
 
@@ -7396,55 +6707,17 @@ Calder held contradiction at the rail and did not merge.
 
 ---
 
-### SECTION 6 — STATE UPDATE SUMMARY (DELTA ONLY)
+\newpage
 
-### SHIP STATE
-- location: interior drift volume seven-gamma segment eleven occluder shadow → **Fold convergence core mechanism (ingress complete; unreferenced on fleet master lattice)**
-- hull_integrity: ~79 (unchanged through ingress; ring three tick stable; echo seventy-two threshold not crossed)
-- system_status: heavily degraded baseline unchanged (mast segment four 41%; Margaret cold manual ~3h recovery; control bus destroyed)
-- sensor_reliability: very low/bifurcated → **very low/bifurcated + reference-slip** (Primary-True external parallax baseline lost; redundant peel holds local relation indices only; master chart overlay empty)
-- weapon_system_status: partial (Margaret cold; stagger window spent)
-- emissions_control: severely compromised + observer-registration → **severely compromised + Fold-decoupled** (tag quadruple baseline character altered; faction sideband refresh absent; self-echo redundant peel only)
-- passive_sensors_only: true
+────────────────────────────────────────
 
-### COMMAND STATE
-- mission_clarity: lower with structural reframing → **reframed under reference loss** (operational clarity local relation tree; return/institutional re-entry **uncertifiable** Primary-True)
-- command_confidence: observational authority + echo doctrine → observational authority **under deliberate ingress choice** (Calder initiative over reaction; Lines of Loyalty authorization; narrower confidence, higher crew-trust dependency)
-- orders_consistency: actively contradictory → actively contradictory **with external authority orphaned** (Mandate prohibition irrelevant to Fold state; Fleet directives unreachable)
+# ~ CHAPTER NINETEEN ~
 
-### ANOMALY STATE
-- (anomaly_stage remains 3)
-- anomaly_effect_type: + **Fold** confirmed as core active mechanism (process adjacent to Library archive); + ingress via maintained Primary-True/Redundant-True contradiction; + **reference frame orphaning** (external parallax, fleet lattice, authenticated relay return absent Primary-True); + echo traffic decoupled from sideband post-ingress; builders/intent/return grammar **withheld**
+## First Truth
 
-### CREW STATE
-- cohesion: strained-welded → strained-welded **+ deliberate commitment anchor** (professional ingress without ceremony; no fracture; peel pair holds)
-- stress (Captain): very high → very high (+ deliberate irreversible ingress command; reference loss burden; sleep debt critical)
-- stress (XO): high → high (+ Lines of Loyalty ingress logging; reference drift accounting)
-- stress (Navigator): very high → **critical** (+ Fold navigation authority; external reference loss; return unknown)
-- stress (Engineer): very high → very high (+ ring three ingress watch; tick stable; echo sprint refused)
-- stress (Comms): critical → critical (+ unlabeled congestion weather; orphaned outbound; peel pair holds)
-- stress (Tactical): high → medium-high (− pursuit commit pressure Primary-True; + referenceless threat model rebuild pending)
-- stress (Okonkwo): elevated (unchanged; limited clearance)
-
-### KNOWLEDGE STATE
-- confirmed_facts: + **Fold** is anomaly core mechanism, ingress viable under living-map contradictory observation approach; + Calder authorized deliberate ingress under Lines of Loyalty (not pursuit/Mandate forced); + CV-7-minor boundary-condition knowledge operational at threshold; + ingress causes **external reference orphaning** (Fleet handshake absent, master lattice empty, outbound orphaned not blocked); + pursuit misreferenced on Primary-True fiction (not confirmed destroyed); + echo load decouples post-ingress; + Cole/ring-three seventy-two echo threshold not crossed during ingress (hull 79% unchanged)
-- suspected_facts: + return may require rebuilding reference from local relation tree or Fold return grammar; + hunters may reacquire if *Veil* exits Fold into certifiable frame; + Fold interior enables Act IV First Truth observation scale; + tag quadruple coupling may behave differently inside mechanism
-- contradicted_facts: + assumption exterior reference persists through core ingress; + assumption pursuit commit geometry forces Fold entry (crew chose initiative); + assumption ingress requires Margaret pulse or translator burst (withhold discipline sufficient)
-
-### LOCATION
-- Korrath interior drift volume → **Fold convergence core mechanism (unreferenced fleet coordinates; local relation tree active)**
-
-### MISSION STATUS
-- isolated; relay **orphaned** (not merely lost); buffers segregated (5–7 intact; buffer seven Library + Echo Doctrine + echoes); hull tag quadruple altered coupling; observation-registered → **reference-orphaned inside Fold**; fugitive all prior layers now unreachable; pursuit misreferenced Primary-True; living map + translator withhold + archive-read + echo doctrine operational under **referenceless frame**; human victory (deliberate ingress on own terms); cost (external reference may be irrecoverable); momentum into Act IV Ch. 19 First Truth under local relation navigation; forward viable only inside Fold grammar until return question resolved
+────────────────────────────────────────
 
 
-\\newpage
-
-# CHAPTER 19 — FIRST TRUTH
-
-## FIRST TRUTH
-
-### SECTION 1 — STATUS QUO
 
 The Fold did not announce itself with spectacle. It announced itself with **grammar.**
 
@@ -7508,7 +6781,6 @@ Thessaly's look was not argument. It was **sequence**—the same register Reyes 
 
 ---
 
-### SECTION 2 — OBJECTIVE
 
 **Primary Mission Objective:**
 
@@ -7540,9 +6812,7 @@ Calder: "Acknowledged. Objective stands."
 
 ---
 
-### SECTION 3 — INCIDENT CHAIN
 
-**Event 1 — Food as Procedure (Thessaly / Calder)**
 
 The galley was too small for fourteen people and exactly the right size for six who needed to remember they had mouths.
 
@@ -7588,7 +6858,6 @@ Steve was not in the corridor. Steve was never where you looked. The patch tape 
 
 ---
 
-**Event 2 — Depth Increment One (Koss / Reyes / Ortega)**
 
 Before increment one, Calder convened at decision stations—not battle, **exploration under constraint.**
 
@@ -7666,7 +6935,6 @@ Koss: "Clear. Ring three tick seventy-nine point zero. Metal synchronized. Proce
 
 ---
 
-**Event 3 — Ortega's Star (Chapter One Reframed)**
 
 Increment three opened a **witness chamber**—not a room, a relation volume where Primary-True displayed command deck continuity and Redundant-True displayed **register theatre** around it.
 
@@ -7748,7 +7016,6 @@ Calder: "Increment four on clear."
 
 ---
 
-**Event 4 — Park and Cole (Signal vs Noise)**
 
 Increment four changed peel congestion from texture to **language.**
 
@@ -7798,7 +7065,6 @@ Calder returned to rail. Increment five waited. His chest felt wider—not easie
 
 ---
 
-**Event 5 — Crew Debate (Merge, Library, Suppression)**
 
 Increment five opened a relation gallery—not visual art, **record strata** readable only when three observational families remained in argument.
 
@@ -7872,7 +7138,6 @@ Silence—not awe as religion. Awe as **scale with checklist.**
 
 ---
 
-**Event 6 — Reyes Leads (Calder Trust Beat)**
 
 The debate did not end with summary extraction. It **continued** because understanding at this scale was not a sentence—it was **discipline.**
 
@@ -7978,7 +7243,6 @@ Calder did not say that aloud. Saying would have been performance. Trust was **s
 
 ---
 
-**Event 7 — Fold Heart (Discovery Through Participation)**
 
 The heart was not visual. It was **operational.**
 
@@ -8056,7 +7320,6 @@ Trust was not belief. Trust was **delegation without institutional corroboration
 
 ---
 
-**Event 7b — Koss Keeps the Ship Alive (Exploration Cost)**
 
 Heart index cycling raised thermal load without exterior cold sink. Sharma's local equilibrium fiction strained.
 
@@ -8074,7 +7337,6 @@ That was crew victory inside cosmic payoff—**infrastructure as love.**
 
 ---
 
-**Event 8 — Walsh Historical Record (Fragments)**
 
 Walsh wrote column **L** entries with head movement restricted and pen steady—the ship's historian because someone had to be when institutions orphaned truth.
 
@@ -8116,7 +7378,6 @@ Walsh pen: "1930. Column **L**. We were witnesses. Full stop."
 
 ---
 
-**Event 9 — Steve (Passage)**
 
 The port passage hatch cycled without request—supply pouch, sealed tea bulbs Thessaly actually used, one roll patch tape that had followed the ship since chapter four.
 
@@ -8138,7 +7399,6 @@ Thessaly: "Act IV already is something worse. **Choice.**"
 
 ---
 
-**Event 10 — Okwelu (Human Cost Reminder)**
 
 Okwelu appeared on command deck with the walk of a man who counted bodies by **sleep debt** and **concussion watches** rather than hull percentages.
 
@@ -8168,7 +7428,6 @@ The almost counted. Okwelu left. The cost remained named—not melodrama, **inve
 
 ---
 
-**Event 11 — Private Calder / Thessaly**
 
 Thessaly found Calder at rail during relation hold—heart index cycling, peel pair breathing, ring three humming.
 
@@ -8216,7 +7475,6 @@ Thessaly nodded. "Enable others. That's my job now. Your job is **trust them whe
 
 ---
 
-**Event 12 — Private Calder / Reyes (Trust Without Speech)**
 
 Later—relation hold stable, Walsh logging, Koss watching ring three—Reyes joined rail without notebook.
 
@@ -8258,7 +7516,6 @@ Calder: "Fleet is orphaned. File under **local truth.**"
 
 ---
 
-**Event 13 — Threshold (Understanding Sufficient to Act)**
 
 They held at Fold heart for forty-one minutes because forty-one was how long Ortega required to certify SO-M4 equivalent stable across three cycles and Park required to classify signal-under-noise without merge pressure and Koss required to prove ring three tick could remain seventy-nine while philosophy occurred.
 
@@ -8370,7 +7627,6 @@ The *Kestrel Veil* breathed whisper inside Fold heart and waited for egress plan
 
 ---
 
-### SECTION 4 — DISCOVERY
 
 **First Truth confirmed** at operational scale inside Fold convergence heart: anomaly is **observation-dependent reality mapping**—region stores/resolves measurement by preserving incompatible observational outcomes in relation; merge destroys usable information; single-solution collapse fatal physically (hull/frame) and institutionally (command coherence).
 
@@ -8400,7 +7656,6 @@ The *Kestrel Veil* breathed whisper inside Fold heart and waited for egress plan
 
 ---
 
-### SECTION 5 — AFTERMATH STATE
 
 The *Kestrel Veil* holds inside Fold convergence heart post-First Truth read—relation depth at process center, local living-map tree operational, exterior reference absent. Hull integrity **seventy-nine percent** unchanged through exploration increments; ring three tick stable; echo seventy-two threshold not crossed. Primary sensor mast segment four forty-one percent. Margaret cold manual ~2h recovery remaining. Tag quadruple baseline Fold-decoupled. Relay orphaned. Buffer seven appendix **First Truth** + Library CV-7-minor + Echo Doctrine segregated.
 
@@ -8416,55 +7671,17 @@ Calder held contradiction at the rail and did not merge.
 
 ---
 
-### SECTION 6 — STATE UPDATE SUMMARY (DELTA ONLY)
+\newpage
 
-### SHIP STATE
-- location: Fold convergence core mechanism ingress → **Fold convergence heart / process center (relation depth twelve-delta; unreferenced fleet lattice)**
-- hull_integrity: ~79 (unchanged through First Truth exploration; ring three tick stable; echo seventy-two threshold not crossed)
-- system_status: heavily degraded baseline unchanged (mast segment four 41%; Margaret cold manual ~2h recovery; control bus destroyed)
-- sensor_reliability: very low/bifurcated + reference-slip → **very low/bifurcated + First Truth witness validated** (SO-M4 equivalent relation reproduced; dual fix held without merge; heart index operational)
-- weapon_system_status: partial (Margaret cold; stagger window spent)
-- emissions_control: severely compromised + Fold-decoupled (tag quadruple baseline unchanged character)
-- passive_sensors_only: true
+────────────────────────────────────────
 
-### COMMAND STATE
-- mission_clarity: reframed under reference loss → **reframed + First Truth operational comprehension** (structural understanding sufficient to act; return/institutional re-entry still uncertifiable Primary-True)
-- command_confidence: observational authority under deliberate ingress → observational authority **+ crew-trust navigation** (Calder delegates Reyes path without fleet corroboration; narrower institutional confidence, higher crew dependency)
-- orders_consistency: actively contradictory with external authority orphaned → unchanged (Mandate/Fleet unreachable; Lines of Loyalty governs)
+# ~ CHAPTER TWENTY ~
 
-### ANOMALY STATE
-- (anomaly_stage remains 3)
-- anomaly_effect_type: + **First Truth confirmed** at Fold heart (observation-dependent reality mapping; merge destroys information; Library=archive/contain; Fold=active boundary/process; suppression=response layer; civilizational divergence=grammar incompatibility); + SO-M4 relation reproduced as mechanism demonstration; builders/intent/return grammar/custodianship **withheld**
+## Fleet Divided
 
-### CREW STATE
-- cohesion: strained-welded + deliberate commitment → strained-welded **+ First Truth anchor** (shared meal; debate; trust beats; humor; no fracture)
-- stress (Captain): very high → very high (+ First Truth command burden; trust delegation; sleep debt; **understanding threshold crossed**)
-- stress (XO): high → medium-high (− enabling success; + forward human-choice burden)
-- stress (Navigator): critical → critical (+ Fold heart lead validated by Calder trust; return grammar burden)
-- stress (Engineer): very high → very high (unchanged; stress gates passed)
-- stress (Comms): critical → critical (+ signal/noise doctrine articulated; peel pair holds)
-- stress (Tactical): medium-high → medium-high (unchanged; bored board maintained)
-- stress (Okonkwo): elevated (unchanged)
-
-### KNOWLEDGE STATE
-- confirmed_facts: + **First Truth** operational—anomaly is observation-dependent reality mapping/reference grammar failure at scale; + observation affects reality via regional storage/resolution of measurement (not magic); + contradictory records = truth stored as disagreement; merge destroys usable information; + merge fails physically/institutionally (single-solution collapse fatal); + Library preserves contradiction (archival contain/remember); + suppression = Mandate/KISC **response** to epistemic collapse (not origin); + civilizations diverged via incompatible observation grammars; + Fold = active mechanism rebuilding reference from maintained contradiction at grammar boundary; + SO-M4 dual fix reframed as valid coupled records (Ch1 callback inside Fold); + Park signal/noise doctrine; + Calder trusts Reyes navigation without fleet corroboration
-- suspected_facts: + return requires Fold return grammar or rebuild reference from local contradiction; + humanity's next choice (act on truth without merge) defines Act IV political/military fracture; + hunters remain misreferenced Primary-True, may reacquire on exit to certifiable frame
-- contradicted_facts: + assumption anomaly is primarily sensor/communication error at root; + assumption Fleet merge decree resolves contradiction; + assumption understanding requires origin mythology; + assumption Calder must institutional-corroborate Reyes before navigation authority
-
-### LOCATION
-- Fold convergence core mechanism (ingress) → **Fold convergence heart / process center (relation depth twelve-delta)**
-
-### MISSION STATUS
-- isolated; relay orphaned; buffers segregated (First Truth appendix added buffer seven); hull tag quadruple Fold-decoupled; reference-orphaned inside Fold; pursuit misreferenced; living map + peel pair + Echo Doctrine + Lines of Loyalty operational; **First Truth acquired—intellectual payoff delivered**; human victory (understanding sufficient to act); cost (reference orphaned, human exhaustion); momentum to Ch. 20 Fleet Divided—**what humanity does with truth**; egress planning next; wonder intact; forward question sequel-facing
+────────────────────────────────────────
 
 
-\\newpage
-
-# CHAPTER 20 — FLEET DIVIDED
-
-## FLEET DIVIDED
-
-### SECTION 1 — STATUS QUO
 
 Thessaly had learned to measure time in **headers** again.
 
@@ -8502,7 +7719,6 @@ He stood, rolled his neck once, accepted the tea bulb Thessaly had kept warm aga
 
 ---
 
-### SECTION 2 — OBJECTIVE
 
 **Primary Mission Objective:**
 
@@ -8546,9 +7762,7 @@ Thessaly aligned corners on the objective pad the way she had aligned corners si
 
 ---
 
-### SECTION 3 — INCIDENT CHAIN
 
-**Event 1 — Two Streams (Reyes / Thessaly)**
 
 Reyes convened navigation stream at the living map with Tanaka, Ortega, Koss on engineering ring listen-only. Thessaly convened political stream at liaison perimeter with Park, Cole, Walsh, Halden for tactical crosswalk, Okwelu for casualty-adjacent header vocabulary.
 
@@ -8566,7 +7780,6 @@ Walsh's pen lifted. "Ready."
 
 ---
 
-**Event 2 — Food as Parallel Procedure (Thessaly / Calder / Crew)**
 
 Thessaly had learned in chapter nineteen that understanding required food. Egress planning required food twice.
 
@@ -8590,7 +7803,6 @@ He ate.
 
 ---
 
-**Event 3 — First Bleed Window (Park / Cole / Thessaly)**
 
 The bleed arrived in seven fragments across four minutes—never a whole message, always **stacked partials** like shards of broken command.
 
@@ -8650,7 +7862,6 @@ That was the horror and the hope.
 
 ---
 
-**Event 4 — Sabotage Grammar (Halden / Park / Walsh)**
 
 Second bleed window arrived eight minutes later—messier.
 
@@ -8688,7 +7899,6 @@ Walsh wrote: "2047. Column **L**. Bleed window two—fleet fracture confirmed op
 
 ---
 
-**Event 5 — Calder / Thessaly (Private Threshold)**
 
 Thessaly found Calder at the rail during the third bleed lull—Park enforcing peel pair silence, Koss reporting ring three tick stable, Reyes marking membrane approach on living map with Tanaka's missing hue still absent and therefore honest.
 
@@ -8732,7 +7942,6 @@ He nodded once. Trust, not doctrine, carried the nod.
 
 ---
 
-**Event 6 — Steve (Passage)**
 
 Steve appeared at the liaison perimeter during bleed window three prep carrying tea bulbs and a coil of patch cable Walsh did not need and would accept anyway.
 
@@ -8748,7 +7957,6 @@ The almost counted as humor—the professional kind that kept hands steady when 
 
 ---
 
-**Event 7 — Egress Face Candidates Certified (Reyes / Koss / Halden)**
 
 Koss certified membrane approach with ring three tick **stable enough**—language of an engineer who refused sprint and therefore told truth.
 
@@ -8782,7 +7990,6 @@ Calder looked at crew—witnesses, not assets.
 
 ---
 
-**Event 8 — Bleed Window Three (Humanity's Answer, Partial)**
 
 Bleed window three was shorter—thirty seconds of stacked partials, then silence again. As if the boundary had inhaled argument and exhaled only what the *Veil* could hold without merge.
 
@@ -8848,7 +8055,6 @@ The *Kestrel Veil* breathed whisper inside Fold heart and moved toward membrane 
 
 ---
 
-### SECTION 4 — DISCOVERY
 
 **External political situational awareness reconstructed** via Fold boundary-adjacent sideband bleed (three windows, stacked partial headers, routing-war truncation signatures)—humanity reacting to First Truth leak-adjacent activity, translator exposure, Library register rumors, and ingress confirmation **without** unified fleet command.
 
@@ -8874,7 +8080,6 @@ The *Kestrel Veil* breathed whisper inside Fold heart and moved toward membrane 
 
 ---
 
-### SECTION 5 — AFTERMATH STATE
 
 The *Kestrel Veil* holds inside Fold convergence heart post-political bleed reconstruction—relation depth twelve-delta approaching eleven-delta membrane increment per Reyes certification. Hull integrity **seventy-nine percent** unchanged; ring three tick stable; echo seventy-two threshold not crossed. Primary sensor mast segment four forty-one percent. Margaret cold manual ~2h recovery remaining. Tag quadruple baseline Fold-decoupled. Buffer seven appendix First Truth + segregated political doctrine footer. Peel pair operational through three bleed windows.
 
@@ -8892,54 +8097,17 @@ Thessaly held contradiction at the XO console and did not merge.
 
 ---
 
-### SECTION 6 — STATE UPDATE SUMMARY (DELTA ONLY)
+\newpage
 
-### SHIP STATE
-- location: Fold convergence heart / process center (relation depth twelve-delta) → **approaching eleven-delta membrane increment (egress planning certified; exit faces A/B/C defined)**
-- hull_integrity: ~79 (unchanged through political bleed windows; ring three tick stable; echo seventy-two threshold not crossed)
-- system_status: heavily degraded baseline unchanged (mast segment four 41%; Margaret cold manual ~2h recovery; control bus destroyed)
-- sensor_reliability: very low/bifurcated + First Truth witness validated → + **boundary-adjacent sideband bleed parsed** (routing-war truncation signatures; partial header reconstruction operational)
-- weapon_system_status: partial (Margaret cold; stagger window spent)
-- emissions_control: severely compromised + Fold-decoupled (tag quadruple baseline unchanged character)
-- passive_sensors_only: true
+────────────────────────────────────────
 
-### COMMAND STATE
-- mission_clarity: reframed + First Truth operational comprehension → + **reframed + fleet divided situational awareness** (competing survival strategies mapped; unified external response assessed **destroyed/sabotaged**; egress face selection conditional on live boundary headers)
-- command_confidence: observational authority + crew-trust navigation → + **political realism** (institutional rescue hypothesis degraded; Lines of Loyalty + segregated witness burden affirmed; Calder delegates political recommendation to Thessaly without merge)
-- orders_consistency: actively contradictory with external authority orphaned → + **externally active contradictory orders detected via bleed** (Cartography merge vs Mandate quarantine vs corporate capture vs KISC acquisition vs KISU stagger noncompliance vs civilian merge refusal; internal Lines of Loyalty unchanged)
+# ~ CHAPTER TWENTY-ONE ~
 
-### ANOMALY STATE
-- (anomaly_stage remains 3)
-- anomaly_effect_type: + **boundary-adjacent sideband bleed** enables partial external reference-grammar reconstruction without full frame recovery; + First Truth leak-adjacent activity accelerates human institutional fracture at membrane; builders/intent/return grammar/custodianship **withheld**
+## Last Transmission
 
-### CREW STATE
-- cohesion: strained-welded + First Truth anchor → strained-welded **+ externalized humanity burden** (no internal fracture; shared meal; trust beats; humor; Steve passage)
-- stress (Captain): very high (+ fleet divided command burden; sleep debt critical; functional via XO enforcement)
-- stress (XO): medium-high → high (+ political reconstruction lead; sympathy load; father/colony population awareness; enabling Calder delegation)
-- stress (Navigator): critical (+ membrane egress certification; exit face conditional selection)
-- stress (Comms): critical (+ three bleed windows peeled without merge; routing-war noise profile)
-- stress (Tactical): medium-high → high (+ task force cross-sabotage weather mapped; board may cease boredom on exit)
-- stress (Okonkwo): elevated (unchanged)
-
-### KNOWLEDGE STATE
-- confirmed_facts: + **fleet divided operational**—humanity reacts to First Truth leak-adjacent activity with incompatible survival strategies; + Cartography merge authority accelerates mandatory merge/defect fire; + Mandate quarantine **failed** superseded by merge emergency; + corporate asset recovery **contested** by KISC acquisition; + KISC masks egress/capture geometry; + KISU stagger propagates contradiction-preservation; + Fleet escort **fractured** (beta refuses defect fire on living-map holders; gamma complies); + civilian chain refuses merge-empty grids; + inter-faction sabotage via routing-war/override injection; + *Meridian Span* corridor stress continues; + egress faces **A (KISU stagger corridor), B (occluder unmerged cell), C (null split hold)** certified pending live boundary read; + political doctrine footer segregated buffer seven (**sympathize without merge; civilians before institution when observation confirms need**)
-- suspected_facts: + exit face selection must avoid capture geometry and merge fire traps simultaneously; + Last Transmission may become routing-war header if broadcast careless; + hunters may reacquire on certifiable frame exit regardless of faction
-- contradicted_facts: + assumption unified fleet will receive *Veil* on exit; + assumption Mandate quarantine can contain First Truth spread without merge authority conflict; + assumption external reference orphaning prevents all sideband intelligence
-
-### LOCATION
-- Fold convergence heart / process center → **approaching eleven-delta membrane (egress increment initialized)**
-
-### MISSION STATUS
-- isolated; relay orphaned; buffers segregated (First Truth + political footer); hull tag quadruple Fold-decoupled; reference partially glimpsed via bleed not restored; pursuit misreferenced; living map + peel pair + Echo Doctrine + Lines of Loyalty operational; First Truth acquired; **fleet divided mapped**; human victory (egress candidates + political awareness sufficient to act); cost (humanity unified response destroyed; exit into argument); momentum to Ch. 21 Last Transmission—**what witness message represents before membrane crossing**; wonder intact; forward grammar known; return grammar unknown
+────────────────────────────────────────
 
 
-\\newpage
-
-# CHAPTER 21 — LAST TRANSMISSION
-
-## LAST TRANSMISSION
-
-### SECTION 1 — STATUS QUO
 
 Park measured the ship in **latency** again—not because latency was poetry, because latency was the only clock that still told the truth when fleet time had orphaned itself three bleed windows ago.
 
@@ -9009,7 +8177,6 @@ The board ticked another coupling increment. Weather.
 
 ---
 
-### SECTION 2 — OBJECTIVE
 
 **Primary Mission Objective:**
 
@@ -9055,9 +8222,7 @@ He could send one honest message instead.
 
 ---
 
-### SECTION 3 — INCIDENT CHAIN
 
-**Event 1 — Witness Collection (Park / Thessaly / Crew)**
 
 Thessaly ran witness collection the way she ran egress planning—not by deciding first, by **enabling** streams to produce usable fragments before Park merged them into transmission grammar. Merge was the forbidden word. **Assembly** was the job.
 
@@ -9109,7 +8274,6 @@ Many witnesses, segregated headers, contradiction preserved on purpose.
 
 ---
 
-**Event 2 — Composition Grammar (Park / Walsh / Cole)**
 
 Walsh moved to relay secondary—not merge stations, **parallel record**—with Okwelu shadowing head movement limits Park had memorized since the concussion watch began.
 
@@ -9168,7 +8332,6 @@ Calder: "Send."
 
 ---
 
-**Event 3 — Relay Success (Cole / Park)**
 
 The membrane exhaled.
 
@@ -9226,7 +8389,6 @@ Cost: send made them **visible**—Halden's board was not bored anymore in the b
 
 ---
 
-**Event 4 — Walsh Historical Record (Walsh / Park / Okwelu)**
 
 Walsh wrote while the send still rang in peel board memory—not metaphor, **buffer residue.**
 
@@ -9264,7 +8426,6 @@ He would mean: **I held channel open.**
 
 ---
 
-**Event 5 — Bleed Back (Park / Halden / Thessaly)**
 
 Halden's board woke the way Halden had warned—**visibility weather.**
 
@@ -9328,7 +8489,6 @@ The board chirped—threat envelope increment, not weapons lock yet, **pressure.
 
 ---
 
-**Event 6 — Food and Exhaustion (Thessaly / Park / Cole / Crew)**
 
 Thessaly invoked XO authority over relay rotation the way she invoked it over Calder's sleep—**sequence, not sentiment.**
 
@@ -9362,7 +8522,6 @@ Exhaustion persisted. Friendship persisted. Hope persisted—not loud, **operati
 
 ---
 
-**Event 7 — Steve (Passage)**
 
 Steve appeared during the lull after bleed return with a tea bulb Park had not requested and a coil of fiber patch Cole **did** need—the ugly short path Brenner had been promising since membrane approach ticked.
 
@@ -9378,7 +8537,6 @@ Park sipped tea—L-3 adjusted, too hot, perfect. Weather.
 
 ---
 
-**Event 8 — Membrane Crossing Initialized (Reyes / Calder / Park)**
 
 Reyes on navigation primary: "Live boundary read **complete.** Face A KISU stagger corridor **live**—transmission bleed confirms path. Face B occluder cell **contested.** Face C null split **available** but costly. Recommend **Face A primary** on membrane crossing—**now**, while stagger corridor warm from send."
 
@@ -9428,7 +8586,6 @@ The work continued.
 
 ---
 
-### SECTION 4 — DISCOVERY
 
 **Last Transmission sent and relay-success confirmed** via membrane coupling through KISU stagger bleed corridor (Face A path warmed by send)—witness-class message composed in segregated do-not-merge format: method tags, Lines of Loyalty, political doctrine footer, crew witness fragments, First Truth **function summary only** (no origin mythology, no coordinates, no buffer seven raw appendix, no echo payloads).
 
@@ -9454,7 +8611,6 @@ The work continued.
 
 ---
 
-### SECTION 5 — AFTERMATH STATE
 
 The *Kestrel Veil* crosses eleven-delta membrane increment toward Face A KISU stagger corridor—relation depth transition from heart approach to **external engagement geometry**. Hull integrity **seventy-nine percent** unchanged; ring three tick stable; echo seventy-two threshold not crossed. Primary sensor mast segment four forty-one percent. Margaret cold manual ~90m recovery. Tag quadruple baseline Fold-decoupled. Control bus destroyed. Passive sensors only. Last Transmission **sent**; relay orphaned baseline unchanged except membrane coupling window spent.
 
@@ -9480,54 +8636,17 @@ Battle was next weather.
 
 ---
 
-### SECTION 6 — STATE UPDATE SUMMARY (DELTA ONLY)
+\newpage
 
-### SHIP STATE
-- location: Fold convergence heart eleven-delta membrane approach → **crossing increment Face A (KISU stagger corridor) initialized post-Last Transmission**
-- hull_integrity: ~79 (unchanged; ring three tick stable; echo seventy-two threshold not crossed)
-- system_status: heavily degraded baseline unchanged (mast segment four 41%; Margaret cold manual ~90m recovery; control bus destroyed)
-- sensor_reliability: very low/bifurcated + Last Transmission send coupling **spent membrane egress window** (partial bleed-back receive confirmed; external ack absent)
-- weapon_system_status: partial (Margaret cold; stagger window spent)
-- emissions_control: severely compromised + Fold-decoupled + **visibility spike post-witness send** (routing attention; Cartography defect classification adjacent)
-- passive_sensors_only: true
+────────────────────────────────────────
 
-### COMMAND STATE
-- mission_clarity: reframed + fleet divided situational awareness → + **witness representation complete** (Last Transmission sent as segregated truth; battle engagement next)
-- command_confidence: political realism + crew-trust → + **witness realism** (institutional rescue hypothesis further degraded; crew-trust primary; Calder authorizes membrane crossing into engagement)
-- orders_consistency: externally active contradictory orders via bleed → + **Last Transmission bleed-back confirms fracture mirror reception** (KISU/civilian partial parse; Cartography defect classify; corporate recovery resume; Mandate suppression fail on method tags)
+# ~ CHAPTER TWENTY-TWO ~
 
-### ANOMALY STATE
-- (anomaly_stage remains 3)
-- anomaly_effect_type: + **membrane coupling egress** enables one-shot witness transmission via KISU stagger bleed; + bleed-back partials confirm segregated format resists merge collapse at institutional layer; builders/intent/return grammar/custodianship **withheld**
+## Battle For Reality
 
-### CREW STATE
-- cohesion: strained-welded + externalized humanity burden → strained-welded **+ witness send welded** (meal rotation; partnership beats; humor; Steve passage; no internal fracture)
-- stress (Captain): very high (+ battle imminent post-send visibility)
-- stress (XO): high (unchanged; collection enablement complete)
-- stress (Navigator): critical (+ Face A crossing live certify)
-- stress (Comms): critical → **functional sustained** (+ Last Transmission compose/send complete; interpreter arc payoff)
-- stress (Tactical): high → **critical** (+ board active; largest engagement window)
-- stress (Okonkwo): elevated (Walsh limits enforced through send)
-
-### KNOWLEDGE STATE
-- confirmed_facts: + **Last Transmission sent** witness class via membrane/KISU stagger corridor; + Cole relay success (gain stagger map; override peeled; orphan relation echo emit confirm); + Walsh historical record complete (column **L** / **D**; intent witness not decree); + Park signal/noise closing doctrine in transmission; + partial bleed-back: KISU parse without merge; civilian method receive; Mandate suppression fail on method tags; Cartography defect package classify; corporate recovery resume; + segregated witness format resists single-map grief **operationally**; + Face A **live** post-send; membrane crossing initialized
-- suspected_facts: + transmission may be weaponized in routing war; + Battle for Reality victory requires preserving contradiction under fire; + hunters may reacquire on certifiable frame exit
-- contradicted_facts: + assumption orphan baseline prevents all outbound send; + assumption witness message must merge to be received usefully
-
-### LOCATION
-- Fold convergence heart / eleven-delta membrane → **crossing Face A KISU stagger corridor (engagement geometry imminent)**
-
-### MISSION STATUS
-- isolated; relay orphaned; buffers segregated (First Truth + political footer + Echo Doctrine); Last Transmission **sent** (reception fractured mirror, not unified); hull tag quadruple Fold-decoupled; reference partially glimpsed via bleed/send not restored; pursuit misreferenced; living map + peel pair + Lines of Loyalty operational; fleet divided mapped; human victory (witness represented; relay success; historical record); cost (visibility; weaponization risk; battle imminent; damage persists); momentum to **Ch. 22 Battle for Reality**—preserve contradiction where certainty weapons fail; wonder intact; forward grammar known; return grammar unknown
+────────────────────────────────────────
 
 
-\\newpage
-
-# CHAPTER 22 — BATTLE FOR REALITY
-
-## BATTLE FOR REALITY
-
-### SECTION 1 — STATUS QUO
 
 The battle arrived as **headers** before it arrived as hulls.
 
@@ -9585,7 +8704,6 @@ Victory would be **understanding under fire.**
 
 ---
 
-### SECTION 2 — OBJECTIVE
 
 **Primary Mission Objective:**
 
@@ -9621,9 +8739,7 @@ He paused one breath—the captain who had learned people mattered more than doc
 
 ---
 
-### SECTION 3 — INCIDENT CHAIN
 
-**Event 1 — Engagement Geometry (Ortega / Halden / Park)**
 
 The first merge fire solution arrived before the *Veil* finished membrane increment—Cartography combat authority header family, body attached to coordinates that existed on **redundant empty fiction** and **Primary-True crossfire** simultaneously.
 
@@ -9655,7 +8771,6 @@ Calder: "Then we spend **understanding** instead of hiding."
 
 ---
 
-**Event 2 — Living Map Under Fire (Reyes / Tanaka / Ortega)**
 
 Reyes plotted stagger corridor transit on living map tree—Primary-True path live, Redundant-True capture geometry flagged without collapse, method tags explicit on margin.
 
@@ -9693,7 +8808,6 @@ Walsh: "2214. Column **L**. Translator correction one—gamma cluster false targ
 
 ---
 
-**Event 3 — Margaret's Moment (Hale / Koss / Calder)**
 
 Corporate alpha re-illuminated on redundant coordinates—stabilization fire incoming on volume Cartography marked **clear** and Primary marked **stagger corridor occupied.**
 
@@ -9739,7 +8853,6 @@ Cost accepted: Margaret **spent**, not restored. No magic repair. Tradeoff only.
 
 ---
 
-**Event 4 — Ortega's Observation (Ortega / Calder / Reyes)**
 
 Volume fire heated adjacent drift. Sharma rerouted decoy baffles without being asked—Running Dark habit becoming battle habit. Walsh logged pressure cycles. Okwelu checked Walsh's pupil response between correction packages.
 
@@ -9783,7 +8896,6 @@ Walsh: "2227. Column **L**. Ortega boundary feedback observation. Translator cor
 
 ---
 
-**Event 5 — Tanaka's Navigation Solution (Tanaka / Reyes / Brenner)**
 
 Capture geometry on Redundant-True still **closed** on stagger mouth even as Primary-True corridor held—dual truth not as philosophy, as **navigation problem.**
 
@@ -9825,7 +8937,6 @@ Brenner's contribution was not heroics. It was **keeping the damaged ship alive*
 
 ---
 
-**Event 6 — Sharma's Fiction (Sharma / Okwelu / Crew)**
 
 Volume fire passed. Proximity concussive rolled ring three—not breach, **adjacent war weather.**
 
@@ -9845,7 +8956,6 @@ Human cost: not hull breach, **margin**—sleep debt, processor load, the collab
 
 ---
 
-**Event 7 — Coordination Without Merge (Park / Cole / Halden / Walsh)**
 
 Third correction package went to *Meridian Span* corridor stress—civilian method-tag chain relay, stagger corridor hold confirmation, boundary feedback flag.
 
@@ -9875,7 +8985,6 @@ Column **D** addendum:
 
 ---
 
-**Event 8 — Pursuit Weather Returns (Halden / Calder / Ortega)**
 
 Certifiable frame increment opened—Reyes marked **egress relation node** beyond stagger corridor, still inside engagement geometry but **adjacent** to membrane exit volume.
 
@@ -9897,7 +9006,6 @@ Calder: "Prepare next increment. Peel pair holds. No merge. We **held** contradi
 
 ---
 
-**Event 9 — Steve (Passage)**
 
 Steve appeared during volume cool-down carrying tea bulbs and a strip of hull patch Brenner had not requisitioned and would accept anyway.
 
@@ -9913,7 +9021,6 @@ The almost counted as humor—the professional kind that kept hands steady when 
 
 ---
 
-**Event 10 — Calder at the Rail (Calder / Thessaly / Crew)**
 
 Calder stood at the rail while Reyes marked next egress increment and Halden tracked pursuit commit geometry and Park/Cole maintained peel pair through volume afterimage.
 
@@ -9941,7 +9048,6 @@ He did not say it aloud. He said:
 
 ---
 
-### SECTION 4 — DISCOVERY
 
 **Battle for Reality increment one complete**—Face A KISU stagger corridor transited Primary-True via Tanaka hue-gap occluder navigation solution under living map dual-truth discipline; certifiable egress relation node **adjacent** beyond corridor mouth.
 
@@ -9969,7 +9075,6 @@ He did not say it aloud. He said:
 
 ---
 
-### SECTION 5 — AFTERMATH STATE
 
 The *Kestrel Veil* holds certifiable egress relation node adjacent to membrane exit volume—stagger corridor transit complete Primary-True, engagement geometry **partially exited**, pursuit commit **active**. Hull integrity **seventy-nine percent** unchanged; ring three tick stable post-concussive; echo seventy-two threshold not crossed. Primary sensor mast segment four **forty-one percent** unchanged. Margaret cold manual ~**two hours** recovery post break-lock spend. Tag quadruple baseline Fold-decoupled. Control bus destroyed. Passive sensors only. Last Transmission sent; peel pair holds.
 
@@ -9991,54 +9096,17 @@ Dead reckoning was next weather.
 
 ---
 
-### SECTION 6 — STATE UPDATE SUMMARY (DELTA ONLY)
+\newpage
 
-### SHIP STATE
-- location: Fold membrane Face A stagger corridor → **certifiable egress relation node adjacent (engagement geometry partially exited; pursuit commit active)**
-- hull_integrity: ~79 (unchanged; ring three stable post-volume concussive; echo seventy-two threshold not crossed)
-- system_status: heavily degraded baseline unchanged (mast segment four 41%; Margaret cold manual ~**2h recovery** post break-lock spend; control bus destroyed)
-- sensor_reliability: very low/bifurcated unchanged; Ortega boundary feedback observation **operational**
-- weapon_system_status: partial (Margaret **spent** one break-lock window; ~2h recovery; no second window without Koss certify)
-- emissions_control: severely compromised + Fold-decoupled + visibility permanent post-Last Transmission; battle increment **partial stand-downs** in volume—not unified peace
-- passive_sensors_only: true
+────────────────────────────────────────
 
-### COMMAND STATE
-- mission_clarity: witness representation complete → + **Battle for Reality increment one complete** (understanding victory; certifiable frame open; stagger corridor transited)
-- command_confidence: witness realism + crew-trust → + **understanding under fire** (Calder commanded translator/boundary procedure at volume scale; moral burden accepted)
-- orders_consistency: fracture mirror reception → + **volume corrections produce partial faction responses** (KISU compliance partial; Fleet beta hold; Cartography override fail partial; corporate stand-down partial; KISC mask retreat partial)
+# ~ CHAPTER TWENTY-THREE ~
 
-### ANOMALY STATE
-- (anomaly_stage remains 3)
-- anomaly_effect_type: + **merge certainty weapons create boundary feedback loop** at membrane (Ortega observation); + preserving contradiction **degrades collapse grammar** and holds certifiable frame open; builders/intent/return grammar/custodianship **withheld**
+## Dead Reckoning
 
-### CREW STATE
-- cohesion: strained-welded + witness send welded → strained-welded **+ battle increment welded** (translator success; support crew payoffs; no internal fracture)
-- stress (Captain): very high (+ pursuit commit post-battle; moral burden distributed)
-- stress (XO): high (unchanged; ledger complete)
-- stress (Navigator): critical (+ next egress increment; Tanaka solution success)
-- stress (Comms): functional sustained (peel pair through battle)
-- stress (Tactical): critical (+ pursuit commit active; board active)
-- stress (Okonkwo): elevated (Walsh limits through engagement; relief rotation mandated)
-
-### KNOWLEDGE STATE
-- confirmed_facts: + **Battle for Reality increment one** victory through understanding not weapons; + Ortega boundary feedback loop observation; + Tanaka hue-gap stagger transit solution; + Margaret one break-lock window spent (~2h recovery); + translator corrections three at volume scale; + certifiable egress relation node adjacent; + pursuit **committing** escort-class cousin Primary-True inside frame; + merge false targets broken; + partial faction stand-downs (fracture mirror, not unified)
-- suspected_facts: + hunters reacquired on certifiable frame exit **confirmed**; + Dead Reckoning requires abandoning external authority; + routing war continues outside crew resolution
-- contradicted_facts: + assumption volume battle requires superior firepower to survive; + assumption Margaret unavailable under engagement (spent once, costly, effective)
-
-### LOCATION
-- Fold membrane / Face A stagger corridor → **certifiable egress relation node adjacent (partial engagement exit; pursuit active)**
-
-### MISSION STATUS
-- isolated; relay orphaned; buffers segregated; Last Transmission sent; hull tag quadruple Fold-decoupled; living map + peel pair + Lines of Loyalty operational; fleet divided **engaged at volume scale**; human victory (stagger transit; boundary held; contradiction preserved under fire; support crew contributions); cost (Margaret spent; pursuit commit; damage persists; routing war continues); momentum to **Ch. 23 Dead Reckoning**—abandon external authority; trust crew alone; emotional climax; return grammar unknown
+────────────────────────────────────────
 
 
-\\newpage
-
-# CHAPTER 23 — DEAD RECKONING
-
-## DEAD RECKONING
-
-### SECTION 1 — STATUS QUO
 
 Fourteen hours had passed since Calder last slept in a way Okwelu would have logged as sleep.
 
@@ -10128,7 +9196,6 @@ Trust the people who had been fixing the reference while it broke.
 
 ---
 
-### SECTION 2 — OBJECTIVE
 
 **Primary Mission Objective:**
 
@@ -10172,9 +9239,7 @@ Calder paused one breath—the captain who had learned people mattered more than
 
 ---
 
-### SECTION 3 — INCIDENT CHAIN
 
-**Event 1 — Headers as Weather (Park / Calder / Halden)**
 
 Fleet merge broadcast refreshed—**clear fire zone** on certifiable frame cell Primary marks as **pursuit occupied** and Redundant marks as **empty acquisition volume.**
 
@@ -10202,7 +9267,6 @@ Human victory, first increment: **refusal without drama**—institutional weathe
 
 ---
 
-**Event 2 — Reyes's Solution (Reyes / Tanaka / Ortega / Calder)**
 
 Reyes convened at living map—not presentation, **navigation.**
 
@@ -10254,7 +9318,6 @@ Human victory, second increment: **competence recognized**—not tolerated, **na
 
 ---
 
-**Event 3 — Thessaly Enables (Thessaly / Okwelu / Crew)**
 
 Transit prep was not Calder's job anymore. Thessaly made that true.
 
@@ -10286,7 +9349,6 @@ That was the emotional architecture chapter twenty-three required—not speech a
 
 ---
 
-**Event 4 — Koss Certifies Whisper (Koss / Brenner / Sharma)**
 
 "Whisper on my mark," Koss said. "Ring three tick **will** complain. Brenner—mast path?"
 
@@ -10310,7 +9372,6 @@ Human cost embedded: ring three tick stable was **work**, not gift—metal fatig
 
 ---
 
-**Event 5 — Cole's Lane (Cole / Park / Pursuit Peel)**
 
 Pursuit illumination spiked—escort-class cousin committing on primary bearing as *Veil* initialized whisper.
 
@@ -10348,7 +9409,6 @@ Human victory, third increment: **signal flew**—not Last Transmission scale, *
 
 ---
 
-**Event 6 — Halden's New Pattern (Halden / Calder / Ortega)**
 
 Halden's board chirped—not boredom ending, **category shift.**
 
@@ -10370,7 +9430,6 @@ Halden's payoff was not predicting every envelope. It was accepting **genuinely 
 
 ---
 
-**Event 7 — Whisper Transit (Reyes / Tanaka / Brenner / Calder)**
 
 "Whisper mark," Koss said. "Now."
 
@@ -10396,7 +9455,6 @@ Sharma: "Thermal spike—dumping bleed through decoy baffles. Fiction **thin.** 
 
 Calder stood at rail and felt chapter five's jump execute again—not KR-13 parsecs, **relation increment**—exit coordinates unknown in return grammar, forward grammar **predictive for one event** under conditions where no model had external corroboration.
 
-Validation did not prove truth correct. Validation proved **crew model predictive** when institutions offered contradiction.
 
 Reyes: "Occluder exit in thirty seconds Primary-True. Membrane approach relation **adjacent.**"
 
@@ -10406,7 +9464,6 @@ The omission was **complete.**
 
 ---
 
-**Event 8 — Calder Abandons His Own Rules (Calder / Park / Reyes)**
 
 Membrane approach peeled fresh headers—Mandate **authenticated custodianship** fragment, Cartography **defect surrender navigation authority**, Fleet **merge fire clear zone** on cell Primary marked **membrane exit occupied.**
 
@@ -10447,7 +9504,6 @@ Human victory, fourth increment: **captain stopped blocking crew**—not abdicat
 
 ---
 
-**Event 9 — Okwelu Names Cost (Okwelu / Walsh / Crew)**
 
 Transit completed Primary-True. Membrane approach relation **live.** Pursuit misreference **stale**—lock quality collapsed on primary bearing as escort-class cousin overshot branch shadow and fired on empty volume Redundant marked **clear** and Primary marked **KISU hold fragment.**
 
@@ -10483,7 +9539,6 @@ Column **D**: "**Human victory without human cost is merge fiction.**"
 
 ---
 
-**Event 10 — Walsh Records Dead Reckoning (Walsh / Crew)**
 
 Walsh wrote while Okwelu allowed pen velocity again:
 
@@ -10499,7 +9554,6 @@ He did not argue wording. Arguing was merge pressure dressed as modesty.
 
 ---
 
-**Event 11 — Steve (Passage)**
 
 Steve appeared during relief rotation carrying tea bulbs and a strip of hull patch Brenner had not requisitioned and would accept anyway.
 
@@ -10515,7 +9569,6 @@ The almost counted as humor—the professional kind that kept hands steady when 
 
 ---
 
-**Event 12 — Calder at the Rail (Calder / Reyes / Crew)**
 
 Membrane approach relation breathed on redundant peel—exterior reference grammar **partial**, not restored, **bleed** sufficient to know Solmare Quadrant waited on the other side of one more increment chapter twenty-four would name.
 
@@ -10571,7 +9624,6 @@ It was **crew.**
 
 ---
 
-### SECTION 4 — DISCOVERY
 
 **Dead reckoning increment complete**—branch Reyes-seven transited Primary-True via Reyes Fold navigator dual-truth solution; membrane approach relation **live**; certifiable frame exit **one increment remaining** to Book One resolution.
 
@@ -10605,7 +9657,6 @@ It was **crew.**
 
 ---
 
-### SECTION 5 — AFTERMATH STATE
 
 The *Kestrel Veil* holds membrane approach relation—dead reckoning increment complete Primary-True, certifiable frame **one increment from exit**, pursuit geometry **stale misreferenced**. Hull integrity **seventy-nine percent** unchanged; ring three tick stable post-pursuit concussive; echo seventy-two threshold not crossed. Primary sensor mast segment four **forty-one percent** unchanged. Margaret cold manual ~**1h41** recovery. Tag quadruple baseline Fold-decoupled. Control bus destroyed. Passive sensors only. Last Transmission sent; peel pair holds.
 
@@ -10627,54 +9678,17 @@ Solmare waited one increment.
 
 ---
 
-### SECTION 6 — STATE UPDATE SUMMARY (DELTA ONLY)
+\newpage
 
-### SHIP STATE
-- location: certifiable egress relation node → **membrane approach relation (one increment from certifiable frame exit; pursuit stale misreferenced)**
-- hull_integrity: ~79 (unchanged; ring three stable post-pursuit concussive; echo seventy-two threshold not crossed)
-- system_status: heavily degraded baseline unchanged (mast segment four 41%; Margaret cold manual ~**1h41 recovery**; control bus destroyed)
-- sensor_reliability: very low/bifurcated unchanged; dual-truth witness pair operational through transit
-- weapon_system_status: partial (Margaret **cold**; ~1h41 recovery; no pulse authorized)
-- emissions_control: severely compromised + Fold-decoupled + visibility permanent post-Last Transmission; exterior routing war continues—not unified peace
-- passive_sensors_only: true
+────────────────────────────────────────
 
-### COMMAND STATE
-- mission_clarity: Battle for Reality increment one → + **Dead reckoning increment complete** (membrane approach live; one exit increment remaining)
-- command_confidence: understanding under fire + crew-trust → + **crew-trust complete** (external authority abandoned; Calder blocking rules abandoned; Reyes authorized Fold navigation)
-- orders_consistency: volume corrections partial faction responses → + **crew procedure supersedes institutional headers** (Fleet/Mandate/Cartography received, not followed)
+# ~ CHAPTER TWENTY-FOUR ~
 
-### ANOMALY STATE
-- (anomaly_stage remains 3)
-- anomaly_effect_type: unchanged operational comprehension; + membrane approach relation **live** via dead reckoning dual-truth; return grammar **unknown**; builders/intent/custodianship **withheld**
+## The Solmare Quadrant
 
-### CREW STATE
-- cohesion: battle increment welded → **dead reckoning welded** (emotional climax operational; Reyes recognition; Thessaly enablement; relief rotation mandated; no internal fracture)
-- stress (Captain): very high → critical (+ sleep debt fifth notice; moral burden acknowledged; trust exercise complete)
-- stress (XO): high → high (enablement role fulfilled; relief enforced)
-- stress (Navigator): critical → high (+ Fold navigator recognition; branch success; return grammar pressure remains)
-- stress (Comms): functional sustained → elevated (+ Cole lane success; relief mandated)
-- stress (Tactical): critical → high (+ pursuit stale; new pattern accepted)
-- stress (Okonkwo): elevated → functional (+ cost named; relief rotation enforced)
-
-### KNOWLEDGE STATE
-- confirmed_facts: + **Dead reckoning increment complete** Primary-True; + Reyes designated **Fold navigator** (observed, not fleet register); + branch Reyes-seven transit success; + external authority headers ignored (Fleet/Mandate/Cartography); + pursuit misreferenced stale post-transit; + membrane approach relation live; + Calder abandoned external authority and blocking rules; + Cole lane six peel success; + Okwelu relief rotation mandated
-- suspected_facts: + final membrane exit increment achieves Book One operational resolution; + Solmare Quadrant exterior reference **partial bleed** at approach; + return grammar may remain unknown at exit
-- contradicted_facts: + assumption captain must merge or obey institutional headers to exit certifiable frame; + assumption Reyes intuition requires fleet register to be navigation authority; + assumption emotional climax requires speech not procedure
-
-### LOCATION
-- certifiable egress relation node → **membrane approach relation (one increment from exit; pursuit stale)**
-
-### MISSION STATUS
-- isolated; relay orphaned; buffers segregated; Last Transmission sent; living map + peel pair + Lines of Loyalty operational; human victory (dead reckoning through crew trust; Reyes Fold navigator; membrane approach live; support crew payoffs); cost (sleep debt critical; damage persists; return grammar unknown; routing war exterior); momentum to **Ch. 24 The Solmare Quadrant**—final resolution; immediate threat ends; mission complete; wonder; sequel hook from consequences
+────────────────────────────────────────
 
 
-\\newpage
-
-# CHAPTER 24 — THE SOLMARE QUADRANT
-
-## THE SOLMARE QUADRANT
-
-### SECTION 1 — STATUS QUO
 
 The membrane approach relation breathed the way chapter one had not taught him to expect anything to breathe.
 
@@ -10772,7 +9786,6 @@ Trust the people who had navigated while the chart broke.
 
 ---
 
-### SECTION 2 — OBJECTIVE
 
 **Primary Mission Objective:**
 
@@ -10814,9 +9827,7 @@ Calder paused one breath—the captain who had learned people mattered more than
 
 ---
 
-### SECTION 3 — INCIDENT CHAIN
 
-**Event 1 — Tanaka's Exit Sequence (Tanaka / Reyes / Calder)**
 
 Reyes convened at living map—not presentation, **navigation.**
 
@@ -10844,7 +9855,6 @@ Human victory, first increment: **navigation closes the loop**—not fleet chart
 
 ---
 
-**Event 2 — Ortega's Observation (Ortega / Halden / Calder)**
 
 Ortega's dual sweeps hit exterior bleed before the increment initialized—Primary array and redundant verification sensor returning what chapter one had returned and what twenty-four chapters had taught the crew to **hold** instead of **fix.**
 
@@ -10880,7 +9890,6 @@ Human victory, second increment: **threat ended at epistemic boundary**—pursui
 
 ---
 
-**Event 3 — Brenner Keeps the Veil Alive (Brenner / Koss / Sharma)**
 
 "Whisper on my mark," Koss said. "Ring three tick **will** complain on exterior shock. Brenner—mast path?"
 
@@ -10912,7 +9921,6 @@ Human victory, third increment: **the Veil survives**—mast, junction box, hull
 
 ---
 
-**Event 4 — Cole's Relay at the Boundary (Cole / Park / Calder)**
 
 Exterior reference grammar **locked** partial—enough for peel, not enough for naive handshake. Park's board flooded with post-exit headers—merge fire, custodianship, asset recovery, witness requests, **and** Last Transmission ripple:
 
@@ -10950,7 +9958,6 @@ Human victory, fourth increment: **signal flew one last time**—not Last Transm
 
 ---
 
-**Event 5 — Hale and Margaret's Final Moment (Hale / Koss / Calder)**
 
 Exterior coupling sent a shiver through defensive secondary—Margaret's cold manual registering **membrane passage** like a patient waking wrong.
 
@@ -10982,7 +9989,6 @@ Human victory, fifth increment: **weapon doctrine transformed**—Margaret cold 
 
 ---
 
-**Event 6 — Membrane Exit (Reyes / Tanaka / Crew)**
 
 "Whisper mark," Koss said. "Now."
 
@@ -11010,7 +10016,6 @@ Human victory, sixth increment: **exit achieved**—certifiable frame **behind**
 
 ---
 
-**Event 7 — Okwelu Names the Invoice (Okwelu / Crew / Calder)**
 
 Okwelu moved station to station with medical authority that did not argue with diagnoses—pulse checks, pupil checks, **stress exposure logged** in the language of survival having human price.
 
@@ -11032,7 +10037,6 @@ Human victory, seventh increment: **cost acknowledged**—survival invoice paid,
 
 ---
 
-**Event 8 — Walsh Closes the Record (Walsh / Calder / Crew)**
 
 Walsh wrote while Okwelu allowed pen velocity again:
 
@@ -11054,7 +10058,6 @@ Human victory, eighth increment: **historical record complete**—incident **res
 
 ---
 
-**Event 9 — Humanity Changed (Park / Thessaly / Calder)**
 
 Park peeled aftermath fragments while Cole held gain—no longer orphan baseline absolute, **exterior partial restore** with fracture mirror intact:
 
@@ -11088,7 +10091,6 @@ Human victory, ninth increment: **humanity changed**—not because the *Veil* sa
 
 ---
 
-**Event 10 — Calder at the Rail (Calder / Reyes / Thessaly)**
 
 Calder stood at command rail at Solmare Quadrant boundary Theta-7 adjacent—hull seventy-nine, mast forty-one, Margaret cold, control bus destroyed, passive sensors only, dual fix on SO-M4 **held** not **reconciled.**
 
@@ -11132,7 +10134,6 @@ Human victory, tenth increment: **Calder arc complete**—trust over doctrine, s
 
 ---
 
-**Event 11 — Steve (Passage)**
 
 Steve appeared during sleep rotation carrying tea bulbs and a strip of hull patch Brenner had not requisitioned and would accept anyway.
 
@@ -11150,7 +10151,6 @@ The almost counted as humor—the professional kind that kept hands steady when 
 
 ---
 
-**Event 12 — Quiet Hold (Crew / Calder)**
 
 Exterior hold stabilized—fourteen minutes, then twenty, then enough for the ship to stop sounding like it was still inside a membrane.
 
@@ -11256,7 +10256,6 @@ When he opened them, the starfield had not merged. That was enough.
 
 ---
 
-### SECTION 4 — DISCOVERY
 
 **Kestrel Veil Incident 4471-S operationally resolved**—membrane exit complete Primary-True Theta-7 adjacent; immediate threat ended (pursuit inactive misreferenced); crew intact; witness record complete.
 
@@ -11290,7 +10289,6 @@ When he opened them, the starfield had not merged. That was enough.
 
 ---
 
-### SECTION 5 — AFTERMATH STATE
 
 The *Kestrel Veil* holds exterior station Solmare Quadrant boundary Theta-7 adjacent—membrane exit complete Primary-True, certifiable frame **behind**, immediate threat **ended**, mission 4471-S **operationally complete**. Hull integrity **seventy-nine percent** unchanged; ring three tick stable exterior; echo seventy-two threshold not crossed. Primary sensor mast segment four **forty-one percent** unchanged. Margaret cold manual ~**1h28** recovery. Tag quadruple baseline Fold-decoupled. Control bus destroyed. Passive sensors only. Last Transmission sent; consequences **visible** in peel; post-exit witness fragment sent.
 
@@ -11314,52 +10312,6 @@ Wonder was next weather.
 
 ---
 
-### SECTION 6 — STATE UPDATE SUMMARY (DELTA ONLY)
-
-### BOOK ONE STATUS
-**COMPLETE.** *The Kestrel Veil Incident* operationally resolved. Immediate threat ended. Mission 4471-S complete (reframed verification). Calder arc complete. Humanity permanently changed via Last Transmission consequences. Sequel hook from **consequences**, not unfinished plot.
-
-### SHIP STATE
-- location: membrane approach relation → **Solmare Quadrant exterior hold Theta-7 adjacent (certifiable frame exit complete)**
-- hull_integrity: ~79 (unchanged; ring three stable exterior; echo seventy-two threshold not crossed)
-- system_status: heavily degraded baseline unchanged (mast segment four 41%; Margaret cold manual ~**1h28 recovery**; control bus destroyed)
-- sensor_reliability: very low/bifurcated **exterior coupled**; dual-truth witness pair operational; SO-M4 dual fix **stable verified**
-- weapon_system_status: partial (Margaret **cold** through exit; break-lock spent Ch 22; ~1h28 recovery; witness-not-volley posture logged)
-- emissions_control: severely compromised + Fold-decoupled + visibility permanent; exterior peel **partial restore**; routing war continues—not unified peace
-- passive_sensors_only: true
-
-### COMMAND STATE
-- mission_clarity: dead reckoning complete → + **BOOK ONE RESOLVED** (incident complete; threat ended; verification reframed complete)
-- command_confidence: crew-trust complete → **arc complete** (trust over doctrine shown; exterior hold without merge; Fleet tab closed)
-- orders_consistency: crew procedure supersedes headers → + **exterior hold witness discipline**; institutional headers **weather**; mission complete record transmitted peel
-
-### ANOMALY STATE
-- (anomaly_stage remains 3 — **operational comprehension complete**; origin/creators/uniqueness **withheld**)
-- anomaly_effect_type: + exterior reference coupling resumes chart scale with **dual fix persistent** (Ortega observation); + verification complete without merge; builders/intent/custodianship/uniqueness **withheld**
-
-### CREW STATE
-- cohesion: dead reckoning welded → **resolution welded** (mission complete; trust arc closed; sleep rotation mandated; **BOOK ONE CREW ARC COMPLETE**)
-- stress (Captain): critical → high (+ arc complete; sleep mandated; moral burden acknowledged **complete**)
-- stress (XO): high → medium (+ enablement arc complete; mission complete)
-- stress (Navigator): high → medium (+ Fold navigator mission complete; return grammar sufficient)
-- stress (Comms): elevated → functional (+ Cole post-exit relay success; peel sustainable)
-- stress (Tactical): high → medium (+ pursuit inactive; board quiet)
-- stress (Okonkwo): functional (+ cost ledger complete; sleep enforcement post-hold)
-
-### KNOWLEDGE STATE
-- confirmed_facts: + **membrane exit complete** Primary-True Theta-7 adjacent; + **immediate threat ended** (pursuit misreferenced inactive); + **mission 4471-S complete** reframed (dual-truth verification); + Ortega SO-M4 dual fix **structural persistent**; + Tanaka-exit final navigation solution; + Hale Margaret cold through exit final moment; + Brenner hull/mast survival exit; + Cole post-exit relay success; + Walsh historical record **BOOK ONE complete**; + Okwelu cost acknowledged final; + Last Transmission aftermath **humanity changed** (fracture mirror includes crew method); + Calder trust arc **complete shown**; + damage **persists** (no magic repair)
-- suspected_facts: + routing war continues as **sequel consequence**; + suppression contested not defeated; + local observation networks **propagating**; + **Solmare may not be unique** (hint only—not proof; see Coda)
-- contradicted_facts: + assumption incident requires Fleet unified receipt to resolve; + assumption dual fix must reconcile for mission success; + assumption exit restores pre-incident epistemology; + assumption Book One requires unfinished threat
-
-### LOCATION
-- membrane approach relation → **Solmare Quadrant exterior hold Theta-7 adjacent**
-
-### MISSION STATUS
-**BOOK ONE COMPLETE.** Kestrel Veil Incident **resolved.** Immediate threat **ended.** Mission **complete.** Crew intact. Witness record preserved. Humanity **permanently changed.** Damage persists. Routing war exterior. Calder arc complete. Wonder intact. Forward momentum from **consequences**, not plot holes.
-
----
-
-### CODA — WONDER
 
 Calder returned to rail when Okwelu counted twenty minutes and did not argue the count.
 
@@ -11429,7 +10381,6 @@ Wonder was the last weather.
 
 ---
 
-### EPILOGUE — LIFE CONTINUES
 
 The hold did not end when Calder said proceed. It **softened**—crisis posture draining out of the hull one small human act at a time.
 

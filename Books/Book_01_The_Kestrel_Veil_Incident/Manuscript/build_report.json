@@ -1,107 +1,110 @@
 ﻿{
     "MasterMd":  true,
-    "Pdf":  false,
+    "ManualCleanup":  [
+
+                      ],
+    "Pdf":  true,
     "ChapterStats":  [
                          {
                              "Chapter":  1,
-                             "Words":  2245
+                             "Words":  1997
                          },
                          {
                              "Chapter":  2,
-                             "Words":  1654
+                             "Words":  1460
                          },
                          {
                              "Chapter":  3,
-                             "Words":  1543
+                             "Words":  1305
                          },
                          {
                              "Chapter":  4,
-                             "Words":  1546
+                             "Words":  1337
                          },
                          {
                              "Chapter":  5,
-                             "Words":  1582
+                             "Words":  1346
                          },
                          {
                              "Chapter":  6,
-                             "Words":  4840
+                             "Words":  4484
                          },
                          {
                              "Chapter":  7,
-                             "Words":  4958
+                             "Words":  4541
                          },
                          {
                              "Chapter":  8,
-                             "Words":  5537
+                             "Words":  5126
                          },
                          {
                              "Chapter":  9,
-                             "Words":  4879
+                             "Words":  4452
                          },
                          {
                              "Chapter":  10,
-                             "Words":  5151
+                             "Words":  4753
                          },
                          {
                              "Chapter":  11,
-                             "Words":  5113
+                             "Words":  4591
                          },
                          {
                              "Chapter":  12,
-                             "Words":  5447
+                             "Words":  4911
                          },
                          {
                              "Chapter":  13,
-                             "Words":  5691
+                             "Words":  5114
                          },
                          {
                              "Chapter":  14,
-                             "Words":  5812
+                             "Words":  5220
                          },
                          {
                              "Chapter":  15,
-                             "Words":  5550
+                             "Words":  4920
                          },
                          {
                              "Chapter":  16,
-                             "Words":  5666
+                             "Words":  4873
                          },
                          {
                              "Chapter":  17,
-                             "Words":  5755
+                             "Words":  5093
                          },
                          {
                              "Chapter":  18,
-                             "Words":  5595
+                             "Words":  4848
                          },
                          {
                              "Chapter":  19,
-                             "Words":  10537
+                             "Words":  9763
                          },
                          {
                              "Chapter":  20,
-                             "Words":  5721
+                             "Words":  4934
                          },
                          {
                              "Chapter":  21,
-                             "Words":  5892
+                             "Words":  5202
                          },
                          {
                              "Chapter":  22,
-                             "Words":  5509
+                             "Words":  4830
                          },
                          {
                              "Chapter":  23,
-                             "Words":  5591
+                             "Words":  4884
                          },
                          {
                              "Chapter":  24,
-                             "Words":  8479
+                             "Words":  7739
                          }
                      ],
-    "ApproxPages":  481,
-    "PdfWarning":  "\u0027pdflatex\u0027 not found. Please select a different --pdf-engine or install \u0027pdflatex\u0027",
-    "TotalWords":  120293,
+    "ApproxPages":  431,
+    "PdfWarning":  null,
+    "TotalWords":  107723,
     "Docx":  true,
     "EpubValidation":  {
                            "Status":  "PASS",
@@ -127,5 +130,14 @@
                                           }
                                       ]
                        },
-    "Epub":  true
+    "Epub":  true,
+    "Validation":  {
+                       "StateSummaries":  0,
+                       "SectionHeadings":  0,
+                       "DuplicateTitles":  0,
+                       "EndingPreserved":  true,
+                       "MetadataBlocks":  0,
+                       "EventHeadings":  0,
+                       "ChaptersPresent":  24
+                   }
 }
