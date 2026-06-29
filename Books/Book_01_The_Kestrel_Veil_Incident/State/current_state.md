@@ -1,6 +1,8 @@
 # CURRENT STATE — BOOK ONE
 
-Last updated: Post-Chapter 24 — **BOOK ONE COMPLETE**
+> **REWRITE IN PROGRESS.** This file reflects **legacy** post–Ch. 24 end state from the prior anomaly-first draft. Do not treat as canonical for new Ch. 2–4 or war-frame revision until updated after rewrite milestones. See `Notes/REWRITE_STATUS.md` and `Notes/book1_core_premise.md`.
+
+Last updated: Post-Chapter 24 — **LEGACY DRAFT COMPLETE** (pre-rewrite)
 
 ---
 
@@ -62,8 +64,8 @@ Last updated: Post-Chapter 24 — **BOOK ONE COMPLETE**
 **BOOK ONE COMPLETE.** *The Kestrel Veil Incident* resolved. Immediate threat ended. Mission complete. Crew intact. Witness preserved. Damage persists. Wonder intact. Sequel hook from **consequences** (routing war, propagation, possible other sectors) — not unfinished plot.
 
 ## BATCH EXECUTION RECORD
-- Chapters 1–24 complete
-- Act I (Ch. 1–5): Verification
+- Chapters 5–24 complete (Ch. 5 merged *The First Anomaly*; Ch. 1–4 outlined, pending)
+- Act I (Ch. 1–5): Before the Veil — Ch. 5 complete; Ch. 1–4 to be written
 - Act II (Ch. 6–11): The Veil Opens
 - Act III (Ch. 12–18): Fractured Reality
 - Act IV (Ch. 19–24): The Solmare Quadrant — **Book One closed**

@@ -8,6 +8,8 @@ Calder Venn is the variable. Everyone else has shared ship time.
 
 Conflict arises from **differing philosophies, priorities, experiences, and methods**—not from manufactured interpersonal drama.
 
+**Humanization:** Each senior officer has an **AUTHENTIC VOICE & HUMANIZATION** section in their character sheet. Load `Writing_System/Style_Guide/global_writing_principles.md` before writing dialogue. No two officers should pass for each other in a blind-read test.
+
 ---
 
 ## Crew Tenure (Canon Baseline)

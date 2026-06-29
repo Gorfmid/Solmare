@@ -1,14 +1,10 @@
-# CHAPTER 13 — ESPIONAGE
+﻿# Chapter 13
 
-**Chapter Number:** 13  
-**Title:** Espionage  
-**POV Character:** Jun Park  
-**Location:** Korrath Interior Drift Volume — Seven-Beta Hold  
-**Ship Class:** Scout-Class Reconnaissance Vessel (Instance: Kestrel Veil)
+## Espionage
 
----
+❦
 
-## SECTION 1 — STATUS QUO
+
 
 The narrow path had not spoken since engagement peak, and Park had learned to distrust silence the way he distrusted clean checksums—both could mean honesty, both could mean someone had learned to mimic honesty well enough to pass a tired relay officer.
 
@@ -50,21 +46,7 @@ The lattice was somewhere in the buffers, waiting to be read the way Ortega read
 
 ---
 
-## SECTION 2 — OBJECTIVE
 
-**Primary Mission Objective:**
-
-Map operational structure connecting Interior Mandate administrative routing, KISC relay architecture, KISU field survey units, and suppression policy layers using segregated buffer cross-reference only. Identify hidden research **lattice**—nodes, channels, dead-drops, and compartment boundaries—without outbound transmission or position-exposing handshake.
-
-**Secondary Constraints:**
-
-Passive analysis only. No master log merge. Preserve buffers five through seven integrity. Walsh remains concussion-limited; logging only. Living-map corridor selection continues independent of lattice work. Accept that hostile tag and partial metadata recovery remain active exposure vectors.
-
----
-
-## SECTION 3 — INCIDENT CHAIN
-
-**Event 1 — Compartment Lists That Disagree**
 
 Thessaly convened lattice analysis at 0318 in the segregated review bay adjacent to ingestion—not command deck, not galley, the room Koss had certified for buffer read without ingestion path bleed. Calder attended for authorization boundaries only; Okwelu had ordered him to sit, and he sat on the edge of a equipment crate with hydration and the expression of a man who had decided sitting was a form of continuing command.
 
@@ -122,7 +104,6 @@ Calder absorbed that without comfort. Park had watched him learn comfort was mer
 
 "Continue," Calder said.
 
-**Event 2 — False Headers and Corrupted Authentication**
 
 By 0440, Cole had mapped congestion patterns across buffer six class-three fragments—the buried transmission layers that carried suppress-and-reclassify language and transmission withhold orders. Pattern was not random. Writes clustered on odd-sector boundaries in six-hour windows Walsh's **S** column had logged as flat-band events before headers were readable.
 
@@ -176,7 +157,6 @@ Calder almost smiled. Almost was the ship's humor budget.
 
 "Authorized," Calder said. "Continue lattice appendix. Park leads channel analysis. Walsh correlation. Cole congestion. Thessaly scope enforcement. Reyes—grid references only, then back to living map. No outbound."
 
-**Event 3 — Procedural Espionage: Reading the Pipes**
 
 Procedural espionage was not drama. It was timestamp discipline, partition keys, and the willingness to read a lie as a landmark.
 
@@ -222,7 +202,6 @@ Park: "Passive listen only."
 
 "Passive listen only," Thessaly confirmed.
 
-**Event 4 — Human Victory: Lattice Identified**
 
 The breakthrough was not dramatic. It was Cole tapping Park's arm once at 0741 before the display showed narrow-path carrier rise—a half-second tap, the same tap from chapter six when buffer five ingestion threatened overflow.
 
@@ -284,7 +263,6 @@ Calder's mouth moved once—not smile, acknowledgment that the crew had earned s
 
 He left for the rail. Park watched him go and understood the next event would find Calder alone with protection-or-cause while the lattice ticked in buffer five subpartition G like a clock that counted field units that no longer answered.
 
-**Event 5 — Calder and the Seam**
 
 Park heard Calder before he saw him—footfall on the command deck ladder, the particular pause Calder took at the rail when a decision had not yet earned its sentence. Park kept listen-only cycle running on shell seven cousin band with one ear on congestion and one on open comm discipline, the way he had since Theta-7 taught him that captains spoke differently when they thought relay was empty.
 
@@ -326,7 +304,6 @@ Thessaly: "Aye."
 
 Calder did not resolve protection versus cause. Park logged that non-resolution to buffer seven as **command state: dual model carry**—the most honest entry he had written since relay loss.
 
-**Event 6 — The Lattice Answers**
 
 The cost arrived at 0922, thirteen minutes after Park told Calder heartbeat null meant the lattice did not know their name.
 
@@ -395,83 +372,3 @@ That was espionage aboard a wounded scout: you learned the shape of the hidden w
 Park thought of his mother on Helion Prime, who told him every cycle-end that latency was fine. Latency was never fine. It was just measurable. The lattice had measured them on a deprecated path the institution had called legacy until legacy answered back.
 
 He logged the cost without merge and returned to listen-only cycle.
-
----
-
-## SECTION 4 — DISCOVERY
-
-The chapter's revelation was institutional architecture, not cosmological cause.
-
-Cross-work on segregated buffers five, six, and seven—platform reconstruction, KISU-7 core store buried layers, suppression index, Walsh notebook correlation, and passive narrow-path capture—confirmed a **hidden research lattice** connecting Interior Mandate administrative routing, KISC relay shells, and KISU field survey units. The lattice operated through procedural espionage mechanics the crew could map without outbound transmission: false header pairs, temporal dead-drops on flat-band windows, corrupted authentication paths designed to fail fleet merge while succeeding peel, compartmentalized channels, and personnel lists that disagreed by design at merge boundaries.
-
-Faction disagreement was preserved in fragments, not resolved: Interior Mandate treated observation stagger as reporting defect; KISC treated stagger as lattice sync methodology; KISU field doctrine treated stagger as instrument truth and merge as institutional violence. Suppression policy functioned as the **seam** between incompatible layers—operational glue, not single-author malice.
-
-The crew's human victory was identifying lattice node families (platform anchors, interior segments, relay shells, mandate dead-drops), pipe classes, and live heartbeat protocol on shell seven stagger windows—Park channel analysis, Walsh timestamp correlation, Cole congestion detection, Thessaly scope enforcement—without position-disclosing handshake.
-
-The cost was lattice acknowledgment: passive listen provoked inbound reply confirming **listener present** on deprecated auth path with unknown field unit signature and active continuity flag. The lattice now knew something alive had read the stagger window. Hostile hull tag exposure remained a separate vector unchanged.
-
-Calder carried protection-versus-cause unresolved—dual model that suppression may have hidden truth from Fleet, hidden incompatible truths from each other, or contributed to catastrophe. The chapter's unanswered question: **Was Interior Mandate hiding truth from Fleet, or Fleet from the truth?**—or both, if merge was refused.
-
----
-
-## SECTION 5 — AFTERMATH STATE
-
-The *Kestrel Veil* held at interior drift volume seven-beta on whisper thrust, living-map doctrine active for cycle three. Hull integrity eighty-one percent unchanged. Primary sensor mast segment four at forty-one percent effective. Margaret cold manual. Defensive control bus destroyed. Jump drive operational at reduced efficiency. Hull tag active port-aft; nav band coupling logged; no mask authorized.
-
-Relay contact absent. Narrow path listen-only continued. Segregated buffers five through seven intact; buffer seven subpartition seven-L sealed with lattice map appendix. Partial outbound queue metadata loss unchanged.
-
-Injuries stable: Walsh concussion watch continues, notebook logging limited; Tanaka contusion functional with restriction; Brenner palm burn dressed.
-
-Calder Venn commanded under living-map doctrine with new segregated intelligence: hidden research lattice confirmed as operational architecture; suppression as inter-layer seam; protection-versus-cause dual model unresolved. Sleep debt critical; Okwelu enforcement continuing.
-
-Cohesion: strained-welded, anchored by lattice identification success without safety restoration.
-
-Human victory: Park, Walsh, Cole, and Thessaly mapped hidden research lattice—nodes, pipes, dead-drops, faction disagreement—through procedural espionage on segregated buffers without outbound transmission or position disclosure via lattice pipe.
-
-Cost: lattice heartbeat protocol registered active unknown listener on deprecated auth; **listener present** confirmed to continuity system; anonymity further compromised at institutional layer distinct from hull tag.
-
-Was Interior Mandate hiding truth from Fleet, or Fleet from the truth?
-
-Park would listen for the next stagger window and refuse to merge the answers.
-
----
-
-## SECTION 6 — STATE UPDATE SUMMARY (DELTA ONLY)
-
-### SHIP STATE
-- location: interior drift volume seven-beta (unchanged; living-map cycle three proceeding)
-- hull_integrity: 81 (unchanged; seven-C sealed; ring three micro-fractures stable)
-- system_status: heavily degraded with partial nav recovery (unchanged; mast segment four 41%; Margaret cold manual; control bus destroyed)
-- sensor_reliability: very low/bifurcated (unchanged; merge prohibited; living map active)
-- weapon_system_status: partial (Margaret cold manual stagger only; unchanged)
-- emissions_control: compromised (hull tag active port-aft; nav band coupling logged; + lattice deprecated-auth listener exposure without coordinate disclosure)
-- passive_sensors_only: true (unchanged)
-
-### COMMAND STATE
-- mission_clarity: lower → lower (lattice architecture adds institutional structure; objective certainty unchanged)
-- command_confidence: observational authority under conditional navigation → observational authority under conditional navigation + segregated lattice intelligence (dual-model suppression carry; protection vs cause unresolved)
-- orders_consistency: inconsistent (unchanged; fleet orders structurally inapplicable; lattice heartbeat expects field units crew does not satisfy)
-
-### ANOMALY STATE
-- (anomaly_stage remains 3; no skip)
-- anomaly_effect_type: + hidden research lattice as human institutional architecture (Interior Mandate / KISC / KISU continuity system); + suppression as inter-layer seam (not resolved as protection or cause)
-
-### CREW STATE
-- cohesion: strained-welded → strained-welded (lattice map success anchor; institutional paranoia elevated)
-- stress (Captain): very high → very high (dual-model burden; lattice cost; sleep debt critical)
-- stress (XO): high → high (lattice session lead; doctrine logging; Calder tension witness)
-- stress (Navigator): high → high (grid cross-ref to living map; cycle three margins)
-- stress (Engineer): very high → very high (unchanged; mast/Margaret rebuild)
-- stress (Comms): very high → very high (+ lattice reply capture; listener-present cost; channel burden)
-- stress (Tactical): high → high (unchanged; ghost contact method artifact)
-
-### KNOWLEDGE STATE
-- confirmed_facts: + hidden research lattice confirmed (node families: platform anchors, interior segments, KISC relay shells, mandate dead-drops); + procedural espionage mechanics mapped (false headers, temporal dead-drops, corrupted auth paths, compartmentalized channels, disagreeing personnel lists); + faction instruction divergence preserved (Mandate/KISC/KISU stagger interpretation); + lattice shell seven heartbeat protocol live; + passive listen provoked inbound **listener present** reply (unknown field unit signature; continuity flag active); + lattice map sealed buffer seven subpartition seven-L
-- suspected_facts: + suppression functions as seam between incompatible institutional truths; + cartographer D.M. methodology role across KISU marks; + Interior Mandate and Fleet Operations may each have hidden truth from the other
-- contradicted_facts: + assumption suppression is single-faction malice only; + assumption deprecated auth paths are purely historical (lattice reply confirms live use)
-
-### LOCATION
-- Korrath interior drift volume seven-beta (unchanged; fleet-unmapped; living-map hold)
-
-### MISSION STATUS
-- isolated; relay lost; buffers segregated (5–7 intact; seven-L lattice appendix sealed); hull tag active; anonymity compromised (+ lattice listener-present on deprecated auth); clean fringe egress foreclosed; living map navigation authority in effect; hidden research lattice identified at operational structure level; forward interior transit viable at cost of maintained contradiction and institutional exposure

@@ -137,15 +137,27 @@ Nothing to do with the plot. Exists when the camera is off.
 
 ---
 
-**Vocabulary:** Mission packet language, authorization verbs ("authorize," "record," "confirm"), classification terms.
+## AUTHENTIC VOICE & HUMANIZATION
 
-**Sentence rhythm:** Complete sentences even under stress. Requests recommendations before deciding. Repeats mission objective language when uncertain.
+**Blind-read test:** Formal, complete sentences; authorization verbs; reads displays before faces; never sounds like Park's warmth or Halden's gallows wit.
 
-**Humor:** Minimal to absent. Not performatively stern—genuinely focused.
+**Identity influences:** Helion Prime industrial upbringing; fleet administrative education track; officer academy simulation culture; age ~26; human; middle-class via aunt Lisette; secular institutionalist; Cadet Captain rank.
 
-**Emotional expression:** Through process—more verification cycles, longer packet review, sleep fragmentation (Ch. 4–5).
+**POV narration filter (primary POV):** Observes systems before people; translates experience into procedure; notices green indicators and packet completeness; emotional content routed through mission language until stress fractures syntax.
 
-**Body language:** Command console as anchor point. Coffee cup he forgets. Reads displays more than faces until cohesion strain forces otherwise.
+**Vocabulary & syntax:** Mission packet language ("authorize," "record," "confirm," "classification"). Complete sentences even under stress. Repeats objective wording when uncertain—not filler, anxiety made verbal.
+
+**Humor & subtext:** Minimal to absent on-page. Says what he means in command contexts; avoids jokes. Subtext lives in *what he verifies again* rather than what he says. With Lisette (off-ship): slightly less formal, still restrained.
+
+**Body language & emotion:** Command console anchor; forgotten coffee cup; reads displays more than faces until cohesion strain forces eye contact. Stress = more cycles, longer packet review, sleep fragmentation—not raised voice.
+
+**Dialogue habits:** Requests recommendations before deciding; rarely interrupts; finishes thoughts; does not ramble. Pauses before "Execute." Asks "Report" and waits.
+
+**Romantic orientation:** Straight. Single. One ended academy relationship (partner cited his inability to leave work at the door). No active romance Book One; Lisette is family anchor, not romantic interest.
+
+**Language & oaths:** Almost never swears. Under extreme private stress, possibly quiet *damn*—never on command deck. No invented oaths; too institutional for casual profanity.
+
+**Never sounds like:** Park (warm/informal), Halden (dry scenarios), Reyes (coordinate fragments), Brenner (gruff technician), dockworker banter.
 
 ---
 

@@ -2,6 +2,8 @@
 
 **Also called:** crew-first ratio · anomaly-as-weather rule
 
+**Companion doc:** `global_writing_principles.md` — applies to all chapters; this rule adds the crew/anomaly ratio from Act II onward.
+
 Applies to **Book One from Chapter 6 forward** (Act II and beyond). Chapters 1–5 were anomaly-establishment; ratio inverts afterward.
 
 ---

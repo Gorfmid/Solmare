@@ -1,0 +1,110 @@
+---
+description: Global writing principles for The Kestrel Veil Incident — character, world, and story before technical detail
+globs: Books/**/*.md,Writing_System/**/*.md,Characters/**/*.md,Universe/**/*.md
+alwaysApply: false
+---
+
+# Global Writing Principles
+
+**Canonical source:** `Writing_System/Style_Guide/global_writing_principles.md`
+
+These rules apply to every chapter, scene, and revision in **The Kestrel Veil Incident**.
+
+## Priority Order
+
+When deciding what belongs in a scene, always prioritize:
+
+1. Character Development
+2. World Development
+3. Story Progression
+4. Technical Details
+
+Technical information should only exist when it naturally supports one of the first three priorities.
+
+## Writing Style and Reading Level
+
+Write for an educated adult audience (~collegiate reading level). Prose should be intelligent, polished, and sophisticated—not academic or difficult. Favor clear precise language, purposeful description, varied sentences, natural dialogue, and emotional clarity. Avoid simplistic writing, repetition, jargon, purple prose, and textbook tone. Readers may pause to admire a sentence; they should never need to reread to understand what happened.
+
+## Avoid Artificially Profound Prose
+
+Do not insert poetic metaphors, philosophical asides, or clever turns of phrase that do not arise naturally from the POV character. Avoid narration wiser than the viewpoint, sentences written to impress, and abstract metaphors explaining professions. Let meaning emerge through action, dialogue, concrete observation, consequences, and relationships. Trust readers. When in doubt: authenticity over eloquence; effortless over self-conscious.
+
+## Character First
+
+Every scene should deepen the reader's understanding of at least one character. Readers should remember characters because of who they are, not job titles or technical expertise.
+
+## Emotional Layering
+
+Balance emotional tone **within each chapter**—not one note start to finish. Allow natural transitions among humor, curiosity, warmth, tension, uncertainty, triumph, disappointment, hope, grief, and wonder. Highs make lows land; quiet makes action larger. Goal: readers laugh, celebrate, worry, and grieve **with** the characters. A memorable novel is remembered for how it felt as much as what happened.
+
+## World Before Lore
+
+Build the Solmare universe through experience—not exposition. The world should feel lived in rather than explained.
+
+## The Universe Is a Character
+
+The Solmare universe is a central character—not a backdrop. Every location needs history, culture, and ordinary life. The Empire must feel like a living civilization that continues whether protagonists are present or not.
+
+## Every World Should Be Unique
+
+No interchangeable planets. On introduction, establish a handful of memorable defining traits (architecture, culture, cuisine, customs, etc.)—not lengthy description.
+
+## Show Scale Through People
+
+Demonstrate imperial scale through diverse ordinary lives (merchants, teachers, farmers, artists, laborers)—not numbers alone.
+
+## Story Always Moves Forward
+
+Every scene must reveal character, develop relationships, introduce information, increase tension, expand the world, advance the plot, or raise new questions. Never write scenes solely to explain technology or history.
+
+## Avoid Excessive Technical Detail
+
+Do not spend multiple paragraphs on engineering, diagnostics, procedures, fictional science, equipment specs, or command protocols. Show how technology affects characters. If forced to choose between explaining and making the reader feel something, **always choose the emotional experience.**
+
+## Show, Don't Lecture
+
+Reveal information through dialogue, conflict, discovery, observation, consequences, and character interaction—not information dumps.
+
+## Every Character Matters
+
+Even minor characters need distinct personalities. Give each recurring character recognizable speech, habits, humor, strengths, weaknesses, and relationships. On introduction, give at least one memorable trait or interaction.
+
+## Authentic Voice and Characterization
+
+Prose must read human-authored—not formulaic. Vary sentence structure. No interchangeable voices. Identity shaped by culture, home world, education, profession, age, species, and life experience should affect vocabulary, humor, body language, and worldview. Dialogue reveals character (interruptions, subtext, hesitation, unfinished thoughts)—not just information. POV narration must sound like a distinct mind per viewpoint. Readers should recognize characters without names or tags.
+
+## Romantic Interests
+
+Principal and significant characters are **straight** (opposite-sex romantic/sexual interest only). Friendship and crew loyalty are unaffected.
+
+## Language and Swearing
+
+No profanity stronger than *hell*, *damn*, or *bastard*. Invent short, easily pronounceable in-universe oaths at the same severity level. No slurs or vulgar sexual language.
+
+## Wonder Before Explanation
+
+When introducing something new, prioritize wonder over explanation. Let readers discover alongside characters. Mysteries do not need immediate answers.
+
+## The Reader Should Feel Wonder
+
+Every chapter should leave readers with curiosity, awe, anticipation, mystery, hope, tension, or discovery. Wonder is more important than explanation.
+
+## The Reader Comes First
+
+Ask: Why should the reader care? What are they feeling? What question are they asking? What makes them turn the page?
+
+If a scene is interesting only for its information, rewrite it. Information serves the story, never the other way around.
+
+## Expand the Universe
+
+Every chapter should leave the universe feeling larger—not through lore dumps, but through the sense that more worlds, cultures, histories, mysteries, and lives exist beyond the current scene. Open one new window per chapter; life continues across the Empire when protagonists are absent.
+
+## Build a Universe Readers Want to Return To
+
+Every chapter should leave readers wanting to visit worlds, meet people, and learn more about the civilization. The series goal is a universe readers revisit across many books—not a single disposable story.
+
+## Revision Philosophy
+
+**Also load:** `Writing_System/Style_Guide/revision_philosophy.md`
+
+Improve through subtraction as often as addition. If a paragraph fails the revision filter (character, world, story, emotion, page-turn), cut or combine—do not expand by default. **Revise only when demonstrably stronger; when in doubt, leave it.**

@@ -1,5 +1,9 @@
 # PACING RULES — BOOK ONE
 
+**Revision:** When tightening chapters, load `revision_philosophy.md`—strong pacing over completeness.
+
+**Emotional pacing:** Vary tone within chapters per `global_writing_principles.md` (*Emotional Layering*). Operational rhythm below governs plot tension; emotional rhythm governs reader investment.
+
 ## CORE PRINCIPLE
 Pacing is operational, not emotional.
 

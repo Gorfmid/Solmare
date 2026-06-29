@@ -109,6 +109,28 @@ Across all appearances:
 
 ---
 
+## AUTHENTIC VOICE & HUMANIZATION
+
+**Blind-read test:** Politely generic fleet procedural speech—could be any competent rating in the moment; forgettable until retrospect; must NOT sound like Halden, Park, or any established crew voice once readers know the cast.
+
+**Identity influences:** Unknown registry; apparent human; age indeterminate (reads 30s–40s); no confirmed home world; performs standard tasks competently; no rank insignia consistency across observers.
+
+**Voice & syntax:** Short courteous sentences. "Here you are." "Already logged." "Should be on your board." No accent markers. No humor distinct enough to quote later—**that is the point**.
+
+**Dialogue habits:** Does not interrupt dramatically; answers direct procedural questions normally; never rambles, never explains; does not argue about his own presence.
+
+**Subtext:** None intentional—Steve is surface-normal. Any unease is reader-side or post-event reconciliation, not Steve performing mystery.
+
+**Romantic orientation:** N/A for story purposes; no romance arcs.
+
+**Language & oaths:** None observed. If ever needed: mild **"damn"** only, same as any background rating.
+
+**Never sounds like:** A named crew member with signature wit, fear tells, or professional jargon depth. If he starts sounding distinctive, reduce distinctiveness.
+
+**Prose rule:** Do not use Steve for exposition or emotional beats. He is continuity texture, not character development—while still behaving like a person in the moment.
+
+---
+
 ## NARRATIVE FUNCTION
 
 Steve exists to create:

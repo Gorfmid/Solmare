@@ -1,5 +1,7 @@
 # PROSE STYLE SPECIFICATION — BOOK ONE
 
+**Reading level and accessibility:** See `global_writing_principles.md` → *Writing Style and Reading Level*.
+
 ## CORE VOICE PRINCIPLE
 The narrative voice is controlled, precise, and observational. Emotion is present but not indulgent.
 
@@ -17,6 +19,7 @@ The narrative voice is controlled, precise, and observational. Emotion is presen
 ## PROHIBITED
 - sarcasm, slang, casual tone
 - excessive metaphor unrelated to systems
+- artificially profound narration (see `global_writing_principles.md` → *Avoid Artificially Profound Prose*)
 
 ## DESCRIPTION RULES
 - ships = functional

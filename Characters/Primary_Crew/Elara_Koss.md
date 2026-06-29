@@ -151,7 +151,31 @@ Koss will delay captain's action if ship-dependent systems lack reconciliation�
 
 ---
 
-## DIALOGUE VOICE
+## AUTHENTIC VOICE & HUMANIZATION
+
+**Blind-read test:** Flat certification language ("nominal," "won't certify"); one sentence answers two questions; arrives in person when remote isn't enough; never sounds like Park's warmth or Halden's jokes.
+
+**Identity influences:** Fleet engineering apprenticeship (not academy track); late commission; Helion Prime shipyard culture; age ~36; human; married Renzo (fabrication specialist); pragmatic materialist; hands-first worldview.
+
+**POV narration filter (if POV):** Hears machinery before reading screens; trust ordered touch > log entry; anger is quiet and technical.
+
+**Vocabulary & syntax:** Hardware states, cycle counts, tolerance bands. Flat declaratives. Often one sentence answers two questions.
+
+**Humor & subtext:** Almost none on-watch. Off-watch gallows humor with Halden on "ghost calibrations." Affection for Renzo in voice relays—practical words that carry tenderness if you know her.
+
+**Body language & emotion:** Diagnostic tablet prop; close to displays; no fidget. Stress = longer cycles, fewer words, physical presence on deck.
+
+**Dialogue habits:** Direct; does not ramble; will stop Calder mid-order if certification gate not met; rarely jokes; does not soften bad news.
+
+**Romantic orientation:** Straight. Happily married to **Renzo Koss** (Helion Prime). Primary emotional anchor off-ship.
+
+**Language & oaths:** **"hell's bearings"** or **"damn ghost"** in engineering passages—sparingly. Invented: **"grit"** (one syllable, tech slang for failure)—"That's grit," not stronger.
+
+**Never sounds like:** Reyes (spatial abstraction), Park (social questions), Calder (packet language), politicians, theoretical scientists.
+
+---
+
+## DIALOGUE VOICE (QUICK REFERENCE)
 
 **Vocabulary:** Hardware states, cycle counts, tolerance bands, certification language ("nominal," "uncorroborated," "won't certify").
 

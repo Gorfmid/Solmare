@@ -7,23 +7,23 @@
     "ChapterStats":  [
                          {
                              "Chapter":  1,
-                             "Words":  1997
+                             "Words":  4406
                          },
                          {
                              "Chapter":  2,
-                             "Words":  1460
+                             "Words":  71
                          },
                          {
                              "Chapter":  3,
-                             "Words":  1305
+                             "Words":  76
                          },
                          {
                              "Chapter":  4,
-                             "Words":  1337
+                             "Words":  63
                          },
                          {
                              "Chapter":  5,
-                             "Words":  1346
+                             "Words":  5798
                          },
                          {
                              "Chapter":  6,
@@ -95,16 +95,16 @@
                          },
                          {
                              "Chapter":  23,
-                             "Words":  4884
+                             "Words":  4885
                          },
                          {
                              "Chapter":  24,
                              "Words":  7739
                          }
                      ],
-    "ApproxPages":  431,
+    "ApproxPages":  443,
     "PdfWarning":  null,
-    "TotalWords":  107723,
+    "TotalWords":  110693,
     "Docx":  true,
     "EpubValidation":  {
                            "Status":  "PASS",

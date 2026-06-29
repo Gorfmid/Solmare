@@ -26,7 +26,9 @@ Never invent arbitrary story events for convenience.
 
 Book One:
 
-**Solmare Quadrant: The Kestrel Veil Incident**
+**The Kestrel Veil Incident**
+
+**Book overview (rewrite):** `Books/Book_01_The_Kestrel_Veil_Incident/Notes/book1_core_premise.md`
 
 Target manuscript length:
 
@@ -48,16 +50,14 @@ Word count is a quality target—not an absolute rule.
 
 When additional words are needed, increase:
 
-* observational detail
-* procedural realism
-* command discussion
-* environmental description
-* crew interaction
-* technical reasoning
-* internal interpretation
-* consequence analysis
+* character interaction and relationship depth
+* observational detail tied to POV experience
+* world texture (daily life, culture, politics, military routine)
+* internal conflict and emotional stakes
+* environmental description through character perception
+* consequence felt by people, not systems
 
-Never increase length through repetition or filler.
+Use procedural or technical detail only when it supports character, world, or story (see `global_writing_principles.md`). Never increase length through repetition, filler, or exposition dumps.
 
 ---
 
@@ -112,6 +112,7 @@ Read:
 * `Books/Book_01_The_Kestrel_Veil_Incident/Act_Outlines/act3_chapters_12-18_generation.md` (required for Chapters 12–18)
 * `Books/Book_01_The_Kestrel_Veil_Incident/Act_Outlines/act4_chapters_19-24_generation.md` (required for Chapters 19–24)
 * `Books/Book_01_The_Kestrel_Veil_Incident/Act_Outlines/chapter_11_generation_directive.md` (required for Chapter 11)
+* `Writing_System/Style_Guide/global_writing_principles.md` (required for all chapters)
 * `Writing_System/Style_Guide/the_70_30_rule.md` (required for Chapters 6+)
 * `Writing_System/Series_Principles/series_principles.md`
 
@@ -193,6 +194,7 @@ Escalation must emerge naturally.
 
 Strictly enforce:
 
+* global_writing_principles
 * prose_style
 * pacing_rules
 * dialogue_rules
@@ -363,18 +365,20 @@ Execute:
 
 chapter_refinement_engine
 
+**Also load:** `Writing_System/Style_Guide/revision_philosophy.md`
+
 Refinement occurs after validation and state update.
+
+Improve through **subtraction as often as addition**. Word count is not a success metric.
 
 The refinement pass may improve:
 
-* prose depth
-* scene immersion
-* character behavior
-* command discussion
-* procedural realism
-* dialogue
-* pacing
-* observational detail
+* prose clarity and precision
+* scene immersion (via concrete moments, not length)
+* character voice, behavior, and relationships
+* dialogue that reveals personality
+* pacing and momentum
+* cuts of redundant exposition, philosophy, or duplicate beats
 
 The refinement pass may NOT:
 
@@ -384,8 +388,11 @@ The refinement pass may NOT:
 * alter anomaly stage progression
 * change final mission state
 * contradict the validated draft
+* expand scenes by default because background lore exists
 
-Refinement is expansion and polish, not regeneration.
+Refinement is **targeted polish**, not regeneration and not automatic expansion.
+
+If refinement introduces a contradiction, rerun chapter_validator.
 
 If refinement introduces a contradiction, rerun chapter_validator.
 

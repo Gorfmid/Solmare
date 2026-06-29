@@ -1,5 +1,7 @@
-
 # UNIFIED FLEET AUTHORITY (UFA)
+
+**Narrative name:** Fleet Authority · colloquial: **the Empire**  
+**Book One overview:** `Books/Book_01_The_Kestrel_Veil_Incident/Notes/book1_core_premise.md`
 
 ## Ideology
 Order through controlled expansion. Stability over autonomy.

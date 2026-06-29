@@ -1,7 +1,7 @@
 ﻿# ACT II — CHAPTERS 6–11 GENERATION INSTRUCTIONS
 
 **Scope:** Chapters 6–11 (*The Veil Opens*)  
-**Status:** Chapters 1–5 complete. Begin generation from `../State/current_state.md` (post-Ch. 5, KR-13, relay lost).
+**Status:** Chapter 5 complete (merged *The First Anomaly*). Chapters 1–4 outlined, not yet written. Begin Act II generation from `../State/current_state.md` (post-Ch. 5, KR-13, relay lost).
 
 **Related documents:**
 - `chapter_list.md` — plot roadmap and chapter titles
@@ -14,7 +14,7 @@
 
 ## Narrative Shift (Critical)
 
-Chapters 1–5 established the anomaly.
+Chapter 5 (*The First Anomaly*) established the anomaly.
 
 Chapters 6–11: the **anomaly is the setting**. The **crew is the story**.
 

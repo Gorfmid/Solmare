@@ -1,5 +1,6 @@
-﻿
-# CENTRAL MYSTERY (BOOK ONE)
+﻿# CENTRAL MYSTERY (BOOK ONE)
+
+> **Rewrite frame:** Book One carries **two** pressure layers—(1) **external war** (Collectives buildup; Maris's missed warning in Ch. 1) and (2) **Solmare inconsistency** below. See `book1_core_premise.md`.
 
 ## Working Hypothesis
 The galaxy’s navigation and sensor systems are not malfunctioning—they are being altered.

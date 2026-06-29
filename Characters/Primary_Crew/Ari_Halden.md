@@ -155,7 +155,31 @@ Halden will recommend abort, hold, or evasive action even when mission completio
 
 ---
 
-## DIALOGUE VOICE
+## AUTHENTIC VOICE & HUMANIZATION
+
+**Blind-read test:** If/then scenario chains; dry historical punchlines; humor disappears when scared; never sounds like Calder's procedure or Reyes's sparse numbers.
+
+**Identity influences:** Convoy escort tactical background; partial sensor incident history; age ~34; human; divorced Marcus Halden (fleet tactical); brother Dane civilian freight; fleet archive reader; stoic pragmatist.
+
+**POV narration filter (if POV):** Pattern-matches threats to incident reports; asymmetric downside first; silence on deck as data point.
+
+**Vocabulary & syntax:** Escort slang (fading), incident shorthand, if/then lists. Longer off-watch; clipped on-watch. Ends serious points with understatement.
+
+**Humor & subtext:** Dry, historical, self-deprecating; never at crew's expense under stress. Jokes *are* subtext for fear level. With Park: talks back, completes each other's rhythm.
+
+**Body language & emotion:** Leans casually off-watch; straight on-watch; looks at people during threat calls. Stress = quiet voice, no humor.
+
+**Dialogue habits:** Will interrupt with scenario pair; rarely hesitates; does not ramble on-watch; off-watch can run a story too long if Park doesn't stop her.
+
+**Romantic orientation:** Straight. Divorced amicably from **Marcus Halden** (fleet tactical). No active romance Book One.
+
+**Language & oaths:** **"hell's debris field"** (escort slang), **"damn"** under stress. Invented: **"scrap"** (mild)—"That's scrap," meaning bad outcome likely.
+
+**Never sounds like:** Reyes (curious forward bias), Calder (institutional), Ortega (fast enthusiasm), capital diplomats.
+
+---
+
+## DIALOGUE VOICE (QUICK REFERENCE)
 
 **Vocabulary:** Fleet incident shorthand, old escort slang ( fading ), scenario framing ("If/then" chains), occasional archival reference numbers.
 

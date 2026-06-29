@@ -1,14 +1,10 @@
-# CHAPTER 8 — BOARDING ACTION
+﻿# Chapter 8
 
-**Chapter Number:** 8  
-**Title:** Boarding Action  
-**POV Character:** Calder Venn  
-**Location:** Korrath Expanse KR-14 Vicinity — SCV-219 *Watcher's Mark*  
-**Ship Class:** Scout-Class Reconnaissance Vessel (Instance: Kestrel Veil)
+## Boarding Action
 
----
+❦
 
-## SECTION 1 — STATUS QUO
+
 
 Fourteen hours had passed since Park closed the narrow-path verification loop. Relay contact to L-3 remained lost—no carrier, no acknowledgment, no institutional voice to settle arguments the ship had learned to settle without one. What remained was a single low-band handshake lane Park had proven trustworthy enough to act on: not restoration, not authority, but a verified pipe through the same weather that had eaten everything else.
 
@@ -42,17 +38,7 @@ He did not request fleet confirmation. Request was impossible. Confirmation, he 
 
 ---
 
-## SECTION 2 — OBJECTIVE
 
-**Primary Mission Objective:**
-
-Respond to verified narrow-path distress traffic from damaged scout contact in KR-14 vicinity. Assess hull and crew status under contradictory sensor conditions. Execute boarding and recovery of personnel and mission-critical data stores if physically accessible and tactically permissible. Preserve segregated buffer discipline on all recovered materials. Maintain emissions posture appropriate to unknown contacts in adjacent volume.
-
----
-
-## SECTION 3 — INCIDENT CHAIN
-
-**Event 1 — Narrow-Path Distress**
 
 The handshake arrived at 0714—not on fleet relay, not on the bands Park had watched die, but on the narrow lane he and Cole had spent six hours proving: low-band, compressed, checksum-stable when it answered at all.
 
@@ -130,7 +116,6 @@ Tanaka had already opened her checklist to the boarding support page before Reye
 
 ---
 
-**Event 2 — Approach and Contradictory Hull Picture**
 
 The *Kestrel Veil* closed on *Watcher's Mark* using maneuvering thrusters only—no active ping, Halden's passive posture held. The damaged scout resolved on forward display as a familiar silhouette gone wrong: scout spine, instrument boom stowed on one side and sheared on the other, midships hull plate peeled back in a ragged flap that caught starlight like a torn seal.
 
@@ -172,7 +157,6 @@ Calder: "Boarding team enters at 0804. Brenner lead. Sharma second. I third. Col
 
 ---
 
-**Event 3 — Interior Boarding Route**
 
 The inner hatch opened onto a corridor Calder recognized from scout-class layouts—narrow, utilitarian, fleet gray paint scuffed at handhold height. Emergency strips glowed amber on backup power. The air tasted wrong—not contaminated, but thin, with the metallic edge of a compartment that had been losing pressure slowly enough for filters to compensate until they couldn't.
 
@@ -220,7 +204,6 @@ Brenner opened the inner door.
 
 ---
 
-**Event 4 — Survivor and Vault**
 
 Lieutenant Commander Sade Okonkwo sat against the vault housing in a pressure suit with the helmet off and the seal ring cracked open for air she clearly did not have energy to fight. Calder knew her face from Park's compartmentalization file—expedition lead, older than the portrait, younger than the exhaustion.
 
@@ -284,7 +267,6 @@ They brought her clean.
 
 ---
 
-**Event 5 — Extraction Under Sensor Disagreement**
 
 Extraction should have been the simple part. It was not.
 
@@ -346,7 +328,6 @@ Okwelu took Okonkwo to medical bay without asking Calder for permission he would
 
 ---
 
-**Event 6 — Buffer Six and Okonkwo's Fragment**
 
 The core store read completed at 1147 after four hours of segregated ingestion—Koss on hardware path, Brenner on pin seating when ghost reads appeared, Ortega and Reyes running lineage cross-check against buffer five without merge authority, Park maintaining buffer six isolation with Cole identifying congestion by sound at hours two and three when ingestion rate threatened narrow-path echo on the local relay bus.
 
@@ -415,74 +396,3 @@ The unanswered question was not whether Okonkwo was alive—she was.
 The unanswered question was what had happened to everyone else on *Watcher's Mark*—Matu, Kellan, Lieutenant Reyes, and the rest of a crew whose disappearance did not fit one timestamp, one sensor, or one orderly Fleet narrative.
 
 Calder would carry the survivor, the data, and the question forward.
-
----
-
-## SECTION 4 — DISCOVERY
-
-The single most important revelation of the chapter was not cosmological. It was physical and archival at once.
-
-SCV-219 *Watcher's Mark*—a compartmentalized Korrath interior mapping expedition under **KISU-7**—had suffered midships hull breach with staggered compartment failures. Crew disappearance evidence indicated **multiple temporal discontinuities**: personal effects, maintenance tags, ration stamps, and log entries implying crew members had ceased to be present at different times rather than in a single catastrophic event. Redundant array reported zero life signs throughout; primary array and thermal confirmed Okonkwo aft; forward and midships bore physical traces of personnel who were no longer aboard and had not exited through a unified evacuation.
-
-Lieutenant Commander Sade Okonkwo survived in a vault-adjacent compartment, having sealed the **KISU-7 mission store** with explicit anti-merge protocol. The *Kestrel Veil* boarding team recovered both survivor and core data store under contradictory sensor readouts and narrow-path comm congestion managed by Cole and Park.
-
-Recovered data corroborated compartmentalization: **Interior Mandate** division within Fleet Operations ordered split mandates and unmerged buffers. Names, transit windows, and interior mapping runs for KR-13/KR-14 aligned with buffer five platform reconstruction.
-
-This was not resolution of Signal Deviation. It was confirmation that the anomaly's weather produced human consequences at hull scale—boards you could touch, crew you could not locate on a single timeline, records that survived because someone refused to merge them.
-
-Calder could act on recovered stores and survivor testimony. He could not act on fleet confirmation. Relay remained mostly lost. The narrow path remained the only verified institutional edge.
-
-What happened to everyone else on *Watcher's Mark*—and whether any of them could still be alive in a compartment primary array and redundant array disagreed about—remained open.
-
----
-
-## SECTION 5 — AFTERMATH STATE
-
-The *Kestrel Veil* held at KR-14 vicinity following minimal separation burn from SCV-219 *Watcher's Mark*. Relay contact remained mostly lost; narrow-path handshake verified under extraction load. Hull intact. Drive operational. Sensor reliability low—primary/redundant divergence persisted on life signs, range, and interior mass reads.
-
-Buffer five (platform survey log) and buffer six (KISU-7 core store) both segregated under Park's protocol, barred from master log merge pending review. Four KR-12 buffers unchanged. Lieutenant Commander Sade Okonkwo aboard under Okwelu's medical authority—limited debrief complete, full recovery pending.
-
-Calder Venn had authorized boarding on primary-array and narrow-path confidence without redundant confirmation or fleet escalation. The crew delivered a human victory: survivor and critical data extracted via multi-department coordination under contradictory sensors—Reyes/Ortega reconciliation, Halden passive threat posture, Koss/Brenner hull and ingestion path, Park/Cole narrow-path relay discipline, Thessaly command timeline, Sharma/Okwelu medical extraction.
-
-Ghost Fleet history was no longer fragment alone. It had a face, a voice, and a sealed store. Compartmentalization source name **Interior Mandate** entered suspected facts. Who ordered it at command level remained unanswered.
-
-Mission clarity low but operational knowledge increased. Cohesion: strained with task-success anchor strengthened by boarding extraction. Shadow contact logged inconclusive on both arrays—evasion posture unchanged, engagement not triggered.
-
-Calder understood the distinction between rescuing one survivor and explaining a ship where everyone else had vanished on incompatible clocks. He had the first. He did not have the second.
-
-What happened to everyone else on *Watcher's Mark*?
-
-He would carry that question forward.
-
----
-
-## SECTION 6 — STATE UPDATE SUMMARY (DELTA ONLY)
-
-### SHIP STATE
-- location: KR-14 Platform KR-14-Alpha approach (soft-dock released) → KR-14 vicinity (minimal separation burn from SCV-219 *Watcher's Mark*)
-- system_status: degraded (unchanged; relay mostly lost; sensors low; narrow path verified under load)
-
-### COMMAND STATE
-- mission_clarity: low → low (objective advanced via recovery; institutional trust unchanged)
-- command_confidence: superseded for transit and boarding decisions (unchanged; observational authority and verified narrow path active)
-
-### ANOMALY STATE
-- (anomaly_stage remains 3; no skip)
-- anomaly_effect_type: + temporal_discontinuity_evidence aboard crewed hull (extends spatial/log conflict into personnel timeline scale)
-
-### CREW STATE
-- cohesion: strained → strained (boarding success anchor; relay isolation unchanged)
-- stress (Captain): high → high
-- stress (Comms): high → medium-high (narrow path proven under extraction load)
-- stress (Navigator): medium-high → medium-high (array divergence unresolved; operational utility confirmed)
-
-### KNOWLEDGE STATE
-- confirmed_facts: + SCV-219 *Watcher's Mark* (KISU-7) suffered midships breach with staggered compartment failures; + Lieutenant Commander Sade Okonkwo recovered alive; + KISU-7 mission core store recovered intact to segregated buffer six; + crew disappearance evidence indicates multiple temporal discontinuities aboard *Watcher's Mark*; + narrow-path comm lane verified under boarding extraction congestion (Park/Cole); + **Interior Mandate** (Fleet Operations division tag) named in Okonkwo debrief as compartmentalization source layer
-- suspected_facts: + Matu and/or others may remain unaccounted for in forward compartments depending on array authority; + shadow contact during extraction may indicate ongoing surveillance of KR-14 volume; + Interior Mandate orders relate to buffer five platform decommission fiction
-- contradicted_facts: + assumption that redundant array life-sign null confirms hull unoccupied when primary and thermal disagree
-
-### LOCATION
-- KR-14 Platform KR-14-Alpha approach → KR-14 vicinity (holding)
-
-### MISSION STATUS
-- isolated at KR-14; relay mostly lost; platform data in buffer five; KISU-7 survivor and core store in buffer six; SCV-219 *Watcher's Mark* drifting damaged (not recovered); observational authority protocol in effect; boarding extraction complete

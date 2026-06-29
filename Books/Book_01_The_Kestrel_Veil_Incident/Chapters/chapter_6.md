@@ -1,14 +1,10 @@
-# CHAPTER 6 — FIRST CONTACT
+﻿# Chapter 6
 
-**Chapter Number:** 6  
-**Title:** First Contact  
-**POV Character:** Calder Venn  
-**Location:** Korrath Expanse KR-13 → KR-14 Survey Installation  
-**Ship Class:** Scout-Class Reconnaissance Vessel (Instance: Kestrel Veil)
+## First Contact
 
----
+❦
 
-## SECTION 1 — STATUS QUO
+
 
 Six hours had passed since relay contact ceased at 2231. Park continued passive monitoring on a cycle that would not restore what the decline curve had already taken. No inbound carrier. No acknowledgment of the compressed burst Calder had authorized at KR-13 exit. The ship's last institutional tether had not snapped—it had simply stopped answering.
 
@@ -40,17 +36,7 @@ He did not request fleet confirmation. Request was impossible. Confirmation, he 
 
 ---
 
-## SECTION 2 — OBJECTIVE
 
-**Primary Mission Objective:**
-
-Advance from KR-13 hold to KR-14 survey coordinate per primary-array navigation solution. Conduct close-range verification of Platform KR-14-Alpha against archived decommission status. Recover any intact local data stores for shipboard analysis under segregated buffer protocol. Complete KR-14 environmental mapping segment if sensor conditions permit.
-
----
-
-## SECTION 3 — INCIDENT CHAIN
-
-**Event 1 — KR-13 Transit Authorization**
 
 Calder convened department heads at 0512. Relay status unchanged. Park reported zero inbound activity across all monitored bands.
 
@@ -92,7 +78,6 @@ Koss had already appeared in the passageway adjacent to the jump console when Ca
 
 Calder did not interrupt. The exchange was not humor for its own sake—it was calibration between people who had kept scout hulls alive through worse than contradictory charts.
 
-**Event 2 — Jump Execution and KR-14 Hold**
 
 Jump executed at 0547. Exit coordinates: zero-point-zero-zero-one-four parsecs from primary prediction. Within tolerance. Star field orientation matched primary model. Redundant exit fix diverged on bearing by zero-point-zero-zero-five-seven parsecs—consistent with prior KR-13 pattern, logged without merge authority.
 
@@ -126,7 +111,6 @@ Calder studied the thermal overlay. Forty-one years of decommission did not prod
 
 "Hold at approach range," he said. "Prepare boarding survey team. Installation access, not hull breach. Koss—data recovery protocol before anyone touches a local store."
 
-**Event 3 — Approach and Physical Contradiction**
 
 The *Kestrel Veil* closed to two hundred meters on maneuvering thrusters. Platform KR-14-Alpha resolved on the forward display as a modular survey spine: central hab ring, two instrument booms, external data vault housing aft. Fleet gray paint, faded. Docking collar manual—not rated for scout transfer without Brenner's opinion, which Calder requested before authorizing approach.
 
@@ -168,7 +152,6 @@ Halden: "No movement since we've held approach."
 
 "Wasn't us," Brenner said.
 
-**Event 4 — Vault Access and Corrupted Log Chip**
 
 External panel seven required Brenner's hands, a lubricant shim, and eleven minutes. Koss directed power draw through the umbilical while Ortega mapped the platform's passive emissions against archived decommission signatures. The comparison failed immediately—not because sensors were wrong, but because the platform's local power bus showed cycle timestamps within the last eighteen months.
 
@@ -194,7 +177,6 @@ Calder authorized chip transfer across the umbilical at 1126. Brenner carried th
 
 "Aye."
 
-**Event 5 — Multi-Department Reconstruction**
 
 The reconstruction consumed six hours and crossed three watch cycles.
 
@@ -274,7 +256,6 @@ Calder did not intervene in the technical sequence. His role was authorization a
 
 Park attempted one relay burst at 1500—compressed status stub, no buffer content, no position disclosure beyond generic Korrath sector tag. Nothing returned. He logged the attempt locally and returned to buffer five monitoring without comment. Relay remained lost.
 
-**Event 6 — Log Reconstruction Complete**
 
 Final reconstruction completed at 1622. Buffer five subpartitions merged into a single readable survey log under Park's segregation seal—available for analysis, barred from master log integration pending Calder's order.
 
@@ -317,76 +298,3 @@ Koss: "Copy. Return across umbilical."
 He crossed back to the *Veil* with the grounded case empty and the reader head stowed. Calder did not know Brenner's birthday. Park probably did. Calder made a note to learn at least that much before the next transit.
 
 Watch change occurred at 1630. Walsh logged third-watch handoff. Okwelu appeared in the passageway outside the command deck without being summoned, reviewed Calder's posture for three seconds, and moved on without comment. Calder sat down when she told him to. Eventually.
-
----
-
-## SECTION 4 — DISCOVERY
-
-The single most important revelation of the chapter was not cosmological. It was archival.
-
-Platform KR-14-Alpha existed in fleet records as decommissioned since 2187.04—forty-one years uncrewed, passive monitoring only, no active research mandate. Physical evidence aboard the platform contradicted that record in three independent layers: thermal cycling signatures consistent with recent power use; external access wear on vault panel seven within an estimated six-to-eighteen-month window; recovered local survey log documenting active occupancy by **Korrath Interior Survey Unit Seven** from 2224.06 through 2225.11, with instrument load consistent with deep-mapping operations, not automated monitoring.
-
-The recovered log terminated abruptly mid-calibration without orderly shutdown. The chip had been removed improperly—hastily—corrupting sixty-two percent of sectors before the *Kestrel Veil*'s crew reconstructed seventy-one percent through collaborative lineage recovery.
-
-Fleet had told Calder's mission that KR-13 and KR-14 interior segments were unmapped. The reconstructed log contained survey grid references for those segments, logged by a team that official history said should not have existed here.
-
-This was not resolution of Signal Deviation. It was confirmation that institutional record and local physical truth had diverged at a human scale—recent occupancy erased or mislabeled at the archive layer, while the platform's hull and chip still carried the contradiction in hardware.
-
-Calder could act on reconstructed data. He could not act on fleet confirmation. Relay remained lost. No escalation pathway existed.
-
-The unanswered question was not whether the log was corrupted—it had been, and the crew had repaired enough to read it. The unanswered question was who had studied here, who had ordered the decommission fiction, and why Fleet's chart package still described an empty platform forty-one years dark when someone had opened vault panel seven in the last eighteen months and left a survey unit's story sheared across a hurried extraction.
-
----
-
-## SECTION 5 — AFTERMATH STATE
-
-The *Kestrel Veil* held at KR-14 approach coordinates, soft-docked to Platform KR-14-Alpha via umbilical. Relay contact remained lost. Hull intact. Drive operational. Sensor reliability low. KR-13 segment still unmapped as sweep output; KR-14 segment partially verified through platform proximity and passive contact.
-
-Four KR-12 data buffers remained segregated. Buffer five now held reconstructed installation survey log at seventy-one percent recovery, sealed under Park's protocol, barred from master log merge pending review.
-
-Calder Venn had authorized mission continuation deeper into Korrath on primary-array authority without fleet contact. The crew had delivered a human victory: corrupted local data reconstructed through multi-department collaboration—Reyes/Ortega lineage modeling, Park buffer discipline, Koss hardware corroboration, Brenner physical access and chip recovery across soft dock.
-
-Fleet Operations last known state: hold at fringe, KR-14-Alpha decommissioned 2187.04. Actual platform state: evidence of occupancy through 2225.11, recent access within eighteen months, survey grid data for interior segments listed unmapped in mission brief.
-
-Mission clarity low but operational data increased. Command confidence remained superseded by observational authority for transit and local verification. Anomaly conditions unchanged in stage—spatial mapping contradiction now extended by archival contradiction at a fixed human installation.
-
-Cohesion: strained but functional under explicit task completion. Stress distributed across watch cycles; reconstruction success provided temporary cohesion anchor without resolving underlying relay isolation.
-
-Calder understood the distinction between repairing a log and explaining why the log had needed repair. He had the first. He did not have the second.
-
-Who had studied here—and why did Fleet say otherwise?
-
-He would carry both the recovered data and the question forward.
-
----
-
-## SECTION 6 — STATE UPDATE SUMMARY (DELTA ONLY)
-
-### SHIP STATE
-- location: KR-13 exit coordinates → KR-14 Platform KR-14-Alpha approach (soft-docked)
-- system_status: degraded (unchanged; relay lost; sensors low)
-
-### COMMAND STATE
-- mission_clarity: low → low (objective partially advanced; institutional record trust further reduced)
-- command_confidence: superseded for transit decisions (unchanged; observational authority active)
-
-### ANOMALY STATE
-- (anomaly_stage remains 3; no skip)
-- anomaly_effect_type: + archival_record_contradiction at fixed installation (extends existing spatial/log conflict pattern)
-
-### CREW STATE
-- cohesion: strained → strained (task-success anchor; relay isolation unchanged)
-- stress (Captain): high → high
-- stress (Comms): high → high
-- stress (Navigator): high → medium-high (reconstruction success partial relief)
-
-### KNOWLEDGE STATE
-- confirmed_facts: + Platform KR-14-Alpha physically accessible at primary-array coordinates; + archived decommission status (2187.04) contradicted by thermal, access wear, and recovered local log; + Korrath Interior Survey Unit Seven occupied platform 2224.06–2225.11 per reconstructed log; + crew reconstructed seventy-one percent of corrupted local survey log via segregated buffer five; + chip removed improperly within estimated six-to-eighteen-month window before recovery
-- suspected_facts: + Fleet chart package omits or suppresses recent KR-14 occupancy; + survey grid references in recovered log imply KR-13/KR-14 interior mapping prior to current mission
-- contradicted_facts: + Platform KR-14-Alpha uncrewed passive monitoring status since 2187.04
-
-### LOCATION
-- Korrath Expanse KR-13 exit coordinates → KR-14 Platform KR-14-Alpha (soft-docked)
-
-### MISSION STATUS
-- isolated at KR-13; relay contact lost → isolated at KR-14; relay contact lost; KR-14 platform verified; partial interior survey data recovered (buffer five segregated); KR-13 sweep segment unmapped; observational authority protocol in effect

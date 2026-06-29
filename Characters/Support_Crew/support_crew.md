@@ -2,6 +2,8 @@
 
 Recurring personnel aboard UFA Scout Vessel *Kestrel Veil*.
 
+**Humanization authority:** `Writing_System/Style_Guide/global_writing_principles.md` → *Authentic Voice and Characterization*, *Every Character Matters*, *Romantic Interests*, *Language and Swearing*.
+
 **Total complement (Book One):** fourteen personnel — six senior officers plus eight support crew listed below.
 
 These are not deep-arc characters. They are **inhabitants**—people who appear repeatedly, have names, habits, and ordinary imperfections, and make the ship feel lived-in.
@@ -28,6 +30,8 @@ Senior officers know them by name. Park definitely knows them by name.
 
 **Running note:** Has told Calder three times his sleep fragmentation is medically unsustainable. He acknowledged all three. He changed nothing.
 
+**Authentic voice:** Measured clinical plain speech; complete sentences; no fleet jargon unless medical; gentle firmness without shouting. **Blind-read:** sounds like the adult in the room who will not argue twice. **Oaths:** none on duty; private **"hell"** rare. **Romance:** straight; no on-page partner Book One. **Never like:** Calder (authorize/record), Park (banter), Ortega (speed).
+
 ---
 
 ### Tomas "Tom" Brenner — Senior Maintenance Technician
@@ -42,9 +46,11 @@ Senior officers know them by name. Park definitely knows them by name.
 
 **Signature detail:** Can reproduce any ship sound Brenner has heard before—not Koss-level diagnostic genius, but uncanny mimicry used to mess with junior techs.
 
-**Ordinary imperfection:** Leaves tools in exactly the wrong places on purpose (he calls it "optimizing retrieval paths"; Koss calls it something unprintable).
+**Ordinary imperfection:** Leaves tools in exactly the wrong places on purpose (he calls it "optimizing retrieval paths"; Koss calls it something she saves for the engineering bay).
 
 **Running note:** Park knows Brenner's birthday. Calder does not.
+
+**Authentic voice:** Gruff, economical, verbs first; shipyard cadence; dry teasing of juniors. **Blind-read:** sounds like metal and habit, not bridge officers. **Oaths:** **"damn"**, **"bastard"** (tool/machinery only, not people); invented **"shear"** (one syllable, "shear it"). **Romance:** straight; married shore-side (unnamed spouse, mentioned once). **Never like:** Calder, Reyes, Okwelu.
 
 ---
 
@@ -64,6 +70,8 @@ Senior officers know them by name. Park definitely knows them by name.
 
 **Running note:** Was on *Meridian Echo* with Reyes, Koss, and Park. Quiet transfer bond—doesn't push, doesn't need to.
 
+**Authentic voice:** Precise, soft-spoken, checklist vocabulary; speaks when spoken to on-watch; color references in private jargon with Reyes. **Blind-read:** quiet competence, not authority. **Oaths:** almost none; **"drift"** (mild invented). **Romance:** straight; no partner aboard. **Never like:** Halden (jokes), Park (warmth), Calder.
+
 ---
 
 ### Felix Ortega — Science Technician
@@ -81,6 +89,8 @@ Senior officers know them by name. Park definitely knows them by name.
 **Ordinary imperfection:** Talks too fast when excited; Reyes slows him with a look.
 
 **Running note:** Halden calls him "the optimist" privately. Ortega doesn't know this is not entirely a compliment.
+
+**Authentic voice:** Fast when excited (Reyes slows him); aesthetic wonder at data; younger enlisted register. **Blind-read:** enthusiasm contained by fleet context. **Oaths:** **"hell"** when numbers betray him; invented **"flare"** (mild). **Romance:** straight; shy mention of someone on Helion Prime (optional background). **Never like:** Koss (flat), Thessaly (doctrine), Halden (dry).
 
 ---
 
@@ -100,6 +110,8 @@ Senior officers know them by name. Park definitely knows them by name.
 
 **Ordinary imperfection:** Collects novelty mugs from every port. Park's lost-mug problem is partly Cole's fault (she "borrows").
 
+**Authentic voice:** Park's rhythm but quieter; technician practical; sound-before-display intuition. **Blind-read:** relay jargon without Park's social layer. **Oaths:** **"static"** with Park; **"damn"** rare. **Romance:** straight; no arc Book One. **Never like:** Ortega, Calder.
+
 ---
 
 ### Marcus Hale — Defensive Systems Technician
@@ -115,6 +127,8 @@ Senior officers know them by name. Park definitely knows them by name.
 **Signature detail:** Named his favorite emitter array. Nobody else uses the name.
 
 **Ordinary imperfection:** Falls asleep in any chair angled more than fifteen degrees from vertical.
+
+**Authentic voice:** Halden-adjacent dry brevity; hardware names; jokes only with Halden/Hale orbit. **Blind-read:** tactical maintenance, not philosophy. **Oaths:** **"hell"** once per book max; invented **"spike"** (emitter slang). **Romance:** straight; no partner aboard. **Never like:** Park, Ortega.
 
 ---
 
@@ -132,6 +146,8 @@ Senior officers know them by name. Park definitely knows them by name.
 
 **Ordinary imperfection:** Apologizes when nothing is her fault. Park has stopped trying to fix this.
 
+**Authentic voice:** Polite, quick apologies, practical life-support terms; young enlisted. **Blind-read:** earnest, over-responsible. **Oaths:** **"hell"** embarrassed; invented **"choke"** (life-support slang, mild). **Romance:** straight; grandmother on Helion Prime, no shipboard romance. **Never like:** Halden, Thessaly, Brenner.
+
 ---
 
 ### Devon Walsh — General Support / Secondary Monitoring
@@ -147,6 +163,8 @@ Senior officers know them by name. Park definitely knows them by name.
 **Signature detail:** Keeps a perfect personal watch notebook Thessaly once borrowed as a scheduling reference without telling him.
 
 **Ordinary imperfection:** Cannot whistle despite trying constantly in maintenance corridors.
+
+**Authentic voice:** Plain, helpful, slightly formal; notebook precision; Edda Walsh uses rank-appropriate fleet speech. **Blind-read:** the reliable extra hand—not flashy. **Oaths:** **"damn"** under breath logging; no invented oaths yet. **Romance:** straight; no partner Book One. **Never like:** Park, Halden, Ortega.
 
 ---
 
@@ -184,8 +202,11 @@ Senior officers know them by name. Park definitely knows them by name.
 
 - Support crew speak on the command deck when reporting or when addressed. They do not offer unsolicited strategic opinions.
 - They have names, habits, and ordinary imperfections—not arcs.
+- **Each must pass blind-read test:** dialogue identifiable without rank tags (see per-character **Authentic voice** above).
 - Park and Thessaly know all eight by name. Calder is learning. Reyes knows Tanaka and Ortega. Koss knows Brenner and Sharma. Halden knows Hale.
 - In crisis: same functional brevity as senior officers. Personality compresses, does not disappear.
+- **Romantic orientation (all):** straight unless canon revised; no shipboard romance arcs Book One.
+- **Language:** no profanity stronger than *hell* / *damn* / *bastard*; prefer character-specific invented oaths listed above.
 
 ---
 

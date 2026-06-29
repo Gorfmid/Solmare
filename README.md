@@ -23,7 +23,7 @@ Solmare is the shared universe and production system for The Solmare Cycle.
 
 `Books/Book_01_The_Kestrel_Veil_Incident/`
 
-Book One is complete in draft form.
+**Rewrite in progress.** Ch. 1 complete; new book overview in `Notes/book1_core_premise.md`. Ch. 6–24 are legacy draft pending revision.
 
 ## Regenerating the manuscript
 

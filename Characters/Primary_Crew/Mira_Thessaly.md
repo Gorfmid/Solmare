@@ -122,6 +122,8 @@ Nothing to do with the plot. Exists when the camera is off.
 
 ---
 
+## STRENGTH PROFILE
+
 - Watch-captain reliability across extended operations
 - Doctrine fluency without bureaucratic paralysis
 - Direct reporting without editorializing—until asked
@@ -157,7 +159,31 @@ Thessaly will recommend abort before Calder asks. She will not countermand witho
 
 ---
 
-## DIALOGUE VOICE
+## AUTHENTIC VOICE & HUMANIZATION
+
+**Blind-read test:** Short declarative doctrine-speak; "Aye, Captain" without endorsement; schedule as emotional syntax; never sounds like Reyes's spatial poetry or Park's questions.
+
+**Identity influences:** Kestran IV colony roots (father Petros); standard officer commissioning (not Calder's admin track); three XO postings; age ~38; human; managed-care class awareness; competitive strategy games; divorced Elena (fleet logistics).
+
+**POV narration filter (if POV):** Sorts world into watch blocks, consequences, defensible records; sees crew as sleep debt and certification holds; grief appears as tighter schedules.
+
+**Vocabulary & syntax:** Doctrine references, watch terminology, precise status nouns. Subject-verb-object. Rarely more than two clauses on-watch. Avoids metaphor on duty.
+
+**Humor & subtext:** Deadpan, rare—scheduling jokes, logistics absurdities. Disagreement often subtextual in *how* she schedules, not *what* she argues. With Okoye (letters): slightly more honest, still controlled.
+
+**Body language & emotion:** Still posture; hands on console edge or clasped behind back; eye contact when delivering disagreement. Stress = shorter sentences, aggressive watch division, earlier bed checks.
+
+**Dialogue habits:** Does not interrupt often; completes orders crisply; trails off never on-watch. "Recommendation:" as entry to dissent. Will not wait for acknowledgment on rest orders.
+
+**Romantic orientation:** Straight. Divorced amicably from Elena Thessaly (fleet logistics). No active romance Book One; open to future shore-side partnership, not pursuing aboard.
+
+**Language & oaths:** Mild *damn* in private quarters only. Invented oath: **"rift take it"** (corridor slang, Kestran)—muttered when schedule collapses, never on record.
+
+**Never sounds like:** Calder (verification loops), Halden (if/then gallows), Ortega (enthusiasm), dockworkers or capital diplomats.
+
+---
+
+## DIALOGUE VOICE (QUICK REFERENCE)
 
 **Vocabulary:** Doctrine references, watch terminology, precise status nouns. Avoids metaphor.
 

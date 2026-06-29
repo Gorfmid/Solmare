@@ -117,6 +117,7 @@ Ensure:
 - No unresolved dangling plot declarations
 - No “summary of future events”
 - No meta commentary outside simulation
+- Scenes prioritize character, world, and story over technical exposition (`global_writing_principles.md`)
 
 ---
 

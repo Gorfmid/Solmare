@@ -1,0 +1,38 @@
+---
+description: Revision philosophy for The Kestrel Veil Incident — subtract as often as add; every paragraph must earn its place
+globs: Books/**/*.md,Writing_System/**/*.md
+alwaysApply: false
+---
+
+# Revision Philosophy
+
+**Canonical source:** `Writing_System/Style_Guide/revision_philosophy.md`
+
+Improve the manuscript through **subtraction as often as addition**. Longer is not automatically better.
+
+**Do not revise simply because you can.** Revise only when demonstrably stronger. Preserve excellent prose, memorable dialogue, and emotionally effective scenes. Continuous improvement, not continuous change.
+
+## Before keeping or adding material, ask
+
+* Does this strengthen characters?
+* Does this deepen the world?
+* Does this dialogue reveal personality or relationships?
+* Does this advance the story?
+* Does this increase emotional impact?
+* Does this make the reader want to keep reading?
+
+If **no** → remove, simplify, or combine rather than expand.
+
+## Favor
+
+Clarity over complexity · emotional impact over explanation · memorable moments over exhaustive detail · strong pacing over completeness · implication over exposition.
+
+## Rules
+
+- Reveal only what the current scene needs; preserve curiosity about the larger world.
+- Do not add exposition because information exists in notes or bible files.
+- Every paragraph must justify its existence; every scene must earn its place.
+- Communicate more with fewer words when possible.
+- **Goal:** quality, readability, resonance, and momentum—not word count.
+
+When refining existing chapters: preserve structure, pacing, and successful prose unless a targeted change clearly improves the scene. Refinement, not reinvention. **When in doubt, leave it.**

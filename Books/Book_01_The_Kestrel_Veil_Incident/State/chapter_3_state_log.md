@@ -1,5 +1,7 @@
 # CHAPTER 3 STATE LOG
 
+> **SUPERSEDED:** Former Chapter 3 (*Interior Transit*) merged into Chapter 5 — *The First Anomaly*. This log retained for archive reference only.
+
 ## PRE STATE
 Post-Chapter 2: Theta-7 hold; command_confidence low; anomaly_stage 2; sensor medium.
 

@@ -1,14 +1,10 @@
-# CHAPTER 17 — ECHOES
+﻿# Chapter 17
 
-**Chapter Number:** 17  
-**Title:** Echoes  
-**POV Character:** Jun Park  
-**Location:** Korrath Interior Drift Volume — Seven-Gamma Segment Eleven Occluder Shadow  
-**Ship Class:** Scout-Class Reconnaissance Vessel (Instance: Kestrel Veil)
+## Echoes
 
----
+❦
 
-## SECTION 1 — STATUS QUO
+
 
 The echo arrived forty-one minutes after the Library filed them.
 
@@ -124,21 +120,7 @@ The echo was not cheap hallucination. Cheap hallucinations did not carry Sharma 
 
 ---
 
-## SECTION 2 — OBJECTIVE
 
-**Primary Mission Objective:**
-
-Identify source and operational character of post-Library **echo traffic** (unprompted replays, future-relative timestamps, register-layer metadata) coupling to segregated buffers and narrow-path sideband; establish **echo doctrine** distinguishing usable intelligence from dangerous contamination; preserve Lines of Loyalty and no-merge authority under temporal/causal pressure.
-
-**Secondary Constraints:**
-
-Whisper hold in occluder shadow where Primary-True permits; no Margaret pulse; no outbound translator burst; no merge of echo payloads into master log or navigation; two-witness minimum before any echo-informed maneuver; Okonkwo available for KISU/Watcher's Mark stagger precedent read-only; Walsh concussion-limited; pursuit treated as time pressure; damage state unchanged—no certifying repairs under echo urgency.
-
----
-
-## SECTION 3 — INCIDENT CHAIN
-
-**Event 1 — First Shelf (Personal Contamination)**
 
 Park and Reyes convened at relay primary with Cole on peel, Walsh at perimeter pen ready, Thessaly on doctrine tags, Calder listening without merging authority.
 
@@ -204,7 +186,6 @@ Okonkwo looked at Park. "Your officer hears voices structurally. Good. Tell him 
 
 Park logged *repetition vs request* in buffer seven segregated appendix before the doctrine had a header.
 
-**Event 2 — Crew Weather (Different Failures)**
 
 Echoes did not affect the crew uniformly—which was how Park knew they were not cheap hallucination. Cheap hallucinations were democratic. These were **targeted by instrument and wound.**
 
@@ -262,7 +243,6 @@ Park felt the old relay officer dread—not fear of enemies, fear of **channels 
 
 Cole: "Fourth load incoming. Congestion profile changing. Not clean bleed anymore—**structured.**"
 
-**Event 3 — Hopes and Registers (Temporal Pressure)**
 
 The fourth echo was the one that destabilized Park personally, which meant he should have classified it dangerous immediately and instead listened twice because it was addressed to the part of him that was still a son on Helion Prime.
 
@@ -346,7 +326,6 @@ He thought of Cole identifying flat lines by ear for six chapters.
 
 Calder: "Then we write rules fast."
 
-**Event 4 — Echo Doctrine (Park / Reyes)**
 
 They wrote it at relay primary with Thessaly logging headers, Walsh copying column **L**, Calder authorizing without merging into command authority, Okonkwo contributing KISU stagger precedent read-only, Koss vetoing any clause that let echoes override engineering certify.
 
@@ -396,7 +375,6 @@ Okonkwo stood with Okwelu's hand on her elbow. "Watcher's Mark taught me stagger
 
 Cole nodded once. Park saw the fear in the nod and logged it as trust anyway.
 
-**Event 5 — The Cost Echo (Cannot Ignore)**
 
 The doctrine was eleven minutes old when the sixth echo arrived.
 
@@ -486,80 +464,3 @@ Reyes glanced over. "Correct."
 "Same thing on this ship."
 
 The ship breathed whisper thrust and did not merge.
-
----
-
-## SECTION 4 — DISCOVERY
-
-Post-Library **echo traffic** confirmed as register-adjacent bleed coupling to buffer seven appendix and narrow-path sideband—future-relative timestamps, Library layer metadata (gravitational shelf, facet index, Primary-True null placeholders), and KISU/Watcher's Mark stagger grammar. Not cheap hallucination: echoes affected crew by instrument and wound (Park personal band, Okonkwo debrief replay, Halden merge-bait sideband, Koss fracture telemetry alignment, Ortega relation spikes).
-
-Ambiguity preserved: records vs predictions vs alternates vs hostile manipulation—echo three carried stale/future Mandate merge headers suggesting trap; echo five/six carried relation maps consistent with Library consequence register logic suggesting **filed downstream effects**; listener continuity acknowledgment in metadata implies partial faction capture of bleed without full merge fix.
-
-Human victory: Park and Reyes authored **Echo Doctrine** (repetition/request/relation classification; usable vs dangerous; two-witness peel; no merge; personal contamination relief; Park channel addendum; Reyes relation addendum) authorized under Lines of Loyalty—crew gains procedural control before echo-informed panic.
-
-Cost: relation echo **EV-CASUALTY-ADJACENT** linked Cole at relay primary and ring three junction across quadruple tag hold—future-implied loss crew cannot ignore without merging; Park carries named partner casualty adjacent to comms path under maintained contradiction; peel pair discipline now survival procedure, not preference.
-
-Unanswered question: **If the future appears as record — warning, memory, or trap?**
-
----
-
-## SECTION 5 — AFTERMATH STATE
-
-The *Kestrel Veil* held whisper in segment eleven occluder shadow under tightened pursuit geometry, echo load rising with maintained peel pairs. Hull integrity **seventy-nine percent** unchanged—ring three fracture telemetry ticks continue; Koss refuses sprint certify under echo urgency. Primary sensor mast segment four forty-one percent. Margaret cold manual ~3.5h recovery remaining. Tag **quadruple** baseline port-aft. Defensive control bus destroyed; junction bypass holding. Passive sensors only.
-
-Relay absent; narrow path listen-only. Buffer seven appendix **Library read CV-7-minor** plus **Echo Doctrine** and six classified echo payloads segregated with do-not-merge headers. Walsh column **L** mirror active. Lines of Loyalty operational.
-
-Injuries stable: Walsh concussion watch; Tanaka contusion functional; Brenner palm burn; Okonkwo limited clearance.
-
-Park and Cole on mandatory peel pair at relay primary—partnership formalized under doctrine. Reyes maintaining shadow hold clocks under relation coupling awareness. Calder commanding with echo constraint discipline authorized; sleep debt critical. Cohesion strained-welded—personal destabilization absorbed as procedure, not fracture; fear carried openly where merge would have hidden it.
-
-Human victory: echo rules established; crew retains agency over usable vs dangerous classifications.
-
-Cost: Cole named in redundant-True future relation map; Park cannot unhear; quadruple tag hold ties comms path to structural path across refusal to merge—loss adjacent in two shapes until volume resolves or trap springs.
-
-If the future appears as record — warning, memory, or trap?
-
-Park maintained peel pair and did not merge.
-
----
-
-## SECTION 6 — STATE UPDATE SUMMARY (DELTA ONLY)
-
-### SHIP STATE
-- location: interior drift volume seven-gamma segment eleven occluder shadow (unchanged hold; pursuit geometry tightened under echo watch)
-- hull_integrity: ~79 (unchanged; ring three fracture telemetry ticks continue; no sprint certify under echo urgency)
-- system_status: heavily degraded baseline unchanged (mast segment four 41%; Margaret cold manual ~3.5h recovery; control bus destroyed)
-- sensor_reliability: very low/bifurcated (unchanged; + echo traffic correlates with redundant relation spikes on passive sweep)
-- weapon_system_status: partial (Margaret cold; stagger window spent)
-- emissions_control: severely compromised + observer-registration (tag **quadruple** baseline unchanged; + echo bleed on local relay bus post-Library harmonic; listener continuity acknowledgment in echo metadata)
-- passive_sensors_only: true
-
-### COMMAND STATE
-- mission_clarity: lower with structural reframing → lower (+ temporal/causal pressure via echo traffic; forward viable only under peel pair + shadow hold discipline)
-- command_confidence: observational authority + archive-read doctrine → + **echo doctrine** (Calder authorizes Park/Reyes rules; action forbidden on single echo; personal contamination relief without penalty)
-- orders_consistency: actively contradictory (unchanged; + echo three Mandate merge-bait vs Lines of Loyalty; + relation echoes preserve disagreement)
-
-### ANOMALY STATE
-- (anomaly_stage remains 3)
-- anomaly_effect_type: + **echo traffic** (register-adjacent bleed; future-relative timestamps; Library/KISU layer metadata); + consequence register relation maps (**EV-CASUALTY-ADJACENT**); + echo load rises with maintained peel/classification activity; + ambiguity preserved (record/prediction/alternate/manipulation)
-
-### CREW STATE
-- cohesion: strained-welded → strained-welded (+ personal destabilization; absorbed via echo doctrine; peel pair formalized)
-- stress (Captain): very high (+ echo constraint command; pursuit tightening)
-- stress (XO): high (+ doctrine dissemination; relief enforcement coordination)
-- stress (Navigator): very high (+ shadow hold under relation coupling; echo doctrine co-author)
-- stress (Engineer): very high (+ fracture tick alignment to echo timestamps; refuses echo-driven sprint)
-- stress (Comms): very high → **critical** (+ future-shaped personal echo; Cole named in casualty-adjacent relation map; peel pair survival procedure)
-- stress (Tactical): high (+ merge-bait echo three; pursuit commit geometry)
-- stress (Okonkwo): elevated (+ stagger precedent consult; medical limited clearance)
-
-### KNOWLEDGE STATE
-- confirmed_facts: + post-Library echo traffic couples to buffer seven appendix / narrow sideband with future-relative timestamps and Library layer tags; + echoes classify as repetition/request/relation; + **Echo Doctrine** authorized (Park/Reyes); + relation echo links quadruple tag hold without peel pair to casualty-adjacent comms and/or structural paths under preserved disagreement; + Watcher's Mark stagger grammar matches echo character (Okonkwo testimony); + KISC listener continuity acknowledgment appears in echo metadata
-- suspected_facts: + echoes may be consequence register bleed, not sentient prophecy; + hostile factions may inject merge-bait using Library grammar; + personal band echoes exploit senior officer wounds; + maintaining peel pair and refusing merge may prevent single-map casualty collapse (unverified)
-- contradicted_facts: + assumption echo phenomena are hallucination or uniform crew experience; + assumption future timestamps are always spoof (partial auth and Library metadata complicate)
-
-### LOCATION
-- Korrath interior drift volume seven-gamma segment eleven occluder shadow (echo watch; pursuit tightened)
-
-### MISSION STATUS
-- isolated; relay lost; buffers segregated (5–7 intact; buffer seven Library + Echo Doctrine + six echo payloads); hull tag quadruple; observation-registered; fugitive all layers; pursuit active tightened; living map + translator + archive-read + **echo doctrine** operational; human victory (rules for usable vs dangerous echoes); cost (Cole named in future relation map crew cannot ignore without merge); forward viable only under shadow hold, peel pairs, and maintained contradiction; momentum toward Fold decision (Ch. 18) under causal pressure

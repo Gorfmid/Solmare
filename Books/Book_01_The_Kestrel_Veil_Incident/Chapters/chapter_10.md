@@ -1,14 +1,10 @@
-# CHAPTER 10 — RUNNING DARK
+﻿# Chapter 10
 
-**Chapter Number:** 10  
-**Title:** Running Dark  
-**POV Character:** Calder Venn  
-**Location:** Korrath Expanse KR-14 Departure Corridor — outbound drift lane  
-**Ship Class:** Scout-Class Reconnaissance Vessel (Instance: Kestrel Veil)
+## Running Dark
 
----
+❦
 
-## SECTION 1 — STATUS QUO
+
 
 Thirty-one hours had passed since Walsh matched the third encrypted stub to a suppression header Park had already logged in buffer six cross-reference.
 
@@ -60,17 +56,7 @@ He was almost ready to decide he did not need more certainty to do it.
 
 ---
 
-## SECTION 2 — OBJECTIVE
 
-**Primary Mission Objective:**
-
-Execute passive egress from KR-14 departure corridor without engagement. Maintain segregated buffer integrity and narrow-path comm discipline under emissions control. Deny shadowing forces positive identification and weapons solution while transiting to KR-13 segment fallback coordinates using local observation navigation only. Preserve crew function and life-support viability under reduced power and thermal signature constraints.
-
----
-
-## SECTION 3 — INCIDENT CHAIN
-
-**Event 1 — Geometry That Learned**
 
 Halden's brief at 0633 was not dramatic. Calder trusted that about him.
 
@@ -126,7 +112,6 @@ Tanaka had already opened her color-coded checklist to the page Reyes had not ye
 
 ---
 
-**Event 2 — The Mark**
 
 Calder waited eleven minutes after the prepare order—not for certainty, for Brenner's confirmation on vent baffle torque and Sharma's final scrubber staging read.
 
@@ -180,7 +165,6 @@ Calder watched Halden's silence and understood the humor had not stopped because
 
 ---
 
-**Event 3 — Berth Air and Grandmother Messages**
 
 Hour two of dark running was Sharma's hour in the way boarding extraction had been Cole's— not because Calder gave her the deck, but because every department head eventually routed through her numbers.
 
@@ -248,7 +232,6 @@ Calder realized he had not checked fleet contact in ninety minutes because there
 
 ---
 
-**Event 4 — Herding Without Hail**
 
 Hour four brought the first moment Calder understood they were being driven.
 
@@ -298,7 +281,6 @@ He did not wake the ship for it.
 
 ---
 
-**Event 5 — Evasion Window**
 
 Hour six was when redundant closure spiked and primary did not—and the crew chose darkness over battle without discussing it as philosophy.
 
@@ -360,7 +342,6 @@ Calder heard the boarding extraction in her sentence. He answered the dark run t
 
 ---
 
-**Event 6 — Running Dark**
 
 Hour eight. Emissions control engaged. Lights dimmed on dark-watch preset until the command deck existed in the blue-gray of instruments and faces reduced to cheekbone and habit. Calder's console cast enough glow to read threat envelopes without painting the bulkhead. Somewhere in ring four, a vent baffle ticked once—metal cooling, Brenner's work settling into the new equilibrium Sharma had bought them.
 
@@ -417,73 +398,3 @@ Halden's voice, barely above a whisper: "They're done watching."
 Calder did not look back at KR-14. He looked at the scope.
 
 Held breath broke.
-
----
-
-## SECTION 4 — DISCOVERY
-
-The chapter's operational revelation was not cosmological. It was tactical and human at once.
-
-Shadowing forces—likely escort-class or superior by mass profile, unauthenticated, non-hailing—had maintained surveillance geometry on the *Kestrel Veil* for more than thirty hours following KR-14 departure. Under Calder's emissions control order, the crew executed a full dark-running posture: passive sensors only, no fleet transmission, narrow-path listen-only discipline, life-support and thermal signature reduction managed by Sharma under Koss's engineering authority.
-
-The crew **evaded engagement** through combined competence—Reyes local observation navigation using KISU-7 chart marks outside fleet merge; Halden dual-array threat modeling without weapons escalation; Sharma's emissions-life-support tradeoffs preserving six-point-one days atmosphere margin through segment burn; Brenner baffle maintenance; Hale cold emitters; Park uncertified traffic logging; Walsh/Thessaly watch discipline carried from suppression verification.
-
-Redundant array closure spikes suggested **herding behavior**—contacts shaping drift toward predictable corridors—while primary array pacing remained consistent with surveillance rather than immediate intercept. Segment three whisper maneuver broke redundant closure geometry without triggering weapons lock on either array interpretation.
-
-This was not resolution of Signal Deviation. It was confirmation that human crews could deny superior shadowing forces a clean engagement window inside anomaly weather—if they stopped advertising and trusted interpretive models over institutional merge.
-
-Whether followers were Fleet, Ghost Fleet, or third-party remained open. Whether **stable dark** waypoints offered safety or entrapment remained open.
-
----
-
-## SECTION 5 — AFTERMATH STATE
-
-The *Kestrel Veil* held at KISU-7 segment two **stable dark** waypoint margin under full emissions control—dark-watch lighting, passive sensors, narrow path listen-only. Relay contact absent. No Fleet acknowledgment. Shadow contacts persist on primary; redundant solutions inconsistent.
-
-Buffers five and six segregated; KR-12 set unchanged. Okonkwo under medical authority. Suppression confirmed operational fact from Walsh notebook / encrypted stub verification chain.
-
-Calder Venn authorized dark running on interpretive crew models without fleet confirmation or unified sensor truth—decisions almost blind, confidence sufficient to act. Human victory: crew evaded superior shadowing forces without engagement—uncaught, not safe.
-
-Cohesion: strained with task-success anchor strengthened by evasion. Stress high across command deck; Park on intermittent traffic edge; Halden humor absent by choice.
-
-Mission clarity low; operational competence rising. Next inevitability: weapons lock.
-
-Protection or cause—the suppression question from Interior Mandate evidence—remains unanswered at command level.
-
-What are the followers herding them toward?
-
-Held breath broke on Halden's warning. Weapons lock was next.
-
----
-
-## SECTION 6 — STATE UPDATE SUMMARY (DELTA ONLY)
-
-### SHIP STATE
-- location: KR-14 vicinity departure corridor → Korrath KR-13 segment two **stable dark** waypoint margin (local observation)
-- system_status: degraded (unchanged); emissions control engaged; passive sensors only; relay absent; narrow path listen-only verified
-
-### COMMAND STATE
-- mission_clarity: low → low (egress advanced; institutional trust unchanged)
-- command_confidence: observational authority under dark run (superseded merge reliance further reduced; Calder acting on crew interpretive models with minimal sensor certainty)
-
-### ANOMALY STATE
-- (anomaly_stage remains 3; no skip)
-- anomaly_effect_type: unchanged weather; + passive surveillance geometry divergence (primary pacing vs redundant herding/closures)
-
-### CREW STATE
-- cohesion: strained → strained (evasion success anchor; dark-run discipline binding)
-- stress (Captain): high → high (sleep debt; decision load under blind posture)
-- stress (Comms): medium-high → high (intermittent uncertified traffic; listen-only strain)
-- stress (Navigator): medium-high → medium-high (local observation egress successful; array divergence operationalized)
-- stress (Tactical): medium-high → high (Halden humor suppressed; threat models active; no engagement)
-
-### KNOWLEDGE STATE
-- confirmed_facts: + shadowing contacts (3 primary / 4 redundant typical) maintain surveillance without hail; + emissions control reduces identifiable signature under Koss/Sharma protocol; + segment three maneuver broke redundant closure without weapons lock; + KISU-7 local chart marks viable for dark navigation (Reyes/Tanaka); + suppression verification (Ch. 9 chain) remains operational background
-- suspected_facts: + followers may be herding toward **stable dark** volumes; + obsolete callsign fragment on sideband may indicate Ghost Fleet listener overlap; + escort-class mass profiles suggest superior force if engagement occurs
-- contradicted_facts: + assumption that passive pacing equals non-hostile intent (herding behavior on redundant)
-
-### LOCATION
-- KR-14 vicinity → KR-13 segment two **stable dark** waypoint margin (holding dark)
-
-### MISSION STATUS
-- isolated; relay lost; buffers segregated; dark running; shadow contacts persistent; engagement evaded; not safe—uncaught; weapons lock threshold approaching (Ch. 11)

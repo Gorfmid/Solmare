@@ -1,5 +1,7 @@
 # CHAPTER 2 STATE LOG
 
+> **SUPERSEDED:** Former Chapter 2 (*Buffered Report*) merged into Chapter 5 — *The First Anomaly*. This log retained for archive reference only.
+
 ## PRE STATE
 Post-Chapter 1: Theta-7; anomaly_stage 2; sensor medium; command_confidence medium; local verification protocol.
 

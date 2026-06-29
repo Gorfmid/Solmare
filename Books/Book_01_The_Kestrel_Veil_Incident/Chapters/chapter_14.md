@@ -1,14 +1,10 @@
-# CHAPTER 14 — LINES OF LOYALTY
+﻿# Chapter 14
 
-**Chapter Number:** 14  
-**Title:** Lines of Loyalty  
-**POV Character:** Calder Venn  
-**Location:** Korrath Interior Drift Volume — Seven-Beta Hold → Seven-Gamma Transit  
-**Ship Class:** Scout-Class Reconnaissance Vessel (Instance: Kestrel Veil)
+## Lines of Loyalty
 
----
+❦
 
-## SECTION 1 — STATUS QUO
+
 
 Fleet had not spoken in days, and now it would not stop talking.
 
@@ -66,21 +62,7 @@ The ship held. The orders accumulated. Calder waited for enough of the storm to 
 
 ---
 
-## SECTION 2 — OBJECTIVE
 
-**Primary Mission Objective:**
-
-Evaluate contradictory Fleet and faction directives arriving on deferred, cached, and sideband paths; determine operational authority without merge collapse; preserve crew, civilian safety constraints, and segregated truth stores while maintaining living-map transit toward seven-gamma.
-
-**Secondary Constraints:**
-
-No outbound transmission that discloses position or surrenders segregated buffers. No institutional merge of contradictory orders into false consensus. Walsh remains concussion-limited. Margaret remains cold manual. Accept that compliance with one authority may constitute violation of another—and document the choice.
-
----
-
-## SECTION 3 — INCIDENT CHAIN
-
-**Event 1 — Deferred Orders That Disagree**
 
 Thessaly convened directive review at 1044 in the segregated review bay—not command deck, not galley, the room Koss had certified for buffer read without ingestion bleed. Calder attended because authorization boundaries required a captain's counter-signature even when every signature in the stack contradicted the last.
 
@@ -156,7 +138,6 @@ Thessaly watched him the way she watched damage tabs become doctrine.
 
 "Captain," she said—not urging, naming. "We need a line."
 
-**Event 2 — Pursuit Geometry**
 
 The directives were still arguing on Thessaly's tablet when Ortega reported pursuit at 1103.
 
@@ -196,7 +177,6 @@ Calder: "Lines of authority."
 
 He nodded once. "Convene department heads at 1130. Not directive review. Doctrine."
 
-**Event 3 — Colonial Relay and Civilian Corridor**
 
 At 1122, before the doctrine session, Park recovered a sixth fragment—colonial relay, not narrow path, checksum ugly but body intact.
 
@@ -232,7 +212,6 @@ Calder understood the weight: if Mandate headers said decommissioned and KISU fi
 
 He would not merge.
 
-**Event 4 — Loyalty Without Theater**
 
 Department heads convened at 1130 on the command deck—not battle stations, not segregated bay. Calder wanted the crew who would execute whatever line he drew to hear it spoken where stations could hear, because secrecy about loyalty was how institutions pretended obedience was uniform.
 
@@ -312,7 +291,6 @@ The acknowledgments moved around the ship like watch turnover—professional, un
 
 Calder felt something shift that was not relief. Relief assumed a problem solved. This was a problem **named**—loyalty redirected from institution to verifiable truth and the bodies that carried it.
 
-**Event 5 — Which Fleet Layer Survives Contact**
 
 Cycle three corridor selection logged at 1217—Primary-True segment nine approach, seven-beta toward seven-gamma, living map cycle breathing. Reyes did not celebrate. Celebration was merge pressure dressed as morale.
 
@@ -396,7 +374,6 @@ The ship had refused. Margaret had staggered cold. Reyes had held corridor margi
 
 That was not victory over pursuit. It was victory over **self-fracture**—the institution's favorite weapon when truth stopped fitting one chart.
 
-**Event 6 — Fugitive Record**
 
 They made seven-gamma at 1318—local observation drift volume, fleet-unmapped, living-map cycle three complete. Not safety. A coordinate the institution could not claim without choosing which faction's map to lie with.
 
@@ -463,83 +440,3 @@ The crew owned truth **now**—in segregated buffers, in Walsh's notebook column
 He did not merge the answers.
 
 He authorized forward.
-
----
-
-## SECTION 4 — DISCOVERY
-
-The chapter's revelation was institutional fracture made operational—not new cosmology, not lattice architecture, but **command legitimacy failure under deferred contact**.
-
-Contradictory directives arrived on narrow path cache, Mandate peel paths, Cartography administrative tier, civilian oversight fragments, KISC shell sideband, and colonial corporate relay—each claiming authority over scout vessel *Kestrel Veil*, each prescribing incompatible surrender, silence, merge, evacuation priority, continuity token compliance, or franchise recovery. Fleet was not monolithic; it was **layered factions** speaking through pipes designed to prevent merge.
-
-The dual-header order at 1229—Fleet Operations authentication skin over Interior Mandate hostile reclassification body—demonstrated that institutional contact could wear multiple faces in a single burst, testing which layer the crew would obey under pursuit illumination.
-
-The crew's human victory was codification of **Lines of Loyalty** doctrine: preserve verifiable truth without merge, crew survival, and civilian need where observation confirmed it—**before** institutional obedience. Calder authorized living-map continuation and refused store surrender, sensor merge, Mandate silence, KISC token fiction, and corporate franchise compliance.
-
-The cost was fugitive status relative to at least Interior Mandate hostile tier and Fleet Cartography defect logging; Fleet Operations recovery remained unverified; corporate pursuit paused but not withdrawn; compliance with one authority would have violated another regardless of choice.
-
-The unanswered question: **If multiple authorities claim legitimacy, who commands reality-breaking evidence?**—segregated buffers, living map, lattice appendix, and interior observation the institution's layers each wanted under incompatible terms.
-
----
-
-## SECTION 5 — AFTERMATH STATE
-
-The *Kestrel Veil* held at interior drift volume seven-gamma post-cycle-three transit. Hull integrity eighty-one percent unchanged. Primary sensor mast segment four at forty-one percent effective. Margaret cold manual. Defensive control bus destroyed. Hull tag active port-aft; nav band coupling logged; lattice listener-present exposure unchanged.
-
-Relay contact absent for authenticated handshake; narrow path listen-only continued. Segregated buffers five through seven intact; buffer seven subpartition seven-L lattice appendix sealed; Lines of Loyalty doctrine logged buffer seven appendix without merge.
-
-Injuries stable: Walsh concussion watch continues; Tanaka contusion functional with restriction; Brenner palm burn dressed.
-
-Calder Venn commanded under living-map doctrine plus Lines of Loyalty internal authority principle—truth, crew, civilians before institutional obedience. Sleep debt critical; Okwelu sixth notice pending. Fugitive to Mandate hostile tier and Cartography defect tier; Fleet Ops custody directive deferred unverified; corporate pursuit paused.
-
-Cohesion: strained-welded, anchored by internal loyalty doctrine adoption without crew fracture.
-
-Human victory: crew established Lines of Loyalty—operational principle prioritizing verifiable truth, crew, and civilians over contradictory institutional directives—and completed cycle three transit to seven-gamma under pursuit without merge collapse or store surrender.
-
-Cost: institutional fugitive status across multiple Fleet layers; hostile/defect flags propagate on paths crew mapped; next contact will force authority choice with higher exposure.
-
-If multiple authorities claim legitimacy, who commands reality-breaking evidence?
-
-Calder carried the question forward with the living map and the sealed lattice—both alive, both costly, neither mergeable.
-
----
-
-## SECTION 6 — STATE UPDATE SUMMARY (DELTA ONLY)
-
-### SHIP STATE
-- location: interior drift volume seven-beta → interior drift volume seven-gamma (living-map cycle three complete)
-- hull_integrity: 81 (unchanged; seven-C sealed; ring three micro-fractures stable)
-- system_status: heavily degraded with partial nav recovery (unchanged; mast segment four 41%; Margaret cold manual; control bus destroyed)
-- sensor_reliability: very low/bifurcated (unchanged; merge prohibited; living map active)
-- weapon_system_status: partial (Margaret cold manual stagger only; cold stagger fired 1233; unchanged rebuild status)
-- emissions_control: compromised (hull tag active port-aft; nav band coupling logged; + pursuit illumination exposure 1229–1233; no mask authorized)
-- passive_sensors_only: true (unchanged)
-
-### COMMAND STATE
-- mission_clarity: lower → lower (institutional authority fracture explicit; forward transit viable under internal doctrine)
-- command_confidence: observational authority under conditional navigation + segregated lattice intelligence → observational authority under **Lines of Loyalty** internal principle (truth, crew, civilians before institutional obedience)
-- orders_consistency: inconsistent → **actively contradictory** (multiple Fleet/faction directives received; dual-header Fleet Ops/Mandate order; compliance with one layer violates another)
-
-### ANOMALY STATE
-- (anomaly_stage remains 3; no skip)
-- anomaly_effect_type: unchanged background (interior observation-method dependency; living map operational)
-
-### CREW STATE
-- cohesion: strained-welded → strained-welded (Lines of Loyalty doctrine anchor; professional loyalty test passed without fracture)
-- stress (Captain): very high → very high (+ fugitive authority burden; pursuit illumination decision)
-- stress (XO): high → high (+ doctrine logging; institutional defensibility loss acknowledged)
-- stress (Navigator): high → high (+ cycle three complete; shelter mark deferred)
-- stress (Engineer): very high → very high (unchanged)
-- stress (Comms): very high → very high (+ deferred order cache congestion; dual-header peel)
-- stress (Tactical): high → high (+ pursuit illumination; cold stagger execution)
-
-### KNOWLEDGE STATE
-- confirmed_facts: + contradictory directives received from Fleet Operations recovery, Interior Mandate continuity hold, Fleet Cartography merge emergency, civilian oversight evacuation fragment, KISC shell continuity reclassification, Helion Industrial Consortium franchise recovery; + Fleet is layered factions not monolithic command; + dual-header order (Fleet Ops auth skin / Mandate hostile body) at 1229; + corporate pursuit illumination 1229–1233; + **Lines of Loyalty** doctrine codified (truth, crew, civilians before institutional obedience); + fugitive status Mandate hostile tier and Cartography defect tier; + cycle three transit seven-beta → seven-gamma complete
-- suspected_facts: + Fleet Operations recovery directive may lack Mandate-authorized visibility; + corporate pursuit coordinated with franchise recovery law not Fleet custody; + civilian shelter mark KR-int shelter may intersect Primary-True corridor (unverified contact deferred)
-- contradicted_facts: + assumption Fleet contact restores single legitimate authority; + assumption institutional obedience remains viable without merge
-
-### LOCATION
-- Korrath interior drift volume seven-beta → seven-gamma (local-observation coordinates; fleet-unmapped; living-map hold)
-
-### MISSION STATUS
-- isolated; relay lost; buffers segregated (5–7 intact; seven-L lattice appendix sealed; Lines of Loyalty logged); hull tag active; anonymity compromised; institutional fugitive to Mandate/Cartography layers; Fleet Ops recovery deferred unverified; corporate pursuit paused; living map navigation authority in effect; forward interior transit viable under Lines of Loyalty at cost of multi-layer institutional hostility

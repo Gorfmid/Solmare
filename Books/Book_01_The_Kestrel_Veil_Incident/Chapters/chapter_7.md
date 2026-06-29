@@ -1,14 +1,10 @@
-# CHAPTER 7 — GHOST FLEET
+﻿# Chapter 7
 
-**Chapter Number:** 7  
-**Title:** Ghost Fleet  
-**POV Character:** Calder Venn  
-**Location:** Korrath Expanse KR-14 Platform KR-14-Alpha (soft-docked)  
-**Ship Class:** Scout-Class Reconnaissance Vessel (Instance: Kestrel Veil)
+## Ghost Fleet
 
----
+❦
 
-## SECTION 1 — STATUS QUO
+
 
 Third watch had ended forty minutes ago. Calder had not left the command deck.
 
@@ -56,17 +52,7 @@ The history work was about to begin whether Calder felt ready or not.
 
 ---
 
-## SECTION 2 — OBJECTIVE
 
-**Primary Mission Objective:**
-
-Extract expedition history from buffer five reconstructed survey log and cross-correlate with KR-12 segregated fragments under Okwelu-approved crew rotation. Conduct long-range passive contact assessment from KR-14 hold position. Attempt identification of any communications path sufficient for verified reception—not full relay restoration—without compromising segregated data integrity or outbound position disclosure beyond operational necessity.
-
----
-
-## SECTION 3 — INCIDENT CHAIN
-
-**Event 1 — Medical Gate Before History Work**
 
 Calder convened department heads at 0512. Soft dock nominal. Relay status unchanged.
 
@@ -94,7 +80,6 @@ Calder looked at Okwelu. She met his gaze with the calm that was not permission 
 
 Okwelu wrote one line in the paper notebook and left. Calder did not ask what the line said. He was learning that some logs existed outside merge authority.
 
-**Event 2 — Compartmentalized History Reconstruction**
 
 Reyes led the history sequence at 0520 with Ortega beside him for the first ninety minutes before rotation. Tanaka cross-indexed authorization stubs from buffer five subpartition D against KR-12 buffer two fragment headers—no merge, visual comparison only, checksum logging on every lookup Park insisted upon.
 
@@ -146,7 +131,6 @@ Park: "Not until we know what we're listening to."
 
 That was before Ortega, rested, returned at 1114 and passive sweep changed the priority order.
 
-**Event 3 — Long-Range Contacts**
 
 Ortega resumed passive sweep layers at 1118 with Hale on defensive watch continuity. Thermal, mass, EM quiet-band—standard abandoned-platform profile with one exception.
 
@@ -172,7 +156,6 @@ Reyes plotted contact drift on primary array while redundant array shadow-logged
 
 Walsh's watch notebook accumulated timestamps without commentary. Thessaly reviewed the page during a meal packet she ate in four bites standing up. Calder noticed his mission packet stack had been straightened again. He had not seen Thessaly do it. He was getting better at noticing after the fact.
 
-**Event 4 — Hail Sequence and Authentication Anomaly**
 
 Calder authorized passive hold and limited hail attempts at 1142. No outbound position disclosure beyond generic Korrath sector tag. No buffer content. No merge keys.
 
@@ -238,7 +221,6 @@ Park listened. Cole tapped his arm once—negative carrier.
 
 The command deck sat with a message that sounded like fleet authority and a scope that showed fleet mass profiles neither fleet nor the message could explain.
 
-**Event 5 — Park Proves One Path Trustworthy**
 
 The argument began before Calder called it one.
 
@@ -292,7 +274,6 @@ Calder understood the distinction Park had earned: the crew did not have fleet t
 
 Halden had not joked in two cycles. Park had not refilled her coffee. Calder did not ask whether the channel proof changed that weather. He filed it under problems solved by people rather than problems dissolved by institutional contact.
 
-**Event 6 — Second Fragment and Compartmentalization Order**
 
 The coupler path opened again at 1347 without hail initiation—inbound carrier rise, session stub, payload burst, termination.
 
@@ -349,76 +330,3 @@ When he looked up, the notebook was gone and Okwelu was already at the medical h
 He returned to the command deck with the list in his pocket and the question he could not merge into master log yet:
 
 Who had ordered compartmentalization—and who did **VENN** name in an order the Ghost Fleet still routed through dead authentication codes?
-
----
-
-## SECTION 4 — DISCOVERY
-
-The chapter's revelation was organizational, not cosmological.
-
-Long-range passive contacts—**Ghost Fleet** in Halden's defensive labeling—showed multiple fleet-mass signatures in Korrath interior space where institutional records denied current fleet presence. A hail on deprecated survey-band architecture through Platform KR-14-Alpha's secondary coupler returned authentication codes that should have been revoked and a denial message contradicting the scope.
-
-Park did not restore L-3 relay. He proved something narrower and more actionable: **one narrow duplex path** through the platform survey coupler exhibited fleet generation-class session behavior across independent three-pass verification—latency fingerprint, handshake sequence, and eleven-minute session maintenance—sufficient to treat the channel as trustworthy infrastructure even while its payload remained suspect.
-
-On that verified path, a second burst delivered partial plaintext of **KISC COMPARTMENT DIRECTIVE 07/12/03 REV B**, ordering compartmentalization of Korrath Interior Survey Units One through Seven under separate archive templates—field logs operational, institutional archive platform-status only, Fleet Operations visibility sealed under **KISC-INT-SEAL-7**. Recovered language explicitly stated template application did not constitute physical decommission and authorized field cross-reference while prohibiting archive cross-reference.
-
-Cross-work with buffer five, KR-12 buffer two fragments, and platform bus stubs corroborated the structure: Survey Unit Seven was one cell in a compartmentalized interior mapping program under Korrath Interior Survey Command, not Fleet Operations—a human-scale archival split, not a sensor ghost.
-
-The denial message and the ghost contacts remained unresolved. The channel integrity victory was human: Park separated trustworthy path from untrustworthy content, enabling segregated capture without merge authority collapse.
-
-The unanswered question sharpened: not whether compartmentalization occurred—it had, by order text and multi-source fragment corroboration—but **who ordered it**, and whether the sheared authorization suffix **/VENN/** named Calder's line, another officer pool, or a deliberate template artifact designed to surface in reconstruction.
-
----
-
-## SECTION 5 — AFTERMATH STATE
-
-The *Kestrel Veil* held soft-docked at KR-14 Platform KR-14-Alpha. Relay contact to L-3 remained lost. Hull intact. Drive operational. Sensor reliability low. One verified narrow communications path existed through platform survey coupler—listen-capture authorized into buffer five subpartition G; not full relay restoration.
-
-Four KR-12 buffers and buffer five remained segregated. Subpartition G held coupler-captured compartment directive fragments. Master log merge still barred pending review.
-
-Long-range passive contacts—three primary, one possible fourth—remained on interior bearing without drive emission or identification. Ghost Fleet label operational, not resolved.
-
-Okwelu enforced reconstruction rotation before history work broke operators; Ortega, Tanaka, and Cole completed mandatory rest blocks. Medical gate held without delaying compartmentalization analysis beyond scheduled rotation.
-
-Calder Venn could act on verified channel behavior for further listen-capture. He could not act on fleet denial text or restore institutional contact. Command confidence remained superseded by observational authority for transit and local verification; communications authority now included one narrow path Park certified—not L-3, not safe, not complete.
-
-Fleet Operations last known state: hold at fringe; no current fleet presence in Korrath interior; KR-14-Alpha decommissioned 2187.04. Actual state: soft-docked to occupied-evidence platform; ghost contacts interior; KISC compartmentalization directive recovered; archive templates separated from field occupancy truth.
-
-Cohesion: strained but functional—Okwelu rotation prevented fatigue fracture; Park's channel proof provided second task-success anchor after buffer five reconstruction.
-
-Calder carried the compartment structure forward and the sharper question with it:
-
-Who ordered compartmentalization—and who was **VENN** in the order chain?
-
----
-
-## SECTION 6 — STATE UPDATE SUMMARY (DELTA ONLY)
-
-### SHIP STATE
-- location: KR-14 Platform KR-14-Alpha (soft-docked; unchanged)
-- system_status: degraded (unchanged; L-3 relay lost; sensors low; + verified narrow survey-coupler duplex path)
-
-### COMMAND STATE
-- mission_clarity: low → low (compartmentalization structure partially mapped; fleet presence denial contradicted by contacts)
-- command_confidence: superseded for transit decisions (unchanged); + one communications path certified actionable for segregated listen-capture (not full relay)
-
-### ANOMALY STATE
-- (anomaly_stage remains 3; no skip)
-- anomaly_effect_type: + long-range fleet-mass contacts with auth/code anomalies; + archival compartmentalization layer documented (extends archival_record_contradiction pattern)
-
-### CREW STATE
-- cohesion: strained → strained (Okwelu rotation enforced; Park channel-proof anchor; ghost contacts elevate defensive strain)
-- stress (Captain): high → high
-- stress (Comms): high → medium-high (one path verified; L-3 still lost)
-- stress (Medical): medium → medium (Okwelu proactive gate successful)
-
-### KNOWLEDGE STATE
-- confirmed_facts: + multiple long-range mass contacts (fleet scout/corvette profile) interior bearing; + deprecated pre-2190 auth handshake on platform survey coupler; + Park three-pass verification confirms one narrow duplex path exhibits authentic fleet session behavior; + partial **KISC COMPARTMENT DIRECTIVE 07/12/03 REV B** captured in buffer five subpartition G; + compartmentalization of Survey Units One–Seven under KISC with separate archive templates; + template application explicitly not physical decommission; + Fleet Operations visibility sealed **KISC-INT-SEAL-7**; + field/archive cross-reference prohibition documented
-- suspected_facts: + ghost contacts may relate to KISC relay shell; + denial message may be template-class same as decommission headers; + authorization suffix **/VENN/** may reference Calder line or template artifact
-- contradicted_facts: + institutional claim of no current fleet presence in Korrath interior (denial message vs passive contacts)
-
-### LOCATION
-- Korrath Expanse KR-14 Platform KR-14-Alpha (soft-docked; unchanged)
-
-### MISSION STATUS
-- isolated at KR-14; relay contact lost; + one verified narrow coupler listen path (not L-3 restore); buffer five expanded (subpartition G); ghost contacts under passive monitoring; Okwelu rotation enforced; observational authority protocol in effect

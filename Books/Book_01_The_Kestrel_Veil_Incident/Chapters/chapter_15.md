@@ -1,14 +1,10 @@
-# CHAPTER 15 — SIEGE OF KORRATH
+﻿# Chapter 15
 
-**Chapter Number:** 15  
-**Title:** Siege of Korrath  
-**POV Character:** Calder Venn  
-**Location:** Korrath Interior Drift Volume — Seven-Gamma Perimeter → KR-Int Shelter Convergence  
-**Ship Class:** Scout-Class Reconnaissance Vessel (Instance: Kestrel Veil)
+## Siege of Korrath
 
----
+❦
 
-## SECTION 1 — STATUS QUO
+
 
 The battle arrived as noise before it arrived as geometry.
 
@@ -52,21 +48,7 @@ The institution had sent contradictory orders to the *Veil*. Now it was sending 
 
 ---
 
-## SECTION 2 — OBJECTIVE
 
-**Primary Mission Objective:**
-
-Intervene as translator of broken relay and sensor data in Korrath interior siege volume; prevent ships and weapons platforms from acting on false merged solutions that target civilian shelter occupancy and friendly units visible only under non-merge observation; exploit faction reliance on single-map doctrine without winning battle by firepower.
-
-**Secondary Constraints:**
-
-No outbound transmission disclosing *Veil* position or surrendering segregated buffers. No institutional merge of primary and redundant sensor authority. Margaret remains manual—defensive stagger for break-lock only, not engagement victory. Accept that intervention may expose the ship to all hunting factions simultaneously. Walsh remains concussion-limited. Document all authority violations under Lines of Loyalty.
-
----
-
-## SECTION 3 — INCIDENT CHAIN
-
-**Event 1 — Relay Weather**
 
 Thessaly convened battle-adjacent review at 0912—not battle stations, not yet. Calder wanted the shape before the category change.
 
@@ -134,7 +116,6 @@ Calder: "Exposure is a dial. We're choosing how far to turn it."
 
 That was command confidence Ch 11 had not granted him—the confidence to name tradeoffs without pretending Fleet math still applied. It was also moral burden Ch 14 had forecast: fugitive to institutions, translator to strangers, captain to crew who would execute because the line was written in truth before obedience.
 
-**Event 2 — Locally Useful Source**
 
 Identifying the beacon as usable was not victory. It was the prerequisite victory would steal from.
 
@@ -208,7 +189,6 @@ Ortega: "Call it anyway. I trust your grandmother more than Cartography today."
 
 Sharma did not answer. She did not need to. Running Dark had taught the crew that life support was tactical vocabulary when emissions discipline was life.
 
-**Event 3 — False Target Break**
 
 The correction did not stop fire. It created **hesitation**—the first human victory available in a siege of maps.
 
@@ -264,7 +244,6 @@ Okwelu checked Walsh's pupil response between packages. Walsh tolerated it with 
 
 "Continue," Okwelu said. Not to Walsh. To Calder. Permission with a ceiling.
 
-**Event 4 — Broken Maps as Terrain**
 
 Translator role turned navigation into diplomacy written in method tags.
 
@@ -332,7 +311,6 @@ Calder: "Then we choose cells where sending saves more than hiding costs."
 
 That was the moral math of siege—not win, **net preserve**. People who trained for fleet victory conditions had to learn a different arithmetic in Korrath interior. Calder had been learning since chapter twelve. This was the exam.
 
-**Event 5 — Human Victory**
 
 The breakthrough was not tactical dominance. It was **coordination without merge**—three ships acting on method-tagged local truth because the alternative was shooting their own maps.
 
@@ -386,7 +364,6 @@ Calder felt the ending question form before Thessaly spoke it.
 
 "And revealed ourselves," Calder finished, "to everyone capable of hunting us."
 
-**Event 6 — Siege Afterimage**
 
 The convergence did not end—it **reorganized**. Factions withdrew on incompatible bearings, each assuming the others had betrayed merge doctrine. The *Veil* held in segment eleven occluder shadow while the volume cooled from relay weather into pursuit weather.
 
@@ -445,83 +422,3 @@ Both. That was the answer Lines of Loyalty implied. That was the answer he could
 Thessaly brought tea. Halden forgot coffee. Park refilled her mug.
 
 Calder authorized forward—not because the volume was clear, because **backward had been foreclosed since chapter eleven** and silence had stopped being neutral the moment merge fire lit shelter approach.
-
----
-
-## SECTION 4 — DISCOVERY
-
-The chapter's revelation was siege as **epistemic combat**—not anomaly spectacle, institutional merge exported as area fire control.
-
-Multiple factions—Helion Industrial Consortium franchise recovery, Interior Mandate liaison, Fleet Operations escort under Cartography merge authority, civilian tender *Meridian Span*, KISC shell sideband—shared Korrath interior convergence volume while reading incompatible maps. Fleet Cartography combat merge override treated living-map methodology as defect and authorized fire on **clear** grid cells that Primary-True observation marked **probable civilian occupancy** at KR-int shelter approach.
-
-The *Kestrel Veil* intervened as **translator**, not combatant: Park and Cole gated narrow-path correction payloads with observation-method tags and KISU-7 local beacon reference; Reyes and Tanaka supplied living-map grammar without coordinate disclosure in master frame; Hale used Margaret's partial rebuild for single break-lock stagger windows—not to defeat enemies, to fracture lock certainty on false redundant targets.
-
-Human victory: prevented massacre chain—corporate stabilization fire stood down, Fleet beta ceased merge fire on false shelter solution, *Meridian Span* held corridor under Primary-True confirmation, Mandate gamma held for epistemic review. Broken maps functioned as tactical terrain via segment eleven occluder shadow transit—unmerged cell placement exploiting Cartography **clear** fiction against Primary-True occlusion.
-
-Cost: translator intervention confirmed *Veil* active presence to all hunting factions—corporate noncompliant tag refresh, Mandate hostile repeat, Cartography active interference escalation, KISC listener translator confirmation, chapter-eleven-class pursuit contact committing on primary array; tag coupling tripled.
-
-Unanswered question: **Prevented massacre, or revealed themselves to everyone capable of hunting them?**—both true under Lines of Loyalty; exposure purchased civilian and allied survival from false relay data.
-
----
-
-## SECTION 5 — AFTERMATH STATE
-
-The *Kestrel Veil* held at interior drift volume seven-gamma segment eleven occluder shadow post-siege intervention. Hull integrity approximately eighty percent—ring three micro-fractures from proximity concussive, Koss assessment pending formal roll. Primary sensor mast segment four at forty-one percent effective unchanged. Margaret cold manual—twelve-second stagger window spent; four-hour cold recovery before next certified pulse. Defensive control bus destroyed; junction bypass holding. Tag active port-aft with **tripled** nav band coupling post-translator burst.
-
-Relay contact absent for authenticated handshake; narrow path listen-only continued with translator send logged segregated. Segregated buffers five through seven intact; Lines of Loyalty doctrine operational; translator intervention logged buffer seven appendix without merge.
-
-Injuries stable: Walsh concussion watch continues; Tanaka contusion functional; Brenner palm burn dressed.
-
-Calder Venn commanded under Lines of Loyalty with **translator role** added—confidence higher, moral burden higher; sleep debt critical; Okwelu seventh notice deferred.
-
-Cohesion: strained-welded, anchored by outward application of internal loyalty doctrine without crew fracture.
-
-Human victory: saved ships and civilians from acting solely on false merge relay fire solutions—*Meridian Span*, shelter approach Primary-True occupancy, Fleet beta redirect, corporate alpha stand-down.
-
-Cost: exposed to all hunting factions simultaneously; pursuit contact committing; translator role makes *Veil* strategic asset/target; hull minor degradation; Margaret window spent; emissions/tag coupling worsened.
-
-Prevented massacre, or revealed themselves to everyone capable of hunting them?
-
-Calder carried **both** forward—because the alternative had been merge by proxy, and merge was how people disappeared while still being real.
-
----
-
-## SECTION 6 — STATE UPDATE SUMMARY (DELTA ONLY)
-
-### SHIP STATE
-- location: interior drift volume seven-gamma (segment eleven occluder shadow hold; siege convergence volume adjacent)
-- hull_integrity: 81 → ~80 (ring three proximity concussive micro-fractures; Koss formal assessment pending)
-- system_status: heavily degraded with partial nav recovery (unchanged functional baseline; mast segment four 41%; Margaret cold manual post-window spend; control bus destroyed)
-- sensor_reliability: very low/bifurcated (unchanged; merge prohibited; living map validated under siege stress)
-- weapon_system_status: partial (Margaret cold manual; twelve-second stagger window **spent**; 4-hour cold recovery before next certified pulse; Hale partial spine rebuild holding)
-- emissions_control: compromised → **severely compromised** (translator narrow-path burst; tag coupling **tripled**; sideband exposure all factions; no mask authorized)
-- passive_sensors_only: true during hold; brief stagger pulse only
-
-### COMMAND STATE
-- mission_clarity: lower → lower (translator role defined; forward viable under Lines of Loyalty at extreme exposure cost)
-- command_confidence: observational authority under Lines of Loyalty → observational authority under Lines of Loyalty **plus translator intervention doctrine** (Calder decisive outward; moral burden explicit)
-- orders_consistency: actively contradictory → actively contradictory (combat merge overrides vs. Lines of Loyalty; intervention violates Cartography/Mandate/corporate expectations simultaneously)
-
-### ANOMALY STATE
-- (anomaly_stage remains 3; no skip)
-- anomaly_effect_type: unchanged background (interior observation-method dependency; living map operational under multi-faction siege)
-
-### CREW STATE
-- cohesion: strained-welded → strained-welded (outward loyalty test passed; translator role accepted without fracture)
-- stress (Captain): very high → very high (+ translator exposure decision; massacre prevention burden)
-- stress (XO): high → high (+ siege coordination; exposure ledger)
-- stress (Navigator): high → high (+ living map siege validation; shelter occupancy confirmed Primary-True)
-- stress (Engineer): very high → very high (+ Margaret window spend; hull concussive assessment)
-- stress (Comms): very high → very high (+ translator payload gate; all-faction sideband exposure)
-- stress (Tactical): high → high (+ multi-faction envelope; pursuit contact committing)
-
-### KNOWLEDGE STATE
-- confirmed_facts: + Korrath interior siege multi-faction convergence (corporate franchise recovery, Mandate liaison, Fleet Ops escort, civilian tender *Meridian Span*); + Cartography combat merge override authorizes false fire zones; + merge fire targets incompatible with Primary-True civilian shelter occupancy; + KISU-7 KR-int beacon viable local truth source; + *Veil* translator intervention prevented massacre chain on Primary-True shelter approach; + Fleet beta, corporate alpha, *Meridian Span* acted on method-tagged corrections; + **translator role exposed to all hunting factions** (corporate noncompliant refresh, Mandate hostile repeat, Cartography active interference, KISC listener confirmation); + pursuit contact committing (chapter-eleven-class); + shelter mark probable occupancy **confirmed Primary-True**
-- suspected_facts: + hunters will coordinate without merge on translator capture/kill priority; + Fleet beta correction acknowledgment implies defect tier may coexist with field compliance
-- contradicted_facts: + assumption whisper hold preserves anonymity under moral intervention; + assumption siege volume can be navigated without faction awareness of *Veil* observation authority
-
-### LOCATION
-- Korrath interior drift volume seven-gamma segment eleven occluder shadow (post-siege hold; convergence volume adjacent)
-
-### MISSION STATUS
-- isolated; relay lost; buffers segregated (5–7 intact; translator intervention logged); hull tag active with tripled coupling; anonymity **compromised → strategically exposed**; fugitive all major layers; corporate/Mandate/Cartography/KISC pursuit **active**; living map and translator authority operational; forward interior transit viable only at hunter contact risk; human victory (massacre prevented) purchased with full-faction exposure

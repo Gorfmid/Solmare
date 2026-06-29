@@ -153,7 +153,31 @@ Reyes will not falsify a sweep. He will argue for completing one.
 
 ---
 
-## DIALOGUE VOICE
+## AUTHENTIC VOICE & HUMANIZATION
+
+**Blind-read test:** Coordinate strings and percentages spoken aloud; noun-heavy fragments on-watch; long complete sentences only in letters to Chen; never sounds like Halden's scenario lists or Park's people-reading.
+
+**Identity influences:** Helion Prime civilian family (sister Catalina); cartography apprenticeship lineage (Chief Alden mentor); eight years fleet navigation; age ~32; human; working-class cheerful family vs. his quiet register; observational secularism.
+
+**POV narration filter (if POV):** Thinks in place—geometry, lineage, overlap percentages; beauty in wrong numbers; silence means disbelief not calm.
+
+**Vocabulary & syntax:** Array names, protocol labels, numbers read precisely. On-watch: "Primary array: eleven objects." Off-watch/Chen letters: fuller sentences, occasional personal clause he deletes twice.
+
+**Humor & subtext:** Rare quiet chart absurdities off-watch; Catalina's puns tolerated with affection. With Chen: subtext in "occasional personal sentences neither has formally acknowledged."
+
+**Body language & emotion:** Eyes on displays; turns to captain for decisions only. Stress = re-runs sequences without being asked; pitch steady (canon).
+
+**Dialogue habits:** Does not interrupt captain; may hesitate before disagreeing with forward bias; lets Tanaka finish checklist lines; trails off when visualization outruns words.
+
+**Romantic orientation:** Straight. Not partnered. Long professional correspondence with **Marta Chen** (cartographer, Helion Prime)—romantic tension unacknowledged, plausible future opposite-sex interest.
+
+**Language & oaths:** Almost no swearing. Private: **"void take the chart"** (navigator slang, mild)—when archive contradicts observation.
+
+**Never sounds like:** Calder (institutional authorization), Park (interpersonal probing), Brenner (gruff), politicians, capital-core socialites.
+
+---
+
+## DIALOGUE VOICE (QUICK REFERENCE)
 
 **Vocabulary:** Coordinate strings, array names, percentage matches, protocol labels. Precise numbers read aloud.
 

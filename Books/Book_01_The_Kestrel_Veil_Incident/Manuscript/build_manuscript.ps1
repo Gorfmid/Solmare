@@ -90,6 +90,11 @@ function Convert-ChapterContent {
         [int]$ChapterNum
     )
 
+    # Publication-ready chapter files: pass through unchanged.
+    if ($Content -match '(?m)^#\s*Chapter\s+\d+\s*$') {
+        return $Content.TrimEnd()
+    }
+
     $lines = $Content -split "`r?`n"
     $chapterTitle = $null
     $headerWritten = $false

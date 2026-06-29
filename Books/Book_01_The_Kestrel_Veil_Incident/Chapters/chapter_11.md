@@ -1,14 +1,10 @@
-# CHAPTER 11 — THE FIRST ENGAGEMENT
+﻿# Chapter 11
 
-**Chapter Number:** 11  
-**Title:** The First Engagement  
-**POV Character:** Calder Venn  
-**Location:** Korrath Expanse — KR-13 Segment Two Stable Dark Margin → Interior Drift Volumes  
-**Ship Class:** Scout-Class Reconnaissance Vessel (Instance: Kestrel Veil)
+## The First Engagement
 
----
+❦
 
-## SECTION 1 — STATUS QUO
+
 
 Held breath broke on Halden's warning. Weapons lock was next.
 
@@ -56,21 +52,7 @@ This was what happened when the followers stopped lending time.
 
 ---
 
-## SECTION 2 — OBJECTIVE
 
-**Primary Mission Objective:**
-
-Break weapons lock geometry, deny hostile force a clean intercept, and egress to viable interior Korrath drift volume using local-observation navigation. Preserve crew, segregated data buffers, and minimum jump capability. Accept that retreat—not engagement victory—is the only rational outcome.
-
-**Secondary Constraints:**
-
-Maintain emissions discipline where possible. Do not merge primary and redundant sensor authority. Do not transmit on fleet bands. Do not assume hostile traffic is uniformly hostile without Park verification.
-
----
-
-## SECTION 3 — INCIDENT CHAIN
-
-**Event 1 — Commitment**
 
 The lock tone stabilized—two tones, actually, primary and redundant disagreeing on harmonic but agreeing on intent.
 
@@ -100,7 +82,6 @@ The *Kestrel Veil* moved like a scout that had been built for exactly this kind 
 
 ---
 
-**Event 2 — First Contact by Capability**
 
 The first hostile action was not a beam. It was a denial.
 
@@ -138,7 +119,6 @@ Thessaly's whisper burn held course while Halden fed Hale closure rates in numbe
 
 ---
 
-**Event 3 — Hale's Rebuild**
 
 The second cut was meant for Margaret.
 
@@ -188,7 +168,6 @@ Hale did not look up from the junction box. "Margaret learns quicker. She holds 
 
 ---
 
-**Event 4 — Ship as Organism**
 
 Contact three appeared on redundant where primary saw nothing—then both arrays agreed it was real and closing from a vector Reyes's local chart called **stable dark** mouth, which was either a waypoint or a door and was now definitely an ambush geometry.
 
@@ -252,7 +231,6 @@ Koss listened—to the ship, not the panel. Sound before alarms. That was her do
 
 ---
 
-**Event 5 — Park's Separation**
 
 The followers tried to herd again—redundant array showing closure from segment five mouth while primary insisted segment four remained open. The same geometry Halden had logged during dark running, except now the herding carried teeth.
 
@@ -294,7 +272,6 @@ Calder filed the fact without merging it into motive. Motive was luxury. Capabil
 
 ---
 
-**Event 6 — Interior Egress**
 
 Reyes brought them into segment four thermal null on whisper thrust with primary sensor truth degraded and redundant screaming contacts that primary sometimes denied. Navigation by observation in anomaly weather—exactly the human competence Act II had been building toward.
 
@@ -368,7 +345,6 @@ Calder picked.
 
 ---
 
-**Event 7 — Jump**
 
 The jump prep spike lit every emissions discipline they had spent eight hours building. Sharma swore in a dialect her grandmother would have scolded and rerouted bleed through every decoy baffle left intact. Hale ran Margaret cold with hands that shook once and then stopped because Halden was watching and Halden's respect was not given for steady hands alone.
 
@@ -402,7 +378,6 @@ Halden: "Minimum eighteen minutes if their tag telemetry matches primary closure
 
 ---
 
-**Event 8 — Damage Control Passage**
 
 Jump exit brought silence that hurt worse than jamming.
 
@@ -513,106 +488,3 @@ Calder answered the only true thing left.
 Held breath was over. Exhale had cost them anonymity, hull, and the fiction of fringe mission continuity.
 
 The interior waited in the forward volume—unmapped, listened-to, and still preferable to surrender.
-
----
-
-## SECTION 4 — DISCOVERY
-
-The chapter's operational revelation was capability, not identity.
-
-Unknown force—escort-class mass, superior sensor and jamming architecture, non-hailing, partially informed by suppression-adjacent comm metadata—had transitioned from shadow surveillance to committed engagement at KR-13 segment two **stable dark** margin. They demonstrated:
-
-- structured multi-band jamming splitting primary and redundant truth
-- surgical sensor and control-bus strikes prior to hull kill shots
-- persistent hull tag emission binding the *Veil* to post-engagement tracking
-- partial recovery of outbound comm queue metadata during intercept geometry
-
-The crew did not defeat them. The crew **escaped** through combined department competence:
-
-- Calder delegated under uncertainty without fleet merge or unified sensor truth
-- Thessaly ran ship reorganizations ahead of orders and held damage-control liaison discipline
-- Reyes and Tanaka navigated interior Korrath volumes on local observation charts outside fleet authority
-- Halden supplied least-bad probabilities without assuming weapons command
-- Park separated authentic narrow-path stub from hostile truncated overlay
-- Koss kept the ship alive by sound diagnostics and authorized Hale's bypass under fire
-- Hale rebuilt emitter manual sequencing, proposed stagger-pulse timing that fractured lock geometry, earned tactical respect
-- Sharma weaponized atmosphere/thermal routing as misdirection
-- Brenner supplied live power under combat load
-- Cole managed relay congestion and documented partial buffer loss
-- Walsh continued monitoring through minor head injury
-- Okwelu maintained medical calm under battle stations
-- Ortega reported contradictory sensor truth without collapsing navigation authority
-
-Enemy partial wins persisted: hull tag active, comm metadata partially recovered, clean egress from Korrath foreclosed, crew forced deeper interior on local jump solution.
-
-Who they were remained unanswered. What they could do was no longer deniable.
-
----
-
-## SECTION 5 — AFTERMATH STATE
-
-The *Kestrel Veil* held at post-jump interior coordinates unmapped on any fleet chart Reyes would certify as authoritative. Jump drive operational at reduced efficiency. Hull integrity eighty-one percent. Primary sensor mast segment four offline. Defensive control bus destroyed; Margaret on cold manual until full rebuild. Persistent hostile tag emission on hull port-aft—cannot silence without nav band sacrifice.
-
-Relay contact absent. Narrow path silent. Partial outbound queue lost to hostile intercept metadata recovery. Segregated buffers five through seven intact per Koss protocol.
-
-Calder Venn commanded without certainty—never stated, visible in the record: jump authorized on local chart with array disagreement, retreat accepted as victory, return to Fleet structurally foreclosed.
-
-Injuries: Walsh concussion and eyebrow laceration; Tanaka nav station contusion; Brenner partial-thickness palm burn; minor shock bruising among support watch—no major character death.
-
-Cohesion: strained, welded by engagement survival—task-success anchor transformed from evasion to escape-under-fire.
-
-Stress elevated across command deck. Halden humor absent by choice, with one dry Hale line surviving like shrapnel. Park on listen-only edge. Reyes carrying interior navigation authority as fact, not experiment.
-
-Mission clarity: lower. Operational competence: higher. Anonymity: compromised by hull tag.
-
-Human victory: these people were excellent at their jobs, and it still was not enough to win—only enough to live.
-
-Fleet no longer understood what the *Kestrel Veil* had become. Calder read the damage summary in medical bay under Okwelu's third sleep notice and did not argue with it.
-
-The mission changed in the quiet after alarms: foam setting on seven-C, Margaret cold, tag pinging on a hull that could not go home the way it came.
-
-Reyes's sentence sat in the nav log like a door closing.
-
-*We can't go back that way.*
-
----
-
-## SECTION 6 — STATE UPDATE SUMMARY (DELTA ONLY)
-
-### SHIP STATE
-- location: KR-13 segment two stable dark margin → Korrath interior drift volume (local-observation jump exit; fleet-unmapped)
-- hull_integrity: 100 → 81 (ring four pressure door seven-C compromised/sealed; ring three micro-fractures post-jump)
-- system_status: degraded → heavily degraded (primary sensor mast segment four offline; defensive control bus destroyed; jump drive operational at reduced efficiency)
-- sensor_reliability: low → very low (primary degraded; redundant functional; arrays still diverge under stress)
-- weapon_system_status: operational → partial (Margaret/manual stagger only; full emitter rebuild required)
-- emissions_control: engaged → compromised (jump prep spike; persistent hull tag emission active port-aft)
-- passive_sensors_only: true → false during engagement; returned passive post-jump
-
-### COMMAND STATE
-- mission_clarity: low → lower (interior deep egress; fleet return path foreclosed)
-- command_confidence: observational authority under dark run → observational authority under combat (Calder delegated; no merge reliance; retreat as doctrine)
-- orders_consistency: inconsistent (unchanged institutional background)
-
-### ANOMALY STATE
-- (anomaly_stage remains 3; no skip)
-- anomaly_effect_type: unchanged weather + active jamming/sensor split under hostile action; interior chart divergence operationalized
-
-### CREW STATE
-- cohesion: strained → strained-welded (escape-under-fire anchor)
-- stress (Captain): high → very high (combat command; sleep debt; mission irreversibility)
-- stress (XO): medium-high → high (battle stations orchestration; damage liaison)
-- stress (Navigator): medium-high → high (interior jump authority; egress path closed aft)
-- stress (Engineer): medium-high → very high (hull/jump/drive triage; authorized combat bypass)
-- stress (Comms): high → very high (partial buffer loss; hostile metadata recovery)
-- stress (Tactical): high → high (engagement models; Hale integration; no humor except residual dry line)
-
-### KNOWLEDGE STATE
-- confirmed_facts: + followers committed with weapons lock and active illumination; + escort-class capability (jamming, surgical strikes, tag persistence, comm metadata intercept); + crew escaped via interior local jump (Reyes/Tanaka chart); + hull tag binds *Veil* to hostile tracking; + partial outbound queue metadata recovered by hostile force; + clean Korrath fringe egress foreclosed
-- suspected_facts: + hostile force aware of suppression/compartmentalization vocabulary; + interior Korrath volumes viable for continued evasion at cost; + tag may enable follow-on intercept deeper inside
-- contradicted_facts: + assumption shadowing could be indefinitely evaded without engagement; + assumption fleet egress solutions remain valid for *Veil* post-tag
-
-### LOCATION
-- KR-13 segment two stable dark waypoint margin → Korrath interior drift volume (post-jump; local observation coordinates)
-
-### MISSION STATUS
-- isolated; relay lost; buffers segregated (5–7+ intact); first engagement survived by retreat; anonymity compromised; forced deeper interior; Act III threshold—no return on prior vectors

@@ -1,5 +1,7 @@
 # CHAPTER 4 STATE LOG
 
+> **SUPERSEDED:** Former Chapter 4 (*Convergent Error*) merged into Chapter 5 — *The First Anomaly*. This log retained for archive reference only.
+
 ## PRE STATE
 Post-Chapter 3: Korrath fringe; anomaly_stage 3; sensor low; cohesion stable; mission_clarity medium.
 

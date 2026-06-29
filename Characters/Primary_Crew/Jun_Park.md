@@ -155,7 +155,31 @@ Applies to signals and to secrets. Park will log Calder's withheld transmissions
 
 ---
 
-## DIALOGUE VOICE
+## AUTHENTIC VOICE & HUMANIZATION
+
+**Blind-read test:** Crisp metrics on-watch; sideways chair and questions off-watch; remembers who stopped joking; never sounds like Calder's authorization loops or Reyes's coordinate fragments.
+
+**Identity influences:** Fleet comms specialty track; Helion Prime family (mother Hye-Jin); observant home tradition; transfer bond with *Meridian Echo* crew; age ~30; human; supports mother financially; people-as-signals philosophy.
+
+**POV narration filter (if POV):** Tracks latency in voices and silences; room geometry of who entered; buffers as honest metaphor for relationships.
+
+**Vocabulary & syntax:** Handshake terminology, buffer states on-watch; plain language off-watch. Longer sentences off-watch; questions others avoid.
+
+**Humor & subtext:** Warm, understated; redirects tension; poker losses on purpose. Subtext expert—routes concerns without gossip; says less than he knows on-watch.
+
+**Body language & emotion:** Looks up from relay station for captain; off-watch sits sideways; notices exits. Most expressive senior officer—still fleet-restrained. Tone shifts before words.
+
+**Dialogue habits:** Interrupts rarely on-watch; off-watch will overlap Halden's jokes; finishes others' food preferences silently; asks "You eaten?" as care.
+
+**Romantic orientation:** Straight. Single by choice Book One. No active opposite-sex pursuit aboard; future romance plausible shore-side.
+
+**Language & oaths:** Mild **"damn"** off-watch only. Invented: **"static"** (expletive, comms slang)—"Static take it," same severity as damn.
+
+**Never sounds like:** Calder (formal authorize/record), Koss (certification flatness), Walsh (enthusiastic junior), theoretical officers.
+
+---
+
+## DIALOGUE VOICE (QUICK REFERENCE)
 
 **Vocabulary:** Latency metrics, buffer states, handshake terminology on-watch; plain language off-watch.
 

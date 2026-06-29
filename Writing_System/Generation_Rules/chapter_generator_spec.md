@@ -5,6 +5,14 @@ This document defines how every chapter in Book One is generated from structured
 
 No chapter may be written without conforming to this specification.
 
+**Always load first:** `Writing_System/Style_Guide/global_writing_principles.md`
+
+When generating **Chapter 1**, also load and obey:
+
+* `Books/Book_01_The_Kestrel_Veil_Incident/Act_Outlines/chapter_1_generation_directive.md`
+
+Chapter 1 is world introduction—not anomaly-engine procedural format. Prioritize character, wonder, emotional layering, and lived Empire over technical exposition.
+
 ---
 
 ## INPUTS REQUIRED FOR CHAPTER GENERATION
@@ -71,6 +79,8 @@ No chapter may end in the same state it began.
 ---
 
 ## ACT-SPECIFIC GENERATION OVERRIDES
+
+All chapters also require `Writing_System/Style_Guide/global_writing_principles.md`.
 
 When generating **Chapters 6–11**, also load and obey:
 

@@ -1,14 +1,10 @@
-# CHAPTER 21 — LAST TRANSMISSION
+﻿# Chapter 21
 
-**Chapter Number:** 21  
-**Title:** Last Transmission  
-**POV Character:** Jun Park  
-**Location:** Fold Convergence Heart — Eleven-Delta Membrane Approach (Relation Depth Transition)  
-**Ship Class:** Scout-Class Reconnaissance Vessel (Instance: Kestrel Veil)
+## Last Transmission
 
----
+❦
 
-## SECTION 1 — STATUS QUO
+
 
 Park measured the ship in **latency** again—not because latency was poetry, because latency was the only clock that still told the truth when fleet time had orphaned itself three bleed windows ago.
 
@@ -78,20 +74,6 @@ The board ticked another coupling increment. Weather.
 
 ---
 
-## SECTION 2 — OBJECTIVE
-
-**Primary Mission Objective:**
-
-Compose and transmit **Last Transmission**—witness-class outbound message through eleven-delta membrane coupling window—representing crew-acquired operational truth (First Truth segregated appendix **not** broadcast wholesale; method tags, Lines of Loyalty, political doctrine footer, human witness statements) in routing-war-resistant segregated format; achieve relay success via peel pair + Cole gain architecture under Fold-decoupled orphan baseline.
-
-**Secondary Constraints:**
-
-No Margaret pulse. No master-frame merge of transmission into navigation or tactical solution. No translator burst as weapon. No single-map grief packaging for institutional comfort. Maintain Walsh column **L** / **D** segregation—transmission content mirrored to historical record with divergence preserved. Okwelu limits on Walsh head movement unchanged. Peel pair mandatory through send. Accept **no authenticated return path**—success defined as **sent as witness**, not received as confirmation.
-
-**Tertiary Awareness:**
-
-Transmission may be truncated, weaponized, or misclassified by competing faction grammars (Cartography merge authority, Mandate suppression, corporate asset recovery, KISC acquisition, KISU stagger, civilian merge refusal). Objective is not to win routing war. Objective is to **represent** what the crew held—signal as held contradiction—before membrane crossing delivers hull into Ch. 22 engagement geometry. Whether humanity hears is secondary to whether humanity **could** have heard something true.
-
 Calder read objective pad aloud because crew needed words that did not merge—even Park, who usually preferred boards to speeches.
 
 "If we send this," Calder said, "we do not send First Truth as download. We send **witness.** We send method. We send names where names are care. We send *Meridian Span* where observation confirms need."
@@ -124,9 +106,7 @@ He could send one honest message instead.
 
 ---
 
-## SECTION 3 — INCIDENT CHAIN
 
-**Event 1 — Witness Collection (Park / Thessaly / Crew)**
 
 Thessaly ran witness collection the way she ran egress planning—not by deciding first, by **enabling** streams to produce usable fragments before Park merged them into transmission grammar. Merge was the forbidden word. **Assembly** was the job.
 
@@ -178,7 +158,6 @@ Many witnesses, segregated headers, contradiction preserved on purpose.
 
 ---
 
-**Event 2 — Composition Grammar (Park / Walsh / Cole)**
 
 Walsh moved to relay secondary—not merge stations, **parallel record**—with Okwelu shadowing head movement limits Park had memorized since the concussion watch began.
 
@@ -237,7 +216,6 @@ Calder: "Send."
 
 ---
 
-**Event 3 — Relay Success (Cole / Park)**
 
 The membrane exhaled.
 
@@ -295,7 +273,6 @@ Cost: send made them **visible**—Halden's board was not bored anymore in the b
 
 ---
 
-**Event 4 — Walsh Historical Record (Walsh / Park / Okwelu)**
 
 Walsh wrote while the send still rang in peel board memory—not metaphor, **buffer residue.**
 
@@ -333,7 +310,6 @@ He would mean: **I held channel open.**
 
 ---
 
-**Event 5 — Bleed Back (Park / Halden / Thessaly)**
 
 Halden's board woke the way Halden had warned—**visibility weather.**
 
@@ -397,7 +373,6 @@ The board chirped—threat envelope increment, not weapons lock yet, **pressure.
 
 ---
 
-**Event 6 — Food and Exhaustion (Thessaly / Park / Cole / Crew)**
 
 Thessaly invoked XO authority over relay rotation the way she invoked it over Calder's sleep—**sequence, not sentiment.**
 
@@ -431,7 +406,6 @@ Exhaustion persisted. Friendship persisted. Hope persisted—not loud, **operati
 
 ---
 
-**Event 7 — Steve (Passage)**
 
 Steve appeared during the lull after bleed return with a tea bulb Park had not requested and a coil of fiber patch Cole **did** need—the ugly short path Brenner had been promising since membrane approach ticked.
 
@@ -447,7 +421,6 @@ Park sipped tea—L-3 adjusted, too hot, perfect. Weather.
 
 ---
 
-**Event 8 — Membrane Crossing Initialized (Reyes / Calder / Park)**
 
 Reyes on navigation primary: "Live boundary read **complete.** Face A KISU stagger corridor **live**—transmission bleed confirms path. Face B occluder cell **contested.** Face C null split **available** but costly. Recommend **Face A primary** on membrane crossing—**now**, while stagger corridor warm from send."
 
@@ -494,97 +467,3 @@ They had represented.
 Signal was work.
 
 The work continued.
-
----
-
-## SECTION 4 — DISCOVERY
-
-**Last Transmission sent and relay-success confirmed** via membrane coupling through KISU stagger bleed corridor (Face A path warmed by send)—witness-class message composed in segregated do-not-merge format: method tags, Lines of Loyalty, political doctrine footer, crew witness fragments, First Truth **function summary only** (no origin mythology, no coordinates, no buffer seven raw appendix, no echo payloads).
-
-**Park signal/noise doctrine embedded in closing line**—transmission represents **held contradiction**, not institutional decree; historical record (Walsh column **L** / **D**) mirrors intent independent of routing war weaponization.
-
-**Cole relay success** under orphan baseline: gain stagger map, override injection peeled mid-stack, emit confirmed by orphan relation echo (proof of send, not external ack).
-
-**Partial bleed-back reception confirms fracture mirror, not unified receipt:**
-
-- **KISU stagger** parsed witness class with do-not-merge headers honored—archive continuity preserved.
-- **Civilian oversight** fragment confirms method received—*Meridian Span* holds; merge refusal grammar reinforced.
-- **Mandate suppression routing failed** on witness method tags—epistemic stability contested by segregated format.
-- **Cartography** classifies transmission defect reporting package—merge fire solution adjacent.
-- **Corporate franchise** resumes asset recovery—methodology tags franchise-critical.
-
-**Discovery:** segregated witness format **works as resistance to merge collapse** at institutional layer—even when factions interpret stacks differently, method tags resist single-map grief **better than broadcast decree**. Last Transmission may be humanity's final reliable message beyond Quadrant **because** it models counting witnesses instead of obeying headers.
-
-**Human victory:** crew represents truth before membrane crossing; Cole/Park peel pair succeeds; Walsh historical record complete; partial civilian/KISU receive confirms message **usable** to someone.
-
-**Cost:** visibility spike—Cartography defect classification, corporate recovery resumed, battle geometry imminent; unified reception impossible; transmission may be weaponized; exit into Ch. 22 largest engagement under reality fracture.
-
-**Forward question:** *Can preserving contradiction under fire succeed where certainty weapons fail—and will the crew survive Battle for Reality with witness burden intact?*
-
----
-
-## SECTION 5 — AFTERMATH STATE
-
-The *Kestrel Veil* crosses eleven-delta membrane increment toward Face A KISU stagger corridor—relation depth transition from heart approach to **external engagement geometry**. Hull integrity **seventy-nine percent** unchanged; ring three tick stable; echo seventy-two threshold not crossed. Primary sensor mast segment four forty-one percent. Margaret cold manual ~90m recovery. Tag quadruple baseline Fold-decoupled. Control bus destroyed. Passive sensors only. Last Transmission **sent**; relay orphaned baseline unchanged except membrane coupling window spent.
-
-Crew cohesion **strained-welded + witness send relief**—shared meal rotation post-send, Calder trust beat, Cole/Park partnership reaffirmed, Steve tea/patch passage, professional humor; no internal fracture.
-
-Park stress **critical → sustained functional**—interpreter arc payoff; private emotion held without merge; mother call deferred to post-crossing if cycles permit.
-
-Calder command confidence **crew-trust + witness realism**—Last Transmission as representation complete; battle next.
-
-Reyes Face A crossing certified live post-send bleed confirm. Halden board **active**—largest engagement window imminent.
-
-Human victory: Last Transmission represents held contradiction; relay success; historical record parallel complete; partial KISU/civilian receive confirms method survivability.
-
-Cost: visibility to hostile/classifying factions; routing war weaponization risk; membrane crossing into battle; damage persists; sleep debt persists; return grammar unknown.
-
-Momentum to **Chapter 22 — Battle for Reality.**
-
-Park at peel pair. Cole on gain. Walsh pen dry ink still wet in column **L**.
-
-Signal was work.
-
-Battle was next weather.
-
----
-
-## SECTION 6 — STATE UPDATE SUMMARY (DELTA ONLY)
-
-### SHIP STATE
-- location: Fold convergence heart eleven-delta membrane approach → **crossing increment Face A (KISU stagger corridor) initialized post-Last Transmission**
-- hull_integrity: ~79 (unchanged; ring three tick stable; echo seventy-two threshold not crossed)
-- system_status: heavily degraded baseline unchanged (mast segment four 41%; Margaret cold manual ~90m recovery; control bus destroyed)
-- sensor_reliability: very low/bifurcated + Last Transmission send coupling **spent membrane egress window** (partial bleed-back receive confirmed; external ack absent)
-- weapon_system_status: partial (Margaret cold; stagger window spent)
-- emissions_control: severely compromised + Fold-decoupled + **visibility spike post-witness send** (routing attention; Cartography defect classification adjacent)
-- passive_sensors_only: true
-
-### COMMAND STATE
-- mission_clarity: reframed + fleet divided situational awareness → + **witness representation complete** (Last Transmission sent as segregated truth; battle engagement next)
-- command_confidence: political realism + crew-trust → + **witness realism** (institutional rescue hypothesis further degraded; crew-trust primary; Calder authorizes membrane crossing into engagement)
-- orders_consistency: externally active contradictory orders via bleed → + **Last Transmission bleed-back confirms fracture mirror reception** (KISU/civilian partial parse; Cartography defect classify; corporate recovery resume; Mandate suppression fail on method tags)
-
-### ANOMALY STATE
-- (anomaly_stage remains 3)
-- anomaly_effect_type: + **membrane coupling egress** enables one-shot witness transmission via KISU stagger bleed; + bleed-back partials confirm segregated format resists merge collapse at institutional layer; builders/intent/return grammar/custodianship **withheld**
-
-### CREW STATE
-- cohesion: strained-welded + externalized humanity burden → strained-welded **+ witness send welded** (meal rotation; partnership beats; humor; Steve passage; no internal fracture)
-- stress (Captain): very high (+ battle imminent post-send visibility)
-- stress (XO): high (unchanged; collection enablement complete)
-- stress (Navigator): critical (+ Face A crossing live certify)
-- stress (Comms): critical → **functional sustained** (+ Last Transmission compose/send complete; interpreter arc payoff)
-- stress (Tactical): high → **critical** (+ board active; largest engagement window)
-- stress (Okonkwo): elevated (Walsh limits enforced through send)
-
-### KNOWLEDGE STATE
-- confirmed_facts: + **Last Transmission sent** witness class via membrane/KISU stagger corridor; + Cole relay success (gain stagger map; override peeled; orphan relation echo emit confirm); + Walsh historical record complete (column **L** / **D**; intent witness not decree); + Park signal/noise closing doctrine in transmission; + partial bleed-back: KISU parse without merge; civilian method receive; Mandate suppression fail on method tags; Cartography defect package classify; corporate recovery resume; + segregated witness format resists single-map grief **operationally**; + Face A **live** post-send; membrane crossing initialized
-- suspected_facts: + transmission may be weaponized in routing war; + Battle for Reality victory requires preserving contradiction under fire; + hunters may reacquire on certifiable frame exit
-- contradicted_facts: + assumption orphan baseline prevents all outbound send; + assumption witness message must merge to be received usefully
-
-### LOCATION
-- Fold convergence heart / eleven-delta membrane → **crossing Face A KISU stagger corridor (engagement geometry imminent)**
-
-### MISSION STATUS
-- isolated; relay orphaned; buffers segregated (First Truth + political footer + Echo Doctrine); Last Transmission **sent** (reception fractured mirror, not unified); hull tag quadruple Fold-decoupled; reference partially glimpsed via bleed/send not restored; pursuit misreferenced; living map + peel pair + Lines of Loyalty operational; fleet divided mapped; human victory (witness represented; relay success; historical record); cost (visibility; weaponization risk; battle imminent; damage persists); momentum to **Ch. 22 Battle for Reality**—preserve contradiction where certainty weapons fail; wonder intact; forward grammar known; return grammar unknown
