@@ -3,6 +3,8 @@ $ErrorActionPreference = "Stop"
 
 $bookRoot = Split-Path -Parent $PSScriptRoot
 $chaptersDir = Join-Path $bookRoot "Chapters"
+$archiveDir = Join-Path $bookRoot "Archive"
+$archivePlacementFile = Join-Path $archiveDir "archive_placement.json"
 $outDir = $PSScriptRoot
 $masterMd = Join-Path $outDir "The_Kestrel_Veil_Incident_Book_One.md"
 $docxOut = Join-Path $outDir "The_Kestrel_Veil_Incident_Book_One.docx"
@@ -84,15 +86,178 @@ function Test-DuplicateChapterTitleLine {
     return $false
 }
 
+function Format-ArchiveOpening {
+    param(
+        [string]$Ref,
+        [string]$Authority
+    )
+    return @"
+<div align="center">
+
+**ARCHIVE**
+
+**$Ref**
+
+$Authority
+
+</div>
+"@
+}
+
+function Convert-ArchiveInterlude {
+    param(
+        [string]$Content,
+        [string]$Ref,
+        [string]$Authority
+    )
+
+    $lines = $Content -split "`r?`n"
+    $out = New-Object System.Collections.Generic.List[string]
+    $skipTitle = $false
+
+    for ($i = 0; $i -lt $lines.Count; $i++) {
+        $line = $lines[$i]
+
+        if ($line -match '^\*\*Historical Office band:\*\*') { break }
+        if ($line -match '^\*Filed for exhibit') { break }
+        if ($line -match '^\*Production metadata') { break }
+
+        if (-not $skipTitle -and $line -match '^#\s*ARCHIVE') {
+            $skipTitle = $true
+            continue
+        }
+
+        $out.Add($line)
+    }
+
+    while ($out.Count -gt 0 -and [string]::IsNullOrWhiteSpace($out[$out.Count - 1])) {
+        $out.RemoveAt($out.Count - 1)
+    }
+    while ($out.Count -gt 0 -and $out[$out.Count - 1] -match '^---\s*$') {
+        $out.RemoveAt($out.Count - 1)
+    }
+    while ($out.Count -gt 0 -and [string]::IsNullOrWhiteSpace($out[$out.Count - 1])) {
+        $out.RemoveAt($out.Count - 1)
+    }
+
+    $body = ($out -join "`n").TrimEnd()
+    $header = Format-ArchiveOpening -Ref $Ref -Authority $Authority
+    if ([string]::IsNullOrWhiteSpace($body)) { return $header }
+    return "$header`n`n$body"
+}
+
+function Get-ArchiveInterludesByAnchor {
+    if (-not (Test-Path $archivePlacementFile)) { return @{} }
+    $manifest = Get-Content $archivePlacementFile -Raw -Encoding UTF8 | ConvertFrom-Json
+    $map = @{}
+    foreach ($item in $manifest.interludes) {
+        $key = if ($item.after -eq 'prologue') { 'prologue' } else { [string][int]$item.after }
+        if (-not $map.ContainsKey($key)) {
+            $map[$key] = @()
+        }
+        $map[$key] += $item
+    }
+    return $map
+}
+
+function Append-ArchiveInterludes {
+    param(
+        [System.Text.StringBuilder]$Builder,
+        [string]$AnchorKey,
+        [hashtable]$ArchiveMap,
+        [ref]$TotalWords,
+        [System.Collections.Generic.List[object]]$ArchiveStats
+    )
+
+    if (-not $ArchiveMap.ContainsKey($AnchorKey)) { return }
+
+    foreach ($item in $ArchiveMap[$AnchorKey]) {
+        $archiveFile = Join-Path $archiveDir $item.file
+        if (-not (Test-Path $archiveFile)) {
+            throw "Missing archive interlude file: $archiveFile"
+        }
+        $raw = Get-Content $archiveFile -Raw -Encoding UTF8
+        $converted = Convert-ArchiveInterlude -Content $raw -Ref $item.ref -Authority $item.authority
+        $words = ($converted | Measure-Object -Word).Words
+        $TotalWords.Value += $words
+        $ArchiveStats.Add([PSCustomObject]@{
+            Ref = $item.ref
+            Authority = $item.authority
+            After = $item.after
+            File = $item.file
+            Words = $words
+        }) | Out-Null
+        [void]$Builder.Append("`n`n\newpage`n`n")
+        [void]$Builder.Append($converted)
+        Write-Host "Included archive $($item.ref) after $AnchorKey : $archiveFile ($words words)"
+    }
+}
+
+function Format-ChapterOpening {
+    param(
+        [int]$ChapterNum,
+        [string]$Title,
+        [string]$LogoRelativePath
+    )
+    return @"
+<div align="center">
+
+**Chapter $ChapterNum**
+
+**$Title**
+
+![Chapter divider]($LogoRelativePath)
+
+</div>
+"@
+}
+
+function Convert-PublicationChapter {
+    param(
+        [string]$Content,
+        [string]$LogoRelativePath
+    )
+
+    if ($Content -notmatch '(?ms)^#\s*Chapter\s+(\d+)\s*$') { return $null }
+    $chapterNum = [int]$Matches[1]
+
+    $lines = $Content -split "`r?`n"
+    $title = $null
+    $bodyStart = 0
+    for ($i = 1; $i -lt $lines.Count; $i++) {
+        if ($lines[$i] -match '^##\s+(.+)$') {
+            $title = $Matches[1].Trim()
+            $bodyStart = $i + 1
+            break
+        }
+    }
+    if ([string]::IsNullOrWhiteSpace($title)) { return $null }
+
+    while ($bodyStart -lt $lines.Count) {
+        $line = $lines[$bodyStart]
+        if ([string]::IsNullOrWhiteSpace($line) -or $line.Trim() -eq ([char]0x2766)) {
+            $bodyStart++
+            continue
+        }
+        break
+    }
+
+    $body = ($lines[$bodyStart..($lines.Count - 1)] -join "`n").TrimEnd()
+    $header = Format-ChapterOpening -ChapterNum $chapterNum -Title $title -LogoRelativePath $LogoRelativePath
+    if ([string]::IsNullOrWhiteSpace($body)) { return $header }
+    return "$header`n`n$body"
+}
+
 function Convert-ChapterContent {
     param(
         [string]$Content,
-        [int]$ChapterNum
+        [int]$ChapterNum,
+        [string]$LogoRelativePath = "assets/chapter_logo.png"
     )
 
-    # Publication-ready chapter files: pass through unchanged.
-    if ($Content -match '(?m)^#\s*Chapter\s+\d+\s*$') {
-        return $Content.TrimEnd()
+    $publication = Convert-PublicationChapter -Content $Content -LogoRelativePath $LogoRelativePath
+    if ($null -ne $publication) {
+        return $publication
     }
 
     $lines = $Content -split "`r?`n"
@@ -107,16 +272,9 @@ function Convert-ChapterContent {
 
         if (-not $headerWritten -and $line -match '^#\s*CHAPTER\s+(\d+)\s*[\u2014\-–-]\s*(.+)$') {
             $chapterTitle = $Matches[2].Trim()
-            $chapterWord = Get-ChapterWord -Number $ChapterNum
             $titleCase = ConvertTo-TitleCase -Text $chapterTitle
 
-            $out.Add($separator)
-            $out.Add("")
-            $out.Add("# ~ CHAPTER $chapterWord ~")
-            $out.Add("")
-            $out.Add("## $titleCase")
-            $out.Add("")
-            $out.Add($separator)
+            $out.Add((Format-ChapterOpening -ChapterNum $ChapterNum -Title $titleCase -LogoRelativePath $LogoRelativePath))
             $headerWritten = $true
             $skipLeadingSeparators = $true
             continue
@@ -338,7 +496,20 @@ $sb = New-Object System.Text.StringBuilder
 
 $totalWords = 0
 $chapterStats = @()
+$archiveStats = New-Object System.Collections.Generic.List[object]
 $manualCleanup = @()
+$archiveMap = Get-ArchiveInterludesByAnchor
+
+$prologueFile = Join-Path $chaptersDir "prologue.md"
+if (Test-Path $prologueFile) {
+    $prologueRaw = Get-Content $prologueFile -Raw -Encoding UTF8
+    $prologueWords = ($prologueRaw | Measure-Object -Word).Words
+    $totalWords += $prologueWords
+    [void]$sb.Append("`n`n\newpage`n`n")
+    [void]$sb.Append($prologueRaw.TrimEnd())
+    Write-Host "Included prologue: $prologueFile ($prologueWords words)"
+    Append-ArchiveInterludes -Builder $sb -AnchorKey 'prologue' -ArchiveMap $archiveMap -TotalWords ([ref]$totalWords) -ArchiveStats $archiveStats
+}
 
 for ($n = 1; $n -le 24; $n++) {
     $chapterFile = Join-Path $chaptersDir ("chapter_{0}.md" -f $n)
@@ -348,7 +519,7 @@ for ($n = 1; $n -le 24; $n++) {
     $raw = Get-Content $chapterFile -Raw -Encoding UTF8
     $converted = Convert-ChapterContent -Content $raw -ChapterNum $n
 
-    if ($converted -notmatch '# ~ CHAPTER ') {
+    if ($converted -notmatch 'Chapter divider') {
         $manualCleanup += "Chapter $n header not converted"
     }
 
@@ -358,6 +529,17 @@ for ($n = 1; $n -le 24; $n++) {
 
     [void]$sb.Append("`n`n\newpage`n`n")
     [void]$sb.Append($converted)
+    Append-ArchiveInterludes -Builder $sb -AnchorKey ([string]$n) -ArchiveMap $archiveMap -TotalWords ([ref]$totalWords) -ArchiveStats $archiveStats
+}
+
+$epilogueFile = Join-Path $chaptersDir "epilogue.md"
+if (Test-Path $epilogueFile) {
+    $epilogueRaw = Get-Content $epilogueFile -Raw -Encoding UTF8
+    $epilogueWords = ($epilogueRaw | Measure-Object -Word).Words
+    $totalWords += $epilogueWords
+    [void]$sb.Append("`n`n\newpage`n`n")
+    [void]$sb.Append($epilogueRaw.TrimEnd())
+    Write-Host "Included epilogue: $epilogueFile ($epilogueWords words)"
 }
 
 $masterText = $sb.ToString()
@@ -365,6 +547,10 @@ $masterText = $sb.ToString()
 Write-Host "Created master markdown: $masterMd"
 
 $env:Path = [System.Environment]::GetEnvironmentVariable("Path", "Machine") + ";" + [System.Environment]::GetEnvironmentVariable("Path", "User")
+$localPandocDir = Join-Path $outDir "tools\pandoc\pandoc-3.10"
+if (Test-Path (Join-Path $localPandocDir "pandoc.exe")) {
+    $env:Path = "$localPandocDir;" + $env:Path
+}
 $pandoc = Get-Command pandoc -ErrorAction Stop
 
 $docxDraft = Join-Path $outDir "_draft_manuscript.docx"
@@ -372,6 +558,7 @@ $pandocArgs = @(
     $masterMd,
     "-o", $docxDraft,
     "--from", "markdown+smart+raw_tex",
+    "--resource-path", $outDir,
     "--number-sections=false"
 )
 & $pandoc @pandocArgs
@@ -388,6 +575,7 @@ $epubArgs = @(
     $masterMd,
     "-o", $epubOut,
     "--from", "markdown+smart+raw_tex",
+    "--resource-path", $outDir,
     "--to", "epub3",
     "--toc",
     "--toc-depth=2",
@@ -478,6 +666,7 @@ $report = @{
     PdfWarning = $pdfWarning
     EpubValidation = $epubValidation
     ChapterStats = $chapterStats
+    ArchiveStats = @($archiveStats)
     ManualCleanup = $manualCleanup
     Validation = $validation
 }

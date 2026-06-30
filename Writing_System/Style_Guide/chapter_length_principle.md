@@ -2,13 +2,15 @@
 
 **Authority:** Non-binding guidance for all Book One chapters. Overrides fixed word-count targets in older generation directives when they conflict.
 
-**Companion docs:** `pacing_rules.md`, `revision_philosophy.md`, `chapter_generator_spec.md`
+**Companion docs:** `pacing_rules.md`, `revision_philosophy.md`, `solmare_craft_doctrine.md`, `chapter_generator_spec.md`
 
 ---
 
 ## Core rule
 
 Chapters do **not** have fixed word-count targets.
+
+**Guideline:** approximately **4,000 words** when material supports it (`solmare_craft_doctrine.md`).
 
 **Typical band:** ~4,000–6,000 words when the material supports it.
 

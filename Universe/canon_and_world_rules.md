@@ -25,6 +25,7 @@ This file defines strict world rules. It overrides any contradictory earlier dra
 | `Universe/Fleet/fleet_authority_governance_and_command_hierarchy.md` | **Governance** — political structure, command hierarchy, field authority |
 | `Universe/Technology/scout_class.md` | **Mission designation** (reconnaissance / observation). Not part of the combat class hierarchy below. |
 | `Universe/Fleet/unified_fleet_authority.md` | UFA overview — ideology, strengths, weaknesses |
+| `Universe/The_Dominion/dominion_worldview.md` | **Dominion** — strategic philosophy, society, doctrine, series foundation |
 | `Writing_System/Generation_Rules/continuity_rules.md` | Chapter-level continuity enforcement |
 
 ---

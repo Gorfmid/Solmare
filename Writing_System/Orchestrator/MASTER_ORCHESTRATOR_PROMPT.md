@@ -110,8 +110,19 @@ Read:
 * `Books/Book_01_The_Kestrel_Veil_Incident/Notes/mystery_spine.md`
 * `Books/Book_01_The_Kestrel_Veil_Incident/Act_Outlines/act2_chapters_5-8_generation.md` (Act II — Ch. 5–8 Incident; locked)
 * `Books/Book_01_The_Kestrel_Veil_Incident/Act_Outlines/act3_chapters_9-16_generation.md` (Act III — Ch. 9–16)
+* `Universe/The_Dominion/dominion_worldview.md` (Dominion series foundation — mandatory for Dominion POV)
+* `Universe/The_Dominion/dominion_visual_language.md` (Dominion visual motifs — mandatory for Dominion Thread)
+* `Universe/The_Dominion/dominion_speech.md` (Dominion speech patterns — mandatory for Dominion Thread)
+* `Books/Book_01_The_Kestrel_Veil_Incident/Act_Outlines/act3_dominion_worldbuilding.md` (Dominion — Ch. 10–16)
+* `Characters/Antagonists/The_Dominion.md`
 * `Books/Book_01_The_Kestrel_Veil_Incident/Act_Outlines/act4_chapters_17-24_generation.md` (Act IV — Ch. 17–24)
+* `Books/Book_01_The_Kestrel_Veil_Incident/Planning/Fleet_Authority_Briefing_Packet.md` (Act IV — Fleet reception)
+* `Books/Book_01_The_Kestrel_Veil_Incident/Universe/Fleet_Authority/` (Fleet institutional lore)
+* `Books/Book_01_The_Kestrel_Veil_Incident/Ships/Kestrel_Veil.md` (ship bible)
 * `Writing_System/Style_Guide/global_writing_principles.md` (required for all chapters)
+* `Universe/cultural_touchstones.md` (civilization texture — required for all chapters)
+* `Writing_System/Series_Principles/cultural_identity_and_philosophical_foundation.md` (cultural identity, proverbs, true antagonist — required for all chapters)
+* `Writing_System/Style_Guide/solmare_craft_doctrine.md` (required for all chapters)
 * `Writing_System/Style_Guide/the_70_30_rule.md` (required for Chapters 6+)
 * `Writing_System/Series_Principles/series_principles.md`
 
@@ -130,6 +141,19 @@ If chapter_list.md is empty or incomplete, infer the next chapter only from:
 * engine rules
 
 Do not invent a full future outline unless explicitly instructed.
+
+---
+
+## STEP 2A — DIRECTOR'S BRIEF (WHEN PROVIDED)
+
+When the author supplies a chapter commission, load and treat as authoritative for intent:
+
+* `Books/Book_01_The_Kestrel_Veil_Incident/Planning/Solmare_Directors_Brief_Template.md` (full format)
+* Abbreviated checklist: `MyraTempalte.md` (repo root)
+
+The brief governs **why** the chapter exists, scene purposes, guardrails, and state changes. This orchestrator governs **how** prose is executed.
+
+**Permanence rule:** Every chapter must permanently change something — the reader, a character, doctrine, or a civilization. If it changes nothing, it does not earn its place.
 
 ---
 
@@ -511,3 +535,19 @@ Every chapter should strengthen:
 The simulation should disappear.
 
 The reader should only experience the story.
+
+---
+
+## THE SOLMARE PRINCIPLE
+
+History creates civilizations.
+
+Civilizations create doctrine.
+
+Doctrine creates decisions.
+
+Decisions create conflict.
+
+The people living through those decisions are the story.
+
+Never write a battle before understanding the history that made it inevitable.

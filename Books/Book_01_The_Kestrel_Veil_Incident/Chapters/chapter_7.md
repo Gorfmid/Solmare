@@ -1,8 +1,6 @@
-# Chapter 7
+﻿# Chapter 7
 
 ## The Living Ship
-
-❦
 
 Fourteen hours after Calder told the deck to get the *Veil* up and running, the ship still sounded like a patient who had decided to breathe again without agreeing to wake up.
 

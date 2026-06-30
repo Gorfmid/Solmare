@@ -2,8 +2,6 @@
 
 ## A Captain's Dream
 
-❦
-
 Founders' Week turned Helion Prime's academy terrace into something the manuals never described: a parade ground with music.
 
 Fleet Administrative Academy graduation was always formal. Today it was also festive—lanterns strung along the stone colonnade, choir voices from three cultural houses braided into the anthem, families in the public gallery wearing colors from a dozen worlds. Beyond the glass, the Second Sunrise pulsed over the industrial districts—the foundry aurora locals treated as weather.

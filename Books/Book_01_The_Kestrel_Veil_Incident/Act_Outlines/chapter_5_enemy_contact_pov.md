@@ -1,4 +1,6 @@
-# POV REGISTRY — ENEMY CONTACT / UNKNOWN OPPOSING VESSEL
+# POV REGISTRY — DOMINION THREAD (CH. 5+)
+
+> **Planning term:** **Dominion Thread** — not *enemy POV*. Legacy filename retained. See `Universe/The_Dominion/dominion_worldview.md`.
 
 **Status:** Active (Book 1 · Ch. 5 intercut + debrief)  
 **First appearance:** `Chapters/chapter_5.md` — ENEMY POV (WATCH STATE) + COMMAND DEBRIEF  
@@ -67,4 +69,4 @@
 - Intercut 1 placed after Veil sixteen-second partial lock (hour five), before probe launch
 - Intercut 2 follows Veil passive lock confirmation (all channels)
 - Fleet POV never receives Vex name, hull class, or debrief content at end of Ch. 5
-- Enemy POV formatted: horizontal rules + bold header + *italics*; return marker **KESTREL VEIL — RESUMED**
+- Dominion Thread formatted: horizontal rules + bold header + *italics*; return marker **KESTREL VEIL — RESUMED**

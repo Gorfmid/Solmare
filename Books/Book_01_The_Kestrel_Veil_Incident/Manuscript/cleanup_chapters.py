@@ -16,7 +16,7 @@ TITLES: dict[int, str] = {
     6: "First Contact (Anomaly Site Alpha)",
     7: "The Living Ship",
     8: "The Quiet Before the Silence",
-    9: "Ghosts on the Border",
+    9: "Across the Line",
     10: "The Hunter's Trail",
     11: "Silent Crossings",
     12: "The Watchers",

@@ -1,0 +1,26 @@
+{
+  "description": "Archive interlude insertion order for build_manuscript.ps1. Reader-facing body only; production metadata stripped at build.",
+  "interludes": [
+    {
+      "ref": "FSA-143-07",
+      "authority": "Fleet Survey Authority",
+      "file": "archive_01_fleet_survey_manual_edition_143.md",
+      "after": "prologue",
+      "note": "Edition 143 survey assumption — echoes Prologue epigraph; margin note foreshadows Act IV correction"
+    },
+    {
+      "ref": "FCC-7712",
+      "authority": "Fleet Communications Command",
+      "file": "archive_02_fleet_communications_passive_detection_review.md",
+      "after": 8,
+      "note": "Post–Kestrel Veil Incident communications memo — end of Act II; precedes border discovery arc"
+    },
+    {
+      "ref": "FDB-144-DRAFT",
+      "authority": "Fleet Doctrine Bureau",
+      "file": "archive_03_doctrine_bureau_edition_144_terminology_draft.md",
+      "after": 18,
+      "note": "Edition 144 terminology working draft — struck headers to final Thessaly framing; follows Ch. 18 New Words"
+    }
+  ]
+}

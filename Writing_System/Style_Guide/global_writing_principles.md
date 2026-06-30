@@ -4,6 +4,8 @@ These rules apply to every chapter, scene, and revision in **The Kestrel Veil In
 
 **Authority:** Load and obey this document for all Book One generation, refinement, and revision. It takes precedence over technical exposition defaults in other engine docs when they conflict.
 
+**Craft doctrine:** Also load `solmare_craft_doctrine.md` — POV information flow, professional competence, scene test, Solmare Rule (people first).
+
 **Revision passes:** Also load `revision_philosophy.md`. Subtraction is as valid as addition; do not expand by default. **Revise only when demonstrably stronger**—not because you can.
 
 ---
@@ -151,6 +153,34 @@ Instead of explaining how the world works, allow readers to discover it naturall
 * ordinary daily life
 
 The world should feel lived in rather than explained.
+
+---
+
+## Cultural Touchstones
+
+Every civilization should possess **recurring cultural touchstones** — proverbs, sayings, academy phrases, traditions, holidays, foods, music, stories, children's lessons, family rituals, military customs, historical quotations, commemorative ceremonies.
+
+Recur naturally throughout the series. **Do not explain them when first introduced.** Readers learn through repetition and context.
+
+**Goal:** Readers recognize a civilization by its culture before anyone identifies it by name.
+
+**Dominion visual language:** Readers should recognize Dominion scenes **before the chapter heading**. `Universe/The_Dominion/dominion_visual_language.md`
+
+**Dominion speech:** Dominion characters frequently quote teachers, parents, grandparents, instructors, old commanders, and historical sayings. Fleet almost never does. Continuity vs. innovation — show, never explain. `Universe/The_Dominion/dominion_speech.md`
+
+**Canon:** `Universe/cultural_touchstones.md` · `Writing_System/Series_Principles/cultural_identity_and_philosophical_foundation.md`
+
+### Cultural memory
+
+Fleet characters think **prospectively** (exploration, new colonies, living pioneers). Dominion characters think **historically** (ancestors, campaigns, old institutions). Show the difference; never explain it.
+
+### Series philosophy
+
+Neither Fleet Authority nor the Dominion is the antagonist. **History** — independent evolution, incompatible doctrines, geographic collision — is the source of conflict. Good people on both sides; empathize with both simultaneously.
+
+### Civilization scene test
+
+Before Fleet or Dominion scenes: *What piece of this civilization will the reader understand better?* Never technology alone. Every chapter: one new aspect of one civilization.
 
 ---
 
@@ -479,6 +509,11 @@ It is to create a universe that readers will want to revisit across many books.
 
 ## Related Documents
 
+* `solmare_craft_doctrine.md` — POV information flow, competence, dialogue, pacing, scene test, Solmare Rule
+* `Universe/cultural_touchstones.md` — recurring civilization texture; recognition before naming
+* `Universe/The_Dominion/dominion_visual_language.md` — Dominion visual motifs; recognition before naming
+* `Universe/The_Dominion/dominion_speech.md` — Dominion inherited quotation; Fleet speech contrast
+* `Writing_System/Series_Principles/cultural_identity_and_philosophical_foundation.md` — cultural recursion, proverbs, cultural memory, true antagonist, civilization scene test
 * `revision_philosophy.md` — cut/tighten discipline for all revision passes
 * `the_70_30_rule.md` — crew/anomaly ratio (Ch. 6+); complements these principles
 * `prose_style.md`, `dialogue_rules.md`, `pacing_rules.md`, `narrative_voice.md` (defer to *Authentic Voice and Characterization* and *Avoid Artificially Profound Prose*)

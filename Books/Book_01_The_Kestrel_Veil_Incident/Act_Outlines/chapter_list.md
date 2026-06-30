@@ -5,7 +5,8 @@ Full novel structure for *The Kestrel Veil Incident* (The Solmare Cycle · Book 
 **Book overview:** `../Notes/book1_core_premise.md`  
 **Rewrite tracker:** `../Notes/REWRITE_STATUS.md`  
 **Revision philosophy:** `../../../Writing_System/Style_Guide/revision_philosophy.md`  
-**Chapter length:** `../../../Writing_System/Style_Guide/chapter_length_principle.md` (dynamic model — ~4,000–6,000 typical)  
+**Craft doctrine:** `../../../Writing_System/Style_Guide/solmare_craft_doctrine.md` (POV flow, competence, scene test, Solmare Rule)  
+**Chapter length:** `../../../Writing_System/Style_Guide/chapter_length_principle.md` (dynamic model — ~4,000 guideline)  
 **Series doctrine:** `../../../Writing_System/Series_Principles/series_principles.md`
 
 ---
@@ -27,6 +28,49 @@ Book One is structured around **escalation of understanding**, not episodic myst
 - Ch. **9–16** = structured unknown territory exploration; border intelligence arc
 - Ch. **17–24** = strategic assessment and doctrine formation — not anomaly-log mystery resolution
 - The enemy is **not** a mystery anomaly system — it is an **expanding structured presence**
+
+---
+
+## Manuscript Reading Order (Publication)
+
+Full build sequence for `Manuscript/build_manuscript.ps1` — see `Archive/archive_placement.json`.
+
+| # | Piece | File | Words | Notes |
+|---|-------|------|------:|-------|
+| — | **Prologue** | `Chapters/prologue.md` | 38 | Edition 143 epigraph + **Required Reading** |
+| — | **FSA-143-07** | `Archive/archive_01_fleet_survey_manual_edition_143.md` | 44 | After Prologue — Fleet Survey Authority; Survey Manual §7.2 |
+| 1 | The Empire | `chapter_1.md` | 4,023 | Act I |
+| 2 | A Captain's Dream | `chapter_2.md` | 4,949 | Act I |
+| 3 | The Ship That Refuses to Die | `chapter_3.md` | 5,447 | Act I |
+| 4 | Routine Patrol | `chapter_4.md` | 3,210 | Act I ends |
+| 5 | Mission's End | `chapter_5.md` | 10,781 | Act II opens |
+| 6 | First Contact (Anomaly Site Alpha) | `chapter_6.md` | 5,484 | Act II |
+| 7 | The Living Ship | `chapter_7.md` | 9,675 | Act II |
+| 8 | The Quiet Before the Silence | `chapter_8.md` | 6,544 | Act II ends |
+| — | **FCC-7712** | `Archive/archive_02_fleet_communications_passive_detection_review.md` | 30 | After Ch. 8 — Fleet Communications Command; Passive Detection Review |
+| 9 | Across the Line | `chapter_9.md` | 4,287 | Act III |
+| 10 | Ghosts in the Dark | `chapter_10.md` | 3,979 | Act III |
+| 11 | Silent Crossings | `chapter_11.md` | 3,971 | Act III |
+| 12 | Whispers in the Corridor | `chapter_12.md` | 3,945 | Act III |
+| 13 | The Weight of Preparation | `chapter_13.md` | 4,094 | Act III |
+| 14 | Inheritance | `chapter_14.md` | 4,062 | Act III |
+| 15 | The Point of No Return | `chapter_15.md` | 4,482 | Act III |
+| 16 | Homeward | `chapter_16.md` | 3,801 | Act III ends |
+| 17 | The Listening Post | `chapter_17.md` | 4,225 | Act IV opens |
+| 18 | New Words | `chapter_18.md` | 3,298 | Act IV |
+| — | **FDB-144-DRAFT** | `Archive/archive_03_doctrine_bureau_edition_144_terminology_draft.md` | 45 | After Ch. 18 — Fleet Doctrine Bureau; terminology working draft |
+| 19 | The Witnesses | `chapter_19.md` | 3,525 | Act IV |
+| 20 | The Long Shadow | `chapter_20.md` | 3,067 | Act IV |
+| 21 | The Weight of Evidence | `chapter_21.md` | 3,135 | Act IV |
+| 22 | Recognition | `chapter_22.md` | 3,963 | Act IV |
+| 23 | The Last Report | `chapter_23.md` | 3,595 | Act IV |
+| 24 | Edition 144 | `chapter_24.md` | 3,490 | Act IV ends — **END BOOK ONE** |
+| — | **Epilogue** | `Chapters/epilogue.md` | 1,248 | *First Day* — Edition 144 + **Required Reading** bookend |
+
+**Total (publication build):** ~112,437 words  
+**Tracker:** `Notes/REWRITE_STATUS.md` · **Status:** Prologue + Ch. 1–24 + Epilogue + Archives (FSA-143-07, FCC-7712, FDB-144-DRAFT) **LOCKED**
+
+**Bookend symmetry:** Prologue (*Edition 143 · Required Reading*) + FSA-143-07 → narrative → Epilogue (*Edition 144 · Required Reading*). FCC-7712 after Incident; FDB-144-DRAFT after *New Words*.
 
 **Generation guides:**
 
@@ -54,27 +98,63 @@ What begins as routine patrol becomes the **Kestrel Veil Incident** — then dis
 
 ## Current Manuscript Status
 
-**Rewrite in progress — Act I–II prose locked through Ch. 8**
+**BOOK ONE COMPLETE** — Prologue · Archive interludes · Ch. 1–24 · Epilogue **LOCKED**
 
-| Status | Chapters |
-|--------|----------|
-| ✓ **LOCKED** | 1–8 |
-| Shell | 9–24 |
+| Status | Pieces |
+|--------|--------|
+| ✓ **LOCKED** | Prologue, FSA-143-07, FCC-7712, FDB-144-DRAFT, Ch. 1–24, Epilogue |
+| Build | `Manuscript/build_manuscript.ps1` — archives insert per `Archive/archive_placement.json` |
 
-**Written prose (Ch. 1–8):** ~49,150 words. See `Notes/REWRITE_STATUS.md`.
+**Written prose (full publication order):** ~112,380 words. See **Manuscript Reading Order** above.
+
+**Act IV planning:** `Planning/Fleet_Authority_Briefing_Packet.md` · **Archive index:** `Archive/README.md`
+
+---
+
+---
+
+# FRONT MATTER — PROLOGUE & FSA-143-07
+
+**Status:** **LOCKED**
+
+## Prologue
+
+**File:** `../Chapters/prologue.md`  
+**Words:** ~38
+
+Fleet Academy Strategic Studies — First-Year Cadet Primer **(Edition 143)**. Epigraph unchanged. Closes with:
+
+*Fleet Academy Strategic Studies · Edition 143 · Required Reading*
+
+Pairs with Epilogue (*Edition 144 · Required Reading*).
+
+---
+
+## FSA-143-07 — Fleet Survey Manual §7.2
+
+**Issuing authority:** Fleet Survey Authority  
+**File:** `../Archive/archive_01_fleet_survey_manual_edition_143.md`  
+**Words:** ~44 (publication build)  
+**Placement:** Immediately after Prologue
+
+Edition 143 survey boundary rule + instructor margin note (*Maps describe what we know. Not necessarily what exists.*)
 
 ---
 
 # ACT I — ROUTINE PATROL (Chapters 1–4)
 
+**Status:** Ch. 1–4 **LOCKED** (complete prose)
+
 Establish the Empire, Calder, the crew, and the ship before the Incident.
+
+**Precedes:** Prologue + FSA-143-07 (see Manuscript Reading Order).
 
 ---
 
 ## Chapter 1 — Introduction to Calder / Fleet / Kestrel Veil
 
 **Prose title:** *The Empire*  
-**Status:** Complete (~3,965 words)  
+**Status:** **LOCKED** (~4,023 words)  
 **Generation directive:** `chapter_1_generation_directive.md`
 
 ### Purpose
@@ -88,7 +168,7 @@ Introduce the Solmare universe, Fleet Authority prosperity, frontier tension, an
 ## Chapter 2 — Crew Establishment
 
 **Prose title:** *A Captain's Dream*  
-**Status:** Complete (~4,857 words)
+**Status:** **LOCKED** (~4,949 words)
 
 ### Purpose
 
@@ -99,7 +179,7 @@ Introduce Calder Venn; graduation; Founders' Week; assignment to the *Kestrel Ve
 ## Chapter 3 — Ship Condition + Operational Baseline
 
 **Prose title:** *The Ship That Refuses to Die*  
-**Status:** Complete (~5,335 words)
+**Status:** **LOCKED** (~5,447 words)
 
 ### Purpose
 
@@ -110,7 +190,7 @@ Senior crew; ship-as-home; unofficial workarounds; Calder earns respect; departu
 ## Chapter 4 — Routine Patrol Initiation
 
 **Prose title:** *Routine Patrol*  
-**Status:** Complete (~3,163 words)
+**Status:** **LOCKED** (~3,210 words)
 
 ### Purpose
 
@@ -132,9 +212,9 @@ The book's **defining event**: contact, presumed destruction, survival, Fleet co
 
 ## Chapter 5 — Mission's End
 
-**Status:** Complete (~10,669 words)  
+**Status:** **LOCKED** (~10,781 words)  
 **Generation directive:** `chapter_5_generation_directive.md`  
-**Enemy POV:** `chapter_5_enemy_contact_pov.md` · `Characters/Antagonists/Commander_Vex.md`
+**Dominion Thread:** `chapter_5_enemy_contact_pov.md` (format registry) · `Characters/Antagonists/Commander_Vex.md`
 
 ### Purpose
 
@@ -149,7 +229,7 @@ Presumed hull loss at Kestran Spiral bearing 214 mark 6; Leviathan-class contact
 ## Chapter 6 — First Contact
 
 **Prose title:** *First Contact (Anomaly Site Alpha)*  
-**Status:** Complete (~5,374 words)  
+**Status:** **LOCKED** (~5,484 words)  
 **Character sheets:** Dana Holt, Priya Nand
 
 ### Purpose
@@ -164,7 +244,7 @@ Dual POV same engagement — VI-Gamma watchpost witnesses void; *Veil* survives 
 
 ## Chapter 7 — The Living Ship
 
-**Status:** **LOCKED** (~9,422 words)  
+**Status:** **LOCKED** (~9,675 words)  
 **Character sheets:** Holt, Nand, Park, Rowan, Sato, Mercer
 
 ### Purpose
@@ -179,7 +259,7 @@ Whisper burn toward seven-alpha; ship/crew degraded; Holt/Nand relay bridge acti
 
 ## Chapter 8 — The Quiet Before the Silence
 
-**Status:** **LOCKED** (~6,366 words)  
+**Status:** **LOCKED** (~6,544 words)  
 **Character sheets:** Holt, Nand, Cho, Park, Rowan
 
 ### Purpose
@@ -190,57 +270,90 @@ VI-Gamma six-hour patch window; crew rest; Park/Dana emotional center; independe
 
 *Veil* alone at Neutral Zone seven-alpha approach edge — patched, out of relay range, crossed from recovery into risk.
 
-**Act II ends:** Incident arc complete; post-incident stabilization done; Ch. 9 opens discovery arc.
+### FCC-7712 — Passive Detection Review
+
+**Issuing authority:** Fleet Communications Command  
+**File:** `../Archive/archive_02_fleet_communications_passive_detection_review.md`  
+**Status:** **LOCKED** (~30 words, publication build)  
+**Placement:** Immediately after Ch. 8 (end of Act II)
+
+*Continue correlation. Do not collapse observations into conclusions prematurely.*
+
+**Act II ends:** Incident arc complete; FCC-7712 → Ch. 9 opens discovery arc.
 
 ---
 
 # ACT III — SHADOWS BEYOND THE BORDER (Chapters 9–16)
 
-**Status:** Structural shells only — prose pending  
+**Status:** Ch. 9–16 **LOCKED** (complete prose) · **Act III closed**  
 **Generation doctrine:** `act3_chapters_9-16_generation.md`  
-**Opens from:** Ch. 8 end state — independent recon, silence discipline, Neutral Zone approach
+**Dominion worldbuilding:** `Universe/The_Dominion/dominion_worldview.md` (series foundation) · `act3_dominion_worldbuilding.md`  
+**Opens from:** Ch. 8 end state — *Veil* alone at Neutral Zone seven-alpha approach edge  
+**Closes:** Ch. 16 — *Kestrel* returns to Fleet space; Thessaly report sealed; first contact technically not occurred
 
-**Arc function:** Discovery of an **unknown operational civilization** — structured presence beyond the border, not episodic anomaly encounters. Escalation of **understanding**, not mystery-log accumulation.
+**Arc function:** Discovery of the **Dominion** as a living civilization — sympathize with individuals, fear the institution. Escalation of **understanding**, not mystery-log accumulation.
+
+**Dominion rules (summary):** ancient superpower; rotate POV professions; civilian glimpses; internal disagreement; war prep shown not stated; motivation ambiguous; Vex returns Ch. 13 (debrief), Ch. 15–16 (observer).
 
 ---
 
-| Ch | Title | Function (planning) |
-|----|-------|---------------------|
-| 9 | Ghosts on the Border | First sustained evidence of organized opposing activity in border space; crew reads pattern where Fleet reads noise |
-| 10 | The Hunter's Trail | Tracking structured movement; hunter/hunted dynamic without open battle clarity |
-| 11 | Silent Crossings | Emissions discipline; crossing contested geometry under observation pressure |
-| 12 | The Watchers | Opposing force observes back; mutual incomplete sensor truth |
-| 13 | Broken Lines | Comms and relay architecture fail under real opposition — not abstract anomaly |
-| 14 | Echoes of Passage | Physical traces of civilization-scale operations; intelligence recovery |
-| 15 | The First Map | Crew assembles first operational picture of structured enemy presence |
-| 16 | Beyond the Line | Act III climax — irreversible crossing; Fleet cannot unknow what *Veil* has seen |
+| Ch | Prose title | Status | Words | Function (summary) |
+|----|-------------|--------|------:|-------------------|
+| 9 | Across the Line | **LOCKED** | 4,287 | Cross segment seven; Dominion introduced (reader); infrastructure; K-17 tracking |
+| 10 | Ghosts in the Dark | **LOCKED** | 3,979 | Empire scale; traffic; listening watch; network overlay |
+| 11 | Silent Crossings | **LOCKED** | 3,971 | Emissions discipline; civilian traffic; humility; *start listening* |
+| 12 | Whispers in the Corridor | **LOCKED** | 3,945 | Mutual incomplete sensor truth; pattern deviation; *they're adapting* |
+| 13 | The Weight of Preparation | **LOCKED** | 4,094 | Decades-long preparation; Vex debrief; *preparation, not mobilization* |
+| 14 | Inheritance | **LOCKED** | 4,062 | Intergenerational culture; Calder questions Fleet doctrine; *lives inside history* |
+| 15 | The Point of No Return | **LOCKED** | 4,482 | Departure decision; *we have enough*; course for home |
+| 16 | Homeward | **LOCKED** | 3,801 | Return to Fleet space; Thessaly report; *we found neighbors*; **END ACT III** |
 
-**Act III ends:** Structured opposing civilization confirmed operationally; border intelligence arc complete; Ch. 17 opens doctrine arc.
+**Act III ends:** Structured opposing civilization confirmed operationally; border intelligence arc complete; Ch. 17 opens Fleet doctrine arc.
 
 ---
 
 # ACT IV — FIRST DOCTRINE (Chapters 17–24)
 
-**Status:** Structural shells only — prose pending  
+**Status:** Ch. 17–24 **LOCKED** (complete prose) · **Act IV closed** · **Book One complete**  
 **Generation doctrine:** `act4_chapters_17-24_generation.md`  
-**Opens from:** Ch. 16 — evidence and exposure carry forward into Fleet strategic assessment
+**Opens from:** Ch. 16 — *Kestrel* in Fleet space; Thessaly report; `Planning/Fleet_Authority_Briefing_Packet.md`
 
 **Arc function:** Fleet transitions from **anomaly response → strategic assessment**; first doctrine formation; Book One resolves with permanent change to Fleet understanding — not cosmological mystery payoff.
 
 ---
 
-| Ch | Title | Function (planning) |
-|----|-------|---------------------|
-| 17 | The Listening Post | Fleet and Cartography nodes become strategic instruments; Holt/Nand chain elevated |
-| 18 | Rules of Engagement | First formal ROE debate for structured unknown force — not scout improvisation |
-| 19 | First Witness | *Veil* crew testimony enters strategic record; Calder as witness not hero |
-| 20 | The Weight of Evidence | Competing Fleet interpretations; political friction over what opposing presence *is* |
-| 21 | The Long Shadow | Strategic consequences propagate; Collectives thread intersects border intelligence |
-| 22 | Recognition | Fleet acknowledges structured opposing force — name, class, or doctrine without full resolution |
-| 23 | The Last Report | Final intelligence synthesis; Maris-thread echo; what Fleet will act on |
-| 24 | The Veil Opens | Book One resolution — doctrine shift complete; sequel hook from **consequences**, not withheld mystery |
+| Ch | Title | Status | Words | Function (planning) |
+|----|-------|--------|------:|---------------------|
+| 17 | The Listening Post | **LOCKED** | 4,225 | Fleet and Cartography nodes become strategic instruments; Holt/Nand chain elevated |
+| 18 | New Words | **LOCKED** | 3,298 | First formal ROE debate for structured unknown force — not scout improvisation |
+| 19 | The Witnesses | **LOCKED** | 3,525 | *Veil* crew testimony certified; Calder First Witness |
+| 20 | The Long Shadow | **LOCKED** | 3,067 | Parallel lives; Dominion Standing Observation; Edition 144 begins |
+| 21 | The Weight of Evidence | **LOCKED** | 3,135 | Competing Fleet interpretations; doctrine forks |
+| 22 | Recognition | **LOCKED** | 3,963 | Operational manifestation of doctrine forks; parallel departmental interpretation |
+| 23 | The Last Report | **LOCKED** | 3,595 | Edition 144 authorized; witness archive sealed; first doctrine principles |
+| 24 | Edition 144 | **LOCKED** | 3,490 | Doctrine absorption; Fleet operational under conditional framework; **END BOOK ONE** |
 
-**Act IV ends:** Book One fully resolved per `series_principles.md`.
+**FDB-144-DRAFT** (`../Archive/archive_03_doctrine_bureau_edition_144_terminology_draft.md`) inserts after Ch. 18 — Fleet Doctrine Bureau working draft; *Words determine thought. Choose carefully.*
+
+**Act IV ends:** Book One narrative arc complete per `series_principles.md`.
+
+---
+
+# BACK MATTER — EPILOGUE
+
+**Status:** **LOCKED**
+
+## Epilogue — First Day
+
+**File:** `../Chapters/epilogue.md`  
+**Words:** ~1,248  
+**Placement:** After Ch. 24 (closes book)
+
+Fleet Academy first-year orientation. Edition 144 primer distributed. Closes with:
+
+*Fleet Academy Strategic Studies · Edition 144 · Required Reading*
+
+**Symmetry:** Prologue (*Edition 143 · Required Reading*) ↔ Epilogue (*Edition 144 · Required Reading*). FSA-143-07 (old map assumption) ↔ Ch. 23–24 (Edition 144 framework).
 
 ---
 
@@ -275,7 +388,14 @@ All contact and border chapters must support:
 | Document | Role |
 |----------|------|
 | `Notes/book1_core_premise.md` | Macro premise and 4-act framing |
-| `State/current_state.md` | Runtime continuity (post–Ch. 8) |
-| `Notes/REWRITE_STATUS.md` | Manuscript lock status |
+| `Notes/REWRITE_STATUS.md` | Manuscript lock status and word totals |
+| `Archive/README.md` | Archive interlude index |
+| `Archive/archive_placement.json` | Build insertion order |
+| `Manuscript/build_manuscript.ps1` | Master manuscript regeneration |
+| `State/current_state.md` | Runtime continuity (update post–Book One as needed) |
+| `Planning/Fleet_Authority_Briefing_Packet.md` | Act IV Fleet knowledge / misunderstanding map |
+| `Ships/Kestrel_Veil.md` | Canonical ship bible |
+| `Universe/Fleet_Authority/` | Fleet institutional lore (Act IV) |
+| `Planning/Solmare_Directors_Brief_Template.md` | Author chapter commission format |
 | `chapter_5_generation_directive.md` | Ch. 5 Incident spec |
-| `chapter_5_enemy_contact_pov.md` | Enemy POV rules |
+| `chapter_5_enemy_contact_pov.md` | Dominion Thread format rules (Ch. 5+) |

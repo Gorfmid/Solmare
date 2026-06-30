@@ -1,8 +1,6 @@
-# Chapter 8
+﻿# Chapter 8
 
 ## The Quiet Before the Silence
-
-❦
 
 The *Kestrel Veil* did not arrive at Kestran VI-Gamma so much as apologize her way into its shadow.
 

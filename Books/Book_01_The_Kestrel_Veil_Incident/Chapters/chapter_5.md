@@ -2,8 +2,6 @@
 
 ## Mission's End
 
-❦
-
 Relay rendezvous closed without ceremony.
 
 Park released the secondary buffer manually—the early acknowledgment from Kestran IV-Alpha still flagged in a separate column, filed the way mid-cycle duplicates had been filed: observed, segregated, not merged until the relay window gave them a reason. Reyes logged the approach solution. Koss certified regulator hold for the mapping leg. Calder recoarded patrol cycle continuation and the *Veil* slid back onto the outer Kestran Spiral loop as if nothing had interrupted it.si

@@ -12,6 +12,7 @@
 - `../State/chapter_5_state_log.md` through `chapter_8_state_log.md`
 - `../State/current_state.md`
 - `../../../Characters/Antagonists/Commander_Vex.md`
+- `../../../Writing_System/Style_Guide/solmare_craft_doctrine.md`
 - `../../../Writing_System/Style_Guide/the_70_30_rule.md`
 
 ---

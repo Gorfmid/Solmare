@@ -106,7 +106,7 @@ function Get-CleanedBody([string[]]$Lines, [int]$ChapterNum) {
 
 function Format-PublicationChapter([int]$ChapterNum, [string[]]$Lines) {
     $body = Get-CleanedBody -Lines $Lines -ChapterNum $ChapterNum
-    $header = "# Chapter $ChapterNum`n`n## $($titles[$ChapterNum])`n`n$([char]0x2766)`n"
+    $header = "# Chapter $ChapterNum`n`n## $($titles[$ChapterNum])`n"
     if ($body.Count -eq 0) { return $header + "`n" }
     return $header + "`n" + ($body -join "`n").TrimEnd() + "`n"
 }

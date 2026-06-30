@@ -2,8 +2,6 @@
 
 ## The Empire
 
-❦
-
 The morning feed arrived at Meridian Gate before the station's artificial dawn cycle finished its slow climb from indigo to pearl.
 
 Maris Chen stood at the archivist's rail on Level Nine and watched worlds appear in sequence—not as coordinates on a chart, but as living places arguing politely for her attention. A harvest festival on Verdant Line. A labor dispute settled by arbitration on Kestran's industrial belt. A poetry prize awarded on Selene's glass towers. A relay blessing at an ocean world's floating temple, where priests thanked the corridor nodes for another season of calm seas and reliable freight.

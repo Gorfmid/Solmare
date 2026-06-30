@@ -1,0 +1,6 @@
+# Portable build tools (download locally via build script / winget)
+Books/Book_01_The_Kestrel_Veil_Incident/Manuscript/tools/
+
+# Manuscript build intermediates
+Books/Book_01_The_Kestrel_Veil_Incident/Manuscript/_draft_manuscript.docx
+Books/Book_01_The_Kestrel_Veil_Incident/Manuscript/_print_manuscript.docx

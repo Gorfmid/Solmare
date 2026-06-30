@@ -2,8 +2,6 @@
 
 ## The Ship That Refuses to Die
 
-❦
-
 "Let's see what we've got," Calder said.
 
 Thessaly nodded once—not agreement, not disagreement. Assessment pending.

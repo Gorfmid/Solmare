@@ -11,8 +11,11 @@
 
 **Related documents:**
 - `chapter_list.md` — plot roadmap
+- `act3_dominion_worldbuilding.md` — **Act III scene rules (Ch. 10–16 mandatory)**
+- `Universe/The_Dominion/dominion_worldview.md` — **Series foundation (mandatory for all Dominion writing)**
 - `act2_chapters_5-8_generation.md` — Incident arc precedent
 - `../State/current_state.md` — post–Ch. 8 baseline
+- `../../../Writing_System/Style_Guide/solmare_craft_doctrine.md`
 - `../../../Writing_System/Style_Guide/the_70_30_rule.md`
 - `../../../Writing_System/Series_Principles/series_principles.md`
 
@@ -30,11 +33,28 @@ Book One escalates **understanding**:
 
 The enemy is an **expanding structured presence**, not a mystery anomaly system.
 
+**Dominion = civilization, not villain faction.** See `Universe/The_Dominion/dominion_worldview.md` (series foundation) and `act3_dominion_worldbuilding.md` (Act III scene rules): age, civilian life, internal disagreement, war preparation (shown not stated), Vex absence arc, ambiguous motivation, philosophical conflict with Fleet Authority.
+
 ---
 
-## Starting State (Post–Chapter 8 — Mandatory)
+## Starting State (Post–Chapter 9 — Mandatory)
 
-Reference `State/chapter_8_state_log.md`:
+Reference `State/chapter_9_state_log.md`:
+
+| State | Value |
+|-------|-------|
+| Location | Segment seven, seven-alpha — inside foreign infrastructure volume |
+| *Kestrel Veil* | Patched; running dark; passive only; trespassing not exploring |
+| Comms | No upstream Fleet path |
+| Crew knowledge | Foreign infrastructure; no Dominion name |
+| Dominion | Stratimirov mobilization; K-17 tracking faint contact; Vex off-page (trial suspended) |
+| Reader | Dominion named; Fleet crew does not know |
+
+---
+
+## Starting State (Post–Chapter 8 — Historical)
+
+Reference `State/chapter_8_state_log.md` for Ch. 9 entry only:
 
 | State | Value |
 |-------|-------|
@@ -57,13 +77,21 @@ Reference `State/chapter_8_state_log.md`:
 
 ## Chapter Roadmap
 
-### Chapter 9 — Ghosts on the Border
+### Chapter 9 — Across the Line ✓
 
-First sustained evidence of **organized** opposing activity in border space. Pattern recognition over anomaly logging.
+**Status:** Complete (~3,778 words)
 
-### Chapter 10 — The Hunter's Trail
+**Beat:** Stratimirov reviews cloak trial; mobilization; locate scout. Calder recon transition; Brenner/ship; K-17 passive contact; foreign infrastructure; *We're trespassing*.
 
-Structured movement tracking; hunter/hunted without open battle clarity.
+**End state:** Act III underway. **Ch. 10 opens from here.**
+
+### Chapter 10 — Ghosts in the Dark ✓
+
+**Status:** Complete (~3,822 words)
+
+**Beat:** Volkova logistics brief; faint traffic; Sorokin shipyard; Ortega listening watch; Kovat home; Calder network overlay — *We weren't* (empty space). No combat.
+
+**End state:** Empire scale confirmed. Ch. 11 opens from here.
 
 ### Chapter 11 — Silent Crossings
 
@@ -107,18 +135,24 @@ Act III climax — irreversible crossing; Fleet cannot unknow what *Veil* has wi
 
 ## Generation Checklist (Per Chapter)
 
+- [ ] Load `Universe/The_Dominion/dominion_worldview.md` + `act3_dominion_worldbuilding.md` for any Dominion Thread or reference
 - [ ] Procedural human feel; length per `chapter_length_principle.md`
 - [ ] **70/30 Rule** (~85% crew-world)
 - [ ] Advances border intelligence arc — not isolated incident
-- [ ] Ch. 5–8 Incident doctrine respected (cloak failure, passive significance)
+- [ ] Dominion scene: civilization slice + age evidence + distinct personality
+- [ ] War preparation shown, not announced; motivation ambiguous
+- [ ] Vex off-page unless designated return chapter (Ch. 15–16 approx.)
+- [ ] Ch. 5–8 Incident doctrine respected
 - [ ] STATE UPDATE to `State/chapter_N_state_log.md` when written
-- [ ] No legacy Ch. 12–18 draft continuity (Korrath, Library, Fold)
+- [ ] No legacy Fold/Korrath continuity
 
 ---
 
 ## Act III Final Checklist
 
+- [ ] Dominion feels like **living civilization** — not faceless enemy
+- [ ] Reader sympathy for individuals + fear of Dominion institution both present
 - [ ] Structured opposing presence clearer at Ch. 16 than Ch. 9
-- [ ] Crew competence tested under **operational** uncertainty
-- [ ] Fleet/Holt chain remains relevant
+- [ ] Vex absence felt; return (if Ch. 15–16) creates immediate tension
+- [ ] True strategic objective still **unconfirmed**
 - [ ] Irreversible momentum into Act IV (doctrine arc)

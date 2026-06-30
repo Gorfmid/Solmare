@@ -28,11 +28,30 @@ Requires [Pandoc](https://pandoc.org/) 3.x on PATH.
 
 ## Source of truth
 
-Chapter prose lives in `../Chapters/chapter_1.md` through `chapter_24.md`.  
+Chapter prose lives in `../Chapters/prologue.md`, `chapter_1.md` through `chapter_24.md`, and `epilogue.md`.  
+Archive interludes (`../Archive/`) use reference codes **FSA-143-07**, **FCC-7712**, **FDB-144-DRAFT** — placement in `../Archive/archive_placement.json`.  
 Cover placeholder: `../Cover/cover.svg`.  
 Regenerate the master manuscript after any chapter edit.
 
 ## Chapter file format (publication)
+
+**Prologue** (`../Chapters/prologue.md`):
+
+```markdown
+# Prologue
+
+[epigraph text]
+
+—Fleet Academy Strategic Studies, First-Year Cadet Primer
+
+(Edition 143)
+
+Fleet Academy Strategic Studies
+
+Edition 143
+
+Required Reading
+```
 
 Each chapter in `../Chapters/` uses:
 
@@ -41,10 +60,16 @@ Each chapter in `../Chapters/` uses:
 
 ## Chapter Title
 
-❦
-
 [narrative prose]
 ```
+
+The build script (`build_manuscript.ps1`) converts each chapter opening to a **centered** block in the master manuscript:
+
+- **Chapter N**
+- **Title**
+- Chapter divider graphic (`assets/chapter_logo.png`)
+
+Scene breaks within a chapter may still use `❦` where present.
 
 Development metadata (POV, sections, state logs) is removed from chapter files. Re-apply after editing raw drafts:
 
@@ -54,8 +79,7 @@ powershell -ExecutionPolicy Bypass -File .\finalize_cleanup.ps1
 
 ## Heading structure (built manuscript)
 
-- **Heading 1:** `# Chapter N`
-- **Heading 2:** Chapter title
+- **Centered opening block:** Chapter number, title, divider graphic (`assets/chapter_logo.png`)
 - Narrative prose only (no `SECTION` scaffolding in publication files)
 
 ## PDF

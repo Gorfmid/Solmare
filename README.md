@@ -12,7 +12,7 @@ Solmare is the shared universe and production system for The Solmare Cycle.
 
 ## Repository Structure
 
-- `Universe/` — shared canon, cosmology, factions, technology, Fold rules, and setting material.
+- `Universe/` — shared canon, cosmology, factions (**Fleet Authority**, **The Dominion**), technology, and setting material.
 - `Characters/` — reusable character profiles, crew relationships, support cast, and recurring figures.
 - `Writing_System/` — generation rules, style guides, prompts, review checklists, and orchestration documents.
 - `Books/` — book-specific chapters, outlines, state files, manuscripts, and notes.
@@ -35,3 +35,7 @@ powershell -ExecutionPolicy Bypass -File .\build_manuscript.ps1
 ## Legacy note
 
 This repository was restructured from the original `The Kestrel Veil Incident/` single-book layout. The repo folder may be renamed from `solmare-quadrant` to `solmare`.
+
+## Project instructions
+
+`PROJECT_INSTRUCTIONS.md` — agent and contributor instructions, including **The Solmare Principle**.

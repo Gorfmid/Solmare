@@ -2,14 +2,18 @@
 
 **Status:** Active (post–Chapter 5 debrief)  
 **Role:** Commanding officer, Leviathan-class warship (unnamed hull in text)  
-**Faction:** Unnamed opposing empire — do **not** name in Act I (*Kestrel Veil* crew has no identification at contact*)  
+**Faction:** **The Dominion** (working name — reader-facing Ch. 9+; **withheld from Fleet POV** until discovery beat)  
 **First appearance:** `Books/Book_01_The_Kestrel_Veil_Incident/Chapters/chapter_5.md` — ENEMY POV debrief only (name withheld from Fleet side)
 
 ---
 
 ## STORY FUNCTION
 
-First named antagonist in Book One. Embodies rival-empire military reach at the frontier: a fleet-defining hull operating in enemy space under experimental concealment. His Ch. 5 debrief closes Act I from the opposing side—cloaking failure, scout destroyed, withdraw ordered—while the Fleet still believes *Kestrel Veil* is gone.
+**Pillar:** Military command, doctrine, consequences of failure, Leviathan program.
+
+First named opposing commander in Book One. Embodies rival military reach at the frontier: a fleet-defining hull under experimental concealment. Ch. 5 debrief—cloaking failure, scout destroyed, withdraw ordered—while Fleet still believes *Kestrel Veil* is gone.
+
+**Series canon:** Ch. 5–8 Incident was a **classified Leviathan Program field test**, not an unprovoked attack. Vex **followed doctrine**; the cloak partially failed. See `Universe/The_Dominion/dominion_worldview.md` (Leviathan Program).
 
 **Reader should feel:** someone competent, cold, and accountable to a system that does not tolerate failure—even against a scout.
 
@@ -86,17 +90,48 @@ Little is established beyond Ch. 5. Do not invent biography, empire name, or per
 
 - **External threat:** Rival empire along frontier (Collectives thread in Ch. 1 — **not linked on page to Vex yet**)
 - ***Kestrel Veil*:** Destroyed from Fleet perspective at bearing 214 mark 6; Vex's crew treated contact as scout-class reconnaissance
-- **Enemy POV registry:** `Books/Book_01_The_Kestrel_Veil_Incident/Act_Outlines/chapter_5_enemy_contact_pov.md`
+- **Dominion Thread registry:** `Books/Book_01_The_Kestrel_Veil_Incident/Act_Outlines/chapter_5_enemy_contact_pov.md`
 - **State log:** `Books/Book_01_The_Kestrel_Veil_Incident/State/chapter_5_state_log.md`
+
+---
+
+## CH. 9 CANON
+
+- Debrief reviewed by Director-General Lev Stratimirov (video inset)
+- Confirms: no visual detection; passive scout lock caused partial cloak failure; engagement logged destroyed
+- Possible post-withdrawal fringe relay burst — survival not confirmed
+- Ordered: rebuild field; document failure modes; trial geometry suspended pending review
+- **Ch. 13 return (Strategic Security Directorate):** summoned after Petrov reaches thirty independent observations; operational command still suspended; professional debrief — *"It learned our cloak is imperfect"*; no scapegoating; cloak rebuild continues; not returned to field command
+- **Ch. 14 (Frontier Command Academy):** quietly teaching tactical classroom while cloak rebuilds; operational command still suspended; *"Peace is when readiness is built"*; shaping next generation — witness and instructor, not field commander
+- **Ch. 15 (Border Observation Center Kessik):** observer assignment, no Leviathan; reviews border data; *"If someone crossed, they're professionals"* / *"I believe someone is listening"*; field reinstatement deferred until bench satisfies margin
+- **Ch. 16 (Kessik):** passive returns fade; *"Or it stopped giving us opportunities"*; trail cold without dismissal; reinstatement still deferred
+
+---
+
+## ACT III ARC (CH. 10–16)
+
+**Ch. 10–12:** Vex **off-page** after Ch. 9 review.
+
+**Ch. 13:** Vex **returns for directorate debrief only** — witness, not commander. Stratimirov uses his honest assessment to pivot meeting toward cloak improvement, not blame.
+
+**Ch. 14–16 (approx.):** Vex may return again for operational tension per outline.
+
+**Defining storyline:**
+
+- He **obeyed doctrine**
+- He **still failed**
+
+Do not soften either fact. Political and professional consequences persist even when orders were correct.
+
+**While absent:** reference only through other Dominion POVs (Directorate, Science, Industry) — rumors, reassignment, rebuild status, review boards. No need to explain fully before return.
 
 ---
 
 ## OPEN QUESTIONS (AUTHOR ONLY)
 
-- Personal name origin, species, empire affiliation when naming is allowed
 - Individual ship name vs. "Leviathan" as class-only reference
-- Whether Vex returns in Book One Act II+ or remains off-stage until later books
-- Political cost of prototype failure aboard a Leviathan-class command
+- Exact chapter of Vex return (default: Ch. 15–16)
+- Political cost resolution timing (Book One may withhold full resolution)
 
 ---
 

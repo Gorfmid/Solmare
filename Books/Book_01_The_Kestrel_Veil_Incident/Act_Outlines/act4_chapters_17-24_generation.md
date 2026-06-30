@@ -14,6 +14,7 @@
 - `act3_chapters_9-16_generation.md` — Act III precedent
 - `../State/current_state.md`
 - `../../../Writing_System/Series_Principles/series_principles.md`
+- `../../../Writing_System/Style_Guide/solmare_craft_doctrine.md`
 - `../../../Writing_System/Style_Guide/the_70_30_rule.md`
 
 ---
@@ -49,9 +50,9 @@ By Ch. 24:
 
 Fleet and Cartography nodes as strategic instruments; Holt/Nand elevated in comms chain.
 
-### Chapter 18 — Rules of Engagement
+### Chapter 18 — New Words
 
-Formal ROE debate for structured unknown force — doctrine, not improvisation.
+Institutional language shift; Rowan/Calder briefing spine; Doctrine vocabulary failure; maps, history, evidence through professional lenses.
 
 ### Chapter 19 — First Witness
 

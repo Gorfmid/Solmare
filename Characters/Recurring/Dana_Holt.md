@@ -11,7 +11,9 @@
 
 Human witness to the Ch. 5 engagement from outside the contact geometry. Represents institutional observation without full context—competent, cautious, permanently incomplete.
 
-**Book One architecture (4-act):** By Ch. 8, Holt/Nand are **active communication bridge participants** in the Kestrel/Fleet comms chain — not passive observers. Act III–IV elevate this relay role strategically (Ch. 17+).
+**Book One architecture (4-act):** By Ch. 8, Holt/Nand are **active communication bridge participants** in the Kestrel/Fleet comms chain. Act III–IV elevate this relay role strategically (Ch. 17+).
+
+**Act III expansion:** See `Act_Outlines/act3_dominion_worldbuilding.md` — rotate Dominion POV beyond HQ; Stratimirov represents Directorate, not entire civilization.
 
 **Reader should feel:** someone who did everything right and still could not know what they were watching — and who kept relaying anyway.
 

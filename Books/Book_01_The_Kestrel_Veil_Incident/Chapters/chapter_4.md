@@ -2,8 +2,6 @@
 
 ## Routine Patrol
 
-❦
-
 The environmental thrum changed pitch when the cradle released them—not enough for Koss to log, enough for Calder to feel through the command chair.
 
 He had noticed it on every ship he had toured at academy. On the *Veil*, the shift came with a half-second lag the maintenance annex listed and Koss did not bother logging.

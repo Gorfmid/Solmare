@@ -6,6 +6,7 @@ This document defines how every chapter in Book One is generated from structured
 No chapter may be written without conforming to this specification.
 
 **Always load first:** `Writing_System/Style_Guide/global_writing_principles.md`  
+**Cultural texture:** `Universe/cultural_touchstones.md` · `Universe/The_Dominion/dominion_visual_language.md` · `Universe/The_Dominion/dominion_speech.md` · `Writing_System/Series_Principles/cultural_identity_and_philosophical_foundation.md` — recurring civilization markers; never explain on page  
 **Chapter length:** `Writing_System/Style_Guide/chapter_length_principle.md` (dynamic model — no fixed word targets)
 
 When generating **Chapter 1**, also load and obey:
@@ -19,6 +20,20 @@ Chapter 1 is world introduction—not anomaly-engine procedural format. Prioriti
 ## INPUTS REQUIRED FOR CHAPTER GENERATION
 
 Each chapter requires:
+
+### 0. Director's Brief (Author Input)
+
+When the author provides a chapter commission, prefer the **Solmare Director's Brief** format:
+
+* `Books/Book_01_The_Kestrel_Veil_Incident/Planning/Solmare_Directors_Brief_Template.md`
+
+Abbreviated checklist: `MyraTempalte.md` (repo root).
+
+The brief is authoritative for **why** the chapter exists, scene purposes, guardrails, and state changes. This spec governs **how** prose is executed.
+
+**Rule:** Every chapter must permanently change something— reader, character, doctrine, or civilization.
+
+---
 
 ### 1. Chapter Metadata
 - Chapter number
@@ -81,7 +96,7 @@ No chapter may end in the same state it began.
 
 ## ACT-SPECIFIC GENERATION OVERRIDES
 
-All chapters also require `Writing_System/Style_Guide/global_writing_principles.md`.
+All chapters also require `Writing_System/Style_Guide/global_writing_principles.md` and `Writing_System/Style_Guide/solmare_craft_doctrine.md`.
 
 **Book One 4-act architecture** (canonical): Act I Ch. 1–4 · Act II Ch. 5–8 (Incident) · Act III Ch. 9–16 · Act IV Ch. 17–24. See `Books/Book_01_The_Kestrel_Veil_Incident/Act_Outlines/chapter_list.md`.
 
@@ -94,6 +109,9 @@ Do not regenerate locked Incident prose without explicit author request.
 When generating **Chapters 9–16** (Act III — Shadows Beyond the Border), also load and obey:
 
 * `Books/Book_01_The_Kestrel_Veil_Incident/Act_Outlines/act3_chapters_9-16_generation.md`
+* `Universe/The_Dominion/dominion_worldview.md` — **Dominion series foundation (mandatory for Dominion POV)**
+* `Books/Book_01_The_Kestrel_Veil_Incident/Act_Outlines/act3_dominion_worldbuilding.md` — **Dominion civilization rules (Ch. 10–16)**
+* `Characters/Antagonists/The_Dominion.md`
 * `Writing_System/Style_Guide/the_70_30_rule.md`
 * `Writing_System/Series_Principles/series_principles.md` (withhold rules)
 
@@ -102,6 +120,9 @@ Act III = border intelligence arc — discovery of structured opposing civilizat
 When generating **Chapters 17–24** (Act IV — First Doctrine), also load and obey:
 
 * `Books/Book_01_The_Kestrel_Veil_Incident/Act_Outlines/act4_chapters_17-24_generation.md`
+* `Books/Book_01_The_Kestrel_Veil_Incident/Planning/Fleet_Authority_Briefing_Packet.md`
+* `Books/Book_01_The_Kestrel_Veil_Incident/Universe/Fleet_Authority/` (institutional lore)
+* `Books/Book_01_The_Kestrel_Veil_Incident/Ships/Kestrel_Veil.md`
 * `Writing_System/Style_Guide/the_70_30_rule.md`
 * `Writing_System/Series_Principles/series_principles.md` (Book One completion boundaries)
 

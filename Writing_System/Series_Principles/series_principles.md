@@ -3,6 +3,9 @@
 Cross-book doctrine for the progression series. Governs what each installment may resolve, what it must withhold, and how mystery scales across books.
 
 **Related documents:**
+- `Writing_System/Series_Principles/cultural_identity_and_philosophical_foundation.md` — **cultural recursion, Dominion proverbs, cultural memory, true antagonist, series philosophy, civilization scene test**
+- `Universe/cultural_touchstones.md` — Fleet and Dominion touchstone lists
+- `Universe/The_Dominion/dominion_worldview.md` — **Fleet vs. Dominion strategic philosophy (series foundation)**
 - `Books/Book_01_The_Kestrel_Veil_Incident/Act_Outlines/chapter_list.md` — full novel roadmap (Acts I–IV)
 - `Books/Book_01_The_Kestrel_Veil_Incident/Notes/book1_core_premise.md` — Book One mission and thematic frame
 - `Books/Book_01_The_Kestrel_Veil_Incident/Notes/mystery_spine.md` — anomaly escalation rules per chapter
@@ -16,6 +19,59 @@ This is not the story of one reconnaissance mission.
 It is the story of humanity discovering that the galaxy is governed by **rules it has only just begun to perceive**.
 
 Each book should answer **meaningful questions** while revealing **even larger questions** beyond. Satisfaction comes from understanding more—not from understanding everything.
+
+---
+
+## Series Philosophy
+
+The Solmare Cycle is **not** good versus evil.
+
+It is **good people serving civilizations whose histories have placed them on an unavoidable collision course**.
+
+Every major decision should be understandable from the character making it. Readers should frequently think: *I understand exactly why they made that decision* — even when that decision moves the civilizations closer to war.
+
+**Success:** Readers empathize with **both** civilizations simultaneously. Operational allegiance may still favor Fleet Authority.
+
+Full doctrine: `Writing_System/Series_Principles/cultural_identity_and_philosophical_foundation.md`
+
+---
+
+## The True Antagonist
+
+**Neither Fleet Authority nor the Dominion is the antagonist.**
+
+The true antagonist — Book One and the series — is **history itself**: two rational civilizations, independent evolution, incompatible doctrines, geographic collision. **Not malice.**
+
+Neither side planned this enmity. Neither truly understands the other.
+
+Full doctrine: `Writing_System/Series_Principles/cultural_identity_and_philosophical_foundation.md` → § The True Antagonist
+
+---
+
+## Fleet Authority vs. The Dominion (Series Foundation)
+
+Both civilizations are **rational**. Neither believes itself evil or the aggressor.
+
+The conflict is **philosophical**, not cartoon moral opposition:
+
+| Fleet Authority | The Dominion |
+|-----------------|------------|
+| Expansion creates stability | Strategic depth creates security |
+| Exploration creates opportunity | Buffer space prevents wars |
+| Colonies create prosperity | Fleet colonies near the border reduce Dominion security |
+| Unclaimed space should be explored | Empty space is protection |
+
+Same events, different readings — survey missions, colony ships, navigation beacons. **Neither side is lying.**
+
+Full canon: `Universe/The_Dominion/dominion_worldview.md`
+
+**Writing goal:** Readers understand why intelligent people on both sides believe they are protecting their civilization — while hoping Fleet Authority prevails. **Neither civilization is the villain.**
+
+**Cultural identity:** `Writing_System/Series_Principles/cultural_identity_and_philosophical_foundation.md` — cultural recursion, Dominion proverbs, cultural memory, civilization scene test.
+
+**Cultural touchstones:** `Universe/cultural_touchstones.md` — recurring sayings, holidays, rituals, foods, customs; never explained on page; recognition before naming.
+
+**Cultural shorthand:** Dominion — *"Preparation honors those who come after us."* · *"Conquest is what other people call it when sacrifice succeeds."* · Fleet — *"Someone has to go first."*
 
 ---
 
@@ -120,3 +176,19 @@ When generating chapters or outlines:
 Per `chapter_list.md`: the immediate crisis ends; the universe is permanently changed; the *Veil* returns carrying knowledge that reshapes human understanding—and **sets the stage for the next novel**.
 
 That knowledge should match the **Resolved** column above. The **Withheld** column is the stage.
+
+---
+
+## THE SOLMARE PRINCIPLE
+
+History creates civilizations.
+
+Civilizations create doctrine.
+
+Doctrine creates decisions.
+
+Decisions create conflict.
+
+The people living through those decisions are the story.
+
+Never write a battle before understanding the history that made it inevitable.

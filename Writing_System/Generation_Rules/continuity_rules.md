@@ -16,6 +16,9 @@ Crew complements and officer scaling: `Universe/Fleet/fleet_crew_and_officer_can
 Boarding combat and internal ship geography: `Universe/Fleet/boarding_combat_and_internal_ship_geography.md`  
 Communication, sensors, and information warfare: `Universe/Fleet/fleet_communication_sensor_and_information_warfare_doctrine.md`  
 Fleet Authority governance and command hierarchy: `Universe/Fleet/fleet_authority_governance_and_command_hierarchy.md`  
+Dominion worldview, doctrine, and society: `Universe/The_Dominion/dominion_worldview.md`  
+Dominion visual language (Dominion Thread scenes): `Universe/The_Dominion/dominion_visual_language.md`  
+Dominion speech patterns (Dominion Thread dialogue): `Universe/The_Dominion/dominion_speech.md`  
 Mission designation (e.g. Scout-Class): `Universe/Technology/scout_class.md`
 
 ---
@@ -39,8 +42,16 @@ Anomalies:
 
 ### 4. Empire Behavior Rule
 Empires:
-- behave according to doctrine.md
+- behave according to doctrine.md and faction worldview canon
+- Fleet Authority: `Universe/Fleet/unified_fleet_authority.md`
+- The Dominion: `Universe/The_Dominion/dominion_worldview.md`
 - may act inconsistently ONLY if internal conflict is explicitly introduced
+
+Civilization scenes must use **recurring cultural touchstones** per `Universe/cultural_touchstones.md` — texture through repetition, not on-page explanation.
+
+Fleet/Dominion scenes must pass the **civilization scene test** per `Writing_System/Series_Principles/cultural_identity_and_philosophical_foundation.md` — one new cultural aspect per chapter; never technology alone.
+
+Neither Fleet Authority nor the Dominion is the series antagonist. History and incompatible doctrines drive the collision.
 
 ---
 

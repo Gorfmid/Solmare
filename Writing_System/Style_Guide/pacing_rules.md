@@ -1,5 +1,7 @@
 # PACING RULES — BOOK ONE
 
+**Craft doctrine:** Load `solmare_craft_doctrine.md` → *Chapter Pacing* (~4,000 words guideline; end on objective complete, never pad or rush).
+
 **Revision:** When tightening chapters, load `revision_philosophy.md`—strong pacing over completeness.
 
 **Chapter length:** Load `chapter_length_principle.md` — dynamic model; ~4,000–6,000 words typical; no fixed targets; do not pad or compress to meet quotas.

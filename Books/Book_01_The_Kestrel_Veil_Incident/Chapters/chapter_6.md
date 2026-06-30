@@ -1,8 +1,6 @@
-# Chapter 6
+﻿# Chapter 6
 
 ## First Contact (Anomaly Site Alpha)
-
-❦
 
 **PART 1 — DANA HOLT POV (KESTRAN VI-GAMMA WATCHPOST)**
 
