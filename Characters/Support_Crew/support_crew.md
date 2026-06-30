@@ -4,7 +4,9 @@ Recurring personnel aboard UFA Scout Vessel *Kestrel Veil*.
 
 **Humanization authority:** `Writing_System/Style_Guide/global_writing_principles.md` → *Authentic Voice and Characterization*, *Every Character Matters*, *Romantic Interests*, *Language and Swearing*.
 
-**Total complement (Book One):** fourteen personnel — six senior officers plus eight support crew listed below.
+**Total complement (Fleet standard):** 20 personnel — see `Universe/Fleet/fleet_crew_and_officer_canon.md`
+
+**Book One narrative focus:** fourteen principal personnel (six senior officers + eight support crew listed below). Remaining complement slots are watch-standers or specialists not required in every scene.
 
 These are not deep-arc characters. They are **inhabitants**—people who appear repeatedly, have names, habits, and ordinary imperfections, and make the ship feel lived-in.
 

@@ -58,6 +58,17 @@ Pattern synthesis across scattered routine intelligence: trade pattern shifts, f
 
 ---
 
+## GOVERNANCE POSITION
+
+**Fleet Intelligence Bureau** — civil-military interface layer. See `Universe/Fleet/fleet_authority_governance_and_command_hierarchy.md` §6.
+
+- Collects and analyzes frontier intelligence; submits classified reports to Military Command
+- **No enforcement authority** — reports require transmission and approval to affect action
+- Formally paid by Cartography Division while borrowed for Intelligence pattern work
+- Critical vulnerability: lost, delayed, or buried reports produce no immediate systemic awareness
+
+---
+
 ## RELATED THREADS
 
 - **External threat:** Outer Rim Collectives invasion preparation (unrecognized by Empire at Ch. 1 end)

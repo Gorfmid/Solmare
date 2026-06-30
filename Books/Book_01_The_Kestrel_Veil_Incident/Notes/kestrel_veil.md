@@ -61,11 +61,16 @@ It prioritizes:
 - Cannot survive sustained combat
 - Sensor degradation occurs in anomaly zones
 - Communication dependent on relay integrity
+- Interpretive clarity under degraded information is the ship's operational strength (see `Universe/Fleet/fleet_communication_sensor_and_information_warfare_doctrine.md` §10)
 - Crew must operate independently during signal loss
 
 ---
 
 ## COMMAND STRUCTURE ONBOARD
+
+**Fleet standard complement:** 20 (see `Universe/Fleet/fleet_crew_and_officer_canon.md`)
+
+**Book One principal crew (14):**
 
 - 1 Captain (Calder Venn)
 - 1 Executive Officer
@@ -105,7 +110,7 @@ These are **lived-in details**, not plot elements. The ship equivalent of Koss's
 
 **Rule:** Calder notices these before he learns not to comment on them.
 
-See also: `crew_gravity.md` (Brenner/door 7-C habit).
+See also: `crew_gravity.md` (Brenner/door 7-C habit) · `Universe/Fleet/boarding_combat_and_internal_ship_geography.md` (internal geography and boarding rules)
 
 ---
 

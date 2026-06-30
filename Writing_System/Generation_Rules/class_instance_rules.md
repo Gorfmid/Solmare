@@ -21,7 +21,7 @@ Ship classes define:
 - allowed weapon systems
 - sensor performance boundaries
 - propulsion constraints
-- crew capacity ranges
+- crew capacity ranges (see `Universe/Fleet/fleet_crew_and_officer_canon.md`)
 
 ### HARD RULE:
 No instance may exceed its class capabilities under normal conditions.

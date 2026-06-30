@@ -1,0 +1,55 @@
+---
+description: Fleet Authority political structure, command hierarchy, and operational governance for the Solmare Cycle
+globs: Books/**/*.md,Universe/**/*.md,Characters/**/*.md,Writing_System/**/*.md
+alwaysApply: false
+---
+
+# Fleet Authority Governance & Command Hierarchy
+
+**Canonical source:** `Universe/Fleet/fleet_authority_governance_and_command_hierarchy.md`
+
+Reference before political, command, intelligence escalation, or authority-conflict scenes. Hard governance model — not narrative content.
+
+**Also load:** `Universe/Fleet/fleet_communication_sensor_and_information_warfare_doctrine.md`
+
+## Core principle
+
+Fleet Authority = **layered governance**, not single centralized command. Political, military, and operational authority are separated — and frequently conflict in crisis.
+
+## Three parallel systems
+
+| Layer | Role | Weakness |
+|-------|------|----------|
+| **A. Civilian political** | Governance, trade, diplomacy, funding | Slow; no real-time military response |
+| **B. Military command** | Deployments, strategy, doctrine | Dependent on comms/information integrity |
+| **C. Field command (ship)** | Tactical decisions, survival, engagement | Overrides delayed/contradictory higher orders |
+
+## Chain of command
+
+**Normal:** Civilian → Military → Task Forces → Captains
+
+**Combat/degraded comms:** Captains may override delayed, contradictory, or ambiguous orders. **Field survival supersedes hierarchical delay.**
+
+## Information authority (critical)
+
+Command valid only if: current · consistent with local sensors · not contradicted by independent systems. Otherwise → **authority defaults to local ship command**.
+
+## Command fragmentation (Fleet-scale conflict)
+
+Political authority becomes symbolic; military command partially blind; field command becomes primary. Produces multiple "truth states" and conflicting legitimate orders.
+
+## Maris Chen
+
+Fleet Intelligence Bureau — **civil-military interface**. No enforcement authority; reports need transmission + approval. Lost/delayed reports can vanish without systemic awareness.
+
+## Kestrel Veil
+
+**Field command level only.** No fleet strategy or political influence. Resilient in fragmented command via local interpretation and survival decisions.
+
+## Narrative rule
+
+Reflect delay, competing valid orders, partial strategic visibility. No authority layer is omniscient.
+
+## Consistency lock
+
+Overrides all previous implied governance structures.

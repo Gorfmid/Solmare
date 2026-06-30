@@ -1,0 +1,52 @@
+---
+description: Boarding combat and internal ship geography for the Solmare Cycle — compartment layers, boarding phases, size-based difficulty
+globs: Books/**/*.md,Universe/**/*.md,Characters/**/*.md,Writing_System/**/*.md
+alwaysApply: false
+---
+
+# Boarding Combat & Internal Ship Geography
+
+**Canonical source:** `Universe/Fleet/boarding_combat_and_internal_ship_geography.md`
+
+Reference before boarding actions, internal security failures, or ship-to-ship invasions. Hard spatial/tactical rules — not narrative content.
+
+**Also load:** `Universe/Fleet/fleet_crew_and_officer_canon.md` · `Universe/fleet_doctrine_and_combat_logic.md`
+
+## Core principle
+
+Ships = compartmentalized military structures with layered access control. Boarding = entering a multi-layer defensive environment, not an open building.
+
+## Internal layers (1 → 5)
+
+1. **External hull** — armor, maintenance access, docking (first breach zone)
+2. **Transition/buffer** — airlocks, cargo locks (containment zone)
+3. **Functional core** — engineering, propulsion, life support (highest defense priority)
+4. **Command/operations** — bridge, CIC, comms (highest-value targets)
+5. **Habitation** — quarters, mess, medical (secondary unless compromised)
+
+## Boarding phases
+
+1. Breach → 2. Containment struggle → 3. System warfare → 4. Command hunt → 5. Control or evacuation
+
+## Size-based difficulty
+
+| Class | Boarding character |
+|-------|-------------------|
+| Scout–Frigate | 1–3 zones; rapid clearance possible |
+| Cruiser–HC | Corridor warfare; coordinated teams required |
+| Battleship | Multi-deck siege; section isolation |
+| Dreadnaught | District-scale; simultaneous engagements |
+| Titan | Multi-front campaign; objective fights, not full control |
+| Leviathan | Strategic theater; subsystem capture only during combat |
+
+## Critical rules
+
+- **Compartmentalization:** sections seal independently; no single-point failure
+- Comms degrade by section during boarding; hierarchy fragments physically
+- Full comms/sensor doctrine: `Universe/Fleet/fleet_communication_sensor_and_information_warfare_doctrine.md`
+- Governance / field authority: `Universe/Fleet/fleet_authority_governance_and_command_hierarchy.md`
+- **Narrative:** no instant ship-wide control; show layer progression and confusion
+
+## Kestrel Veil
+
+Scout-class — limited compartments, intimate layout knowledge, short intense boarding. Defensible by crew cohesion and quirks, not scale.

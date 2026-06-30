@@ -1,300 +1,709 @@
-﻿# Chapter 6
+# Chapter 6
 
-## First Contact
+## First Contact (Anomaly Site Alpha)
 
 ❦
 
-
-
-Six hours had passed since relay contact ceased at 2231. Park continued passive monitoring on a cycle that would not restore what the decline curve had already taken. No inbound carrier. No acknowledgment of the compressed burst Calder had authorized at KR-13 exit. The ship's last institutional tether had not snapped—it had simply stopped answering.
-
-The *Kestrel Veil* held at KR-13 exit coordinates with mapping sweep still suspended and observational authority protocol in effect. Hull integrity remained nominal. Drive operational. Sensor reliability low—the same qualified state the crew had learned to work inside rather than against. Four data buffers from KR-12 remained segregated behind Koss's protocol. Master log reconciliation stood at eighteen percent uncorroborated entries. No deletions. Only absence.
-
-Calder had slept once, in a forty-minute block Okwelu would not have counted as sleep if she had been asked to certify it. He returned to the command deck at 0438 during second-watch turnover. Walsh logged the handoff without commentary. Thessaly was already reviewing the transit packet stack beside his console—edges aligned, tabs ordered by priority though Calder had left them in arrival sequence.
-
-She did not mention the straightening. She never did.
-
-In the galley alcove twenty minutes earlier, Sharma had eaten standing with a certification tablet propped against the ration heater. Brenner had sent her there with the specific instruction to consume something before he certified the environmental ring for transit prep. She had apologized to no one in particular for taking up space. Park had told her to sit down. She had sat.
-
-Halden had taken coffee at the secondary table without comment. Park had not refilled her mug. Calder had noticed the absence of the refill ritual and filed it under cohesion strain without naming it aloud.
-
-Reyes and Tanaka had been on the command deck since before Calder arrived. Tanaka's color-coded checklist was open to the KR-14 approach sequence—the page Calder recognized as current because Reyes had not yet turned around to confirm it. Ortega occupied the secondary sensor station with the restrained alertness Calder associated with mapping operations. He waited for Reyes's nod before reporting anything above threshold.
-
-Reyes gave the nod without looking up from the display.
-
-KR-13 remained unmapped. KR-14 remained unmapped. The partial fringe sweep objective authorized at KR-12 termination had stalled there and had not formally resumed. Calder understood that resumption was no longer a fleet decision. It was a ship decision made in the absence of fleet.
-
-Park ran a passive relay listen every forty minutes—carrier scan, handshake stub, compressed burst replay on the chance L-3 had been holding a window open for them. Each cycle returned the same flat line. Cole sat beside him at secondary relay, identifying the silence by ear before the display confirmed it. Calder had begun glancing at Park before addressing either of them by name. Not yet habit. Becoming one.
-
-On his way back from the galley alcove, Calder had tried environmental door 7-C in Corridor C without the kick. The panel bound at the lower-left seam as it always did. Brenner passed behind him two steps later, heel strike on the seam, panel sliding open on the second try. Senior crew flowed through without breaking stride. Calder stepped aside and did not comment. Some procedures lived in muscle memory he had not yet earned.
-
-He reviewed the archived Korrath chart package one more time—not as navigation authority, but as mission context. KR-14 carried a listed survey installation: Platform KR-14-Alpha, status **decommissioned**, last occupancy **2187.04**, forty-one years prior to current mission date. Automated environmental monitoring only. No crew complement. No active research mandate.
-
-The archive entry aligned with primary array coordinates for KR-14 approach. It did not align with anything Calder trusted completely. Nothing did. Primary array remained navigation authority for transit under the protocol he had extended from KR-12 sweep lead.
-
-He did not request fleet confirmation. Request was impossible. Confirmation, he suspected, would contradict whatever the installation's hull said when they arrived.
+**PART 1 — DANA HOLT POV (KESTRAN VI-GAMMA WATCHPOST)**
 
 ---
 
+Hour nineteen on a watch indistinguishable from hour three.
 
+Dana Holt had done nineteen years of shifts like this one—long baselines, low traffic, Cartography packets that mattered to someone in an office and to no one in the hab ring. VI-Gamma was her third posting in this category and her second where the array did what it was told and the schedule changed on time.
 
-Calder convened department heads at 0512. Relay status unchanged. Park reported zero inbound activity across all monitored bands.
+Nothing happening was the job. Nothing happening was success.
 
-"The hold-at-fringe directive is the last fleet text we have," Thessaly said. "We are not at fringe. We are at KR-13. Fleet does not know that."
+On her personal slate, buried three folders where Fleet audits rarely looked, a draft to **Jun Park** sat open the way it had for eleven days. *Saw the posting. Kestrel Veil. Scout life.* She had written and deleted the rest a dozen times. Jun had messaged first—short, warm, not asking for much. They had grown up on the same outer-district block on Helion Prime. They had not been in love. They had been each other's proof that home still existed when careers diverged. She would reply after this watch.
 
-"Fleet cannot know that," Park said.
+She sat with her slate propped against the console and read the maintenance summary for the third time. Kestran VI-Gamma: passive array on a nickel-iron chunk, hab ring, too much insulation, orbiting where Cartography wanted a long baseline and Operations staffed one analyst when the form asked for two.
 
-Calder let the statement stand. "Recommendations."
+Priya Nand had the primary chair. When Holt was on shift, Nand always had the primary chair. Not rank. Workflow.
 
-Reyes: "Primary-array solution to KR-14. Jump distance zero-point-three parsecs. Predicted exit variance zero-point-zero-zero-two parsecs. Redundant shadow solution diverges zero-point-zero-zero-six on exit bearing only. Platform KR-14-Alpha at approach range four hours post-exit on sublight profile."
+Holt corrected procedure. Nand executed repetition. That was the shift.
 
-Koss: "Drive ready. Brenner completed transit ring inspection at zero-four-thirty. No maintenance flags."
+Before Nand had taken the chair, Holt had cleared the turnover packet from the previous watch—four pages, every line *no variance* or *within tolerance*. She had signed receipt and filed it without reading past the summary block. Reading the whole thing was for audits. Audits were not this shift.
 
-Halden: "Defensive posture nominal. Installation listed uncrewed and decommissioned. Approach profile standard for abandoned platform—passive sensors lead, no emission spike unless provoked."
+A maintenance drone pinged the console feed—*hab ring filter cycle complete, no action*—and scrolled off before either of them looked up.
 
-Park: "No outbound transmission authorized without separate order. Segregated buffers remain isolated from any recovered installation data until Koss certifies ingestion path."
+Nand ran the scheduled sweep. "Flat," she said.
 
-Calder looked at Thessaly. She held his gaze without adding objection on record.
+Holt typed the entry a beat later: *sector scan complete, no variance.*
 
-"Authorize KR-14 transit," he said. "Primary-array navigation. Shadow logging only. Approach Platform KR-14-Alpha for verification and data recovery. No fleet transmission."
+Nand ran the offset sweep. Holt logged offset and scheduled pass in one block: *offset complete, unchanged; sector baseline nominal.*
 
-"Aye, Captain."
+"Nothing," Nand said.
 
-Tanaka had already begun the sequence before Reyes finished the confirmation word. "Jump solution loading," she said. "Primary authority. Redundant logging passive."
+"Log it and move on."
 
-Reyes did not repeat the transit parameters. He waited.
+Nand logged it.
 
-"—exit variance zero-point-zero-zero-two," Tanaka finished.
+They ran the raw column because the checklist required a raw pass every four hours. Nand finished; Holt was answering a routine Fleet Operations ping—*confirm VI-Gamma staffing on form 12-C, affirmative*—before she logged: *raw pass, within tolerance.*
 
-"Correct," Reyes said.
+Nand ran it again because Holt had not signed the block yet. Standard. Holt signed.
 
-Koss had already appeared in the passageway adjacent to the jump console when Calder signed the transit order. Brenner was pulling the access panel on the auxiliary ring two housing before Koss reached for her diagnostic tablet. She took the wrench he offered without acknowledgment. He did not expect thanks.
+Another cycle. The return on Nand's screen stayed flat—low confidence scatter, unassigned patrol sector, the default state of this posting.
 
-"Auxiliary draw capped at four percent," she said. "Brenner stays on ring two through exit plus six hours or until I release him."
+Nand ran scheduled and offset back to back. Holt logged both: *scheduled sweep complete, no variance; offset complete, unchanged.*
 
-"Optimistic estimate," Brenner said.
+Nand swapped the stylus module on her track pad—the old one had started skipping on fine bearing marks. Holt noted the replacement in the maintenance margin without looking away from the relay queue.
 
-"Unprintable estimate," Koss said.
+Nand ran eleven because the checklist looped back to eleven every ninety minutes. "Clear," she said.
 
-Calder did not interrupt. The exchange was not humor for its own sake—it was calibration between people who had kept scout hulls alive through worse than contradictory charts.
+Holt logged: *eleven clear.*
 
+"Nothing," Nand said.
 
-Jump executed at 0547. Exit coordinates: zero-point-zero-zero-one-four parsecs from primary prediction. Within tolerance. Star field orientation matched primary model. Redundant exit fix diverged on bearing by zero-point-zero-zero-five-seven parsecs—consistent with prior KR-13 pattern, logged without merge authority.
+"Log it."
 
-"Sublight approach to KR-14-Alpha," Calder said. "Ortega—passive sweep lead. Halden—defensive watch. No active ping until platform at visual range."
+Nand logged it.
 
-The four-hour sublight profile passed in the ordinary rhythm of scout operations: watch change at 0700, Walsh's handoff logged without commentary; Tanaka rechecking exit variance against her color-coded checklist while Reyes ate a meal packet standing; Halden on defensive watch without coffee refill; Park and Cole cycling passive relay listen with identical results each time.
+Nand ran scheduled integrity on the array joints—same procedure as hour fifteen, same procedure as hour eleven. Holt logged: *joint check complete, no action.*
 
-Okwelu moved through the passageways once per watch without being summoned. Crew members sat when she told them to. Even Brenner, who had been on auxiliary ring two monitoring through jump exit, sat for four minutes while she reviewed his hands for micro-fracture stress from vacuum glove rigidity. He stood as soon as she cleared him. She did not argue.
+The board did not change. That was the point. A quiet sector was a successful sector; Holt had filed that sentence on a hundred watches and meant it every time.
 
-Ortega ran passive sweep layers—thermal, mass, EM quiet-band, particulate scatter—each compared against archived decommission baseline without merge authority. He flagged variances to Reyes first, waited for the nod, then logged to segregated approach buffer. The approach buffer was not KR-12 set. It was not master log. Park had insisted on the distinction before sublight burn began.
+Holt filed the relay handshake stub from Kestran IV-Alpha. She filed the weather packet. She filed the merchant complaint about corridor drift that had been forwarded four times and resolved nowhere; she added the standard margin note: *Fourth forward; no action at VI-Gamma.* Cartography required the note. Cartography did not require her to care.
 
-Four hours later, Ortega reported contact.
+A delayed administrative summary arrived twenty minutes late—duplicate header, same body as yesterday's duplicate. Holt logged receipt and flagged *redundant resend* for the desk that would not read the flag.
 
-"Platform bearing confirmed. Mass consistent with archived hull profile. No drive signature. No active beacon. Thermal read—"
+Nand ran the scheduled integrity check on the array joints. Holt logged: *joint check complete, no action.*
 
-He paused. Reyes's nod came a half-second late. Ortega continued at fleet-appropriate speed.
+The galley timer clicked over. Holt had stopped resetting it on week two. Nobody reset it. The timer was part of the watch the way the coffee was part of the watch—thin, hot, repeated.
 
-"—thermal read elevated above decommission baseline. Not operational drive levels. Above cold-storage profile."
+"Timer's four minutes fast again," Nand said.
 
-The command deck went still in the professional way—no exclamation, only recalibration of attention.
+"Log it under galley drift. Don't reset it."
 
-"Define elevated," Calder said.
+"Logged."
 
-"Point-four kelvin above archived decommission signature across three surface segments. Consistent with recent power cycling, not continuous operation."
+Relief was not due for six hours.
 
-Halden: "No weapons signature. No approach from secondary contacts."
+Holt pulled the previous watch's strip archive and compared timestamps to the current loop. Same intervals. Same flat returns. She signed the comparison block: *no drift in watch rhythm.*
 
-Reyes: "Primary-array position fix matches platform location. Redundant array places hull centroid zero-point-zero-zero-three parsecs offset. Shadow log only."
+Environmental requested air-cycle confirmation. Holt sent it—*cycle nominal, humidity within band*—while Nand ran the scheduled sweep.
 
-Calder studied the thermal overlay. Forty-one years of decommission did not produce point-four kelvin cycling signatures across three segments unless something had run recently or the archive was wrong.
+"Flat," Nand said.
 
-"Hold at approach range," he said. "Prepare boarding survey team. Installation access, not hull breach. Koss—data recovery protocol before anyone touches a local store."
+Holt logged: *sector scan complete, no variance.*
 
+Nand ran offset. "Unchanged."
 
-The *Kestrel Veil* closed to two hundred meters on maneuvering thrusters. Platform KR-14-Alpha resolved on the forward display as a modular survey spine: central hab ring, two instrument booms, external data vault housing aft. Fleet gray paint, faded. Docking collar manual—not rated for scout transfer without Brenner's opinion, which Calder requested before authorizing approach.
+Holt logged it.
 
-Brenner arrived on the command deck with a toolkit Calder had seen passed to Koss before he had learned to attach the gesture to a name. Gruff report, no wasted syllables.
+A Cartography acknowledgment arrived for a packet Holt had sent six hours ago—*received, no action required.* She logged receipt. The acknowledgment duplicated identical language from the one before it.
 
-"Collar seals are cold but not cracked. Latch mechanism is manual series-seven—same as Helion refit spares we carry. I can mate a soft umbilical for power and data if Koss signs off on draw from auxiliary ring two."
+Holt filed a hab-ring humidity report because Environmental wanted it on the hour even when the numbers never moved. She logged: *humidity within band, unchanged.*
 
-Koss: "Signed if draw stays below four percent auxiliary for six hours."
+Nand ran eleven. Nothing.
 
-"Then I can open their vault housing from the outside without breaching atmosphere integrity. Inside's a different question."
+"Eleven clear," Nand said.
 
-Calder authorized soft dock at 1014. Brenner led the physical approach with Sharma on umbilical monitoring and a junior maintenance tech Calder did not yet know by name carrying the seal kit. Koss remained aboard to certify ingestion paths. Reyes and Ortega prepared cross-reference routines. Park staged a fifth segregated buffer—installation-local, isolated from KR-12 set and from master log until manual merge review.
+Holt signed without comment.
 
-Calder watched the external feed. Brenner's gloved hands moved through collar mating with the unhurried precision of someone who had done this on scout hulls for longer than Calder had held rank. Latch engagement. Seal check. Umbilical handshake.
+"Run eleven again," Holt said.
 
-"Soft dock nominal," Brenner reported. "Platform atmosphere intact. Pressure stable at zero-point-nine-eight standard. Vault housing accessible from external panel seven—if the panel opens. Mechanism's stiff. Not seized. Stiff like someone used it recently."
+Nand ran eleven. Nothing.
 
-He did not speculate beyond the mechanical observation. Calder appreciated that.
+"Again."
 
-Brenner kicked nothing in vacuum. Calder noted the absence of door 7-C as irrelevant and still thought of it—a habit breaking at the hull boundary.
+Nothing.
 
-Once soft dock was established, Brenner requested permission to inspect the hab ring exterior before vault work. Calder authorized visual survey only—no interior breach.
+"Good."
 
-"Life-support louvers on the ring's port quarter," Brenner reported over suit comm. "Filter exchange date scratched into the housing plate. Fleet maintenance code style, not automated stamp. Date reads recent enough that the scratch tool was sharp, not weathered. Someone serviced atmo manually."
+Pattern fatigue was in Holt's eyes, not in the log. Nand had it too—the flat focus of a long shift where silence counted as performance. They did not comment on it. Commenting was not in the checklist.
 
-Sharma, on umbilical monitoring aboard: "Platform atmo processor cycling at eighteen percent above cold-storage idle. Consistent with Brenner's read. Not full hab load. Not zero."
+Nand ran the scheduled sweep, then offset without waiting for Holt to prompt the second pass. Holt logged both when Nand pushed the strip summary across.
 
-Koss: "Copy. Continue vault assessment."
+Nand ran the raw column. "Within tolerance," she said.
 
-Brenner moved aft along the spine handholds. Calder watched the feed—the methodical pace of someone reading a hull the way Koss read a bearing harmonic. At the instrument boom root, Brenner paused.
+Holt signed the block and poured coffee that had been on the warmer too long. It tasted like the timer—acceptable, stale, part of the shift.
 
-"Alignment bracket on boom two has fresh torque seal resin. Not forty-one-year resin. Different batch tint. Someone recalibrated the boom and resealed within the last two maintenance cycles, fleet standard or shorter."
+A relay weather stub from Kestran II-Beta arrived with a corrupted checksum. Holt re-requested. The re-request returned the same corrupted checksum. She logged: *weather stub unreadable, resend pending, no impact to array.*
 
-Reyes: "Archive lists boom two as locked in stowed position at decommission."
+Nand ran eleven. Nothing.
 
-"Boom two is deployed two degrees off stowed lock. Small offset. Deliberate position, not drift."
+Holt logged: *eleven clear.*
 
-Halden: "No movement since we've held approach."
+Operations sent a sector scan template reminder—quarterly form, due in six weeks. Holt acknowledged. Nand did not look up. Acknowledging forms was not sensor work.
 
-"Wasn't us," Brenner said.
+"Form 12-C wants the analyst count again," Holt said.
 
+"Still one."
 
-External panel seven required Brenner's hands, a lubricant shim, and eleven minutes. Koss directed power draw through the umbilical while Ortega mapped the platform's passive emissions against archived decommission signatures. The comparison failed immediately—not because sensors were wrong, but because the platform's local power bus showed cycle timestamps within the last eighteen months.
+"Still one."
 
-"Archive says forty-one years dark," Ortega said. He waited for Reyes's nod. "Local bus log fragments say otherwise. I can't read the full log. Storage medium is present. Read errors on sixty-two percent of sectors."
+Nand adjusted display calibration on the bearing ring—two clicks port, one click back. "Better edge on low confidence scatter," she said. Procedure, not commentary.
 
-Koss: "Physical medium or interface?"
+At hour twenty-one Nand rotated the array two degrees port. Routine offset correction. Holt logged it.
 
-Brenner, inside the vault housing feed: "Medium looks intact. Interface port has corrosion on three pins—not age corrosion. Corrosion from recent disconnect without seal protocol. Someone pulled this chip in a hurry."
+Nand ran the post-rotation verification sweep. "Unchanged," she said.
 
-He extracted the data chip with both hands steady enough that Calder could not see tremor on the feed. A black wafer the size of Calder's thumb, labeled in fleet inventory code.
+Holt logged post-rotation verify and signed the rotation block.
 
-"Local survey log chip," Brenner said. "KR-14-Alpha primary store. Physical label matches platform registry. Reader won't mount clean. Sector corruption consistent with improper removal, not magnetic wipe."
+Nand ran eleven again because Holt wanted the rotation block closed clean. Nothing.
 
-Calder: "Can we read it aboard?"
+"Eleven clear, post-rotation," Nand said. Holt logged it.
 
-Koss: "Not through master archive. Segregated buffer five, Park's lane. Brenner brings it across the umbilical clean. Ortega and Reyes run reconstruction. I certify hardware path."
+At hour twenty-two Nand ran band six on schedule. She ran it again. She made a small sound—not alarm. The sound she made when a column required another pass.
 
-Park: "Buffer five initialized. No merge keys issued."
+"What," Holt said.
 
-Calder authorized chip transfer across the umbilical at 1126. Brenner carried the wafer in a grounded case the size of a ration tin—hands visible on feed the entire transit, seal integrity checked at three points per Koss's protocol. Sharma logged atmospheric pressure delta on the *Veil* side at zero-point-zero-zero-one per minute, within tolerance. Brenner handed the case to Koss in the ingestion bay. Koss handed him the extraction wrench before he reached for it.
+"Band six wobble. Same as hour nineteen."
 
-"Mount in bay two," she said. "Reader head three. Ortega runs ingestion from nav station. I stay with the pins."
+"You logged hour nineteen."
 
-"Aye."
+"I logged *within tolerance pending repeat.*"
 
+"Repeat."
 
-The reconstruction consumed six hours and crossed three watch cycles.
+Nand repeated. The wobble repeated.
 
-Brenner handed Koss the correct extraction wrench before she reached for it in the engineering ingestion bay. Koss did not thank him. He did not expect thanks. He stayed for the hardware mount because, as he told a junior tech in Calder's hearing, "Chips lie less when you listen to the pins."
+Holt stood behind the chair. She did not take the chair. Nand hated being moved mid-pass.
 
-Tanaka rotated onto the command deck mid-sequence and opened her checklist to the reconstruction support page before Reyes turned. When Reyes began explaining sector interleave pattern to Ortega, Tanaka finished his sentence.
+"Transient artifact," Nand said. "Could be local drift."
 
-"—alternate odd sectors first, even sectors on second pass, because the chip reader assumes sequential write and the corruption broke the sequence at sector boundary forty-one."
+"Run redundant column."
 
-Reyes: "Correct."
+Nand ran it. "Same wobble family. Not identical amplitude."
 
-Ortega ran first-pass ingestion. Sixty-two percent read errors became a map—not random noise, but patterned gaps where improper removal had sheared interleave blocks. Calder watched the error pattern populate on the display: sector boundaries forty-one, forty-three, and forty-seven showing fracture symmetry consistent with a partial extraction mid-write, not progressive decay.
+"Note it. Run again in ten."
 
-"Beautiful wrong numbers," Ortega said quietly—then caught Reyes's look and continued at fleet speed. "Pattern suggests the chip was pulled during an active write cycle. Whoever removed it didn't wait for flush completion."
+They ran it in ten. The wobble remained.
 
-Reyes: "Can you reconstruct from fracture symmetry?"
+"Equipment fault?" Holt said.
 
-"Not alone. I need lineage from sector forty backward and bus fragment cross-check from umbilical logs."
+"Ring echo would not look like this." Nand pulled comparison panes. "Not relay clutter. Not scheduled transit. Not platform echo."
 
-Tanaka: "Umbilical handshake captured bus timestamps on approach. Ortega has fragments from zero-nine-forty through one-zero-one-four. I can align those to sector write windows if Reyes gives me interleave offset."
+Holt noted each exclusion. "Log band-six deviation. Hold label pending."
 
-Reyes: "Offset is two-sector stagger on odd boundaries. Tanaka has it right."
+"Contact alpha for convenience?" Nand asked.
 
-Park maintained buffer five isolation with the discipline Calder had watched since Theta-7: no handshake with master log, no accidental merge with KR-12 segregated set, checksum logging on every read attempt. When Cole heard congestion building on the buffer write lane, she tapped Park's arm once. Park throttled ingestion rate before the display flagged overflow—a cooperation Calder had no part in and was learning to recognize as ship competence rather than individual heroism.
+"For the log. Not a class. Not a ship."
 
-Cole, at secondary relay, identified buffer congestion by sound before the display flagged it. Park glanced at her instead of the panel first. Calder saw the exchange and understood it as competence, not theater.
+Nand marked contact alpha. Holt signed the block.
 
-Walsh delivered meal packets to the command deck at second watch without disrupting the workflow. Thessaly ate half a ration standing, reviewed Walsh's notebook against the reconstruction schedule, and left the remainder for Calder. He ate it without tasting it and noticed Thessaly had straightened his mission packet stack again while discussing sector boundaries with Koss.
+They ran alpha on the next three sweeps. Deviation persisted. Holt logged: *alpha persists, band six, repeat passes confirmed.*
 
-Halden maintained defensive watch. She did not joke. Park did not refill her coffee. The silence around humor had become its own kind of weather.
+The schedule did not pause for convenience labels. Nand ran sector and offset between alpha passes; Holt logged *no variance outside alpha band* and *unchanged outside alpha band* in the same entry.
 
-Koss ran hardware corroboration on the chip mount—pin continuity, reader head alignment, thermal variance on the wafer substrate. Brenner listened to the reader head engage on the second pass and said, without looking at the diagnostic tablet, "Pin five seating shallow. You'll get ghost reads on odd sectors until it's reseated."
+Holt made tea she did not drink. Nand skipped food because skipping food was her habit on long correlation blocks; Holt told her to eat anyway every shift and Nand ate anyway every shift, minimally, without breaking eye contact with the board.
 
-Koss reseated pin five. Ghost reads dropped eleven percent.
+"You want Operations on the line," Nand said once.
 
-"Medium is recoverable," she said at hour three. "Corruption is structural at interleave boundaries, not total loss. We need lineage reconstruction, not single-pass read."
+"Not on one repeat."
 
-Reyes and Ortega built the lineage model at the nav station while Koss and Brenner kept the hardware path stable. Sector forty-one as fracture point. Odd-even alternate recovery per Tanaka's interleave correction. Cross-reference against platform bus fragments Ortega had scraped from umbilical handshake logs. Tanaka ran parallel timestamp alignment—color-coded columns on her checklist that only she and Reyes could read without translation, Calder included.
+"Two repeats."
 
-Second watch delivered meal packets again. Ortega ate with one hand and kept ingesting with the other until Reyes told him to stop and eat properly for six minutes. Ortega stopped. Ate. Resumed on the nod.
+"Not on two."
 
-Park staged partial outputs in buffer five subpartitions—A through E—so no single corrupted merge could contaminate the whole. Each subpartition received its own checksum and its own merge prohibition flag. Calder asked once whether subpartition merge was safe. Park answered without looking up: "Not until all five pass cross-validate. Same rule as Theta-7 buffers. Different numbers. Same discipline."
+"When."
 
-Thessaly reviewed Walsh's watch notebook against the reconstruction schedule and adjusted third-watch assignments so Hale could maintain defensive posture while Brenner remained available for hardware remount. Walsh's notebook already reflected the adjustment before she finished speaking. Thessaly did not comment on that. Walsh did not comment either.
+"When the log survives a third channel."
 
-At hour four, first partial strings emerged from subpartition A—environmental telemetry, not personnel data. Ortega read them aloud after the nod.
+Nand accepted that the way she accepted all of Holt's delays—as workflow preference, not disagreement about reality.
 
-"Atmo processor cycles logged weekly through 2225.09. Filter exchange entries manual. Boom two calibration events at 2224.11 and 2225.03. Archive decommission flag still present in header on every fragment."
+Hour twenty-three. Holt reviewed the previous shift's log: three pages of *no change*, *within tolerance*, *unchanged*. She signed the review block.
 
-"Header lies," Brenner said from the ingestion bay. "Pins don't. Neither do torque seals."
+Nand ran sector and offset. Holt logged both outside alpha band.
 
-Koss: "Neither do filter plates. Continue."
+Nand ran integrity on the joints again because the schedule looped. Holt logged it.
 
-Brenner rotated off umbilical watch at hour four, ate in the galley alcove for nine minutes, and returned when Koss called for physical remount on pin three, which had micro-fractured during the fourth read pass. He replaced the reader head from *Veil* spares without being asked where the spare was. Calder did not know where the spare was. Brenner did.
+The merchant complaint from Kestran IV-Alpha arrived again. Holt logged it again.
 
-At hour five, Ortega's voice tightened with the controlled excitement Reyes usually slowed with a look.
+A console feed alert scrolled—*platform thermal nominal, no action*—and cleared.
 
-"Partial string recovery on subpartition C. Occupancy timestamps. Not forty-one years. Not decommission profile."
+Nand ran eleven on schedule. "Clear outside alpha," she said.
 
-Reyes: "Read it."
+Holt logged it.
 
-"2187.04 decommission flag in header metadata. Body content includes entries dated 2224.06 through 2225.11. Survey team complement listed at four. Instrument calibration cycles logged weekly through last entry. Personnel roster partial—two names recoverable, two sheared. Grid references for KR-13 segment four and KR-14 interior baseline. Mission designation **Korrath Interior Survey Unit Seven**. Mandate class deep-mapping, not passive monitoring."
+"Fragment on eleven," Nand said. "Same bearing family as alpha."
 
-Reyes scrolled the partial roster on the secondary display. Two names. Ranks. Certification codes consistent with active survey authority, not decommission archive.
+Holt looked. "Note it."
 
-"The header still says decommissioned," Ortega said.
+"Could be noise."
 
-"The body says they lived here," Reyes said.
+"Run it again."
 
-The command deck absorbed the numbers the way it absorbed contradictory star positions—without denial, without immediate synthesis.
+Nand ran it. The fragment remained.
 
-Calder: "Continue reconstruction."
+"Could still be noise," Nand said.
 
-Third-pass lineage recovery ran from hour five through hour six. Ortega and Reyes alternated sector blocks—Reyes verifying interleave math, Ortega executing read commands, Tanaka catching a stagger offset error at sector fifty-two before it propagated into subpartition D. Park logged each recovery block to buffer five with timestamp and operator initials. No merge keys. No outbound path.
+"Run offset stack."
 
-Calder did not intervene in the technical sequence. His role was authorization and isolation discipline—keeping master log clean, keeping fleet transmission absent, keeping the crew working inside a protocol that assumed no external validation would arrive to settle disagreements.
+Nand ran offset stack. Fragment remained on the third match.
 
-Park attempted one relay burst at 1500—compressed status stub, no buffer content, no position disclosure beyond generic Korrath sector tag. Nothing returned. He logged the attempt locally and returned to buffer five monitoring without comment. Relay remained lost.
+"Log companion on eleven," Holt said. "Still not a class."
 
+They logged it. They did not name it. They did not explain it.
 
-Final reconstruction completed at 1622. Buffer five subpartitions merged into a single readable survey log under Park's segregation seal—available for analysis, barred from master log integration pending Calder's order.
+The checklist still applied. Nand ran sector and offset; Holt logged both outside alpha and companion bands.
 
-Recovery rate: seventy-one percent of original sector content reconstructed through multi-pass lineage model. Twenty-nine percent permanently sheared at improper removal damage. Sufficient for operational conclusions. Insufficient for institutional comfort.
+When contact alpha tightened further, Nand ran the same sweep four times with four offsets. On the fifth pass the fifth matched the third.
 
-Reyes presented summary. Ortega stood beside him with the nod already received.
+"Not equipment," Nand said.
 
-"Platform KR-14-Alpha official archive status: decommissioned 2187.04, uncrewed monitoring only. Recovered local log: active survey occupancy 2224.06 to 2225.11. Team designation **Korrath Interior Survey Unit Seven**. Instrument load consistent with deep-mapping mandate, not passive monitoring. Last entry: abrupt termination mid-calibration cycle. No orderly shutdown signature."
+"Logged," Holt said. "Run redundant."
 
-Koss: "Hardware corroboration confirms chip was removed improperly within estimated six-to-eighteen-month window relative to mission current date. Not forty-one years ago. Recent."
+Redundant column matched. Holt logged partial hold behavior—procedure language only, no lock claim.
 
-Brenner, on feed from the vault housing: "External panel seven shows wear patterns matching repeated access in same window. Someone was here. Someone left in a hurry and took part of the story with them when they pulled the chip wrong."
+"If they hold," Holt said.
 
-Park: "Buffer five sealed. No outbound path. No merge with master log."
+"They're holding on eleven. Failing on six."
 
-Calder reviewed the reconstructed log strings on the display. Names, calibration cycles, survey grid references extending into KR-13 and KR-14 interior segments Fleet charts listed as unmapped and uninhabited. A decommission flag that contradicted the body of the record the way fleet hold contradicted fleet continue—same metadata weight, incompatible content.
+"Mark partial hold. Do not say lock."
 
-He did not ask who was right. He asked what the crew had earned through six hours of work.
+Nand marked it.
 
-"Recovery status," he said.
+Holt's hand moved toward her personal slate and stopped. Cartography's correlation annex wanted an outer-loop patrol cross-check when a contact survived three verification channels—board procedure could supply it. The patrol overlay on her personal slate was faster. It was also not supposed to be open on watch.
 
-Reyes: "Reconstruction complete to seventy-one percent. Local survey log verified against platform bus fragments. Archive decommission entry contradicted by recovered occupancy data and physical access evidence."
+Nand read strip timestamps aloud. Holt let the numbers finish.
 
-Koss: "Hardware path certified. Medium preserved in segregated storage."
+"Bearing family needs outer-loop annotation for the log," she said. The words were true enough to sign.
 
-Brenner: "Vault housing resealed. Soft dock holding. Platform remains structurally intact for follow-on survey if authorized."
+She opened the overlay anyway.
 
-Calder nodded once. "Log the reconstruction methodology in ship record. Buffer five remains segregated."
+One line returned. **Kestrel Veil.** Mission 4471-S. Jun Park. Communications.
 
-Thessaly, who had said nothing for twenty minutes: "Aye, Captain."
+She closed it before Nand could see her face. The name sat where a bearing family should have stayed anonymous.
 
-On the external feed, Brenner resealed vault panel seven with the same hands that had opened it—lubricant shim, torque sequence, seal check. He ran his gloved finger along the panel seam once, not for drama, for tactile confirmation.
+She logged: *alpha geometry tightening, companion eleven present, repeat passes ongoing, partial hold noted.*
 
-"Panel closed. Wear pattern's still there. We didn't erase it. We read through it."
+"Still alpha," she said.
 
-Koss: "Copy. Return across umbilical."
+Nand glanced once. "Copy."
 
-"Soft dock holding until you release," Brenner said. "Platform's not empty history anymore. It's evidence."
+Holt ate standing up. Nand took a ration bar without looking away from the board.
 
-He crossed back to the *Veil* with the grounded case empty and the reader head stowed. Calder did not know Brenner's birthday. Park probably did. Calder made a note to learn at least that much before the next transit.
+The passes continued. Dropouts. Reacquire. Holt logged each block. Nand logged strip timestamps. The column changed. They wrote what changed.
 
-Watch change occurred at 1630. Walsh logged third-watch handoff. Okwelu appeared in the passageway outside the command deck without being summoned, reviewed Calder's posture for three seconds, and moved on without comment. Calder sat down when she told him to. Eventually.
+Nand's voice flattened on the next sweep. "Pattern collapse on eleven."
+
+Holt watched Nand's hand freeze above the log key.
+
+"Hold lines discontinued," Nand said. "Column discontinuity."
+
+"Time mark."
+
+Nand marked it.
+
+Holt ran secondary pass. Coherence loss on passive long-range—readable becoming unreadable between sweeps.
+
+"Second return scale change," Nand said. "Write what the column shows."
+
+Nand read numbers. Holt logged numbers.
+
+The array swept. For three seconds the contact family held shape on the board. Then band six spiked—vertical, bright, sudden.
+
+Nand's breath caught.
+
+"Energy discharge," she said. "Band six. Not ours. Not the array."
+
+"Mark time."
+
+"Marked."
+
+Then scatter—debris signature, metal where metal had not been, energy folding into noise.
+
+Nand: "Alpha's gone."
+
+"Eleven?"
+
+"Gone. Both. Residual only."
+
+Holt closed her eyes once. Opened them. The board held thin lines and then less than that.
+
+"Could the array miss a maneuver?"
+
+"No."
+
+"Could we lose one return and keep the other?"
+
+"We lost both in the same window."
+
+The room went quiet. Dana heard the galley timer click.
+
+Nand was still speaking—residual scatter, band six decay, timestamps—but Dana heard her own heartbeat louder. The overlay line she had closed six minutes ago returned without permission: **Kestrel Veil.** Jun Park. Fourteen names on a complement she was not supposed to look up on watch. Calder she did not know. Brenner she had met once at a yard bar. Fourteen people who ate standing up and sent messages you meant to answer tomorrow.
+
+"Chief?" Nand said.
+
+Dana did not answer. She was looking at the board where alpha had been and seeing a comms officer she had known at eight, teaching her to splice a relay toy while his mother called them in for rice.
+
+"Chief— Dana—"
+
+"Something fired," Dana said. The words came out before procedure. "Something just— discharged. On the contact. On—"
+
+She stopped. Her throat closed.
+
+Nand turned fully in her chair.
+
+"Was that a weapon," Nand asked.
+
+"I don't know." Dana's hands were on the console rim. "I don't know. The column says energy. The column doesn't say—"
+
+*Did someone just fire on the Kestrel?*
+
+The thought was not in the manual. All those people dead, Jun dead, the unsent draft suddenly the last thing he would never read.
+
+She made a sound she did not recognize.
+
+Nand reached toward her and stopped short.
+
+"I can't—" Dana said. "I don't know what to do."
+
+She sat down.
+
+Nand kept the sweep running.
+
+Dana sat with her face in her hands for three breaths. Four. She counted the way her mother had taught her on Helion when the towers flared.
+
+*Procedure exists for when you cannot think.*
+
+She opened the watchpost emergency index. **VI-Gamma — Priority Contact Event — Cartography Command Relay — Fleet Notification Chain.**
+
+She had read it on orientation. She had never used it.
+
+The steps were there: time marks, sensor summary, no inference beyond observation, immediate review flag, copy to Fleet Operations liaison desk as awareness only until Cartography verified.
+
+She read it twice.
+
+Nand, quietly: "Tell me what you need."
+
+"Timestamps," Dana said. "Your strip log. Band six peak. Everything before the scatter. Don't write what I almost said."
+
+"I won't."
+
+Dana opened the notification template and began filling fields the way orientation had drilled—time marks first, then band six peak, then pre-event contact summary. Her hand stopped on the discharge line. The cursor blinked. She knew what she wanted to write and knew she could not.
+
+Nand, without looking up from the annex: "Chief. Timestamp on the discharge block."
+
+Dana drew one breath. "Copy." She entered the mark Nand had already called. The rest followed in procedure language—pre-event contacts, energy discharge, post-event void. Nothing remains to classify. Jun's name stayed off the channel.
+
+When the priority flag went out, her stomach did not settle.
+
+Nand finished the technical annex.
+
+"Sent," Dana said.
+
+"Sent," Nand echoed.
+
+Holt watched the residual fade on band six.
+
+"Start the sweep again," she said.
+
+Nand: "For what?"
+
+"Because I need to know if I imagined the worst."
+
+Nand started the sweep.
+
+The watchpost hummed. The galley timer clicked.
+
+Dana went to the viewport. Her reflection looked older than fifty-two. She thought of Jun at eight. Jun's last message: *Veil's strange. Good strange. Reply when you can.*
+
+She had not replied when she could.
+
+Nand joined her without speaking.
+
+"I opened the patrol overlay," Dana said. "After partial hold. I should have used the board cross-check. I used the overlay anyway. Scout posting. I know someone on that complement."
+
+Nand was quiet.
+
+"Park," she said.
+
+Dana nodded once.
+
+"I'm sorry," Nand said.
+
+"I don't know they're dead." Dana's voice broke. "I know the board says gone. I know what discharge means. I don't **know**."
+
+"Neither do I."
+
+Dana wiped her face with the heel of her hand.
+
+"I filed what we're allowed to file."
+
+Nand was already back at the primary seat, fingers on the sweep keys, not waiting for the rest.
+
+"Fleet Command has it," Dana said.
+
+Nand started the next pass. "And we keep sweeping."
+
+Dana sat down beside her. She did not answer. She did not need to.
+
+The shift still had hours left. Relief would arrive.
+
+Dana felt grief next to duty, neither canceling the other. Nand felt horror at the column and loyalty to the woman beside her and the clarity that the log was correct and correct was not bearable.
+
+The sweep continued.
+
+Nothing on the board answered whether Jun Park was still breathing somewhere the array could no longer see.
+
+Dana filed the empty column where silence used to mean the watch had done its job. Quiet still looked the same on the form. It did not weigh the same.
+
+---
+
+**PART 2 — KESTREL VEIL POV**
+
+---
+
+The hours before the lock had cost the *Kestrel Veil* something Calder could not name without sounding like a man borrowing language from a training manual he no longer trusted.
+
+Partial returns. Loss intervals. Brenner on the ring. Ortega saturated and stubborn. Halden building models that kept losing footing. Park listening to relay weather that was not weather. Thessaly holding the deck together with posture and short sentences that were not reassurance but structure.
+
+Calder had watched all of it by noticing what people did when they did not know enough to pretend.
+
+The board had finally shown him everything too late.
+
+"Passive lock confirmed," Ortega said—not more than a minute ago in the compressed time of the deck, though the hours before it had been spent earning those three words one fragment at a time.
+
+Halden: "Tactical lock confirmed."
+
+Calder's hand had tightened on the rail without him noticing.
+
+Reyes: "Navigation lock confirmed."
+
+The composite feed aligned. Bearing two-one-four mark six held as something real. Calder watched the lock and felt the cost in the crew's stillness before anyone named it.
+
+Then the board broke.
+
+Masking dropped on the contact—silhouette scale for one frame on Hale's optical feed, burning bright as the inbound track registered.
+
+"Contact decloaked," Hale said.
+
+Halden: "Photon cannon inbound. Vector locked. High velocity."
+
+Reyes went still at nav. "Impact solution—direct. No margin."
+
+Koss on channel: "Defensive suite won't— we're not outrunning this."
+
+The alert tone tried to sound. The *Veil* swallowed it halfway.
+
+Calder: "Brace."
+
+He did not have a second order ready. Clean locks on contacts that size were never relief—they were invitations.
+
+Reyes' hands moved on deflection. The numbers sheared. "Lost solution," he said. Flat. Not panic. Fact.
+
+Thessaly: "All hands—"
+
+Hale at defensive did not leave her station. Her hands knew the suite the way Brenner knew doors—by touch, by failure history. "Suite can't answer yield class," she said. Not to Calder. To the board. To the record that might not exist in an hour.
+
+Koss on engineering channel was already talking to Brenner in the shorthand of people who had kept this hull alive through worse than doctrine allowed.
+
+The deck shuddered before Thessaly finished—not impact. Aft. Mechanical. Wrong.
+
+Brenner on engineering channel, first, a body moving before language: "Move—"
+
+Koss: "Launch—"
+
+Ortega, over him: "Probes—"
+
+Calder had not ordered probes. Both launch indicators went hot on the subpanel anyway—tubes away, streaking, trajectories that had nothing to do with mapping and everything to do with a damaged ship reflexing where a person would have flinched.
+
+"Who—" Calder started.
+
+No one had.
+
+Halden stayed at tactical with her jaw set. Even dying boards got Halden's discipline. "Inbound unchanged— probes crossing— angle bad— crossing anyway—"
+
+She was not explaining. She was tracking the only geometry left that mattered.
+
+Park at relay: "Channel— I can't—"
+
+His headset slipped. He pushed it back with one hand and kept the other on a board that was trying to drown him in its own noise. Cole at secondary reached for a hardline without being asked.
+
+Thessaly moved to the rail beside Park. She did not take his station. She put one hand on the chair back—the same gesture she used when paperwork needed a witness.
+
+"Rhythm," she said. Quiet. Not for the log.
+
+Park nodded. He was not succeeding. He was still trying, which from Park looked like duty.
+
+Reyes stared at a navigation display that refreshed too slowly and lied too quickly. "I had bearing— I don't— resolution's—"
+
+Calder watched the probe icons cross the inbound photon vector on a screen that was not giving him command authority so much as showing him what the ship had decided without him.
+
+He said: "Let it—"
+
+He did not know what he permitted.
+
+The probes met the track.
+
+White outside the hull this time—not inside, not the frame breaking apart from direct hit. A bloom on Ortega's feed that turned the passive graph to static and the optical to an afterimage that hurt to look at even after it was gone.
+
+The deck kicked once. Heat rolled through the ring. Brenner swore in one syllable on the channel.
+
+Then stillness that was not peace.
+
+The deck kept vibrating—wrong rhythm, like a heart missing every third beat. Overhead panels held their emergency wash; steady light, wrong context. Air still moved through the vents. Somewhere aft, a compartment door sealed with a sound that arrived too soft, as if the hull had forgotten how to carry noise.
+
+Thessaly's hand stayed on Park's chair back. Her knuckles had gone white. For a second she looked at Calder as if she meant to say something longer than structure allowed—then she closed her mouth and the composure came back on like a hatch seal.
+
+"All hands report," she said. Her voice was level. It was not calm.
+
+Calder opened his mouth. No order came. He had braced for impact and gotten something else—a ship that had moved without his word and a deck that was still under his boots.
+
+"Is everyone—" he started.
+
+"Here—" Ortega and Hale overlapped; Ortega too fast, Hale flat. "I'm here."
+
+Park made a sound that might have been a laugh or might have been breath catching wrong. "I can't— the channel's—"
+
+He stopped talking. Just stopped. His hands stayed on the board.
+
+Ortega blinked hard against the afterimage. She rubbed one eye with the heel of her hand. "Passive feed's—" She swallowed. "Nothing's coming back."
+
+Halden stared at the tactical pane. The geometry she'd been tracking had simply stopped being there. "Overlay's empty."
+
+Park tried to speak again. Static crawled out of his headset instead of words. He pulled it off one ear and let it hang.
+
+Reyes: "I don't have stars."
+
+The sentence landed late—after Halden had already gone quiet. Reyes kept staring at the display as if it might apologize. Then he stopped refreshing. His hands stayed on the cradle, but he was no longer waiting for the next update.
+
+Koss on wired comm, voice thin through insulation: "Main bus dropped. Secondary's flickering. Brenner's on manual tie for ring three."
+
+Calder noticed nobody was looking to him to explain that. Nobody was correcting his silence either.
+
+The command deck smelled like overheated insulation. Someone had left coffee on the rail and forgotten it. Calder noticed that before he noticed the red boards—people had still been living here minutes ago.
+
+No one called it triage. The ship taught you an order anyway: keep power, keep air, then try to hear the outside world, then remember where you were, then worry about going anywhere.
+
+Brenner's voice came from aft first—not a report, a palm slapped against metal. Once. Twice farther forward. Calder heard it through the frame the way you heard a friend knock on a door you didn't know you'd been afraid to open.
+
+"Manual tie holding," Koss said. "Auxiliary's flickering but it's *on*. Brenner—"
+
+"Don't tell me it's fine." Brenner's breath hit the comm like he was still moving. "Tell me it's *on*."
+
+"It's on."
+
+For four seconds no one spoke. No one asked for a second confirmation. Koss did not repeat the readout. Brenner did not slap the hull again. The vent hum carried the deck while nobody trusted it enough to name what had just happened.
+
+Walsh on wired comm from medical, clipped: "Pressure holding. Air mix nominal. Thermal's wobbling but we're not cooking. Injury count holding."
+
+No one answered Walsh. The vent hum filled the gap where confirmation used to live.
+
+Thessaly had started to assign stations—life support first, hardline only—and stopped mid-sentence. She looked at the deck the way Calder had looked at the coffee: people still in it, still breathing, no voice from outside to confirm any of it.
+
+She looked at Calder once—confirmation sought, not permission. "Life support first. Park, hardline only. Reyes, don't force the display. Halden—"
+
+Halden's fingers had kept moving across tactical keys after the pane went empty. She stopped. Looked at her hands. Set them flat on the console rim and did not reach for the next assumption.
+
+"Copy," she said.
+
+Park keyed relay listen. Static. He keyed it again. Static again, same flat line, worse than before. Cole had already run a hardline to his station; Park's other hand found the cable and held it without transmitting anything.
+
+He sat like that for three breaths.
+
+Calder watched him not call out. Watched Cole watch Park. No one rushed him.
+
+Park's eyes stayed on the channel longer than duty required. When he moved again, it was slow.
+
+Then he exhaled through his nose and picked up the strip log. "I'll try burst on auxiliary when Brenner gives me a watt," he said. Voice rough. Functional again. "Not yet."
+
+Reyes had both palms on the nav cradle now, forehead near the dead display. Tanaka leaned in from secondary nav—close, not touching—and waited.
+
+"Last good fix is still in the buffer," Tanaka said quietly.
+
+"I know what's in the buffer." Reyes did not lift his head. "I don't have sky."
+
+He kept his hands on the cradle anyway.
+
+Okwelu passed Calder once, checked his eyes, moved on. No speech. That was enough.
+
+Hale wrapped a burn on her forearm with a strip Walsh had left on the defensive console—routine care in a non-routine silence because routine was how hands stayed useful.
+
+Koss again: "Propulsion's complaining. We're not going anywhere on main. That's last on my list and it's staying there."
+
+Brenner, through the hull: "Good. Don't touch propulsion. Touch ring three and leave me alone."
+
+Calder stood at the rail because sitting felt like agreeing the ship was finished. Thessaly had a cut above her eyebrow he had not seen her earn. Hale's defensive board was red more than green. Tanaka worked from memory on a slate that had lost its colors.
+
+Halden spoke without looking up from the empty tactical pane. "If we had fired that on purpose, it still wouldn't have worked."
+
+No one answered. The sentence sat with them like a tool they might need later and could not pick up yet.
+
+Brenner came through the aft hatch, grease on his forearm. He stopped in the hatch frame and put his shoulder against the jamb—weight on metal, checking it the way you checked a friend who'd taken a hit.
+
+"Probes did that," he said.
+
+Not pride. Not plan.
+
+Calder: "We didn't call launch."
+
+Brenner stood in the hatch frame a moment longer than he needed to. "Something did." He rubbed his face with the back of his wrist. Shook his head. "Don't ask me to be grateful yet."
+
+Halden looked at Calder without turning fully around. "If they hadn't—"
+
+She did not finish. She did not need to. The *if* hung in the air with the smell of overheated insulation and coffee that had gone cold hours ago.
+
+Park keyed relay listen one more time out of habit. Static. He held the key down a second longer than procedure allowed, then let go.
+
+Nothing answered. Not Fleet. Not Cartography. Not the routine ping that meant someone else was keeping watch.
+
+Park lowered the headset to his neck and stared at the cable in his hand.
+
+He started to say something to Cole—stopped. Started again. Nothing came out that sounded like procedure.
+
+"...Nobody's relieving us from orbit," he said. Almost to himself.
+
+Thessaly glanced at him. Did not comment. The line hung for a beat and dissolved into the vent hum.
+
+Park's hand trembled once before he picked up the pen. Park wrote logs in clean sentences. What came next wasn't one.
+
+"I don't know what to log." He stared at the strip. "Did the ship just defend itself with probes? What the hell—probes? I don't know what to log. Should I log this? I mean—the ship—damn."
+
+Thessaly: "Log that."
+
+He wrote on a strip by hand.
+
+Ortega kept rubbing her eye. She did not add anything to the exchange.
+
+Reyes, without looking up—still hadn't lifted his head from the cradle: "Unfortunately."
+
+Brenner made a sound that might have been agreement or might have been the start of a curse he swallowed.
+
+"If anyone asks," Brenner said, "I was nowhere near that."
+
+No one laughed. Brenner didn't either. Hale was still wrapping the burn strip, half a turn behind the rest of them. Ortega kept blinking against the afterimage on her feed. The deck kept its wrong rhythm under their feet.
+
+Thessaly crossed to Calder without ceremony. "Injury list is short. Cohesion is not."
+
+He looked at her. She did not explain cohesion. She did not need to.
+
+Halden finally turned from the empty tactical pane. "No one's answering."
+
+Park's jaw tightened. He did not reach for the headset.
+
+"If anyone's looking—" Halden started.
+
+"—they're not looking here," Park said, flat, before she finished.
+
+Calder listened. No one stepped in to soften that. No one offered a correction from command net, from relay weather, from any voice that used to mean the outside world was still organized.
+
+Calder sighed deeply. "Fleet's not talking." A beat. "Let's get the Veil up and running. You all know what to do."
+
+Brenner was already moving in the aft pass-through before Calder finished. Halden had not looked up from the empty pane. Park tried burst on auxiliary—three seconds of carrier, then nothing. He did not try a fourth time. He stayed at the board anyway, pen capped, not ready yet.
+
+Koss on wired comm from aft: "Hull's complaining. That's the whole report until Brenner says otherwise."
+
+Metal on metal from the ring passage—Brenner, moving, not answering in words.
+
+Calder walked to the viewport. Stars for human eyes. The nav pane beside him showed nothing Reyes could use.
+
+The *Veil* drifted on whatever the hull still remembered how to do. Reyes held the nav cradle with his palm flat on empty display the way you held a railing in dark corridor.
+
+Tanaka asked Reyes a question in a voice too low for Calder to catch. Reyes answered with a head shake and kept his palm on the cradle.
+
+Calder looked back at the deck—not at boards, at people. Hale at defensive with burned forearm and steady posture. Ortega blinking against ghosts on a feed that would not refresh. Halden with empty tactical and full discipline. Park with headset down and strip log in hand. Brenner still in the hatch, shoulder on metal. Thessaly with blood dried above one brow, already watching the next person who might need anchoring.
+
+Command was still his chair. Certainty was not.
+
+Calder stayed at the glass. The lighting on the deck had not changed—steady wash, wrong after what they'd taken. Air kept moving through the vents like nothing had happened.
+
+The stars his eyes could count did not match anything the ship could still argue about. Calder's legs felt heavy. Adrenaline had spent itself; the work had not.
+
+No one had been told to stop. No one stopped.
+
+The hull kept vibrating wrong. The vent hum kept going.
+
+---

@@ -2,7 +2,7 @@
 
 Senior crew pairwise dynamics. Trust levels: **High / Solid / Professional / Developing / Strained**.
 
-Book One baseline (post-Chapter 5): cohesion **strained**; no pair at **Strained** interpersonally—strain is systemic, not personal.
+Book One baseline (post–Chapter 5 / pre–Act II rewrite): cohesion **high under contact strain** at Act I end; crew **presumed lost with vessel**. Matrix reflects **Ch. 1–5 living crew** until Ch. 6+ revival re-establishes dynamics.
 
 ---
 

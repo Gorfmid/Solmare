@@ -298,13 +298,15 @@ He turned the page.
 
 Registry: **Kestrel Veil**.
 
+The name was familiar. That it was his was not.
+
 The hall did not go silent all at once. Silence moved like a wave—first the graduates nearest him, then the rows behind, then the instructors' section where someone said, too clearly, "You're kidding."
 
 Another voice: "She's still in service?"
 
 A third, softer: "I thought they finally retired her."
 
-Calder read the berth number. Helion Prime outer yards. Fourteen-C. Standard reconnaissance mandate. Green indicators on readiness charts he had not yet opened.
+Calder read his assigned berth number. Helion Prime outer yards. Fourteen-C. Standard reconnaissance mandate. Green indicators on readiness charts he had not yet opened.
 
 Scout was not the assignment cadets whispered about in the lounge. It was also not the assignment this room had been congratulating him for last night.
 

@@ -1,30 +1,39 @@
-﻿# CENTRAL MYSTERY (BOOK ONE)
+﻿# CENTRAL NARRATIVE SPINE (BOOK ONE)
 
-> **Rewrite frame:** Book One carries **two** pressure layers—(1) **external war** (Collectives buildup; Maris's missed warning in Ch. 1) and (2) **Solmare inconsistency** below. See `book1_core_premise.md`.
+> **4-act frame:** See `book1_core_premise.md`. Book One escalates **understanding** of a **structured opposing presence** — not mystery-anomaly accumulation.
 
-## Working Hypothesis
-The galaxy’s navigation and sensor systems are not malfunctioning—they are being altered.
+## Working Hypothesis (Post–Incident)
+The border holds an **organized opposing force** operating with doctrine, stealth, and strategic intent — not random anomaly events.
 
-## Symptoms
-- Conflicting telemetry from identical locations
-- Time-displaced event logs
-- Systems reporting mutually exclusive truths
+## Symptoms (Operational — Ch. 5+)
+- Incomplete sensor truth under contact
+- Cloaking failure under sustained passive observation
+- Structured movement and response patterns beyond Fleet patrol doctrine
+- Comms and relay degradation under **opposition**, not system mystery
 
 ## Core Question
-Is this a natural anomaly, enemy interference, or a systemic collapse of reality mapping?
+What is the opposing force — and can the Fleet Authority form doctrine before the border becomes a war?
 
 ## Narrative Function
 Every chapter must either:
-- Reinforce normality breaking
-- Introduce contradiction
-- Escalate uncertainty
+- Advance **understanding** of structured opposition
+- Escalate **operational** pressure on crew or Fleet
+- Deepen **institutional** response (Cartography relay chain, Fleet Command, ROE)
+
+**Not required:** anomaly-log mystery beats; reality-fracture setpieces; episodic contact without accumulation.
 
 ---
 
 ## Resolution Boundaries (Book One Finale)
 
-**Must resolve by end of Book One:** what the anomaly does; how to survive it; that Fleet concealed parts of it.
+**Must resolve by Ch. 24:** structured opposing force acknowledged at strategic level; Fleet doctrine shift; Incident + border intelligence synthesized into actionable record.
 
-**Must remain open after Book One:** origin; intent; whether Solmare is unique; whether similar regions exist elsewhere.
+**May remain open:** full enemy intent; Collectives war timeline; series-scale cosmology.
 
 Full doctrine: `../../../Writing_System/Series_Principles/series_principles.md`
+
+---
+
+## Legacy Note
+
+Prior *Solmare inconsistency / Signal Deviation* spine as **central Book One hook** is superseded. Residual sensor ambiguity remains a **contact doctrine** tool (Ch. 5–8 precedent), not the book's architectural center.

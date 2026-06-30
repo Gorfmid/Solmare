@@ -5,7 +5,8 @@ This document defines how every chapter in Book One is generated from structured
 
 No chapter may be written without conforming to this specification.
 
-**Always load first:** `Writing_System/Style_Guide/global_writing_principles.md`
+**Always load first:** `Writing_System/Style_Guide/global_writing_principles.md`  
+**Chapter length:** `Writing_System/Style_Guide/chapter_length_principle.md` (dynamic model — no fixed word targets)
 
 When generating **Chapter 1**, also load and obey:
 
@@ -82,30 +83,31 @@ No chapter may end in the same state it began.
 
 All chapters also require `Writing_System/Style_Guide/global_writing_principles.md`.
 
-When generating **Chapters 6–11**, also load and obey:
+**Book One 4-act architecture** (canonical): Act I Ch. 1–4 · Act II Ch. 5–8 (Incident) · Act III Ch. 9–16 · Act IV Ch. 17–24. See `Books/Book_01_The_Kestrel_Veil_Incident/Act_Outlines/chapter_list.md`.
 
-* `Books/Book_01_The_Kestrel_Veil_Incident/Act_Outlines/act2_chapters_6-11_generation.md`
-* `Writing_System/Style_Guide/the_70_30_rule.md`
+When generating **Chapters 5–8** (Act II — Incident arc, **LOCKED**), reference:
 
-Act II shifts narrative priority from anomaly discovery to **crew problem-solving under contradictory conditions**. Ch. 10 ends Running Dark; Ch. 11 opens with weapons lock.
+* `Books/Book_01_The_Kestrel_Veil_Incident/Act_Outlines/act2_chapters_5-8_generation.md`
 
-When generating **Chapters 12–18**, also load and obey:
+Do not regenerate locked Incident prose without explicit author request.
 
-* `Books/Book_01_The_Kestrel_Veil_Incident/Act_Outlines/act3_chapters_12-18_generation.md`
+When generating **Chapters 9–16** (Act III — Shadows Beyond the Border), also load and obey:
+
+* `Books/Book_01_The_Kestrel_Veil_Incident/Act_Outlines/act3_chapters_9-16_generation.md`
 * `Writing_System/Style_Guide/the_70_30_rule.md`
 * `Writing_System/Series_Principles/series_principles.md` (withhold rules)
 
-Act III deepens uncertainty—not bigger spectacle. Ch. 12 = quiet aftermath post-Ch. 11. Damage persists. Human victory + cost every chapter.
+Act III = border intelligence arc — discovery of structured opposing civilization. Not legacy anomaly/Fold arc.
 
-When generating **Chapters 19–24**, also load and obey:
+When generating **Chapters 17–24** (Act IV — First Doctrine), also load and obey:
 
-* `Books/Book_01_The_Kestrel_Veil_Incident/Act_Outlines/act4_chapters_19-24_generation.md`
+* `Books/Book_01_The_Kestrel_Veil_Incident/Act_Outlines/act4_chapters_17-24_generation.md`
 * `Writing_System/Style_Guide/the_70_30_rule.md`
 * `Writing_System/Series_Principles/series_principles.md` (Book One completion boundaries)
 
-Act IV concludes Book One. Ch. 19 = **10,500–11,500 words** (First Truth payoff). Ch. 20–24 = **5,500–6,000 words each**. Book must fully resolve in Ch. 24.
+Act IV concludes Book One. Ch. 24 (*The Veil Opens*) = doctrine-shift resolution. Length follows narrative function, not quota.
 
-Chapters 1–5 established anomaly rules. Chapters 6+ deepen consequences; do not stack unrelated new anomaly types each chapter.
+Ch. 5–8 (Incident) established contact doctrine. Ch. 9+ escalate **understanding** of structured opposition — not mystery-anomaly accumulation.
 
 ---
 

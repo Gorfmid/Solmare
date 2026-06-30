@@ -1,8 +1,18 @@
-﻿# CHAPTER 11 — THE FIRST ENGAGEMENT (GENERATION DIRECTIVE)
+﻿# CHAPTER 11 — FIRST DOCTRINE CONTACT (GENERATION DIRECTIVE)
+
+> **SUPERSEDED — 2026-06-28**  
+> 4-act architecture: Act II ends Ch. 8; Ch. 11 is now **Silent Crossings** (Act III).  
+> **Use:** `act3_chapters_9-16_generation.md` and `chapter_list.md`.
+
+---
+
+**Legacy directive below — do not generate from.**
 
 **Act II climax.** Closes Act II; launches Act III.
 
-**Related:** `act2_chapters_6-11_generation.md`, `Writing_System/Style_Guide/the_70_30_rule.md`, `Books/Book_01_The_Kestrel_Veil_Incident/Chapters/chapter_10.md` (must connect seamlessly)
+**Related:** `act2_chapters_6-11_generation.md`, `chapter_list.md` (alignment rules), `Writing_System/Style_Guide/the_70_30_rule.md`, `Chapters/chapter_10.md` (must connect seamlessly)
+
+> **Post–Ch. 5 pivot:** First structured engagement under **incomplete sensor truth**. Both sides act on interpretation layers, not merged battlefield clarity. Tactical outcomes depend on **coordination and doctrine**, not firepower dominance.
 
 ---
 
@@ -40,7 +50,7 @@ Do NOT defeat the enemy. Do NOT explain them.
 
 ## Target
 
-~5,000 words. Build pressure gradually. No action for action's sake.
+Length per `chapter_length_principle.md`. Build pressure gradually. No action for action's sake.
 
 ---
 

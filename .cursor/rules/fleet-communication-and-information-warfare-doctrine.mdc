@@ -1,0 +1,59 @@
+---
+description: Fleet communication tiers, sensor reliability, and information warfare doctrine for the Solmare Cycle
+globs: Books/**/*.md,Universe/**/*.md,Characters/**/*.md,Writing_System/**/*.md
+alwaysApply: false
+---
+
+# Fleet Communication, Sensor Integrity & Information Warfare
+
+**Canonical source:** `Universe/Fleet/fleet_communication_sensor_and_information_warfare_doctrine.md`
+
+Reference before scenes involving comms, sensors, intelligence, or command relay. Hard systems layer — not narrative content.
+
+## Core principle
+
+> **INFORMATION IS A BATTLEFIELD.** Engagements are simultaneous physical and information conflicts.
+
+## Communication tiers
+
+1. **Local ship networks** — fastest; vulnerable to internal sabotage/compartment loss
+2. **Task group relays** — tactical; jamming/degradation under combat
+3. **Long-range Fleet network** — strategic; light-speed delay; outdated in active combat
+4. **Official archival channels** — slowest; authoritative in peacetime; vulnerable in crisis
+
+## Sensor states (never absolute)
+
+confirmed · probable · degraded · corrupted · contradictory
+
+Conflicting "true" readings are a known Fleet condition.
+
+## Information warfare
+
+- **Jamming** — delay, packet loss, local decision-making
+- **Deception** — false echoes, ghost signatures
+- **Signal lag exploitation** — observation → transmission → execution gap
+- **Data poisoning** — corrupted intel passing first verification
+
+## Command rules
+
+- No single sensor or comm stream is fully reliable during uncertainty
+- **Local command supersedes delayed external command**
+- **Preserve contradictions** — treat as operational signal, not error
+
+## Failure modes
+
+Partial loss · temporal desync · selective silence · false confirmation loops
+
+## Narrative rule
+
+Reflect uncertainty, delay, partial knowledge. Captains lack full situational awareness. Intentional tension.
+
+## Kestrel Veil
+
+Resilient via simpler systems and fast local loops — **not** immune. Strength = interpretive clarity under degraded information.
+
+## Related
+
+- Anomaly stages: `Universe/Observation_Doctrine/anomaly_stage_definition.md`
+- Scout comms protocol: `Universe/Technology/scout_class.md`
+- Governance / command hierarchy: `Universe/Fleet/fleet_authority_governance_and_command_hierarchy.md`

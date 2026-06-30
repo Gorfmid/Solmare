@@ -1,0 +1,50 @@
+---
+description: Fleet crew complements and officer scaling for the Solmare Cycle — authoritative for all ship interior and command scenes
+globs: Books/**/*.md,Universe/**/*.md,Characters/**/*.md,Writing_System/**/*.md
+alwaysApply: false
+---
+
+# Fleet Crew & Officer Canon
+
+**Canonical source:** `Universe/Fleet/fleet_crew_and_officer_canon.md`
+
+Reference before scenes aboard Fleet vessels. Systems rules — not narrative content. **Overrides all previous crew size values.**
+
+## Crew complements (canon)
+
+| Class | Crew |
+|-------|------|
+| Scout | 20 |
+| Corvette | 40 |
+| Destroyer | 80 |
+| Frigate | 150 |
+| Cruiser | 300 |
+| Heavy Cruiser | 600 |
+| Battleship | 2,000 |
+| Fleet Carrier | 3,000 (400 fighters) |
+| Dreadnaught | 8,000 |
+| Titan | 25,000 |
+| Leviathan | 60,000 |
+
+## Design goal
+
+Ships = military ecosystems, **not** cities. Even Leviathans are fleet-defining warships with controlled complements — not population-scale habitats.
+
+## Officer scaling
+
+- **Scout–Frigate:** small centralized command; officers know most crew
+- **Cruiser–HC:** multi-team departments; focus on department heads
+- **Battleship+:** structured hierarchy; narrative follows bridge/CIC/key departments only
+- **Dreadnaught–Leviathan:** multi-department command; comprehensible by narrative focus — boarding targets sections
+
+## Kestrel Veil (Book One)
+
+Fleet standard: **20**. Narrative foregrounds **14** principal personnel — not the full complement.
+
+## Related
+
+- Vessel classes: `Universe/canon_and_world_rules.md`
+- Combat logic: `Universe/fleet_doctrine_and_combat_logic.md`
+- Boarding / internal combat: `Universe/Fleet/boarding_combat_and_internal_ship_geography.md`
+- Comms / sensors / information warfare: `Universe/Fleet/fleet_communication_sensor_and_information_warfare_doctrine.md`
+- Governance / command hierarchy: `Universe/Fleet/fleet_authority_governance_and_command_hierarchy.md`

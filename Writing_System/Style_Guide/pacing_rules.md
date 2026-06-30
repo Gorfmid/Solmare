@@ -2,6 +2,8 @@
 
 **Revision:** When tightening chapters, load `revision_philosophy.md`—strong pacing over completeness.
 
+**Chapter length:** Load `chapter_length_principle.md` — dynamic model; ~4,000–6,000 words typical; no fixed targets; do not pad or compress to meet quotas.
+
 **Emotional pacing:** Vary tone within chapters per `global_writing_principles.md` (*Emotional Layering*). Operational rhythm below governs plot tension; emotional rhythm governs reader investment.
 
 ## CORE PRINCIPLE

@@ -6,8 +6,8 @@ $utf8 = New-Object System.Text.UTF8Encoding $true
 
 $titles = @{
     1="The Empire"; 2="A Captain's Dream"; 3="The Ship That Refuses to Die"; 4="Routine Patrol"
-    5="The First Anomaly"; 6="First Contact"; 7="Ghost Fleet"; 8="Boarding Action"; 9="The Silent War"
-    10="Running Dark"; 11="The First Engagement"; 12="Broken Maps"; 13="Espionage"; 14="Lines of Loyalty"
+    5="Mission's End"; 6="First Contact (Anomaly Site Alpha)"; 7="Ghost Fleet Contact"; 8="The Empty Vessel"; 9="The Silent War"
+    10="Running Dark"; 11="First Doctrine Contact"; 12="Broken Maps"; 13="Espionage"; 14="Lines of Loyalty"
     15="Siege of Korrath"; 16="The Library"; 17="Echoes"; 18="Into the Fold"; 19="First Truth"
     20="Fleet Divided"; 21="Last Transmission"; 22="Battle for Reality"; 23="Dead Reckoning"; 24="The Solmare Quadrant"
 }

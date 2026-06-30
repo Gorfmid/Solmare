@@ -77,6 +77,8 @@ This makes him invaluable for relay disputes, crew mediation, and knowing when s
 
 **Extended family:** Younger cousin **Min Park**, whom he helped place into fleet technician training—Min is not on *Veil*; Jun checks in anyway.
 
+**Childhood friend:** **Dana Holt** (Cartography, Kestran VI-Gamma watchpost)—Helion Prime outer-district; loose touch; messaged Jun when he joined *Veil* (Book One Ch. 6). Not romantic; lifelong anchor friendship.
+
 **Hobbies:** Cooks adjustments to standard galley output ("L-3 seasoning"). Keeps a private log of crew food preferences he will never show anyone.
 
 **Philosophy:** Observant tradition from home—attention as practice. People are signals worth decoding.
@@ -216,3 +218,27 @@ Applies to signals and to secrets. Park will log Calder's withheld transmissions
 Park represents:
 
 > The information that never makes it into the log—but still changes outcomes.
+
+---
+
+## CH. 7 CANON (LOCKED)
+
+- Leads internal comms restoration; handwritten strip log during buffer distrust
+- **Short-range fringe to VI-Gamma only**—no direct Fleet handshake from hull
+- First survival signal relayed **through Holt** to Fleet Operations
+- Personal segregated fringe lane to Dana Holt (*You idiot* / *I know*)
+- All Fleet traffic routes VI-Gamma ↔ *Veil* (Rowan orders hold until further notice)
+- Halden snaps at him over relay delay; neither discusses
+- Emotional restraint; no resolution—returns to queue
+
+---
+
+## CH. 8 CANON (LOCKED)
+
+- VI-Gamma approach comms via Holt relay; tests collar amplifier hourly (*readable*, never *good*)
+- **Park/Dana emotional center:** unsent messages (both directions); Dana watched void; Park logging uncertainty; *alive* beside void, not fixing it
+- Last warm exchange with Holt at fringe edge: *Don't be an idiot* / *Try harder*
+- Logs out of VI-Gamma relay range; upstream path empty; learns silence discipline on approach
+- Nothing to say on bridge when transmission would be dangerous—cost visible to Calder
+
+---

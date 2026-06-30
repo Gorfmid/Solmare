@@ -2,6 +2,17 @@
 
 Shared Solmare canon: cosmology, factions, technology, geography, and observation doctrine.
 
+## Authoritative reference
+
+| Document | Purpose |
+|----------|---------|
+| **`canon_and_world_rules.md`** | Fleet vessel class hierarchy, weapons by class, design philosophy |
+| **`fleet_doctrine_and_combat_logic.md`** | How space combat functions — role matchups, battle outcome logic, narrative integration rules. Reference before battle scenes. |
+| **`Fleet/fleet_crew_and_officer_canon.md`** | Crew complements and officer scaling by vessel class. Reference before ship interior and command scenes. |
+| **`Fleet/boarding_combat_and_internal_ship_geography.md`** | Internal ship layers, boarding phases, compartment rules. Reference before boarding and internal combat scenes. |
+| **`Fleet/fleet_communication_sensor_and_information_warfare_doctrine.md`** | Communication tiers, sensor reliability, information warfare. Reference before comms, sensor, and intelligence scenes. |
+| **`Fleet/fleet_authority_governance_and_command_hierarchy.md`** | Political structure, command hierarchy, operational governance. Reference before authority, political, and command scenes. |
+
 ## Subfolders
 
 | Folder | Contents |

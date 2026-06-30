@@ -1,0 +1,49 @@
+---
+description: Authoritative canon and world rules for the Solmare Cycle — fleet vessel classes, design philosophy, tactical consistency
+globs: Books/**/*.md,Universe/**/*.md,Writing_System/**/*.md
+alwaysApply: false
+---
+
+# Canon & World Rules
+
+**Canonical source:** `Universe/canon_and_world_rules.md`
+
+Reference this document before generating or editing any chapter content. It is a strict consistency layer — not narrative content.
+
+## Authority
+
+- This file overrides contradictory earlier draft descriptions
+- Deviations require explicit in-story justification (prototype, malfunction, historical artifact, unknown technology)
+
+## Fleet vessel class system (summary)
+
+Combat hierarchy (smallest → largest): **Fighters → Ion Fighters → Corvettes → Frigates → Cruisers → Heavy Cruisers → Battleships → Dreadnaughts → Titans → Leviathans**, plus **Fleet Carriers** (battleship-sized, fighter deployment).
+
+| Class | Primary weapon | Key role |
+|-------|----------------|----------|
+| Fighters | Lasers | Dogfighting, escort |
+| Ion Fighters | Ion cannons | Anti-battleship; swarms vs titans/leviathans |
+| Corvettes | Lasers | Anti-frigate, fast intercept |
+| Frigates | Missiles | Anti-cruiser harassment, screening |
+| Cruisers | Plasma | Anti-battleship; first shield class |
+| Heavy Cruisers | Plasma (enhanced) | Anti-battleship/dreadnaught |
+| Battleships | Ion | Anti-dreadnaught/titan; weak vs fighters alone |
+| Dreadnaughts | Photon | Fortress defense; anti-frigate/fighter swarms |
+| Titans | Disruptors | Anti-capital dominance |
+| Leviathans | Photon | Strategic fleet annihilation |
+| Fleet Carriers | Defensive only | ~400 fighters, air superiority |
+
+## Tactical rules
+
+- Use class roles consistently in battle descriptions
+- Outcomes depend on role advantage, composition, and positioning — not size alone
+- Do not blur class roles unless vessel is experimental or damaged
+
+## Related
+
+- Scout-Class vessels (`Universe/Technology/scout_class.md`) are a **mission designation**, not a combat class in this hierarchy
+- Combat behavior and battle scenes: `Universe/fleet_doctrine_and_combat_logic.md`
+- Crew complements: `Universe/Fleet/fleet_crew_and_officer_canon.md`
+- Boarding / internal combat: `Universe/Fleet/boarding_combat_and_internal_ship_geography.md`
+- Comms / sensors / information warfare: `Universe/Fleet/fleet_communication_sensor_and_information_warfare_doctrine.md`
+- Governance / command hierarchy: `Universe/Fleet/fleet_authority_governance_and_command_hierarchy.md`

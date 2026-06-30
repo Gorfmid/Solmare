@@ -1,24 +1,29 @@
 ﻿# Book One — The Kestrel Veil Incident
 
 **Series:** The Solmare Cycle  
-**Status:** **Rewrite in progress** — see `Notes/book1_core_premise.md` and `Notes/REWRITE_STATUS.md`
+**Status:** Ch. 1–8 **LOCKED** · Ch. 9–24 shells · **4-act architecture** (2026-06-28)
 
-- **Complete:** Ch. 1 (*The Empire*)
-- **To write:** Ch. 2–4
-- **Draft / revise:** Ch. 5–24 (legacy anomaly-first material)
+See `Notes/book1_core_premise.md` and `Notes/REWRITE_STATUS.md`.
+
+## 4-Act Structure
+
+| Act | Chapters | Arc |
+|-----|----------|-----|
+| I — Routine Patrol | 1–4 | ✓ Complete |
+| II — The Kestrel Veil Incident | 5–8 | ✓ **LOCKED** |
+| III — Shadows Beyond the Border | 9–16 | Shell |
+| IV — First Doctrine | 17–24 | Shell |
 
 ## Folders
 
 | Folder | Contents |
 |--------|----------|
 | `Chapters/` | Chapter prose (`chapter_1.md` … `chapter_24.md`) |
-| `Manuscript/` | Master Markdown, DOCX, EPUB, build script |
-| `Act_Outlines/` | Act generation directives, chapter list |
-| `Books/Book_01_The_Kestrel_Veil_Incident/State/` | Book runtime state (`current_state.md`, chapter logs) |
-| `Notes/` | Book One premise, outline, mystery spine, ship instance notes |
-| `Writing_System/Style_Guide/revision_philosophy.md` | Revision discipline (repo root) |
-| `Cover/` | Cover placeholder (`cover.svg`) |
-| `Archive/` | Reserved for deprecated or superseded Book One material |
+| `Manuscript/` | Master Markdown, build script |
+| `Act_Outlines/` | 4-act generation directives, `chapter_list.md` |
+| `State/` | Runtime state (`current_state.md`, chapter logs) |
+| `Notes/` | Premise, outline, narrative spine, rewrite status |
+| `Cover/` | Cover placeholder |
 
 ## Shared canon
 

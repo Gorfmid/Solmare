@@ -108,10 +108,9 @@ Read:
 * `Books/Book_01_The_Kestrel_Veil_Incident/Notes/chapter_skeleton.md`
 * `Books/Book_01_The_Kestrel_Veil_Incident/Notes/book1_core_premise.md`
 * `Books/Book_01_The_Kestrel_Veil_Incident/Notes/mystery_spine.md`
-* `Books/Book_01_The_Kestrel_Veil_Incident/Act_Outlines/act2_chapters_6-11_generation.md` (required for Chapters 6–11)
-* `Books/Book_01_The_Kestrel_Veil_Incident/Act_Outlines/act3_chapters_12-18_generation.md` (required for Chapters 12–18)
-* `Books/Book_01_The_Kestrel_Veil_Incident/Act_Outlines/act4_chapters_19-24_generation.md` (required for Chapters 19–24)
-* `Books/Book_01_The_Kestrel_Veil_Incident/Act_Outlines/chapter_11_generation_directive.md` (required for Chapter 11)
+* `Books/Book_01_The_Kestrel_Veil_Incident/Act_Outlines/act2_chapters_5-8_generation.md` (Act II — Ch. 5–8 Incident; locked)
+* `Books/Book_01_The_Kestrel_Veil_Incident/Act_Outlines/act3_chapters_9-16_generation.md` (Act III — Ch. 9–16)
+* `Books/Book_01_The_Kestrel_Veil_Incident/Act_Outlines/act4_chapters_17-24_generation.md` (Act IV — Ch. 17–24)
 * `Writing_System/Style_Guide/global_writing_principles.md` (required for all chapters)
 * `Writing_System/Style_Guide/the_70_30_rule.md` (required for Chapters 6+)
 * `Writing_System/Series_Principles/series_principles.md`

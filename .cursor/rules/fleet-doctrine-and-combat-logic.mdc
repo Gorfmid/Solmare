@@ -1,0 +1,49 @@
+---
+description: Authoritative fleet doctrine and combat logic for the Solmare Cycle — battle scenes, role matchups, outcome rules, Kestrel Veil constraints
+globs: Books/**/*.md,Universe/**/*.md,Writing_System/**/*.md
+alwaysApply: false
+---
+
+# Fleet Doctrine & Combat Logic
+
+**Canonical source:** `Universe/fleet_doctrine_and_combat_logic.md`
+
+Reference this document before writing or editing any battle scene. Systems rules layer — not narrative content.
+
+**Also load:** `Universe/canon_and_world_rules.md` for vessel class specifications.
+
+## Core principle
+
+Combat is determined by **role advantage**, **fleet composition**, and **positioning/initiative** — not raw firepower, size, or tech alone.
+
+## Warfare layers
+
+| Layer | Classes | Function |
+|-------|---------|----------|
+| Light | Fighters, Ion Fighters, Corvettes | Harassment, screening, swarm pressure |
+| Line | Frigates, Cruisers | Engagement line; missiles vs capital; plasma vs frigates |
+| Capital | Heavy Cruisers, Battleships | Fleet anchors; HC flexible vs mixed fleets; BB weak vs fighters alone |
+| Strategic | Dreadnaughts, Titans, Leviathans, Fleet Carriers | Zone control; smaller fleets react, not engage head-on |
+
+## Combat behavior (summary)
+
+- **Rule A:** Ships win by role deployment, not size
+- **Rule B:** Capital ships require fighter screen, sensors, coordination
+- **Rule C:** Fighters are force multipliers, not war-winners alone
+- **Rule D:** Targeting data is a weapon
+- **Rule E:** Range favors corvettes/fighters (close), cruisers (mid), dreadnaughts+ (long)
+
+## Battle outcomes
+
+Must reflect composition, positioning, information, coordination, and attrition — never single-ship superiority or tonnage logic.
+
+## Kestrel Veil
+
+Scout-Class — **not** combat dominant. Survives via speed, evasion, environment, crew ingenuity, enemy miscalculation. Doctrine-breaking outcomes under stress, not hidden battleship capability.
+
+## Related
+
+- Crew complements: `Universe/Fleet/fleet_crew_and_officer_canon.md`
+- Boarding / internal combat: `Universe/Fleet/boarding_combat_and_internal_ship_geography.md`
+- Comms / sensors / information warfare: `Universe/Fleet/fleet_communication_sensor_and_information_warfare_doctrine.md`
+- Governance / command hierarchy: `Universe/Fleet/fleet_authority_governance_and_command_hierarchy.md`

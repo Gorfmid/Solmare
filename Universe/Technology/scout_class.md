@@ -43,7 +43,7 @@ Every design decision favors:
 
 ### Standard Crew Complement
 
-12–18 personnel
+20 personnel (Fleet standard — see `Universe/Fleet/fleet_crew_and_officer_canon.md`)
 
 ### Required Positions
 
@@ -157,6 +157,8 @@ Mission success is measured by the quality of information returned—not territo
 ## Communication Protocol
 
 Scout operations assume communications may degrade.
+
+**Fleet doctrine:** `Universe/Fleet/fleet_communication_sensor_and_information_warfare_doctrine.md`
 
 Therefore:
 

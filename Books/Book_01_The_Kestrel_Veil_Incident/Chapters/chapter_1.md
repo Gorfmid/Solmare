@@ -166,7 +166,7 @@ Calder waited for the compliment to land and felt, inconveniently, that a desk m
 
 Calder nodded. He believed in procedures. Ceremonies were procedures with music. So were ships, if you respected them. So was keeping Lisette from worrying.
 
-He did not think about the *Kestrel Veil* by name—scout-class, aging, the kind of assignment classmates mentioned with sympathetic jokes. He thought about the checklist for graduation day, the message owed to Lisette before Founders' Week peaked, and the pre-digital almanac on his shelf he had opened last night out of habit, not superstition. Old routes. Known solutions. He liked known solutions because unknown ones had already taken enough from him.
+He did not think about the *Kestrel Veil* as his hull—only as dockyard folklore, if he thought about her at all. Scout-class postings were aging, the kind of assignment classmates mentioned with sympathetic jokes. He thought about the checklist for graduation day, the message owed to Lisette before Founders' Week peaked, and the pre-digital almanac on his shelf he had opened last night out of habit, not superstition. Old routes. Known solutions. He liked known solutions because unknown ones had already taken enough from him.
 
 At the terrace rail, he watched the Second Sunrise pulse beyond the glass and felt, for half a breath, the childish awe he had trained himself to file under *industrial output*. Then he checked tomorrow's schedule again because checking twice was how you kept errors from becoming tragedies—and because Lisette deserved at least one person in her life who verified things before they went wrong.
 

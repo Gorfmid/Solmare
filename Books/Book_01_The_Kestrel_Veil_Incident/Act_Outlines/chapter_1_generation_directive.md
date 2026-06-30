@@ -4,7 +4,7 @@
 
 ## Target Length
 
-**5,000–7,500 words** — more if needed.
+See `Writing_System/Style_Guide/chapter_length_principle.md` — dynamic model (~4,000–6,000 typical; extend if material requires).
 
 **Style authority:** `Writing_System/Style_Guide/global_writing_principles.md`  
 **Revision authority:** `Writing_System/Style_Guide/revision_philosophy.md`

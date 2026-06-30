@@ -8,5 +8,6 @@ Reusable character profiles for The Solmare Cycle.
 |--------|----------|
 | `Primary_Crew/` | Senior officers, ensemble design, crew culture |
 | `Support_Crew/` | Recurring enlisted and department heads |
-| `Recurring/` | Steve, Maris Chen (Ch. 1), and other recurring figures |
+| `Recurring/` | Steve, Maris Chen (Ch. 1), **Dana Holt / Priya Nand (Ch. 6–7 watchpost)**, **Fleet Command: Rowan / Sato / Mercer (Ch. 7+)**, and other recurring figures |
+| `Antagonists/` | Opposing-empire command and adversary figures (e.g. Commander Vex) |
 | `Relationship_Matrix/` | Pairwise dynamics |

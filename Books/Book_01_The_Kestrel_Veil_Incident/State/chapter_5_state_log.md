@@ -1,40 +1,33 @@
-# CHAPTER 5 STATE LOG — THE FIRST ANOMALY
+# CHAPTER 5 STATE LOG — MISSION'S END
 
-**Note:** Merged chapter incorporating former Chapters 1–5 (Verification Run through KR-13 transit / relay loss).
+**Rewrite continuity.** **Act II opening chapter** (Act I ends Ch. 4).
 
 ## PRE STATE
-Pre-departure at Helion Prime berth 14-C. Anomaly absent. Full nominal systems. Routine reconnaissance mission 4471-S.
+Post–Chapter 4: Outer Kestran Spiral patrol; relay rendezvous logged; mapping sweep active.
 
-## EVENTS (condensed arc)
-1. Departure Helion Prime → L-3 → Theta-7
-2. Dual positional fix on SO-M4; recalibration failed; command confirmation third coordinate
-3. Local verification protocol; SDE-1 report; duplicate acks; relay echo; non-responsive fleet directives
-4. Hold at Theta-7; interior transit to Korrath fringe
-5. Star field mismatch; simultaneous opposing fleet directives; engineering log discrepancy
-6. KR-12 mapping contradiction; four segregated buffers; partial sweep
-7. Relay degradation; Calder authorized KR-13 transit on primary-array authority without fleet confirm
-8. Jump executed; relay contact lost at 2231
+## EVENTS
+1. Partial contact bearing 214 mark 6; extended tracking cycles; probe deployed and lost
+2. **Enemy intercut (pre-probe):** passive monitor of scout; sense-of-presence assessment; no engagement; masking margin adjusted
+3. Composite lock; scale revelation; full-resolution hold with strain cycles
+4. **Kestrel passive lock confirmed** (all channels)
+5. **Enemy intercut (climax):** passive lock triggers photon cannon discharge at scout
+6. **Kestrel return:** contact decloaks; photon inbound; defensive suite ineffective; crew death beats; systems collapse; **reader belief: *Veil* destroyed**
+7. **Enemy debrief (Vex):** cloaking failed under scout passive observation; scout destroyed; withdraw; rebuild field; Leviathan envelope must maintain
 
-## STATE DELTA (full arc)
-- sensor_reliability: high → low
-- system_status: nominal → degraded (relay lost)
-- mission_clarity: high → low
-- command_confidence: high → superseded (observational authority active)
-- orders_consistency: consistent → inconsistent
-- anomaly_present: false → true
-- anomaly_stage: 0 → 3
-- anomaly_effect_type: none → spatial_mapping_contradiction; recursive_log_conflict
-- anomaly_conflict_level: none → medium
-- stress (Captain): low → high
-- stress (Navigator): low → medium-high
-- stress (Comms): low → high
-- cohesion: stable → strained
-- confirmed_facts: full Signal Deviation arc through KR-13 isolation (see chapter Section 6)
-- location: Helion Prime → KR-13 exit coordinates
-- mission_status: pre-departure → isolated at KR-13; observational authority protocol
+## STATE DELTA
+- **contact_status:** partial → locked → decloaked → fired upon
+- ***Kestrel Veil* status:** active → **believed destroyed** (Act II opens; Fleet unaware until Ch. 7)
+- **enemy_status:** exposed under passive lock; engagement recorded internally; withdraw ordered
 
 ## POST STATE
-KR-13; relay lost; system degraded; anomaly_stage 3; observational authority active. **Act II entry point (Ch. 6).**
+**Veil:** presumed destroyed at Kestran Spiral bearing 214 mark 6. **Act II begins** (Incident arc).
 
-## VALIDATOR RESULT
-**✔ PASS** — Structural merge complete. Former per-chapter state logs (1–4) superseded by this consolidated log.
+**Enemy:** Commander Vex; Leviathan; field rebuild ordered; scout unacknowledged in official posture implied.
+
+## POV STRUCTURE
+1. Kestrel Veil (primary)
+2. Unknown vessel watch state (pre-probe monitor + climax fire)
+3. Enemy command debrief (Vex)
+
+## REGENERATION
+None required unless revision pass requested.
