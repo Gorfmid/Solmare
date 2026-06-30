@@ -124,6 +124,7 @@ function Convert-ArchiveInterlude {
         if ($line -match '^\*\*Historical Office band:\*\*') { break }
         if ($line -match '^\*Filed for exhibit') { break }
         if ($line -match '^\*Production metadata') { break }
+        if ($line -match '^---\s*$') { continue }
 
         if (-not $skipTitle -and $line -match '^#\s*ARCHIVE') {
             $skipTitle = $true
@@ -191,6 +192,7 @@ function Append-ArchiveInterludes {
             Words = $words
         }) | Out-Null
         [void]$Builder.Append("`n`n\newpage`n`n")
+        [void]$Builder.Append("# Archive {.archive-interlude}`n`n")
         [void]$Builder.Append($converted)
         Write-Host "Included archive $($item.ref) after $AnchorKey : $archiveFile ($words words)"
     }
@@ -198,7 +200,36 @@ function Append-ArchiveInterludes {
 
 function Test-PovMarkerLine {
     param([string]$Line)
-    return $Line -match '\*\*.*\bPOV\b' -or $Line -match '^\*\*PART\s+\d+'
+    return $Line -match '^\*\*ENEMY POV' -or
+           $Line -match '^\*\*.*\bPOV\b' -or
+           $Line -match '^\*\*PART\s+\d+'
+}
+
+function Test-ProductionMarkerLine {
+    param([string]$Line)
+    $t = $Line.Trim()
+    return $t -match '^(?i)(\*\*)?END CHAPTER \d+(\*\*)?$' -or
+           $t -match '^(?i)(\*\*)?END BOOK ONE(\*\*)?$' -or
+           $t -match '^\*\*KESTREL VEIL\b' -or
+           $t -match '^=== END OF .+ ===$'
+}
+
+function Unwrap-FullLineEmphasis {
+    param([string]$Line)
+    if ($Line -match '^\*(.+)\*$') {
+        return $Matches[1]
+    }
+    return $Line
+}
+
+function Add-SceneBreak {
+    param([System.Collections.Generic.List[string]]$Out)
+    if ($Out.Count -gt 0 -and -not [string]::IsNullOrWhiteSpace($Out[$Out.Count - 1])) {
+        $Out.Add('')
+    }
+    # Never use asterisks here — Pandoc parses them as nested lists inside HTML blocks.
+    $Out.Add('<p align="center" class="scene-break" markdown="0">&#183; &#183; &#183;</p>')
+    $Out.Add('')
 }
 
 function Test-PlaceholderLine {
@@ -234,7 +265,12 @@ function Convert-PublicationBody {
 
         if (Test-MetadataLine -Line $line) { continue }
         if (Test-PlaceholderLine -Line $line) { continue }
-        if ($line.Trim() -eq ([char]0x2766)) { continue }
+        if ($line.Trim() -eq ([char]0x2766)) {
+            if ($out.Count -gt 0) {
+                Add-SceneBreak -Out $out
+            }
+            continue
+        }
 
         if (Test-SectionSixLine -Line $line) {
             $skipStateBlock = $true
@@ -258,18 +294,20 @@ function Convert-PublicationBody {
         }
 
         if (Test-PovMarkerLine -Line $line) {
-            if ($out.Count -gt 0 -and $out[$out.Count - 1] -ne '* * *') {
-                if ($out.Count -gt 0 -and -not [string]::IsNullOrWhiteSpace($out[$out.Count - 1])) {
-                    $out.Add('')
-                }
-                $out.Add('* * *')
-                $out.Add('')
+            if ($out.Count -gt 0) {
+                Add-SceneBreak -Out $out
             }
-            $out.Add($line)
             continue
         }
 
-        $out.Add($line)
+        if (Test-ProductionMarkerLine -Line $line) {
+            if ($line -match 'RESUMED' -and $out.Count -gt 0) {
+                Add-SceneBreak -Out $out
+            }
+            continue
+        }
+
+        $out.Add((Unwrap-FullLineEmphasis -Line $line))
     }
 
     while ($out.Count -gt 0 -and [string]::IsNullOrWhiteSpace($out[$out.Count - 1])) {
@@ -291,15 +329,8 @@ function Format-ChapterOpening {
         [string]$Title,
         [string]$LogoRelativePath
     )
-    return @"
-
-# Chapter $ChapterNum
-
-## $Title
-
-<p align="center"><img src="$LogoRelativePath" alt="Chapter divider" width="180" /></p>
-
-"@
+    $em = [char]0x2014
+    return "`n`n# Chapter $ChapterNum $em $Title {.chapter-opener}`n`n<p align=""center""><img src=""$LogoRelativePath"" alt="""" width=""160"" /></p>`n`n"
 }
 
 function Convert-PublicationChapter {
@@ -414,6 +445,109 @@ function Convert-ChapterContent {
     }
 
     return ($out -join "`n")
+}
+
+function Fix-EmphasisApostrophes {
+    param([string]$Text)
+    # Only single-asterisk emphasis (not **bold**). Apostrophes inside break Pandoc.
+    $pattern = '(?<!\*)\*([^*\r\n]+)\*(?!\*)'
+    $rx = [regex]$pattern
+    return $rx.Replace($Text, {
+        param($m)
+        $inner = $m.Groups[1].Value
+        if ($inner -match "[''\u2019]") {
+            return '_' + $inner + '_'
+        }
+        return $m.Value
+    })
+}
+
+function Convert-FrontMatterSection {
+    param(
+        [string]$Content,
+        [string]$Heading,
+        [string]$CssClass
+    )
+
+    $lines = $Content -split "`r?`n"
+    $title = $null
+    $bodyStart = 0
+
+    for ($i = 0; $i -lt $lines.Count; $i++) {
+        if ($lines[$i] -match '^#\s+') { continue }
+        if ($lines[$i] -match '^##\s+(.+)$') {
+            $title = $Matches[1].Trim()
+            $bodyStart = $i + 1
+            break
+        }
+    }
+
+    if ([string]::IsNullOrWhiteSpace($title)) {
+        $bodyStart = 0
+        for ($i = 0; $i -lt $lines.Count; $i++) {
+            if ($lines[$i] -match '^#\s+') { $bodyStart = $i + 1; break }
+        }
+    }
+
+    while ($bodyStart -lt $lines.Count) {
+        $line = $lines[$bodyStart]
+        if ([string]::IsNullOrWhiteSpace($line) -or $line.Trim() -eq ([char]0x2766) -or $line -match '^---\s*$') {
+            $bodyStart++
+            continue
+        }
+        break
+    }
+
+    $bodyLines = Convert-PublicationBody -Lines $lines[$bodyStart..($lines.Count - 1)]
+    $em = [char]0x2014
+    $header = if ($title) {
+        ('# {0} {1} {2} {{.{3}}}' -f $Heading, $em, $title, $CssClass)
+    } else {
+        ('# {0} {{.{1}}}' -f $Heading, $CssClass)
+    }
+    $body = ($bodyLines -join "`n").TrimEnd()
+    if ([string]::IsNullOrWhiteSpace($body)) { return $header }
+    return "$header`n`n$body"
+}
+
+function Convert-Prologue {
+    param([string]$Content)
+    return Convert-FrontMatterSection -Content $Content -Heading 'Prologue' -CssClass 'prologue'
+}
+
+function Convert-Epilogue {
+    param([string]$Content)
+    return Convert-FrontMatterSection -Content $Content -Heading 'Epilogue' -CssClass 'epilogue'
+}
+
+function Repair-EpubNavigation {
+    param([string]$EpubPath)
+
+    Add-Type -AssemblyName System.IO.Compression
+    Add-Type -AssemblyName System.IO.Compression.FileSystem
+    $zip = [System.IO.Compression.ZipFile]::Open($EpubPath, [System.IO.Compression.ZipArchiveMode]::Update)
+    try {
+        $entry = $zip.GetEntry('EPUB/nav.xhtml')
+        if ($null -eq $entry) { return }
+
+        $reader = New-Object System.IO.StreamReader($entry.Open())
+        $nav = $reader.ReadToEnd()
+        $reader.Close()
+        $entry.Delete()
+
+        $em = [char]0x2014
+        $nav = [regex]::Replace($nav, '<nav epub:type="landmarks"[\s\S]*?</nav>\s*', '')
+        $nav = [regex]::Replace($nav, 'Epilogue[^<]*First Day', "Epilogue $em First Day")
+        $nav = $nav -replace '<h1 id="toc-title">The Kestrel Veil Incident</h1>', '<h1 id="toc-title">Contents</h1>'
+
+        $newEntry = $zip.CreateEntry('EPUB/nav.xhtml')
+        $writer = New-Object System.IO.StreamWriter($newEntry.Open(), [System.Text.UTF8Encoding]::new($false))
+        $writer.Write($nav)
+        $writer.Close()
+    }
+    finally {
+        $zip.Dispose()
+    }
 }
 
 function Ensure-ReferenceDocx {
@@ -580,30 +714,7 @@ description: "Book One of The Solmare Cycle. A scout crew discovers that reality
 
 "@
 
-$frontMatter = @"
-
-\newpage
-
-# THE KESTREL VEIL INCIDENT
-
-## Book One of The Solmare Cycle
-
-**K.W. Abbott**
-
-<p align="center"><img src="assets/cover.png" alt="The Kestrel Veil Incident — Book One cover" width="450" /></p>
-
-*Engines are silent. Duty isn't.*
-
-\newpage
-
-## Contents
-
-*(Table of contents generated in export editions.)*
-
-"@
-
 $sb = New-Object System.Text.StringBuilder
-[void]$sb.Append($frontMatter)
 
 $totalWords = 0
 $chapterStats = @()
@@ -614,10 +725,10 @@ $archiveMap = Get-ArchiveInterludesByAnchor
 $prologueFile = Join-Path $chaptersDir "prologue.md"
 if (Test-Path $prologueFile) {
     $prologueRaw = Get-Content $prologueFile -Raw -Encoding UTF8
-    $prologueWords = ($prologueRaw | Measure-Object -Word).Words
+    $prologueConverted = Convert-Prologue -Content $prologueRaw
+    $prologueWords = ($prologueConverted | Measure-Object -Word).Words
     $totalWords += $prologueWords
-    [void]$sb.Append("`n`n\newpage`n`n")
-    [void]$sb.Append($prologueRaw.TrimEnd())
+    [void]$sb.Append($prologueConverted.TrimEnd())
     Write-Host "Included prologue: $prologueFile ($prologueWords words)"
     Append-ArchiveInterludes -Builder $sb -AnchorKey 'prologue' -ArchiveMap $archiveMap -TotalWords ([ref]$totalWords) -ArchiveStats $archiveStats
 }
@@ -646,14 +757,15 @@ for ($n = 1; $n -le 24; $n++) {
 $epilogueFile = Join-Path $chaptersDir "epilogue.md"
 if (Test-Path $epilogueFile) {
     $epilogueRaw = Get-Content $epilogueFile -Raw -Encoding UTF8
-    $epilogueWords = ($epilogueRaw | Measure-Object -Word).Words
+    $epilogueConverted = Convert-Epilogue -Content $epilogueRaw
+    $epilogueWords = ($epilogueConverted | Measure-Object -Word).Words
     $totalWords += $epilogueWords
     [void]$sb.Append("`n`n\newpage`n`n")
-    [void]$sb.Append($epilogueRaw.TrimEnd())
+    [void]$sb.Append($epilogueConverted.TrimEnd())
     Write-Host "Included epilogue: $epilogueFile ($epilogueWords words)"
 }
 
-$masterText = $sb.ToString()
+$masterText = Fix-EmphasisApostrophes ($sb.ToString())
 [System.IO.File]::WriteAllText($masterMd, $masterText, [System.Text.UTF8Encoding]::new($true))
 Write-Host "Created master markdown: $masterMd"
 
@@ -668,10 +780,13 @@ $docxDraft = Join-Path $outDir "_draft_manuscript.docx"
 $pandocArgs = @(
     $masterMd,
     "-o", $docxDraft,
-    "--from", "markdown+smart+raw_tex",
+    "--from", "markdown+smart+raw_tex+raw_attribute",
     "--resource-path", $outDir,
     "--number-sections=false",
+    "--toc",
+    "--toc-depth=1",
     "--metadata", "title=The Kestrel Veil Incident",
+    "--metadata", "subtitle=Book One of The Solmare Cycle",
     "--metadata", "author=K.W. Abbott"
 )
 & $pandoc @pandocArgs
@@ -695,28 +810,35 @@ try {
 }
 if (Test-Path $docxDraft) { Remove-Item $docxDraft -Force }
 
+$epubCss = Join-Path $outDir "epub.css"
 $epubArgs = @(
     $masterMd,
     "-o", $epubOut,
-    "--from", "markdown+smart+raw_tex",
+    "--from", "markdown+smart+raw_tex+raw_attribute",
     "--resource-path", $outDir,
     "--to", "epub3",
     "--toc",
-    "--toc-depth=2",
+    "--toc-depth=1",
     "--split-level=1",
     "--metadata", "title=The Kestrel Veil Incident",
     "--metadata", "subtitle=Book One of The Solmare Cycle",
     "--metadata", "author=K.W. Abbott",
     "--metadata", "lang=en-US",
     "--metadata", "series=The Solmare Cycle",
-    "--metadata", "series-index=1"
+    "--metadata", "series-index=1",
+    "--metadata", "toc-title=Contents"
 )
+
+if (Test-Path $epubCss) {
+    $epubArgs += @("--css", $epubCss)
+}
 
 if ($coverImage) {
     $epubArgs += @("--epub-cover-image=$coverImage")
 }
 
 & $pandoc @epubArgs
+Repair-EpubNavigation -EpubPath $epubOut
 Write-Host "Created EPUB: $epubOut"
 
 $epubValidation = @{

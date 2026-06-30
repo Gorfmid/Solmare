@@ -1,0 +1,148 @@
+/* Solmare Book One — EPUB typography */
+
+html, body {
+  font-family: Georgia, "Times New Roman", serif;
+  font-style: normal;
+  line-height: 1.45;
+  color: #1a1a1a;
+}
+
+p {
+  text-indent: 1.2em;
+  margin: 0 0 0.35em 0;
+  font-style: normal;
+}
+
+p.no-indent,
+h1, h2, h3,
+p[align="center"],
+.chapter-opener,
+.titlepage,
+blockquote p {
+  text-indent: 0;
+}
+
+/* Title page (Pandoc-generated) */
+section.titlepage {
+  text-align: center;
+  margin-top: 20%;
+  page-break-after: always;
+}
+
+h1.title {
+  font-size: 1.6em;
+  text-align: center;
+  font-weight: bold;
+  font-style: normal;
+  margin-bottom: 0.4em;
+}
+
+p.subtitle {
+  font-size: 1.1em;
+  text-align: center;
+  font-style: normal;
+  margin-bottom: 1.5em;
+}
+
+p.author {
+  font-size: 1em;
+  text-align: center;
+  font-style: normal;
+}
+
+/* Chapter openers */
+h1.chapter-opener {
+  text-align: center;
+  font-size: 1.35em;
+  font-weight: bold;
+  font-style: normal;
+  margin: 2.5em 0 0.75em 0;
+  page-break-before: always;
+  page-break-after: avoid;
+}
+
+h1.prologue,
+h1.archive-interlude,
+h1.epilogue {
+  text-align: center;
+  font-size: 1.35em;
+  font-weight: bold;
+  font-style: normal;
+  margin: 2.5em 0 1em 0;
+  page-break-before: always;
+}
+
+/* Prologue epigraph — centered, no indent */
+section.level1#prologue p,
+h1.prologue + p,
+h1.prologue ~ p {
+  text-align: center;
+  text-indent: 0;
+}
+
+h1.archive-interlude + div p,
+h1.archive-interlude ~ p {
+  text-indent: 0;
+}
+
+/* POV / scene break */
+p.scene-break {
+  text-align: center;
+  text-indent: 0;
+  margin: 1.5em 0;
+  font-style: normal;
+  letter-spacing: 0.35em;
+}
+
+/* Guard against emphasis bleed from malformed markup */
+section[epub|type~="bodymatter"] p {
+  font-style: normal;
+}
+
+hr,
+p:empty {
+  border: none;
+  margin: 1.5em 0;
+}
+
+/* Archive blockquotes stay distinct, not body-wide italic bleed */
+blockquote {
+  margin: 1em 1.5em;
+  font-style: italic;
+}
+
+blockquote p {
+  text-indent: 0;
+}
+
+em, i {
+  font-style: italic;
+}
+
+/* Table of contents */
+nav#toc,
+#toc {
+  page-break-after: always;
+}
+
+nav#toc ol {
+  list-style: none;
+  padding-left: 0;
+}
+
+nav#toc a {
+  text-decoration: none;
+}
+
+/* Page numbers (supported in some EPUB readers / print export) */
+@page {
+  margin: 1.2cm 1cm 1.4cm 1cm;
+}
+
+@page {
+  @bottom-center {
+    content: counter(page);
+    font-size: 0.85em;
+    font-style: normal;
+  }
+}
