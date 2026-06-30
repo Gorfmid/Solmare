@@ -189,7 +189,7 @@ He stopped at navigation.
 
 "Status," he said.
 
-Reyes did not look up from the manual overlay. "Segment six holding. Whisper fraction stable. No active emitters. Passive only."
+Reyes did not look up from the manual overlay. "Segment six holding. Correction-thrust fraction stable. No active emitters. Passive only."
 
 "Confidence."
 
@@ -245,7 +245,7 @@ No jokes.
 
 No one had joked much since the bloom.
 
-Cole still ran pass-throughs with soft soles. **Kevin** still appeared with trays nobody asked for and calories everyone needed. The ship still creaked on whisper burn the way old ships creaked when asked to be quiet and young at the same time.
+Cole still ran pass-throughs with soft soles. **Kevin** still appeared with trays nobody asked for and calories everyone needed. The ship still creaked between correction pulses the way old ships creaked when asked to be quiet and young at the same time.
 
 But the crew had changed shape around the empty places the Incident left—tighter at the center, gentler at the edges, the way broken bones healed if you kept using them correctly.
 
@@ -263,7 +263,7 @@ Reyes breathed once.
 
 Segment six took fifty-two minutes.
 
-Fifty-two minutes of whisper burn where nothing happened loudly enough to call an event and everything happened quietly enough to call reconnaissance. Tanaka updated manual overlays. Halden ran local sweeps that returned empty. Ortega failed passive loops with the patience of a man who had stopped expecting gratitude from his instruments.
+Fifty-two minutes on correction thrusters where nothing happened loudly enough to call an event and everything happened quietly enough to call reconnaissance. Tanaka updated manual overlays. Halden ran local sweeps that returned empty. Ortega failed passive loops with the patience of a man who had stopped expecting gratitude from his instruments.
 
 Calder did not ask for updates on schedule.
 
@@ -309,7 +309,7 @@ That was mentorship: not comfort, direction.
 
 Brenner moved to the port tie-in and listened.
 
-Whisper burn at this fraction had a signature—ring five's low hum, scrubber cycle, the particular rattle of a panel he'd shimmed twelve years ago on a Tuesday he still remembered. He knew that signature the way Calder knew crew voices.
+Correction thrust at this fraction had a signature—ring five's low hum, scrubber cycle, the particular rattle of a panel he'd shimmed twelve years ago on a Tuesday he still remembered. He knew that signature the way Calder knew crew voices.
 
 This had an undertone.
 
@@ -447,7 +447,7 @@ The border was always being watched.
 
 Both sides had just been reminded why.
 
-Somewhere in the corridor geometry, a damaged Fleet scout moved on whisper fraction through infrastructure that had never been wilderness—unaware, for now, that K-17 had filed her existence in a language the Dominion understood better than poetry.
+Somewhere in the corridor geometry, a damaged Fleet scout crept on correction thrusters through infrastructure that had never been wilderness—unaware, for now, that K-17 had filed her existence in a language the Dominion understood better than poetry.
 
 ---
 
@@ -477,7 +477,7 @@ The return was old.
 
 Not ancient. Maintained.
 
-A navigation aid—passive, cooperative, the kind of thing you deployed when you expected traffic to obey lanes you had decided were yours. Then a second return. A third—spacing that was not coincidence, synchronized relay geometry marching along the corridor in intervals Reyes recognized before he admitted he did. Gravitational lane corrections in the whisper burn profile he had been fighting for two segments without naming aloud. Relay hardware sleeping in a band Fleet charts labeled empty. Maintenance signatures on four separate points—thermal bleed on housings, recent, routine, the work of hands that expected traffic to return on schedule.
+A navigation aid—passive, cooperative, the kind of thing you deployed when you expected traffic to obey lanes you had decided were yours. Then a second return. A third—spacing that was not coincidence, synchronized relay geometry marching along the corridor in intervals Reyes recognized before he admitted he did. Gravitational lane corrections in the correction-thruster profile he had been fighting for two segments without naming aloud. Relay hardware sleeping in a band Fleet charts labeled empty. Maintenance signatures on four separate points—thermal bleed on housings, recent, routine, the work of hands that expected traffic to return on schedule.
 
 Nothing broadcast in Fleet formats.
 
@@ -543,7 +543,7 @@ Investigate.
 
 Do not engage unless necessary.
 
-The *Kestrel Veil* held her whisper burn and moved deeper into segment seven—alone, damaged, professional—into a corridor that had never been empty, only patient.
+The *Kestrel Veil* crept on correction thrusters and moved deeper into segment seven—alone, damaged, professional—into a corridor that had never been empty, only patient.
 
 ---
 

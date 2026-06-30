@@ -920,7 +920,7 @@ Reyes kept his hand on the cradle after the fix logged. Tanaka asked if he wante
 
 Tanaka did not argue. Ortega ran passive again—it failed. He ran it again anyway.
 
-Thessaly stood beside Calder at the rail. "Navigation has a fix. Fleet has orders pending. Engineering has whisper burn. Medical has a board that says *holding*." She paused. "What do you need, Captain?"
+Thessaly stood beside Calder at the rail. "Navigation has a fix. Fleet has orders pending. Engineering has correction thrusters. Medical has a board that says *holding*." She paused. "What do you need, Captain?"
 
 Calder looked at her. The question had traveled the ship. It had not fixed anything.
 
@@ -972,9 +972,9 @@ Calder found them in the ring passage arguing about whether the nameplate counte
 
 "I know."
 
-Koss pulled up a thermal graph. "Port regulator still lies one degree. I believe the lie enough for whisper burn. I don't believe it for pride speed."
+Koss pulled up a thermal graph. "Port regulator still lies one degree. I believe the lie enough for correction thrust. I don't believe it for pride speed."
 
-"We can give you whisper burn for course change when Fleet sends it," Brenner said. "We cannot give you Dennett's habit of pretending the *Veil* is new."
+"We can give you correction thrust for a course change when Fleet sends it," Brenner said. "We cannot give you Dennett's habit of pretending the *Veil* is new."
 
 Calder almost smiled. It didn't land.
 
@@ -982,7 +982,7 @@ Calder almost smiled. It didn't land.
 
 "Six hours," Koss said.
 
-"And someone to tell Reyes whisper burn is not an insult to navigation," Brenner added. "It's a love letter."
+"And someone to tell Reyes correction thrusters are not an insult to navigation," Brenner added. "It's a love letter."
 
 Calder looked at the crooked nameplate, the open panels, the list in the deck he felt when he shifted weight.
 
@@ -1110,7 +1110,7 @@ Thessaly took the XO chair and opened the transit draft.
 
 Course change came slow—the way the *Veil* did everything worth doing.
 
-Reyes plotted Neutral Zone corridor seven-alpha with manual assists Tanaka marked in three colors. Koss brought ring five up for sustained burn at whisper fraction—enough to steer, not enough to boast. Halden watched local space with ten percent tactical and one hundred percent suspicion.
+Reyes plotted Neutral Zone corridor seven-alpha with manual assists Tanaka marked in three colors. Koss brought ring five up for correction thrust at minimal fraction—enough to steer, not enough to boast. Halden watched local space with ten percent tactical and one hundred percent suspicion.
 
 Nobody wanted to go back toward the frontier.
 
@@ -1120,7 +1120,7 @@ Calder stood on the command deck when the burn started. The deck vibration chang
 
 Below, in the ring passage, technicians who had not slept spoke in half sentences about couplings and childhoods and the price of brass nameplates on ships that should have been retired. Someone had taped *DO NOT SEAL* on a hatch that no longer met its frame.
 
-**Elara Koss** watched the whisper burn hold on her slate and said, to no one in particular, "She turns like a drunk, but she turns."
+**Elara Koss** watched the correction thrust hold on her slate and said, to no one in particular, "She turns like a drunk, but she turns."
 
 Brenner: "Drunks don't have my regulators."
 
@@ -1132,7 +1132,7 @@ Park logged the burn on buffer and relay lane. Walsh logged no new injuries. Ort
 
 On VI-Gamma, Holt and Nand watched the scout bearing family shift one increment on the amended overlay—not proof of intent, proof of motion. Holt relayed the burn notice upstream before Calder finished asking. Confirm token back. Then another Fleet query waiting in queue.
 
-"Whisper burn," Nand said.
+"Correction thrust," Nand said.
 
 "Observe and investigate," Holt said. "Fleet language for *go back and don't die stupidly*."
 

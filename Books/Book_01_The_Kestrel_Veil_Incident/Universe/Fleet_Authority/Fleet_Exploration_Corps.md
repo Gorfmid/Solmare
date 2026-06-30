@@ -21,7 +21,7 @@ Calder's assignment was routine reconnaissance— prestige expected elsewhere, f
 
 - **Optimistic professional.** Curiosity without melodrama.
 - **First-arrival identity.** *Someone has to go first* — touchstone, not joke on serious decks.
-- **Respects whisper burn and emitter discipline** when taught by survival.
+- **Respects correction thrusters and emitter discipline** when taught by survival.
 - **Uncomfortable with passive-only doctrine** as primary product— wants to **see** things.
 - **Young institution-within-institution.** Exploration champions Fleet's self-image.
 
@@ -62,7 +62,7 @@ Act IV may feature Exploration liaison demanding new scout ROE and training sims
 | Character | Role |
 |-----------|------|
 | **Captain Calder Venn** | Scout captain — Corps' living report |
-| **Tomás Brenner** | Helm culture — whisper burn as craft |
+| **Tomás Brenner** | Helm culture — correction thrusters as craft |
 | **Damon Reyes** | Navigation / exploration geometry |
 | **Felix Ortega** | Sensor listen culture |
 | **Captain Mira Thessaly** | Translates exploration into Fleet grammar |

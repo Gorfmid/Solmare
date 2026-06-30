@@ -10,7 +10,7 @@
 
 Traffic control did not know what history looked like.
 
-It looked like a damaged scout-class silhouette on passive return, bearing consistent with amended mission four-four-seven-one-S, whisper burn within tolerance for a hull that had no business being within tolerance for anything.
+It looked like a damaged scout-class silhouette on passive return, bearing consistent with amended mission four-four-seven-one-S, correction thrust within tolerance for a hull that had no business being within tolerance for anything.
 
 **Calder Venn** stood at the command rail and watched Helion Prime grow in the forward display—not dramatic, not ceremonial, just the industrial glow of a capital that had never stopped working.
 
@@ -36,11 +36,11 @@ Dock assignment arrived on Thessaly's secondary pane before Calder asked for it.
 
 Medical notification: crew triage in shifts, priority for defensive and engineering, psychiatric consult optional and available. Calder had seen the template before. He signed the acknowledgment without reading the footer. Some paperwork was permission for other people to do their jobs.
 
-Engineering inspection request: yard team gamma, six-hour window, hull and whisper-burn certification for *patched transit only*. The word *patched* appeared twice. Calder did not confuse patched with ready. Rowan had said that through Holt's relay when the margin was six hours and the border was still ahead. Rowan had been right then. Rowan would be right now.
+Engineering inspection request: yard team gamma, six-hour window, hull and correction-thruster certification for *patched transit only*. The word *patched* appeared twice. Calder did not confuse patched with ready. Rowan had said that through Holt's relay when the margin was six hours and the border was still ahead. Rowan had been right then. Rowan would be right now.
 
 Archive security protocols: Jun Park's chain. Triple redundancy. Segregated buffers. No upstream merge until Fleet Communications confirmed pickup handshake and Cartography liaison validated bearing continuity.
 
-A secondary flag blinked—yard intake requesting damage summary for crane assignment. Calder forwarded Koss's one-line without embellishment: *starboard weld scar stable, list two degrees port, whisper burn certified ugly*. The controller copied it without comment. Fleet spoke fluent damage when it had to.
+A secondary flag blinked—yard intake requesting damage summary for crane assignment. Calder forwarded Koss's one-line without embellishment: *starboard weld scar stable, list two degrees port, correction thrust certified ugly*. The controller copied it without comment. Fleet spoke fluent damage when it had to.
 
 On the bridge, the crew held the posture of people who had crossed a border and not yet uncrossed it inside their own heads. **Felix Ortega** had his headphones on half-mast—still listening, always listening, but the traffic here was Fleet-polite and suddenly insufficient. **Mira Hale** stood defensive watch out of habit; there was nothing to shoot at in cradle approach geometry, but habits had kept them alive. **Yuki Tanaka** ran emitter discipline checks against a sky that was not trying to hide anything.
 
@@ -154,7 +154,7 @@ The *Kestrel Veil* report did not arrive as a single thing.
 
 It arrived as what Fleet was built to do with large truths—divide them into specialties until each specialty could pretend it understood the whole.
 
-Navigation data to Cartography Service—lane merges, bearing families, epoch contradictions flagged in Thessaly's appendices. Sensor logs to Intelligence queue—passive archives, correlation strips, discharge profiles from the Incident still referenced as baseline. Engineering to yard certification and Logistics—whisper-burn curves, ring three handshake lag, patched hull geometry. Communications to Holt's chain validation—relay timestamps, segregated lanes, destruction assessment correction history. Historical comparisons to Ellis's own desk—frontier provisional volumes, Founders' Week origin maps, prior survey epochs that had shaded segment seven *low activity*.
+Navigation data to Cartography Service—lane merges, bearing families, epoch contradictions flagged in Thessaly's appendices. Sensor logs to Intelligence queue—passive archives, correlation strips, discharge profiles from the Incident still referenced as baseline. Engineering to yard certification and Logistics—correction-thruster curves, ring three handshake lag, patched hull geometry. Communications to Holt's chain validation—relay timestamps, segregated lanes, destruction assessment correction history. Historical comparisons to Ellis's own desk—frontier provisional volumes, Founders' Week origin maps, prior survey epochs that had shaded segment seven *low activity*.
 
 Ellis watched a Cartography courier take navigation without the executive summary. Watched a Doctrine Bureau intern collect the summary without the sensor raw. Watched an Engineering petty officer cheerfully abscond with damage schematics that said more about survival than about construction.
 
@@ -168,7 +168,7 @@ She understood, with the slow clarity of someone whose job was beginnings, that 
 
 Navigation without civilian traffic harmonics was geometry without Tuesdays.
 
-Engineering without whisper-burn limitation was damage without method.
+Engineering without correction-thruster limitation was damage without method.
 
 Executive summary without Park's buffer chain was conclusion without proof anyone had survived to conclude.
 

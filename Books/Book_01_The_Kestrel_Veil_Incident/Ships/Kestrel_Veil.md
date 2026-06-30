@@ -28,7 +28,7 @@ The *Kestrel* is one of Book One's principal characters.
 | Function | Manifestation |
 |----------|----------------|
 | **Witness carrier** | Only hull that survived the Incident and completed segment seven passive reconnaissance |
-| **Professional survival** | Whisper burn, emitter discipline, Brenner's traffic humility—ship as method, not miracle |
+| **Professional survival** | Correction thrusters, emitter discipline, Brenner's traffic humility—ship as method, not miracle |
 | **Institutional memory** | Forty-seven-year environmental thrum; fixes that outlive captains; unofficial procedures (Corridor C kick) |
 | **Crew trust object** | Calder learns command through her limits; crew stakes lives on *she'll hold* |
 
@@ -58,9 +58,9 @@ She carries Fleet's only witness through the Incident (Act II) and Dominion-moni
 
 ### Act III (Ch. 9–16)
 
-- **Whisper burn** sustained through segment seven (~16 days); conservative fraction—enough to steer, not enough to boast.
+- **Correction thrusters** sustained through segment seven (~16 days); minimal fraction—enough to steer, not enough to boast. Very slow.
 - **Ring three:** handshake coupling stress; environmental flicker; vibration Calder reads as *mood*; Brenner monitors overnight before departure (Ch. 15).
-- **Ring five:** sustained burn lane; Cole/Park power prayers; whisper fraction stewardship under Koss/Halden.
+- **Ring five:** correction-thrust lane; Cole/Park power prayers; correction-thrust fraction stewardship under Koss/Halden.
 - **Passive suite:** ~6% rebuild by segment seven; sufficient for listen watch, not for Fleet comfort.
 - **Emitters dark** throughout Act III— Tanaka's discipline.
 - **Departure/homeward (Ch. 15–16):** Koss/Halden nurse handshake coupling (*better now than at pickup*); ship *complains anyway*.
@@ -80,10 +80,10 @@ She carries Fleet's only witness through the Incident (Act II) and Dominion-moni
 | **Ring three handshake** | Flicker under scrubber load; nominal under stress until it isn't; overnight stress tests before departure | Brenner, Calder |
 | **Ring three personality** | Thermal hotter than Brenner's temper; honest complaining | Brenner, Koss |
 | **Environmental hum** | Forty-seven years on the same note; deck flex within/out of tolerance | Calder (body before instruments) |
-| **Port regulator lie** | ~1° thermal lie; Koss believes it enough for whisper burn, not pride speed | Koss |
+| **Port regulator lie** | ~1° thermal lie; Koss believes it enough for correction thrust, not pride speed | Koss |
 | **Corridor C door** | Requires kick; kick is standard procedure on this ship | Brenner → crew tradition |
 | **List in the ankles** | Wrong deck vibration learned faster than instruments | Calder |
-| **Whisper burn feel** | Turns like a drunk; love letter, not insult (Brenner) | Brenner, Reyes |
+| **Correction-thrust feel** | Turns like a drunk; love letter, not insult (Brenner) | Brenner, Reyes |
 | **Dominion corridor texture** | Subtle vibration changes; old girl remembers segment seven as weather | Brenner (Ch. 16) |
 | **Tertiary drift** | Same wrong offset every sweep | Ortega |
 
@@ -97,10 +97,10 @@ She carries Fleet's only witness through the Incident (Act II) and Dominion-moni
 Learns command through her limits— not simulation bays. First hour: finds Corridor C dent, squeaky chair, scar through viewport. Act III: reads ring three mood; walks her corridors before departure decision (Ch. 15); *bring everyone home* as primary responsibility.
 
 ### Tomás Brenner (Helm)
-Knows her better than anyone alive. Door kicks, whisper burn negotiations, bulkhead listening, *the Kestrel knows when she's been somewhere long enough*. Does not joke about ring three after Koss answers with a thermal reading.
+Knows her better than anyone alive. Door kicks, correction-thruster negotiations, bulkhead listening, *the Kestrel knows when she's been somewhere long enough*. Does not joke about ring three after Koss answers with a thermal reading.
 
 ### Elara Koss (Chief Engineer) + Ari Halden (Tactical Systems / engineering support)
-Maintain and interpret. Koss: religion of couplers, logged insults, *patched not repaired*, four-hour ring-three sign-off discipline. Halden: band charts, infrastructure dating, engine bands for whisper fraction.
+Maintain and interpret. Koss: religion of couplers, logged insults, *patched not repaired*, four-hour ring-three sign-off discipline. Halden: band charts, infrastructure dating, engine bands for correction-thrust fraction.
 
 ### Jun Park (Communications / buffers)
 Preserves what she records— segment seven triple redundancy; segregated Holt lane; correlation integrity. Ch. 15: archives live beside ugly honest report.
@@ -129,7 +129,7 @@ Canon phrases (use sparingly; earned repetition):
 | **"The *Kestrel* knows when she's been somewhere long enough"** | Brenner | Departure judgment (Ch. 15) |
 | **"Do not confuse patched with ready"** | Rowan (via relay) | Institutional echo of ship truth |
 | **"Logged insult"** | Koss | Thermal complaint filed |
-| **"Whisper burn is a love letter"** | Brenner | Fraction burn as care, not cowardice |
+| **"Correction thrusters are a love letter"** | Brenner | Minimal thrust as care, not cowardice |
 | **"Ring three nominal"** | Brenner / handshake reports | Temporary all-clear |
 
 ---
@@ -159,7 +159,7 @@ Small, grounded, supported by text— **invent no grand rituals.**
 |-------|-------|
 | **Location** | Fleet space (crossed from segment seven via Neutral Zone) |
 | **Mission segment** | Segment seven complete; homeward leg executed |
-| **Damage** | Patched Incident damage + sixteen days whisper-burn wear |
+| **Damage** | Patched Incident damage + sixteen days correction-thrust wear |
 | **Data** | Segment seven passive archives; Thessaly report sealed for transit |
 | **Comms** | Upstream pickup imminent (~14h to beacon, Ch. 16); Holt chain validated historically |
 | **Posture** | Emitters dark discipline maintained; passive witness intact |
@@ -190,7 +190,7 @@ The *Kestrel* should remain **emotionally central** through Act IV and beyond.
 | Ring | Book One association |
 |------|---------------------|
 | **Ring three** | Handshake, environmental flicker, scrubber load, departure stress |
-| **Ring five** | Whisper burn sustain; tactical/optical rebuild context |
+| **Ring five** | Correction-thrust sustain; tactical/optical rebuild context |
 | **Life support / environmental** | Cho's borrowed filters (post-VI-Gamma); thermal lies |
 
 *Full technical specs intentionally shallow— reveal through failure and maintenance, not manuals.*

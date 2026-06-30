@@ -458,7 +458,7 @@ Hour twenty-two, segment seven.
 
 The overlay had stopped being a map and become a census without names.
 
-Ortega at passive six percent— still insultingly low, still enough. Reyes on lane merge logic. Thessaly on classification bands that refused simple military labels. Park on buffer segregation. Tanaka confirming whisper fraction. Hale on rotation. Halden feeding infrastructure age estimates into Reyes's plot until the display looked less like frontier and more like inheritance.
+Ortega at passive six percent— still insultingly low, still enough. Reyes on lane merge logic. Thessaly on classification bands that refused simple military labels. Park on buffer segregation. Tanaka confirming correction-thrust fraction. Hale on rotation. Halden feeding infrastructure age estimates into Reyes's plot until the display looked less like frontier and more like inheritance.
 
 Calder stood at the rail and watched civilization arrive as routine.
 
@@ -546,6 +546,6 @@ The work continued.
 
 That was the humility— not heroism, not revelation speeches, only professionals accepting that the corridor had never been empty and their charts had been a compliment Fleet paid itself.
 
-The *Veil* held her whisper burn and moved deeper into silent crossings— not the center of the story, only a witness in someone else's ordinary day, while corridors filled and emptied and filled again as if the scout had never been born and would never be necessary to prove they had always been here.
+The *Veil* crept on correction thrusters and moved deeper into silent crossings— not the center of the story, only a witness in someone else's ordinary day, while corridors filled and emptied and filled again as if the scout had never been born and would never be necessary to prove they had always been here.
 
 ---

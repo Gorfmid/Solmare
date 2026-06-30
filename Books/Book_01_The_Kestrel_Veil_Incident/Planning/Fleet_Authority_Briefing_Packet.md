@@ -53,7 +53,7 @@ Fleet Admiral **Elias Rowan** (Fleet Operations) should know the following at Ac
 - Capital-scale contact with **unknown cloaking behavior** (Sato framing, Ch. 7).
 - Unknown capital-scale discharge profile; unknown weapon yield class against scout defensive suites.
 - Partial decloak / passive lock geometry (crew testimony + Holt passive logs).
-- Photon engagement at contact bearing; probes destroyed; hull damage; whisper-burn withdrawal.
+- Photon engagement at contact bearing; probes destroyed; hull damage; correction-thrust withdrawal.
 - Cloak did **not** hold under sustained scout-class passive observation— strategic intelligence implication Rowan can reasonably draw: experimental concealment envelope with a known failure mode under passive hold.
 - Rowan does **not** know hull class name (*Leviathan*), commander identity, or opposing political entity name.
 
@@ -207,7 +207,7 @@ Words explicitly rejected in draft process:
 - **Felix Ortega** — listen watch logs
 - **Ari Halden** — infrastructure band charts
 - **Damon Reyes** — lane age / navigation overlays
-- **Tomás Brenner** — helm transit testimony (whisper burn corridor discipline)
+- **Tomás Brenner** — helm transit testimony (correction-thruster corridor discipline)
 
 ---
 
@@ -321,7 +321,7 @@ Technical proof *Kestrel* did not hallucinate; relay integrity; blanket-on-conso
 
 ### Tomás Brenner
 **Role:** Ship truth.  
-*The old girl will remember.* Testimony to whisper burn, corridor discipline, departure professionalism.
+*The old girl will remember.* Testimony to correction thrusters, corridor discipline, departure professionalism.
 
 ### Jun Park
 **Role:** Buffer integrity / archive reliability.  

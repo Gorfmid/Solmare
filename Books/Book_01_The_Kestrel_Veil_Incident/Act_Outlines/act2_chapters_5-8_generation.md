@@ -70,7 +70,7 @@ Ch. 5–8 must **not** restore legacy anomaly-first framing (KR-13, Signal Devia
 
 ### Chapter 7 — The Living Ship ✓ LOCKED
 
-**End state:** Whisper burn seven-alpha; VI-Gamma relay bridge; Fleet orders active.
+**End state:** Correction-thruster crawl toward seven-alpha; VI-Gamma relay bridge; Fleet orders active.
 
 ### Chapter 8 — The Quiet Before the Silence ✓ LOCKED
 

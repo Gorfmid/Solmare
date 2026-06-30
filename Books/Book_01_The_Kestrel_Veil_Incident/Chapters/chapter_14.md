@@ -476,7 +476,7 @@ Calder at the rail.
 
 The bridge was quiet the way deep-water ships were quiet— systems murmuring, crew sparse, responsibility distributed so no one person had to carry all of it at once.
 
-**Tomás Brenner** on helm whisper burn, hands steady.
+**Tomás Brenner** on helm correction thrust, hands steady.
 
 **Mira Thessaly** aft with slate.
 
@@ -594,7 +594,7 @@ Tanaka kept emitters dark.
 
 Brenner kept the ring steady.
 
-The *Kestrel Veil* held whisper burn in inherited space— Fleet confidence meeting Dominion caution in the dark, witness to a conflict that had not begun with hatred and would not, if Calder had anything left to say about it, be simplified into villains.
+The *Kestrel Veil* crept on correction thrusters in inherited space— Fleet confidence meeting Dominion caution in the dark, witness to a conflict that had not begun with hatred and would not, if Calder had anything left to say about it, be simplified into villains.
 
 They listened.
 

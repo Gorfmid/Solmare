@@ -21,7 +21,7 @@
 |---------|------|
 | **Calder Venn** | Command observation; First Witness recognized |
 | **Damon Reyes** | Navigation merges / antiquity correlation |
-| **Ari Halden** | Engineering thermal bands / whisper-burn margin |
+| **Ari Halden** | Engineering thermal bands / correction-thrust margin |
 | **Felix Ortega** | Listen watch harmonics |
 | **Jun Park** | Archive integrity / chain of custody |
 | **Tomás Brenner** | Ship condition / helm hold |

@@ -193,6 +193,95 @@ function Append-ArchiveInterludes {
     }
 }
 
+function Test-PovMarkerLine {
+    param([string]$Line)
+    return $Line -match '\*\*.*\bPOV\b' -or $Line -match '^\*\*PART\s+\d+'
+}
+
+function Test-PlaceholderLine {
+    param([string]$Line)
+    $s = $Line.Trim()
+    if ([string]::IsNullOrWhiteSpace($s)) { return $false }
+    if ($s -like '*(Chapter not yet written*') { return $true }
+    if ($s -like '*See `Act_Outlines*') { return $true }
+    if ($s -like '*See Act_Outlines*') { return $true }
+    if ($s -match '^\*\*Purpose:\*\*') { return $true }
+    if ($s -match '^This chapter establishes') { return $true }
+    if ($s -match '^Readers should begin') { return $true }
+    if ($s -match '^The chapter should leave') { return $true }
+    if ($s -match '^(Primary-True|Redundant peel|consequence register)') { return $true }
+    return $false
+}
+
+function Test-SceneTitleLine {
+    param([string]$Line)
+    return $Line -match '^(#{1,3}\s+)?Scene\s+\d+\s*[\u2014\-–-]' -or
+           $Line -match '^(#{1,3}\s+)?SCENE\s+\d+\s*[\u2014\-–-]'
+}
+
+function Convert-PublicationBody {
+    param([string[]]$Lines)
+
+    $out = New-Object System.Collections.Generic.List[string]
+    $skipStateBlock = $false
+    $pendingPovBreak = $false
+
+    for ($i = 0; $i -lt $Lines.Count; $i++) {
+        $line = $Lines[$i]
+
+        if (Test-MetadataLine -Line $line) { continue }
+        if (Test-PlaceholderLine -Line $line) { continue }
+        if ($line.Trim() -eq ([char]0x2766)) { continue }
+
+        if (Test-SectionSixLine -Line $line) {
+            $skipStateBlock = $true
+            continue
+        }
+        if ($skipStateBlock) {
+            if (Test-CodaEpilogueHeadingLine -Line $line) {
+                $skipStateBlock = $false
+            }
+            continue
+        }
+
+        if (Test-SectionHeadingLine -Line $line) { continue }
+        if (Test-SceneTitleLine -Line $line) { continue }
+        if (Test-CodaEpilogueHeadingLine -Line $line) { continue }
+        if (Test-StateSummaryHeadingLine -Line $line) { continue }
+        if (Test-EventHeadingLine -Line $line) { continue }
+
+        if ($line -match '^---\s*$') {
+            continue
+        }
+
+        if (Test-PovMarkerLine -Line $line) {
+            if ($out.Count -gt 0 -and $out[$out.Count - 1] -ne '* * *') {
+                if ($out.Count -gt 0 -and -not [string]::IsNullOrWhiteSpace($out[$out.Count - 1])) {
+                    $out.Add('')
+                }
+                $out.Add('* * *')
+                $out.Add('')
+            }
+            $out.Add($line)
+            continue
+        }
+
+        $out.Add($line)
+    }
+
+    while ($out.Count -gt 0 -and [string]::IsNullOrWhiteSpace($out[$out.Count - 1])) {
+        $out.RemoveAt($out.Count - 1)
+    }
+    while ($out.Count -gt 0 -and $out[$out.Count - 1] -match '^---\s*$') {
+        $out.RemoveAt($out.Count - 1)
+    }
+    while ($out.Count -gt 0 -and [string]::IsNullOrWhiteSpace($out[$out.Count - 1])) {
+        $out.RemoveAt($out.Count - 1)
+    }
+
+    return $out
+}
+
 function Format-ChapterOpening {
     param(
         [int]$ChapterNum,
@@ -200,15 +289,13 @@ function Format-ChapterOpening {
         [string]$LogoRelativePath
     )
     return @"
-<div align="center">
 
-**Chapter $ChapterNum**
+# Chapter $ChapterNum
 
-**$Title**
+## $Title
 
-![Chapter divider]($LogoRelativePath)
+<p align="center"><img src="$LogoRelativePath" alt="Chapter divider" width="180" /></p>
 
-</div>
 "@
 }
 
@@ -242,10 +329,12 @@ function Convert-PublicationChapter {
         break
     }
 
-    $body = ($lines[$bodyStart..($lines.Count - 1)] -join "`n").TrimEnd()
+    $bodyLines = $lines[$bodyStart..($lines.Count - 1)]
+    $cleaned = Convert-PublicationBody -Lines $bodyLines
+    $body = ($cleaned -join "`n").TrimEnd()
     $header = Format-ChapterOpening -ChapterNum $chapterNum -Title $title -LogoRelativePath $LogoRelativePath
-    if ([string]::IsNullOrWhiteSpace($body)) { return $header }
-    return "$header`n`n$body"
+    if ([string]::IsNullOrWhiteSpace($body)) { return $header.TrimEnd() }
+    return "$($header.TrimEnd())`n`n$body"
 }
 
 function Convert-ChapterContent {
@@ -290,7 +379,9 @@ function Convert-ChapterContent {
         }
 
         if (Test-MetadataLine -Line $line) { continue }
+        if (Test-PlaceholderLine -Line $line) { continue }
         if ($line -match '^---\s*$' -and $out.Count -le 8) { continue }
+        if ($line -match '^---\s*$') { continue }
         if (Test-DuplicateChapterTitleLine -Line $line -ChapterTitle $chapterTitle) { continue }
 
         if (Test-SectionSixLine -Line $line) {
@@ -307,6 +398,7 @@ function Convert-ChapterContent {
         }
 
         if (Test-SectionHeadingLine -Line $line) { continue }
+        if (Test-SceneTitleLine -Line $line) { continue }
         if (Test-CodaEpilogueHeadingLine -Line $line) { continue }
         if (Test-StateSummaryHeadingLine -Line $line) { continue }
         if (Test-EventHeadingLine -Line $line) { continue }
@@ -416,10 +508,7 @@ function Format-WordManuscript {
 
                 $oddHeader = $section.Headers.Item(1)
                 $oddHeader.LinkToPrevious = $false
-                $oddHeader.Range.Text = ""
-                $fieldRange = $oddHeader.Range
-                $field = $fieldRange.Fields.Add($fieldRange, 79, 'STYLEREF "Heading 2" \* MERGEFORMAT', $false)
-                $field.Update() | Out-Null
+                $oddHeader.Range.Text = "The Kestrel Veil Incident`r"
                 $oddHeader.Range.ParagraphFormat.Alignment = 2
 
                 $footer = $section.Footers.Item(1)
@@ -437,6 +526,19 @@ function Format-WordManuscript {
                 $firstFooter.LinkToPrevious = $false
                 $firstFooter.Range.Text = ""
             }
+        } else {
+            foreach ($section in $doc.Sections) {
+                foreach ($headerIndex in @(1, 2, 3)) {
+                    $header = $section.Headers.Item($headerIndex)
+                    $header.LinkToPrevious = $false
+                    $header.Range.Text = ""
+                }
+                foreach ($footerIndex in @(1, 2)) {
+                    $footer = $section.Footers.Item($footerIndex)
+                    $footer.LinkToPrevious = $false
+                    $footer.Range.Text = ""
+                }
+            }
         }
 
         if ($PrintPdfExport) {
@@ -450,9 +552,14 @@ function Format-WordManuscript {
         }
     }
     finally {
-        if ($doc) { $doc.Close($false) | Out-Null }
-        if ($word) { $word.Quit() | Out-Null }
-        [System.Runtime.InteropServices.Marshal]::ReleaseComObject($word) | Out-Null
+        if ($null -ne $doc) {
+            $doc.Close($false) | Out-Null
+            [System.Runtime.InteropServices.Marshal]::ReleaseComObject($doc) | Out-Null
+        }
+        if ($null -ne $word) {
+            $word.Quit() | Out-Null
+            [System.Runtime.InteropServices.Marshal]::ReleaseComObject($word) | Out-Null
+        }
         [GC]::Collect()
         [GC]::WaitForPendingFinalizers()
     }
@@ -491,7 +598,6 @@ $frontMatter = @"
 "@
 
 $sb = New-Object System.Text.StringBuilder
-[void]$sb.Append($yaml)
 [void]$sb.Append($frontMatter)
 
 $totalWords = 0
@@ -519,7 +625,7 @@ for ($n = 1; $n -le 24; $n++) {
     $raw = Get-Content $chapterFile -Raw -Encoding UTF8
     $converted = Convert-ChapterContent -Content $raw -ChapterNum $n
 
-    if ($converted -notmatch 'Chapter divider') {
+    if ($converted -notmatch 'chapter_logo\.png') {
         $manualCleanup += "Chapter $n header not converted"
     }
 
@@ -559,7 +665,9 @@ $pandocArgs = @(
     "-o", $docxDraft,
     "--from", "markdown+smart+raw_tex",
     "--resource-path", $outDir,
-    "--number-sections=false"
+    "--number-sections=false",
+    "--metadata", "title=The Kestrel Veil Incident",
+    "--metadata", "author=K.W. Abbott"
 )
 & $pandoc @pandocArgs
 if (-not (Test-Path $docxDraft)) {
@@ -567,8 +675,19 @@ if (-not (Test-Path $docxDraft)) {
 }
 Write-Host "Created draft DOCX: $docxDraft"
 
-Format-WordManuscript -InputPath $docxDraft -OutputPath $docxOut
-Write-Host "Formatted editing DOCX: $docxOut"
+$wordFormatted = $false
+$wordWarning = $null
+$pdfWarning = $null
+try {
+    Format-WordManuscript -InputPath $docxDraft -OutputPath $docxOut
+    $wordFormatted = $true
+    Write-Host "Formatted editing DOCX: $docxOut"
+} catch {
+    $wordWarning = $_.Exception.Message
+    Write-Warning "Word formatting unavailable; using Pandoc draft DOCX. $($wordWarning)"
+    Copy-Item $docxDraft $docxOut -Force
+    Write-Host "Created DOCX (Pandoc draft): $docxOut"
+}
 if (Test-Path $docxDraft) { Remove-Item $docxDraft -Force }
 
 $epubArgs = @(
@@ -629,49 +748,54 @@ Write-Host "EPUB validation: $($epubValidation.Status)"
 
 $pdfCreated = $false
 $pdfWarning = $null
-try {
-    $printDocx = Join-Path $outDir "_print_manuscript.docx"
-    Copy-Item $docxOut $printDocx -Force
-    Format-WordManuscript -InputPath $printDocx -OutputPath $printDocx -PrintPdfExport -PdfPath $pdfOut
-    if (Test-Path $pdfOut) {
-        $pdfCreated = $true
-        Write-Host "Created print PDF: $pdfOut"
+if ($wordFormatted) {
+    try {
+        $printDocx = Join-Path $outDir "_print_manuscript.docx"
+        Copy-Item $docxOut $printDocx -Force
+        Format-WordManuscript -InputPath $printDocx -OutputPath $printDocx -PrintPdfExport -PdfPath $pdfOut
+        if (Test-Path $pdfOut) {
+            $pdfCreated = $true
+            Write-Host "Created print PDF: $pdfOut"
+        }
+        if (Test-Path $printDocx) { Remove-Item $printDocx -Force }
+    } catch {
+        $pdfWarning = $_.Exception.Message
+        Write-Warning "PDF generation failed: $pdfWarning"
     }
-    if (Test-Path $printDocx) { Remove-Item $printDocx -Force }
-} catch {
-    $pdfWarning = $_.Exception.Message
-    Write-Warning "PDF generation failed: $pdfWarning"
+} else {
+    $pdfWarning = "PDF requires Microsoft Word COM formatting pass."
 }
 
 $approxPages = [math]::Round($totalWords / 250)
 
+$endingOk = [bool]((Select-String -Path $masterMd -Pattern 'We understand enough to move forward\.' -Quiet) -and (Select-String -Path $masterMd -Pattern 'END BOOK ONE' -Quiet))
+
 $validation = @{
     ChaptersPresent = 24
-    DuplicateTitles = (Select-String -Path $masterMd -Pattern '(?m)^## .+\r?\n\r?\n## .+' -AllMatches).Matches.Count
-    SectionHeadings = (Select-String -Path $masterMd -Pattern '(?m)^#{1,3} SECTION ' -AllMatches).Matches.Count
-    EventHeadings = (Select-String -Path $masterMd -Pattern '(?m)^\*\*Event \d' -AllMatches).Matches.Count
-    MetadataBlocks = (Select-String -Path $masterMd -Pattern '(?m)^\*\*(Chapter Number|POV Character|Word Count):' -AllMatches).Matches.Count
-    StateSummaries = (Select-String -Path $masterMd -Pattern '(?m)^#{1,3} (SECTION 6|STATE UPDATE|Aftermath State|### SHIP STATE)' -AllMatches).Matches.Count
-    EndingPreserved = (Select-String -Path $masterMd -Pattern 'We understand enough to move forward\.' -Quiet) -and
-                       (Select-String -Path $masterMd -Pattern 'END BOOK ONE' -Quiet)
+    DuplicateTitles = @((Select-String -Path $masterMd -Pattern '(?m)^## .+\r?\n\r?\n## .+' -AllMatches).Matches).Count
+    SectionHeadings = @((Select-String -Path $masterMd -Pattern '(?m)^#{1,3} SECTION ' -AllMatches).Matches).Count
+    EventHeadings = @((Select-String -Path $masterMd -Pattern '(?m)^\*\*Event \d' -AllMatches).Matches).Count
+    MetadataBlocks = @((Select-String -Path $masterMd -Pattern '(?m)^\*\*(Chapter Number|POV Character|Word Count):' -AllMatches).Matches).Count
+    StateSummaries = @((Select-String -Path $masterMd -Pattern '(?m)^#{1,3} (SECTION 6|STATE UPDATE|Aftermath State|### SHIP STATE)' -AllMatches).Matches).Count
+    EndingPreserved = $endingOk
 }
 
-$report = @{
+$reportJson = @{
     MasterMd = (Test-Path $masterMd)
     Docx = (Test-Path $docxOut)
     Epub = (Test-Path $epubOut)
-    Pdf = $pdfCreated
+    Pdf = [bool]$pdfCreated
     TotalWords = $totalWords
     ApproxPages = $approxPages
-    PdfWarning = $pdfWarning
-    EpubValidation = $epubValidation
-    ChapterStats = $chapterStats
-    ArchiveStats = @($archiveStats)
-    ManualCleanup = $manualCleanup
+    PdfWarning = $(if ($pdfWarning) { $pdfWarning } else { '' })
+    WordWarning = $(if ($wordWarning) { $wordWarning } else { '' })
+    WordFormatted = [bool]$wordFormatted
+    EpubStatus = $epubValidation.Status
+    EpubWarnings = @($epubValidation.Warnings)
+    ManualCleanup = @($manualCleanup)
     Validation = $validation
-}
-
-$report | ConvertTo-Json -Depth 5 | Set-Content (Join-Path $outDir "build_report.json") -Encoding UTF8
+} | ConvertTo-Json -Depth 6
+$reportJson | Set-Content (Join-Path $outDir "build_report.json") -Encoding UTF8
 Write-Host "Total words: $totalWords"
 Write-Host "Approx pages: $approxPages"
 Write-Host "Build complete."

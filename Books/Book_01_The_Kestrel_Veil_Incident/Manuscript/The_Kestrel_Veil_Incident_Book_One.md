@@ -1,12 +1,4 @@
-﻿---
-title: "The Kestrel Veil Incident"
-subtitle: "Book One of The Solmare Cycle"
-author: "K.W. Abbott"
-lang: en-US
-rights: "Copyright (c) K.W. Abbott. All rights reserved."
-description: "Book One of The Solmare Cycle. A scout crew discovers that reality itself has become inconsistently observable."
----
-
+﻿
 \newpage
 
 # THE KESTREL VEIL INCIDENT
@@ -80,15 +72,12 @@ Fleet Survey Authority
 
 \newpage
 
-<div align="center">
 
-**Chapter 1**
+# Chapter 1
 
-**The Empire**
+## The Empire
 
-![Chapter divider](assets/chapter_logo.png)
-
-</div>
+<p align="center"><img src="assets/chapter_logo.png" alt="Chapter divider" width="180" /></p>
 
 The morning feed arrived at Meridian Gate before the station's artificial dawn cycle finished its slow climb from indigo to pearl.
 
@@ -373,15 +362,12 @@ She had not.
 
 \newpage
 
-<div align="center">
 
-**Chapter 2**
+# Chapter 2
 
-**A Captain's Dream**
+## A Captain's Dream
 
-![Chapter divider](assets/chapter_logo.png)
-
-</div>
+<p align="center"><img src="assets/chapter_logo.png" alt="Chapter divider" width="180" /></p>
 
 Founders' Week turned Helion Prime's academy terrace into something the manuals never described: a parade ground with music.
 
@@ -851,15 +837,12 @@ Calder glanced back through the docking bay viewport. The scar's welded seam cau
 
 \newpage
 
-<div align="center">
 
-**Chapter 3**
+# Chapter 3
 
-**The Ship That Refuses to Die**
+## The Ship That Refuses to Die
 
-![Chapter divider](assets/chapter_logo.png)
-
-</div>
+<p align="center"><img src="assets/chapter_logo.png" alt="Chapter divider" width="180" /></p>
 
 "Let's see what we've got," Calder said.
 
@@ -977,7 +960,6 @@ Thessaly did not say *welcome to your command*. The crew had heard captains befo
 
 
 
-❦
 
 Engineering was down two decks and in, where the systems actually lived.
 
@@ -1055,7 +1037,6 @@ Thessaly did not explain this. She did not need to.
 
 
 
-❦
 
 The galley was too small for fourteen people and exactly the right size for six who needed to remember they had mouths.
 
@@ -1151,7 +1132,6 @@ The galley laughed—not at Calder. At the door, which everyone in the room had 
 
 
 
-❦
 
 Afternoon on the *Veil* ran on overlapping schedules—Thessaly's watches, Koss's maintenance blocks, and the fact that scout crews did not get synchronized sleep.
 
@@ -1213,7 +1193,6 @@ The ship ran whether or not he had sat in the command chair. That should have un
 
 
 
-❦
 
 The first decision came on something small enough to miss.
 
@@ -1277,7 +1256,6 @@ Calder did not look proud. He looked tired, which was safer.
 
 
 
-❦
 
 Stories collected in the galley after night watch the way they always did—half memory, half routine, none of them complete.
 
@@ -1335,7 +1313,6 @@ Thessaly answered: "Every time I've been aboard. Not a guarantee. A habit. Habit
 
 
 
-❦
 
 Departure morning started with dispatch, then engines.
 
@@ -1451,15 +1428,12 @@ The *Veil* held vacuum. That was the only promise that mattered today.
 
 \newpage
 
-<div align="center">
 
-**Chapter 4**
+# Chapter 4
 
-**Routine Patrol**
+## Routine Patrol
 
-![Chapter divider](assets/chapter_logo.png)
-
-</div>
+<p align="center"><img src="assets/chapter_logo.png" alt="Chapter divider" width="180" /></p>
 
 The environmental thrum changed pitch when the cradle released them—not enough for Koss to log, enough for Calder to feel through the command chair.
 
@@ -1549,7 +1523,6 @@ The word still did not feel like his.
 
 The environmental thrum settled into its patrol note—a half-tone lower than cradle, steady enough that Calder stopped listening for the change and started listening for when it changed again.
 
-❦
 
 Reyes brought them to patrol velocity with the same micro-corrections as undock. Nothing a passenger would feel. Nothing a new captain would notice unless he stood behind navigation and asked at the wrong time.
 
@@ -1611,7 +1584,6 @@ Tanaka went back to her colors.
 
 Calder thought he almost udnerstood the drift exchange—bias, compensation, the table Tanaka kept—then lost the shape of it again. He stopped trying to force it into meaning before he had more data.
 
-❦
 
 By the time they reached patrol velocity, the watch had found its pace.
 
@@ -1713,7 +1685,6 @@ Walsh appeared on the command deck at hour nine with a stores strip and no apolo
 
 Calder did not intercept him.
 
-❦
 
 It happened during what the watch log would later call mid-cycle quiet.
 
@@ -1766,7 +1737,6 @@ Brenner's voice on engineering channel, already elsewhere: "Port panel secured. 
 
 Park opened the next relay buffer. Ortega refreshed his tertiary sweep.
 
-❦
 
 Patrol continued.
 
@@ -1800,7 +1770,6 @@ He labeled it separately, then released the rest of the packet.
 
 No comment followed.
 
-❦
 
 The command deck entered its low-activity cycle for the final approach to relay point Kestran IV-Alpha.
 
@@ -1856,15 +1825,12 @@ Somewhere aft, Brenner kicked a door.
 
 \newpage
 
-<div align="center">
 
-**Chapter 5**
+# Chapter 5
 
-**Mission's End**
+## Mission's End
 
-![Chapter divider](assets/chapter_logo.png)
-
-</div>
+<p align="center"><img src="assets/chapter_logo.png" alt="Chapter divider" width="180" /></p>
 
 Relay rendezvous closed without ceremony.
 
@@ -1908,7 +1874,6 @@ The mapping sweep continued through the last quiet minutes before contact—arc 
 
 Reyes called a vector correction. Tanaka's dice clicked. Halden marked another ghost trace *non-event*. The command deck breathed the way it breathed when nothing was wrong yet—routine as infrastructure.
 
-❦
 
 The first return came on Ortega's long-range passive channel—hour three of the mapping sweep, no alarm, no posture change.
 
@@ -2242,7 +2207,6 @@ Park transmitted hour four mapping progress stub—mandate data first, contact f
 
 Calder signed the stub. The contact bearing stayed hot on starboard displays. Tanaka's arc ten staging completed on the port side. The engagement cycle continued whether or not Fleet's forms had a name for it yet.
 
-❦
 
 At hour five of the mapping sweep, the bearing shifted again.
 
@@ -2336,7 +2300,8 @@ Calder watched the correlation stack and the loss intervals side by side in his 
 
 He thought: *we are close, but closeness is unstable*. Not abstract. Operational. The ship's geometry and the contact's masking were coupled in a way the logs could describe without the logs yet explaining.
 
----
+
+* * *
 
 **ENEMY POV — UNKNOWN VESSEL (WATCH STATE)**
 
@@ -2366,7 +2331,6 @@ He thought: *we are close, but closeness is unstable*. Not abstract. Operational
 
 *The hull stayed silent.*
 
----
 
 **KESTREL VEIL — RESUMED**
 
@@ -2504,7 +2468,6 @@ He did not ask for a second probe. Scout doctrine allowed it; the log from the f
 
 Thessaly did not argue for a second probe either. She moved to the logging station and began staging the probe-loss packet—telemetry, passive fragments, cut timestamp, segregated attachments. Park opened a buffer shelf for it. Procedure continuing because procedure was how the crew kept moving when outcomes were incomplete.
 
-❦
 
 For twenty minutes after probe loss, the ship arrays did what the probe had done—tried, lost, tried again.
 
@@ -2850,7 +2813,8 @@ The composite feed aligned. Full resolution. All channels. The contact on bearin
 
 Calder did not speak. He watched the lock hold and knew, at command level, that locks this clean did not stay clean without cost.
 
----
+
+* * *
 
 **ENEMY POV — UNKNOWN VESSEL (WATCH STATE)**
 
@@ -2874,7 +2838,6 @@ Calder did not speak. He watched the lock hold and knew, at command level, that 
 
 *The pulse crossed the gap toward the scout contact.*
 
----
 
 **KESTREL VEIL — RESUMED**
 
@@ -2934,7 +2897,8 @@ Darkness..
 
 === END OF KESTREL VEIL TRACKING ===
 
----
+
+* * *
 
 **ENEMY POV — COMMAND DEBRIEF (COMMANDER VEX)**
 
@@ -2986,25 +2950,20 @@ Darkness..
 
 *The display went dark.*
 
----
 
 END CHAPTER 5
 
 \newpage
 
-<div align="center">
 
-**Chapter 6**
+# Chapter 6
 
-**First Contact (Anomaly Site Alpha)**
+## First Contact (Anomaly Site Alpha)
 
-![Chapter divider](assets/chapter_logo.png)
-
-</div>
+<p align="center"><img src="assets/chapter_logo.png" alt="Chapter divider" width="180" /></p>
 
 **PART 1 — DANA HOLT POV (KESTRAN VI-GAMMA WATCHPOST)**
 
----
 
 Hour nineteen on a watch indistinguishable from hour three.
 
@@ -3438,11 +3397,11 @@ Nothing on the board answered whether Jun Park was still breathing somewhere the
 
 Dana filed the empty column where silence used to mean the watch had done its job. Quiet still looked the same on the form. It did not weigh the same.
 
----
+
+* * *
 
 **PART 2 — KESTREL VEIL POV**
 
----
 
 The hours before the lock had cost the *Kestrel Veil* something Calder could not name without sounding like a man borrowing language from a training manual he no longer trusted.
 
@@ -3704,19 +3663,14 @@ No one had been told to stop. No one stopped.
 
 The hull kept vibrating wrong. The vent hum kept going.
 
----
-
 \newpage
 
-<div align="center">
 
-**Chapter 7**
+# Chapter 7
 
-**The Living Ship**
+## The Living Ship
 
-![Chapter divider](assets/chapter_logo.png)
-
-</div>
+<p align="center"><img src="assets/chapter_logo.png" alt="Chapter divider" width="180" /></p>
 
 Fourteen hours after Calder told the deck to get the *Veil* up and running, the ship still sounded like a patient who had decided to breathe again without agreeing to wake up.
 
@@ -3766,7 +3720,6 @@ Calder did not fix it.
 
 He started in engineering because Brenner would have started there whether anyone ordered it or not.
 
----
 
 The ring passage smelled like hot insulation and the particular grease Tomas Brenner wore into his skin. **Elara Koss** had a multimeter between her teeth and a certification slate propped against a junction box that had last been opened, according to the stamp, in a year Brenner refused to treat as historical.
 
@@ -3904,7 +3857,6 @@ In the pass-through he passed **Jun Park** running cable with Cole—both of the
 
 Calder filed that as culture, not comedy, and kept walking.
 
----
 
 Life support came next because Walsh would not let anyone forget it.
 
@@ -3924,7 +3876,6 @@ Medical bay was calm in the way a field hospital pretended to be an office. **Dr
 
 "I'll ask you again when you sit down." She returned to her chart. "Go. Brenner's doing that thing where he keeps the ship breathing with spite. It's not the same as healthy."
 
----
 
 Internal communications returned in pieces—a morning's work that felt like a week.
 
@@ -4022,7 +3973,6 @@ Calder asked what they needed for internal voice next.
 
 "Park's problem," Brenner said. "We give him clean power, he gives VI-Gamma something to shout through."
 
----
 
 **KESTRAN VI-GAMMA WATCHPOST**
 
@@ -4104,7 +4054,6 @@ She closed the overlay.
 
 Nand ran it.
 
----
 
 **FLEET OPERATIONS COMMAND — HELION PRIME**
 
@@ -4250,7 +4199,6 @@ Sato returned to her alcove. "I'm sending Intelligence a tasking brief. Cloak pr
 
 Mercer keyed. The floor resumed its temperature—busy without noise, the way Fleet survived bad news.
 
----
 
 Short-range communications came back the way Park had promised—in ugly, honest steps, none of them long enough to reach Fleet without a middle node.
 
@@ -4434,7 +4382,6 @@ Nand said, "Chief—"
 
 They ran it. The void remained.
 
----
 
 Hour twenty-two on the *Veil*. Internal comms mostly live. Short-range fringe only off-ship. Tactical rebuilding. Navigation waiting on hood.
 
@@ -4468,7 +4415,6 @@ Calder walked the ring passage once more—not inspection, presence. He stopped 
 
 He was beginning to understand that he was not commanding a crew that had recovered. He was commanding exhausted professionals who had decided to work anyway—and his job was to keep them moving without pretending that was the same as being okay.
 
----
 
 Calder sat in the galley for six minutes—the first time he had sat without being summoned since the contact.
 
@@ -4496,7 +4442,6 @@ Kevin, passing: "Cap. Sit longer next time."
 
 "Next time," Calder said. He did not believe in next time yet. He believed in the next watch.
 
----
 
 Calder spent the afternoon walking departments.
 
@@ -4518,7 +4463,6 @@ Calder did not sit. "Anything else?"
 
 "I know. Tell him I said that. He'll like it."
 
----
 
 Halden's tactical bay smelled like burned emitter gel and coffee that had been reheated too many times. Halden had the overlay up on a secondary pane—empty still, but the frame lived.
 
@@ -4574,7 +4518,6 @@ When the packet finally went upstream an hour later, neither of them mentioned t
 
 Calder heard that from the rail. He did not comment. Thessaly logged it anyway—XO habit.
 
----
 
 **Yuki Tanaka** had charts spread in colors only she and Reyes shared.
 
@@ -4602,7 +4545,6 @@ Reyes: "One more hour with ring five stable. Brenner promised. Then we open the 
 
 Calder left them to it.
 
----
 
 Hour twenty-eight through thirty-one belonged to navigation and the optical hood.
 
@@ -4636,7 +4578,7 @@ Reyes kept his hand on the cradle after the fix logged. Tanaka asked if he wante
 
 Tanaka did not argue. Ortega ran passive again—it failed. He ran it again anyway.
 
-Thessaly stood beside Calder at the rail. "Navigation has a fix. Fleet has orders pending. Engineering has whisper burn. Medical has a board that says *holding*." She paused. "What do you need, Captain?"
+Thessaly stood beside Calder at the rail. "Navigation has a fix. Fleet has orders pending. Engineering has correction thrusters. Medical has a board that says *holding*." She paused. "What do you need, Captain?"
 
 Calder looked at her. The question had traveled the ship. It had not fixed anything.
 
@@ -4670,7 +4612,6 @@ Park, later, to Holt on relay: "Buffer logged. Stars logged. Confirm receive." F
 
 Nobody told him to stop.
 
----
 
 Engines waited because engines always waited on the *Veil*.
 
@@ -4688,9 +4629,9 @@ Calder found them in the ring passage arguing about whether the nameplate counte
 
 "I know."
 
-Koss pulled up a thermal graph. "Port regulator still lies one degree. I believe the lie enough for whisper burn. I don't believe it for pride speed."
+Koss pulled up a thermal graph. "Port regulator still lies one degree. I believe the lie enough for correction thrust. I don't believe it for pride speed."
 
-"We can give you whisper burn for course change when Fleet sends it," Brenner said. "We cannot give you Dennett's habit of pretending the *Veil* is new."
+"We can give you correction thrust for a course change when Fleet sends it," Brenner said. "We cannot give you Dennett's habit of pretending the *Veil* is new."
 
 Calder almost smiled. It didn't land.
 
@@ -4698,7 +4639,7 @@ Calder almost smiled. It didn't land.
 
 "Six hours," Koss said.
 
-"And someone to tell Reyes whisper burn is not an insult to navigation," Brenner added. "It's a love letter."
+"And someone to tell Reyes correction thrusters are not an insult to navigation," Brenner added. "It's a love letter."
 
 Calder looked at the crooked nameplate, the open panels, the list in the deck he felt when he shifted weight.
 
@@ -4714,7 +4655,6 @@ Hargrove, from the upper crawl: "And someone to tell Fleet we're not a warship w
 
 Calder carried Brenner's love letter to the command deck without comment.
 
----
 
 Fleet orders came at hour thirty-eight—strip on Holt's board first, then downstream after confirm tokens.
 
@@ -4780,7 +4720,6 @@ Park, to Calder, lower voice: "Dana will relay the burn notice upstream. Fleet l
 
 "I always do." Park did not smile. "That's why she called me an idiot."
 
----
 
 Everyone had work.
 
@@ -4822,11 +4761,10 @@ Calder was still in engineering. Halden was still rebuilding tactical ten percen
 
 Thessaly took the XO chair and opened the transit draft.
 
----
 
 Course change came slow—the way the *Veil* did everything worth doing.
 
-Reyes plotted Neutral Zone corridor seven-alpha with manual assists Tanaka marked in three colors. Koss brought ring five up for sustained burn at whisper fraction—enough to steer, not enough to boast. Halden watched local space with ten percent tactical and one hundred percent suspicion.
+Reyes plotted Neutral Zone corridor seven-alpha with manual assists Tanaka marked in three colors. Koss brought ring five up for correction thrust at minimal fraction—enough to steer, not enough to boast. Halden watched local space with ten percent tactical and one hundred percent suspicion.
 
 Nobody wanted to go back toward the frontier.
 
@@ -4836,7 +4774,7 @@ Calder stood on the command deck when the burn started. The deck vibration chang
 
 Below, in the ring passage, technicians who had not slept spoke in half sentences about couplings and childhoods and the price of brass nameplates on ships that should have been retired. Someone had taped *DO NOT SEAL* on a hatch that no longer met its frame.
 
-**Elara Koss** watched the whisper burn hold on her slate and said, to no one in particular, "She turns like a drunk, but she turns."
+**Elara Koss** watched the correction thrust hold on her slate and said, to no one in particular, "She turns like a drunk, but she turns."
 
 Brenner: "Drunks don't have my regulators."
 
@@ -4848,7 +4786,7 @@ Park logged the burn on buffer and relay lane. Walsh logged no new injuries. Ort
 
 On VI-Gamma, Holt and Nand watched the scout bearing family shift one increment on the amended overlay—not proof of intent, proof of motion. Holt relayed the burn notice upstream before Calder finished asking. Confirm token back. Then another Fleet query waiting in queue.
 
-"Whisper burn," Nand said.
+"Correction thrust," Nand said.
 
 "Observe and investigate," Holt said. "Fleet language for *go back and don't die stupidly*."
 
@@ -4876,23 +4814,18 @@ The *Kestrel Veil* could move. The crew could work. Neither was ready.
 
 They went anyway.
 
----
-
 \newpage
 
-<div align="center">
 
-**Chapter 8**
+# Chapter 8
 
-**The Quiet Before the Silence**
+## The Quiet Before the Silence
 
-![Chapter divider](assets/chapter_logo.png)
-
-</div>
+<p align="center"><img src="assets/chapter_logo.png" alt="Chapter divider" width="180" /></p>
 
 The *Kestrel Veil* did not arrive at Kestran VI-Gamma so much as apologize her way into its shadow.
 
-Whisper burn had carried them across the last leg on ring five at a fraction Calder would not have signed before the bloom. **Marco Reyes** made three correction burns that **Yuki Tanaka** called *embarrassing* and Reyes called *honest*. The scout listed two degrees to port. The hull creaked on each adjustment like an old door complaining about weather.
+With the main engines offline, the Kestrel relied on correction thrusters for propulsion, limping across the last leg at a snail’s pace.  It wasn't fast, it barely even qualified as movement, and it sure as hell wasn't pretty.  **Marco Reyes** made three correction burns that **Yuki Tanaka** called *embarrassing* and Reyes called *honest*. The scout listed two degrees to port. The hull creaked on each adjustment like an old door complaining about weather.
 
 On the command deck, lighting ran at day-cycle because someone in environmental had won an argument with a relay—but ring three still flickered when the scrubbers overworked, and the deck vibration under Calder's boots was wrong in a way his body had learned faster than any instrument.
 
@@ -4914,7 +4847,7 @@ He did not add that the *Veil* matched drift the way a limping animal matched pa
 
 "Same thing," Brenner said.
 
-Calder listened and did not interrupt. The ship around him still smelled like scorch and hot duct—familiar now, wrong still. A runner had taped *DO NOT SEAL* on a hatch that no longer met its frame. Someone else had written *YET* underneath in smaller letters.
+Calder listened and did not interrupt. The ship around him still smelled like scorch and hot duct—familiar now, wrong still. A runner had taped *DOES NOT SEAL* on a hatch that no longer met its frame. Someone else had written *YET* underneath in smaller letters.
 
 Park keyed another upstream packet—burn status, latch prep. Waited. Holt relayed confirm. Waited again. The rhythm of their lives for two days made physical.
 
@@ -4936,7 +4869,6 @@ The window, Park had said. Emergency berthing. Not a yard. Not recovery. A pause
 
 Calder did not tell the deck that. The deck already knew.
 
----
 
 **KESTRAN VI-GAMMA WATCHPOST**
 
@@ -4950,7 +4882,7 @@ Both facts lived on her board now without reconciling. Nand said that was correc
 
 Holt did not look away from the viewport.
 
-The *Kestrel Veil* came out of whisper burn ugly—attitude wobble, port list, thermal bloom on ring five that Cartography would classify as *distressed* before anyone wrote *brave*. No parade. No escort. Just a tired hull crossing the last kilometers like a patient leaving hospital against medical advice.
+The *Kestrel Veil* came off correction thrusters ugly—attitude wobble, port list, thermal bloom on ring five that Cartography would classify as *distressed* before anyone wrote *brave*. No parade. No escort. Just a tired hull crossing the last kilometers like a patient leaving hospital against medical advice.
 
 Holt had written *probable hull loss* into the Fleet chain without writing those words. She had relayed Jun Park's voice upstream and heard Fleet un-write the loss with the same procedural calm.
 
@@ -4960,7 +4892,7 @@ Seeing it was different.
 
 She thought of Jun Park inside that hull—relay voice, segregated buffer, childhood on a fringe lane that had no business carrying either. She thought of the column going void. Both at once. Neither canceling the other.
 
-For two days she had been the hinge between a dead scout on Fleet paper and a living crew on whisper burn. Now the living crew had a silhouette.
+For two days she had been the hinge between a dead scout on Fleet paper and a living crew limping in on correction thrusters. Now the living crew had a silhouette.
 
 "Lane two alignment," Nand said.
 
@@ -5008,7 +4940,6 @@ Not witness alone.
 
 Bridge.
 
----
 
 The *Veil* matched lane two with a final burn that Brenner on intercom called *a negotiation* and Koss called *an insult to propulsion*.
 
@@ -5074,7 +5005,6 @@ Calder took the transit tube to the collar level because the lift argued with th
 
 Calder continued to the collar.
 
----
 
 VI-Gamma's emergency berthing ring was a metal collar and a maintenance crawlway grafted onto a listening post that had never been designed to mother wounded scouts.
 
@@ -5138,7 +5068,6 @@ Cho, beside Calder: "He's fun."
 
 "You have no idea," Calder said.
 
----
 
 Hour one through four belonged to duct tape theology.
 
@@ -5158,7 +5087,7 @@ Calder came down to the collar three times before undock—not to supervise, to 
 
 On the third visit Calder found Koss and Eban seated on either side of a junction like surgeons who disagreed about anatomy.
 
-"If we force the coupler," Koss said, "ring four holds through whisper burn. If we force it wrong, ring four becomes a fireworks show."
+"If we force the coupler," Koss said, "ring four holds through the forces from the correction thrusters. If we force it wrong, ring four becomes a fireworks show."
 
 "Don't force it wrong," Calder said.
 
@@ -5192,7 +5121,6 @@ Cho checked in once per hour. No optimism. No speeches. Just: "What do you still
 
 "Wouldn't dream of it," Brenner said.
 
----
 
 Off-cycle came in fragments—not rest, but gaps.
 
@@ -5268,7 +5196,6 @@ Brenner considered. "For Fleet not to call us ready. For Koss to stop pretending
 
 Calder left him there.
 
----
 
 Park found Holt in the relay bay between hour three and four—not the primary watch floor, the secondary fringe room where Cartography allowed personal lanes if you didn't lie about the log headers.
 
@@ -5428,7 +5355,6 @@ That fact did not make the void safe.
 
 It made the borrowed time matter.
 
----
 
 Hour five brought Fleet.
 
@@ -5486,7 +5412,6 @@ On the command deck, Halden said nothing and watched local space anyway. Reyes f
 
 Calder heard every word and signed nothing that said *recovered*.
 
----
 
 Departure felt heavier than arrival.
 
@@ -5590,11 +5515,10 @@ Priya had been tracking the signal decay curve since Park first keyed burn notic
 
 Holt opened the next relay slot because the board always needed the next relay slot. Nand ran sweep eleven without being asked. Partner.
 
-Cho's team watched from the gantry until the scout's thermal bloom faded into whisper fraction and distance.
+Cho's team watched from the gantry until the scout's thermal bloom faded into distance and memory.
 
 No one applauded.
 
----
 
 The second half of the watch belonged to silence discipline.
 
@@ -5612,13 +5536,12 @@ Reyes: "Manual route segment one holding."
 
 Park: nothing, when Calder looked at him—because saying *all quiet* would have been a transmission habit and Park was done with habits that cost range.
 
-The *Veil* moved on whisper burn through approach geometry Tanaka had marked in three colors and Reyes treated like scripture written in pencil. Life support still ran warm aft. Scrubbers still cycled loud. Lights still flickered in ring three. Cho's borrowed filters sat in environmental like guests. Park's collar amplifier was behind them now—range falling with every kilometer.
+The *Veil* moved on correction thrusters through the approach geometry Tanaka had marked in three colors and Reyes treated like scripture written in pencil. Life support still ran warm aft. Scrubbers still cycled loud. Lights still flickered in ring three. Cho's borrowed filters sat in environmental like guests. Park's collar amplifier was behind them now—range falling with every kilometer.
 
 They were patched. They were not ready. They were alone.
 
 Calder ran status every eleven minutes—Park's schedule when Park was anxious, and Park was right about some things. Thessaly stood beside him once during segment two without speaking. Her slate had marks—Ortega, Hale, Reyes—and Calder had learned to read them.
 
----
 
 Segment two took forty minutes that felt like four hours.
 
@@ -5644,7 +5567,6 @@ Koss: "Logged insult."
 
 Park at the buffer with empty upstream lanes and hands that wanted to key something anyway. He did not. Calder watched him not key it and felt the cost of silence in a man built to carry other people's voices.
 
----
 
 Approach lane seven-alpha narrowed the way a throat narrowed—geometry from charts, pressure from memory.
 
@@ -5676,7 +5598,7 @@ Calder looked around the deck—Thessaly present, Halden on tactical, Hale watch
 
 They had crossed from recovery into risk.
 
-Whisper burn on seven-alpha was restraint made physical. Brenner held ring five at the lowest fraction that still let Reyes steer. Cole walked pass-throughs with soft-soled boots because someone had posted *noise is emissions* on intercom and nobody had taken it down.
+Crawling seven-alpha on correction thrusters was restraint made physical. Brenner held ring five at the lowest fraction that still let Reyes steer. Cole walked pass-throughs with soft-soled boots because someone had posted *noise is emissions* on intercom and nobody had taken it down.
 
 "Segment five boundary," Reyes said. "Seven-alpha approach edge. Manual confirm."
 
@@ -5693,8 +5615,6 @@ Calder did not say *we're back*. No one on the deck did. They had been here befo
 The dark ahead was no longer empty.
 
 It was simply not speaking yet.
-
----
 
 \newpage
 
@@ -5735,17 +5655,13 @@ Limited
 
 \newpage
 
-<div align="center">
 
-**Chapter 9**
+# Chapter 9
 
-**Across the Line**
+## Across the Line
 
-![Chapter divider](assets/chapter_logo.png)
+<p align="center"><img src="assets/chapter_logo.png" alt="Chapter divider" width="180" /></p>
 
-</div>
-
----
 
 **THE DOMINION — STRATEGIC SECURITY DIRECTORATE**  
 **CLASSIFIED — EYES ONLY**
@@ -5906,7 +5822,6 @@ Stratimirov set the cup down.
 
 Petrov: "Understood, sir."
 
----
 
 **KESTREL VEIL — COMMAND DECK**
 
@@ -5932,7 +5847,7 @@ He stopped at navigation.
 
 "Status," he said.
 
-Reyes did not look up from the manual overlay. "Segment six holding. Whisper fraction stable. No active emitters. Passive only."
+Reyes did not look up from the manual overlay. "Segment six holding. Correction-thrust fraction stable. No active emitters. Passive only."
 
 "Confidence."
 
@@ -5988,7 +5903,7 @@ No jokes.
 
 No one had joked much since the bloom.
 
-Cole still ran pass-throughs with soft soles. **Kevin** still appeared with trays nobody asked for and calories everyone needed. The ship still creaked on whisper burn the way old ships creaked when asked to be quiet and young at the same time.
+Cole still ran pass-throughs with soft soles. **Kevin** still appeared with trays nobody asked for and calories everyone needed. The ship still creaked between correction pulses the way old ships creaked when asked to be quiet and young at the same time.
 
 But the crew had changed shape around the empty places the Incident left—tighter at the center, gentler at the edges, the way broken bones healed if you kept using them correctly.
 
@@ -6006,7 +5921,7 @@ Reyes breathed once.
 
 Segment six took fifty-two minutes.
 
-Fifty-two minutes of whisper burn where nothing happened loudly enough to call an event and everything happened quietly enough to call reconnaissance. Tanaka updated manual overlays. Halden ran local sweeps that returned empty. Ortega failed passive loops with the patience of a man who had stopped expecting gratitude from his instruments.
+Fifty-two minutes on correction thrusters where nothing happened loudly enough to call an event and everything happened quietly enough to call reconnaissance. Tanaka updated manual overlays. Halden ran local sweeps that returned empty. Ortega failed passive loops with the patience of a man who had stopped expecting gratitude from his instruments.
 
 Calder did not ask for updates on schedule.
 
@@ -6020,7 +5935,6 @@ The stillness itself was new. Before the Incident, a false call would have earne
 
 The *Veil* moved forward into segment seven like a patient animal that had learned the fence was not the edge of the world.
 
----
 
 **KESTREL VEIL — ENGINEERING**
 
@@ -6052,7 +5966,7 @@ That was mentorship: not comfort, direction.
 
 Brenner moved to the port tie-in and listened.
 
-Whisper burn at this fraction had a signature—ring five's low hum, scrubber cycle, the particular rattle of a panel he'd shimmed twelve years ago on a Tuesday he still remembered. He knew that signature the way Calder knew crew voices.
+Correction thrust at this fraction had a signature—ring five's low hum, scrubber cycle, the particular rattle of a panel he'd shimmed twelve years ago on a Tuesday he still remembered. He knew that signature the way Calder knew crew voices.
 
 This had an undertone.
 
@@ -6102,7 +6016,6 @@ Brenner looked at her. "Then we keep her alive long enough to tell Calder we wer
 
 The *Veil* kept whispering through the border in a voice Brenner was learning to read.
 
----
 
 **THE DOMINION — BORDER SURVEILLANCE NODE K-17**
 
@@ -6190,9 +6103,8 @@ The border was always being watched.
 
 Both sides had just been reminded why.
 
-Somewhere in the corridor geometry, a damaged Fleet scout moved on whisper fraction through infrastructure that had never been wilderness—unaware, for now, that K-17 had filed her existence in a language the Dominion understood better than poetry.
+Somewhere in the corridor geometry, a damaged Fleet scout crept on correction thrusters through infrastructure that had never been wilderness—unaware, for now, that K-17 had filed her existence in a language the Dominion understood better than poetry.
 
----
 
 **KESTREL VEIL — COMMAND DECK**
 
@@ -6220,7 +6132,7 @@ The return was old.
 
 Not ancient. Maintained.
 
-A navigation aid—passive, cooperative, the kind of thing you deployed when you expected traffic to obey lanes you had decided were yours. Then a second return. A third—spacing that was not coincidence, synchronized relay geometry marching along the corridor in intervals Reyes recognized before he admitted he did. Gravitational lane corrections in the whisper burn profile he had been fighting for two segments without naming aloud. Relay hardware sleeping in a band Fleet charts labeled empty. Maintenance signatures on four separate points—thermal bleed on housings, recent, routine, the work of hands that expected traffic to return on schedule.
+A navigation aid—passive, cooperative, the kind of thing you deployed when you expected traffic to obey lanes you had decided were yours. Then a second return. A third—spacing that was not coincidence, synchronized relay geometry marching along the corridor in intervals Reyes recognized before he admitted he did. Gravitational lane corrections in the correction-thruster profile he had been fighting for two segments without naming aloud. Relay hardware sleeping in a band Fleet charts labeled empty. Maintenance signatures on four separate points—thermal bleed on housings, recent, routine, the work of hands that expected traffic to return on schedule.
 
 Nothing broadcast in Fleet formats.
 
@@ -6286,23 +6198,17 @@ Investigate.
 
 Do not engage unless necessary.
 
-The *Kestrel Veil* held her whisper burn and moved deeper into segment seven—alone, damaged, professional—into a corridor that had never been empty, only patient.
-
----
+The *Kestrel Veil* crept on correction thrusters and moved deeper into segment seven—alone, damaged, professional—into a corridor that had never been empty, only patient.
 
 \newpage
 
-<div align="center">
 
-**Chapter 10**
+# Chapter 10
 
-**Ghosts in the Dark**
+## Ghosts in the Dark
 
-![Chapter divider](assets/chapter_logo.png)
+<p align="center"><img src="assets/chapter_logo.png" alt="Chapter divider" width="180" /></p>
 
-</div>
-
----
 
 **THE DOMINION — REGIONAL TRANSPORTATION DIRECTORATE**  
 **SECTOR NINE — MORNING PLANNING**
@@ -6397,7 +6303,6 @@ Volkova thought of corridor four-seven's delay and accepted it the way she accep
 
 Then she went to her desk and routed the world.
 
----
 
 **KESTREL VEIL — COMMAND DECK**
 
@@ -6425,7 +6330,7 @@ Calder crossed the rail in three strides.
 
 "No illumination," Hale said from defensive. "Rotation limit honored. No active sweep."
 
-**Yuki Tanaka**: "No emitters. Whisper fraction holding."
+**Yuki Tanaka**: "No emitters. Correction-thrust fraction holding."
 
 Calder looked at the plot—ghost returns, weak as breath on cold glass, spaced along the same corridor infrastructure they had logged yesterday. Not a frontier picket. Not a patrol line. Traffic.
 
@@ -6493,7 +6398,6 @@ Brenner on intercom, voice flat: "Captain—handshake lag trending up. Not failu
 
 "Logged," Brenner said, and cut.
 
----
 
 **THE DOMINION — ORBITAL CONSTRUCTION YARD KESSIK-OUTER**  
 **FABRICATION**
@@ -6566,7 +6470,6 @@ He used *deadline*.
 
 On the transit ride he fell asleep against the window and missed his stop once—the kind of mistake workers made when the yard took the margin out of your day. He walked back one station in the cold corridor air and bought flowers for his wife's mother because apologies were cheaper when you remembered them early.
 
----
 
 **KESTREL VEIL — SENSOR ALCOVE**
 
@@ -6646,7 +6549,6 @@ Reyes, from the doorway: "So do we. That's the point."
 
 Ghosts in the dark, listening to other ghosts.
 
----
 
 **THE DOMINION — K-17 / TRANSIT / HOME**
 
@@ -6708,7 +6610,6 @@ Kovat slept anyway.
 
 That was preparation too.
 
----
 
 **KESTREL VEIL — COMMAND DECK**
 
@@ -6716,7 +6617,7 @@ Calder called the overlay meeting at hour nineteen because waiting did not impro
 
 Reyes at navigation. Ortega at sensors. Tanaka on confirmation. Halden on threat board, even though threat was the wrong word. Park on buffer integrity. Thessaly with slate open for once. Hale on rotation limit because Hale was always on rotation limit.
 
-The display built itself in layers—passive beacons, lane corrections, relay geometry, maintenance spacing, observed traffic returns from seventy-two hours of whisper burn, listening watch correlations, infrastructure the Fleet charts had labeled *un surveyed* because uns surveyed was easier than *someone else's*.
+The display built itself in layers—passive beacons, lane corrections, relay geometry, maintenance spacing, observed traffic returns from seventy-two hours on correction thrusters, listening watch correlations, infrastructure the Fleet charts had labeled *un surveyed* because uns surveyed was easier than *someone else's*.
 
 Reyes traced lines with the stylus he used when he was angry and precise. "Navigation network—not edge marker. Core routing. Traffic capacity implied by lane width and correction frequency."
 
@@ -6782,23 +6683,17 @@ Calder did not add orders.
 
 The orders were already written—observe, investigate, do not engage, stay passive, stay alive, learn what Fleet Authority would have to know when they finally had a path to tell it.
 
-The *Kestrel Veil* held her whisper burn and moved deeper into segment seven—alone, damaged, professional—through the outer transportation network of a civilization that had never been empty, only patient, only prepared, only waiting for the day when someone else's scout mistook routine for absence.
-
----
+The *Kestrel Veil* crept on correction thrusters and moved deeper into segment seven—alone, damaged, professional—through the outer transportation network of a civilization that had never been empty, only patient, only prepared, only waiting for the day when someone else's scout mistook routine for absence.
 
 \newpage
 
-<div align="center">
 
-**Chapter 11**
+# Chapter 11
 
-**Silent Crossings**
+## Silent Crossings
 
-![Chapter divider](assets/chapter_logo.png)
+<p align="center"><img src="assets/chapter_logo.png" alt="Chapter divider" width="180" /></p>
 
-</div>
-
----
 
 **THE DOMINION — REGIONAL TRANSPORTATION DIRECTORATE**  
 **SECTOR NINE — CROSSINGS**
@@ -6917,7 +6812,6 @@ The Dominion moved cargo because children needed coats for Founders' Week and mo
 
 Volkova pulled her gloves on and went back to work.
 
----
 
 **KESTREL VEIL — PASSIVE SUITE**
 
@@ -7027,7 +6921,6 @@ The corridor worked.
 
 It had been working without Fleet permission for longer than Calder had been alive.
 
----
 
 **THE DOMINION — DISTRICT NINE / SCHOOL YARD**  
 **FOUNDERS' WEEK**
@@ -7094,7 +6987,6 @@ The Dominion was not an abstraction on a passive plot.
 
 The Dominion was Nika's sash and Selim's wife's wave and Teacher Marin telling children that perseverance was not a volume knob.
 
----
 
 **KESTREL VEIL — WARDROOM**
 
@@ -7168,7 +7060,6 @@ He did not add *thank you*.
 
 Brenner would hear it anyway.
 
----
 
 **THE DOMINION — ORBITAL CONSTRUCTION YARD KESSIK-OUTER**  
 **SHIFT CHANGE**
@@ -7245,7 +7136,6 @@ Deadline, not drama.
 
 That was how civilizations endured.
 
----
 
 **KESTREL VEIL — COMMAND DECK**  
 **SILENT CROSSINGS**
@@ -7254,7 +7144,7 @@ Hour twenty-two, segment seven.
 
 The overlay had stopped being a map and become a census without names.
 
-Ortega at passive six percent— still insultingly low, still enough. Reyes on lane merge logic. Thessaly on classification bands that refused simple military labels. Park on buffer segregation. Tanaka confirming whisper fraction. Hale on rotation. Halden feeding infrastructure age estimates into Reyes's plot until the display looked less like frontier and more like inheritance.
+Ortega at passive six percent— still insultingly low, still enough. Reyes on lane merge logic. Thessaly on classification bands that refused simple military labels. Park on buffer segregation. Tanaka confirming correction-thrust fraction. Hale on rotation. Halden feeding infrastructure age estimates into Reyes's plot until the display looked less like frontier and more like inheritance.
 
 Calder stood at the rail and watched civilization arrive as routine.
 
@@ -7342,23 +7232,17 @@ The work continued.
 
 That was the humility— not heroism, not revelation speeches, only professionals accepting that the corridor had never been empty and their charts had been a compliment Fleet paid itself.
 
-The *Veil* held her whisper burn and moved deeper into silent crossings— not the center of the story, only a witness in someone else's ordinary day, while corridors filled and emptied and filled again as if the scout had never been born and would never be necessary to prove they had always been here.
-
----
+The *Veil* crept on correction thrusters and moved deeper into silent crossings— not the center of the story, only a witness in someone else's ordinary day, while corridors filled and emptied and filled again as if the scout had never been born and would never be necessary to prove they had always been here.
 
 \newpage
 
-<div align="center">
 
-**Chapter 12**
+# Chapter 12
 
-**Whispers in the Corridor**
+## Whispers in the Corridor
 
-![Chapter divider](assets/chapter_logo.png)
+<p align="center"><img src="assets/chapter_logo.png" alt="Chapter divider" width="180" /></p>
 
-</div>
-
----
 
 **THE DOMINION — STRATEGIC SECURITY DIRECTORATE**  
 **PATTERN DEVIATION**
@@ -7479,7 +7363,6 @@ Continue collecting.
 
 Always continue collecting.
 
----
 
 **KESTREL VEIL — COMMAND DECK**  
 **THE ECHO**
@@ -7566,7 +7449,6 @@ The *Veil* whispered.
 
 Somewhere in the corridor's routine, an echo answered— not words, not threat, only the subtle difference between a hallway empty and a hallway watched.
 
----
 
 **THE DOMINION — REGIONAL TRANSPORTATION DIRECTORATE**  
 **THE MATHEMATICIAN**
@@ -7655,7 +7537,6 @@ Still not a story.
 
 Closer to one.
 
----
 
 **KESTREL VEIL — SENSOR ALCOVE**  
 **LISTENING**
@@ -7750,7 +7631,6 @@ The corridor whispered.
 
 The whispers had begun to sound like questions.
 
----
 
 **THE DOMINION — BORDER SURVEILLANCE NODE K-17**  
 **THE REVIEW**
@@ -7835,7 +7715,6 @@ She knew what she would do tomorrow.
 
 Watch.
 
----
 
 **KESTREL VEIL — COMMAND DECK**  
 **THE FIRST SHADOW**
@@ -7882,7 +7761,7 @@ Calder answered, "I don't know."
 
 Pause.
 
-The *Veil* held whisper burn like a held breath.
+The *Veil* crept on correction thrusters like a held breath.
 
 He said, "But I don't think it's coincidence anymore."
 
@@ -7954,21 +7833,15 @@ They waited.
 
 They continued.
 
----
-
 \newpage
 
-<div align="center">
 
-**Chapter 13**
+# Chapter 13
 
-**The Weight of Preparation**
+## The Weight of Preparation
 
-![Chapter divider](assets/chapter_logo.png)
+<p align="center"><img src="assets/chapter_logo.png" alt="Chapter divider" width="180" /></p>
 
-</div>
-
----
 
 **THE DOMINION — STRATEGIC SECURITY DIRECTORATE**  
 **THE RETURN**
@@ -8023,7 +7896,6 @@ Petrov's jaw worked. "Sir—at thirty—"
 
 "At thirty we compare harder. We do not act softer." Stratimirov set the cup down. "Bring Commander Vex."
 
----
 
 **Commander Vex** entered without ceremony.
 
@@ -8115,7 +7987,6 @@ The directorate preferred comparison to illumination.
 
 For now, comparison was enough.
 
----
 
 **KESTREL VEIL — PASSIVE OBSERVATION**  
 **THE YARDS**
@@ -8130,7 +8001,7 @@ No approach.
 
 Only patience and the insult of six percent passive rebuild showing more than Fleet doctrine had prepared anyone to receive.
 
-**Tomás Brenner** had the helm on whisper burn with the particular stillness of a man who had learned that the most dangerous thing a pilot could do in enemy space was look impressed.
+**Tomás Brenner** had the helm on correction thrusters with the particular stillness of a man who had learned that the most dangerous thing a pilot could do in enemy space was look impressed.
 
 "Range holding," Brenner said. "No closure. No drift toward curiosity."
 
@@ -8214,7 +8085,6 @@ Calder nodded. He was no longer looking for enemy ships.
 
 He was trying to understand a civilization.
 
----
 
 **THE DOMINION — DISTRICT FOURTEEN / SOROKIN HOME**  
 **THURSDAY**
@@ -8301,7 +8171,6 @@ No emergency tones.
 
 Another production adjustment in a civilization that had been adjusting production for longer than his children had been alive.
 
----
 
 **KESTREL VEIL — WARDROOM**  
 **THE PATTERN**
@@ -8380,7 +8249,6 @@ Thessaly gathered her notes. Park took the correlation strips. Reyes returned to
 
 Calder remained at the table one minute longer than necessary because captains learned to feel the shape of a war before anyone named it.
 
----
 
 **THE DOMINION — REGIONAL TRANSPORTATION DIRECTORATE**  
 **THE ARCHIVE**
@@ -8443,7 +8311,6 @@ Volkova pulled her gloves on.
 
 "Thank the archivists who filed properly forty years ago. Everyone else just complains about the stairs."
 
----
 
 **KESTREL VEIL — COMMAND DECK**  
 **YEARS**
@@ -8546,7 +8413,7 @@ Hale kept rotation sacred.
 
 Brenner kept the ring steady.
 
-The *Kestrel Veil* held whisper burn in a corridor that had been prepared long before she stumbled into it— damaged, professional, witness to a future someone else had hoped never to need.
+The *Kestrel Veil* crept on correction thrusters in a corridor that had been prepared long before she stumbled into it— damaged, professional, witness to a future someone else had hoped never to need.
 
 Calder watched the plot one more time and thought of yards and Thursdays and grandmothers who spoke in proverbs without explaining them. Not enemies. Not yet. A civilization that had been building toward a horizon Fleet charts had called empty, and a scout that had arrived in time to see the weight of it.
 
@@ -8558,21 +8425,15 @@ They listened.
 
 They continued.
 
----
-
 \newpage
 
-<div align="center">
 
-**Chapter 14**
+# Chapter 14
 
-**Inheritance**
+## Inheritance
 
-![Chapter divider](assets/chapter_logo.png)
+<p align="center"><img src="assets/chapter_logo.png" alt="Chapter divider" width="180" /></p>
 
-</div>
-
----
 
 **THE DOMINION — FRONTIER COMMAND ACADEMY**  
 **THE ACADEMY**
@@ -8665,7 +8526,6 @@ It was Tuesday.
 
 Outside, rain and banners and cadets crossing the quad with manuals under their arms— ordinary inheritance passing from one set of hands to another while benches rebuilt fields that must maintain.
 
----
 
 **KESTREL VEIL — WARDROOM**  
 **LESSONS**
@@ -8758,7 +8618,6 @@ Calder nodded. "Then we stay."
 
 Brenner left without ceremony.
 
----
 
 **THE DOMINION — DISTRICT NINE / K-17 TRANSIT SPINE**  
 **THE MEMORIAL**
@@ -8940,7 +8799,6 @@ None of that would erase the line from Fleet charts.
 
 Only people could do that— slowly, if they were brave enough.
 
----
 
 **THE DOMINION — ORBITAL CONSTRUCTION YARD KESSIK-OUTER**  
 **THE WORKSHOP**
@@ -9033,7 +8891,6 @@ Sorokin considered. Petran would have said *the ship*. Grandmother Ilya would ha
 
 Lina wrote it down.
 
----
 
 **KESTREL VEIL — COMMAND DECK**  
 **THE INHERITANCE**
@@ -9046,7 +8903,7 @@ Calder at the rail.
 
 The bridge was quiet the way deep-water ships were quiet— systems murmuring, crew sparse, responsibility distributed so no one person had to carry all of it at once.
 
-**Tomás Brenner** on helm whisper burn, hands steady.
+**Tomás Brenner** on helm correction thrust, hands steady.
 
 **Mira Thessaly** aft with slate.
 
@@ -9164,7 +9021,7 @@ Tanaka kept emitters dark.
 
 Brenner kept the ring steady.
 
-The *Kestrel Veil* held whisper burn in inherited space— Fleet confidence meeting Dominion caution in the dark, witness to a conflict that had not begun with hatred and would not, if Calder had anything left to say about it, be simplified into villains.
+The *Kestrel Veil* crept on correction thrusters in inherited space— Fleet confidence meeting Dominion caution in the dark, witness to a conflict that had not begun with hatred and would not, if Calder had anything left to say about it, be simplified into villains.
 
 They listened.
 
@@ -9172,21 +9029,15 @@ They continued.
 
 The corridor held them the way it held everyone who used it without thinking about who had made tomorrow possible.
 
----
-
 \newpage
 
-<div align="center">
 
-**Chapter 15**
+# Chapter 15
 
-**The Point of No Return**
+## The Point of No Return
 
-![Chapter divider](assets/chapter_logo.png)
+<p align="center"><img src="assets/chapter_logo.png" alt="Chapter divider" width="180" /></p>
 
-</div>
-
----
 
 **THE DOMINION — STRATEGIC SECURITY DIRECTORATE**  
 **THIRTY-ONE**
@@ -9297,7 +9148,6 @@ The directorate preferred comparison to illumination.
 
 For now, broader listening was enough.
 
----
 
 **KESTREL VEIL — WARDROOM**  
 **THE DEBATE**
@@ -9316,7 +9166,7 @@ It was time.
 
 **Ari Halden** had infrastructure ages and the particular exhaustion of an engineer who had stopped being surprised and had not started being comfortable.
 
-**Damon Reyes** had course projections— whisper burn corridors home, not as escape fantasy, as mathematics.
+**Damon Reyes** had course projections— correction-thruster corridors home, not as escape fantasy, as mathematics.
 
 **Tomás Brenner** had said almost nothing for forty minutes.
 
@@ -9374,7 +9224,7 @@ The pilot had his hands loose on his knees and his eyes on nothing in particular
 
 "What do you think?"
 
-Brenner did not perform thought. Pilots who performed thought did not survive whisper burn.
+Brenner did not perform thought. Pilots who performed thought did not survive weeks on correction thrusters alone.
 
 "The *Kestrel* knows when she's been somewhere long enough."
 
@@ -9422,7 +9272,6 @@ Leadership, Calder was learning, was not the moment you knew everything.
 
 It was the moment you accepted you never would— and still chose which unknowns to carry home.
 
----
 
 **THE DOMINION — DISTRICT NINE / KOVAT HOME**  
 **THE GARDEN**
@@ -9517,7 +9366,6 @@ Neither canceled the other.
 
 That was inheritance too.
 
----
 
 **KESTREL VEIL — WARDROOM**  
 **THE REPORT**
@@ -9624,7 +9472,6 @@ Calder watched her work and thought of Helion Prime— academy phrases that had 
 
 Thessaly began again— slower, more careful, building a report that might, if they were lucky, teach Fleet to listen for Tuesday before it listened for hostility.
 
----
 
 **THE DOMINION — BORDER OBSERVATION CENTER KESSIK**  
 **THE WATCH**
@@ -9733,7 +9580,6 @@ That was the respect the void demanded.
 
 And the warning.
 
----
 
 **KESTREL VEIL — COMMAND DECK**  
 **THE DECISION**
@@ -9748,7 +9594,7 @@ Calder at the rail.
 
 The bridge sparse— systems murmuring, crew functional, responsibility distributed so no one person had to carry all of it at once.
 
-**Tomás Brenner** on helm, whisper burn steady.
+**Tomás Brenner** on helm, correction thrust steady.
 
 **Mira Thessaly** aft with slate and the ugly honest header of a report that would make Fleet uncomfortable.
 
@@ -9970,7 +9816,7 @@ Not hull counts.
 
 Civilization.
 
-The *Kestrel Veil* maintained whisper burn one final night inside Dominion space— damaged, professional, full of knowledge Fleet grammar was not ready to hold.
+The *Kestrel Veil* crept on correction thrusters one final night inside Dominion space— damaged, professional, full of knowledge Fleet grammar was not ready to hold.
 
 On the garden plot in District Nine, greens stood staked for visitors.
 
@@ -9998,21 +9844,15 @@ Calder kept his hands on the rail until the watch turned.
 
 Then he let go.
 
----
-
 \newpage
 
-<div align="center">
 
-**Chapter 16**
+# Chapter 16
 
-**Homeward**
+## Homeward
 
-![Chapter divider](assets/chapter_logo.png)
+<p align="center"><img src="assets/chapter_logo.png" alt="Chapter divider" width="180" /></p>
 
-</div>
-
----
 
 **THE DOMINION — STRATEGIC SECURITY DIRECTORATE**  
 **THE LAST COMPARISON**
@@ -10121,7 +9961,6 @@ Nothing had been dismissed.
 
 That was also a kind of answer.
 
----
 
 **KESTREL VEIL — DEPARTURE LEG**  
 **THE COURSE**
@@ -10132,13 +9971,13 @@ Morning watch.
 
 No speeches.
 
-**Damon Reyes** updated navigation— home vectors, conservative burn, merge windows chosen for traffic humility. **Ari Halden** adjusted engine bands until whisper fraction held without complaint. The *Kestrel* complained anyway— a vibration in ring three Calder had learned to hear as mood rather than malfunction.
+**Damon Reyes** updated navigation— home vectors, conservative burn, merge windows chosen for traffic humility. **Ari Halden** adjusted engine bands until correction-thrust fraction held without complaint. The *Kestrel* complained anyway— a vibration in ring three Calder had learned to hear as mood rather than malfunction.
 
 **Yuki Tanaka** confirmed emitters dark for the third time since watch turnover.
 
 **Felix Ortega** logged passive returns with the discipline of a man who knew listening did not end when course changed.
 
-**Elara Koss** had the engine room on whisper stewardship— not heroic, ancestral, the way Koss treated machines that kept people alive.
+**Elara Koss** had the engine room on correction-thruster stewardship— not heroic, ancestral, the way Koss treated machines that kept people alive.
 
 **Calder Venn** stood at the rail and watched familiar routes begin to disappear behind the *Kestrel Veil*.
 
@@ -10158,7 +9997,7 @@ That was the strangest intelligence outcome of all.
 
 **Tomás Brenner** had the helm.
 
-He did not speak often during departure. Pilots who spoke often during departure disturbed traffic and traffic was the only diplomacy a whisper-burn scout had left.
+He did not speak often during departure. Pilots who spoke often during departure disturbed traffic and traffic was the only diplomacy a damaged scout on correction thrusters had left.
 
 Brenner knew exactly how to move through corridors without disturbing patterns— sliding into merge gaps, respecting maintenance sled rhythm, treating civilian haulers as weather rather than obstacles.
 
@@ -10258,7 +10097,6 @@ Looking back was appetite dressed as sentiment.
 
 The course was home.
 
----
 
 **THE DOMINION — DISTRICT NINE / FOUNDERS' WEEK**  
 **FOUNDERS' WEEK**
@@ -10363,7 +10201,6 @@ Kovat had always known that.
 
 Founders' Week made it visible.
 
----
 
 **KESTREL VEIL — EXECUTIVE OFFICE**  
 **THE REPORT HOME**
@@ -10510,7 +10347,6 @@ Outside the executive office, the corridor hummed.
 
 Homeward.
 
----
 
 **THE DOMINION — BORDER OBSERVATION CENTER KESSIK**  
 **THE BORDER**
@@ -10553,7 +10389,7 @@ Traffic returned to baseline the way traffic returned when a corridor remembered
 
 Petrov nodded.
 
-He stared at the plot where the intelligent gap had been— whisper-class fraction, professional discipline, a hole that behaved like a listener.
+He stared at the plot where the intelligent gap had been— correction-thrust fraction, professional discipline, a hole that behaved like a listener.
 
 "Whatever existed," Petrov said, "is gone."
 
@@ -10613,7 +10449,6 @@ If no one had crossed, the border still deserved professionals watching it.
 
 Either way, Vex would be here when the field must maintain.
 
----
 
 **KESTREL VEIL — COMMAND DECK**  
 **HOMEWARD**
@@ -10696,7 +10531,7 @@ Pause.
 
 The scrubbers cycled.
 
-Whisper burn steady.
+Correction thrust steady.
 
 The old girl reluctant and obedient at once.
 
@@ -10776,25 +10611,18 @@ The border held its breath so both sides could sleep.
 
 For now, that was enough.
 
----
 
 **END ACT III**
 
----
-
 \newpage
 
-<div align="center">
 
-**Chapter 17**
+# Chapter 17
 
-**The Listening Post**
+## The Listening Post
 
-![Chapter divider](assets/chapter_logo.png)
+<p align="center"><img src="assets/chapter_logo.png" alt="Chapter divider" width="180" /></p>
 
-</div>
-
----
 
 **FLEET SPACE — HELION PRIME OUTER APPROACH**
 
@@ -10802,7 +10630,7 @@ For now, that was enough.
 
 Traffic control did not know what history looked like.
 
-It looked like a damaged scout-class silhouette on passive return, bearing consistent with amended mission four-four-seven-one-S, whisper burn within tolerance for a hull that had no business being within tolerance for anything.
+It looked like a damaged scout-class silhouette on passive return, bearing consistent with amended mission four-four-seven-one-S, correction thrust within tolerance for a hull that had no business being within tolerance for anything.
 
 **Calder Venn** stood at the command rail and watched Helion Prime grow in the forward display—not dramatic, not ceremonial, just the industrial glow of a capital that had never stopped working.
 
@@ -10828,11 +10656,11 @@ Dock assignment arrived on Thessaly's secondary pane before Calder asked for it.
 
 Medical notification: crew triage in shifts, priority for defensive and engineering, psychiatric consult optional and available. Calder had seen the template before. He signed the acknowledgment without reading the footer. Some paperwork was permission for other people to do their jobs.
 
-Engineering inspection request: yard team gamma, six-hour window, hull and whisper-burn certification for *patched transit only*. The word *patched* appeared twice. Calder did not confuse patched with ready. Rowan had said that through Holt's relay when the margin was six hours and the border was still ahead. Rowan had been right then. Rowan would be right now.
+Engineering inspection request: yard team gamma, six-hour window, hull and correction-thruster certification for *patched transit only*. The word *patched* appeared twice. Calder did not confuse patched with ready. Rowan had said that through Holt's relay when the margin was six hours and the border was still ahead. Rowan had been right then. Rowan would be right now.
 
 Archive security protocols: Jun Park's chain. Triple redundancy. Segregated buffers. No upstream merge until Fleet Communications confirmed pickup handshake and Cartography liaison validated bearing continuity.
 
-A secondary flag blinked—yard intake requesting damage summary for crane assignment. Calder forwarded Koss's one-line without embellishment: *starboard weld scar stable, list two degrees port, whisper burn certified ugly*. The controller copied it without comment. Fleet spoke fluent damage when it had to.
+A secondary flag blinked—yard intake requesting damage summary for crane assignment. Calder forwarded Koss's one-line without embellishment: *starboard weld scar stable, list two degrees port, correction thrust certified ugly*. The controller copied it without comment. Fleet spoke fluent damage when it had to.
 
 On the bridge, the crew held the posture of people who had crossed a border and not yet uncrossed it inside their own heads. **Felix Ortega** had his headphones on half-mast—still listening, always listening, but the traffic here was Fleet-polite and suddenly insufficient. **Mira Hale** stood defensive watch out of habit; there was nothing to shoot at in cradle approach geometry, but habits had kept them alive. **Yuki Tanaka** ran emitter discipline checks against a sky that was not trying to hide anything.
 
@@ -10860,7 +10688,6 @@ The *Kestrel Veil* came home.
 
 Only the reader knew history had arrived in a scout-class hull with yellow tape on a dent that was not structural and a report that refused easy boxes.
 
----
 
 **FLEET COMMUNICATIONS COMMAND — HELION PRIME**
 
@@ -10928,7 +10755,6 @@ Holt closed the last monitoring file from the Incident window. The board did not
 
 "Build the pathways," she said. "Slow enough to be right."
 
----
 
 **FLEET HISTORICAL OFFICE — LEVEL EIGHT, ADMINISTRATIVE ANNEX**
 
@@ -10946,7 +10772,7 @@ The *Kestrel Veil* report did not arrive as a single thing.
 
 It arrived as what Fleet was built to do with large truths—divide them into specialties until each specialty could pretend it understood the whole.
 
-Navigation data to Cartography Service—lane merges, bearing families, epoch contradictions flagged in Thessaly's appendices. Sensor logs to Intelligence queue—passive archives, correlation strips, discharge profiles from the Incident still referenced as baseline. Engineering to yard certification and Logistics—whisper-burn curves, ring three handshake lag, patched hull geometry. Communications to Holt's chain validation—relay timestamps, segregated lanes, destruction assessment correction history. Historical comparisons to Ellis's own desk—frontier provisional volumes, Founders' Week origin maps, prior survey epochs that had shaded segment seven *low activity*.
+Navigation data to Cartography Service—lane merges, bearing families, epoch contradictions flagged in Thessaly's appendices. Sensor logs to Intelligence queue—passive archives, correlation strips, discharge profiles from the Incident still referenced as baseline. Engineering to yard certification and Logistics—correction-thruster curves, ring three handshake lag, patched hull geometry. Communications to Holt's chain validation—relay timestamps, segregated lanes, destruction assessment correction history. Historical comparisons to Ellis's own desk—frontier provisional volumes, Founders' Week origin maps, prior survey epochs that had shaded segment seven *low activity*.
 
 Ellis watched a Cartography courier take navigation without the executive summary. Watched a Doctrine Bureau intern collect the summary without the sensor raw. Watched an Engineering petty officer cheerfully abscond with damage schematics that said more about survival than about construction.
 
@@ -10960,7 +10786,7 @@ She understood, with the slow clarity of someone whose job was beginnings, that 
 
 Navigation without civilian traffic harmonics was geometry without Tuesdays.
 
-Engineering without whisper-burn limitation was damage without method.
+Engineering without correction-thruster limitation was damage without method.
 
 Executive summary without Park's buffer chain was conclusion without proof anyone had survived to conclude.
 
@@ -10998,7 +10824,6 @@ Ellis returned to the sorting table.
 
 Institutions behaved like institutions. That was not failure. That was metabolism.
 
----
 
 **FLEET COMMAND — OPERATIONS FLOOR**
 
@@ -11068,7 +10893,6 @@ Rowan turned from the glass.
 
 Mercer was already moving.
 
----
 
 **HELION PRIME OUTER YARDS — BERTH FOURTEEN-C**
 
@@ -11138,7 +10962,6 @@ Calder left Brenner with the ship and rode the transit line toward Fleet Headqua
 
 He was not young in that way anymore.
 
----
 
 **FLEET HEADQUARTERS — EVENING WATCH**
 
@@ -11192,25 +11015,18 @@ That was enough to carry up the last corridor.
 
 The chapter ended before the meeting began.
 
----
 
 **END CHAPTER 17**
 
----
-
 \newpage
 
-<div align="center">
 
-**Chapter 18**
+# Chapter 18
 
-**New Words**
+## New Words
 
-![Chapter divider](assets/chapter_logo.png)
+<p align="center"><img src="assets/chapter_logo.png" alt="Chapter divider" width="180" /></p>
 
-</div>
-
----
 
 Fleet Admiral **Elias Rowan** did not keep Calder waiting.
 
@@ -11248,7 +11064,7 @@ He did not take notes on the slate. He had learned that writing too early let ro
 
 Calder corrected without irritation. "Inferred ordinary volume from pattern stability. Observed: no pursuit geometry on our egress bearing."
 
-Rowan nodded. He did not ask *what does it mean*. He asked, "What did whisper burn cost in corridor time?"
+Rowan nodded. He did not ask *what does it mean*. He asked, "What did the correction-thruster crawl cost in corridor time?"
 
 "Observed: twelve percent margin loss on ring three handshake lag under passive hold."
 
@@ -11258,7 +11074,6 @@ Rowan nodded. He did not ask *what does it mean*. He asked, "What did whisper bu
 
 The door chimed—a Cartography courier collecting bearing annexes for overlay. Rowan did not pause the meeting. Fleet did not stop because one department had started work. Somewhere else, paper was already moving.
 
----
 
 Three floors up, **Martine Okoye** laid segment seven navigation returns over epoch 143 frontier shading and felt the projection lie back at her.
 
@@ -11302,7 +11117,6 @@ She routed the overlay to Rowan's stack with a one-line cover note:
 
 The galaxy had not changed overnight. Fleet's verbs had to.
 
----
 
 "We observed industrial throughput at multiple construction slips," Calder said. "Repair annex activity across generational maintenance cycles. Fuel spine duty cycles implying deep capacity baselines—not emergency drawdown."
 
@@ -11326,7 +11140,7 @@ Rowan was quiet three seconds. Calder did not fill the silence. Thessaly did not
 
 "Incident baseline," Rowan said. A request for the same grammar.
 
-Calder: "Observed: partial cloak failure under sustained passive lock at Kestran Spiral. Observed: defensive discharge at resolved bearing. Observed: scatter consistent with hull damage. Observed: whisper-burn withdrawal. We did not observe hull class name. We did not observe political entity name."
+Calder: "Observed: partial cloak failure under sustained passive lock at Kestran Spiral. Observed: defensive discharge at resolved bearing. Observed: scatter consistent with hull damage. Observed: correction-thrust withdrawal. We did not observe hull class name. We did not observe political entity name."
 
 "Speculation?" Rowan asked.
 
@@ -11338,7 +11152,6 @@ Rowan: "Understood."
 
 A slate flag pulsed—Doctrine Bureau routing, provisional classification request. Rowan read the header preview without comment and let the meeting continue. Synthesis required pieces. Pieces were arriving in parallel, the way Fleet metabolized anything too large for one chair.
 
----
 
 In Communications validation bay, **Dana Holt** signed timestamps because timestamps were how civilizations admitted they might be wrong without calling each other liars.
 
@@ -11368,7 +11181,6 @@ She deleted the line from the official flag. Kept it on a personal pane.
 
 The chain that had begun at VI-Gamma with a discharge and a void had completed its first obligation. Proof was not understanding. Proof was permission to argue about words without arguing about fraud.
 
----
 
 Commander **Owen Mercer** had spent twenty years making Fleet's language fit Fleet's emergencies. Tuesday morning he discovered the emergencies had outgrown the nouns.
 
@@ -11402,7 +11214,7 @@ Ahn followed along with a red pen, striking lines that assumed Fleet initiated c
 
 No row for *listened without being greeted*.
 
-No row for *civilization busy on a Tuesday while you whisper-burn in the dark*.
+No row for *civilization busy on a Tuesday while you creep through on correction thrusters in the dark*.
 
 No row for *preparedness predating survey assumptions*.
 
@@ -11432,7 +11244,6 @@ Doctrine had not changed strategy.
 
 Doctrine had admitted its old words were wrong.
 
----
 
 **Soraya Ellis** had joined Historical Office because beginnings mattered—Relay Charter glass cases, Founders' Week placards, the story Fleet told itself on parade mornings.
 
@@ -11480,7 +11291,6 @@ Law assumed passage had been waiting.
 
 The report suggested passage had been busy.
 
----
 
 Rowan's table had accumulated the morning without ceremony.
 
@@ -11492,7 +11302,7 @@ Ellis's comparison brief.
 
 Holt's integrity flag.
 
-A yard certification margin from **Elara Koss**—whisper-burn curves, ring three handshake lag, *patched not repaired, held passive posture sufficient for segment seven return*. Engineering saw capability: not heroism, method.
+A yard certification margin from **Elara Koss**—correction-thruster curves, ring three handshake lag, *patched not repaired, held passive posture sufficient for segment seven return*. Engineering saw capability: not heroism, method.
 
 A Logistics note from **Commander Vance** without a meeting request—industrial throughput implied deep capacity; model scenarios; no procurement flags without Operations signature. Logistics saw scale.
 
@@ -11562,7 +11372,6 @@ Calder waited.
 
 That was not triumph. It was direction—the only kind Rowan trusted before decisions.
 
----
 
 The meeting ended with calendars, not applause.
 
@@ -11611,11 +11420,8 @@ Not today.
 
 Inevitably.
 
----
 
 **END CHAPTER 18**
-
----
 
 \newpage
 
@@ -11664,17 +11470,13 @@ Fleet Doctrine Bureau
 
 \newpage
 
-<div align="center">
 
-**Chapter 19**
+# Chapter 19
 
-**The Witnesses**
+## The Witnesses
 
-![Chapter divider](assets/chapter_logo.png)
+<p align="center"><img src="assets/chapter_logo.png" alt="Chapter divider" width="180" /></p>
 
-</div>
-
----
 
 **FLEET HEADQUARTERS — STRATEGIC REVIEW CHAMBER**
 
@@ -11716,7 +11518,6 @@ Rowan looked at Calder, waiting in the anteroom per protocol.
 
 "Bring Captain Venn."
 
----
 
 **THE CAPTAIN**
 
@@ -11764,7 +11565,7 @@ Sato accepted that without frustration. Intelligence could wait for certified re
 
 Sato: "Incident baseline—same grammar."
 
-"Observed: partial cloak failure under sustained passive lock at Kestran Spiral. Observed: defensive discharge at resolved bearing. Observed: scatter consistent with hull damage. Observed: whisper-burn withdrawal. We did not observe hull class name. We did not observe political entity name."
+"Observed: partial cloak failure under sustained passive lock at Kestran Spiral. Observed: defensive discharge at resolved bearing. Observed: scatter consistent with hull damage. Observed: correction-thrust withdrawal. We did not observe hull class name. We did not observe political entity name."
 
 Rowan: "What did you not see?"
 
@@ -11788,7 +11589,7 @@ Industrial throughput—observed. Fuel spine duty cycles—observed. Departure e
 
 Okonkwo asked about command decisions at the border. Calder did not defend them as heroism.
 
-"We observed whisper-burn margin loss," he said. "We chose passive posture because illumination would have changed the observation product. That is inferred command rationale from logged orders and Thessaly ledger. I observed the orders on the record."
+"We observed correction-thrust margin loss," he said. "We chose passive posture because illumination would have changed the observation product. That is inferred command rationale from logged orders and Thessaly ledger. I observed the orders on the record."
 
 Sato: "Would you illuminate if ordered?"
 
@@ -11812,7 +11613,6 @@ Thessaly touched his sleeve once as he passed—report architect to captain, not
 
 He left the chair without looking back. First witness was not only witness.
 
----
 
 **THE CREW**
 
@@ -11820,7 +11620,6 @@ The board did not want stories.
 
 It wanted lanes.
 
----
 
 **Damon Reyes** — navigation.
 
@@ -11838,13 +11637,12 @@ Sato: "Navigation blind segments?"
 
 He sat when Rowan nodded. He did not comment on civilian harmonics. Navigation lane.
 
----
 
 **Ari Halden** — engineering observations.
 
 Halden brought thermal band logs and infrastructure age notes—twelve-to-twenty-year maintenance layering on passive returns, repair annex throughput signatures. Her hands were steady in the way engineers' hands were steady when numbers did the fear.
 
-"I observed industrial thermal bands consistent with generational maintenance cycles," she said. "I observed whisper-burn margin loss under passive hold—twelve percent on ring three handshake lag, Koss certified. I observed ring three cough on approach to Helion—patched, not repaired. I did not observe upstream power signatures from our hull during segment seven."
+"I observed industrial thermal bands consistent with generational maintenance cycles," she said. "I observed correction-thrust margin loss under passive hold—twelve percent on ring three handshake lag, Koss certified. I observed ring three cough on approach to Helion—patched, not repaired. I did not observe upstream power signatures from our hull during segment seven."
 
 Okoye, leaning forward: "Thermal returns versus Cartography occupancy overlay?"
 
@@ -11860,7 +11658,6 @@ Mercer: "Could damage from Incident explain passive gaps?"
 
 She sat. Engineering lane.
 
----
 
 **Felix Ortega** — communications harmonics.
 
@@ -11882,7 +11679,6 @@ Rowan did not comment. Comment was synthesis. Synthesis came later.
 
 He sat. Harmonics lane.
 
----
 
 **Jun Park** — archive integrity.
 
@@ -11904,19 +11700,18 @@ Holt did not look up. Her pen moved once.
 
 Park sat. Archive lane.
 
----
 
 **Tomás Brenner** — ship condition.
 
 Brenner had come from berth fourteen-C in yard coveralls with a mission patch on his cuff—unofficial trade, respect currency. He smelled like solvent and honest complaining.
 
-"The *Kestrel* held passive posture because whisper burn held and ring three lag was ugly but within Koss's margin," he said. "Observed vibration change in monitored corridor volume. Observed handshake lag increase under passive hold. Observed departure without pursuit geometry on egress bearing."
+"The *Kestrel* held passive posture because correction thrust held and ring three lag was ugly but within Koss's margin," he said. "Observed vibration change in monitored corridor volume. Observed handshake lag increase under passive hold. Observed departure without pursuit geometry on egress bearing."
 
 He shifted weight. "Observed Corridor C kick still works. Observed yellow tape on starboard dent still not structural. Observed crew sleep debt. Not in annex. In ship."
 
 Okonkwo: "Captain's command decisions?"
 
-"Outside my lane," Brenner said. "Ship held. Crew held. Helm held whisper burn inside Koss's numbers. That's engineering and helm testimony."
+"Outside my lane," Brenner said. "Ship held. Crew held. Helm held correction thrust inside Koss's numbers. That's engineering and helm testimony."
 
 Sato: "Could ship condition have fabricated returns?"
 
@@ -11932,7 +11727,6 @@ Rowan nodded. The board had not been impressed by drama. It had been impressed b
 
 Mercer keyed interim witness completion. Coffee was replaced. Nobody drank.
 
----
 
 **THE EVIDENCE**
 
@@ -11980,7 +11774,6 @@ Communications had done its job when nobody in the corridor would ever know Holt
 
 That was also credibility.
 
----
 
 **THE DELIBERATION**
 
@@ -12040,7 +11833,6 @@ She would file the official Historical concurrence later.
 
 Today she understood how civilizations preserved truth before doctrine: they made heroism embarrassing.
 
----
 
 **THE RECORD**
 
@@ -12130,25 +11922,18 @@ History would argue about doctrine soon enough.
 
 Today, history had been witnessed correctly.
 
----
 
 **END CHAPTER 19**
 
----
-
 \newpage
 
-<div align="center">
 
-**Chapter 20**
+# Chapter 20
 
-**The Long Shadow**
+## The Long Shadow
 
-![Chapter divider](assets/chapter_logo.png)
+<p align="center"><img src="assets/chapter_logo.png" alt="Chapter divider" width="180" /></p>
 
-</div>
-
----
 
 **THE DOMINION — STRATEGIC SECURITY DIRECTORATE**  
 **THE FILE**
@@ -12235,7 +12020,6 @@ The Dominion knew thirty-two points and a quieter plot and the ordinary volume o
 
 History continued without asking the directorate for permission.
 
----
 
 **THE DOMINION — DISTRICT ELEVEN PRIMARY**  
 **THE CLASSROOM**
@@ -12290,7 +12074,6 @@ Nobody needed to.
 
 Preparation was already being taught gently—not propaganda, repetition.
 
----
 
 **THE DOMINION — KESSIK-OUTER ORBITAL YARD**  
 **THE SHIPYARD**
@@ -12343,7 +12126,6 @@ History lived above it.
 
 Sorokin went back to Slip Seven after lunch because the quarter did not care what the directorate called a file. **Mara** texted *flowers or candles?* He replied *both if shift ends*. That was the war he knew.
 
----
 
 **FLEET HEADQUARTERS — HISTORICAL OFFICE ANNEX**  
 **THE MAP**
@@ -12396,7 +12178,6 @@ The law had not changed today.
 
 Fleet's map of who passed first had.
 
----
 
 **FLEET DOCTRINE BUREAU — CLASSIFICATION ANNEX**  
 **THE MEMO**
@@ -12455,7 +12236,6 @@ Outside the annex, an Exploration Corps lieutenant walked past the whiteboard wh
 
 Edition 144 had begun without parade.
 
----
 
 **FLEET HEADQUARTERS — OPERATIONS TIER**  
 **THE SHADOW**
@@ -12540,25 +12320,18 @@ Both existed.
 
 For now, that was the tension—and the hope.
 
----
 
 **END CHAPTER 20**
 
----
-
 \newpage
 
-<div align="center">
 
-**Chapter 21**
+# Chapter 21
 
-**The Weight of Evidence**
+## The Weight of Evidence
 
-![Chapter divider](assets/chapter_logo.png)
+<p align="center"><img src="assets/chapter_logo.png" alt="Chapter divider" width="180" /></p>
 
-</div>
-
----
 
 **FLEET DOCTRINE BUREAU — CLASSIFICATION ANNEX**  
 **THE DOCTRINE SPLIT BEGINS**
@@ -12642,7 +12415,6 @@ Mercer discovered doctrine was not convergence.
 
 It was structured divergence under pressure—and his job was to keep the forks labeled, not pretend one was prophecy.
 
----
 
 **FLEET CARTOGRAPHY SERVICE — MAP ROOM FOUR**  
 **CARTOGRAPHY PRESSURE**
@@ -12689,7 +12461,6 @@ Torres grunted approval. Cartography pressure was not cartography failure.
 
 It was what happened when truth outgrew a single adjective.
 
----
 
 **FLEET DOCTRINE BUREAU — LANGUAGE INTEGRITY REVIEW**  
 **THE LANGUAGE PROBLEM**
@@ -12760,7 +12531,6 @@ Truth had been accepted.
 
 Meaning had not.
 
----
 
 **FLEET OPERATIONS — STRATEGIC PLANNING ALCOVE**  
 **THE OPERATIONAL QUESTION**
@@ -12838,7 +12608,6 @@ Mercer keyed copies to Exploration, Intelligence, Logistics, Communications. No 
 
 The institution remained stable because stability, today, meant formalizing disagreement instead of hiding it.
 
----
 
 **FLEET HISTORICAL OFFICE — COMPARISON ARCHIVE**  
 **THE HISTORICAL ARGUMENT**
@@ -12895,7 +12664,6 @@ History preserved mistakes.
 
 History also prevented panic if you let it speak before policy did.
 
----
 
 **FLEET HEADQUARTERS — OPERATIONS TIER**  
 **ROWAN'S REALIZATION**
@@ -12994,25 +12762,18 @@ The weight of evidence had arrived.
 
 The weight of interpretation had only begun.
 
----
 
 **END CHAPTER 21**
 
----
-
 \newpage
 
-<div align="center">
 
-**Chapter 22**
+# Chapter 22
 
-**Recognition**
+## Recognition
 
-![Chapter divider](assets/chapter_logo.png)
+<p align="center"><img src="assets/chapter_logo.png" alt="Chapter divider" width="180" /></p>
 
-</div>
-
----
 
 **OUTER KESTRAN PATROL BAND — SCOUT ROUTING NODE SEVEN-ALPHA ADJACENT**  
 **BORDER PATROL ADJUSTMENT**
@@ -13087,7 +12848,6 @@ Exploration remained professional.
 
 Exploration remained singular in name only.
 
----
 
 **FLEET INTELLIGENCE — STRATEGIC MODELING FLOOR**  
 **INTELLIGENCE REPRIORITIZATION**
@@ -13148,7 +12908,6 @@ That was depth.
 
 Depth was Intelligence's job.
 
----
 
 **FLEET CARTOGRAPHY SERVICE — MAP ROOM FOUR**  
 **CARTOGRAPHY SPLIT OUTPUT**
@@ -13209,7 +12968,6 @@ The galaxy had not doubled.
 
 Fleet's ability to pretend one map was the galaxy had ended.
 
----
 
 **FLEET COMMUNICATIONS COMMAND — VALIDATION BAY**  
 **COMMUNICATIONS FRAGILITY**
@@ -13288,7 +13046,6 @@ VI-Gamma stability remained intact. Holt's timestamps sat true in archive. The f
 
 It was fragility of shared meaning riding on stable signal.
 
----
 
 **FLEET DOCTRINE BUREAU — CLASSIFICATION ANNEX**  
 **DOCTRINE BUREAU PRESSURE**
@@ -13349,7 +13106,6 @@ Doctrine was no longer singular.
 
 It was conditional—and Mercer had formalized the conditionality because field officers deserved labels, not lies.
 
----
 
 **FLEET HEADQUARTERS — OPERATIONS TIER**  
 **ROWAN OBSERVES THE SYSTEM**
@@ -13458,25 +13214,18 @@ The consequences of interpretation had left the page.
 
 They were behaving in the world.
 
----
 
 **END CHAPTER 22**
 
----
-
 \newpage
 
-<div align="center">
 
-**Chapter 23**
+# Chapter 23
 
-**The Last Report**
+## The Last Report
 
-![Chapter divider](assets/chapter_logo.png)
+<p align="center"><img src="assets/chapter_logo.png" alt="Chapter divider" width="180" /></p>
 
-</div>
-
----
 
 **FLEET HISTORICAL OFFICE — SYNTHESIS ANNEX**  
 **THE SUMMARIES**
@@ -13557,7 +13306,6 @@ What remained was not more data.
 
 What remained was what kind of Fleet would carry the data across the border it had misnamed for eleven years.
 
----
 
 **FLEET HEADQUARTERS — WITNESS ANNEX**  
 **THE CAPTAIN**
@@ -13634,7 +13382,6 @@ History would use Calder's sentences now.
 
 Calder was allowed to be a captain again.
 
----
 
 **FLEET HEADQUARTERS — OPERATIONS CONFERENCE ROOM**  
 **THE COMMANDERS**
@@ -13723,7 +13470,6 @@ Principles were not policy.
 
 They were the bones policy had to fit, or policy would break Fleet from the inside.
 
----
 
 **FLEET HEADQUARTERS — OPERATIONS TIER**  
 **THE DECISION**
@@ -13816,7 +13562,6 @@ Decision did not feel like thunder.
 
 It felt like paper finally heavy enough to stay where you put it.
 
----
 
 **FLEET COMMUNICATIONS COMMAND — ARCHIVE BAY**  
 **THE LAST REPORT**
@@ -13901,7 +13646,6 @@ Outside, Helion traffic merged on schedule.
 
 Inside, history owned the report now.
 
----
 
 **FLEET HEADQUARTERS — OPERATIONS TIER**  
 **THE FIRST DOCTRINE**
@@ -13976,25 +13720,18 @@ Fade was not surrender.
 
 It was the office learning that some decisions did not need an audience to become real.
 
----
 
 **END CHAPTER 23**
 
----
-
 \newpage
 
-<div align="center">
 
-**Chapter 24**
+# Chapter 24
 
-**Edition 144**
+## Edition 144
 
-![Chapter divider](assets/chapter_logo.png)
+<p align="center"><img src="assets/chapter_logo.png" alt="Chapter divider" width="180" /></p>
 
-</div>
-
----
 
 **FLEET DOCTRINE BUREAU — CLASSIFICATION ANNEX**  
 **THE PUBLICATION**
@@ -14101,7 +13838,6 @@ Fleet did not cheer infrastructure.
 
 Fleet used it.
 
----
 
 **OUTER KESTRAN PATROL BAND — SKID *MORNING WATCH***  
 **FIELD ADAPTATION**
@@ -14188,7 +13924,6 @@ That should have felt diminishing.
 
 It felt like professionalism finally matching the sky.
 
----
 
 **FLEET CARTOGRAPHY SERVICE — MAP ROOM FOUR**  
 **LIVE MAPS**
@@ -14261,7 +13996,6 @@ That was not completion.
 
 It was infrastructure.
 
----
 
 **FLEET COMMUNICATIONS COMMAND — VALIDATION BAY**  
 **NORMALIZATION**
@@ -14346,7 +14080,6 @@ Official logs got timestamps.
 
 Private thoughts got shift end.
 
----
 
 **FLEET HEADQUARTERS — OPERATIONS TIER**  
 **THE OBSERVER**
@@ -14455,7 +14188,6 @@ The external frontier waited unchanged.
 
 That was also doctrine.
 
----
 
 **OUTER KESTRAN APPROACH — SCOUT *KESTREL VEIL***  
 **THE FRONTIER REMAINS UNCHANGED**
@@ -14464,7 +14196,7 @@ That was also doctrine.
 
 That was the mission.
 
-Passive watch on the approach lane to segment seven notation—Fleet space still, by ephemeris and treaty and the comfortable fiction of margins. The *Kestrel Veil* had been cleared for limited patrol after yard certification and psychiatric consult and the slow bureaucratic kindness Fleet extended to ships that had become evidence. Brenner had the helm with the particular stillness of engineers who trusted whisper burn more than speeches. Park ran communications with the economy of a man who had carried chains through void and did not need to prove it twice. Walsh's damage boards glowed amber in places green used to live.
+Passive watch on the approach lane to segment seven notation—Fleet space still, by ephemeris and treaty and the comfortable fiction of margins. The *Kestrel Veil* had been cleared for limited patrol after yard certification and psychiatric consult and the slow bureaucratic kindness Fleet extended to ships that had become evidence. Brenner had the helm with the particular stillness of engineers who trusted correction thrusters more than speeches. Park ran communications with the economy of a man who had carried chains through void and did not need to prove it twice. Walsh's damage boards glowed amber in places green used to live.
 
 The forward display showed frontier geometry the way Cartography now taught it—tri-layer toggle on the rail, civilian rhythm default, witness bands accessible with two taps Calder still found morally reassuring.
 
@@ -14536,7 +14268,7 @@ Sometimes crossing meant standing in passable geometry with your emissions disci
 
 "Sir."
 
-"Hold whisper burn. Extend dwell. We're not bored. We're behaving."
+"Hold correction thrust. Extend dwell. We're not bored. We're behaving."
 
 "Aye, Captain."
 
@@ -14576,11 +14308,8 @@ Fleet had chosen, for now, to grow up without parade.
 
 **END BOOK ONE**
 
----
 
 **END CHAPTER 24**
-
----
 
 \newpage
 

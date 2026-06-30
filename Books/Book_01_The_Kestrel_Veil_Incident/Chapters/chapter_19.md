@@ -92,7 +92,7 @@ Sato accepted that without frustration. Intelligence could wait for certified re
 
 Sato: "Incident baseline—same grammar."
 
-"Observed: partial cloak failure under sustained passive lock at Kestran Spiral. Observed: defensive discharge at resolved bearing. Observed: scatter consistent with hull damage. Observed: whisper-burn withdrawal. We did not observe hull class name. We did not observe political entity name."
+"Observed: partial cloak failure under sustained passive lock at Kestran Spiral. Observed: defensive discharge at resolved bearing. Observed: scatter consistent with hull damage. Observed: correction-thrust withdrawal. We did not observe hull class name. We did not observe political entity name."
 
 Rowan: "What did you not see?"
 
@@ -116,7 +116,7 @@ Industrial throughput—observed. Fuel spine duty cycles—observed. Departure e
 
 Okonkwo asked about command decisions at the border. Calder did not defend them as heroism.
 
-"We observed whisper-burn margin loss," he said. "We chose passive posture because illumination would have changed the observation product. That is inferred command rationale from logged orders and Thessaly ledger. I observed the orders on the record."
+"We observed correction-thrust margin loss," he said. "We chose passive posture because illumination would have changed the observation product. That is inferred command rationale from logged orders and Thessaly ledger. I observed the orders on the record."
 
 Sato: "Would you illuminate if ordered?"
 
@@ -172,7 +172,7 @@ He sat when Rowan nodded. He did not comment on civilian harmonics. Navigation l
 
 Halden brought thermal band logs and infrastructure age notes—twelve-to-twenty-year maintenance layering on passive returns, repair annex throughput signatures. Her hands were steady in the way engineers' hands were steady when numbers did the fear.
 
-"I observed industrial thermal bands consistent with generational maintenance cycles," she said. "I observed whisper-burn margin loss under passive hold—twelve percent on ring three handshake lag, Koss certified. I observed ring three cough on approach to Helion—patched, not repaired. I did not observe upstream power signatures from our hull during segment seven."
+"I observed industrial thermal bands consistent with generational maintenance cycles," she said. "I observed correction-thrust margin loss under passive hold—twelve percent on ring three handshake lag, Koss certified. I observed ring three cough on approach to Helion—patched, not repaired. I did not observe upstream power signatures from our hull during segment seven."
 
 Okoye, leaning forward: "Thermal returns versus Cartography occupancy overlay?"
 
@@ -238,13 +238,13 @@ Park sat. Archive lane.
 
 Brenner had come from berth fourteen-C in yard coveralls with a mission patch on his cuff—unofficial trade, respect currency. He smelled like solvent and honest complaining.
 
-"The *Kestrel* held passive posture because whisper burn held and ring three lag was ugly but within Koss's margin," he said. "Observed vibration change in monitored corridor volume. Observed handshake lag increase under passive hold. Observed departure without pursuit geometry on egress bearing."
+"The *Kestrel* held passive posture because correction thrust held and ring three lag was ugly but within Koss's margin," he said. "Observed vibration change in monitored corridor volume. Observed handshake lag increase under passive hold. Observed departure without pursuit geometry on egress bearing."
 
 He shifted weight. "Observed Corridor C kick still works. Observed yellow tape on starboard dent still not structural. Observed crew sleep debt. Not in annex. In ship."
 
 Okonkwo: "Captain's command decisions?"
 
-"Outside my lane," Brenner said. "Ship held. Crew held. Helm held whisper burn inside Koss's numbers. That's engineering and helm testimony."
+"Outside my lane," Brenner said. "Ship held. Crew held. Helm held correction thrust inside Koss's numbers. That's engineering and helm testimony."
 
 Sato: "Could ship condition have fabricated returns?"
 

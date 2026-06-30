@@ -19,7 +19,7 @@ Last updated: Chapter 10 complete — 2026-06-28 (*Ghosts in the Dark*)
 
 - **operational_status:** damaged; patched; segment seven, seven-alpha
 - **sensors/comms:** passive only; listening watch; ~6% passive rebuild; local buffer
-- **propulsion:** whisper burn; silence discipline
+- **propulsion:** correction thrusters; silence discipline
 - **last_known_location:** Inside Dominion transportation network volume
 - **crew_perception:** trespassing through active civilization; *We weren't expanding into empty space*
 

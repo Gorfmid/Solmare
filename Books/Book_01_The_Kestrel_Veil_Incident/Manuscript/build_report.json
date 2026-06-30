@@ -1,143 +1,27 @@
 ﻿{
-    "MasterMd":  true,
+    "WordWarning":  "Retrieving the COM class factory for component with CLSID {00000000-0000-0000-0000-000000000000} failed due to the following error: 80040154 Class not registered (Exception from HRESULT: 0x80040154 (REGDB_E_CLASSNOTREG)).",
     "ManualCleanup":  [
 
                       ],
-    "Pdf":  true,
-    "ChapterStats":  [
-                         {
-                             "Chapter":  1,
-                             "Words":  4406
-                         },
-                         {
-                             "Chapter":  2,
-                             "Words":  71
-                         },
-                         {
-                             "Chapter":  3,
-                             "Words":  76
-                         },
-                         {
-                             "Chapter":  4,
-                             "Words":  63
-                         },
-                         {
-                             "Chapter":  5,
-                             "Words":  5798
-                         },
-                         {
-                             "Chapter":  6,
-                             "Words":  4484
-                         },
-                         {
-                             "Chapter":  7,
-                             "Words":  4541
-                         },
-                         {
-                             "Chapter":  8,
-                             "Words":  5126
-                         },
-                         {
-                             "Chapter":  9,
-                             "Words":  4452
-                         },
-                         {
-                             "Chapter":  10,
-                             "Words":  4753
-                         },
-                         {
-                             "Chapter":  11,
-                             "Words":  4591
-                         },
-                         {
-                             "Chapter":  12,
-                             "Words":  4911
-                         },
-                         {
-                             "Chapter":  13,
-                             "Words":  5114
-                         },
-                         {
-                             "Chapter":  14,
-                             "Words":  5220
-                         },
-                         {
-                             "Chapter":  15,
-                             "Words":  4920
-                         },
-                         {
-                             "Chapter":  16,
-                             "Words":  4873
-                         },
-                         {
-                             "Chapter":  17,
-                             "Words":  5093
-                         },
-                         {
-                             "Chapter":  18,
-                             "Words":  4848
-                         },
-                         {
-                             "Chapter":  19,
-                             "Words":  9763
-                         },
-                         {
-                             "Chapter":  20,
-                             "Words":  4934
-                         },
-                         {
-                             "Chapter":  21,
-                             "Words":  5202
-                         },
-                         {
-                             "Chapter":  22,
-                             "Words":  4830
-                         },
-                         {
-                             "Chapter":  23,
-                             "Words":  4885
-                         },
-                         {
-                             "Chapter":  24,
-                             "Words":  7739
-                         }
-                     ],
-    "ApproxPages":  443,
-    "PdfWarning":  null,
-    "TotalWords":  110693,
-    "Docx":  true,
-    "EpubValidation":  {
-                           "Status":  "PASS",
-                           "Warnings":  [
-                                            "mimetype should be stored uncompressed (common EPUB requirement)"
-                                        ],
-                           "Checks":  [
-                                          {
-                                              "File":  "mimetype",
-                                              "Present":  true
-                                          },
-                                          {
-                                              "File":  "META-INF/container.xml",
-                                              "Present":  true
-                                          },
-                                          {
-                                              "File":  "EPUB/content.opf",
-                                              "Present":  true
-                                          },
-                                          {
-                                              "File":  "EPUB/nav.xhtml",
-                                              "Present":  true
-                                          }
-                                      ]
-                       },
     "Epub":  true,
+    "PdfWarning":  "PDF requires Microsoft Word COM formatting pass.",
     "Validation":  {
-                       "StateSummaries":  0,
-                       "SectionHeadings":  0,
-                       "DuplicateTitles":  0,
-                       "EndingPreserved":  true,
-                       "MetadataBlocks":  0,
-                       "EventHeadings":  0,
+                       "StateSummaries":  1,
+                       "SectionHeadings":  1,
+                       "DuplicateTitles":  1,
+                       "EndingPreserved":  false,
+                       "MetadataBlocks":  1,
+                       "EventHeadings":  1,
                        "ChaptersPresent":  24
-                   }
+                   },
+    "WordFormatted":  false,
+    "EpubWarnings":  [
+                         "mimetype should be stored uncompressed (common EPUB requirement)"
+                     ],
+    "Docx":  true,
+    "TotalWords":  108858,
+    "EpubStatus":  "PASS",
+    "Pdf":  false,
+    "MasterMd":  true,
+    "ApproxPages":  435
 }

@@ -164,7 +164,7 @@ No approach.
 
 Only patience and the insult of six percent passive rebuild showing more than Fleet doctrine had prepared anyone to receive.
 
-**Tomás Brenner** had the helm on whisper burn with the particular stillness of a man who had learned that the most dangerous thing a pilot could do in enemy space was look impressed.
+**Tomás Brenner** had the helm on correction thrusters with the particular stillness of a man who had learned that the most dangerous thing a pilot could do in enemy space was look impressed.
 
 "Range holding," Brenner said. "No closure. No drift toward curiosity."
 
@@ -580,7 +580,7 @@ Hale kept rotation sacred.
 
 Brenner kept the ring steady.
 
-The *Kestrel Veil* held whisper burn in a corridor that had been prepared long before she stumbled into it— damaged, professional, witness to a future someone else had hoped never to need.
+The *Kestrel Veil* crept on correction thrusters in a corridor that had been prepared long before she stumbled into it— damaged, professional, witness to a future someone else had hoped never to need.
 
 Calder watched the plot one more time and thought of yards and Thursdays and grandmothers who spoke in proverbs without explaining them. Not enemies. Not yet. A civilization that had been building toward a horizon Fleet charts had called empty, and a scout that had arrived in time to see the weight of it.
 

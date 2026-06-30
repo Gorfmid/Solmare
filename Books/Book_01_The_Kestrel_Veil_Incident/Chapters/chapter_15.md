@@ -132,7 +132,7 @@ It was time.
 
 **Ari Halden** had infrastructure ages and the particular exhaustion of an engineer who had stopped being surprised and had not started being comfortable.
 
-**Damon Reyes** had course projections— whisper burn corridors home, not as escape fantasy, as mathematics.
+**Damon Reyes** had course projections— correction-thruster corridors home, not as escape fantasy, as mathematics.
 
 **Tomás Brenner** had said almost nothing for forty minutes.
 
@@ -190,7 +190,7 @@ The pilot had his hands loose on his knees and his eyes on nothing in particular
 
 "What do you think?"
 
-Brenner did not perform thought. Pilots who performed thought did not survive whisper burn.
+Brenner did not perform thought. Pilots who performed thought did not survive weeks on correction thrusters alone.
 
 "The *Kestrel* knows when she's been somewhere long enough."
 
@@ -564,7 +564,7 @@ Calder at the rail.
 
 The bridge sparse— systems murmuring, crew functional, responsibility distributed so no one person had to carry all of it at once.
 
-**Tomás Brenner** on helm, whisper burn steady.
+**Tomás Brenner** on helm, correction thrust steady.
 
 **Mira Thessaly** aft with slate and the ugly honest header of a report that would make Fleet uncomfortable.
 
@@ -786,7 +786,7 @@ Not hull counts.
 
 Civilization.
 
-The *Kestrel Veil* maintained whisper burn one final night inside Dominion space— damaged, professional, full of knowledge Fleet grammar was not ready to hold.
+The *Kestrel Veil* crept on correction thrusters one final night inside Dominion space— damaged, professional, full of knowledge Fleet grammar was not ready to hold.
 
 On the garden plot in District Nine, greens stood staked for visitors.
 

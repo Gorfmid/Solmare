@@ -122,13 +122,13 @@ Morning watch.
 
 No speeches.
 
-**Damon Reyes** updated navigation— home vectors, conservative burn, merge windows chosen for traffic humility. **Ari Halden** adjusted engine bands until whisper fraction held without complaint. The *Kestrel* complained anyway— a vibration in ring three Calder had learned to hear as mood rather than malfunction.
+**Damon Reyes** updated navigation— home vectors, conservative burn, merge windows chosen for traffic humility. **Ari Halden** adjusted engine bands until correction-thrust fraction held without complaint. The *Kestrel* complained anyway— a vibration in ring three Calder had learned to hear as mood rather than malfunction.
 
 **Yuki Tanaka** confirmed emitters dark for the third time since watch turnover.
 
 **Felix Ortega** logged passive returns with the discipline of a man who knew listening did not end when course changed.
 
-**Elara Koss** had the engine room on whisper stewardship— not heroic, ancestral, the way Koss treated machines that kept people alive.
+**Elara Koss** had the engine room on correction-thruster stewardship— not heroic, ancestral, the way Koss treated machines that kept people alive.
 
 **Calder Venn** stood at the rail and watched familiar routes begin to disappear behind the *Kestrel Veil*.
 
@@ -148,7 +148,7 @@ That was the strangest intelligence outcome of all.
 
 **Tomás Brenner** had the helm.
 
-He did not speak often during departure. Pilots who spoke often during departure disturbed traffic and traffic was the only diplomacy a whisper-burn scout had left.
+He did not speak often during departure. Pilots who spoke often during departure disturbed traffic and traffic was the only diplomacy a damaged scout on correction thrusters had left.
 
 Brenner knew exactly how to move through corridors without disturbing patterns— sliding into merge gaps, respecting maintenance sled rhythm, treating civilian haulers as weather rather than obstacles.
 
@@ -543,7 +543,7 @@ Traffic returned to baseline the way traffic returned when a corridor remembered
 
 Petrov nodded.
 
-He stared at the plot where the intelligent gap had been— whisper-class fraction, professional discipline, a hole that behaved like a listener.
+He stared at the plot where the intelligent gap had been— correction-thrust fraction, professional discipline, a hole that behaved like a listener.
 
 "Whatever existed," Petrov said, "is gone."
 
@@ -686,7 +686,7 @@ Pause.
 
 The scrubbers cycled.
 
-Whisper burn steady.
+Correction thrust steady.
 
 The old girl reluctant and obedient at once.
 

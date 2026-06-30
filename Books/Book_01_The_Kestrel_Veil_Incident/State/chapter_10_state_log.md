@@ -27,7 +27,7 @@
 
 ## SHIP STATE (END CH. 10)
 
-- Segment seven, day two+ of trespass; whisper burn; passive only
+- Segment seven, day two+ of trespass; correction thrusters; passive only
 - Passive suite ~6%; listening watch active
 - Faint traffic logged (commercial profiles, days out)
 - Overlay confirms **outer transportation network** — not border infrastructure alone

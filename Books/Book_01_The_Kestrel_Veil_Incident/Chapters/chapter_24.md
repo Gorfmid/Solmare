@@ -472,7 +472,7 @@ That was also doctrine.
 
 That was the mission.
 
-Passive watch on the approach lane to segment seven notation—Fleet space still, by ephemeris and treaty and the comfortable fiction of margins. The *Kestrel Veil* had been cleared for limited patrol after yard certification and psychiatric consult and the slow bureaucratic kindness Fleet extended to ships that had become evidence. Brenner had the helm with the particular stillness of engineers who trusted whisper burn more than speeches. Park ran communications with the economy of a man who had carried chains through void and did not need to prove it twice. Walsh's damage boards glowed amber in places green used to live.
+Passive watch on the approach lane to segment seven notation—Fleet space still, by ephemeris and treaty and the comfortable fiction of margins. The *Kestrel Veil* had been cleared for limited patrol after yard certification and psychiatric consult and the slow bureaucratic kindness Fleet extended to ships that had become evidence. Brenner had the helm with the particular stillness of engineers who trusted correction thrusters more than speeches. Park ran communications with the economy of a man who had carried chains through void and did not need to prove it twice. Walsh's damage boards glowed amber in places green used to live.
 
 The forward display showed frontier geometry the way Cartography now taught it—tri-layer toggle on the rail, civilian rhythm default, witness bands accessible with two taps Calder still found morally reassuring.
 
@@ -544,7 +544,7 @@ Sometimes crossing meant standing in passable geometry with your emissions disci
 
 "Sir."
 
-"Hold whisper burn. Extend dwell. We're not bored. We're behaving."
+"Hold correction thrust. Extend dwell. We're not bored. We're behaving."
 
 "Aye, Captain."
 

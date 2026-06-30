@@ -253,7 +253,7 @@ Incomplete recovery — repair priority sequence; Fleet via VI-Gamma relay; dest
 
 ### End state
 
-Whisper burn toward seven-alpha; ship/crew degraded; Holt/Nand relay bridge active.
+Correction thrusters toward seven-alpha; ship/crew degraded; Holt/Nand relay bridge active.
 
 ---
 

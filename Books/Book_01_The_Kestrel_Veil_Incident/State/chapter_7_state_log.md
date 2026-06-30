@@ -14,7 +14,7 @@
 4. External communications (short-range fringe to VI-Gamma only; **Fleet via Holt/Nand relay** — delays, confirm tokens, dropped packets)
 5. Tactical rebuild (~10% local; Halden/Hale)
 6. Navigation (buffer fix → manual optical hood → star fix)
-7. Engines (whisper burn for course change; ring five)
+7. Engines (correction thrusters for course change; ring five)
 
 ## CREW / EMOTIONAL BEATS
 
@@ -43,7 +43,7 @@
 
 ## END STATE (CH. 8 ENTRY)
 
-- *Veil* on whisper burn toward Neutral Zone seven-alpha
+- *Veil* on correction thrusters toward Neutral Zone seven-alpha
 - Internal comms mostly live; **Fleet only via VI-Gamma relay**
 - Tactical ~10%; passive rebuild failing; **hull list, flicker, creak on burn**
 - Life support operational **not repaired**; monitoring continues

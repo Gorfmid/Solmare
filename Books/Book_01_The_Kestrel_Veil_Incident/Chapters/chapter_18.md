@@ -40,7 +40,7 @@ He did not take notes on the slate. He had learned that writing too early let ro
 
 Calder corrected without irritation. "Inferred ordinary volume from pattern stability. Observed: no pursuit geometry on our egress bearing."
 
-Rowan nodded. He did not ask *what does it mean*. He asked, "What did whisper burn cost in corridor time?"
+Rowan nodded. He did not ask *what does it mean*. He asked, "What did the correction-thruster crawl cost in corridor time?"
 
 "Observed: twelve percent margin loss on ring three handshake lag under passive hold."
 
@@ -118,7 +118,7 @@ Rowan was quiet three seconds. Calder did not fill the silence. Thessaly did not
 
 "Incident baseline," Rowan said. A request for the same grammar.
 
-Calder: "Observed: partial cloak failure under sustained passive lock at Kestran Spiral. Observed: defensive discharge at resolved bearing. Observed: scatter consistent with hull damage. Observed: whisper-burn withdrawal. We did not observe hull class name. We did not observe political entity name."
+Calder: "Observed: partial cloak failure under sustained passive lock at Kestran Spiral. Observed: defensive discharge at resolved bearing. Observed: scatter consistent with hull damage. Observed: correction-thrust withdrawal. We did not observe hull class name. We did not observe political entity name."
 
 "Speculation?" Rowan asked.
 
@@ -194,7 +194,7 @@ Ahn followed along with a red pen, striking lines that assumed Fleet initiated c
 
 No row for *listened without being greeted*.
 
-No row for *civilization busy on a Tuesday while you whisper-burn in the dark*.
+No row for *civilization busy on a Tuesday while you creep through on correction thrusters in the dark*.
 
 No row for *preparedness predating survey assumptions*.
 
@@ -284,7 +284,7 @@ Ellis's comparison brief.
 
 Holt's integrity flag.
 
-A yard certification margin from **Elara Koss**—whisper-burn curves, ring three handshake lag, *patched not repaired, held passive posture sufficient for segment seven return*. Engineering saw capability: not heroism, method.
+A yard certification margin from **Elara Koss**—correction-thruster curves, ring three handshake lag, *patched not repaired, held passive posture sufficient for segment seven return*. Engineering saw capability: not heroism, method.
 
 A Logistics note from **Commander Vance** without a meeting request—industrial throughput implied deep capacity; model scenarios; no procurement flags without Operations signature. Logistics saw scale.
 

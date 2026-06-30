@@ -526,7 +526,7 @@ Calder answered, "I don't know."
 
 Pause.
 
-The *Veil* held whisper burn like a held breath.
+The *Veil* crept on correction thrusters like a held breath.
 
 He said, "But I don't think it's coincidence anymore."
 

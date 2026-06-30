@@ -125,7 +125,7 @@ Calder crossed the rail in three strides.
 
 "No illumination," Hale said from defensive. "Rotation limit honored. No active sweep."
 
-**Yuki Tanaka**: "No emitters. Whisper fraction holding."
+**Yuki Tanaka**: "No emitters. Correction-thrust fraction holding."
 
 Calder looked at the plot—ghost returns, weak as breath on cold glass, spaced along the same corridor infrastructure they had logged yesterday. Not a frontier picket. Not a patrol line. Traffic.
 
@@ -416,7 +416,7 @@ Calder called the overlay meeting at hour nineteen because waiting did not impro
 
 Reyes at navigation. Ortega at sensors. Tanaka on confirmation. Halden on threat board, even though threat was the wrong word. Park on buffer integrity. Thessaly with slate open for once. Hale on rotation limit because Hale was always on rotation limit.
 
-The display built itself in layers—passive beacons, lane corrections, relay geometry, maintenance spacing, observed traffic returns from seventy-two hours of whisper burn, listening watch correlations, infrastructure the Fleet charts had labeled *un surveyed* because uns surveyed was easier than *someone else's*.
+The display built itself in layers—passive beacons, lane corrections, relay geometry, maintenance spacing, observed traffic returns from seventy-two hours on correction thrusters, listening watch correlations, infrastructure the Fleet charts had labeled *un surveyed* because uns surveyed was easier than *someone else's*.
 
 Reyes traced lines with the stylus he used when he was angry and precise. "Navigation network—not edge marker. Core routing. Traffic capacity implied by lane width and correction frequency."
 
@@ -482,6 +482,6 @@ Calder did not add orders.
 
 The orders were already written—observe, investigate, do not engage, stay passive, stay alive, learn what Fleet Authority would have to know when they finally had a path to tell it.
 
-The *Kestrel Veil* held her whisper burn and moved deeper into segment seven—alone, damaged, professional—through the outer transportation network of a civilization that had never been empty, only patient, only prepared, only waiting for the day when someone else's scout mistook routine for absence.
+The *Kestrel Veil* crept on correction thrusters and moved deeper into segment seven—alone, damaged, professional—through the outer transportation network of a civilization that had never been empty, only patient, only prepared, only waiting for the day when someone else's scout mistook routine for absence.
 
 ---

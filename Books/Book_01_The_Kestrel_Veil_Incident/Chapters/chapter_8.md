@@ -4,7 +4,7 @@
 
 The *Kestrel Veil* did not arrive at Kestran VI-Gamma so much as apologize her way into its shadow.
 
-Whisper burn had carried them across the last leg on ring five at a fraction Calder would not have signed before the bloom. **Marco Reyes** made three correction burns that **Yuki Tanaka** called *embarrassing* and Reyes called *honest*. The scout listed two degrees to port. The hull creaked on each adjustment like an old door complaining about weather.
+With the main engines offline, the Kestrel relied on correction thrusters for propulsion, limping across the last leg at a snail’s pace.  It wasn't fast, it barely even qualified as movement, and it sure as hell wasn't pretty.  **Marco Reyes** made three correction burns that **Yuki Tanaka** called *embarrassing* and Reyes called *honest*. The scout listed two degrees to port. The hull creaked on each adjustment like an old door complaining about weather.
 
 On the command deck, lighting ran at day-cycle because someone in environmental had won an argument with a relay—but ring three still flickered when the scrubbers overworked, and the deck vibration under Calder's boots was wrong in a way his body had learned faster than any instrument.
 
@@ -26,7 +26,7 @@ He did not add that the *Veil* matched drift the way a limping animal matched pa
 
 "Same thing," Brenner said.
 
-Calder listened and did not interrupt. The ship around him still smelled like scorch and hot duct—familiar now, wrong still. A runner had taped *DO NOT SEAL* on a hatch that no longer met its frame. Someone else had written *YET* underneath in smaller letters.
+Calder listened and did not interrupt. The ship around him still smelled like scorch and hot duct—familiar now, wrong still. A runner had taped *DOES NOT SEAL* on a hatch that no longer met its frame. Someone else had written *YET* underneath in smaller letters.
 
 Park keyed another upstream packet—burn status, latch prep. Waited. Holt relayed confirm. Waited again. The rhythm of their lives for two days made physical.
 
@@ -62,7 +62,7 @@ Both facts lived on her board now without reconciling. Nand said that was correc
 
 Holt did not look away from the viewport.
 
-The *Kestrel Veil* came out of whisper burn ugly—attitude wobble, port list, thermal bloom on ring five that Cartography would classify as *distressed* before anyone wrote *brave*. No parade. No escort. Just a tired hull crossing the last kilometers like a patient leaving hospital against medical advice.
+The *Kestrel Veil* came off correction thrusters ugly—attitude wobble, port list, thermal bloom on ring five that Cartography would classify as *distressed* before anyone wrote *brave*. No parade. No escort. Just a tired hull crossing the last kilometers like a patient leaving hospital against medical advice.
 
 Holt had written *probable hull loss* into the Fleet chain without writing those words. She had relayed Jun Park's voice upstream and heard Fleet un-write the loss with the same procedural calm.
 
@@ -72,7 +72,7 @@ Seeing it was different.
 
 She thought of Jun Park inside that hull—relay voice, segregated buffer, childhood on a fringe lane that had no business carrying either. She thought of the column going void. Both at once. Neither canceling the other.
 
-For two days she had been the hinge between a dead scout on Fleet paper and a living crew on whisper burn. Now the living crew had a silhouette.
+For two days she had been the hinge between a dead scout on Fleet paper and a living crew limping in on correction thrusters. Now the living crew had a silhouette.
 
 "Lane two alignment," Nand said.
 
@@ -270,7 +270,7 @@ Calder came down to the collar three times before undock—not to supervise, to 
 
 On the third visit Calder found Koss and Eban seated on either side of a junction like surgeons who disagreed about anatomy.
 
-"If we force the coupler," Koss said, "ring four holds through whisper burn. If we force it wrong, ring four becomes a fireworks show."
+"If we force the coupler," Koss said, "ring four holds through the forces from the correction thrusters. If we force it wrong, ring four becomes a fireworks show."
 
 "Don't force it wrong," Calder said.
 
@@ -702,7 +702,7 @@ Priya had been tracking the signal decay curve since Park first keyed burn notic
 
 Holt opened the next relay slot because the board always needed the next relay slot. Nand ran sweep eleven without being asked. Partner.
 
-Cho's team watched from the gantry until the scout's thermal bloom faded into whisper fraction and distance.
+Cho's team watched from the gantry until the scout's thermal bloom faded into distance and memory.
 
 No one applauded.
 
@@ -724,7 +724,7 @@ Reyes: "Manual route segment one holding."
 
 Park: nothing, when Calder looked at him—because saying *all quiet* would have been a transmission habit and Park was done with habits that cost range.
 
-The *Veil* moved on whisper burn through approach geometry Tanaka had marked in three colors and Reyes treated like scripture written in pencil. Life support still ran warm aft. Scrubbers still cycled loud. Lights still flickered in ring three. Cho's borrowed filters sat in environmental like guests. Park's collar amplifier was behind them now—range falling with every kilometer.
+The *Veil* moved on correction thrusters through the approach geometry Tanaka had marked in three colors and Reyes treated like scripture written in pencil. Life support still ran warm aft. Scrubbers still cycled loud. Lights still flickered in ring three. Cho's borrowed filters sat in environmental like guests. Park's collar amplifier was behind them now—range falling with every kilometer.
 
 They were patched. They were not ready. They were alone.
 
@@ -788,7 +788,7 @@ Calder looked around the deck—Thessaly present, Halden on tactical, Hale watch
 
 They had crossed from recovery into risk.
 
-Whisper burn on seven-alpha was restraint made physical. Brenner held ring five at the lowest fraction that still let Reyes steer. Cole walked pass-throughs with soft-soled boots because someone had posted *noise is emissions* on intercom and nobody had taken it down.
+Crawling seven-alpha on correction thrusters was restraint made physical. Brenner held ring five at the lowest fraction that still let Reyes steer. Cole walked pass-throughs with soft-soled boots because someone had posted *noise is emissions* on intercom and nobody had taken it down.
 
 "Segment five boundary," Reyes said. "Seven-alpha approach edge. Manual confirm."
 
