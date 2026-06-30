@@ -83,7 +83,7 @@ $moves = @(
     @("$Src\Bible\characters\crew_gravity.md", "$RepoRoot\Characters\Primary_Crew\crew_gravity.md", "file"),
     @("$Src\Bible\characters\crew_roles.md", "$RepoRoot\Characters\Primary_Crew\crew_roles.md", "file"),
     @("$Src\Bible\characters\support_crew.md", "$RepoRoot\Characters\Support_Crew\support_crew.md", "file"),
-    @("$Src\Bible\characters\Steve.md", "$RepoRoot\Characters\Recurring\Steve.md", "file"),
+    @("$Src\Bible\characters\Kevin.md", "$RepoRoot\Characters\Recurring\Kevin.md", "file"),
     @("$Src\Bible\characters\relationship_matrix.md", "$RepoRoot\Characters\Relationship_Matrix\relationship_matrix.md", "file"),
     # Universe
     @("$Src\Bible\world\galaxy.md", "$RepoRoot\Universe\Cosmology\galaxy.md", "file"),

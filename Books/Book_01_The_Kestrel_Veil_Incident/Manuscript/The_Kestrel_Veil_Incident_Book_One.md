@@ -3840,19 +3840,19 @@ When he left, auxiliary stack two held steady on his slate. It was enough to wor
 
 "Trying."
 
-"Try harder in environmental. Steve's been feeding the deck on guilt and protein paste. He needs someone to tell him the crew noticed."
+"Try harder in environmental. Kevin's been feeding the deck on guilt and protein paste. He needs someone to tell him the crew noticed."
 
 Calder filed that and kept walking.
 
-Environmental was three decks up and smelled like recycled air that had finally stopped tasting like fear—and like something else, sharp and dry, when the scrubbers cycled hard. **Steve**—no surname anyone used on-watch—had a roster of who had eaten and who had lied about eating. Two crew in the corner wore jackets against a vent that couldn't decide if this compartment was part of the ship or an afterthought.
+Environmental was three decks up and smelled like recycled air that had finally stopped tasting like fear—and like something else, sharp and dry, when the scrubbers cycled hard. **Kevin**—no surname anyone used on-watch—had a roster of who had eaten and who had lied about eating. Two crew in the corner wore jackets against a vent that couldn't decide if this compartment was part of the ship or an afterthought.
 
-Calder sat on a crate long enough to be seen. Steve pushed tea across without ceremony.
+Calder sat on a crate long enough to be seen. Kevin pushed tea across without ceremony.
 
-"Galley's on reduced cycle until Walsh certifies galley air," Steve said. "Nobody complained. That's how I know they're scared." He nodded toward a sealed hatch. "Forward mess stays closed. Humidity's wrong. Walsh won't sign it."
+"Galley's on reduced cycle until Walsh certifies galley air," Kevin said. "Nobody complained. That's how I know they're scared." He nodded toward a sealed hatch. "Forward mess stays closed. Humidity's wrong. Walsh won't sign it."
 
 "What do you need?"
 
-Steve considered. "A list from Walsh of who gets hot meals first. And Brenner to stop calling my replicators *sentimental appliances*."
+Kevin considered. "A list from Walsh of who gets hot meals first. And Brenner to stop calling my replicators *sentimental appliances*."
 
 "I'll talk to Brenner."
 
@@ -4454,7 +4454,7 @@ Then Koss on intercom, flat: "Life support three holding. Back to work."
 
 The moment broke. The crew returned to the ship the way people returned to a damaged house—touching walls, checking doors, pretending the checking was maintenance because stopping felt worse.
 
-In environmental, Steve found two technicians sitting on a crate in silence. He did not send them back to work immediately. He handed them tea. They drank it with jackets still on. Then they went back to the ducts where the airflow lied by compartment.
+In environmental, Kevin found two technicians sitting on a crate in silence. He did not send them back to work immediately. He handed them tea. They drank it with jackets still on. Then they went back to the ducts where the airflow lied by compartment.
 
 In medical, Walsh caught **Mira Hale** staring at her bandaged forearm as if it belonged to someone else. Walsh said nothing. She changed the dressing. Hale flexed her fingers once, winced, returned to defensive without a word between them.
 
@@ -4472,7 +4472,7 @@ He was beginning to understand that he was not commanding a crew that had recove
 
 Calder sat in the galley for six minutes—the first time he had sat without being summoned since the contact.
 
-**Steve** from environmental pushed a bowl across the table without comment. Calder ate without tasting.
+**Kevin** from environmental pushed a bowl across the table without comment. Calder ate without tasting.
 
 Park slid into the seat opposite, off-watch voice.
 
@@ -4492,7 +4492,7 @@ He stood. "I'm going back to the buffer. Holt's queue is six deep and Rowan won'
 
 Calder finished the bowl because leaving food was worse than eating it.
 
-Steve, passing: "Cap. Sit longer next time."
+Kevin, passing: "Cap. Sit longer next time."
 
 "Next time," Calder said. He did not believe in next time yet. He believed in the next watch.
 
@@ -4770,7 +4770,7 @@ Calder did not override the conversation. Thessaly did not either—that was new
 
 Walsh on med channel: "Anyone who feels sick when the burn starts is allowed to feel sick. Report if it doesn't pass."
 
-Steve on galley channel, unauthorized but tolerated: "Galley cycle if burn holds ten. No promises on temperature."
+Kevin on galley channel, unauthorized but tolerated: "Galley cycle if burn holds ten. No promises on temperature."
 
 Nobody laughed. Nobody spoke for three seconds. Then Halden called a relay confirm and the moment was gone.
 
@@ -5182,7 +5182,7 @@ Hour two: Walsh in the station clinic block with Hale while she told a VI-Gamma 
 
 Hour three: Hargrove and Eban rewiring a bypass that neither manual approved of and both signed off on because the alternative was worse. Brenner watched without commenting, which Koss said was his version of applause.
 
-Hour four: environmental filters seated wrong but seated. Temperature in aft berthing dropped one degree—Walsh called it *insufficient* and *better than yesterday* in the same sentence. Steve logged hot meal service from station galley for off-cycle crew and did not ask permission from a board that still lied half the time.
+Hour four: environmental filters seated wrong but seated. Temperature in aft berthing dropped one degree—Walsh called it *insufficient* and *better than yesterday* in the same sentence. Kevin logged hot meal service from station galley for off-cycle crew and did not ask permission from a board that still lied half the time.
 
 Cho checked in once per hour. No optimism. No speeches. Just: "What do you still need?" and Brenner answering with a list that grew shorter and never went away.
 
@@ -5196,7 +5196,7 @@ Cho checked in once per hour. No optimism. No speeches. Just: "What do you still
 
 Off-cycle came in fragments—not rest, but gaps.
 
-**Steve** had negotiated stew from the station hab galley—real heat, real salt, the kind of meal that reminded your stomach you had survived instead of merely continuing. Crew ate in the collar access bay because the forward mess on the *Veil* was still sealed and wrong.
+**Kevin** had negotiated stew from the station hab galley—real heat, real salt, the kind of meal that reminded your stomach you had survived instead of merely continuing. Crew ate in the collar access bay because the forward mess on the *Veil* was still sealed and wrong.
 
 A technician named **Pell** from ring maintenance fell asleep mid-sentence across a crate, fork still in hand. Hargrove draped a jacket over him and said to no one, "He earned it." Nobody woke him for twenty minutes.
 
@@ -5494,7 +5494,7 @@ The six-hour margin had expired the way margins always expired—not with a bell
 
 Cho's team pulled borrowed cable and labeled everything the *Veil* kept. Koss signed for mismatched filters like a woman signing for strangers at her door. Brenner walked the collar once more and touched a station relay housing he would not take.
 
-Walsh cleared Hale for full defensive rotation with a note that said *limited* and a tone that said *don't push it*. Ortega collected his passive rebuild logs on a slate he held like something fragile. Steve loaded the last hot meal containers from station galley into environmental storage and did not call it a victory.
+Walsh cleared Hale for full defensive rotation with a note that said *limited* and a tone that said *don't push it*. Ortega collected his passive rebuild logs on a slate he held like something fragile. Kevin loaded the last hot meal containers from station galley into environmental storage and did not call it a victory.
 
 Calder walked the ring passage one last time—patched duct, borrowed coupler, flicker in ring three, list in the ankles.
 
@@ -5988,7 +5988,7 @@ No jokes.
 
 No one had joked much since the bloom.
 
-Cole still ran pass-throughs with soft soles. **Steve** still appeared with trays nobody asked for and calories everyone needed. The ship still creaked on whisper burn the way old ships creaked when asked to be quiet and young at the same time.
+Cole still ran pass-throughs with soft soles. **Kevin** still appeared with trays nobody asked for and calories everyone needed. The ship still creaked on whisper burn the way old ships creaked when asked to be quiet and young at the same time.
 
 But the crew had changed shape around the empty places the Incident left—tighter at the center, gentler at the edges, the way broken bones healed if you kept using them correctly.
 
@@ -6058,7 +6058,7 @@ This had an undertone.
 
 Not enemy contact. Not yet. Something in the hull's response to space that wasn't Fleet space—micro-vibration in a strut he'd thought was settled, a delay in a relay handshake that usually arrived early.
 
-**Steve** appeared in the hatchway with a tray of something hot and unidentifiable. Brenner waved him off without insult. Steve left the tray on a crate and departed—the *Veil's* version of care.
+**Kevin** appeared in the hatchway with a tray of something hot and unidentifiable. Brenner waved him off without insult. Kevin left the tray on a crate and departed—the *Veil's* version of care.
 
 Koss watched Brenner listen. She had learned not to ask what he heard until he was ready to translate it into numbers.
 
@@ -6475,7 +6475,7 @@ Calder watched it register and thought of Rowan's relay voice and Dana Holt's st
 
 Walsh pinged internal—*Ortega light check overdue.* Calder denied the ping without comment. Walsh would escalate to Thessaly. Thessaly would win. That was tomorrow's problem.
 
-**Steve** passed through with trays. No one took anything. Steve left them anyway. The *Veil* kept whispering.
+**Kevin** passed through with trays. No one took anything. Kevin left them anyway. The *Veil* kept whispering.
 
 Reyes spoke without looking up. "If they're on these lanes, they've been on them for years. We're the anomaly."
 
@@ -7102,7 +7102,7 @@ Calder called it a discussion because *briefing* sounded like Fleet and Fleet wa
 
 Reyes at one end of the table. Ortega with printouts he should not have printed but had anyway because some truths needed to exist off-screen. Thessaly with slate closed for once— listening, not recording, which for her was intimacy. Halden with infrastructure overlays. Park with buffer integrity. Tanaka on emitter confirmation. Hale on rotation limits because Hale was always on rotation limits.
 
-**Lena Walsh** brought coffee without being asked and did not stay. **Steve** left trays. Nobody ate. Steve left them anyway.
+**Lena Walsh** brought coffee without being asked and did not stay. **Kevin** left trays. Nobody ate. Kevin left them anyway.
 
 On the bulkhead display, relay geometry stacked by apparent age— not Fleet dating, which was guesswork, but maintenance layering, upgrade cadence, spacing discipline.
 
@@ -7922,7 +7922,7 @@ Brenner on intercom, almost gentle for Brenner: "Ring three steady. She's listen
 
 "Acknowledged."
 
-Steve passed the hatch with trays. Nobody ate. Steve left them anyway. The ship kept whispering through patched ring and handshake lag and the small honest tremor of metal that had learned border geometry the way Brenner had learned Calder's silences.
+Kevin passed the hatch with trays. Nobody ate. Kevin left them anyway. The ship kept whispering through patched ring and handshake lag and the small honest tremor of metal that had learned border geometry the way Brenner had learned Calder's silences.
 
 Orders unchanged in letter.
 

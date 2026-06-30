@@ -1,10 +1,12 @@
-# SPECIAL ENTITY RULES — STEVE CLASS
+# SPECIAL ENTITY RULES — KEVIN CLASS
+
+**Character sheet:** `Characters/Recurring/Kevin.md`
 
 ---
 
 ## RULE 1 — OBSERVATIONAL STABILITY
 
-Steve must appear consistent during direct interaction.
+Kevin must appear consistent during direct interaction.
 
 No abnormal behavior is permitted in real-time scenes.
 
@@ -12,7 +14,7 @@ No abnormal behavior is permitted in real-time scenes.
 
 ## RULE 2 — RETROSPECTIVE DEGRADATION
 
-After any Steve appearance:
+After any Kevin appearance:
 
 - logs may differ between systems
 - crew recollections may vary
@@ -22,7 +24,7 @@ After any Steve appearance:
 
 ## RULE 3 — NON-CAUSAL LIMITATION
 
-Steve cannot:
+Kevin cannot:
 
 - cause anomalies
 - trigger system failures
@@ -47,7 +49,7 @@ Never in immediate perception.
 
 ## RULE 5 — NARRATIVE CONSTRAINT
 
-Steve must never be:
+Kevin must never be:
 
 - explained fully
 - resolved
@@ -59,7 +61,7 @@ He is a persistence irregularity, not a plot driver.
 
 ## RULE 6 — FREQUENCY LIMIT
 
-Steve should appear approximately **once every 2–3 chapters**.
+Kevin should appear approximately **once every 2–3 chapters**.
 
 - Not every chapter
 - Book One (~24 chapters): target **8–10 appearances** maximum
@@ -67,13 +69,13 @@ Steve should appear approximately **once every 2–3 chapters**.
 
 Exceeding frequency causes dilution—the "wait, wasn't he…?" effect fails.
 
-If Steve is always present, people stop noticing him.
+If Kevin is always present, people stop noticing him.
 
 ---
 
 ## RULE 7 — REALITY CONSISTENCY
 
-Physical reality remains stable during Steve events.
+Physical reality remains stable during Kevin events.
 
 Only informational systems degrade.
 
@@ -81,12 +83,12 @@ Only informational systems degrade.
 
 ## RULE 8 — INFORMATION NON-ORIGINATION (CANON)
 
-Steve must never be the **source** of information.
+Kevin must never be the **source** of information.
 
 Permitted: confirm, carry, witness, hand over existing reports.
 
 Forbidden: reveal, explain, solve, or guide the crew toward mystery resolution.
 
-Steve is not Hoid. He is a continuity irregularity—noticed by readers, barely registered by characters, never the answer.
+Kevin is not Hoid. He is a continuity irregularity—noticed by readers, barely registered by characters, never the answer.
 
-Violations of this rule dilute long-game unsettling effect and convert Steve into plot machinery.
+Violations of this rule dilute long-game unsettling effect and convert Kevin into plot machinery.

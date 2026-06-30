@@ -294,7 +294,7 @@ Hour two: Walsh in the station clinic block with Hale while she told a VI-Gamma 
 
 Hour three: Hargrove and Eban rewiring a bypass that neither manual approved of and both signed off on because the alternative was worse. Brenner watched without commenting, which Koss said was his version of applause.
 
-Hour four: environmental filters seated wrong but seated. Temperature in aft berthing dropped one degree—Walsh called it *insufficient* and *better than yesterday* in the same sentence. Steve logged hot meal service from station galley for off-cycle crew and did not ask permission from a board that still lied half the time.
+Hour four: environmental filters seated wrong but seated. Temperature in aft berthing dropped one degree—Walsh called it *insufficient* and *better than yesterday* in the same sentence. Kevin logged hot meal service from station galley for off-cycle crew and did not ask permission from a board that still lied half the time.
 
 Cho checked in once per hour. No optimism. No speeches. Just: "What do you still need?" and Brenner answering with a list that grew shorter and never went away.
 
@@ -308,7 +308,7 @@ Cho checked in once per hour. No optimism. No speeches. Just: "What do you still
 
 Off-cycle came in fragments—not rest, but gaps.
 
-**Steve** had negotiated stew from the station hab galley—real heat, real salt, the kind of meal that reminded your stomach you had survived instead of merely continuing. Crew ate in the collar access bay because the forward mess on the *Veil* was still sealed and wrong.
+**Kevin** had negotiated stew from the station hab galley—real heat, real salt, the kind of meal that reminded your stomach you had survived instead of merely continuing. Crew ate in the collar access bay because the forward mess on the *Veil* was still sealed and wrong.
 
 A technician named **Pell** from ring maintenance fell asleep mid-sentence across a crate, fork still in hand. Hargrove draped a jacket over him and said to no one, "He earned it." Nobody woke him for twenty minutes.
 
@@ -606,7 +606,7 @@ The six-hour margin had expired the way margins always expired—not with a bell
 
 Cho's team pulled borrowed cable and labeled everything the *Veil* kept. Koss signed for mismatched filters like a woman signing for strangers at her door. Brenner walked the collar once more and touched a station relay housing he would not take.
 
-Walsh cleared Hale for full defensive rotation with a note that said *limited* and a tone that said *don't push it*. Ortega collected his passive rebuild logs on a slate he held like something fragile. Steve loaded the last hot meal containers from station galley into environmental storage and did not call it a victory.
+Walsh cleared Hale for full defensive rotation with a note that said *limited* and a tone that said *don't push it*. Ortega collected his passive rebuild logs on a slate he held like something fragile. Kevin loaded the last hot meal containers from station galley into environmental storage and did not call it a victory.
 
 Calder walked the ring passage one last time—patched duct, borrowed coupler, flicker in ring three, list in the ankles.
 

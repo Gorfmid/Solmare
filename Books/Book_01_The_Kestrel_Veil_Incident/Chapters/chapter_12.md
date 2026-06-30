@@ -566,7 +566,7 @@ Brenner on intercom, almost gentle for Brenner: "Ring three steady. She's listen
 
 "Acknowledged."
 
-Steve passed the hatch with trays. Nobody ate. Steve left them anyway. The ship kept whispering through patched ring and handshake lag and the small honest tremor of metal that had learned border geometry the way Brenner had learned Calder's silences.
+Kevin passed the hatch with trays. Nobody ate. Kevin left them anyway. The ship kept whispering through patched ring and handshake lag and the small honest tremor of metal that had learned border geometry the way Brenner had learned Calder's silences.
 
 Orders unchanged in letter.
 

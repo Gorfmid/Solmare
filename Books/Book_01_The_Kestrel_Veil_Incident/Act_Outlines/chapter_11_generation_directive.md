@@ -140,7 +140,7 @@ Last paragraph anticipates Act III. Examples:
 
 ---
 
-## Steve (Optional)
+## Kevin (Optional)
 
 Max one appearance. Does NOT participate in battle.
 

@@ -5,7 +5,7 @@ $replacements = @(
     @('Bible/book_structure/', 'Books/Book_01_The_Kestrel_Veil_Incident/Act_Outlines/'),
     @('Bible/characters/relationship_matrix.md', 'Characters/Relationship_Matrix/relationship_matrix.md'),
     @('Bible/characters/support_crew.md', 'Characters/Support_Crew/support_crew.md'),
-    @('Bible/characters/Steve.md', 'Characters/Recurring/Steve.md'),
+    @('Bible/characters/Kevin.md', 'Characters/Recurring/Kevin.md'),
     @('Bible/characters/ensemble_design.md', 'Characters/Primary_Crew/ensemble_design.md'),
     @('Bible/characters/crew_culture.md', 'Characters/Primary_Crew/crew_culture.md'),
     @('Bible/characters/crew_gravity.md', 'Characters/Primary_Crew/crew_gravity.md'),

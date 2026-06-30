@@ -306,7 +306,7 @@ Calder called it a discussion because *briefing* sounded like Fleet and Fleet wa
 
 Reyes at one end of the table. Ortega with printouts he should not have printed but had anyway because some truths needed to exist off-screen. Thessaly with slate closed for once— listening, not recording, which for her was intimacy. Halden with infrastructure overlays. Park with buffer integrity. Tanaka on emitter confirmation. Hale on rotation limits because Hale was always on rotation limits.
 
-**Lena Walsh** brought coffee without being asked and did not stay. **Steve** left trays. Nobody ate. Steve left them anyway.
+**Lena Walsh** brought coffee without being asked and did not stay. **Kevin** left trays. Nobody ate. Kevin left them anyway.
 
 On the bulkhead display, relay geometry stacked by apparent age— not Fleet dating, which was guesswork, but maintenance layering, upgrade cadence, spacing discipline.
 

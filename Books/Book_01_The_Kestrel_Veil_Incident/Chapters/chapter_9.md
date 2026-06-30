@@ -245,7 +245,7 @@ No jokes.
 
 No one had joked much since the bloom.
 
-Cole still ran pass-throughs with soft soles. **Steve** still appeared with trays nobody asked for and calories everyone needed. The ship still creaked on whisper burn the way old ships creaked when asked to be quiet and young at the same time.
+Cole still ran pass-throughs with soft soles. **Kevin** still appeared with trays nobody asked for and calories everyone needed. The ship still creaked on whisper burn the way old ships creaked when asked to be quiet and young at the same time.
 
 But the crew had changed shape around the empty places the Incident left—tighter at the center, gentler at the edges, the way broken bones healed if you kept using them correctly.
 
@@ -315,7 +315,7 @@ This had an undertone.
 
 Not enemy contact. Not yet. Something in the hull's response to space that wasn't Fleet space—micro-vibration in a strut he'd thought was settled, a delay in a relay handshake that usually arrived early.
 
-**Steve** appeared in the hatchway with a tray of something hot and unidentifiable. Brenner waved him off without insult. Steve left the tray on a crate and departed—the *Veil's* version of care.
+**Kevin** appeared in the hatchway with a tray of something hot and unidentifiable. Brenner waved him off without insult. Kevin left the tray on a crate and departed—the *Veil's* version of care.
 
 Koss watched Brenner listen. She had learned not to ask what he heard until he was ready to translate it into numbers.
 

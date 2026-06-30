@@ -124,19 +124,19 @@ When he left, auxiliary stack two held steady on his slate. It was enough to wor
 
 "Trying."
 
-"Try harder in environmental. Steve's been feeding the deck on guilt and protein paste. He needs someone to tell him the crew noticed."
+"Try harder in environmental. Kevin's been feeding the deck on guilt and protein paste. He needs someone to tell him the crew noticed."
 
 Calder filed that and kept walking.
 
-Environmental was three decks up and smelled like recycled air that had finally stopped tasting like fear—and like something else, sharp and dry, when the scrubbers cycled hard. **Steve**—no surname anyone used on-watch—had a roster of who had eaten and who had lied about eating. Two crew in the corner wore jackets against a vent that couldn't decide if this compartment was part of the ship or an afterthought.
+Environmental was three decks up and smelled like recycled air that had finally stopped tasting like fear—and like something else, sharp and dry, when the scrubbers cycled hard. **Kevin**—no surname anyone used on-watch—had a roster of who had eaten and who had lied about eating. Two crew in the corner wore jackets against a vent that couldn't decide if this compartment was part of the ship or an afterthought.
 
-Calder sat on a crate long enough to be seen. Steve pushed tea across without ceremony.
+Calder sat on a crate long enough to be seen. Kevin pushed tea across without ceremony.
 
-"Galley's on reduced cycle until Walsh certifies galley air," Steve said. "Nobody complained. That's how I know they're scared." He nodded toward a sealed hatch. "Forward mess stays closed. Humidity's wrong. Walsh won't sign it."
+"Galley's on reduced cycle until Walsh certifies galley air," Kevin said. "Nobody complained. That's how I know they're scared." He nodded toward a sealed hatch. "Forward mess stays closed. Humidity's wrong. Walsh won't sign it."
 
 "What do you need?"
 
-Steve considered. "A list from Walsh of who gets hot meals first. And Brenner to stop calling my replicators *sentimental appliances*."
+Kevin considered. "A list from Walsh of who gets hot meals first. And Brenner to stop calling my replicators *sentimental appliances*."
 
 "I'll talk to Brenner."
 
@@ -738,7 +738,7 @@ Then Koss on intercom, flat: "Life support three holding. Back to work."
 
 The moment broke. The crew returned to the ship the way people returned to a damaged house—touching walls, checking doors, pretending the checking was maintenance because stopping felt worse.
 
-In environmental, Steve found two technicians sitting on a crate in silence. He did not send them back to work immediately. He handed them tea. They drank it with jackets still on. Then they went back to the ducts where the airflow lied by compartment.
+In environmental, Kevin found two technicians sitting on a crate in silence. He did not send them back to work immediately. He handed them tea. They drank it with jackets still on. Then they went back to the ducts where the airflow lied by compartment.
 
 In medical, Walsh caught **Mira Hale** staring at her bandaged forearm as if it belonged to someone else. Walsh said nothing. She changed the dressing. Hale flexed her fingers once, winced, returned to defensive without a word between them.
 
@@ -756,7 +756,7 @@ He was beginning to understand that he was not commanding a crew that had recove
 
 Calder sat in the galley for six minutes—the first time he had sat without being summoned since the contact.
 
-**Steve** from environmental pushed a bowl across the table without comment. Calder ate without tasting.
+**Kevin** from environmental pushed a bowl across the table without comment. Calder ate without tasting.
 
 Park slid into the seat opposite, off-watch voice.
 
@@ -776,7 +776,7 @@ He stood. "I'm going back to the buffer. Holt's queue is six deep and Rowan won'
 
 Calder finished the bowl because leaving food was worse than eating it.
 
-Steve, passing: "Cap. Sit longer next time."
+Kevin, passing: "Cap. Sit longer next time."
 
 "Next time," Calder said. He did not believe in next time yet. He believed in the next watch.
 
@@ -1054,7 +1054,7 @@ Calder did not override the conversation. Thessaly did not either—that was new
 
 Walsh on med channel: "Anyone who feels sick when the burn starts is allowed to feel sick. Report if it doesn't pass."
 
-Steve on galley channel, unauthorized but tolerated: "Galley cycle if burn holds ten. No promises on temperature."
+Kevin on galley channel, unauthorized but tolerated: "Galley cycle if burn holds ten. No promises on temperature."
 
 Nobody laughed. Nobody spoke for three seconds. Then Halden called a relay confirm and the moment was gone.
 

@@ -175,7 +175,7 @@ Calder watched it register and thought of Rowan's relay voice and Dana Holt's st
 
 Walsh pinged internal—*Ortega light check overdue.* Calder denied the ping without comment. Walsh would escalate to Thessaly. Thessaly would win. That was tomorrow's problem.
 
-**Steve** passed through with trays. No one took anything. Steve left them anyway. The *Veil* kept whispering.
+**Kevin** passed through with trays. No one took anything. Kevin left them anyway. The *Veil* kept whispering.
 
 Reyes spoke without looking up. "If they're on these lanes, they've been on them for years. We're the anomaly."
 

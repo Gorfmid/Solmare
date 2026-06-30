@@ -156,7 +156,7 @@ Each subsequent book may:
 Each subsequent book must not:
 - Retroactively simplify Book One's unresolved questions
 - Replace structural mystery with a single explanatory entity too early
-- Resolve Steve's nature in a way that converts retrospective unease into plot utility
+- Resolve Kevin's nature in a way that converts retrospective unease into plot utility
 
 ---
 
