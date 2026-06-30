@@ -10,7 +10,9 @@ Canonical master source and generated publication formats for **The Kestrel Veil
 | `The_Kestrel_Veil_Incident_Book_One.docx` | Microsoft Word edition |
 | `The_Kestrel_Veil_Incident_Book_One.epub` | Kindle/KDP-ready EPUB 3 |
 | `The_Kestrel_Veil_Incident_Book_One_Print.pdf` | Print PDF (requires LaTeX) |
-| `cover.svg` | Cover placeholder (replace for retail) |
+| `assets/cover.png` | Retail cover art (EPUB cover + title page) |
+| `assets/chapter_logo.png` | Chapter divider graphic |
+| `cover.svg` | Legacy placeholder (superseded by `assets/cover.png`) |
 | `build_manuscript.ps1` | Regeneration script |
 | `finalize_cleanup.ps1` | Strip dev metadata; apply publication chapter headers |
 | `cleanup_functions.ps1` | Shared cleanup helpers |
@@ -30,7 +32,7 @@ Requires [Pandoc](https://pandoc.org/) 3.x on PATH.
 
 Chapter prose lives in `../Chapters/prologue.md`, `chapter_1.md` through `chapter_24.md`, and `epilogue.md`.  
 Archive interludes (`../Archive/`) use reference codes **FSA-143-07**, **FCC-7712**, **FDB-144-DRAFT** — placement in `../Archive/archive_placement.json`.  
-Cover placeholder: `../Cover/cover.svg`.  
+Cover art: `assets/cover.png` (canonical); copy also at `../Cover/cover.png`.  
 Regenerate the master manuscript after any chapter edit.
 
 ## Chapter file format (publication)

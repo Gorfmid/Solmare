@@ -7,7 +7,9 @@
 
 **K.W. Abbott**
 
-*Cover placeholder - replace with final artwork for retail editions.*
+<p align="center"><img src="assets/cover.png" alt="The Kestrel Veil Incident â€” Book One cover" width="450" /></p>
+
+*Engines are silent. Duty isn't.*
 
 \newpage
 

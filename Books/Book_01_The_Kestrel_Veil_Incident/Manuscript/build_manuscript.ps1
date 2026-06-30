@@ -11,7 +11,10 @@ $docxOut = Join-Path $outDir "The_Kestrel_Veil_Incident_Book_One.docx"
 $epubOut = Join-Path $outDir "The_Kestrel_Veil_Incident_Book_One.epub"
 $pdfOut = Join-Path $outDir "The_Kestrel_Veil_Incident_Book_One_Print.pdf"
 $refDocx = Join-Path $outDir "reference.docx"
+$coverPng = Join-Path $outDir "assets\cover.png"
+$coverPngAlt = Join-Path $bookRoot "Cover\cover.png"
 $coverSvg = Join-Path $bookRoot "Cover\cover.svg"
+$coverImage = if (Test-Path $coverPng) { $coverPng } elseif (Test-Path $coverPngAlt) { $coverPngAlt } elseif (Test-Path $coverSvg) { $coverSvg } else { $null }
 $separator = -join (1..40 | ForEach-Object { [char]0x2500 })
 
 function Get-ChapterWord {
@@ -587,7 +590,9 @@ $frontMatter = @"
 
 **K.W. Abbott**
 
-*Cover placeholder - replace with final artwork for retail editions.*
+<p align="center"><img src="assets/cover.png" alt="The Kestrel Veil Incident — Book One cover" width="450" /></p>
+
+*Engines are silent. Duty isn't.*
 
 \newpage
 
@@ -707,8 +712,8 @@ $epubArgs = @(
     "--metadata", "series-index=1"
 )
 
-if (Test-Path $coverSvg) {
-    $epubArgs += @("--epub-cover-image=$coverSvg")
+if ($coverImage) {
+    $epubArgs += @("--epub-cover-image=$coverImage")
 }
 
 & $pandoc @epubArgs
