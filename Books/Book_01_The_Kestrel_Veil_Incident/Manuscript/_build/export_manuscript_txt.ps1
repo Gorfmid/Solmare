@@ -3,8 +3,9 @@ $ErrorActionPreference = "Stop"
 
 $buildDir = $PSScriptRoot
 $outDir = Split-Path -Parent $buildDir
-$masterMd = Join-Path $outDir "The_Kestrel_Veil_Incident_Book_One.md"
-$txtOut = Join-Path $outDir "The_Kestrel_Veil_Incident_Book_One.txt"
+$publicationBaseName = "The Kestrel Veil Incident"
+$masterMd = Join-Path $outDir "$publicationBaseName.md"
+$txtOut = Join-Path $outDir "$publicationBaseName.txt"
 
 if (-not (Test-Path $masterMd)) {
     Write-Host "Building master markdown first..."

@@ -8,10 +8,11 @@ Publication files only:
 
 | File | Purpose |
 |------|---------|
-| `The_Kestrel_Veil_Incident_Book_One.epub` | Kindle / e-reader |
-| `The_Kestrel_Veil_Incident_Book_One.docx` | Microsoft Word edition |
-| `The_Kestrel_Veil_Incident_Book_One.md` | Full book markdown |
-| `The_Kestrel_Veil_Incident_Book_One.txt` | Plain-text export |
+| `The Kestrel Veil Incident.epub` | Kindle / e-reader |
+| `The Kestrel Veil Incident.docx` | Microsoft Word edition |
+| `The Kestrel Veil Incident.md` | Full book markdown |
+| `The Kestrel Veil Incident.txt` | Plain-text export |
+| `_build/The Kestrel Veil Incident.pdf` | Print PDF |
 | `Act_I_Routine_Patrol.md` | Act I (Prologue + Ch. 1–4 + FSA-143-07) |
 | `Act_II_The_Kestrel_Veil_Incident.md` | Act II (Ch. 5–8 + FCC-7712) |
 | `Act_III_Shadows_Beyond_the_Border.md` | Act III (Ch. 9–16) |

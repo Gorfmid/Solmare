@@ -5,7 +5,8 @@ $ErrorActionPreference = "Stop"
 $buildDir = $PSScriptRoot
 $outDir = Split-Path -Parent $buildDir
 $bookRoot = Split-Path -Parent $outDir
-$masterMd = Join-Path $outDir "The_Kestrel_Veil_Incident_Book_One.md"
+$publicationBaseName = "The Kestrel Veil Incident"
+$masterMd = Join-Path $outDir "$publicationBaseName.md"
 $evalDir = Join-Path $bookRoot "Evaluation"
 $em = [char]0x2014
 
@@ -44,7 +45,7 @@ function Convert-MarkdownToPlain {
     return $text
 }
 
-$fullTxt = Join-Path $evalDir "The_Kestrel_Veil_Incident_Book_One_Full.txt"
+$fullTxt = Join-Path $evalDir "$publicationBaseName - Full.txt"
 $fullText = Convert-MarkdownToPlain -InputPath $masterMd -OutputPath $fullTxt
 $fullWords = ($fullText | Measure-Object -Word).Words
 $fullKb = [math]::Round((Get-Item $fullTxt).Length / 1KB, 1)
@@ -174,7 +175,7 @@ $readmeLines = @(
     "",
     "Gemini accepts PDF and plain text (.txt). It does not accept EPUB or DOCX for document analysis.",
     "",
-    "- The_Kestrel_Veil_Incident_Book_One_Full.txt - complete book ($fullWords words)",
+    "- $publicationBaseName - Full.txt - complete book ($fullWords words)",
     "- Part_01_Prologue_and_Chapters_1-8.txt",
     "- Part_02_Chapters_9-16.txt",
     "- Part_03_Chapters_17-24_and_Epilogue.txt",
