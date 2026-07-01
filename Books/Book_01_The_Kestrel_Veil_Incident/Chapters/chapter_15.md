@@ -124,19 +124,7 @@ The wardroom was warm. The coffee was bitter. The question on the table was not 
 
 It was time.
 
-**Calder Venn** sat at the head because captains sat at heads when decisions approached, not because heads made decisions alone.
-
-**Mira Thessaly** had the overlay— traffic density, authentication slopes, yard throughput bands, memorial stone translated into observation language because stone did not lie but Fleet grammar did.
-
-**Felix Ortega** had listen watch summaries.
-
-**Ari Halden** had infrastructure ages and the particular exhaustion of an engineer who had stopped being surprised and had not started being comfortable.
-
-**Damon Reyes** had course projections— correction-thruster corridors home, not as escape fantasy, as mathematics.
-
-**Tomás Brenner** had said almost nothing for forty minutes.
-
-**Jun Park** had correlation strips he did not yet lay down— the way Park withheld paper until the room was ready.
+**Calder Venn** sat at the head because captains sat at heads when decisions approached, not because heads made decisions alone. **Mira Thessaly** had the overlay— traffic density, authentication slopes, yard throughput bands, memorial stone translated into observation language because stone did not lie but Fleet grammar did. **Felix Ortega** had listen watch summaries; **Ari Halden** had infrastructure ages and the particular exhaustion of an engineer who had stopped being surprised and had not started being comfortable. **Damon Reyes** had course projections— correction-thruster corridors home, not as escape fantasy, as mathematics. **Tomás Brenner** had said almost nothing for forty minutes. **Jun Park** had correlation strips he did not yet lay down— the way Park withheld paper until the room was ready.
 
 Nobody wanted to leave.
 
@@ -144,31 +132,35 @@ Nobody wanted to stay.
 
 Everyone was correct.
 
-Thessaly spoke first because that was her job when the room needed structure. "We can remain several more days. Passive posture holds. Ring three handshake nominal. Emitter discipline intact. Dominion traffic has not spiked toward search geometry."
+Thessaly spoke first because that was her job when the room needed structure. "Status on record: passive posture holds. Ring three handshake nominal. Emitter discipline intact. Dominion traffic: no search-geometry spike. Remaining days: several, if authorized."
 
-She tapped a band. "If we leave now, we leave with a picture Fleet has never had. If we stay, we refine it."
+She tapped a band. "Departure now: picture Fleet has never had. Remaining: refinement."
 
-Ortega: "Communications have become more disciplined in our slice. Not panic discipline. Professional discipline— authentication density up, procedure tight, controllers sounding like people who expect Tuesday to matter." He paused. "That cuts both ways. They're not hunting. They're also not careless."
+Ortega: "Authentication density up. Procedure tight. Controllers sound like Tuesday matters— not panic, not hunt. Inconsistency: discipline increased without search geometry. Cuts both ways."
 
-Halden: "Every additional day increases understanding. Relay refurb layering alone— we're still dating bands. Reserve routing baselines. Yard expansion geometry. We're building something Fleet has never had." She looked at Calder. "I don't say that lightly."
+Halden: "Every day widens our exposure window. Relay refurb bands still undated. Yard geometry still resolving. We're building a picture—and standing in someone's merge lane while we do it." She looked at Calder. "I don't say that lightly."
 
-Reyes, flat: "Every additional day also increases exposure. Not because they know we're here. Because probability accumulates. Passive fails the way welds fail— slowly, then all at once." He slid a course strip forward. "Home vectors exist. Conservative burn. No heroics."
+**Yuki Tanaka**, who had said almost nothing: "Emitter margin is the other clock. Staying costs passive. Leaving costs data. Both cost signature."
 
-**Marcus Hale** leaned against the bulkhead. "We're not cowards."
+Reyes, flat: "Every day adds exposure. Probability stacks— passive fails slow, then fast. Welds, not drama. Home vectors exist. Conservative burn. I've had them since day ten. No heroics from me."
+
+**Marcus Hale** leaned against the bulkhead. "Rotation limit holds either way. That's signature discipline, not cowardice."
+
+**Lena Walsh** had not been invited. She stood in the hatchway with a medical slate anyway. "Rotation limit doesn't cover sleep debt. Ortega is functional. Reyes is borderline. Captain— you are not exempt." She looked at Calder once. "I'm not asking you to leave. I'm asking you to decide who breaks first."
+
+Nobody answered. Calder nodded once. Walsh left the slate on the sideboard and went.
 
 "No one said cowards," Calder said.
 
-Park, quietly: "Upstream still dark. If we stay and lose emitters discipline once, we lose the mission and the message."
+Park, quietly: "Upstream dark. One emitter slip— mission and message gone."
 
 Thessaly did not argue with Park. She nodded once.
 
 Silence tightened— not faster, more focused.
 
-Thessaly looked at Calder. "Captain— we crossed into history. Leaving before the picture completes feels like—"
+Thessaly looked at Calder. "Captain— we crossed into history. Departure before picture completes reads as mission abandonment."
 
-"Like abandoning the mission," Calder finished.
-
-"Yes."
+"Or is acceptable resolution the same as abandonment?" Calder said.
 
 Calder nodded. He did not disagree. He had spent thirteen days inside a civilization that had rewritten his understanding of empty charts, and leaving felt like closing a book with chapters unread.
 
@@ -192,7 +184,7 @@ The pilot had his hands loose on his knees and his eyes on nothing in particular
 
 Brenner did not perform thought. Pilots who performed thought did not survive weeks on correction thrusters alone.
 
-"The *Kestrel* knows when she's been somewhere long enough."
+"The *Kestrel* knows when she's been somewhere longer than her tolerance band allows."
 
 Nobody laughed.
 
@@ -206,27 +198,25 @@ Ortega looked at his headphones on the table as if they might object.
 
 Halden closed a band chart gently, like a book.
 
-Calder said, "We'll debate tonight. We'll decide before next watch. I want course options for home by morning— conservative burn, no illumination, no upstream until we're deep enough to argue about grammar safely."
+Calder said, "Debate tonight. Decision before next watch. Home vectors by morning— conservative burn, no illumination, no upstream until segment five clearance."
 
-He paused. "And I want everyone to understand— I am not asking because I enjoy leaving."
+He paused. "I'm not asking because I enjoy leaving."
 
-Thessaly: "We know."
+Thessaly: "Understood, Captain."
 
 Ortega: "Aye."
 
 Halden, after a beat: "Aye."
 
-"Aye," Reyes said.
+"Aye," Reyes said. "Course strips on your rail by zero six hundred. Conservative. Boring on purpose."
 
 "Observation language only," Calder said.
 
-Thessaly: "I'll continue the report draft."
-
-"Observation language only," Calder said.
+Thessaly: "Report draft continues. Observation terms only."
 
 "Yes, sir."
 
-Brenner rose first. "I'll run handshake stress on ring three through the night. If she complains, you'll know before dawn."
+Brenner rose first. "Ring three handshake stress through the night. She complains, you'll know before dawn."
 
 Calder nodded. "Thank you."
 
@@ -350,31 +340,31 @@ Questions deliberately left open.
 
 Calder entered without ceremony and sat where he always sat when he was captain and student at once.
 
-Thessaly did not look up. "Fleet Authority will want sections."
+Thessaly did not look up. "Fleet Authority will require section headers."
 
 "I know."
 
-She slid the first stack forward. "I tried *unknown contact*. Inadequate. We don't have contact classification."
+She slid the first stack forward. "Attempted header: *unknown contact*. Inadequate. No contact classification on record."
 
-Second stack. "*Frontier anomaly cluster*. Inadequate. The frontier is theirs older than ours."
+Second stack. "*Frontier anomaly cluster*. Inadequate. Frontier predates our epoch notation."
 
-Third. "*Structured opposition presence*. Inadequate. They're not opposing us. They're maintaining Tuesday."
+Third. "*Structured opposition presence*. Inadequate. Observed behavior: maintenance of Tuesday, not opposition."
 
 Calder poured coffee. "Enemy."
 
-Thessaly's mouth tightened. "I wrote it once. Deleted it. It made the yards lie."
+Thessaly's mouth tightened. "Drafted once. Deleted. Yards do not read as enemy in observation terms."
 
 "Border."
 
-"Fleet borders only exist on Fleet maps. You said that."
+"Fleet borders exist on Fleet maps only. Your words, Captain."
 
 "Unknown."
 
-"Unknown implies we were first to arrive loudly." She tapped the paper. "We weren't."
+"Unknown implies first arrival loud. Record contradicts."
 
 "Hostile."
 
-"Hostile implies intent we cannot observe." Thessaly set the pencil down. "We observe procedure tightening. We observe throughput. We observe children in traffic harmonics. None of that is hostility. It's Tuesday with discipline."
+"Hostile requires observable intent." Thessaly set the pencil down. "On record: procedure tightening. Throughput continuous. Children in traffic harmonics. Classification: Tuesday with discipline, not hostility."
 
 Silence.
 
@@ -386,11 +376,11 @@ Professional frustration— the kind that came from discovering your language wa
 
 Thessaly looked at Calder. "Fleet has no vocabulary for what we've seen."
 
-Calder said, quietly, "Then don't force the report to fit the words."
+Calder said, quietly, "Then describe what we logged. Not what Fleet expects."
 
 Thessaly blinked.
 
-"Describe reality," Calder said. "Not doctrine. Traffic lanes older than our epoch notation. Yard throughput continuous across years. Reserve routing on baselines. Authentication discipline increasing without search spikes. Civilian commute windows. Founders' Week congestion overlays in traffic rhythm. Memorial stone in District Nine translated into—" He stopped. "Into observation terms only. No poetry. No politics. Facts that survive a briefing room."
+"Lanes older than epoch notation. Throughput continuous. Reserve baselines. Authentication up without search spikes. Commute windows. Founders' Week overlays in traffic rhythm." Calder stopped. "Observation terms only. Facts that survive a briefing room."
 
 Thessaly was quiet a moment.
 
@@ -404,11 +394,11 @@ Honest.
 
 "Better," Calder said.
 
-Park slid a strip forward. "Correlation appendix. Observation terms only."
+Park slid a strip forward. "Correlation appendix. Lags only."
 
 Thessaly nodded. "This will make Fleet uncomfortable."
 
-"Good," Calder said. "Comfort is what got our charts wrong."
+"Good," Calder said.
 
 She did not smile. She did not need to.
 
@@ -428,11 +418,11 @@ She tried another.
 
 *"Fleet survey assumptions of frontier provisional volume are inconsistent with observed maintenance layering and lane merge antiquity."*
 
-Calder: "Keep. That one will start fights."
+Calder: "Keep."
 
-"Good fights," Thessaly said.
+Thessaly: "That line will trigger review."
 
-Park: "Appendix correlates authentication density to reserve routing with ninety-second lag. No doctrine words. Just lags."
+Park: "Appendix: auth density to reserve routing. Ninety-second lag. Numbers only."
 
 Thessaly wrote *lags* down like a lifeline.
 
@@ -564,19 +554,7 @@ Calder at the rail.
 
 The bridge sparse— systems murmuring, crew functional, responsibility distributed so no one person had to carry all of it at once.
 
-**Tomás Brenner** on helm, correction thrust steady.
-
-**Mira Thessaly** aft with slate and the ugly honest header of a report that would make Fleet uncomfortable.
-
-**Felix Ortega** on listen watch— controllers tired, tugs patient, civilization breathing in waveforms.
-
-**Yuki Tanaka** on emitters dark.
-
-**Marcus Hale** on rotation.
-
-**Jun Park** on buffers.
-
-**Damon Reyes** on course options— home vectors filed, conservative, no illumination.
+**Tomás Brenner** on helm, correction thrust steady; **Mira Thessaly** aft with slate and the ugly honest header of a report that would make Fleet uncomfortable; **Felix Ortega** on listen watch— controllers tired, tugs patient, civilization breathing in waveforms; **Yuki Tanaka** on emitters dark; **Marcus Hale** on rotation; **Jun Park** on buffers; **Damon Reyes** on course options— home vectors filed, conservative, no illumination.
 
 Calder had slept one hour and dreamed of Helion Prime terraces— graduation swords, Lisette's roll on the counter, Founders' Week as celebration, not maintenance schedule.
 
@@ -584,33 +562,7 @@ He woke to Brenner's message: *ring three nominal. She'll hold.*
 
 That was enough.
 
-Calder reviewed everything one last time the way a commander reviewed a deployment before signing leave papers.
-
-Yards.
-
-Families.
-
-Archives.
-
-Traffic.
-
-History.
-
-Memorials.
-
-Doctrine.
-
-Preparation.
-
-Gardens staked for Founders' Week.
-
-Children rehearsing chorus lines off-key.
-
-Grandmothers with proverbs that did not explain themselves.
-
-Weld layers outliving shifts.
-
-Names in stone making tomorrow possible.
+Calder reviewed everything one last time the way a commander reviewed a deployment before signing leave papers— yards, families, archives, traffic, history, memorials, doctrine, preparation, gardens staked for Founders' Week, children rehearsing chorus lines off-key, grandmothers with proverbs that did not explain themselves, weld layers outliving shifts, names in stone making tomorrow possible.
 
 He understood.
 
@@ -658,7 +610,7 @@ Koss saw Calder in the hatchway and did not straighten. "Handshake coupling. Min
 
 "Good," Calder said.
 
-Halden: "We can nurse her home."
+Halden: "Threat exposure stacks on the burn home. Conservative vectors reduce merge windows."
 
 "That's the plan."
 
@@ -670,7 +622,7 @@ On the secondary display, low volume, **Dana Holt** sat asleep at her VI-Gamma c
 
 "She held the door for us," Calder said quietly.
 
-"I know," Park said.
+"Logged," Park said.
 
 Calder continued.
 
@@ -722,7 +674,7 @@ Calder gave the order.
 
 Pause.
 
-"We set course for home."
+"Course for home."
 
 Nobody celebrated.
 
@@ -736,23 +688,17 @@ Nobody objected.
 
 The bridge simply absorbed the decision— the way bridges absorbed course changes, the way professionals absorbed truth when the math finally outweighed the appetite to stay.
 
-Reyes: "Aye, Captain. Home vectors confirmed. First leg conservative. No upstream burst until segment five clearance, per your prior constraint."
-
-Brenner: "She'll hold one more night."
-
-Tanaka: "Emitters dark."
-
-Ortega put the headphone back— listening, because listening was what they owed the corridor even while leaving it.
+Reyes confirmed home vectors— first leg conservative, no upstream burst until segment five clearance, per Calder's prior constraint. Brenner: "One more night. Ring three holds or you'll hear it." Tanaka: "Emitters dark. Confirmed." Ortega put the headphone back— listening, because listening was what they owed the corridor even while leaving it.
 
 Thessaly stepped closer to the rail. Not challenge. Partnership.
 
-"I'll have the draft ready for your review before burn," she said.
+"Draft on your rail before burn," she said.
 
-"Ugly honest language," Calder said.
+"Observation language," Calder said.
 
-"Always," Thessaly said.
+"On record," Thessaly said.
 
-Park, from buffers: "I'll archive segment seven threads in triple redundancy. If we lose a buffer on the way home, we lose nothing that matters."
+Park, from buffers: "Segment seven archived. Triple redundancy. Nothing material lost on transit."
 
 Calder looked toward Dominion space one more time.
 

@@ -19,9 +19,9 @@
                          "mimetype should be stored uncompressed (common EPUB requirement)"
                      ],
     "Docx":  true,
-    "TotalWords":  108762,
+    "TotalWords":  99925,
     "EpubStatus":  "PASS",
     "Pdf":  false,
     "MasterMd":  true,
-    "ApproxPages":  435
+    "ApproxPages":  400
 }

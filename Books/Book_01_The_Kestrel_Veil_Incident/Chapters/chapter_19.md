@@ -68,7 +68,7 @@ Sato: "Civilian signature."
 
 "Observed: school transport clustering in listen watch harmonics. Holiday congestion overlays on ordinary Tuesday traffic. Ortega logged civilian rhythm. We did not observe named individuals."
 
-"Inferred," Thessaly said from the table end—translator, not interruption—"civilian ordinary life from traffic geometry. Appendix flag."
+"Inferred," Thessaly said from the table end—translator, not interruption—"civilian ordinary life. Traffic geometry only. Appendix flag."
 
 Rowan glanced at Calder. Calder accepted the correction.
 
@@ -116,7 +116,7 @@ Industrial throughput—observed. Fuel spine duty cycles—observed. Departure e
 
 Okonkwo asked about command decisions at the border. Calder did not defend them as heroism.
 
-"We observed correction-thrust margin loss," he said. "We chose passive posture because illumination would have changed the observation product. That is inferred command rationale from logged orders and Thessaly ledger. I observed the orders on the record."
+"Correction-thrust margin loss—observed," he said. "Passive posture chosen. Illumination would have changed the observation product. Inferred rationale from logged orders and Thessaly ledger. Orders are on the record."
 
 Sato: "Would you illuminate if ordered?"
 
@@ -124,7 +124,7 @@ Sato: "Would you illuminate if ordered?"
 
 Mercer wrote nothing theatrical. Mercer wrote timestamps.
 
-When Okoye asked whether Calder trusted Cartography epoch shading before segment seven, Calder said, "I trusted Fleet charts because Fleet trained me to. Segment seven observed charts were incomplete. I don't know when Fleet knew. I know when we observed."
+When Okoye asked whether Calder trusted Cartography epoch shading before segment seven, Calder said, "I trusted Fleet charts because Fleet trained me to. Segment seven charts—incomplete. I don't know when Fleet knew. I know when we observed."
 
 When he did not know, he said *I don't know* without apology. When he inferred, he labeled it. When he observed, he stated it plainly.
 
@@ -154,15 +154,15 @@ It wanted lanes.
 
 Reyes stood with the posture of a man who trusted numbers more than adjectives. Course projections on the table. Lane-family charts. Bearing logs. He had blind navigation for three legs of segment seven when ring three handshake lag exceeded comfort and still filed merges without embellishment.
 
-"I observed merge antiquity inconsistent with epoch 143 frontier shading on seven-alpha," he said. "I correlated commuter window timing across three independent passive legs. Observed. I inferred occupancy predating Fleet install notation from layering in Thessaly's crosswalk. Inferred—not navigation raw, Historical comparison."
+"Seven-alpha merge antiquity—off epoch 143 shading by every measure I trust," he said. "Commuter windows: three passive legs, timing correlation holds. Observed. Occupancy predating Fleet install notation—inferred from Thessaly crosswalk layering. Inferred. Not navigation raw. Historical lane."
 
 Okoye: "Could instrumentation explain it?"
 
-"Observed drift within tolerance on ring three handshake lag. Not sufficient to explain merge antiquity pattern. I don't know alternate explanations outside instrument fault. Instrument fault is not supported by Park chain checksums."
+"Ring three handshake lag—drift inside tolerance. Observed. Doesn't explain merge antiquity. I don't know what else would. Instrument fault isn't in Park's checksums."
 
 Sato: "Navigation blind segments?"
 
-"Observed. Logged. Uncertainty bands widened per protocol. I did not interpolate occupancy where I did not observe returns."
+"Logged blind legs. Uncertainty bands widened per protocol. I don't interpolate occupancy where returns were absent."
 
 He sat when Rowan nodded. He did not comment on civilian harmonics. Navigation lane.
 
@@ -172,7 +172,7 @@ He sat when Rowan nodded. He did not comment on civilian harmonics. Navigation l
 
 Halden brought thermal band logs and infrastructure age notes—twelve-to-twenty-year maintenance layering on passive returns, repair annex throughput signatures. Her hands were steady in the way engineers' hands were steady when numbers did the fear.
 
-"I observed industrial thermal bands consistent with generational maintenance cycles," she said. "I observed correction-thrust margin loss under passive hold—twelve percent on ring three handshake lag, Koss certified. I observed ring three cough on approach to Helion—patched, not repaired. I did not observe upstream power signatures from our hull during segment seven."
+"Thermal suite: generational maintenance bands—twelve-to-twenty-year layering, consistent across annex slice," she said. "Correction-thrust margin loss under passive hold—twelve percent on ring three handshake lag, Koss certified. Ring three cough on approach to Helion—patched, not repaired. No upstream power signatures from our hull during segment seven."
 
 Okoye, leaning forward: "Thermal returns versus Cartography occupancy overlay?"
 
@@ -180,11 +180,11 @@ Okoye, leaning forward: "Thermal returns versus Cartography occupancy overlay?"
 
 Sato: "Mobilization profile?"
 
-"Observed throughput consistent with long-horizon industrial activity. Not observed emergency cliff routing in annex slice. Inferred preparation from layering—not inferred war. Engineering doesn't observe intent. Engineering observes capacity and degradation."
+"Throughput reads long-horizon industrial—no emergency cliff in the annex slice. Layering implies preparation, not mobilization. Engineering certifies capacity and degradation. Intent isn't my lane."
 
 Mercer: "Could damage from Incident explain passive gaps?"
 
-"Observed gaps logged with uncertainty bands. Some gaps are damage. Not all gaps align with damage geometry. I don't know unseen volumes. I know what thermal suite returned."
+"Gaps logged with uncertainty bands. Some track damage geometry. Some don't. I don't know unseen volumes. Thermal suite returned what it returned."
 
 She sat. Engineering lane.
 
@@ -194,17 +194,17 @@ She sat. Engineering lane.
 
 Ortega wore headphones around his neck like a technician's stole. He had printed harmonic strips because slates lied about color sometimes.
 
-"I logged listen watch harmonics across segment seven," he said. "Observed school transport clustering bands. Observed holiday congestion overlay on ordinary Tuesday traffic rhythm. Observed authentication density increases without search-geometry spikes."
+"I logged listen watch harmonics across segment seven," he said. "School transport clustering—pattern held. Holiday congestion overlay on Tuesday rhythm—same pattern family. Authentication density up, search geometry flat. Observed across all three."
 
-He tapped a strip. "Ortega-fourteen. Sample timestamp matches appendix F at relay drift tolerance. Priya Nand recomputed. Park checksum crosswalk attached."
+He tapped a strip. "Ortega-fourteen. Timestamp matches appendix F at relay drift tolerance—Priya Nand recomputed. Park checksum crosswalk attached."
 
 Mercer: "Hostile classification from harmonics?"
 
-"No evidence in harmonics for hostile maneuver. I don't know political classification. Communications harmonics are not morality."
+"No hostile maneuver in the harmonics," Ortega said. "Pattern doesn't support it. Political classification—not my lane."
 
 Ahn: "Training expectations versus observation?"
 
-"Training expected threat bands in unknown volume," Ortega said. "Volume was not acoustically unknown. It was busy. I logged busy."
+"Training expected threat bands in unknown volume," Ortega said. "Acoustics didn't match the label—busy, not empty. I logged the inconsistency."
 
 Rowan did not comment. Comment was synthesis. Synthesis came later.
 
@@ -218,15 +218,15 @@ Park brought handwritten strip notes because he did not trust buffers for custod
 
 He laid them beside the slate like parallel truth—ink that survived merge errors.
 
-"Triple redundancy on segment seven archive," he said. "Segregated lanes from bloom window through pickup handshake. Checksums match Thessaly report hash at seal and at Fleet intake. Observed no merge corruption. Observed no upstream emission flags inconsistent with passive posture log."
+"Segment seven archive—triple redundancy," he said. "Segregated lanes, bloom through pickup. Checksums match Thessaly hash at seal and intake. No merge corruption. No upstream emission flags off passive posture."
 
 Mercer: "Personal lanes segregated from Fleet summary writers—why?"
 
-"So grief and sensor facts don't merge into one story Fleet didn't authorize," Park said. Not emotional. Procedural. "I don't know what Fleet will call what we carried. I know what we carried."
+"Grief lane and sensor lane stay separate," Park said. Not emotional. Procedural. "Fleet didn't ask for one story. I don't know what they'll call it upstairs. Chain knows what we carried."
 
 Holt, from the board table: "VI-Gamma relay crosswalk?"
 
-"Observed timestamp marriage on Incident correction and segment seven close. Chain intact. Dana Holt relayed every upstream packet I sent during fringe window. I observed her timestamps on the board when I could not observe her face."
+"Incident correction married to segment seven close—timestamp chain intact. Holt relayed every upstream packet from fringe window. Her timestamps on the board when I couldn't see her face."
 
 Holt did not look up. Her pen moved once.
 
@@ -238,13 +238,13 @@ Park sat. Archive lane.
 
 Brenner had come from berth fourteen-C in yard coveralls with a mission patch on his cuff—unofficial trade, respect currency. He smelled like solvent and honest complaining.
 
-"The *Kestrel* held passive posture because correction thrust held and ring three lag was ugly but within Koss's margin," he said. "Observed vibration change in monitored corridor volume. Observed handshake lag increase under passive hold. Observed departure without pursuit geometry on egress bearing."
+"Correction thrust held. Ring three ugly—inside Koss's margin. Numbers held, so we held passive. Vibration shift in the monitored volume. Handshake lag climbed under hold. Departure clean—no pursuit on egress."
 
-He shifted weight. "Observed Corridor C kick still works. Observed yellow tape on starboard dent still not structural. Observed crew sleep debt. Not in annex. In ship."
+He shifted weight. "Corridor C kick still works. Starboard dent—yellow tape, not structural. Crew sleep debt—not in annex. In the ship."
 
 Okonkwo: "Captain's command decisions?"
 
-"Outside my lane," Brenner said. "Ship held. Crew held. Helm held correction thrust inside Koss's numbers. That's engineering and helm testimony."
+"Outside my lane," Brenner said. "Hull held. Crew held. Helm kept thrust inside Koss's numbers—that's Koss and helm, not me."
 
 Sato: "Could ship condition have fabricated returns?"
 
@@ -270,19 +270,9 @@ She testified to timestamps.
 
 Communications validation had been moved to the chamber's secondary table—relay path diagrams, custody headers, VI-Gamma crosswalk prints, Park's segregated lane manifests, coffee replaced once and allowed to go cold again. Priya Nand ran checksum panes. Holt signed when math agreed with memory.
 
-"Incident window," Holt said. "Bearing two-one-four mark six. Discharge peak. Void geometry. Forty sweeps post-event—logged. Destruction assessment correction—alive return on passive—logged. Amendment timestamp marriage to Rowan orders—logged."
+Holt walked the record without performance—Incident window at bearing two-one-four mark six through discharge peak and void geometry, forty sweeps post-event logged, destruction assessment corrected to alive return on passive, amendment timestamps married to Rowan orders. Segment seven showed no upstream emissions from scout registry, passive posture flags consistent with bridge log, latency within fringe tolerance for wounded ship power. Park's buffer checksum at pickup handshake matched validation bay recompute; Ortega-fourteen harmonic sample matched appendix F at relay drift tolerance. She did not say *I was afraid*. She said *sweep eleven repeated*.
 
-She did not say *I was afraid*. She said *sweep eleven repeated*.
-
-"Segment seven window," Priya said. "No upstream emissions from scout registry. Passive posture flags consistent with bridge log. Latency within fringe tolerance for wounded ship power."
-
-Park, recalled briefly: "Buffer checksum at pickup handshake matches validation bay recompute."
-
-Ortega, one line from the pane: "Ortega-fourteen harmonic sample matches appendix F at relay drift tolerance."
-
-Holt walked the board through relay geometry without performance—VI-Gamma fringe node, Holt/Nand validation hops, Fleet Communications pickup handshake, Historical intake stamps. Each hop a name. Each name a time. Each time a human who had stayed at a board when void did not change.
-
-"Authentication drift on secondary lane during Founders' Week residual traffic," Priya said. "Within tolerance. Not evidence of manipulation. Evidence of crowded sky."
+Holt walked relay geometry next—VI-Gamma fringe node, Holt/Nand validation hops, Fleet Communications pickup handshake, Historical intake stamps. Each hop a name. Each name a time. Each time a human who had stayed at a board when void did not change. Priya noted authentication drift on the secondary lane during Founders' Week residual traffic—within tolerance, not manipulation, crowded sky.
 
 Holt laid the chain on the table like a physical object.
 
@@ -314,11 +304,7 @@ That was also credibility.
 
 **Soraya Ellis** watched professionals compare notes the way historians watched weather—patterns before narrative.
 
-The board did not vote.
-
-Deliberation was not debate. It was alignment checking—Sato's thumbnails against Ortega bands, Okoye's redline against Reyes merges, Ahn's Edition 143 failure lines against witness grammar, Holt's timestamps against Park's strips.
-
-Sato read passive archive thumbnails against witness bands. Mismatches were flagged. There were few. Where Calder inferred, annexes flagged. Where Reyes inferred antiquity, Cartography crosswalk confirmed. Where Ortega observed harmonics, Halden's thermal bands did not contradict.
+The board did not vote. Deliberation was alignment checking—Sato's thumbnails against Ortega bands, Okoye's redline against Reyes merges, Ahn's Edition 143 failure lines against witness grammar, Holt's timestamps against Park's strips. Mismatches were few; where witnesses inferred, annexes flagged, and cross-discipline bands held without contradiction.
 
 Mercer compared his provisional header to testimony grammar. "No witness used *enemy*," he said quietly. "No witness used *unknown* for segment seven occupancy. Language held."
 
@@ -326,9 +312,9 @@ Okoye: "Epoch revision draft attached. Geography supports witness navigation. Do
 
 Ahn: "Edition 143 failure lines—twelve identified. Witness proceeding does not adopt Edition 144. Proceeding certifies observation record only."
 
-Holt and Priya whispered about handshake window drift on one minor timestamp—three milliseconds inside tolerance. They resolved it without drama. Tolerance was tolerance. Fleet did not become honest by pretending instruments were perfect.
+Holt and Priya resolved a three-millisecond handshake drift inside tolerance without drama.
 
-Thessaly, to the board: "Observation language survived review because witnesses did not let Fleet merge bands for convenience. Executive summary is synthesis. Annexes are discipline. Certify both."
+Thessaly, to the board: "Observation language survived because witnesses kept bands separate. Executive summary: synthesis. Annexes: discipline. Certify both."
 
 Rowan listened.
 

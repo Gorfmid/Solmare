@@ -21,29 +21,7 @@ Not celebration green.
 
 Procedure green.
 
-**Lieutenant Ahn** read the release manifest aloud because Doctrine Bureau believed spoken lists caught errors slates hid.
-
-"Edition 144 base manual—First Principles, witness band appendix, Context-Dependent Application Protocol."
-
-"Acknowledged."
-
-"Fork annex—Branch A, Branch B, Branch C—physically distinct routing, collapse footer intact."
-
-"Acknowledged."
-
-"Cartography tri-layer attachment—operational default by mission environment tag."
-
-"Acknowledged."
-
-"Communications metadata schema revision—interpretive labels, checksum isolation."
-
-"Acknowledged."
-
-"Training scenario refresh—conditional posture selection, no unified default exercise."
-
-"Acknowledged."
-
-Mercer signed the publication completion block with the pen that had stamped *insufficient evidence to collapse divergence* so many times the nib had learned honesty.
+**Lieutenant Ahn** read the release manifest aloud because Doctrine Bureau believed spoken lists caught errors slates hid—Edition 144 base manual with First Principles, witness band appendix, and Context-Dependent Application Protocol; fork annex with Branch A, B, and C physically distinct and collapse footer intact; Cartography tri-layer attachment with operational default by mission environment tag; Communications metadata schema revision with interpretive labels and checksum isolation; training scenario refresh for conditional posture selection without unified default exercise. Mercer acknowledged each item and signed the publication completion block with the pen that had stamped *insufficient evidence to collapse divergence* so many times the nib had learned honesty.
 
 `EDITION 144 — SYSTEM DISTRIBUTION ACTIVE — BRANCHES PRESERVED — COLLAPSE NOT AUTHORIZED`
 
@@ -122,59 +100,23 @@ Interesting got you incident reports with capital letters.
 
 The *Morning Watch* held patrol geometry on the seven-alpha adjacent band with the disciplined boredom Exploration prized and recruitment brochures lied about. Passive suite dwell extended. Emission hold nominal. Founders' Week advisories finally purged from the back display—Hwang had left them up long enough to prove corps culture leaked; Sorin had deleted them because clutter killed checklist discipline.
 
-The return appeared on sweep eleven.
+The return appeared on sweep eleven—not dramatic, not clean: structured occupancy marker at the epoch edge with commuter merge inference stable, authentication density increase flagged *observed, intent unresolved*, no illumination geometry from upstream volume.
 
-Not dramatic.
+**Ensign Maret** ran the duplicate pass at secondary without being asked. "Structured marker," she said. "Density uptick in band four. Could be procedure tightening. Could be traffic shift. Witness record says both fit."
 
-Not clean.
+Sorin did not reach for Fleet Command—that was the old reflex, ambiguous sky and wait for one voice to pretend singularity. Edition 144 had killed that reflex without funeral.
 
-Structured occupancy marker at the edge of epoch revision—commuter merge inference stable, authentication density increase flagged *observed, intent unresolved*, no illumination geometry from upstream volume.
+**Ensign Maret** reached for the posture dropdown first—muscle memory from Intelligence liaison briefings at academy, capability tag highlighted before Sorin could stop her.
 
-Sorin had not been on the *Kestrel Veil*.
+"Not that one," Sorin said. Quiet. No embarrassment in the room worth spending. "Exploration patrol. Branch A. Tag: exploration-patrol-restraint."
 
-He had read Calder's certified bands until the grammar felt like prayer you did not say aloud on watch.
+Maret flushed—not shame, correction. She toggled back. "Saw capability-first in yesterday's modeling digest. Reflex."
 
-**Ensign Maret** at the secondary chair ran the duplicate pass without being asked. Good. Exploration trained repetition before interpretation.
+"Reflex is how you illuminate when you shouldn't," Sorin said. "Read the mission environment line before the tag. We're Exploration on this skid."
 
-"Structured marker," Maret said. "Density uptick in band four. Could be procedure tightening. Could be traffic shift. Witness record says both fit."
+He watched the posture block populate: passive window extension authorized, illumination hold, no initiation under uncertainty threshold, log density changes, handshake deferred. Branch B would shorten the window and elevate reporting; Branch C would add readiness flags Logistics might read as procurement appetite. They were Exploration patrol; Branch A was not friendship, default until intent evidence.
 
-Sorin did not reach for Fleet Command.
-
-That was the old reflex—ambiguous sky, call upstairs, wait for one voice to pretend singularity.
-
-Edition 144 had killed that reflex without funeral.
-
-He opened the mission environment selector—standard UI now, three weeks old, already boring.
-
-**Exploration patrol — Branch A context — tag: exploration-patrol-restraint**
-
-The posture block populated:
-
-*Passive window extension authorized. Illumination hold. No initiation under uncertainty threshold. Log density changes. Handshake deferred.*
-
-He considered Branch B—unknown capability threshold, neutral readiness—and Branch C—defensive planning without preemptive engagement. Same marker. Different obligation grammar. Same witness geometry underneath.
-
-Maret watched him work. "B would shorten our window and elevate reporting. C would add readiness flags Logistics might read as procurement appetite."
-
-"We're Exploration patrol," Sorin said. "Tag matches environment. Branch A is not friendship. It's default until intent evidence."
-
-"And if Intelligence brief on this band is capability-first?"
-
-"Then Intelligence models with their tag. We patrol with ours. Cartography ships three layers. Communications preserves both in metadata. That's the manual now."
-
-Maret nodded—not happy, not mutinous. "No central clarification."
-
-"No central clarification required," Sorin said. "That's what conditional clarity means."
-
-He extended passive dwell forty minutes. He did not brighten geometry. He logged the density uptick with witness band formatting—observed increase, inferred procedure tightening, speculation absent. He routed the packet with exploration-patrol-restraint tag and Branch A footer.
-
-Checksum married to Cartography tri-layer default: civilian rhythm primary on patrol skid, neutral corridor secondary, strategic potential available on request.
-
-No confusion.
-
-Only labels doing the work arguments used to do badly.
-
-At minute thirty-eight the marker stabilized. No illumination from upstream. No pursuit geometry. Tuesday behavior at the edge of Fleet notation, if Tuesday could be industrial at scale.
+He extended passive dwell forty minutes without brightening geometry, logged the density uptick in witness band formatting—observed increase, inferred procedure tightening, speculation absent—and routed the packet with exploration-patrol-restraint tag and Branch A footer, checksum married to Cartography tri-layer default with civilian rhythm primary on the patrol skid. At minute thirty-eight the marker stabilized: no upstream illumination, no pursuit geometry, Tuesday behavior at the edge of Fleet notation if Tuesday could be industrial at scale.
 
 Sorin filed the log.
 
@@ -207,13 +149,7 @@ Now it started shifts.
 
 Map Room Four smelled the same—ink solvent, plastic sleeves, coffee that had given up pretending to be fresh. The projection table ran three layers by default: civilian rhythm, neutral corridor, strategic potential. Witness geometry sat beneath all three, singular and cold, the way bedrock sat beneath cities that argued about architecture.
 
-**Pell**, Founders' Week ring duller now, toggled layers without looking up from her epoch merge. "Exploration liaison wants rhythm primary on patrol packets. Intelligence pulled potential overlay on the morning brief. Same stars. Nobody screamed."
-
-"Progress," Okoye said.
-
-**Torres** grunted from the adjacent table. "Operational chart export for skid *Morning Watch* went out with compressed tri-layer. Sorin acknowledged receipt. No clarification request."
-
-Okoye capped her redline pen. Three weeks ago that sentence would have been a miracle. Today it was Tuesday.
+**Pell**, Founders' Week ring duller now, toggled layers without looking up from her epoch merge while Intelligence pulled potential overlay on the morning brief and Exploration liaison wanted rhythm primary on patrol packets—same stars, nobody screamed. **Torres** grunted approval when operational chart export for skid *Morning Watch* went out compressed tri-layer and Sorin acknowledged receipt without clarification request. Three weeks ago that would have been a miracle; today it was Tuesday.
 
 A junior analyst—**Denholm**, logistics crossover—paused at the UI tutorial pane. "Cadet question from training core: which layer is true?"
 
@@ -249,17 +185,11 @@ Okoye routed the daily tri-layer integrity summary to Rowan's stack—routine no
 
 `PARALLEL READINGS — STANDARD UI — WITNESS GEOMETRY UNCHANGED — NO COLLAPSE REQUESTS LOGGED`
 
-She added a margin note for herself: *Pell slept six hours. Denholm answered cadets without crying. Map Room needs ink.*
-
 What had been philosophical was operational.
 
 What had been operational was culture.
 
 Okoye poured second coffee and did not finish first.
-
-Outside Map Room Four, Helion traffic merged on schedule.
-
-Inside, three layers painted one sky.
 
 Fleet had not solved the border.
 
@@ -280,21 +210,7 @@ She was learning to trust tags with the same professional patience.
 
 The validation bay had acquired a new display column three weeks ago—interpretive metadata, isolated from checksum validation, labeled in Communications sans-serif ugly enough to prevent romance. Priya had named it the *honesty column* in private. Holt had let the name stick because accuracy sometimes needed affection to survive shift work.
 
-**Priya Nand** ran the morning lag metrics without alarm.
-
-Average tagging delay: eleven milliseconds.
-
-Yesterday: twelve.
-
-Day before: eleven.
-
-Structural feature, not incident.
-
-"Fringe relay VI-Gamma mirror," Priya said. "Same segment seven citation family. Exploration tag arrives first—routine priority. Intelligence tag arrives second—elevated priority. Checksum match. Chain green."
-
-"Log both," Holt said. "Archive routing order."
-
-"Already logged."
+**Priya Nand** ran the morning lag metrics without alarm—eleven milliseconds average today, twelve yesterday, eleven the day before; structural feature, not incident. The fringe relay VI-Gamma mirror showed the same segment seven citation family arriving twice with Exploration tag at routine priority and Intelligence tag at elevated priority, checksum match, chain green; Holt logged both and archived routing order.
 
 A relay auditor—**Kess**, academy-new last month, useful this month—asked the question Holt no longer heard as crisis.
 
@@ -365,25 +281,7 @@ Staff meetings were for problems.
 
 Edition 144 was propagating like a solved problem—which was not the same as a finished one.
 
-He stood at the glass and read the morning digest Mercer routed without commentary:
-
-Exploration patrol *Morning Watch* — Branch A tag, passive extension, no initiation, marker stabilized.
-
-Intelligence modeling floor — scenario trees refreshed, capability-first lens, hostile classification refused.
-
-Cartography Map Room Four — tri-layer standard UI, zero collapse requests.
-
-Communications validation bay — chain stable, tagging lag eleven milliseconds, structural tolerance.
-
-Doctrine annex — fourteen training cores acknowledged, propagation steady.
-
-Logistics — duplicate notices tagged, procurement clerk educated.
-
-No panic flags.
-
-No clarification avalanches.
-
-No unified-default petitions.
+He stood at the glass and read the morning digest Mercer routed without commentary—Exploration patrol *Morning Watch* on Branch A tag with passive extension and marker stabilized; Intelligence scenario trees refreshed under capability-first lens with hostile classification refused; Cartography tri-layer standard UI with zero collapse requests; Communications chain stable at eleven-millisecond tagging lag within structural tolerance; Doctrine annex with fourteen training cores acknowledged; Logistics duplicate notices tagged and procurement clerk educated. No panic flags, no clarification avalanches, no unified-default petitions.
 
 Rowan had spent a career believing institutions survived on singularity of understanding—the admiral's voice, the manual's one box, the order that made ambiguity someone's fault downstairs.
 
@@ -391,49 +289,19 @@ He had learned a harder truth in the months since berth fourteen-C breathed with
 
 Institutions survived on **honest plumbing**.
 
-Singularity was comfort.
-
-Plumbing was civilization.
-
-Below the glass, Helion merge traffic held geometry. Berth fourteen-C still held the *Kestrel Veil*—not museum piece, working hull, crew rotation on schedule. Founders' Week banners gone in the yards that mattered, residual in the quarters that lagged. Junior officers passed with slates showing context tags the way his generation had shown fuel profiles.
+Below the glass, Helion merge traffic held geometry. Berth fourteen-C still held the *Kestrel Veil*—working hull, crew rotation on schedule. Junior officers passed with slates showing context tags the way his generation had shown fuel profiles.
 
 Rowan opened the propagation map on his desk pane.
 
 Green nodes spreading—not conquest, receipt.
 
-He thought of Calder's courtesy sentence—*they lived there before we knew the place existed*—and how it would never appear in a patrol order header. It lived in margin where courtesy belonged. Orders carried tags instead.
-
-He thought of Branch A, B, and C coexisting in training scenarios without cadets rioting.
-
-He thought of Sorin extending passive dwell without calling Fleet Command.
-
-He thought of Holt's honesty column.
-
-He thought of Okoye's toggles.
-
-Fleet had not just accepted doctrine.
-
-Fleet was **becoming** it—the way corps became checklists, checklists became culture, culture became the thing outsiders would someday call character.
-
-Rowan felt something in his chest settle—not triumph, not relief.
-
-Recognition.
-
-The transformation did not feel like transformation while it happened.
-
-It felt like procedure.
-
-That was how you knew it was real.
+He thought of Sorin extending passive dwell without calling Fleet Command—and of Maret nearly selecting the wrong tag before correcting. Edition 144 was useful. It was not magic.
 
 **Commander Mercer** appeared with coffee and the annex expression that meant *propagation nominal*.
 
 "Sorin didn't call us," Mercer said.
 
 "He wasn't supposed to," Rowan said.
-
-"Sato's floor ran defensive curves on the same marker. No procurement unlock."
-
-"Readiness without provocation," Rowan said. "Line five and line four in the same morning. That's the manual working."
 
 "Clerk Reeves says cadets are confused but attentive."
 
@@ -443,21 +311,13 @@ Mercer set the coffee down. "You look like a man watching weather."
 
 "I'm watching plumbing," Rowan said.
 
-Mercer understood without requiring translation.
-
 Rowan returned to the glass.
 
 Inside Helion Prime, Edition 144 became behavior.
 
-Outside Helion Prime, the border volume held its silence—the same structured occupancy Fleet had finally stopped calling empty, the same restraint culture Calder had observed without naming, the same Tuesdays Fleet had mislabeled for eleven years.
+Outside Helion Prime, the border volume held its silence—the same structured occupancy Fleet had finally stopped calling empty.
 
 Fleet had changed everything internal.
-
-Rowan could not yet know if that was wisdom.
-
-He could know it was structural.
-
-A civilization that could hold contradiction without collapsing had crossed a frontier inside itself.
 
 The external frontier waited unchanged.
 
@@ -488,23 +348,15 @@ Occupied silence.
 
 Calder had learned the difference in segment seven the way surgeons learned tissue—by mistake first, by discipline after.
 
-"Passive suite stable," Ortega said from sensors. "Structured occupancy markers at epoch edge consistent with prior witness logging. No intent evidence. No authentication hunt on our bearing."
+"Passive suite stable," Ortega said from sensors. "Occupancy at epoch edge—same pattern family as segment seven. No hunt on our bearing. Logging harmonics, not intent."
 
-"Log it," Calder said.
+"Log it," Calder said. "Exploration patrol restraint tag. Witness hull on a leash Fleet wrote down."
 
-"Branch tag?"
+Park almost smiled. "Footer says collapse not authorized. Strange on scout rail."
 
-"Exploration patrol restraint. We're Fleet's witness hull on a leash Fleet finally wrote down."
+"Accurate," Calder said.
 
-Park almost smiled. "Edition 144 footer says collapse not authorized. Feels strange on a scout rail."
-
-"Feels honest," Calder said.
-
-He did not dominate the watch with witness grammar. He did not quote Rowan. He did not brief the crew on civilizational choice.
-
-He captained.
-
-The crew had read the manual. The crew had patched the hull. The crew had returned from neighbors Fleet still refused to name in executive summary. Today they held geometry because holding geometry was the job now—not improvisation, infrastructure.
+He did not dominate the watch with witness grammar or quote Rowan. The crew had read the manual, patched the hull, and returned from neighbors Fleet still refused to name in executive summary. Today they held geometry because holding geometry was the job—not improvisation, infrastructure.
 
 Beyond the border Fleet notated and did not yet understand, life continued without requesting Fleet's permission.
 
@@ -544,17 +396,11 @@ Sometimes crossing meant standing in passable geometry with your emissions disci
 
 "Sir."
 
-"Hold correction thrust. Extend dwell. We're not bored. We're behaving."
+"Hold correction thrust. Extend dwell. Not bored—behaving."
 
 "Aye, Captain."
 
-Park logged the tag.
-
-Ortega logged the bands.
-
-Walsh logged the amber boards that would outlive the watch.
-
-Calder watched the frontier remain unchanged.
+Park logged the tag; Ortega logged the bands; Walsh logged the amber boards that would outlive the watch. Calder watched the frontier remain unchanged.
 
 He had been First Witness.
 

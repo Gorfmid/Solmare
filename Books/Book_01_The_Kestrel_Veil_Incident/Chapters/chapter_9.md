@@ -171,7 +171,7 @@ Segment six had no drama in it.
 
 That was what made Calder's chest tight.
 
-**Marco Reyes** called bearing checks in a voice calibrated not to carry. **Yuki Tanaka** answered in monosyllables. **Felix Ortega** ran passive loops that mostly failed with errors so polite they felt like apology. **Ari Halden** watched local space and said *empty* the way other people said *fine*—meaning not safe, meaning sufficient for now.
+**Damon Reyes** called bearing checks in a voice calibrated not to carry; **Yuki Tanaka** answered in monosyllables; **Felix Ortega** ran passive loops that mostly failed with errors so polite they felt like apology; **Ari Halden** watched local space and said *empty* the way other people said *fine*—meaning not safe, meaning sufficient for now.
 
 The command deck lighting ran at forty percent. Someone had killed the day-cycle relay again because bright light felt like broadcast.
 
@@ -185,45 +185,19 @@ Hale on defensive: rotation limit honored without comment.
 
 Walsh's injury board numbers lived in Calder's peripheral vision now the way threat icons used to.
 
-He stopped at navigation.
-
-"Status," he said.
-
-Reyes did not look up from the manual overlay. "Segment six holding. Correction-thrust fraction stable. No active emitters. Passive only."
-
-"Confidence."
-
-"Honest." Reyes finally met his eyes. "We're where the charts say we are. The charts don't say what owns the space."
+He stopped at navigation. Reyes did not look up from the manual overlay. Segment six holding, correction-thrust fraction stable, no active emitters, passive only—confidence honest: they were where the charts said they were, and the charts didn't say what owned the space.
 
 Calder nodded. That was the truest thing anyone had said since VI-Gamma went static.
 
-He moved to sensors.
+At sensors Ortega reported passive rebuild at four percent, noise floor elevated—not contact, environment. Background structure, not natural, not theirs. Calder filed that without filling the silence with reassurance he did not have.
 
-Ortega: "Passive rebuild four percent. Noise floor elevated—not contact. Environment."
+At tactical Halden called local empty. Calder confirmed rotation limit; Hale honored it without comment.
 
-"Define environment."
-
-Ortega paused. Chose precision over comfort. "Background structure. Not natural. Not ours."
-
-Calder filed that without filling the silence with reassurance he did not have.
-
-At tactical, Halden: "Local empty."
-
-"Rotation limit," Calder said.
-
-Hale: "Honored, sir."
-
-He stopped at the buffer. Park's upstream lane showed empty—the same empty that had cost him VI-Gamma's warm voice. Park's hands rested on the console rim instead of the key panel. A small discipline Calder had not ordered and would not praise aloud.
-
-"Buffer," Calder said.
-
-"Clean," Park said. "No transmit. Local log only."
-
-"Good."
-
-One word. Enough.
+At the buffer Park's upstream lane showed empty—the same empty that had cost him VI-Gamma's warm voice. His hands rested on the console rim instead of the key panel, a small discipline Calder had not ordered and would not praise aloud. Buffer clean, no transmit, local log only.
 
 Walsh pinged from clinic on internal—one line, no greeting: *Ortega light check in twenty per Thessaly schedule.* Calder sent a single acknowledgment token. Walsh did not reply. She never did when the message was received.
+
+On the pass-through bulkhead, Walsh's schedule strip was already posted—medical before mission, her handwriting, no Fleet template. Calder did not argue with it. Arguing would have been performance.
 
 Thessaly caught him on the return pass. She did not touch his arm. She did not need to.
 
@@ -231,11 +205,11 @@ Thessaly caught him on the return pass. She did not touch his arm. She did not n
 
 "Done."
 
-"And Captain—" She kept her voice level. "The crew knows where we are. Nobody needs a speech."
+"Captain." She kept her voice level. "Crew knows bearing family. No speech required."
 
-"I wasn't planning one."
+"No speech."
 
-"I know." For a fraction of a second something human moved behind her eyes. Then it was gone, filed where Thessaly filed everything that did not belong in the log. "Neither was I."
+"Logged." For a fraction of a second something human moved behind her eyes. Then it was gone, filed where Thessaly filed everything that did not belong in the log. "Neither was I."
 
 At engineering intercom, Brenner said nothing unless called—which was itself a kind of message from a man who usually had opinions about everything including opinions.
 
@@ -245,7 +219,9 @@ No jokes.
 
 No one had joked much since the bloom.
 
-Cole still ran pass-throughs with soft soles. **Kevin** still appeared with trays nobody asked for and calories everyone needed. The ship still creaked between correction pulses the way old ships creaked when asked to be quiet and young at the same time.
+Cole still ran pass-throughs with soft soles. **Kevin** still appeared with trays nobody asked for and calories everyone needed. **Pell** from ring maintenance ate standing at a crate because sitting still felt wrong since the bloom—three bites, then back to a coupling check without being asked.
+
+The ship still creaked between correction pulses the way old ships creaked when asked to be quiet and young at the same time.
 
 But the crew had changed shape around the empty places the Incident left—tighter at the center, gentler at the edges, the way broken bones healed if you kept using them correctly.
 
@@ -255,11 +231,9 @@ He did not plan to.
 
 "We're in reconnaissance now," he said—not announcement, just alignment. Low volume. "Observe. Investigate. No engagement unless necessary."
 
-Thessaly: "Copy."
+Reyes's hand stayed on the cradle an extra second. Park did not look up from the buffer, but his shoulders dropped a fraction—not relief, permission to keep working.
 
-Park: nothing. Then, barely: "Logged."
-
-Reyes breathed once.
+Thessaly copied it to the transit log. Park logged it. Reyes breathed once.
 
 Segment six took fifty-two minutes.
 
@@ -289,13 +263,7 @@ Today she sounded wrong.
 
 Not failing. Wrong.
 
-Ring three still flickered when environmental overworked. Cho's guest filter in loop three still ran with a wheeze Brenner had stopped calling temporary because temporary was a religion he no longer practiced. Koss had a thermal graph open and the expression she wore when numbers were about to misbehave socially.
-
-"Port regulator's holding," Koss said.
-
-"I hear holding," Brenner said. "I also hear complaining."
-
-He had **Hargrove** on the bypass and a junior tech named **Pell**—not the one who fell asleep in a collar bay, a different Pell, ring four, too young to have a bloom story yet—running cable trace on a junction that should not have needed trace if the universe were fair.
+Ring three still flickered when environmental overworked. Cho's guest filter in loop three still ran with a wheeze Brenner had stopped calling temporary because temporary was a religion he no longer practiced. Koss had a thermal graph open and the expression she wore when numbers were about to misbehave socially. The port regulator was holding—Brenner heard holding and complaining both—and **Hargrove** was on the bypass with a junior tech named **Pell**—not the one who fell asleep in a collar bay, a different Pell, ring four, too young to have a bloom story yet—running cable trace on a junction that should not have needed trace if the universe were fair.
 
 Pell looked up. "Sir—this line runs warm."
 
@@ -319,7 +287,7 @@ Not enemy contact. Not yet. Something in the hull's response to space that wasn'
 
 Koss watched Brenner listen. She had learned not to ask what he heard until he was ready to translate it into numbers.
 
-"Port tie-in handshake lag," Brenner said finally. "Eleven milliseconds. Was seven yesterday."
+"Port tie-in handshake lag," Brenner said finally. "Eleven milliseconds. Was seven yesterday. Relay's answering slow—like the hull knows the neighborhood changed."
 
 "Environmental load?" Koss asked.
 
@@ -331,7 +299,7 @@ He changed the maintenance queue.
 
 "Pell—move environmental three to top of list. Not failure prevention. Pattern log every six hours."
 
-Koss: "You think the border's doing it?"
+Koss: "Mass-field variance at the interface—or environmental coupling on the tie-in?"
 
 "I think the ship knows where she is before we admit it." Brenner wiped his hands. "And I think if we pretend otherwise, she'll sulk until we learn the expensive way."
 
@@ -343,15 +311,13 @@ Pell: "Yes, sir."
 
 Brenner almost said something kind. He said something useful instead: "Good trace work. Do the next junction."
 
-Hargrove, from under a panel: "Ring four coupler's still ugly."
-
-"Ugly holds," Brenner said. "Log ugly."
+Hargrove, from under a panel, reported ring four's coupler was still ugly. Ugly held; Brenner said to log ugly.
 
 Quiet pride. Quiet work.
 
 Koss pulled him aside while Pell ran trace on the next junction. "You're changing priorities because you feel the ship," she said. Not accusation. Assessment.
 
-"I'm changing priorities because the ship is giving me data," Brenner said. "Feelings are what you do when the data's late."
+"I'm changing priorities because the ship is giving me data," Brenner said. "Gut's what you use when the gauges haven't caught up yet."
 
 "And when the data says we're trespassing?"
 
@@ -459,17 +425,9 @@ It arrived as infrastructure.
 
 Ortega saw it first because Ortega always saw the wrong things first—the things passive suites were not designed to look for until someone told them to feel instead of hunt.
 
-"Navigation anomaly," he said. Voice low. "Not contact. Beacon structure."
+"Navigation anomaly." Ortega's voice stayed low. "Not contact. Beacon structure—artificial spacing, not natural clustering."
 
 Reyes pulled it into manual overlay. His mouth tightened.
-
-"Confirm," Calder said.
-
-Tanaka: "Confirmed. Artificial. Not Fleet format."
-
-Halden: "No active emissions. Passive reflector pattern."
-
-Park logged without speaking.
 
 Calder leaned into the display—not close enough to contaminate Ortega's gain settings, close enough to see.
 
@@ -478,6 +436,8 @@ The return was old.
 Not ancient. Maintained.
 
 A navigation aid—passive, cooperative, the kind of thing you deployed when you expected traffic to obey lanes you had decided were yours. Then a second return. A third—spacing that was not coincidence, synchronized relay geometry marching along the corridor in intervals Reyes recognized before he admitted he did. Gravitational lane corrections in the correction-thruster profile he had been fighting for two segments without naming aloud. Relay hardware sleeping in a band Fleet charts labeled empty. Maintenance signatures on four separate points—thermal bleed on housings, recent, routine, the work of hands that expected traffic to return on schedule.
+
+Tanaka confirmed artificial, not Fleet format. Halden saw no active emissions—passive reflector pattern only. Park logged timestamps. No transmit.
 
 Nothing broadcast in Fleet formats.
 
@@ -495,13 +455,7 @@ Someone had built for regular movement—not occasional patrols, not survey pass
 
 This wasn't the edge of civilization, it was part of it.
 
-Reyes traced the beacon structure on manual overlay with the careful anger of a navigator discovering someone else had been drawing his map. "Lane correction field," he said. "Passive. Old install, recent maintenance—thermal bleed on the housing. Third passive nav reference bearing mark one-seven. Fourth at mark two-two—spacing consistent with transit network, not single-point marker."
-
-Ortega: "Second return. Comm relay sleeper. Not broadcasting. Listening architecture. Fifth return—maintenance ping residue only. Someone services this corridor."
-
-Halden: "No weapons signature. Infrastructure only. Pattern says transportation network edge, not frontier picket."
-
-Park logged timestamps. His voice when he finally spoke was barely there: "Nothing in Fleet format. Confirmed."
+Reyes traced the beacon structure on manual overlay with the careful anger of a navigator discovering someone else had been drawing his map—lane corrections, relay sleepers, maintenance pings already logged in Ortega's segregated column. Halden saw no weapons signature, infrastructure only. Park's voice when he finally spoke was barely there: nothing in Fleet format, confirmed.
 
 Thessaly appeared at Calder's shoulder without announcement. That was her version of urgency.
 
@@ -513,11 +467,9 @@ Thessaly appeared at Calder's shoulder without announcement. That was her versio
 
 "Observe." He straightened. Looked around the deck—Park, Reyes, Ortega, Halden, the crew that had survived the Incident and still showed up to their stations because showing up was the job.
 
-He thought of Rowan's voice through Holt's relay—*no rescue guarantee*. He thought of Dana's *try harder* without the warm line behind it. He thought of bearing two-one-four mark six and the bloom and the void and the six hours Cho had given them that were not enough and had been everything.
+He thought of Rowan's *no rescue guarantee* and Cho's six-hour margin—enough to patch, not enough to pretend.
 
 The Neutral Zone had not been empty. It had simply belonged to someone else Fleet charts would not name.
-
-Fleet charts called it neutral because neutrality was a story two empires told while they watched each other breathe.
 
 Calder said it quietly because quiet was doctrine and because the words deserved accuracy more than volume.
 

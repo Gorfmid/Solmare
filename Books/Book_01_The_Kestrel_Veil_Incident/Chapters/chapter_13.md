@@ -57,6 +57,14 @@ Petrov's jaw worked. "Sir—at thirty—"
 
 "At thirty we compare harder. We do not act softer." Stratimirov set the cup down. "Bring Commander Vex."
 
+**Admiral Chernov** from Fleet Liaison had been silent through the scatter review—present because borders touched Fleet imagination even when Fleet could not see the map. He spoke now, voice flat, institutional. "Transportation's debris hypothesis is still primary. Thirty markers is correlation, not contact. I would not brief the Council on persistence yet."
+
+Petrov did not bristle. "Sir, I would not brief the Council either. I would brief you that correlation survived a second pass."
+
+Chernov looked at the plot one more time. "Then survive a third. Fleet has seen ghosts before."
+
+Stratimirov did not adjudicate. "Both of you document. Bring Commander Vex."
+
 ---
 
 **Commander Vex** entered without ceremony.
@@ -166,9 +174,9 @@ Only patience and the insult of six percent passive rebuild showing more than Fl
 
 **Tomás Brenner** had the helm on correction thrusters with the particular stillness of a man who had learned that the most dangerous thing a pilot could do in enemy space was look impressed.
 
-"Range holding," Brenner said. "No closure. No drift toward curiosity."
+"Range holding. No closure. Thrusters nominal— no drift toward curiosity."
 
-"Keep it that way," Calder said.
+"Hold it," Calder said.
 
 **Calder Venn** stood at the rail while **Felix Ortega** and **Ari Halden** rebuilt an industrial complex from traffic alone— not hulls, not headlines, capacity.
 
@@ -176,23 +184,7 @@ Ortega had been on listen watch long enough that his eyes had stopped trying to 
 
 Halden built the picture the way surveyors built coastlines from tide lines.
 
-Returns arrived as rhythm.
-
-Ore haulers on fixed lanes.
-
-Fuel tenders swapping mass at depot nodes without ceremony.
-
-Automated tugs adjusting berth geometry with bored precision.
-
-Support craft—crew buses, inspection sleds, lattice barges—moving on schedules tighter than holiday and looser than war.
-
-Multiple construction slips active simultaneously.
-
-Repair facilities accepting hulls on mag crawlers.
-
-Expanded outer ring berths under long-shift authorization.
-
-Everything functioned continuously.
+Returns arrived as rhythm— ore haulers on fixed lanes, fuel tenders swapping mass at depot nodes without ceremony, automated tugs adjusting berth geometry with bored precision, support craft— crew buses, inspection sleds, lattice barges— moving on schedules tighter than holiday and looser than war. Multiple construction slips worked simultaneously; repair facilities accepted hulls on mag crawlers; expanded outer ring berths operated under long-shift authorization. Everything functioned continuously.
 
 **Jun Park** had opened a quiet thread between navigation and engineering so Reyes could mark lane age without Halden repeating coordinates. Nobody had asked him to. Park connected people the way other officers connected systems—without announcement, without credit.
 
@@ -200,15 +192,15 @@ Everything functioned continuously.
 
 Halden overlaid faint thermal blooms and drive harmonics. "Minimum seven major slips in this volume. Possibly nine if we include partial occlusion. Repair annex—two, maybe three. Fuel farm—confirmed. Tug traffic—heavy."
 
-**Marco Reyes** traced lane geometry. "Cargo lanes are not ad hoc. They're generational—merge windows older than our charts, upgrades layered on upgrades."
+**Damon Reyes** traced lane geometry. "Cargo lanes— not ad hoc. Merge windows older than our charts. Upgrades on upgrades. Generational, if the geometry holds."
 
 **Mira Thessaly** watched without interrupting. She had learned when to let specialists speak first.
 
 Halden: "Throughput estimate—if we model from tug frequency and mass transfer—"
 
-"Don't give me fleet numbers," Calder said.
+"Industrial throughput or fleet numbers?" Calder said.
 
-"I wasn't going to." Halden met his eyes. "Industrial throughput. Plate movement. Lattice flow. Support craft density. This isn't a yard reacting to alarm. This is a yard that has been busy long enough to make busy normal."
+"I wasn't going to give you fleet numbers." Halden met his eyes. "Industrial throughput. Plate movement. Lattice flow. Support craft density. This isn't a yard reacting to alarm. This is a yard that has been busy long enough to make busy normal."
 
 Calder felt the shift in his own thinking— not enemies, not targets, systems.
 
@@ -228,25 +220,27 @@ Inheritance.
 
 Ortega added another return— maintenance sled, low power, repeating on a spine Calder could not have drawn from Fleet charts because Fleet charts had called this volume empty.
 
-Brenner, without turning: "That's the third sled on that spine in six hours. They maintain like they expect to keep using it."
+Brenner, without turning: "Third sled on that spine in six hours. Maintenance cycle says they expect the joint to outlast the shift."
 
 Calder filed the comment. Pilots noticed rhythm when captains were busy with scale.
 
 Halden pulled a thermal band aside. "Outer ring gantries show refurb layers— new work on old bones. If this were crisis construction, we'd see single-generation weld profiles. We don't."
 
-Thessaly: "Capacity question isn't how many hulls. It's how many hulls *could* move through if authorization changed."
+Thessaly: "Capacity on record: not hull count— throughput potential. How many hulls could transit if authorization changed."
 
 Calder looked at her. She did not elaborate. She did not need to.
 
-"Confirm passive only," Calder said.
+"Passive only. Confirm status," Calder said.
 
-"We're passive only," **Yuki Tanaka** said.
+"Passive posture confirmed. Emitters dark," **Yuki Tanaka** said.
 
 "No illumination," **Marcus Hale** said.
 
 Calder nodded. He was no longer looking for enemy ships.
 
 He was trying to understand a civilization.
+
+Down in ring three, **Pell** had a coupling panel open that could have waited until Fleet space. **Elara Koss** had told him to fix it now—unfinished handshake drift became someone else's emergency at pickup. Pell worked with his mouth set, torque wrench counting in the quiet between Ortega's passive returns. Calder heard none of it on the deck. He felt it anyway—the ship maintaining herself while they watched a yard that had been maintaining itself for generations.
 
 ---
 
@@ -346,19 +340,7 @@ Paper notes because paper did not lie about who had touched it. Coffee because c
 
 Calder sat across from her with **Damon Reyes** at one elbow and **Jun Park** at the other, stitching correlations without being asked.
 
-Transportation variance flags Ortega had logged from listen watch cadence.
-
-Fuel transfer density from Halden's thermal model.
-
-Shipyard throughput from day nine overlay.
-
-Reserve movement patterns Thessaly had reconstructed from traffic surges—not bodies, mass.
-
-Communications authentication density slope from day six through day nine.
-
-Infrastructure age bands Halden had dated from maintenance layering.
-
-Maintenance window shifts Ortega had correlated with faint return persistence.
+Transportation variance flags from Ortega's listen watch cadence, fuel transfer density from Halden's thermal model, shipyard throughput from day nine overlay, reserve movement patterns Thessaly had reconstructed from traffic surges— not bodies, mass— communications authentication density slope from day six through day nine, infrastructure age bands Halden had dated from maintenance layering, maintenance window shifts Ortega had correlated with faint return persistence.
 
 The wardroom was too warm. That was intentional. Cold rooms made people rush. Thessaly had learned that on her first executive tour.
 
@@ -366,47 +348,47 @@ Thessaly did not speechify.
 
 She moved a note.
 
-"Acceleration is new," she said.
+"On record: acceleration is new," she said.
 
 Calder waited.
 
-"Transportation imbalance ticks up week over week in our slice. Authentication density increases. Border-adjacent procedure tightens. Reserve manifest routing climbs." She tapped another line. "But yard expansion geometry— outer ring berths, repair annex growth, fuel farm capacity—does not read like a recent decision. Read like continuation."
+"Transportation imbalance: week-over-week increase in our slice. Authentication density: rising. Border-adjacent procedure: tightening. Reserve manifest routing: climbing." She tapped another line. "Yard expansion geometry— outer ring berths, repair annex growth, fuel farm capacity— does not read as recent decision. Reads as continuation."
 
 She slid a second strip forward— Ortega's listen watch cadence against Halden's depot thermal model.
 
-"Here," she said. "Fuel transfers increase, but the increase follows lane capacity already built. Not emergency hoarding. Not scramble routing. The lanes existed first."
+"Fuel transfer increase follows lane capacity already built. Not emergency hoarding. Not scramble routing. Lanes existed first."
 
-Reyes leaned in. "Communications density rises on the same slope as reserve movement, offset by maintenance windows. Like they're tightening procedure on infrastructure they already trusted."
+Reyes leaned in. "Comms density and reserve movement— same slope. Offset by maintenance windows. Like they're tightening procedure on infrastructure they already trusted. If that's right, the lanes came first."
 
-"Trusted long enough to maintain while expanding," Park said quietly.
+"Ninety-second lag on fuel-reserve correlation. Planning, not panic," Park said quietly.
 
-Thessaly looked at Calder. "None of this began when we crossed. The acceleration might have. The preparation didn't."
+Thessaly looked at Calder. "Timeline on record: none of this began at our crossing. Acceleration may have. Preparation did not."
 
-Reyes: "Continuation of what?"
+Reyes: "Continuation of what, though."
 
 "Preparation," Thessaly said. Not triumph. Inventory.
 
-Park slid a correlation strip across the table. "Fuel lane duty cycles match reserve surge windows with ninety-second lag— suggests planning, not panic."
+Park slid a correlation strip across the table. "Duty cycles match reserve surge. Ninety-second lag. Documented."
 
 Halden: "Oldest relay refurb bands on seven-alpha predate Fleet survey markers by—" She stopped herself. "By longer than our mission authorization assumes."
 
 Calder looked at the pattern until it stopped being dots and became posture— a civilization that had been building toward a future it hoped never to need.
 
-"We've been treating this like a reaction," he said.
+"Reaction or continuation?" Calder said.
 
 Pause.
 
 The wardroom held its breath the way professionals held breath when a sentence could not be unsaid.
 
-Thessaly met his eyes. "It isn't."
+Thessaly met his eyes. "Continuation. Documented."
 
 No applause. No revelation music. Only coffee cooling and paper edges and the quiet competence of a first officer who had become a strategic partner because someone had to assemble tiles while the captain kept the ship alive.
 
-Calder nodded once. "Continue passive. Continue logging. No upstream. No illumination."
+Calder nodded once. "Passive. Logging. No upstream. No illumination."
 
 "Agreed," Thessaly said.
 
-Brenner's voice on intercom, barely there: "Captain—ring three handshake nominal. She's holding."
+Brenner's voice on intercom, barely there: "Ring three handshake nominal. Holding pressure. Steady."
 
 "Acknowledged."
 
@@ -425,25 +407,7 @@ Stone steps wore a groove in the center from decades of planners who had come do
 
 **Irina Volkova** had removed her gloves before touching the ledger interface because her grandmother would have approved and because old records deserved hands that meant respect.
 
-Corridor expansion projects stretched across the display— digital layers over handwritten originals, ink faded, annotations in margins from planners dead before Volkova's academy cohort was born. Some margins argued about penalty documentation. Some argued about tea quality in the survey camps. All of them assumed the corridor would still matter when the argument was forgotten.
-
-Seven-alpha.
-
-Nine-beta.
-
-Kessik feeder spines.
-
-Outer ring yard berths— first expansion, second expansion, third.
-
-Fuel depot deepening— phase one, phase two, phase four.
-
-Relay refurb cycles stacked like sediment.
-
-Reserve routing schema updates that changed language but not intent.
-
-Not one surge.
-
-A staircase.
+Corridor expansion projects stretched across the display— digital layers over handwritten originals, ink faded, annotations in margins from planners dead before Volkova's academy cohort was born. Some margins argued about penalty documentation. Some argued about tea quality in the survey camps. All of them assumed the corridor would still matter when the argument was forgotten: seven-alpha, nine-beta, Kessik feeder spines, outer ring yard berths through three expansions, fuel depot deepening through four phases, relay refurb cycles stacked like sediment, reserve routing schema updates that changed language but not intent. Not one surge. A staircase.
 
 **Archivist Sten**, seventy if he was a day, wheeled a tea cart with the ritual boredom of a man who had served historians and planners for forty years and trusted dust more than speeches.
 
@@ -490,45 +454,17 @@ The overlay was complete enough to be honest and incomplete enough to be true.
 
 Calder had asked for every observation since border crossing— not highlights, everything. Park had compiled buffer threads. Ortega had stacked listen watch logs. Reyes had dated lane merges. Halden had layered infrastructure bands until the plot looked less like intelligence and more like anatomy.
 
-Calder at the rail.
+Calder at the rail, **Mira Thessaly** with slate, **Felix Ortega** on listen watch summary, **Damon Reyes** on lane age, **Ari Halden** on infrastructure bands, **Jun Park** on buffer integrity, **Yuki Tanaka** on emitter confirmation, **Marcus Hale** on rotation, **Tomás Brenner** on intercom when needed— never more.
 
-Thessaly with slate.
+The overlay read like anatomy: infrastructure ages spanning centuries on relay cores, decades on yard berths, generations on corridor merge logic; shipyard expansion with outer rings layered on older rings like growth rings; transportation throughput continuous rather than spiking; fuel movement showing deep capacity, not emergency hoarding; communications dense, disciplined, old; reserve logistics rising on a long baseline, not a cliff. Historical estimates Halden had built from maintenance layering and upgrade cadence— not Fleet dates, local truth.
 
-Ortega on listen watch summary.
+Reyes added one more line without drama. "Seven-alpha merge logic— three upgrade generations. Oldest band predates our frontier survey assumptions. Charts were late, not wrong in the geometry."
 
-Reyes on lane age.
-
-Halden on infrastructure bands.
-
-Park on buffer integrity.
-
-Tanaka on emitter confirmation.
-
-Hale on rotation.
-
-**Tomás Brenner** on intercom when needed— never more.
-
-Infrastructure ages— centuries on relay cores, decades on yard berths, generations on corridor merge logic.
-
-Shipyard expansion— outer rings layered on older rings like growth rings.
-
-Transportation throughput— continuous, not spiking.
-
-Fuel movement— deep capacity, not emergency hoarding.
-
-Communications— dense, disciplined, old.
-
-Reserve logistics— rising slope on a long baseline, not a cliff.
-
-Historical estimates Halden had built from maintenance layering and upgrade cadence— not Fleet dates, local truth.
-
-Reyes added one more line without drama. "Lane merge logic on seven-alpha— three upgrade generations visible. Oldest band predates our frontier survey assumptions."
-
-Ortega: "Civilian commute density steady. No evacuation pattern. No military surge signature. Just... volume."
+Ortega: "Commute density steady. No evacuation pattern. No military surge in harmonics— volume only. Inconsistent with mobilization profile."
 
 Tanaka: "Emitters dark. Confirmed."
 
-Hale: "Rotation holding. Crew functional."
+Hale reported rotation holding, crew functional.
 
 Halden spoke quietly, the way engineers spoke when numbers outranked hope.
 
@@ -544,7 +480,7 @@ Not cinematic silence.
 
 Professional silence— the kind that followed when a room full of competent adults understood they had been measuring the wrong clock.
 
-Calder said, "This isn't mobilization."
+Calder said, "Mobilization or preparation?"
 
 Pause.
 
@@ -552,11 +488,11 @@ The scrubbers cycled.
 
 Ortega's loop murmured— controllers tired, tugs patient, children singing off-key somewhere in a civilization that did not know his name.
 
-"It's preparation."
+Thessaly: "Preparation. Long baseline."
 
 Longer pause.
 
-"They've been preparing for something longer than we've known they existed."
+Calder: "Longer than we've known they existed—haven't we?"
 
 Nobody answered.
 
@@ -568,28 +504,12 @@ Calder issued one order.
 
 "Keep listening."
 
-Reyes returned his hands to the plot.
-
-Ortega put the headphone back.
-
-Park opened a new buffer thread.
-
-Tanaka kept emitters dark.
-
-Hale kept rotation sacred.
-
-Brenner kept the ring steady.
+Reyes returned his hands to the plot; Ortega put the headphone back; Park opened a new buffer thread. Tanaka kept emitters dark, Hale kept rotation sacred, Brenner kept the ring steady.
 
 The *Kestrel Veil* crept on correction thrusters in a corridor that had been prepared long before she stumbled into it— damaged, professional, witness to a future someone else had hoped never to need.
 
 Calder watched the plot one more time and thought of yards and Thursdays and grandmothers who spoke in proverbs without explaining them. Not enemies. Not yet. A civilization that had been building toward a horizon Fleet charts had called empty, and a scout that had arrived in time to see the weight of it.
 
 Humility was no longer optional.
-
-They compared.
-
-They listened.
-
-They continued.
 
 ---

@@ -75,7 +75,7 @@ Hale began without preamble.
 
 Ren wrote: *observed / inferred / not yet guess*.
 
-"Professional restraint," Hale continued. "Operational under uncertainty. You will hear the phrase *no initiation under uncertainty threshold*. It is not cowardice dressed in regulation. It is the default until intent becomes evidence instead of appetite."
+"Professional restraint," Hale continued. "Operational under uncertainty. You'll hear *no initiation under uncertainty threshold*. It's not cowardice in regulation. It's the default until intent is evidence—not appetite."
 
 Ren wrote: *restraint = default until intent evidence*.
 
@@ -83,7 +83,7 @@ Someone in the back row asked, "Default for what environment, sir?"
 
 Good question. Ren wished she had asked it.
 
-Hale did not sigh. "Conditional doctrine. Edition 144 preserves parallel obligation grammar. Mission environment tags. Branches remain forked until evidence or Operations mandate collapses divergence. You will not get one box that pretends the frontier is simple. You will get labels that keep you honest."
+Hale did not sigh. "Conditional doctrine. Edition 144 keeps parallel obligation grammar—mission environment tags, branches forked until evidence or Operations orders collapse. You won't get one box that pretends the frontier is simple. You'll get labels. Use them honestly."
 
 Ren wrote: *tags not one box*.
 

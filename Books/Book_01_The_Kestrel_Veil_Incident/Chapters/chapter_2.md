@@ -92,11 +92,11 @@ Calder almost said *ceremonies are procedures with music*. He thought Lisette wo
 
 The receiving line took an hour. Families, instructors, classmates, sponsors from industrial houses that recruited fleet talent the way orchards recruited seasonal labor. A Selene textiles representative pressed a scarf into Calder's hands—"For your first cold wardroom"—and laughed when he tried to return it with a receipt mindset.
 
-Reyes clasped Calder's forearm and said, "Exploration cartography track—*Meridian Echo*. Not glamorous. Good maps. I'll send you coordinates that don't match the archive."
+Reyes clasped Calder's forearm and said, "Exploration cartography track—*Meridian Echo*. Not glamorous. Maps are good, though. I'll send you coordinates the archive hasn't earned yet."
 
 "Send them."
 
-"They won't match on purpose. That's the point."
+"They won't match on purpose. Archive says one thing; the sweep says another. That's usually where the answer is."
 
 Okonkwo's handshake was competitive even in congratulations. "Destroyer escort, *Vigilant Threshold*. Try not to need rescue from my sector."
 
@@ -354,11 +354,11 @@ Priya, still within earshot, winced sympathetically.
 
 Lisette read the summary over his shoulder—berth, mandate, crew complement listed, acceptance timeline. Her mouth tightened at the maintenance annex thickness, not at the assignment itself.
 
-"The ship is old," Calder said.
+"The annex says she's old," Calder said.
 
 "The ship is a ship. You're the captain they assigned." She sat across from him. "Are you disappointed?"
 
-He considered the honest answer. "Yes."
+He considered the honest answer. "Yes." He paused. "What does that change?"
 
 "Good. Honest is allowed." She pushed the roll closer. "Are you refusing?"
 
@@ -460,10 +460,10 @@ Executive Officer **Mira Thessaly** rounded the junction with a data slate under
 
 "Executive Officer Thessaly."
 
-"Welcome aboard."
+"Welcome aboard." She glanced at the scar through the viewport. "Let's see what we've got."
 
 No sarcasm. No apology. No pity.
 
-Calder glanced back through the docking bay viewport. The scar's welded seam caught the yard floodlights—a long pale ridge against darker hull.
+Calder looked at the welded seam—a long pale ridge against darker hull.
 
-"Let's see what we've got," he said quietly.
+"Show me the gaps first," he said quietly. "Then the green boards."

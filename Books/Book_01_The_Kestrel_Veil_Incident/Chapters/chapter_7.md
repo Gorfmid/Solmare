@@ -14,7 +14,7 @@ Calder had not slept in a block Okwelu would certify. He had walked instead.
 
 Thessaly met him at the rail with two cups of coffee—one for him, one for herself that she would not finish.
 
-"You look like you're about to apologize for being alive," she said.
+"You look like you're about to apologize. Don't. Ask what they need."
 
 "I'm about to ask people what they need."
 
@@ -24,7 +24,7 @@ Calder drank. It was too hot and too weak—the galley's compromise with a ship 
 
 "Thessaly—"
 
-"I've got the deck for the next two hours. Go be a captain who listens." She did not smile. "It's harder than it sounds."
+"I've got the deck for the next two hours. Go be a captain who listens." She did not smile. "Harder than it sounds. Log who you talk to."
 
 Fourteen hours was not long enough for a ship to heal. It was long enough for a crew to decide healing was the next watch.
 
@@ -76,7 +76,7 @@ Calder found Brenner in the ring cavity with his shoulder against a strut and bo
 
 "Today's the day the ship stopped trying to kill us for five minutes straight." He pulled a charred relay free with two fingers. "Backup power first. Arguments second. Lunch never."
 
-Calder leaned on the frame, not close enough to be in the way. "What do you need?"
+Calder leaned on the frame, not close enough to be in the way. "Tell me what you're short on."
 
 Brenner was quiet long enough that Calder heard Cole pass in the corridor above, running a hardline for Park.
 
@@ -98,17 +98,17 @@ Calder stayed twenty minutes. He did not understand half of what they said. He u
 
 Brenner told a story about Dennett refusing to sign a bypass until the bypass saved a watch in a radiation flare. Hargrove finished the ending Dennett never logged. Koss added the certification number that still wasn't in the manual.
 
-"The ship remembers," Brenner said, tapping the strut. "We just write it down wrong."
+"The hull remembers stress," Brenner said, tapping the strut. "We just log it wrong."
 
 Calder asked what they needed for internal voice next.
 
-"Park's problem," Brenner said. "We give him clean power, he gives VI-Gamma something to shout through."
+"Park's problem," Brenner said. "Clean watts to him. Relay's a pump—no pressure, no shout through VI-Gamma."
 
 "What about tactical?" Calder asked.
 
 Halden's voice on the newly live intercom: "Tactical hears you, Captain. Tactical waits for stars."
 
-Reyes, same channel, delayed: "Navigation hears you. Navigation also waits for stars."
+Reyes, same channel, delayed: "Navigation hears you. Hood's still dark—give me photons before tactical gets targets. Stars first."
 
 Brenner: "See? The ship finishes your sentences."
 
@@ -132,11 +132,11 @@ Environmental was three decks up and smelled like recycled air that had finally 
 
 Calder sat on a crate long enough to be seen. Kevin pushed tea across without ceremony.
 
-"Galley's on reduced cycle until Walsh certifies galley air," Kevin said. "Nobody complained. That's how I know they're scared." He nodded toward a sealed hatch. "Forward mess stays closed. Humidity's wrong. Walsh won't sign it."
+"Galley's on reduced cycle until Walsh certifies galley air," Kevin said. "Nobody complained. That's how I know they're scared." He nodded toward a sealed hatch. "Forward mess stays closed. Humidity's wrong. Walsh won't sign it. Three crew skipped second meal. I logged names, not excuses."
 
-"What do you need?"
+"What'll get you through the week?"
 
-Kevin considered. "A list from Walsh of who gets hot meals first. And Brenner to stop calling my replicators *sentimental appliances*."
+Kevin considered. "Hot-meal priority list from Walsh. And Brenner to stop calling my replicators *sentimental appliances*—the crew hears that."
 
 "I'll talk to Brenner."
 
@@ -156,7 +156,7 @@ On the way to medical he passed **Ari Halden** in a corridor junction, tablet un
 
 "Tanaka translated?"
 
-"Tanaka smiled. That was worse."
+Halden almost smiled. "She said *stars first* and went back to her checklist. That was worse."
 
 Calder reached medical as Walsh was arguing with a thermal readout that disagreed with her clinical judgment.
 
@@ -196,7 +196,7 @@ Medical bay was calm in the way a field hospital pretended to be an office. **Dr
 
 "Redundancy loop on environmental three is back," she told Calder without preamble. "Operational. Not repaired. Koss and Brenner share credit. I share blame if it fails—and if anything hits us again, this board won't read *holding*. We all know that."
 
-"What do you need?"
+"Still missing anything?"
 
 "Sleep for everyone who isn't me or Okwelu." Walsh marked a line on her slate. "And internal comms so I can stop sending runners to engineering like it's the nineteenth century." She glanced at the injury monitors still running on three beds that looked empty. "Monitoring continues. Nobody gets to pretend yesterday didn't happen."
 
@@ -212,37 +212,25 @@ Medical bay was calm in the way a field hospital pretended to be an office. **Dr
 
 Internal communications returned in pieces—a morning's work that felt like a week.
 
-Park had Cole and two relay techs in the secondary bay running pairs tests while Park logged each voice himself, one channel at a time, because the auto-handshake still couldn't be trusted.
-
-"Ring one, Calder to engineering," Park said into the test set.
-
-Brenner, half a second late: "If this is a test, I pass. If this is the captain, tell him ring three is still hotter than my temper."
-
-"Ring two, Calder to medical."
-
-Walsh: "Finally. Tell environmental three I know about the two-degree lie."
-
-"Ring three, Calder to nav."
-
-Reyes: "Heard you. Stop testing."
+Park had Cole and two relay techs in the secondary bay running pairs tests while Park logged each voice himself, one channel at a time, because the auto-handshake still couldn't be trusted. Brenner answered half a second late: if this was a test, he passed; if this was the captain, ring three was still hotter than his temper. Walsh finally had a channel and wanted environmental three reminded about the two-degree lie. Reyes heard them and asked them to stop testing.
 
 Park muted the set. Cole said, "External?"
 
-"External is short range." Park rubbed his eyes. "Fringe node if we're lucky. Fleet never direct—not from this hull. Dana's post becomes the bridge or we shout into void."
+"External: short range only." Park rubbed his eyes. "Fringe node if power holds. No Fleet handshake from hull. VI-Gamma relay path or void."
 
 Calder found him with a headset down around his neck and a strip log open on his knee.
 
 "Status," Calder said—not an order; a question Park could answer in his own language.
 
-"Ring one through four: local voice, clean enough for surgery if you don't mind static. Ring five: engineering only if Cole holds the cable like a prayer." Park tapped the external pane—mostly empty. "Short-range fringe link to VI-Gamma adjacent. That's it. No Fleet handshake from here. Everything else routes through Holt's board—up, down, confirm, repeat."
+"Rings one through four: local voice, acceptable static. Ring five: engineering, cable-dependent." Park tapped the external pane—mostly empty. "Fringe: VI-Gamma adjacent. Fleet path: Holt relay only. Up, down, confirm, repeat."
 
 "What do you need?"
 
-Park's eyes flicked to the buffer display, then away. "Time. Watts from Brenner when he's done being heroic. And—" He stopped.
+Park's eyes flicked to the buffer display, then away. "Time. Watts from Brenner. And—" He stopped.
 
 Calder waited.
 
-"Permission to keep a personal lane on the fringe relay. One line. Not for the master log."
+"Permission to keep a personal lane on the fringe relay. One line. Segregated from master log."
 
 Calder understood without making him say it. "Cartography watchpost."
 
@@ -254,13 +242,13 @@ Park nodded once. "Thank you."
 
 Calder moved on because staying would have made it a speech.
 
-By hour nineteen, Thessaly's voice on internal comm sounded like Thessaly again—flat, precise, no crackle. She used it to tell Calder Brenner wanted him in engineering for a five-minute word that was not a request.
+By Mission +19:00, Thessaly's voice on internal comm sounded like Thessaly again—flat, precise, no crackle. She used it to tell Calder Brenner wanted him in engineering for a five-minute word that was not a request.
 
 He went.
 
 Brenner had ring three open again—not failure this time, maintenance on purpose.
 
-"We're sequencing redundancy," Koss said from the upper catwalk. "Life support loops two and three share a spine. If we lose one, the other pretends it's fine until it isn't. We're teaching them to admit they're married—not teaching them to survive another hit."
+"We're sequencing redundancy," Koss said from the upper catwalk. "Life support loops two and three share a spine. If we lose one, the other pretends it's fine until it isn't. We're coupling loops two and three on a shared spine—not certifying them for another hit."
 
 "Romantic," Brenner said.
 
@@ -274,7 +262,7 @@ Koss, from the catwalk: "Certification number still isn't in the manual. I check
 
 "The *Veil* runs on drinks not in the log," Brenner said. "And spite. Mostly spite."
 
-"Temporary is a religion on this ship," Koss said.
+"Temporary is an uncertified workaround on this ship," Koss said.
 
 "Temporary is how you get promoted without paperwork," Brenner said. "Fleet loves paperwork. The *Veil* loves work."
 
@@ -284,7 +272,7 @@ Cole's voice crackled down from the relay bay: "Park wants clean power on ring f
 
 "Tell Park yourself," Cole said. "I'm holding the cable."
 
-Koss descended the catwalk. "Ring three spine is married. If one loop throws a tantrum, the other knows. That's redundancy. Not repair."
+Koss descended the catwalk. "Ring three spine is married. One loop throws a tantrum, the other knows."
 
 "Same thing on this ship," Hargrove said.
 
@@ -296,15 +284,11 @@ Brenner wiped his hands on a rag that had seen better decades. "Captain—short-
 
 Calder nodded. "What do you need before fringe link?"
 
-"One hour on ring five without Cole's prayer grip. And for Walsh to stop sending runners who get lost at Corridor C—the kick on that door is not a personality."
+"One hour on ring five without Cole's prayer grip. Walsh to stop sending runners who get lost at Corridor C—the kick on that door is not a personality."
 
 "I'll tell her it's standard procedure."
 
 "Don't. She'll send more runners out of spite."
-
-Calder asked what they needed for internal voice next.
-
-"Park's problem," Brenner said. "We give him clean power, he gives VI-Gamma something to shout through."
 
 ---
 
@@ -336,7 +320,7 @@ Nand did not tell her to stop. Six months ago she would have waited for Holt to 
 
 Holt stared at the nothing anyway.
 
-She had opened the patrol overlay once since the notification—once, at hour three, when she could not stand the silence in her personal slate folder. **Kestrel Veil.** Jun Park. Communications. The line had not updated to *lost* because Cartography had not issued loss language yet. It also had not updated to *active*.
+She had opened the patrol overlay once since the notification—once, at Mission +03:00, when she could not stand the silence in her personal slate folder. **Kestrel Veil.** Jun Park. Communications. The line had not updated to *lost* because Cartography had not issued loss language yet. It also had not updated to *active*.
 
 *Veil's strange. Good strange. Reply when you can.*
 
@@ -364,7 +348,7 @@ The void remained.
 
 Holt had spent twenty-six years learning that *unresolved* was a valid end state. It had never felt this much like a personal failure.
 
-At hour nineteen, Fleet liaison returned a summary strip—not Holt's packet echoed back, but Operations language dressed in Cartography courtesy.
+At Mission +19:00, Fleet liaison returned a summary strip—not Holt's packet echoed back, but Operations language dressed in Cartography courtesy.
 
 *Contact event logged. Scout registry presumed contact-lost pending verification. Preliminary destruction assessment: probable hull loss. Confidence high. Contradiction pending.*
 
@@ -408,7 +392,7 @@ Mercer routed. "Destruction assessment crosswalk is already queued—automatic o
 
 Fleet Admiral **Elias Rowan** entered without hurry. He read standing up—a habit Mercer had stopped finding odd.
 
-Mercer had met Rowan on a bad watch six years ago—a courier lost, assumed dead, found alive on hour nineteen. Rowan had signed the recovery orders without raising his voice and had never mentioned the courier again. Mercer remembered that when destruction assessments auto-generated.
+Mercer had met Rowan on a bad watch six years ago—a courier lost, assumed dead, found alive on Mission +19:00. Rowan had signed the recovery orders without raising his voice and had never mentioned the courier again. Mercer remembered that when destruction assessments auto-generated.
 
 Rowan read Holt's packet once. He read the annex headers. He did not sit.
 
@@ -536,17 +520,9 @@ Mercer keyed. The floor resumed its temperature—busy without noise, the way Fl
 
 ---
 
-Short-range communications came back the way Park had promised—in ugly, honest steps, none of them long enough to reach Fleet without a middle node.
+Short-range communications came back the way Park had promised—in ugly, honest steps.
 
-Brenner gave him watts. Cole gave him a clean hardline to the fringe node. Park logged each attempt in a strip book—handwritten, because he did not trust the buffer for this hour.
-
-"Attempt fourteen," Cole said. "VI-Gamma adjacent responds. Drops at handshake three."
-
-"Attempt fifteen," Park said. "Same drop. Brenner—"
-
-Brenner on intercom, already there: "Ring five clean for ninety seconds. Don't waste them."
-
-"Attempt sixteen." Park keyed. The handshake held to the fringe node. His shoulders dropped a centimeter—not relief. Progress.
+Brenner gave him watts. Cole gave him a clean hardline to the fringe node. On the sixteenth attempt the handshake held to the fringe node.
 
 "VI-Gamma, this is Kestrel Veil, Park—" The line held. "—short-range check. Confirm receive."
 
@@ -608,7 +584,7 @@ The line dropped—fringe limit, not courtesy. Park exhaled. Thessaly marked the
 
 "Fleet corrected," Calder said.
 
-"Through Holt," Park said. "Always through Holt now."
+"Through Holt," Park said. "All Fleet traffic via VI-Gamma relay."
 
 Halden's jaw tightened. She said nothing else.
 
@@ -720,7 +696,7 @@ They ran it. The void remained.
 
 ---
 
-Hour twenty-two on the *Veil*. Internal comms mostly live. Short-range fringe only off-ship. Tactical rebuilding. Navigation waiting on hood.
+Mission +22:00 on the *Veil*. Internal comms mostly live. Short-range fringe only off-ship. Tactical rebuilding. Navigation waiting on hood.
 
 After auxiliary stack two had held for six hours and Walsh had confirmed redundancy loops—*operational*, her log said, not *certified*—the ship did something none of them had planned for: it went quiet in a way that was not failure.
 
@@ -744,9 +720,7 @@ In medical, Walsh caught **Mira Hale** staring at her bandaged forearm as if it 
 
 In engineering, Hargrove started a story about a reactor scare on Helion Prime. Brenner cut him off. "Not now." Hargrove closed his mouth. Koss didn't look up. Nobody apologized. Nobody needed to.
 
-On the command deck, Ortega ran a passive test that failed. He ran it again. Tanaka watched Reyes watch the buffer family on nav and said nothing.
-
-Thessaly heard the silence anyway. She added a note to the transit draft: *Navigation fatigue: monitor.*
+On the command deck, Ortega ran passive rebuild tests that failed politely and ran them again; Tanaka watched Reyes watch the buffer family on nav without speaking. Thessaly heard the silence anyway and added *Navigation fatigue: monitor* to the transit draft.
 
 Calder walked the ring passage once more—not inspection, presence. He stopped at the inner lock where the **KESTREL VEIL** nameplate hung crooked. He did not straighten it. That was Brenner's job. Some repairs were rank-specific.
 
@@ -776,7 +750,7 @@ He stood. "I'm going back to the buffer. Holt's queue is six deep and Rowan won'
 
 Calder finished the bowl because leaving food was worse than eating it.
 
-Kevin, passing: "Cap. Sit longer next time."
+Kevin, passing: "Cap. Sit longer next time. The bowl's empty—that counts."
 
 "Next time," Calder said. He did not believe in next time yet. He believed in the next watch.
 
@@ -790,7 +764,7 @@ Calder spent the afternoon walking departments.
 
 "Walsh steals everything that works." Okwelu marked a chart. "Two crew cleared for full duty. Hale stays on limited rotation. Ortega says his eyes are fine. Ortega's eyes lie when he's proud."
 
-"What do you need?"
+"What's clinic still short?"
 
 "For you to sit once before you fall down." Okwelu looked at him. "Medical, not insubordination."
 
@@ -814,25 +788,25 @@ Halden's tactical bay smelled like burned emitter gel and coffee that had been r
 
 "It wasn't wrong then either." She tapped a rebuild sequence. "Tactical's at maybe ten percent—enough to know we're alone locally. Not enough to pretend we're safe."
 
-Hale said, without looking up, "Local's empty because we're drifting like debris. Debris doesn't get targeted twice."
+Hale said, without looking up, that local was empty because they were drifting like debris, and debris didn't get targeted twice.
 
 "Don't say that where Ortega can hear," Halden said.
 
-Ortega, on sensor intercom: "I heard it."
+Ortega, on sensor intercom: "Heard it. Debris framing. Logged."
 
 "Then stop listening," Halden said.
 
 Calder waited.
 
-"What do you need?" he asked.
+"What's blocking you?" he asked.
 
-"Time and a technician who doesn't flinch when the suite spits." Halden glanced at Hale. "I've got one of those. Need the other."
+"Time and a technician who doesn't flinch when the suite spits." Halden glanced at Hale. "I've got one of those."
 
-Hale finally looked at Calder. "I need Fleet to stop writing us dead while I'm rewiring a suite that thinks we're dead. Minor request."
+Hale finally looked at Calder. "Fleet wrote us dead while I was rewiring a suite that thought we were dead. Minor request."
 
 "Fleet corrected," Calder said.
 
-"Good." Hale returned to the board. "Then I need six hours and Brenner not to call defensive *optional luxury*."
+"Good." Hale returned to the board. "Six hours. Brenner not calling defensive *optional luxury*."
 
 Calder: "I'll tell Brenner tactical waits in line."
 
@@ -840,15 +814,7 @@ Halden: "Tell Brenner tactical waits until navigation stops sulking. Reyes gets 
 
 Later—after the hood opened—Halden ran a local sweep that returned nothing and still made her jaw tight.
 
-Park on intercom, tired: "Fleet confirm packet four inbound via Holt—need tactical status for relay—"
-
-"Not now," Halden said. "Local sweep."
-
-"I asked thirty seconds ago—"
-
-"I heard you the first time." Halden cut the channel. Her hand stayed on the console a beat too long. She did not apologize. Park did not ask again.
-
-When the packet finally went upstream an hour later, neither of them mentioned the gap.
+Park on intercom, tired, wanted tactical status for a Fleet confirm packet inbound via Holt. Halden cut him off—local sweep first—and neither mentioned the gap when the packet finally went upstream an hour later.
 
 "Empty is not safe," she told Hale.
 
@@ -864,43 +830,33 @@ Calder heard that from the rail. He did not comment. Thessaly logged it anyway�
 
 Calder found Reyes where Reyes always was when the ship was hurt—palms on the nav cradle, forehead near the display like prayer.
 
-"Partial fix," Reyes said before Calder spoke. "Buffer family from pre-contact. Not live sky. Not yet."
+"Partial fix," Reyes said before Calder spoke. "Buffer family from pre-contact. Not live sky—not yet. Hood's still blind. I'm working the drift stack in my head and the numbers keep disagreeing with each other."
 
-"What do you need?"
+"What gets you sky back?"
 
-Reyes did not look up. "Quiet. And Ortega to stop apologizing for passive being dead—it's dead, we know, move on."
+Reyes did not look up. "Quiet on the deck. Ring five stable one more hour—Brenner promised, which means forty—and Ortega to stop treating dead passive like a personal failure."
 
-Ortega, from sensor station: "I'm not apologizing."
-
-"You are," Reyes and Tanaka said together.
-
-Ortega raised a hand. "Fine. I'm not apologizing *out loud*."
+Ortega, from sensor station, raised a hand. "Pattern's flat. Rebuild loop fails the same way every pass. I'll stop narrating it."
 
 Calder waited.
 
-Reyes: "One more hour with ring five stable. Brenner promised. Then we open the optical hood manual and look at actual photons like cavemen."
-
-"Philosophical cavemen," Tanaka added.
-
-"Exactly."
+Reyes wanted one more hour with ring five stable—Brenner had promised—then they'd open the optical hood manual and look at actual photons like cavemen. Tanaka, without looking up from her checklist: "Manual hood. Photons. Then you stop sulking." Reyes muttered that he wasn't sulking; Tanaka said, "Progress."
 
 Calder left them to it.
 
 ---
 
-Hour twenty-eight through thirty-one belonged to navigation and the optical hood.
+Mission +28:00 through Mission +31:00 belonged to navigation and the optical hood.
 
-Brenner on intercom argued with gravity. Koss argued with Brenner. Reyes said nothing useful for twenty minutes, which Tanaka said was progress.
+Brenner on intercom argued with gravity; Koss argued with Brenner; Reyes said nothing useful for twenty minutes, which Tanaka logged as *nav hold, no output*. Ortega ran passive rebuild on a loop that failed with polite errors while Halden watched local space at ten percent tactical.
 
-Ortega had passive rebuild running on a loop that failed with polite errors. Halden watched local space with ten percent tactical and the dry humor of a woman who had accepted insufficient data as a lifestyle.
+"If something shoots at us," Halden told Hale, "we'll know after it hits. Comforting."
 
-"If something shoots at us," Halden said to Hale, "we'll know after it hits. Comforting."
-
-"Stop comforting me," Hale said.
+"Stop comforting me."
 
 "Can't help it."
 
-Calder did not leave the rail. Thessaly brought coffee he did not drink. Park reported Fleet relay standby every eleven minutes because Park reported everything on a schedule when anxious—and because Holt required confirm tokens or the queue stalled.
+Calder did not leave the rail. Thessaly brought coffee he did not drink. Park reported Fleet relay standby every eleven minutes—Park's schedule when anxious, Holt's requirement for confirm tokens or the queue stalled.
 
 The hood opened manual—physical, stupid, reliable. Photons through glass. Stars through eyes. The frame creaked when the lock engaged; the list shifted a millimeter and did not stop.
 
@@ -908,19 +864,27 @@ Reyes went still.
 
 Tanaka whispered something Calder did not know. Ortega pretended not to watch but his hand stopped on the console.
 
-"Fix holds," Reyes said. Voice flat. Eyes not. "Bearing family consistent with buffer. Drift corrected to—" He read numbers. His voice cracked on the third digit and he cleared it like a professional. "—good enough to call home."
+For a long breath Reyes said nothing. Calder had seen navigators celebrate contact locks with a nod. He had never seen one go quiet when the sky came back.
 
-Home was a word Reyes rarely used on-watch.
+"Fix holds." Reyes's voice stayed flat; his eyes did not. "Bearing family consistent with buffer. Drift corrected to—" He read numbers. His voice cracked on the third digit and he cleared it like a professional. "—good enough to call home."
+
+Home was a word Reyes rarely used on-watch. Calder understood why: home required believing the chart would still be there when you looked away.
+
+Reyes matched one star to the buffer family by hand—old habit, pre-digital almanac habit—and his mouth moved once without sound. Not prayer. Verification. The kind you did when the instrument had lied for a day and your body no longer trusted glass.
+
+"Second star holds," he said. Quieter. "Third holds. Drift stack agrees."
 
 Calder felt the deck breathe—the same wrong rhythm as yesterday, but now it had a direction. That was not comfort. That was math.
 
 Reyes kept his hand on the cradle after the fix logged. Tanaka asked if he wanted to release the manual hold. Reyes said not yet.
 
-"If we let go and the sky leaves," he said, "I want to know I tried."
+"If we let go and the sky leaves," he said, "I want to know I tried. Probably vain. Still trying."
 
-Tanaka did not argue. Ortega ran passive again—it failed. He ran it again anyway.
+Tanaka: "Hold is competent. Release on my count."
 
-Thessaly stood beside Calder at the rail. "Navigation has a fix. Fleet has orders pending. Engineering has correction thrusters. Medical has a board that says *holding*." She paused. "What do you need, Captain?"
+Ortega ran passive again—the same failure signature. He logged it, then slid the strip into his breast pocket beside a folded photo edge Calder had never asked about. The passive suite was still dead. The pocket was not.
+
+Thessaly stood beside Calder at the rail. "Navigation: fix logged. Fleet: orders pending. Engineering: correction thrust available. Medical board: *holding*, three serious, no escalation twelve hours." She paused. "What do you need, Captain?"
 
 Calder looked at her. The question had traveled the ship. It had not fixed anything.
 
@@ -948,11 +912,7 @@ Thessaly, beside Calder: "That's navigation."
 
 Thessaly did not correct him.
 
-Halden, delayed by four seconds, on tactical: "Local space empty. For now." She did not sound relieved. She sounded like someone who had been relieved before and learned better.
-
-Park, later, to Holt on relay: "Buffer logged. Stars logged. Confirm receive." Four-second delay. Holt: "Confirmed." Park logged that too.
-
-Nobody told him to stop.
+Halden, delayed four seconds on tactical, reported local space empty—for now—without the sound of relief, only the sound of someone who had been relieved before and learned better. Later Park relayed buffer and star fixes to Holt—confirm receive, four-second delay, confirmed—and logged that too. Nobody told him to stop.
 
 ---
 
@@ -976,9 +936,9 @@ Koss pulled up a thermal graph. "Port regulator still lies one degree. I believe
 
 "We can give you correction thrust for a course change when Fleet sends it," Brenner said. "We cannot give you Dennett's habit of pretending the *Veil* is new."
 
-Calder almost smiled. It didn't land.
+Calder did not smile.
 
-"What do you need?"
+"What'll hold through six hours?"
 
 "Six hours," Koss said.
 
@@ -1000,7 +960,7 @@ Calder carried Brenner's love letter to the command deck without comment.
 
 ---
 
-Fleet orders came at hour thirty-eight—strip on Holt's board first, then downstream after confirm tokens.
+Fleet orders came at Mission +38:00—strip on Holt's board first, then downstream after confirm tokens.
 
 Holt: "VI-Gamma relay. Fleet Operations orders packet for Kestrel Veil. Captain Venn, confirm ready to receive."
 
@@ -1018,6 +978,8 @@ He thought of the contact at bearing two-one-four mark six. The decloak. The blo
 
 "Acknowledge," Calder said. "We copy observe, investigate, no engagement unless necessary."
 
+He had known the corridor family before Ortega named it. That was why he did not look at the bearing slate.
+
 Holt upstream: "Scout acknowledges." Pause. "Fleet, copy confirm?"
 
 Mercer's voice, distant: "Logged."
@@ -1032,29 +994,19 @@ Calder looked at the deck. Nobody cheered. Nobody refused.
 
 Thessaly exhaled once. "Neutral Zone seven-alpha. I'll draft transit watches."
 
-Halden: "Sensor discipline from the jump."
-
-Park: "Buffer segregation on anything we recover."
-
-Brenner on intercom, before Calder could summon him: "Nameplate first or course change first?"
+Halden wanted sensor discipline from the jump; Park wanted buffer segregation on anything they recovered. Brenner on intercom, before Calder could summon him: "Nameplate first or course change first?"
 
 "Both," Calder said.
 
 "Both," Brenner agreed, and cut the channel.
 
-Ortega said, very quietly, "We're going back."
+Ortega said, very quietly, "Return bearing. Same corridor family."
 
-Reyes: "We're going back with stars. That's something."
-
-Tanaka: "It's not enough."
-
-Reyes: "No. It's something."
+Reyes answered without looking up: "Back with stars. Not enough for doctrine. Enough to steer. I'll take it."
 
 Calder did not override the conversation. Thessaly did not either—that was new, or newly visible.
 
-Walsh on med channel: "Anyone who feels sick when the burn starts is allowed to feel sick. Report if it doesn't pass."
-
-Kevin on galley channel, unauthorized but tolerated: "Galley cycle if burn holds ten. No promises on temperature."
+Walsh on med channel reminded anyone who felt sick when the burn started that feeling sick was allowed; Kevin on galley channel, unauthorized but tolerated, offered galley cycle if the burn held ten, no promises on temperature.
 
 Nobody laughed. Nobody spoke for three seconds. Then Halden called a relay confirm and the moment was gone.
 
@@ -1070,9 +1022,7 @@ Everyone had work.
 
 Calder made rounds he did not announce. Okwelu cleared two crew for full duty. Walsh stole sleep from three people without asking. Cole ran a joke on internal comm about hardlines; Park pretended not to hear. Hargrove and Brenner finished each other's sentences about a coupling that had outlasted three captains.
 
-**Felix Ortega** ran passive rebuild tests that failed politely. **Mira Hale** stayed on defensive with bandaged forearm because the suite felt wrong empty. Halden rebuilt tactical ten percent at a time and made fewer jokes than usual.
-
-Reyes kept one hand on the cradle even after stars returned—as if letting go would cost something he couldn't name.
+**Felix Ortega** ran passive rebuild tests that failed politely; **Mira Hale** stayed on defensive with bandaged forearm because the suite felt wrong empty; Halden rebuilt tactical ten percent at a time and made fewer jokes than usual. Reyes kept one hand on the cradle even after stars returned—as if letting go would cost something he couldn't name.
 
 Thessaly held the deck—calm, organized, steady, professional. The cost of that was invisible. It was supposed to be.
 
@@ -1110,7 +1060,7 @@ Thessaly took the XO chair and opened the transit draft.
 
 Course change came slow—the way the *Veil* did everything worth doing.
 
-Reyes plotted Neutral Zone corridor seven-alpha with manual assists Tanaka marked in three colors. Koss brought ring five up for correction thrust at minimal fraction—enough to steer, not enough to boast. Halden watched local space with ten percent tactical and one hundred percent suspicion.
+Reyes plotted Neutral Zone corridor seven-alpha with manual assists Tanaka marked in three colors while Koss brought ring five up for correction thrust at minimal fraction—enough to steer, not enough to boast—and Halden watched local space at ten percent tactical with one hundred percent suspicion.
 
 Nobody wanted to go back toward the frontier.
 
@@ -1122,23 +1072,21 @@ Below, in the ring passage, technicians who had not slept spoke in half sentence
 
 **Elara Koss** watched the correction thrust hold on her slate and said, to no one in particular, "She turns like a drunk, but she turns."
 
-Brenner: "Drunks don't have my regulators."
-
-"Debatable," Hargrove said.
+Brenner answered from engineering that drunks didn't have his regulators; Hargrove called that debatable.
 
 Above, stars held for Reyes—not promise, instrument. He finally released the manual hold when Tanaka counted to sixty without looking at him.
 
-Park logged the burn on buffer and relay lane. Walsh logged no new injuries. Ortega logged passive rebuild failure with the patience of a man who had decided patience was a career.
+Park logged the burn on buffer and relay lane; Walsh logged no new injuries; Ortega logged passive rebuild failure with the patience of a man who had decided patience was a career.
 
-On VI-Gamma, Holt and Nand watched the scout bearing family shift one increment on the amended overlay—not proof of intent, proof of motion. Holt relayed the burn notice upstream before Calder finished asking. Confirm token back. Then another Fleet query waiting in queue.
+On VI-Gamma, Holt and Nand watched the scout bearing family shift one increment on the amended overlay—not proof of intent, proof of motion. Holt relayed the burn notice upstream before Calder finished asking; confirm token back; then another Fleet query waiting in queue.
 
 "Correction thrust," Nand said.
 
-"Observe and investigate," Holt said. "Fleet language for *go back and don't die stupidly*."
+"Observe and investigate." Holt did not smile. "Fleet language for *go back and don't die stupidly*."
 
 "Jun's language for the same thing is usually longer."
 
-Holt did not smile. She opened the next relay slot.
+She opened the next relay slot.
 
 In engineering, after the burn had held six minutes, Tomas Brenner reached up over the inner lock and straightened the brass **KESTREL VEIL** nameplate where the shock had knocked it crooked. Cosmetic. Necessary. Not repair.
 

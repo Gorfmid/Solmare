@@ -107,7 +107,7 @@ Calder felt it in the deck before Ortega named it.
 
 **Felix Ortega** had the passive suite rebuilt to six percent—still insultingly low, still enough to hurt if you listened wrong. He sat in the sensor alcove with headphones and a hand on the gain like a man holding a frightened animal still.
 
-"Traffic," he said. Not loud.
+"Traffic." Ortega did not raise his voice.
 
 Calder crossed the rail in three strides.
 
@@ -115,17 +115,9 @@ Calder crossed the rail in three strides.
 
 "Not local. Not close." Ortega's eyes stayed on the waterfall. "Days out, maybe more. Faint drive harmonics—commercial profile, ore hauler class, maybe two. Automated tug—maintenance signature, low power. Something big and slow—freight, I think. All of it on lane geometry we didn't draw."
 
-**Marco Reyes** pulled the bearings into manual overlay without being asked. His jaw worked once.
+**Damon Reyes** pulled the bearings into manual overlay without being asked. His jaw worked once.
 
-"Confirm passive only," Calder said.
-
-"We're passive only," Ortega said. "We're always passive only."
-
-"Confirm no illumination."
-
-"No illumination," Hale said from defensive. "Rotation limit honored. No active sweep."
-
-**Yuki Tanaka**: "No emitters. Correction-thrust fraction holding."
+Calder confirmed passive only—Ortega and Tanaka both said they were always passive only—and Hale confirmed no illumination, rotation limit honored, no active sweep. Correction-thrust fraction held.
 
 Calder looked at the plot—ghost returns, weak as breath on cold glass, spaced along the same corridor infrastructure they had logged yesterday. Not a frontier picket. Not a patrol line. Traffic.
 
@@ -133,19 +125,19 @@ The kind of traffic that existed where people lived.
 
 **Mira Thessaly** appeared at his shoulder. She had learned not to announce urgency; urgency was a kind of emission.
 
-"Commercial?" she asked.
+"Commercial profile on record?" she asked.
 
-"Unknown registry," Ortega said. "Unknown format. Known behavior."
+"Unknown registry," Ortega said. "Unknown format. Behavior matches commercial lane geometry—not random drift."
 
-Reyes: "They're using the lane corrections. All of them. Like they've been using them for years."
+Reyes added, thinking aloud: "Lane corrections on all of them. Years of use, maybe decades. We've been driving through someone's commute and calling it empty."
 
 Calder felt the old Fleet doctrine sit wrong in his chest—the part that assumed the Neutral Zone was a buffer, a pause, a place where exploration met caution and caution met empty charts.
 
-Thessaly said, without looking up from her slate, "Mission briefs still call this frontier."
+Thessaly said, without looking up from her slate, "Mission brief classification: frontier."
 
-"Mission briefs were written by people who hadn't stood here," Calder said.
+"Stood here contradicts that," Calder said.
 
-"Then we write better briefs when we get home," she said. "If we get home."
+"Then we amend the brief on return," she said. "If we return."
 
 Not pessimism. Inventory.
 
@@ -153,19 +145,17 @@ Empty charts were a story.
 
 "We observe," he said. "We do not illuminate. We do not identify. We do not adjust course toward contact. We do not adjust course away unless collision geometry demands it. Log everything. Local buffer only."
 
-Park at the comms station: "Logged."
-
-No one panicked.
+Park logged it. No one panicked.
 
 That was what professionalism looked like when the world rearranged itself without explosions—people continuing to do their jobs because the jobs were the only handhold.
 
-**Ari Halden** said, quietly, "Fleet training assumes frontier."
+Halden said, quietly, "Threat board assumes frontier—empty local, hostile at contact. Neither fits."
 
-Reyes did not look up. "Fleet training assumes we're the first adults in the room."
+Reyes did not look up. "Charts assume first arrival. Merge geometry says we missed the window."
 
 "And if we're not?" Halden asked.
 
-Calder answered because that was his job. "Then we observe like adults who know it."
+Calder answered because that was his job. "Then we observe. Quietly."
 
 Ortega added another faint return—navigation correction pulse, automated, cooperative, the kind of signal you broadcast so strangers didn't die in your corridor.
 
@@ -173,13 +163,15 @@ Then another, weaker—maintenance tug, days out, adjusting something in the lan
 
 Calder watched it register and thought of Rowan's relay voice and Dana Holt's static and the six hours Cho had bought them that were not enough and had been everything.
 
-Walsh pinged internal—*Ortega light check overdue.* Calder denied the ping without comment. Walsh would escalate to Thessaly. Thessaly would win. That was tomorrow's problem.
+Walsh pinged internal—*Ortega light check overdue.* Calder denied the ping without comment.
 
-**Kevin** passed through with trays. No one took anything. Kevin left them anyway. The *Veil* kept whispering.
+Thessaly caught his eye across the deck—one beat, no speech. *Mission first or clinic first?* Calder held the denial. Thessaly looked away and logged it anyway. Walsh would escalate. Thessaly would win. That was tomorrow's problem.
 
-Reyes spoke without looking up. "If they're on these lanes, they've been on them for years. We're the anomaly."
+**Kevin** passed through with trays. Ortega took one without looking up—first bite in six hours, eaten with headphones still on. Kevin adjusted the second tray on the ledge and left without thanks. The *Veil* kept whispering.
 
-"Log anomaly," Calder said. "Don't become visible proving it."
+Reyes spoke without looking up. "If they're on these lanes, they've been on them for years. We're the new variable in the equation—and I'm not proud of our coefficient."
+
+Calder told him to log the anomaly and not become visible proving it.
 
 They were not alone out here.
 
@@ -187,11 +179,7 @@ They had never been alone.
 
 They had only been quiet enough not to notice.
 
-Brenner on intercom, voice flat: "Captain—handshake lag trending up. Not failure. Environment load. Whatever's moving out there, the corridor knows it."
-
-"Log it," Calder said.
-
-"Logged," Brenner said, and cut.
+Brenner on intercom reported handshake lag trending up—not failure, environment load: whatever was moving out there, the corridor knew it. Calder told him to log it; Brenner logged it and cut.
 
 ---
 
@@ -300,13 +288,13 @@ Reyes stood in the alcove doorway without entering. Ortega knew because the shad
 
 "How many voices?" Reyes asked.
 
-"Not voices. Operators." Ortega kept his hand on the gain. "Dozens. Maybe more. Layered. Like—" He searched for a word that wasn't poetry. "Like a city."
+"Not voices. Operators." Ortega kept his hand on the gain. "Dozens. Layered intervals—shift change, freight, maintenance. Pattern says city, not patrol."
 
 Thessaly listened from the hatch, arms folded, slate closed.
 
 "Can we use any of it?" she asked.
 
-"No."
+"No. Active parse requires transmit."
 
 "Can they use us?"
 
@@ -340,9 +328,9 @@ In the static, somewhere beyond translation, something like a freighter captain 
 
 Ortega logged timestamps. Park copied to segregated buffer. Thessaly asked for classification bands; Ortega gave her rhythm instead—shift change, maintenance window, freight surge, quiet hour.
 
-"They sleep," Ortega said, surprised by his own sentence.
+"They sleep," Ortega said, surprised by his own sentence. "Rhythm says sleep cycle, not alert posture. Inconsistency with military surge pattern."
 
-Reyes, from the doorway: "So do we. That's the point."
+Reyes, from the doorway: "Same merge windows, same correction pulses—we're in their rhythm whether we chart it or not."
 
 Ghosts in the dark, listening to other ghosts.
 
@@ -412,7 +400,7 @@ That was preparation too.
 
 **KESTREL VEIL — COMMAND DECK**
 
-Calder called the overlay meeting at hour nineteen because waiting did not improve intelligence—only anxiety.
+Calder called the overlay meeting at Mission +19:00 because waiting did not improve intelligence—only anxiety.
 
 Reyes at navigation. Ortega at sensors. Tanaka on confirmation. Halden on threat board, even though threat was the wrong word. Park on buffer integrity. Thessaly with slate open for once. Hale on rotation limit because Hale was always on rotation limit.
 
@@ -420,17 +408,11 @@ The display built itself in layers—passive beacons, lane corrections, relay ge
 
 Reyes traced lines with the stylus he used when he was angry and precise. "Navigation network—not edge marker. Core routing. Traffic capacity implied by lane width and correction frequency."
 
-Ortega: "Listening watch confirms operational tempo. This isn't backup infrastructure. This is daily life."
+Ortega confirmed listening watch showed operational tempo—daily life, not backup infrastructure. Tanaka: "Maintenance intervals match commercial schedule. Not military surge." Halden noted traffic returns correlated with lane geometry: if they were visible, they'd be in someone's merge window.
 
-Tanaka: "Maintenance intervals match commercial schedule, not military surge."
+"No merge," Calder said. Hale confirmed.
 
-Halden: "Traffic returns correlate with lane geometry. If we were visible, we'd be in someone's merge window."
-
-"No merge," Calder said.
-
-"No merge," Hale confirmed.
-
-Halden: "No weapons signatures in overlay."
+Halden saw no weapons signatures in the overlay.
 
 "No weapons signatures," Calder said, "does not mean no civilization."
 
@@ -440,17 +422,17 @@ Corridor seven-alpha stopped looking like a border and started looking like an a
 
 Ortega overlayed listening watch peaks—shift change, freight surge, quiet hour—onto Reyes's lane plot. The correlation was not perfect. It was close enough to frighten professionals.
 
-"Capacity estimate," Calder said.
+Calder asked for a capacity estimate.
 
 Reyes swallowed. "Estimated active traffic in our sector alone—if we extrapolate from faint returns—"
 
-"Don't extrapolate for comfort," Thessaly said.
+"Don't extrapolate for comfort," Thessaly said. "Log what returns. Flag what doesn't reconcile."
 
 "I'm not." Reyes met Calder's eyes. "I'm extrapolating because that's the job. Dozens of contacts in passive range over three days. Hundreds in the corridor system if the geometry holds. Thousands if this slice connects to a network the way the listening watch suggests."
 
 Thessaly's mouth tightened almost imperceptibly. She wrote anyway.
 
-Park: "Nothing upstream. Local buffer only."
+Park confirmed nothing upstream, local buffer only.
 
 Calder nodded. That was still the world—no Fleet path, no rescue guarantee, no one to tell that the frontier doctrine was a children's story told to adults with ships.
 
@@ -468,20 +450,14 @@ Calder said, quietly, "We've spent two centuries believing we were expanding int
 
 Pause.
 
-The scrubbers cycled.
-
-Ortega's passive loop whispered in its alcove—ghosts in the dark, listening.
-
 "We weren't."
 
 No one answered.
 
 Thessaly wrote the sentence in her slate because some truths needed ink even when they could not be transmitted.
 
-Calder did not add orders.
+Calder did not add orders. They were already written.
 
-The orders were already written—observe, investigate, do not engage, stay passive, stay alive, learn what Fleet Authority would have to know when they finally had a path to tell it.
-
-The *Kestrel Veil* crept on correction thrusters and moved deeper into segment seven—alone, damaged, professional—through the outer transportation network of a civilization that had never been empty, only patient, only prepared, only waiting for the day when someone else's scout mistook routine for absence.
+The *Kestrel Veil* crept on correction thrusters and moved deeper into segment seven—alone, damaged, professional—through the outer transportation network of a civilization that had never been empty, only patient.
 
 ---

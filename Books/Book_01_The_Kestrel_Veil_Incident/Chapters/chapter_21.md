@@ -146,7 +146,7 @@ The language-integrity review team was half Doctrine, half Operations liaison, a
 
 She had refused to let the team start with policy until someone read Calder's observed-band excerpt aloud—continuous corridor traffic, no upstream emissions, no illumination hunt. Inference lines flagged. Speculation absent.
 
-"That is what we are interpreting," she said. "Not your fear. Not your hope."
+"Witness bands are the floor," she said. "Fear doesn't lower it. Hope doesn't raise it."
 
 "Unknown civilization," **Commander Vance** from Logistics read from a draft slide. "Rejected—too vague post-certification. We observed structure. Unknown is a retreat."
 
@@ -168,17 +168,17 @@ Mercer: "Doctrine can route forks without forcing header unity."
 
 Thessaly watched them negotiate themselves.
 
-"*Unknown* rejected," she said. "*Enemy* rejected by witness record. *Neutral* rejected—no agreement implied. *Frontier* under revision. We are not translating what we observed into what we wish we had observed."
+"*Unknown*—rejected," she said. "*Enemy*—rejected per witness record. *Neutral*—rejected; no agreement implied. *Frontier*—under revision. Record documents observation. Policy does not rewrite it."
 
 She met Rowan's eyes across the glass—he had not entered the room, only observed through privacy film half-lifted. Containment, not resolution.
 
-"We are translating ourselves."
+"We're translating observation into policy now. That's the fight."
 
 Hwang asked, "Do we assign a proper name?"
 
 Silence.
 
-Thessaly: "We did not observe a name."
+Thessaly: "No name observed. No name assigned."
 
 Mercer: "We do not invent one to feel clarity."
 
@@ -186,15 +186,13 @@ Hwang wrote the compromise line twice, crossed one out, wrote it again:
 
 **Non-peer structured civilization — interim classification (internal)**
 
-**Dana Holt**, present for Communications integrity, spoke once from the far chair. "Chain certifies observation. Chain does not certify *peer*. Chain certifies timestamps. Policy nouns are your injury."
+**Dana Holt**, present for Communications integrity, spoke once from the far chair. "Chain certifies what transmitted. Not *peer*. Not policy nouns. That's your injury upstairs."
 
-Thessaly nodded. "Appendix bands remain untouched. If policy merges inference into observed lines, I will file objection."
+Thessaly nodded. "Appendix bands stay segregated. Inference merged into observed lines—objection filed."
 
 Sato: "Noted."
 
-Ahn added a redline box on the draft slide—*Limitations of Fleet Terminology*—mandatory subsection per Mercer's Edition 144 skeleton. Nobody cheered. Everyone needed it.
-
-Coffee went cold.
+Ahn added a redline box on the draft slide—*Limitations of Fleet Terminology*—mandatory subsection per Mercer's Edition 144 skeleton.
 
 Language remained unresolved.
 
@@ -266,7 +264,7 @@ Rowan nodded once. "Then Logistics models. Doctrine forks. Operations does not a
 
 Sato: "Scouts in border volume need a default."
 
-"Scouts have mission orders," Rowan said. "They have witness grammar. They do not have unified institutional interpretation yet. Calder survived by observing. Your border doctrine will not outrun that."
+"Scouts have orders and witness grammar," Rowan said. "Border doctrine won't outrun that."
 
 Sato opened her mouth. Closed it. Professional disagreement without chaos.
 
@@ -295,19 +293,9 @@ She laid segment seven structure patterns beside Fleet's own historical analogue
 
 She opened Maris Chen's queue entry—contradictory occupancy, routine flag, senior review never completed. Ellis did not claim Maris had seen segment seven. She claimed Fleet had a habit of filing precision as inconvenience when precision threatened narrative comfort.
 
-Long-observation civilizations in Fleet historical record—relay charter expansion, mid-rim buffer treaties, Outer Rim Collectives cold cooperation—showed repeating tendencies:
+Long-observation civilizations in Fleet historical record showed repeating tendencies—stability over premature classification, escalation delayed when passive evidence outran intent, infrastructure treated as Tuesday until Tuesday proved otherwise. Ellis wrote the counter-examples too: civilizations that delayed too long, that mistook preparation for peace.
 
-- prioritize stability over premature classification  
-- delay escalation when passive evidence outran intent data  
-- treat infrastructure as Tuesday until Tuesday proved otherwise  
-
-Ellis wrote each tendency with citations. She wrote the counter-examples too—civilizations that delayed too long, that mistook preparation for peace, that shaded empty until empty became war.
-
-Fleet could not assume segment seven patterns safely.
-
-Fleet could not ignore pattern entirely without arrogance.
-
-She thought of Founders' Week classrooms—preparation taught as courtesy, not prophecy. She thought of Calder's restraint. She thought of Mercer's three forks and Pell's sentence about drawing assumptions.
+Fleet could not assume segment seven patterns safely. Fleet could not ignore pattern without arrogance.
 
 Her conclusion arrived without drama:
 
@@ -317,10 +305,6 @@ She typed the next line slower:
 
 "We are just the first to document it this precisely."
 
-Historical Office would not tell Operations which posture to choose.
-
-Historical Office would tell Operations that choosing too early had a body count in Fleet memory—and that choosing too late had one too.
-
 Ellis routed the comparison brief to Rowan's stack with Historical concurrence only on process, not policy:
 
 *Pattern library attached. No analogue collapse authorized. Recommend ambiguity management as historical norm, not weakness.*
@@ -329,11 +313,9 @@ She attached a Founders' Week academy primer excerpt—*Exploration stabilizes t
 
 *Stabilizes is not synonymous with empties.*
 
-She archived another Founders' Week slide—the old seven-alpha shading—beside the new.
-
 A junior curator asked if public tours should pause.
 
-"No," Ellis said. "Tours should show revision. Children learn honesty faster than admirals."
+"No," Ellis said. "Tours should show revision."
 
 History preserved mistakes.
 
@@ -346,61 +328,19 @@ History also prevented panic if you let it speak before policy did.
 
 Fleet Admiral **Elias Rowan** reviewed forks the way surgeons reviewed scans—without pretending the image was the injury.
 
-Branch A on the left. Branch B center. Branch C right.
-
-Cartography inference dispute beneath.
-
-Thessaly's interim term in red.
-
-Ellis's pattern brief flagged *no analogue collapse*.
-
-Posture A/B/C logged without unified default.
-
-Witness record sealed—singular, cold, precise.
-
-Rowan had spent a career believing institutions failed when they disagreed.
-
 He was learning they failed when they pretended disagreement was disloyalty.
 
-Fleet was not choosing between truth and falsehood.
+Fleet was not choosing between truth and falsehood—certification had settled truth. Fleet was choosing between incomplete safeties: restraint risking late response, readiness risking self-fulfilling threat read, ambiguity dressed as maturity. None wrong. All incomplete.
 
-Certification had settled truth.
+Mercer appeared with coffee and a face that said he had stopped expecting convergence this week.
 
-Fleet was choosing between incomplete safeties:
-
-1. **Safety through restraint** — Branch A, Posture A, passive intelligence priority, risk of late response  
-2. **Safety through readiness** — Branch C, Posture C, defensive planning, risk of self-fulfilling threat read  
-3. **Safety through ambiguity management** — Branch B, interim terms, forked doctrine, risk of paralysis dressed as maturity  
-
-None were wrong.
-
-All were incomplete.
-
-Mercer appeared in the doorway with coffee he had remembered to bring and a face that said he had stopped expecting convergence this week.
-
-"Doctrine Bureau status," Rowan said.
-
-"Three forks. Routed. No collapse."
-
-"Thessaly term?"
-
-"Interim. Internal. Hated universally. Holding."
-
-"Sato?"
-
-"Wants clarity. Doesn't have it. Will follow containment routing."
+"Three forks. Routed. No collapse," Mercer said. "Thessaly term interim. Sato wants clarity she doesn't have."
 
 Rowan looked at the witness record band on his desk—*certified strategic observation*—and at the parallel documents spreading around it like tributaries.
 
-He picked up Branch A and read the non-hostile assumption without believing it was complete. Picked up Branch C and read defensive planning without believing restraint was cowardice. Branch B sat in the middle like Fleet's conscience—manage ambiguity until ambiguity became decision or disaster.
+He did not resolve the fork. He formalized its existence.
 
-He thought of the border volume he could name only by witness grammar—structured, occupied, restrained. He thought of Calder's *we found neighbors* in a margin Fleet had not certified. He thought of Edition 144's one changed sentence and the three forks that sentence had not prevented.
-
-He did not resolve the fork.
-
-He formalized its existence.
-
-He wrote for the Operations log—not speech, not order, record:
+He wrote for the Operations log:
 
 **We do not lack information.**
 
@@ -410,23 +350,13 @@ Mercer read it over his shoulder. "Sign it?"
 
 "Log it," Rowan said. "Sign nothing that pretends we chose."
 
-He added a second line beneath the first, smaller, for the fork registry Mercer maintained:
-
-`INTERPRETATION DIVERGENCE FORMALIZED — COLLAPSE NOT AUTHORIZED — AWAIT EVIDENCE OR POLICY MANDATE`
-
-Mercer keyed it. Sato read it without smiling. Thessaly would see it tomorrow and call it insufficient. That was also procedure.
-
-He closed the folder.
+Mercer keyed it. Sato would read it without smiling. Thessaly would call it insufficient tomorrow.
 
 Evening shift changed in the corridor. Junior officers passed with memo stacks and the tired optimism of people who believed someone upstairs was deciding. Rowan was upstairs deciding only to name the disagreement honestly.
-
-Outside, Helion Prime traffic merged on schedule. Founders' Week residual banners came down in some quarters and stayed up in others. Brenner's patched hull breathed at berth fourteen-C. Holt's timestamps sat archived. Ellis photographed old slides. Okoye shaded assumptions.
 
 Fleet had accepted truth.
 
 Now Fleet struggled with meaning.
-
-And meaning, Rowan understood at last, was where civilizations began to diverge internally—long before they diverged externally.
 
 The chapter ended with three doctrine branches on a whiteboard and no single default posture in Operations.
 

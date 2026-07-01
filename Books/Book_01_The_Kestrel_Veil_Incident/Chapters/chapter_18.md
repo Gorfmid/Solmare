@@ -14,19 +14,19 @@ Rowan stood until Calder sat. He did not open with ceremony.
 
 "Start where segment seven started," he said. "Not the Incident. The crossing."
 
-Thessaly set the first tab on the table. "Observation ledger format," she said—to Rowan, not as defense, as translation. "Fleet will want to merge observation and inference because merged lines are easier to brief. We separated them on purpose. Captain answers in three bands. Observed. Inferred. Speculation—only if asked, explicitly labeled. We did not put speculation in the executive summary."
+Thessaly set the first tab on the table. "Observation ledger format," she said—to Rowan, not as defense, as translation. "Fleet will merge observation and inference for briefing ease. We separated them on record. Captain answers three bands: Observed. Inferred. Speculation— only if requested, explicitly labeled. Executive summary excludes speculation."
 
 Rowan looked at her. "Why does that matter?"
 
-"Because Edition 143 taught cadets that first contact is a handshake phase," Thessaly said. "We did not handshake. If Fleet rewrites the report into handshake grammar, Fleet will decide the wrong problem. Observation language is not modesty. It is accuracy."
+"Edition 143 defines first contact as handshake phase," Thessaly said. "No handshake occurred. If Fleet rewrites into handshake grammar, Fleet addresses the wrong problem. Observation language is accuracy, not modesty."
 
 Rowan nodded once. "Captain."
 
-Calder met his eyes. "We observed continuous corridor traffic beyond Fleet epoch notation. Merge geometry consistent with commuter windows and freight classification. We did not illuminate. We did not handshake. Upstream emissions from our hull: none during segment seven."
+Calder met his eyes. "Observed: continuous corridor traffic beyond Fleet epoch notation. Merge geometry consistent with commuter windows and freight classification. No illumination. No handshake. Upstream emissions from our hull during segment seven: none."
 
 He paused when Rowan raised one finger—not stop, *band*.
 
-"Observed," Calder said. "All of it."
+"Observed," Calder said. "All bands labeled."
 
 Rowan listened.
 
@@ -34,11 +34,11 @@ He did not take notes on the slate. He had learned that writing too early let ro
 
 "Continue," Rowan said.
 
-"We observed authentication density increases without search-geometry spikes. We observed freight classification consistent with industrial yard throughput. We observed departure corridor traffic return to ordinary volume after we left—no emergency routing in the slice we could see."
+"Observed: authentication density increases without search-geometry spikes. Observed: freight classification consistent with industrial yard throughput. Observed on egress: no pursuit geometry on our bearing."
 
-"Inference in that last line," Thessaly said quietly.
+"Inference in the volume-stability line," Thessaly said quietly.
 
-Calder corrected without irritation. "Inferred ordinary volume from pattern stability. Observed: no pursuit geometry on our egress bearing."
+Calder corrected without irritation. "Inferred ordinary volume from pattern stability. Observed: no pursuit geometry on egress bearing."
 
 Rowan nodded. He did not ask *what does it mean*. He asked, "What did the correction-thruster crawl cost in corridor time?"
 
@@ -46,7 +46,7 @@ Rowan nodded. He did not ask *what does it mean*. He asked, "What did the correc
 
 "What did you not see?"
 
-"We did not see upstream emissions. We did not see task-force geometry. We did not see empty volume."
+"No upstream emissions. No task-force geometry. No empty volume."
 
 The door chimed—a Cartography courier collecting bearing annexes for overlay. Rowan did not pause the meeting. Fleet did not stop because one department had started work. Somewhere else, paper was already moving.
 
@@ -102,29 +102,29 @@ Rowan: "Band?"
 
 "Observed."
 
-Thessaly turned a page. "Industrial annex correlates with Halden's thermal bands. Reyes crosswalked navigation merges. Ortega correlated civilian harmonics. We did not merge those annexes in the executive summary. Fleet is merging them in intake. Merge is fine if labels survive."
+Thessaly turned a page. "Industrial annex: Halden thermal bands. Reyes merge crosswalk. Ortega civilian harmonics. Annexes not merged in executive summary. Intake may merge if labels survive."
 
 Rowan: "Civilian signature?"
 
-"Observed: school transport clustering in listen watch harmonics. Holiday congestion overlays on ordinary Tuesday traffic. Ortega logged civilian rhythm. We did not observe named individuals."
+"Observed: school transport clustering in listen watch harmonics. Holiday congestion overlays on ordinary Tuesday traffic. Ortega logged civilian rhythm. No named individuals observed."
 
-Thessaly, when Rowan glanced at her: "Inferred—civilian ordinary life from traffic geometry. Appendix flag. Not observed faces."
+Thessaly, when Rowan glanced at her: "Inferred— civilian ordinary life from traffic geometry. Appendix flag. Not observed faces."
 
 Rowan accepted the distinction without praise. Calder continued only when Rowan nodded.
 
-"Inferred: border-adjacent discipline increasing. Inferred: passive surveillance posture on their side—from procedure tightening, authentication density increases without search-geometry spikes. We did not observe positive identification of our hull."
+"Inferred: border-adjacent discipline increasing. Inferred: passive surveillance posture on their side—from procedure tightening, authentication density increases without search-geometry spikes. No positive hull identification observed."
 
 Rowan was quiet three seconds. Calder did not fill the silence. Thessaly did not rescue him. Silence was also data.
 
 "Incident baseline," Rowan said. A request for the same grammar.
 
-Calder: "Observed: partial cloak failure under sustained passive lock at Kestran Spiral. Observed: defensive discharge at resolved bearing. Observed: scatter consistent with hull damage. Observed: correction-thrust withdrawal. We did not observe hull class name. We did not observe political entity name."
+Calder: "Observed: partial cloak failure under sustained passive lock at Kestran Spiral. Observed: defensive discharge at resolved bearing. Observed: scatter consistent with hull damage. Observed: correction-thrust withdrawal. No hull class name observed. No political entity name observed."
 
 "Speculation?" Rowan asked.
 
-"We do not speculate in the record." Calder was quiet one breath. "Off the record, I will not guess intent. We observed restraint in segment seven. We observed preparation evidence. We did not observe mobilization spike in the slice we had."
+"Not in the record." Calder was quiet one breath. "Off the record: I will not guess intent. Observed restraint in segment seven. Observed preparation evidence. No mobilization spike observed in our slice."
 
-Thessaly slid appendix C forward. "First contact has not occurred—technical position. Listening occurred. If Doctrine needs a box, the box must not punish passive grammar."
+Thessaly slid appendix C forward. "First contact has not occurred— technical position. Listening occurred. If Doctrine requires a box, the box must not penalize passive grammar."
 
 Rowan: "Understood."
 
@@ -136,7 +136,7 @@ In Communications validation bay, **Dana Holt** signed timestamps because timest
 
 **Priya Nand** had the primary chair. Holt had the pen.
 
-**Jun Park** on the secure pane from berth fourteen-C: buffer chain, triple redundancy, segregated lanes intact. **Felix Ortega** on shipboard link: listen watch logs, civilian harmonics bands, authentication density curves—*I logged what I heard, not what training expected me to hear.*
+**Jun Park** on the secure pane from berth fourteen-C: buffer chain, triple redundancy, segregated lanes intact. **Felix Ortega** on shipboard link: listen watch logs, civilian harmonics bands, authentication density curves— *Logged what I heard. Not what training expected.*
 
 Communications saw evidence. Not meaning. Proof the archive was real before meaning arguments began.
 
@@ -274,19 +274,7 @@ The report suggested passage had been busy.
 
 ---
 
-Rowan's table had accumulated the morning without ceremony.
-
-Okoye's redline overlay.
-
-Mercer's provisional header and working title.
-
-Ellis's comparison brief.
-
-Holt's integrity flag.
-
-A yard certification margin from **Elara Koss**—correction-thruster curves, ring three handshake lag, *patched not repaired, held passive posture sufficient for segment seven return*. Engineering saw capability: not heroism, method.
-
-A Logistics note from **Commander Vance** without a meeting request—industrial throughput implied deep capacity; model scenarios; no procurement flags without Operations signature. Logistics saw scale.
+Rowan's table had accumulated the morning without ceremony— Okoye's redline overlay, Mercer's provisional header and working title, Ellis's comparison brief, Holt's integrity flag, a yard certification margin from **Elara Koss**— correction-thruster curves, ring three handshake lag, *patched not repaired, held passive posture sufficient for segment seven return*— and a Logistics note from **Commander Vance** without a meeting request: industrial throughput implied deep capacity; model scenarios; no procurement flags without Operations signature.
 
 Sato arrived with passive archive thumbnails and took the chair without apology.
 
@@ -296,21 +284,7 @@ Calder had not moved from witness posture. He had not argued for *peer*. He had 
 
 Rowan looked at the pile—not a war council, a metabolism. Each department had seen a different piece. None had seen the whole. That was not failure. That was profession.
 
-He picked up Okoye's overlay and looked at seven-alpha redline without speaking. He read Mercer's provisional header without smiling. He read Ellis's pencil margin with the respect he gave Holt's void sweeps—someone had refused to stop looking.
-
-Communications saw evidence.
-
-Cartography saw geography.
-
-Doctrine saw categories.
-
-Historical saw time.
-
-Engineering saw capability.
-
-Logistics saw scale.
-
-Intelligence saw pattern.
+He picked up Okoye's overlay and looked at seven-alpha redline without speaking. He read Mercer's provisional header without smiling. He read Ellis's pencil margin with the respect he gave Holt's void sweeps— someone had refused to stop looking. Engineering saw capability in Koss's margin, not heroism, method. Logistics saw scale in Vance's note.
 
 Rowan did not see *enemy*. He did not see *friend*. He saw a civilization Fleet had been describing with the wrong century—and a crew that had come home because they had observed carefully enough to leave.
 
@@ -320,13 +294,13 @@ Rowan spoke.
 
 "Captain. One sentence. Observed band only."
 
-Calder: "We observed structured civilization beyond Fleet survey assumptions in corridor seven-alpha. We observed civilian and industrial rhythm. We observed restraint. We did not observe contact."
+Calder: "Observed: structured civilization beyond Fleet survey assumptions in corridor seven-alpha. Observed: civilian and industrial rhythm. Observed: restraint. No contact observed."
 
-Thessaly: "Inference band—one line, if allowed."
+Thessaly: "Inference band— one line, if authorized."
 
 Rowan nodded.
 
-Calder: "We inferred we were not alone in the volume Fleet called frontier."
+Calder: "Inferred: we were not alone in the volume Fleet charted as frontier."
 
 Silence—not shock. Processing. The room doing what rooms did when old nouns broke.
 
@@ -362,9 +336,9 @@ Calder walked the administrative corridor with Thessaly behind him. Glass walls 
 
 "You didn't convince them," Thessaly said.
 
-"I observed."
+"I logged."
 
-"That's why it worked." She tapped her slate. "Doctrine will fight the header. They'll keep it. Clumsy truth beats elegant lie."
+"That's why it held." She tapped her slate. "Doctrine will contest the header. Clumsy truth survives taxonomy better than elegant lie."
 
 Calder passed the Classification Annex cork board—unofficial, junior habit when official channels lagged. Mercer's provisional header pinned there, copied twice. Below it:
 

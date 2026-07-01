@@ -45,7 +45,7 @@ Orlov nodded. Not shame. Inventory.
 
 Sen wrote *inconvenient* down as if it were doctrine. It was.
 
-Vex walked the table's edge the way he had walked a Leviathan bridge— measured, unhurried, attention on systems rather than applause. These were not future heroes in his classroom. They were future maintainers of a civilization that had learned, long before any of them were born, that the void did not negotiate with surprise.
+Vex walked the table's edge the way he had walked a Leviathan bridge— measured, unhurried, attention on systems rather than applause. The cadets had gone quieter when he said the word; even here, in a classroom seven days from Founders' Week, *Leviathan* changed the air. These were not future heroes in his classroom. They were future maintainers of a civilization that had learned, long before any of them were born, that the void did not negotiate with surprise.
 
 A cadet near the window— young, sharp, still young enough to ask questions adults had stopped asking aloud— raised a hand.
 
@@ -116,37 +116,29 @@ The wardroom was warm again. **Mira Thessaly** had decided cold rooms made peopl
 
 Nobody performed revelation. They compared.
 
-"Fleet doctrine assumes exploration," Reyes said, reading flat because flatness kept ego from poisoning analysis. "Expansion. First contact as discovery event. Unknown space as opportunity surface."
+"Fleet doctrine— exploration, expansion," Reyes said, reading flat because flatness kept ego from poisoning analysis. "First contact as discovery event. Unknown space as opportunity surface. We were trained on that. I'm not sure it survived segment seven."
 
-"Assumes absence until proven otherwise," Ortega added. "Hostility signatures first. Civilian traffic second, if at all."
+"Doctrine weights hostility signatures first," Ortega added. "Civilian traffic second— if at all. Pattern doesn't match listen watch."
 
-Halden: "Assumes our charts age forward from our presence. New install, new truth."
+Halden: "Threat model assumes new install equals new truth. Infrastructure bands say otherwise."
 
-Park slid a strip forward. "Dominion behavior— from what we can observe— assumes continuity. Preparedness. Preservation of lanes already built. Long-horizon planning that treats tomorrow as a debt owed to yesterday."
+Park slid a strip forward. "Observed behavior: continuity. Preparedness. Lanes already built."
 
-Thessaly did not look up from her notes. "Fleet asks: *what's out there?* They ask: *what must still work tomorrow?*"
+Thessaly did not look up from her notes. "Fleet operational question on record: what's out there. Observed Dominion question: what must still work tomorrow."
 
-**Marcus Hale** leaned against the bulkhead, arms crossed, destroyer track loudness restrained for once. "We weren't trained for Tuesday."
+**Marcus Hale** leaned against the bulkhead, arms crossed, destroyer track loudness restrained for once. "Defensive training weights threat geometry. No doctrine for passive transit density."
 
-Ortega almost smiled. "We weren't trained to hear it."
+Ortega almost smiled. "We weren't trained to parse civilian rhythm. Listen watch expects the wrong profile."
 
 Calder listened. He had spent years in simulation rooms where first contact arrived as curriculum— handshake protocols, cultural sensitivity modules, expansion ethics case studies that treated the frontier as a surface Fleet would eventually write upon.
 
-The overlay on the table said otherwise.
-
-Yards that predated Fleet survey markers.
-
-Relay refurb cycles older than Fleet frontier doctrine.
-
-Reserve routing that climbed on baselines, not cliffs.
-
-Families that accepted production adjustments the way other civilizations accepted weather.
+The overlay on the table said otherwise— yards that predated Fleet survey markers, relay refurb cycles older than Fleet frontier doctrine, reserve routing that climbed on baselines not cliffs, families that accepted production adjustments the way other civilizations accepted weather.
 
 No one in the wardroom argued that Fleet was foolish.
 
 Arguing foolishness was how institutions protected themselves from learning.
 
-Calder said, quietly, "We weren't trained to look for a civilization that already existed."
+Calder said, quietly, "We weren't trained to look for a civilization that already existed, were we?"
 
 The room fell silent.
 
@@ -154,7 +146,7 @@ Not dramatic silence.
 
 Professional silence— the kind that followed when a sentence could not be unsaid because it was true.
 
-Reyes looked at the doctrine packet, then at the Dominion overlay, then at Calder. "We were trained to be first."
+Reyes looked at the doctrine packet, then at the Dominion overlay, then at Calder. "We were trained to be first. First with charts. First to call it discovery. I'm not sure we were first at anything except showing up."
 
 "First at what?" Thessaly said.
 
@@ -162,31 +154,39 @@ Nobody answered immediately.
 
 Halden, carefully: "First to arrive loudly."
 
-Ortega: "First to name empty."
+Ortega: "Charts label empty first. Traffic says otherwise."
 
-Park: "First to assume the map was ours because we drew it."
+Park: "Map ours because we drew it."
 
-Thessaly looked up at last. "Fleet Academy taught us Founders' Week as origin. Their yards teach Founders' Week as maintenance schedule."
+Thessaly looked up at last. "Fleet Academy records Founders' Week as origin. Observed yards record Founders' Week as maintenance schedule."
 
-Hale: "That's not fair."
+Hale: "Fair's not rotation doctrine. We're exposed longer every day we stay."
 
-"It's not unfair either," Halden said. "It's older."
+"Threat board doesn't grade fairness," Halden said. "Infrastructure predates our epoch notation."
 
 Calder thought of Helion Prime— terrace stone, graduation swords, Lisette's roll on the counter, Pell's tea. Founders' Week as celebration. First relay charter in glass. *Someone has to go first*— an academy phrase he had believed because belief made the frontier bearable.
 
 Out here, first was a relative term.
 
-Calder nodded once. "Keep listening. Keep comparing. No upstream. No illumination."
+Calder nodded once. "Listening. Comparing. No upstream. No illumination."
 
-"Agreed," Thessaly said.
+"Aye, Captain," Thessaly said.
 
 She wrote Calder's sentence down beside day ten's *preparation, not mobilization*— two lines that did not feel like intelligence summaries anymore. They felt like the beginning of a different education.
 
-Brenner spoke from the doorway, flat: "Helm doesn't care who's first. Helm cares who's still here after Tuesday."
+Brenner spoke from the doorway, flat: "Helm doesn't track first arrivals. Helm tracks who's still breathing after Tuesday."
 
 Calder nodded. "Then we stay."
 
 Brenner left without ceremony.
+
+**Lena Walsh** caught Calder in the corridor outside— not blocking, not pleading. "Ortega's light check is three days overdue, Captain. Thessaly signed a waiver. I need your signature or I need him in clinic."
+
+Calder signed the waiver on her slate without slowing. "Forty-eight hours."
+
+"Thank you." Walsh did not smile. She never smiled when she won. "Kevin left stew in the galley. Someone should eat it."
+
+She left before he could answer.
 
 ---
 
@@ -290,7 +290,7 @@ Fleet charts on the left— borders drawn in confident lines, survey epochs note
 
 Dominion observations on the right— traffic lanes, fuel spines, yard berths, relay refurb bands, reserve routing, civilian commute windows, maintenance layering **Ari Halden** had dated with the reluctance of an engineer who understood what the dates implied.
 
-**Marco Reyes** stood at the chart table's edge, hands loose, eyes on merge geometry.
+**Damon Reyes** stood at the chart table's edge, hands loose, eyes on merge geometry.
 
 **Ari Halden** had joined with a band chart she did not want to be right about.
 
@@ -310,15 +310,15 @@ She did not rush the realization. Rushing was Fleet habit. Thessaly was learning
 
 Reyes leaned in.
 
-"Fleet maps show borders," Thessaly said.
+"Fleet charts show borders," Thessaly said.
 
-Reyes: "Dominion infrastructure ignores them completely."
+Reyes: "Dominion infrastructure crosses them without acknowledgment. Lanes don't read the line."
 
-"Not ignores." She adjusted the overlay. "Never needed them. The lanes predate the line. The yards predate the epoch. The relays predate our survey marker assumptions."
+"Not ignores." She adjusted the overlay. "Never needed them. Lanes predate the line. Yards predate the epoch. Relays predate our survey marker assumptions."
 
 Reyes exhaled once. "So the border exists—"
 
-"On Fleet maps," Thessaly finished.
+"On Fleet maps only," Thessaly finished.
 
 Silence.
 
@@ -326,7 +326,7 @@ The chart room smelled of coffee and old laminate and the faint ozone of display
 
 Halden pointed at a relay band. "This refurb cycle doesn't care about our epoch notation. It cares about load."
 
-Reyes: "Fleet survey marked this volume *frontier provisional*."
+Reyes: "Fleet survey marked this volume *frontier provisional*. I believed that chart. I shouldn't have stopped at provisional."
 
 "Provisional for whom?" Thessaly said.
 
@@ -334,13 +334,13 @@ The question sat in the chart room like a stone.
 
 Calder entered without knocking— captains did not knock on their own ship, but he paused at the threshold as if knocking still mattered.
 
-Thessaly did not turn. "We drew a frontier through someone else's hallway."
+Thessaly did not turn. "On record: we drew a frontier through someone else's hallway."
 
 Calder studied the overlay. "How much of known space is known because we named it?"
 
-Reyes, quietly: "More than we're comfortable saying."
+Reyes, quietly: "More than I'm comfortable saying aloud. Probably more than Cartography will admit first pass."
 
-Thessaly met Calder's eyes. "The Kestrel isn't only questioning them."
+Thessaly met Calder's eyes. "The *Kestrel* isn't only questioning them."
 
 "No," Calder said.
 
@@ -352,9 +352,9 @@ Discovery could be filed.
 
 Self-doubt became doctrine.
 
-Thessaly gathered the sheets. "I'll build a comparison packet. No upstream language. Observation terms only."
+Thessaly gathered the sheets. "Comparison packet. Observation terms only. No upstream language."
 
-"Do it," Calder said.
+"Build it," Calder said.
 
 He looked at the Fleet border line one more time— confident, recent, a civilization's handwriting.
 
@@ -476,79 +476,23 @@ Calder at the rail.
 
 The bridge was quiet the way deep-water ships were quiet— systems murmuring, crew sparse, responsibility distributed so no one person had to carry all of it at once.
 
-**Tomás Brenner** on helm correction thrust, hands steady.
-
-**Mira Thessaly** aft with slate.
-
-**Felix Ortega** on listen watch— controllers tired, tugs patient, civilization breathing in waveforms.
-
-**Yuki Tanaka** on emitters dark.
-
-**Marcus Hale** on rotation.
-
-**Jun Park** stitching buffer threads because Park always stitched.
+**Tomás Brenner** on helm correction thrust, hands steady; **Mira Thessaly** aft with slate; **Felix Ortega** on listen watch— controllers tired, tugs patient, civilization breathing in waveforms; **Yuki Tanaka** on emitters dark; **Marcus Hale** on rotation; **Jun Park** stitching buffer threads because Park always stitched.
 
 Calder had not slept enough. He had stopped pretending sleep would fix what segment seven had become. Officers on long passive watches learned to function on debt— sleep debt, certainty debt, the debt of knowing your academy had prepared you for a frontier that might not exist the way charts drew it.
 
-He reviewed everything the way he had reviewed engagement geometry in simulation years ago— except simulations had endings. This did not.
-
-Academies.
-
-He could not see them. He could infer them— children's lessons about sacrifice without conquest, chorus rehearsals where perseverance was not a volume knob, professional discipline in traffic controllers who sounded tired before they sounded afraid.
-
-Archives.
-
-Layered maps. Handwritten margins. *We always build farther ahead than people think necessary.*
-
-Shipyards.
-
-Petran to Sorokin to Lina. *The weld outlives the shift.*
-
-Families.
-
-Thursday flowers. Production adjustments accepted as weather. Grandmothers with proverbs that did not explain themselves.
-
-Memorials.
-
-Names in stone. *They made tomorrow possible.*
-
-Transportation.
-
-Lanes older than Fleet borders.
-
-Doctrine.
-
-Fleet: discovery, expansion, first arrival.
-
-Dominion: continuity, preparedness, preservation.
-
-History.
-
-Not a briefing.
-
-A habitat.
+He reviewed everything the way he had reviewed engagement geometry in simulation years ago— except simulations had endings. This did not. Academies he could not see but could infer— children's lessons about sacrifice without conquest, chorus rehearsals where perseverance was not a volume knob, professional discipline in traffic controllers who sounded tired before they sounded afraid. Archives— layered maps, handwritten margins, *We always build farther ahead than people think necessary*. Shipyards— Petran to Sorokin to Lina, *The weld outlives the shift*. Families— Thursday flowers, production adjustments accepted as weather, grandmothers with proverbs that did not explain themselves. Memorials— names in stone, *They made tomorrow possible*. Transportation— lanes older than Fleet borders. Doctrine— Fleet: discovery, expansion, first arrival; Dominion: continuity, preparedness, preservation. History, not a briefing. A habitat.
 
 **Damon Reyes** had left a chart strip on the rail— Fleet border notation ghosted over Dominion lane merge, the line visibly absurd once you saw both at once. Calder did not need the strip to remember. Thessaly had made sure he would not.
 
 Calder looked at the plot— Dominion space rendered as observation, not threat— and understood something he had been circling since the wardroom went silent.
 
-"This civilization..."
+Calder said, "History inside them, or history about them?"
 
 Pause.
 
-The scrubbers cycled.
-
 Ortega's loop murmured— a child's chorus practice bleeding through civilian traffic harmonics, off-key and earnest, Founders' Week seven days out if rotation held.
 
-"...doesn't remember history."
-
-Longer pause.
-
-"It lives inside it."
-
-Nobody answered.
-
-Thessaly finally said, "Maybe that's the difference."
+Thessaly: "They live inside it. Record supports."
 
 Calder looked back toward Dominion space— not with hatred, not with fear, with the growing sadness of a professional who had begun to admire what he was paid to assess.
 
@@ -574,9 +518,9 @@ History had taught them very different lessons.
 
 Thessaly stepped closer to the rail. Not to challenge. To stand where executives stood when captains carried weight that did not show on plots.
 
-"If we report this upstream," she said quietly, "they'll hear *contact*. They won't hear *inheritance*."
+"If we report upstream," she said quietly, "Fleet will classify *contact*. Inheritance is not in the taxonomy."
 
-"Then we don't report inheritance yet," Calder said. "We report observations. We keep building the picture until the picture can survive Fleet grammar."
+"Observations first," Calder said. "Build the picture until it survives Fleet grammar."
 
 She nodded.
 
@@ -586,15 +530,11 @@ He had issued the only order that mattered three days ago.
 
 "Keep listening," he said again, quieter— to the bridge, to himself, to the corridor that had been prepared and named and maintained by people who had never asked his permission to exist.
 
-Reyes, on chart plot: "Aye."
-
-Ortega put the headphone back.
-
-Tanaka kept emitters dark.
-
-Brenner kept the ring steady.
+Reyes acknowledged on chart plot; Ortega put the headphone back. Tanaka kept emitters dark; Brenner kept the ring steady.
 
 The *Kestrel Veil* crept on correction thrusters in inherited space— Fleet confidence meeting Dominion caution in the dark, witness to a conflict that had not begun with hatred and would not, if Calder had anything left to say about it, be simplified into villains.
+
+**Jun Park**, alone at the buffer console ten minutes later, tagged the night's correlations for a Fleet review that did not exist yet— headers blank, timestamps honest, the archive of a war not yet declared growing one thread at a time.
 
 They listened.
 

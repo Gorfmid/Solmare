@@ -8,11 +8,7 @@ He had noticed it on every ship he had toured at academy. On the *Veil*, the shi
 
 "Mark," Calder said.
 
-Thessaly: "Logged."
-
-Reyes: "Undock sequence executing."
-
-Tanaka's fingers moved on the staging slate—colors only she and Reyes used the same way. "Primary vector locked. Cradle clearance green."
+Thessaly logged it. Reyes executed undock sequence while Tanaka's fingers moved on the staging slate—colors only she and Reyes used the same way. "Primary vector locked. Cradle clearance green."
 
 The yards fell away in the viewport: Berth 14-C shrinking, demonstration hulls at Berth 11 still dressed for Founders' Week, the courier at Berth 12 already singing at its hatch. Helion Prime's industrial districts turned beneath them, then thinned to haze, then to the flat black that did not care about parades.
 
@@ -36,11 +32,11 @@ Thessaly stood near the forward console with her hands folded behind her back, t
 
 Halden did not look up from tactical until she had something to say.
 
-"Routine patrol corridor confirmed," Reyes said. "Same sweep as last cycle under Dennett. Drift adjustment on vector four—point-zero-three degrees port."
+"Routine patrol corridor confirmed," Reyes said. "Same sweep Dennett ran last cycle. Drift vector four—point-zero-three port."
 
-"Fleet will love that," Halden muttered. "Rebels adjusting vectors."
+"Fleet will love that," Halden muttered. "Picket geometry on that advisory—watch the spacing."
 
-"No one is impressed by perfect repetition," Reyes said.
+"Perfect repetition's still repetition," Reyes said. "Fleet doesn't care if it bores you."
 
 "Accounting loves repetition," Park said, still on the outbound line.
 
@@ -62,7 +58,7 @@ Reyes: "Navigation grid re-synced. No trajectory deviation."
 
 Halden looked up. "Tactical didn't notice anything because nothing happened."
 
-"Reassuring," Calder said.
+"Does that hold if contact geometry shifts?" Calder asked.
 
 Halden's mouth twitched. "That's the goal. Allegedly."
 
@@ -72,7 +68,7 @@ Thessaly shifted toward the central display. "Standard patrol spacing. Outer Kes
 
 "Because forty-eight makes the fuel report look like someone was guessing," Park said, closing the Helion Prime line.
 
-Brenner on comms: "He means the injector cycle doesn't like even numbers."
+Brenner on comms: "Injector cycle skips even numbers on this hull. Ask the grind."
 
 "That is not how injectors work," Koss cut in from engineering.
 
@@ -96,15 +92,9 @@ Reyes brought them to patrol velocity with the same micro-corrections as undock.
 
 Calder stood behind navigation longer than he needed to.
 
-Calder noticed something behind navigation he hadn't cataloged in the briefing.
-
-A small set of worn dice hung near Tanaka's console bracket—faded plastic, edges softened from use, clipped to a diagnostic cable like it belonged there.
-
-They moved slightly whenever the ship corrected vector four.
+A small set of worn dice hung near Tanaka's console bracket—faded plastic, edges softened from use, clipped to a diagnostic cable like it belonged there. They moved slightly whenever the ship corrected vector four.
 
 He didn't ask about them.
-
-He made a note that he hadn't asked.
 
 "Is that drift normal?" he asked.
 
@@ -112,13 +102,9 @@ Reyes didn't look up. "Which one?"
 
 "That one."
 
-A pause.
+A pause. "Yes."
 
-"Yes."
-
-Another pause.
-
-"Define normal," Reyes added.
+Another pause. "Define normal," Reyes added.
 
 "That's dangerous on a scout," Halden said from tactical.
 
@@ -138,7 +124,7 @@ Halden leaned back. "Everything here is slightly wrong in a way that balances ou
 
 Thessaly, from the central console: "It's the lived one."
 
-Ortega raised a hand from the sensor station. "Tertiary channel nominal on exit sweep. Same wrong offset as cradle. Within spec if you ignore it."
+Ortega raised a hand from the sensor station. "Tertiary—same offset family as cradle. Looks nominal if you ignore the family."
 
 Reyes did not react. Ortega lowered his hand.
 
@@ -150,21 +136,15 @@ Calder returned to the command chair. He did not sit immediately. The squeak com
 
 Tanaka went back to her colors.
 
-Calder thought he almost udnerstood the drift exchange—bias, compensation, the table Tanaka kept—then lost the shape of it again. He stopped trying to force it into meaning before he had more data.
+He had enough data to name the pieces—bias, compensation, Tanaka's table—and not enough to make them cohere. He filed the gap and moved on.
 
 ❦
 
-By the time they reached patrol velocity, the watch had found its pace.
+The watch found its pace before patrol velocity finished settling.
 
-Park tracked comms traffic as rhythm, not task list. Acknowledgment. Pause. Buffer update. Next packet. When a relay window narrowed, his fingers hesitated on the keys—half a beat—then found the next slot. Once, he overcorrected a buffer call and had to walk it back; the rhythm stuttered, then continued. Fleet relay traffic from the Kestran corridor was light: mapping confirmations, a freight schedule revision, one low-priority border advisory in his queue—increased picket traffic adjacent to the Spiral, explanation attached, no action required. Park left it flagged and untouched.
+Park tracked comms as rhythm—acknowledgment, pause, buffer update, next packet—his fingers hesitating half a beat when a relay window narrowed. Fleet traffic from the Kestran corridor was light: mapping confirmations, a freight schedule revision, one low-priority border advisory in his queue—increased picket traffic adjacent to the Spiral, explanation attached, no action required. Park left it flagged. Calder noticed the flag and did not ask about it yet.
 
-Cole had the secondary relay station before the hour mark. She matched her buffer calls to the handshake cadence—half a beat ahead of the display. Park glanced once when a buffer spike smoothed. He dparkid not comment. He did not need to.
-
-Halden ran tactical overlays that showed empty space and occasional ghost traces the board labeled *non-events*.
-
-Reyes adjusted course every few minutes by fractions of a degree no one would notice unless they were looking for reasons to worry.
-
-Thessaly coordinated without speaking unless necessary, which made her the loudest presence on the deck.
+Cole took secondary before the hour mark, matching buffer calls to the handshake cadence half a beat ahead of the display. When a spike smoothed, Park glanced once and did not comment. He did not need to.
 
 Down in engineering, Brenner and Koss argued about a pump that was, in Brenner's words, functioning incorrectly but consistently.
 
@@ -172,17 +152,13 @@ Down in engineering, Brenner and Koss argued about a pump that was, in Brenner's
 
 "It is not stable," Koss replied. "It is predictable failure."
 
-"Same thing with better paperwork," Brenner said.
+"Same failure mode. Better paperwork on top," Brenner said.
 
 Mid-sentence, Brenner's hands moved on the panel—a torque adjustment a fraction too hard.
 
 Koss, without looking up: "Less."
 
-Brenner didn’t correct immediately.
-
-The pump held for a second longer than it should have.
-
-Then stabilized.
+Brenner didn't correct immediately. The pump held for a second longer than it should have, then stabilized.
 
 "Less. I said less," Koss added, after the delay.
 
@@ -190,25 +166,19 @@ Brenner adjusted. The pump kept running.
 
 Calder stopped near the central holodisplay. "External sensor anomalies?"
 
-Park: "Minor noise on long-range passive. Debris probability high."
+Park: "Minor noise on long-range passive. Debris probability high. Logged separate."
 
-"Probably?" Calder asked.
+"Probability or confirmation?" Calder asked.
 
 Halden glanced at the passive overlay. "Space is full of debris."
 
-Reyes added, "And hope. Also debris."
+Reyes added, "And occlusion. Also debris."
 
 Halden's mouth twitched. "Statistically, mostly debris." The line landed a beat late. Ortega went back to his sweep.
 
-Okwelu checked in on the medical channel at hour two—rest logs, hydration reminders, Calder's sleep debt noted in the baseline file. She asked Brenner if he had slept; Brenner said the pump had slept less. Okwelu closed the channel.
+Command felt like arriving late to a conversation that already knew its verbs. His rank was present in the room and mostly unused.
 
-Walsh sent a stores reconciliation that matched Calder's honest count from Helion Prime better than Fleet's pretty one. The overflow carton on the forward console was not on either count. Cole took Park's station beside him when the handshake jitter spiked; the rhythm did not break.
-
-Calder watched Reyes and Tanaka work the navigation suite the way he watched Park and Cole—paired habit, not briefing. Reyes said *buffer overlap* and Tanaka was already pulling the color line before he finished the word. Brenner and Koss argued on the engineering channel while their hands did the fix underneath.
-
-He was not intervening because nothing required it. Command felt like arriving late to a conversation that already knew its verbs. He was noticing more of it than he could interpret—and less of it than he kept expecting to.
-
-He had stood at the command chair twice in the last hour without giving an order that changed motion. His rank was present in the room and mostly unused.
+❦
 
 Calder walked the habitation layer during the mid-cycle lull because Dennett's logs said captains who never left the command deck made the crew nervous. The deck plating had the same give under his boots as on the climb from engineering. Door seven-C stuck. He kicked lower-left. The door opened.
 
@@ -230,23 +200,17 @@ Hale passed the other way toward the galley corridor nook, calibration kit under
 
 Okwelu was in the medical bay doorway when Calder climbed toward habitation—slate in hand, eyes on the pass-through traffic, not on him. She noted his transit time against the rest log and went back to her notebook.
 
-When Calder climbed back to the command deck, the patrol clock had advanced. Park was mid-rhythm. Cole on secondary. Ortega at sensors with two tabs open.
+When Calder climbed back to the command deck, Park was mid-rhythm and Ortega had two tabs open—the merge column and the segregated offset log he never reconciled with Fleet's pretty numbers.
 
-The command chair squeaked when someone brushed it. Nobody sat.
-
-Ortega flagged a calibration drift on the primary array—same wrong offset as always, filed separate from the merge column. Reyes reviewed the passive overlay. Nothing required a course change. Halden ran a defensive emitter check because the schedule said to.
-
-At hour six, Tanaka and Reyes traded the navigation suite without ceremony. Tanaka sat. The chair squeaked. Reyes stood behind her and corrected one word in a buffer overlap note—*port*, not *starboard*—without looking at the slate. Tanaka paused half a beat, then nodded.
+Tanaka and Reyes traded the navigation suite without ceremony. Tanaka sat. The chair squeaked. Reyes stood behind her and corrected one word in a buffer overlap note—*port*, not *starboard*—without looking at the slate. Tanaka paused half a beat, then nodded.
 
 Calder was still looking at the dice when Tanaka noticed.
 
 "Previous captain," she said.
 
-Calder nodded. It almost formed into meaning—Dennett, habit, luck—and refused to resolve, even in thought.
+Calder nodded. Dennett, habit, luck—filed together, unexplained.
 
-Park rotated off primary comms long enough to take something from the forward carton and refill Halden's mug. Cole stayed on relay. The handshake rhythm did not stutter.
-
-Walsh appeared on the command deck at hour nine with a stores strip and no apology for existing in a corridor. "Mid-cycle reconciliation," he said to Thessaly. "Honest count matches manifest. Fleet pretty count still wrong by two thermal patch crates. Checklist addendum holds—unexpected provisioning pending variance review."
+Walsh appeared with a stores strip and no apology for existing in a corridor. "Mid-cycle reconciliation," he said to Thessaly. "Honest count matches manifest. Fleet pretty count still wrong by two thermal patch crates. Checklist addendum holds—unexpected provisioning pending variance review."
 
 "Log the variance," Thessaly said.
 
@@ -270,7 +234,7 @@ Halden frowned. "Duplicate message?"
 
 "No." Park's voice stayed level. "Same message. Same timestamp. Same identifier."
 
-"Checked echo," Park said. "Doesn't match relay delay pattern. Second copy arrived before first copy finished transmission."
+"Checked echo," Park said. "Doesn't match relay delay pattern. Second copy arrived before first copy finished transmission. Segregated."
 
 Silence on the deck. The environmental thrum held its note.
 
@@ -278,18 +242,13 @@ Thessaly studied the log for a moment longer than usual.
 
 "Keep both," she said.
 
-Park did not confirm. The entries stayed open in separate buffers without reconciliation.
-No one asked for clarification.
-
-The watch continued.
+Park did not confirm. The entries stayed open in separate buffers without reconciliation. No one asked for clarification.
 
 Calder stepped closer. "Report to Fleet?"
 
 Thessaly: "Not yet."
 
 Koss on comms: "Seen it before. Self-resolves."
-
-Reyes adjusted vector four. Halden leaned back. Brenner and Koss went back to the pump. Park returned to his packet rhythm without comment.
 
 "How many times?" Calder asked quietly.
 
@@ -299,53 +258,31 @@ Park: "Enough."
 
 "Hold," Calder said.
 
-Calder sat in the command chair. The squeak complained. He stayed seated anyway. The duplicate ping sat in segregated buffer somewhere behind Park's console; Calder did not ask to see it. It refused to resolve, even as logistics.
-
-The watch turned.
+Calder sat in the command chair. The squeak complained. He stayed seated anyway. The duplicate ping sat in segregated buffer somewhere behind Park's console—a wrongness that did not announce itself as wrongness.
 
 Brenner's voice on engineering channel, already elsewhere: "Port panel secured. Moving to lift three manual check."
 
-Park opened the next relay buffer. Ortega refreshed his tertiary sweep.
-
 ❦
 
-Patrol continued.
+The duplicate did not repeat. That was almost worse.
 
-A sensor report arrived four seconds early on Ortega's tertiary channel. Ortega filed it separate from the merge column and kept sweeping.
+Over the next hours, small inconsistencies stacked without repeating the same shape. Ortega filed a sensor report four seconds early on tertiary—same wrong offset, same segregated column—and kept sweeping. A navigation update held wrong on Tanaka's sequence line for eleven seconds; she refreshed it without mentioning the gap to Reyes. Calder signed the mid-cycle reconnaissance summary Fleet wanted because refusing on day one would have been performance, not command.
 
-A navigation update held wrong for eleven seconds, then corrected when Tanaka refreshed the sequence line. She did not mention it to Reyes. He did not ask.
+Okwelu sent a sleep-debt notice on the medical channel—direct, no preamble: *Captain. Four hours is not sleep. Acknowledge.* He acknowledged without compliance.
 
-Calder signed the mid-cycle reconnaissance summary Fleet wanted. He signed it because refusing on day one would have been performance, not command.
+Halden reported a ghost trace—possible contact, resolved as sensor echo off a debris field Reyes had already mapped. She marked *non-event*. Calder watched the bearing sit on the board a beat longer than the label usually earned before it cleared.
 
-Park transmitted the packet at hour eighteen. Relay acknowledgment came back clean. He logged the packet ID and moved on.
+Brenner took the last piece from the forward carton on his way aft. Park refilled it from overflow without comment.
 
-Okwelu reviewed watch rest logs at hour twenty-two and sent Calder a sleep-debt notice—direct this time, no preamble: *Captain. Four hours is not sleep. Acknowledge.* He acknowledged without compliance.
+When Park transmitted the late-cycle status packet, one return line matched an entry from mid-cycle—the duplicate family, not the same ping, the same shape. He hesitated half a beat, flagged it separately, released the rest without comment.
 
-Hale ran a defensive suite calibration in the nook off the galley corridor, green check, one adjustment, green again. Sharma passed through Corridor C with a toolkit, stepped left around the dent without glancing down.
-
-At hour thirty-eight, Halden reported a ghost trace on tactical—possible contact, resolved as sensor echo off a debris field Reyes had already mapped. Halden marked *non-event* and returned to her overlay.
-
-Cole covered relay while Park ate from the forward carton without leaving his chair. Brenner surfaced for coffee at hour forty-one, ate standing up, took the last piece from the forward carton, and vanished aft. Park refilled the carton from overflow stores without comment.
-
-Calder ate what Park left on the console ledge because skipping it would have been noticed. He ate standing up.
-
-Thessaly saw. She did not comment.
-
-Park transmitted the hour forty-two status packet.
-
-One return line matched an entry from mid-cycle.
-
-Park hesitated half a beat before flagging it.
-
-He labeled it separately, then released the rest of the packet.
-
-No comment followed.
+Calder did not ask. He was learning which questions changed posture and which ones only changed the room's temperature.
 
 ❦
 
 The command deck entered its low-activity cycle for the final approach to relay point Kestran IV-Alpha.
 
-Calder remained at the forward viewport. Empty patrol space. Debris if you knew where to look.
+Calder remained at the forward viewport. Empty patrol space. Debris if you knew where to look. The border advisory still sat low in Park's queue, unchanged since undock—adjacent picket traffic, no action required, filed the way Fleet filed things it did not want to explain on day one.
 
 Thessaly approached without announcement.
 
@@ -355,42 +292,34 @@ Thessaly approached without announcement.
 
 "That'll serve you better than fixing every wrong number on day two," Thessaly said.
 
-Calder glanced at her. "What does that look like in practice?"
+Calder glanced at her. "Which logs get filed quiet?"
 
-"Knowing which logs to escalate and which to file quiet," she said.
+"Ones that change posture without changing understanding," she said.
 
 She turned to leave, then stopped without looking back. "Dennett filed first. Reported second. Sometimes never. You'll decide where you sit."
 
 She walked away before he could respond.
 
-Calder stayed at the viewport a moment longer. He thought he understood what Thessaly meant by *file quiet*—then the thought slipped and would not hold.
-
-Behind him, Park called a buffer status update. Reyes adjusted vector four by point-zero-three degrees. The dice near Tanaka's bracket clicked once against the cable. Halden said something about tactical boredom that earned nothing from Ortega and a glance from Reyes.
+Behind him, Park called a buffer status update. Reyes adjusted vector four by point-zero-three degrees. The dice near Tanaka's bracket clicked once against the cable.
 
 Reyes ran the relay approach solution twice—once for Fleet's chart, once for the margin marks only he and Tanaka trusted. Tanaka paused half a beat before confirming the second solution matched the first within tolerance. Koss certified the regulator hold for relay rendezvous.
 
-At hour forty-five, Park opened the relay window.
+At Mission +45:00, Park opened the relay window.
 
 "Kestran IV-Alpha, *Kestrel Veil* checking in. Patrol cycle nominal. Summary packet attached."
 
-Cole watched the secondary handshake line beside him. She tapped once when the buffer narrowed. Park did not break stride.
+Cole watched the secondary handshake line beside him, tapping once when the buffer narrowed; Park did not break stride.
 
 The acknowledgment came back four seconds early.
 
-Park held the copy separate until the primary transmission finished.
-
-The secondary buffer did not clear automatically.
-
-It remained flagged longer than it should have before Park manually released it.
-
-Cole did not comment. Neither did anyone else.
+Park held the copy separate until the primary transmission finished. The secondary buffer did not clear automatically—it remained flagged longer than it should have before Park manually released it. Cole did not comment. Neither did anyone else.
 
 Calder crossed to the command chair. The squeak complained. He sat.
 
 "Record," he said. "Pending relay rendezvous."
 
-Thessaly: "Logged."
-
-Park returned to his rhythm. Reyes corrected vector four. The patrol clock advanced one minute without ceremony.
+Thessaly logged it. Park returned to his rhythm while Reyes corrected vector four and the patrol clock advanced one minute without ceremony.
 
 Somewhere aft, Brenner kicked a door.
+
+The environmental thrum held its patrol note. Calder listened for when it changed again.

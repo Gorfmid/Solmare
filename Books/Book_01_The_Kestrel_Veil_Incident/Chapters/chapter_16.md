@@ -15,21 +15,13 @@ Thirty-two independent observations.
 
 Not thirty-one.
 
-Thirty-two.
-
-One more point on a scatter plot that had learned persistence the way stone learned rain.
-
 Petrov stood at the table's far edge with tea untouched and the controlled posture of a man presenting numbers that would not become orders yet.
 
 "Routine summary," he said, because routine was how you filed the extraordinary until it earned a name. "Border nodes, maintenance corridors, passive archives. Transportation reports corridor normalization on seven-alpha and nine-beta. Border stations report nothing extraordinary. Science Directorate reports improved cloak stability in marginal hold— bench plus margin approaching satisfaction, field trial timeline still withheld."
 
 Stratimirov studied the overlay.
 
-Individually, each marker remained nothing— timing offsets, variance flags, faint returns, debris hypotheses, authentication drift, fuel spine duty cycles, the dullest vocabulary in the directorate.
-
-Together, they suggested probability without proof.
-
-The thirty-second marker was a maintenance window shift on Kessik feeder two— inside tolerance alone, persistent only in company with the other thirty-one.
+The thirty-second marker was a maintenance window shift on Kessik feeder two— inside tolerance alone, persistent only in company with the other thirty-one. He did not ask Petrov to read the list again. They had both memorized it.
 
 **Colonel Yenin** from Political Liaison read the Transportation summary. "Normalization reads like holiday congestion models. Founders' Week overlays applied. Traffic increased. Anomalies decreased in some bands."
 
@@ -122,13 +114,7 @@ Morning watch.
 
 No speeches.
 
-**Damon Reyes** updated navigation— home vectors, conservative burn, merge windows chosen for traffic humility. **Ari Halden** adjusted engine bands until correction-thrust fraction held without complaint. The *Kestrel* complained anyway— a vibration in ring three Calder had learned to hear as mood rather than malfunction.
-
-**Yuki Tanaka** confirmed emitters dark for the third time since watch turnover.
-
-**Felix Ortega** logged passive returns with the discipline of a man who knew listening did not end when course changed.
-
-**Elara Koss** had the engine room on correction-thruster stewardship— not heroic, ancestral, the way Koss treated machines that kept people alive.
+**Damon Reyes** updated navigation— home vectors, conservative burn, merge windows chosen for traffic humility— while **Ari Halden** adjusted engine bands until correction-thrust fraction held without complaint. The *Kestrel* complained anyway— a vibration in ring three Calder had learned to hear as mood rather than malfunction. **Yuki Tanaka** confirmed emitters dark for the third time since watch turnover; **Felix Ortega** logged passive returns with the discipline of a man who knew listening did not end when course changed. **Elara Koss** had the engine room on correction-thruster stewardship— not heroic, ancestral, the way Koss treated machines that kept people alive.
 
 **Calder Venn** stood at the rail and watched familiar routes begin to disappear behind the *Kestrel Veil*.
 
@@ -156,11 +142,7 @@ The ship felt strangely reluctant.
 
 Calder felt it too— not in engines, in crew.
 
-**Mira Thessaly** on aft plot, slate closed for once, eyes on the disappearing lane geometry.
-
-**Jun Park** archiving buffers in triple redundancy because Park did not trust luck.
-
-**Marcus Hale** on rotation without jokes.
+**Mira Thessaly** on aft plot, slate closed for once, eyes on the disappearing lane geometry; **Jun Park** archiving buffers in triple redundancy because Park did not trust luck; **Marcus Hale** on rotation without jokes.
 
 The *Kestrel* had entered Dominion space as explorers— damaged, professional, believing empty charts.
 
@@ -170,33 +152,35 @@ She left as witnesses.
 
 Today the old girl remembered segment seven the way people remembered weather— not as coordinates, as texture.
 
+**Kevin** passed the bridge hatch with stew bowls— Walsh's order, finally obeyed. Ortega took one without breaking listen watch. Brenner took one with his off hand. Calder waved Kevin off for himself; Kevin left the third bowl on the rail anyway and vanished down the ladder.
+
 Calder's responsibility had simplified to one line:
 
 Bring everyone home.
 
 Everything else was secondary.
 
-"Ring three handshake nominal," Brenner said.
+"Ring three handshake nominal. Correction burn steady."
 
 "Acknowledged," Calder said.
 
-Reyes: "First leg complete in forty minutes. Second leg opens after passenger cluster passes coreward."
+Reyes, on course plot: "First leg complete in forty. Second opens after passenger cluster clears coreward. Merge window's tight— not impossible. Just tight enough to notice."
 
-Ortega: "Controllers sound Founders' Week tired. Traffic dense. We're one return among many if anyone is comparing."
+Ortega: "Controllers sound Founders' Week tired. Dense traffic. One return among many— if anyone's comparing profiles."
 
-"If," Calder said.
+"Detected, or if," Calder said.
 
 Not *when*.
 
 Uncertainty was restraint's partner.
 
-Halden, on intercom: "Thermal profile nominal. We're one bloom among many if anyone is comparing yards."
+Halden, on intercom: "Local threat board clean. One thermal bloom among many if anyone compares yards."
 
 "Stay one among many," Calder said.
 
-Reyes: "Lane merge in six minutes. Passenger cluster coreward. Brenner has the gap."
+Reyes called lane merge in six minutes— passenger cluster coreward, gap for Brenner.
 
-Brenner: "I see it."
+"Gap's there," Brenner said.
 
 He watched a relay core they'd logged as centuries old slide aft and felt the melancholy of leaving a library before finishing every shelf.
 
@@ -208,11 +192,11 @@ Bittersweet satisfaction— the emotion of a mission completed without victory a
 
 **Mira Thessaly** joined him at the rail for a moment without speaking.
 
-When she did speak, it was quiet. "I keep waiting for the corridor to object."
+When she did speak, it was quiet. "Waiting for corridor objection. None observed."
 
-"It won't," Calder said.
+"Tuesday continues without us," Calder said.
 
-"No," Thessaly said. "It'll just keep being Tuesday for everyone who belongs here."
+"No," Thessaly said. "On record: Tuesday continues for everyone who belongs here."
 
 Calder nodded.
 
@@ -220,17 +204,13 @@ That was the farewell— not a handshake, not a salute, Tuesday continuing witho
 
 Brenner made a correction burn so small Calder would not have felt it without the rail's vibration.
 
-"She's being polite," Brenner said.
+"She's being polite. Thrusters only."
 
 "Stay polite," Calder said.
 
 The *Kestrel Veil* withdrew along the corridor the way professionals withdrew— without illumination, without announcement, without forcing first contact because first contact was a thing nations chose or failed to choose, not a thing scouts triggered by lingering one day too many.
 
-**Jun Park** logged each leg departure in buffer threads tagged *segment seven — witness archive*.
-
-**Marcus Hale** ran rotation without jokes because jokes during departure felt like disrespect to a corridor that had taught them Tuesday.
-
-**Yuki Tanaka** ran emitter checks on a schedule that had become prayer.
+**Jun Park** logged each leg departure in buffer threads tagged *segment seven — witness archive*; **Marcus Hale** ran rotation without jokes because jokes during departure felt like disrespect to a corridor that had taught them Tuesday; **Yuki Tanaka** ran emitter checks on schedule— dark, confirmed, logged.
 
 No one said goodbye.
 
@@ -394,13 +374,13 @@ He read over her shoulder without touching the screen.
 
 "Grammar is slower than engines," Thessaly said.
 
-"Neither fits," Thessaly said.
+"Neither header fits doctrine taxonomy," Thessaly said.
 
 "No."
 
-"They'll want a box."
+"Fleet will require a classification box."
 
-"They always want a box."
+"They always require a box."
 
 She pulled a Fleet first-contact template and placed it beside her draft like a negative example. Sections for handshake protocol. Sections for threat assessment. Sections for cultural primitives and resource evaluation and expansion compatibility.
 
@@ -410,11 +390,11 @@ Thessaly stared at it until the words looked like a child's drawing of a door.
 
 "We didn't find primitives," Calder said.
 
-"We found people who stake greens for visitors," Thessaly said, surprising herself.
+"Observed: people who stake greens for visitors," Thessaly said, surprising herself.
 
 Calder almost smiled. Did not.
 
-"We found neighbors," he said— quietly, testing the word.
+"Neighbors," he said— quietly, testing the word.
 
 Thessaly was still.
 
@@ -422,27 +402,13 @@ Then she wrote it in the margin, not in the header.
 
 Not yet.
 
-Calder said, "Write what we observed."
+Calder said, "Sequence first. Observed facts. Doctrine can catch up."
 
 Pause.
 
-"The doctrine can catch up."
-
 Thessaly nodded.
 
-She began again— not with a label, with sequence.
-
-Observed lane antiquity.
-
-Observed industrial throughput continuity.
-
-Observed civilian traffic density and holiday congestion overlays.
-
-Observed authentication discipline increases without search geometry spikes.
-
-Observed maintenance layering predating Fleet survey epoch assumptions.
-
-Observed border-adjacent procedure consistent with long-horizon preparedness rather than reactive mobilization.
+She began again— not with a label, with sequence: observed lane antiquity; observed industrial throughput continuity; observed civilian traffic density and holiday congestion overlays; observed authentication discipline increases without search geometry spikes; observed maintenance layering predating Fleet survey epoch assumptions; observed border-adjacent procedure consistent with long-horizon preparedness rather than reactive mobilization.
 
 She added a line Calder had not asked for and would not remove:
 
@@ -466,17 +432,17 @@ Honest.
 
 Survivable.
 
-Calder: "Keep neighbors in the margin."
+Calder: "Neighbors stays in the margin."
 
 "I will."
 
-"And keep *first contact has not occurred* accurate."
+"And *first contact has not occurred* stays accurate."
 
 Thessaly looked up. "Hasn't it?"
 
 Calder considered.
 
-"We listened," he said. "We were listened for. No handshake. No illumination. No name exchanged." Pause. "Technically."
+"Listening occurred. Handshake did not. Illumination did not. Name exchange did not." Pause. "Technically."
 
 "Technically," Thessaly repeated, and wrote it down because technical truth was how professionals prevented institutions from rushing into myths.
 
@@ -634,17 +600,7 @@ Nobody cheered.
 
 Nobody relaxed.
 
-**Tomás Brenner** on helm.
-
-**Mira Thessaly** with slate sealed for transit encryption.
-
-**Felix Ortega** on listen watch— traffic thinning, Founders' Week harmonics gone, new old patterns ahead.
-
-**Yuki Tanaka** on emitters dark.
-
-**Jun Park** on buffers.
-
-**Damon Reyes** on the border line— Fleet notation approaching like a handwriting Calder had once trusted.
+**Tomás Brenner** on helm; **Mira Thessaly** with slate sealed for transit encryption; **Felix Ortega** on listen watch— traffic thinning, Founders' Week harmonics gone, new old patterns ahead; **Yuki Tanaka** on emitters dark; **Jun Park** on buffers; **Damon Reyes** on the border line— Fleet notation approaching like a handwriting Calder had once trusted.
 
 Calder stood at the rail one minute longer than procedure required.
 
@@ -680,7 +636,7 @@ Fleet Authority had crossed the border believing it had reached the edge of civi
 
 The *Kestrel* returned knowing civilization had been there all along— busy, ordinary, prepared, mournful, proud, patient.
 
-Calder said, quietly, "We came looking for the frontier."
+Calder said, quietly, "We came for the frontier."
 
 Pause.
 
@@ -694,13 +650,13 @@ The old girl reluctant and obedient at once.
 
 Nobody answered immediately.
 
-**Tomás Brenner**, without turning from helm: "The old girl will remember."
+**Tomás Brenner**, without turning from helm: "Hull remembers corridors. She'll remember this one."
 
 Calder rested a hand on the bulkhead— scarred plating, Koss's maintenance marks, four years of crew touch layered into the ship's bones.
 
 "So will we."
 
-Thessaly, aft: "Report sealed for transit. First review on your desk when we clear Fleet pickup."
+Thessaly, aft: "Report sealed for transit. First review on your desk at Fleet pickup."
 
 Calder nodded.
 
@@ -710,9 +666,11 @@ No words.
 
 Acknowledgment.
 
-**Tomás Brenner**, still at helm as Fleet space approached: "Smooth water ahead, Captain. She's earned it."
+When Ortega put the headphones back, his hands moved slower than usual— the way everyone's hands moved when trial geometry or Leviathan doctrine surfaced in memory without being named.
 
-Calder: "She earned us."
+**Tomás Brenner**, still at helm as Fleet space approached: "Smooth water ahead, Captain. Ring three earned it."
+
+Calder: "Did we earn her—or did she carry us?"
 
 The *Kestrel Veil* crossed back into Fleet space without announcement— damaged, professional, carrying segment seven in triple redundancy and ugly honest language and the melancholy of a farewell neither side had been allowed to speak aloud.
 
@@ -734,11 +692,7 @@ Not *will they survive*.
 
 *When*.
 
-**Ari Halden** on intercom, quiet: "Fleet pickup beacon in range in fourteen hours if we hold burn."
-
-"Acknowledged," Calder said.
-
-**Jun Park**: "Segment seven archived. Nothing left behind that matters."
+Halden reported Fleet pickup beacon in range in fourteen hours if they held burn. Calder acknowledged. Park confirmed segment seven archived— nothing left behind that mattered.
 
 Calder kept his hand on the bulkhead one breath longer.
 

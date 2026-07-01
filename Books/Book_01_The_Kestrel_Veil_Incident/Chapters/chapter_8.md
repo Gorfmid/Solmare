@@ -4,11 +4,11 @@
 
 The *Kestrel Veil* did not arrive at Kestran VI-Gamma so much as apologize her way into its shadow.
 
-With the main engines offline, the Kestrel relied on correction thrusters for propulsion, limping across the last leg at a snail’s pace.  It wasn't fast, it barely even qualified as movement, and it sure as hell wasn't pretty.  **Marco Reyes** made three correction burns that **Yuki Tanaka** called *embarrassing* and Reyes called *honest*. The scout listed two degrees to port. The hull creaked on each adjustment like an old door complaining about weather.
+With the main engines offline, the Kestrel relied on correction thrusters for propulsion, limping across the last leg at a snail’s pace.  It wasn't fast, it barely even qualified as movement, and it sure as hell wasn't pretty.  **Damon Reyes** made three correction burns that **Yuki Tanaka** logged as *outside tolerance* and Reyes called *honest drift math*. The scout listed two degrees to port. The hull creaked on each adjustment like an old door complaining about weather.
 
 On the command deck, lighting ran at day-cycle because someone in environmental had won an argument with a relay—but ring three still flickered when the scrubbers overworked, and the deck vibration under Calder's boots was wrong in a way his body had learned faster than any instrument.
 
-"Fringe contact in four minutes," **Jun Park** said from the buffer. His voice was relay-flat even on internal comm; he had spent thirty-eight hours sounding like a man reading someone else's timestamps. "VI-Gamma has us on approach lane two. Emergency berthing only. Six-hour window confirmed."
+"Fringe contact, four minutes." **Jun Park** said from the buffer. His voice was relay-flat even on internal comm; he had spent thirty-eight hours sounding like a man reading someone else's timestamps. "VI-Gamma. Approach lane two. Emergency berthing. Six-hour window, confirmed."
 
 Calder looked at **Mira Thessaly**. She had the transit slate open and the expression she wore when numbers were correct and circumstances were not.
 
@@ -20,11 +20,11 @@ Park keyed upstream. Four-second delay. **Dana Holt's** voice returned without w
 
 He did not add that the *Veil* matched drift the way a limping animal matched pace—eventually, with visible effort.
 
-**Tomas Brenner** on intercom, to no one in particular: "Lane two means they still trust us not to hit their array. That's optimism."
+**Tomas Brenner** on intercom, to no one in particular: "Lane two means their array still trusts our thrusters not to kiss their spine. That's a worn coupling holding."
 
 **Elara Koss**: "Lane two means they need us off their fringe before the next sweep block."
 
-"Same thing," Brenner said.
+"Same load rating," Brenner said.
 
 Calder listened and did not interrupt. The ship around him still smelled like scorch and hot duct—familiar now, wrong still. A runner had taped *DOES NOT SEAL* on a hatch that no longer met its frame. Someone else had written *YET* underneath in smaller letters.
 
@@ -34,11 +34,9 @@ Thessaly leaned toward Calder, voice low. "Cho's maintenance team is standing by
 
 "And the crew?"
 
-"Functional." Thessaly did not look at him when she said it. "Not rested. Walsh says do not confuse sitting down with sleeping."
+"Functional." Thessaly did not look at him when she said it. "Not rested. Walsh note on record: sitting down is not sleep."
 
-"Noted."
-
-Calder watched the watchpost grow in the forward display—not a station in the Fleet sense, a listening post with a hab ring and an array spine and an emergency collar grafted on like an afterthought. Cartography infrastructure. The kind of place that existed because someone had decided empty space still needed witnesses.
+"Noted." Calder watched the watchpost grow in the forward display—not a station in the Fleet sense, a listening post with a hab ring and an array spine and an emergency collar grafted on like an afterthought. "How long until liaison channel is stable enough for Brenner to argue with someone else's pin spacing?"
 
 The approach burn corrections had been ugly enough that Tanaka had logged each one with a comment column Reyes asked her to leave blank. She had left one word on the last entry: *survived*. Calder had seen it and not corrected her.
 
@@ -128,23 +126,13 @@ Calder felt the first latch contact as a shudder through the collar hardpoint—
 
 Not a yard. Not home. A place to stop before the dark.
 
-"Contact," Reyes said.
-
-"Latch engaging," Tanaka said.
-
-Three seconds of vibration Calder felt in his teeth. The scout's list shifted a fraction as the collar took weight it had not been designed to love.
-
-"Latch green," Reyes said. "Relative drift within tolerance."
-
-"Tolerance is generous," Tanaka murmured.
-
-"Tolerance keeps us alive," Reyes said.
+Reyes called contact; Tanaka engaged the latch. Three seconds of vibration Calder felt in his teeth as the scout's list shifted a fraction and the collar took weight it had not been designed to love. Latch green, relative drift within tolerance—generous tolerance, Reyes said, but tolerance kept them alive.
 
 Through the collar viewport Calder saw station techs already moving—cable coils, filter crates, a relay housing on a cart. Cho stood at the center of it with a slate and the expression of a woman who had mothered too many wounded hulls to be surprised by another one.
 
 No one on the gantry waved. Two techs watched the scout settle into the collar the way medics watched a patient sit down—measuring whether the movement would hold.
 
-**Ari Halden** on defensive: "Local space clean. Station read only. No tactical concerns beyond our own hull integrity."
+**Ari Halden** on defensive: "Local space clean. Station read only."
 
 That was Halden's version of *welcome*.
 
@@ -168,7 +156,43 @@ Everything they had.
 
 "Copy," Brenner said, in a tone that promised nothing.
 
-Calder took the transit tube to the collar level because the lift argued with the port list and lost. In the access bay he passed **Lieutenant Commander Sade Okwelu** coordinating clinic transfers—Hale first, two others who had been pretending minor burns were minor.
+Calder took the transit tube to the collar level because the lift argued with the port list and lost.
+
+---
+
+For thirty-eight hours Thessaly had been the membrane between Calder and the deck, the deck and Fleet, injury summaries and relay confirms—every gap filled before anyone asked.
+
+Now the latch was green. Cho's window was open. The handoffs held: liaison channel live, berth logged, Park on relay, Halden on local.
+
+Upstream, Fleet had corrected the hull-loss line on the transit slate—the same procedural calm as a weather update. Thessaly had marked it final. She did not read it twice.
+
+She was no longer immediately needed on the command deck.
+
+She took the officer passage to her cabin. Closed the door. Engaged the lock.
+
+Officer berthing smelled like overheated duct and the same list the collar had taken. Quieter than the bridge. No relay cadence in the walls.
+
+The cost of holding everyone else together was invisible. It was supposed to be.
+
+Then, quietly, without drama, Mira Thessaly cried.
+
+Not sobbing. Not performance. Tears that had waited because the executive officer did not permit them on the bridge. She sat on the edge of her bunk and did not make a sound the pass-through crew could have heard through the hatch seal.
+
+When they stopped, she washed her face at the narrow sink. Cold water. One towel. Enough.
+
+The bridge still needed an executive officer. Mira Thessaly opened the door.
+
+She straightened her uniform. Checked herself in the mirror the way she checked any system before returning it to service.
+
+Then she returned to the bridge. Liaison slate open before she sat down.
+
+Nobody noticed.
+
+Nobody commented.
+
+---
+
+In the access bay Calder passed **Lieutenant Commander Sade Okwelu** coordinating clinic transfers—Hale first, two others who had been pretending minor burns were minor.
 
 "Captain," Okwelu said. "Borrowed time. I'll get you people back on the board without bandages where the board can see them. I won't get you people rested."
 
@@ -192,11 +216,11 @@ VI-Gamma's emergency berthing ring was a metal collar and a maintenance crawlway
 
 **Station Chief Maintenance Officer Renata Cho** met Brenner at the collar with a toolkit and the face of a woman who had already read the damage summary and chosen pragmatism over optimism.
 
-"Six hours," Cho said. "We don't have a yard. We have spares, cable, filters, and two technicians who owe me favors. You don't get miracles. You get help."
+"Six hours," Cho said. "No yard. Spares, cable, filters, and two technicians who owe me favors. You get help—not miracles."
 
 Brenner looked at the station-grade cable coils. "Helpful is not the same as compatible."
 
-"No," Cho said. "But it's what you've got."
+"No," Cho said. "But it's what you've got until you don't."
 
 Behind Brenner, **Elara Koss** was already comparing junction pinouts with a station tech half her age. **Hargrove** carried a borrowed relay housing like it might bite. Cole ran patch line between the scout's fringe node and a temporary amplifier Cho's team bolted to the collar—Cartography standard, not Fleet, not *Veil*, good enough for the stopover's shouting into the void through Holt's board.
 
@@ -230,7 +254,7 @@ Through the collar hatch Calder saw Brenner on his back under a junction while K
 
 "Ugly holds," Eban said.
 
-"So does duct tape," Koss said. "We're choosing our religion."
+"Duct tape holds within tolerance band," Koss said. "Specify interface spec before you marry it."
 
 Brenner slid out. Saw Calder. "Captain. Helpful is not the same as compatible."
 
@@ -248,67 +272,35 @@ Brenner grunted. Went back under the junction.
 
 Cho, beside Calder: "He's fun."
 
-"You have no idea," Calder said.
+Calder nodded once. "You have no idea."
 
 ---
 
-Hour one through four belonged to duct tape theology.
+Hour one through four belonged to duct tape theology—insulation from station stores, borrowed relays in ring three, couplers that fit almost, Cho's team sharing tools while Brenner shared coffee smuggled from the scout galley because station coffee tasted like administrative regret.
 
-Station relays borrowed into ring three because the *Veil's* own housing had cracked during the bloom. Emergency power couplers that fit *almost*—Koss swore at the pin spacing while a VI-Gamma tech named **Eban** held a light and said nothing useful but stayed.
+Calder came down twice—to be seen, not to supervise. Brenner worked faster when the captain was visible and complained more when he was, which Cho said was universal.
 
-Insulation rolls from station stores wrapped around a duct that had no business being exposed. Environmental filters swapped into loops two and three—mismatched part numbers, matched airflow, Brenner refusing to call it an improvement until Koss logged a half-degree stabilization and even then said *maybe*.
+"You Fleet people," Cho said. "You think presence fixes pin spacing."
 
-Cho's team shared tools. Hargrove shared opinions. Brenner shared coffee he had smuggled from the scout galley because station coffee tasted like administrative regret.
-
-Calder came down to the collar three times before undock—not to supervise, to be seen. Brenner worked faster when the captain was visible and complained more when he was, which Cho said was universal.
-
-"You Fleet people," Cho told Calder on the second visit. "You think presence fixes pin spacing."
-
-"Cartography people think paperwork fixes pin spacing," Calder said.
+"Does it?"
 
 "Paperwork fixes audits," Cho said. "Pin spacing fixes pins."
 
-On the third visit Calder found Koss and Eban seated on either side of a junction like surgeons who disagreed about anatomy.
+Brenner surfaced from environmental three. "Station filter. Wrong shape. Right airflow. Guest until we find a yard."
 
-"If we force the coupler," Koss said, "ring four holds through the forces from the correction thrusters. If we force it wrong, ring four becomes a fireworks show."
+Cho checked in each hour—"What do you still need?"—and Brenner's list grew shorter and never went away. Calder signed strip log additions without calling them repairs. Thessaly filed them under *materials borrowed* and *not hull certification*.
 
-"Don't force it wrong," Calder said.
-
-"Encouraging," Koss said. "Write that in the log."
-
-Brenner slid out from under a panel. "Captain. Station filter in environmental three. Wrong shape. Right airflow. I'm calling it a guest. Guests leave eventually."
-
-"When?" Calder asked.
-
-"When we find a yard or a miracle," Brenner said. "Don't schedule either."
-
-Calder signed Cho's strip log additions without calling them repairs. Thessaly copied the list into the transit annex under *materials borrowed* and *not hull certification*.
-
-Park tested the collar amplifier every hour. Holt confirmed readability upstream—*readable*, four seconds later, never *good*. Halden on the command deck heard *better* and did not comment because comment was noise.
-
-"You're grateful," Koss said at one point, under a panel.
-
-"I'm irritated," Brenner said. "Grateful is what you feel when irritation works."
-
-Hour two: Walsh in the station clinic block with Hale while she told a VI-Gamma medic that Fleet burn protocol and Cartography burn protocol were the same argument with different paperwork. Hale sat on the table and did not flinch when Walsh worked—much.
-
-Hour three: Hargrove and Eban rewiring a bypass that neither manual approved of and both signed off on because the alternative was worse. Brenner watched without commenting, which Koss said was his version of applause.
-
-Hour four: environmental filters seated wrong but seated. Temperature in aft berthing dropped one degree—Walsh called it *insufficient* and *better than yesterday* in the same sentence. Kevin logged hot meal service from station galley for off-cycle crew and did not ask permission from a board that still lied half the time.
-
-Cho checked in once per hour. No optimism. No speeches. Just: "What do you still need?" and Brenner answering with a list that grew shorter and never went away.
-
-"Emergency power coupler on ring four," Brenner said at one point. "Station part. Wrong color. Right function. I'm calling it a marriage."
-
-"Don't call it compatible," Cho said.
-
-"Wouldn't dream of it," Brenner said.
+Walsh fought clinic paperwork in hour two. In hour four, aft berthing cooled one degree; Kevin logged hot meals from station galley. Park tested the collar amplifier on schedule; Holt confirmed *readable*, four seconds later, never *good*.
 
 ---
 
 Off-cycle came in fragments—not rest, but gaps.
 
-**Kevin** had negotiated stew from the station hab galley—real heat, real salt, the kind of meal that reminded your stomach you had survived instead of merely continuing. Crew ate in the collar access bay because the forward mess on the *Veil* was still sealed and wrong.
+**Kevin** had negotiated stew from the station hab galley—real heat, real salt, the kind of meal that reminded your stomach you had survived instead of merely continuing. He set the trays himself and watched who actually ate.
+
+"Eat while it's hot," Kevin said, quiet, to no one in particular. "Cold stew lies about recovery."
+
+Crew ate in the collar access bay because the forward mess on the *Veil* was still sealed and wrong.
 
 A technician named **Pell** from ring maintenance fell asleep mid-sentence across a crate, fork still in hand. Hargrove draped a jacket over him and said to no one, "He earned it." Nobody woke him for twenty minutes.
 
@@ -326,57 +318,31 @@ Halden ate.
 
 "Lights hurt," Ortega admitted, when Calder sat across from him long enough to make silence a question.
 
-"Then keep them low on the deck when we're back underway," Calder said.
+"Afterimage from bloom exposure?"
 
-"Aye, sir."
+"Yes, sir. Walsh logged it. I reported fine—offset error on my part."
+
+"Keep deck lighting low when we're back underway," Calder said.
+
+"Aye, sir." Ortega touched the strip in his breast pocket without looking. "Logged the offset too."
 
 Reyes sat in the station observation blister with a tea he didn't drink, charts on his slate he wasn't updating, eyes on the scout's silhouette against the array. Tanaka found him there and sat without speaking.
 
-"They look small from here," Tanaka said finally.
+"Small profile," Tanaka said finally.
 
-"They look small everywhere," Reyes said. "We just forget until we see them from outside."
+"Hull profile's wrong on external fix—two-degree list," Reyes said. "Drift solution agrees. Doesn't help the drift solution."
 
-Halden tried to read a station news summary. Gave up after two paragraphs because every word wanted to become a threat assessment. She walked three laps of the berthing ring instead and ended up in the observation blister doorway watching local space like it owed her money.
+Halden tried to read a station news summary. Gave up after two paragraphs because every word wanted to become a threat assessment. She walked three laps of the berthing ring and ended up in the observation blister doorway watching local space—the station array clean and full, her own suite at ten percent rebuild feeling like a toy.
 
-She had run tactical at ten percent local rebuild and called it *functional*. She knew what functional meant on a scout that had nearly died—enough to shoot, not enough to trust. The station array above her was clean and full and made her own suite feel like a toy. She did not say that to anyone. She filed it where fear lived and kept watching the black.
+Thessaly took the stopover to update transit logs, injury summaries, and relay confirm tokens. She ate while standing.
 
-Thessaly took the stopover to update transit logs, injury summaries, and relay confirm tokens. She ate while standing. She answered questions in complete sentences. She did not leave herself a gap.
-
-Calder found her in the liaison alcove reviewing the independent transit amendment.
-
-"You should sit," he said.
-
-"I am sitting," Thessaly said—standing, technically, but her weight was on one hip against the console in the closest thing she allowed.
-
-"You know what I mean."
-
-"I know." She did not look up. "The margin is not enough for me either. It's enough for the log."
-
-Calder watched it all the way a captain watched weather—measuring what was coming by what people did when they thought no one was measuring.
-
-The margin was not enough to heal anyone.
-
-It was enough to remind them they had bodies.
-
-And that bodies were not the same as ready.
+Calder found her in the liaison alcove reviewing the independent transit amendment. "Margin insufficient for recovery," she said without looking up. "Sufficient for transit annex." He did not argue. The margin was not enough to heal anyone. It was enough to remind them they had bodies.
 
 Calder found Brenner in the collar bay at hour four, eating stew from a station bowl and reading Cho's strip log like scripture.
 
-"Six hours ends in ninety minutes," Calder said.
+"Ninety minutes," Calder said.
 
-"I can count," Brenner said.
-
-"What do you need before we leave?"
-
-Brenner considered. "For Fleet not to call us ready. For Koss to stop pretending station couplers are a personality. For the list to go away." He paused. "I'll settle for the first one."
-
-"Rowan already said it."
-
-"Rowan's smarter than Fleet average." Brenner set the bowl down. "Captain—Cho's people did good work. Good work isn't repair. When we leave, we're patched. When we hit seven-alpha, we're alone. Don't forget which is which."
-
-"I won't."
-
-"Good." Brenner picked the bowl up again. "Park's in the relay bay talking to Holt without pretending it's procedure. Leave him there until Fleet pings."
+"I can count," Brenner said. He set the bowl down. "Cho's people did good work. Good work isn't repair." He picked the bowl up again. "Park's in the relay bay talking to Holt without pretending it's procedure. Leave him there until Fleet pings."
 
 Calder left him there.
 
@@ -508,7 +474,7 @@ She nodded once. He stood. At the hatch he stopped.
 
 "Go fix your ship," she said. "It's still listing."
 
-"It matches me," Park said.
+"List matches attitude bias on the buffer," Park said.
 
 "That's not a compliment."
 
@@ -566,7 +532,7 @@ Pause. Relay delay. Then:
 
 "Beyond fringe range you will have no station relay. Fleet contact resumes only when you return to relay geometry or when Cartography receives transmittable buffer. No rescue guarantee in corridor seven-alpha. Acknowledge."
 
-Calder looked at the collar hatch, the patched relay, the list in the deck.
+Calder looked at the collar hatch, the patched relay, the list in the deck—and at bearing two-one-four mark six on the slate Reyes had already folded into the transit annex. The corridor was the same family. He had known that before Rowan finished speaking.
 
 "Acknowledge," he said. "We copy independent transit. Observe, investigate, no engagement unless necessary."
 
@@ -586,37 +552,21 @@ In engineering, Brenner heard the orders on relay delay and said to Koss, "Fleet
 
 "Fleet wants miracles," Koss said.
 
-"Fleet wants data," Brenner said. "Wrong department."
-
-No speech. No blessing. Just the understanding that they were being sent back toward the thing that had nearly killed them because they were the only crew who had seen it and returned.
+"Fleet wants a gauge reading," Brenner said. "Wrong gauge."
 
 Calder did not comment. Thessaly did not either. That was new, or newly honest.
 
-Rowan's words had landed the way orders always landed on a wounded ship—clear, unadorned, impossible to pretend you had not heard. *Go back toward the thing that nearly killed you.* Calder had signed worse postings in his career. He had never signed one where the crew sitting on his deck had already met the thing waiting ahead.
-
-On the command deck, Halden said nothing and watched local space anyway. Reyes folded the orders into nav geometry without ceremony. Brenner on intercom, one sentence only: "Patched and leaving. Don't call us ready."
-
-Calder heard every word and signed nothing that said *recovered*.
+On the command deck, Halden watched local space. Reyes folded the orders into nav geometry. Brenner on intercom: "Patched and leaving. Don't call us ready."
 
 ---
 
 Departure felt heavier than arrival.
 
-The six-hour margin had expired the way margins always expired—not with a bell, with Cho saying *you're out of my collar* and Brenner saying *we're out of your cable* in the same minute.
+The six-hour margin expired without a bell—Cho saying *you're out of my collar* and Brenner *we're out of your cable* in the same minute.
 
-Cho's team pulled borrowed cable and labeled everything the *Veil* kept. Koss signed for mismatched filters like a woman signing for strangers at her door. Brenner walked the collar once more and touched a station relay housing he would not take.
+Cho's team pulled borrowed cable. Koss signed for mismatched filters. Brenner walked the collar once and touched a relay housing he would not take. Walsh cleared Hale for full defensive rotation—*limited* on the chart, *don't push it* in the tone. Kevin loaded the last hot meal containers from station galley and did not call it a victory.
 
-Walsh cleared Hale for full defensive rotation with a note that said *limited* and a tone that said *don't push it*. Ortega collected his passive rebuild logs on a slate he held like something fragile. Kevin loaded the last hot meal containers from station galley into environmental storage and did not call it a victory.
-
-Calder walked the ring passage one last time—patched duct, borrowed coupler, flicker in ring three, list in the ankles.
-
-Patched.
-
-Not ready.
-
-Going anyway.
-
-Cho met him at the collar hatch.
+Cho met Calder at the collar hatch.
 
 "You got six hours," she said.
 
@@ -624,183 +574,57 @@ Cho met him at the collar hatch.
 
 "Same thing." Cho handed him a signed strip log. "Don't tell Fleet I made your life better. Tell them I made your death slightly less likely for the next day."
 
-Calder looked back through the collar one last time—station cable in the walls, borrowed filters in environmental, Brenner's handwriting on a junction panel where Fleet labels should have been. Patched. Named honestly. Leaving anyway.
-
 "I'll use those exact words," Calder said.
 
 "Please don't," Cho said.
-
-"Helpful is not the same as compatible," Brenner said from behind them, to Cho.
-
-"You said that already," Cho said.
-
-"Worth repeating."
 
 Calder thanked Cho in the administrative way that meant *we owe you* without currency to pay it. Cho nodded like she had heard that from every wounded scout Cartography ever mothered for one collar window.
 
 On the watchpost floor, Nand tracked latch release. Holt watched the viewport.
 
-The *Veil* un-docked with a creak that sounded like the collar regretted letting go.
+The *Veil* undocked with a creak that sounded like the collar regretted letting go. No one cheered. Two maintenance techs watched from the gantry—one raised a hand. Acknowledgment, not salute.
 
-No one on the station cheered.
+Park remained at the buffer until fringe geometry made warm range a countdown—burn notice, course overlay for seven-alpha, emissions discipline in Fleet language that meant *be quiet or die*.
 
-Two maintenance techs watched from the ring gantry. One raised a hand—not salute, not wave. Acknowledgment.
-
-Park remained at the buffer until fringe geometry made the question theoretical.
-
-The last hours at VI-Gamma had been queue and confirm tokens, Holt's voice upstream, Mercer's voice downstream, Cho's cable in the walls, stew in the access bay, Walsh's clinic block, Brenner's insults to station parts that worked anyway.
-
-Now Park watched the relay meter the way Reyes watched stars—afraid to look away.
-
-"Signal holding," he said.
-
-"Copy," Holt said.
-
-"Signal holding."
-
-"Copy."
-
-Minutes. Relay confirm tokens. Burn notice. Course overlay for seven-alpha approach—observe lane, emissions discipline noted in Fleet language that meant *be quiet or die*.
-
-Calder stood on the command deck and did not make a speech. Thessaly ran the checklist. Brenner ran ring five. Koss ran numbers. Walsh ran boards.
-
-Park's voice, lower: "Dana."
+"Dana."
 
 "Jun."
 
-"Last warm range in three minutes."
+"Warm range, three minutes."
 
-"I know."
-
-Silence. Not static—working silence. Then:
-
-"Don't be an idiot," Holt said.
-
-"I'll try," Park said.
+"Don't be an idiot."
 
 "Try harder."
 
-"I know."
+"Acknowledged."
 
-The signal dropped on the next confirm cycle—not drama, not cut off mid-word. Just the ordinary loss of voice when range exceeded geometry.
+The signal dropped on the next confirm cycle—ordinary loss of voice when range exceeded geometry. Park logged the drop and switched to local monitoring.
 
-Park sat at the buffer with his headset down for five seconds. Then he logged the drop and switched to local monitoring only.
-
-On the watchpost, Holt did not leave the board.
-
-Nand, quietly: "They're gone from relay."
-
-"Mark it," Holt said.
-
-She marked it. The sweep continued. The void on the board was still there from the discharge. The friendly return was moving away from her now—damaged, patched, alone.
-
-Priya had been tracking the signal decay curve since Park first keyed burn notice. She watched the last confirm token fail to echo and said nothing Holt didn't already know.
-
-"Personal lane closed," Nand said, after a beat. "Fleet queue only from here."
-
-"Copy." Holt did not look away from the viewport. Jun Park's voice was gone from her ear. The job remained.
-
-Holt opened the next relay slot because the board always needed the next relay slot. Nand ran sweep eleven without being asked. Partner.
-
-Cho's team watched from the gantry until the scout's thermal bloom faded into distance and memory.
-
-No one applauded.
+On the watchpost, Holt marked relay gone. Nand ran sweep eleven without being asked. Partner.
 
 ---
 
-The second half of the watch belonged to silence discipline.
+Thessaly posted running dark without naming it—lowered lighting, nonessential channels muted, status on schedule. Boots soft. Voices low. Brenner tested the no-chatter rule once with a joke about ring three; Koss answered with a thermal reading and he did not joke again.
 
-Calder had Thessaly post running dark procedures without calling them that—lowered lighting on the command deck, nonessential intercom channels muted, status calls on schedule instead of appetite. No casual chatter. Even Brenner's intercom presence reduced to numbers when numbers were required.
+The *Veil* moved on correction thrusters through approach geometry Tanaka had marked in three colors. Cho's borrowed filters sat in environmental like guests. Park's collar amplifier fell behind them with every kilometer.
 
-Running dark on a wounded scout was not a system—it was behavior. Boots soft on metal. Voices low. Fear named privately and filed where it could not become transmission.
+Reyes called manual confirms; Tanaka answered. Halden called local sweeps; Hale answered. Ortega ran passive rebuild loops that failed with polite errors. Calder stood at the rail and kept his hands still.
 
-Silence was discipline. Absence was what the board showed after a bloom. Calder did not want absence again.
+Approach lane seven-alpha narrowed—the throat from charts, pressure from memory. Calder remembered bearing two-one-four mark six the way you remembered a sound in a house at night.
 
-"Passive rebuild at four percent," Ortega said when Calder asked—not because passive was useful yet, but because asking too often was a form of noise.
+Segment three on manual nav. Ortega adjusted gain by a fraction Calder would not have seen from the rail.
 
-Halden: "Local space empty."
-
-Reyes: "Manual route segment one holding."
-
-Park: nothing, when Calder looked at him—because saying *all quiet* would have been a transmission habit and Park was done with habits that cost range.
-
-The *Veil* moved on correction thrusters through the approach geometry Tanaka had marked in three colors and Reyes treated like scripture written in pencil. Life support still ran warm aft. Scrubbers still cycled loud. Lights still flickered in ring three. Cho's borrowed filters sat in environmental like guests. Park's collar amplifier was behind them now—range falling with every kilometer.
-
-They were patched. They were not ready. They were alone.
-
-Calder ran status every eleven minutes—Park's schedule when Park was anxious, and Park was right about some things. Thessaly stood beside him once during segment two without speaking. Her slate had marks—Ortega, Hale, Reyes—and Calder had learned to read them.
-
----
-
-Segment two took forty minutes that felt like four hours.
-
-Reyes called manual confirms. Tanaka answered. Halden called local sweeps. Hale answered. Ortega ran passive rebuild loops that failed with polite errors and did not apologize because apologizing was noise.
-
-Brenner had tested the no-chatter rule once in the first hour after undock with a joke about ring three's personality. Koss had answered with a thermal reading. Brenner had not joked again.
-
-Calder stood at the rail and kept his hands still.
-
-"Ortega," Thessaly said, once, on internal—low volume.
-
-"Here," Ortega said.
-
-"Water. Then back."
-
-"Copy."
-
-Thessaly did not explain. Calder did not ask.
-
-Brenner on intercom, minimum volume: "Ring three flicker again. Not failure. Insult."
-
-Koss: "Logged insult."
-
-Park at the buffer with empty upstream lanes and hands that wanted to key something anyway. He did not. Calder watched him not key it and felt the cost of silence in a man built to carry other people's voices.
-
----
-
-Approach lane seven-alpha narrowed the way a throat narrowed—geometry from charts, pressure from memory.
-
-Calder remembered bearing two-one-four mark six the way you remembered a sound in a house at night—not clearly, not safely, enough to keep you awake.
-
-No decloak. No bloom. No passive lock. Nothing on Ortega's rebuild that stayed on the board long enough to call contact. Empty was what they had last time until it wasn't.
-
-Segment three began on manual nav—Reyes breathing once, Tanaka confirming, Halden watching empty space like it might blink.
-
-"Segment three," Reyes said. Voice low. "Manual confirm."
-
-Tanaka: "Confirmed."
-
-Ortega ran passive again. The loop failed. He adjusted gain by a fraction so small Calder would not have seen it from the rail.
-
-"There," Ortega said—barely a word.
+"There." Ortega barely breathed the word.
 
 Halden: "Ortega."
 
-"False return. Band noise. Gone now." Ortega did not look up. "Logged as noise."
+"False return. Band noise. Doesn't repeat—logged as noise."
 
-Calder filed that without comment.
+Park logged them out of VI-Gamma relay range. The board went quiet the way a room went quiet when the last phone call ended.
 
-Park, without looking up: "Out of VI-Gamma relay range logged. No upstream path."
-
-The board went quiet the way a room went quiet when the last phone call ended.
-
-Calder looked around the deck—Thessaly present, Halden on tactical, Hale watching local space, Ortega's failed passive loop running again, Reyes breathing once before the next segment, Park with nothing to say because saying anything would be wrong.
-
-They had crossed from recovery into risk.
-
-Crawling seven-alpha on correction thrusters was restraint made physical. Brenner held ring five at the lowest fraction that still let Reyes steer. Cole walked pass-throughs with soft-soled boots because someone had posted *noise is emissions* on intercom and nobody had taken it down.
-
-"Segment five boundary," Reyes said. "Seven-alpha approach edge. Manual confirm."
-
-Tanaka: "Confirmed."
-
-Halden: "Local empty."
-
-Ortega: "Noise floor only. No contact."
+Reyes called segment five boundary at the seven-alpha approach edge; Tanaka confirmed. Halden reported local empty; Ortega saw noise floor only.
 
 The *Kestrel Veil* crossed the approach edge quiet, damaged, and alone.
-
-Calder did not say *we're back*. No one on the deck did. They had been here before—in this bearing family, in this silence, in this professional fear that had a name now and still no clean sensor return.
 
 The dark ahead was no longer empty.
 

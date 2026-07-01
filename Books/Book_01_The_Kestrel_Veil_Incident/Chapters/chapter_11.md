@@ -129,7 +129,7 @@ Segment seven, day four.
 
 **Felix Ortega** had learned to hear the corridor the way musicians heard keys— not individual notes, but expectation. When the key changed, you noticed even if you could not name the chord.
 
-"Passengers," he said.
+"Passengers." Ortega kept his voice level.
 
 **Calder Venn** was already moving.
 
@@ -137,25 +137,19 @@ Segment seven, day four.
 
 "Short-range transports. Multiple. Low mass. Low power. Cabin lighting profiles—" Ortega scrolled, frowning at beauty he could not afford to admire. "Life support cycling for bodies, not ore. Repetition interval suggests scheduled service, not expedition."
 
-**Marco Reyes** pulled bearings before Calder asked. His hands were steady. His eyes were not.
+**Damon Reyes** pulled bearings before Calder asked. His hands were steady. His eyes were not.
 
-"Confirm passive only," Calder said.
+Calder confirmed passive only—Tanaka from emitters, Hale from defensive, no illumination—and Ortega added returns in tight spacing on geometry familiar to everyone except the people who had drawn Fleet charts with empty boxes.
 
-"We're passive only," **Yuki Tanaka** said from emitters. "We're always passive only."
-
-"No illumination," **Marcus Hale** said from defensive.
-
-Ortega added another return. Then another. Spacing tight. Geometry familiar to everyone except the people who had drawn Fleet charts with empty boxes.
-
-"School window," Ortega said, almost reluctant. "Maybe. Mass clustering consistent with—" He stopped. "With commute."
+"School window," Ortega said, almost reluctant. "Mass clustering interval matches scheduled service. Repetition pattern suggests commute, not expedition."
 
 Reyes stared at the plot.
 
-"They're not military."
+"No escort geometry. No warship bearing family."
 
 "No."
 
-"They're not covert."
+"Power profile's too honest for covert—scheduled spacing, not drift."
 
 "No."
 
@@ -175,13 +169,13 @@ He heard schedule.
 
 **Mira Thessaly** appeared at Calder's shoulder without hurry. "Classification?"
 
-"Civilian traffic pattern," Ortega said. "Unknown registry. Known behavior."
+"Civilian traffic pattern," Ortega said. "Registry unknown. Behavior known. Same inconsistency Fleet charts have been carrying for years—we just hadn't seen the other side of it."
 
 "Behavior is enough," she said.
 
 **Jun Park** logged timestamps to segregated buffer. No upstream. No path home. Only local truth accumulating like debt.
 
-Park said, without looking up, "Reyes—your merge overlay matches Ortega's third return cluster. I sent you the correlation on internal. Might save you four minutes."
+Park said, without looking up, "Merge overlay correlation on internal. Ortega cluster three matches Reyes bearing family. Four minutes saved if you use it."
 
 Reyes glanced over. "Noted. Thanks."
 
@@ -195,25 +189,25 @@ Just people going to work.
 
 **Ari Halden** on the threat board: "No threat signature."
 
-"Agreed," Calder said. "That's not the point."
+"Agreed," Calder said. "But is that the point—or are we in their hallway?"
 
 Halden looked at him. Calder did not elaborate. Halden nodded once— a junior officer learning that absence of weapons was not absence of meaning.
 
 Reyes, still at navigation: "If they commute, they live here."
 
-"If they live here," Thessaly said, "we were never first."
+"If they live here," Thessaly said, "Fleet occupancy record is incorrect. Coordinates stand."
 
 Calder felt the old doctrine sit wrong in his chest again— not with anger, with humility. The kind that arrived late and stayed.
 
-**Mira Thessaly** did not offer comfort. She offered inventory. "If they're commuting, they have destinations. Destinations imply stations. Stations imply budgets. Budgets imply—"
+**Mira Thessaly** did not offer comfort. She offered inventory. "Commute pattern implies destinations. Destinations imply stations. Stations imply budgets on record somewhere we haven't read."
 
-"History," Calder said.
+"History—is that what we're looking at?" Calder said.
 
-Thessaly met his eyes. "Yes."
+Thessaly met his eyes. "Logged."
 
-**Marcus Hale** from defensive, almost apologetic: "No threat geometry doesn't mean no traffic control. They could merge us if we lit up."
+**Marcus Hale** from defensive, almost apologetic: no threat geometry didn't mean no traffic control—they could merge the *Veil* if she lit up.
 
-"Which is why we won't," Calder said. "Hale, keep rotation limit sacred. I'd rather be blind than visible."
+"Rotation limit holds," Calder said. "Blind over visible."
 
 "Aye, sir."
 
@@ -306,43 +300,33 @@ Calder called it a discussion because *briefing* sounded like Fleet and Fleet wa
 
 Reyes at one end of the table. Ortega with printouts he should not have printed but had anyway because some truths needed to exist off-screen. Thessaly with slate closed for once— listening, not recording, which for her was intimacy. Halden with infrastructure overlays. Park with buffer integrity. Tanaka on emitter confirmation. Hale on rotation limits because Hale was always on rotation limits.
 
-**Lena Walsh** brought coffee without being asked and did not stay. **Kevin** left trays. Nobody ate. Kevin left them anyway.
+**Lena Walsh** brought coffee without being asked and did not stay. **Kevin** left trays. **Pell** took one and ate standing at the hatch—ring maintenance did not sit on this watch anymore. Kevin left the rest anyway.
 
 On the bulkhead display, relay geometry stacked by apparent age— not Fleet dating, which was guesswork, but maintenance layering, upgrade cadence, spacing discipline.
 
 Halden traced a node with her stylus. "This relay cluster— passive returns suggest three major refurbishment cycles. Possibly four. Spacing between upgrade bands implies continuous operation across centuries, not decades."
 
-"Fleet surveys marked this volume *un surveyed*," Reyes said.
-
-"Fleet surveys marked it empty because empty was easier to fund," Thessaly said.
+Reyes said Fleet surveys had marked this volume *un surveyed*; Thessaly answered that Fleet surveys marked it empty because empty was easier to fund on the annex line.
 
 No one argued.
 
 That was new— not agreement, but the absence of reflex contradiction. Calder noticed because captains noticed crew texture the way engineers noticed metal fatigue.
 
-Ortega: "Listening watch correlates maintenance windows with traffic peaks. They don't maintain for war drills only. They maintain for Tuesday."
-
-Reyes: "Lane geometry implies expansion from core outward. We assumed outward expansion was ours."
-
-"Instead," Halden said, carefully, "someone else expanded first."
+Ortega said listening watch correlated maintenance windows with traffic peaks—they didn't maintain for war drills only, they maintained for Tuesday. Reyes saw lane geometry implying expansion from core outward; they had assumed outward expansion was theirs. Halden, carefully: someone else had expanded first.
 
 Silence held.
 
 Not dramatic silence. Professional silence— the kind that followed when a hypothesis survived first contact with adults in a room.
 
-Calder said, "Fleet history isn't wrong everywhere."
+Calder said Fleet history wasn't wrong everywhere.
 
-Thessaly: "It doesn't have to be wrong everywhere to be wrong here."
+Thessaly answered that it didn't have to be wrong everywhere to be wrong here. She wrote that on the slate.
 
-Park: "Nothing upstream."
-
-"Nothing upstream," Calder agreed. "So local truth is all we have."
+Park confirmed nothing upstream. Calder agreed: local truth was all they had.
 
 Reyes looked at the overlay— arteries, merge lanes, passenger windows, freight classification bands, service nodes older than the *Veil* and younger in their upgrades than any frontier install Fleet had catalogued.
 
-"We assumed expansion," he said.
-
-"And we assumed absence meant absence," Ortega said.
+They had assumed expansion, Ortega said, and assumed absence meant absence.
 
 Halden: "Absence of evidence."
 
@@ -352,9 +336,15 @@ Thessaly wrote the sentence down.
 
 Nobody made a speech.
 
-**Damon Reyes** spoke like a navigator, not a philosopher: "If their history is deeper than our charts, our doctrine is a recent arrival with loud engines."
+**Yuki Tanaka** had been quiet through the stack review—colors on her slate, emitter margin in red she had not raised yet. Calder looked at her once. "Tanaka."
 
-Calder nodded. "Then we observe like recent arrivals. Quietly."
+"Emitter hold is the clock," she said. "Not authorization. Not debate. We can listen until passive bleeds us dry or we rotate emitters on schedule. Schedule is shorter than courage."
+
+Thessaly wrote *emitter clock* beside *Tuesday*.
+
+**Damon Reyes** spoke like a navigator, not a philosopher: "If their lane geometry predates our charts, we're not exploring. We're trespassing with loud engines—and I'm the one steering."
+
+Calder nodded. "Observe. Quiet."
 
 Ortega had been quiet through most of the discussion— unusual for a man who lived in waveforms. When he spoke, everyone turned.
 
@@ -364,13 +354,7 @@ Thessaly: "Write Tuesday down. Fleet will need the word."
 
 Calder listened more than he spoke now. He heard maturity in small things: Reyes thinking in corridors instead of duels, Ortega hearing operators instead of enemies, Halden dating infrastructure instead of threat boards, Park stitching correlations without being asked, Brenner treating handshake lag as weather instead of betrayal.
 
-Brenner's voice on intercom, flat: "Captain—ring three handshake nominal. Environment load steady. Whatever's out there, the corridor still knows we're borrowing it."
-
-"Acknowledged," Calder said.
-
-He did not add *thank you*.
-
-Brenner would hear it anyway.
+Brenner on intercom reported ring three handshake nominal, environment load steady—whatever was out there, the corridor still knew they were borrowing it. Calder acknowledged without thanks; Brenner would hear it anyway.
 
 ---
 
@@ -454,7 +438,7 @@ That was how civilizations endured.
 **KESTREL VEIL — COMMAND DECK**  
 **SILENT CROSSINGS**
 
-Hour twenty-two, segment seven.
+Mission +22:00, segment seven.
 
 The overlay had stopped being a map and become a census without names.
 
@@ -524,8 +508,6 @@ Calder said, quietly, "We thought we crossed a border."
 
 Pause.
 
-The scrubbers cycled.
-
 Ortega's loop murmured in its alcove— controllers tired, freighters late, children somewhere singing off-key for Founders' Week.
 
 Calder said, "I think we've crossed into history."
@@ -538,9 +520,9 @@ Nobody answered immediately.
 
 Calder nodded once.
 
-Orders unchanged— observe, investigate, do not engage, stay passive, stay alive, learn what Fleet would have to know when there was finally a path to tell it.
+Orders unchanged— observe, investigate, do not engage, stay passive, stay alive.
 
-Reyes kept his hands on the plot but did not chase returns. Ortega kept listening. Park kept stitching correlations into buffer threads no upstream authority would ever see. Hale kept rotation sacred. Tanaka kept emitters dark. Halden kept dating relays older than Fleet's founding stories.
+Reyes kept his hands on the plot but did not chase returns. Ortega kept listening. Park kept stitching correlations into buffer threads no upstream authority would ever see.
 
 The work continued.
 

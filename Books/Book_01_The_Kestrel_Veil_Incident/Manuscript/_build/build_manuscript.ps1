@@ -1,19 +1,22 @@
 # Build publication outputs for The Kestrel Veil Incident — Book One
 $ErrorActionPreference = "Stop"
 
-$bookRoot = Split-Path -Parent $PSScriptRoot
+$buildDir = $PSScriptRoot
+$outDir = Split-Path -Parent $buildDir
+$bookRoot = Split-Path -Parent $outDir
 $chaptersDir = Join-Path $bookRoot "Chapters"
 $archiveDir = Join-Path $bookRoot "Archive"
 $archivePlacementFile = Join-Path $archiveDir "archive_placement.json"
-$outDir = $PSScriptRoot
 $masterMd = Join-Path $outDir "The_Kestrel_Veil_Incident_Book_One.md"
 $docxOut = Join-Path $outDir "The_Kestrel_Veil_Incident_Book_One.docx"
 $epubOut = Join-Path $outDir "The_Kestrel_Veil_Incident_Book_One.epub"
-$pdfOut = Join-Path $outDir "The_Kestrel_Veil_Incident_Book_One_Print.pdf"
-$refDocx = Join-Path $outDir "reference.docx"
-$coverPng = Join-Path $outDir "assets\cover.png"
+$txtOut = Join-Path $outDir "The_Kestrel_Veil_Incident_Book_One.txt"
+$pdfOut = Join-Path $buildDir "The_Kestrel_Veil_Incident_Book_One_Print.pdf"
+$refDocx = Join-Path $buildDir "reference.docx"
+$coverPng = Join-Path $buildDir "assets\cover.png"
 $coverPngAlt = Join-Path $bookRoot "Cover\cover.png"
 $coverSvg = Join-Path $bookRoot "Cover\cover.svg"
+$logoRelativePath = "assets/chapter_logo.png"
 $coverImage = if (Test-Path $coverPng) { $coverPng } elseif (Test-Path $coverPngAlt) { $coverPngAlt } elseif (Test-Path $coverSvg) { $coverSvg } else { $null }
 $separator = -join (1..40 | ForEach-Object { [char]0x2500 })
 
@@ -162,6 +165,171 @@ function Get-ArchiveInterludesByAnchor {
         $map[$key] += $item
     }
     return $map
+}
+
+function Build-ManuscriptContent {
+    param(
+        [int]$ChapterStart,
+        [int]$ChapterEnd,
+        [switch]$IncludePrologue,
+        [switch]$IncludeEpilogue,
+        [hashtable]$ArchiveMap,
+        [ref]$TotalWords,
+        [System.Collections.Generic.List[object]]$ChapterStats,
+        [System.Collections.Generic.List[object]]$ArchiveStats,
+        [ref]$ManualCleanup
+    )
+
+    $sb = New-Object System.Text.StringBuilder
+
+    if ($IncludePrologue) {
+        $prologueFile = Join-Path $chaptersDir "prologue.md"
+        if (Test-Path $prologueFile) {
+            $prologueRaw = Get-Content $prologueFile -Raw -Encoding UTF8
+            $prologueConverted = Convert-Prologue -Content $prologueRaw
+            $prologueWords = ($prologueConverted | Measure-Object -Word).Words
+            $TotalWords.Value += $prologueWords
+            [void]$sb.Append($prologueConverted.TrimEnd())
+            Write-Host "Included prologue: $prologueFile ($prologueWords words)"
+            Append-ArchiveInterludes -Builder $sb -AnchorKey 'prologue' -ArchiveMap $ArchiveMap -TotalWords $TotalWords -ArchiveStats $ArchiveStats
+        }
+    }
+
+    for ($n = $ChapterStart; $n -le $ChapterEnd; $n++) {
+        $chapterFile = Join-Path $chaptersDir ("chapter_{0}.md" -f $n)
+        if (-not (Test-Path $chapterFile)) {
+            throw "Missing chapter file: $chapterFile"
+        }
+        $raw = Get-Content $chapterFile -Raw -Encoding UTF8
+        $converted = Convert-ChapterContent -Content $raw -ChapterNum $n -LogoRelativePath $logoRelativePath
+
+        if ($converted -notmatch 'chapter_logo\.png') {
+            $ManualCleanup.Value += "Chapter $n header not converted"
+        }
+
+        $bodyWords = ($converted | Measure-Object -Word).Words
+        $TotalWords.Value += $bodyWords
+        $ChapterStats.Add([PSCustomObject]@{ Chapter = $n; Words = $bodyWords }) | Out-Null
+
+        [void]$sb.Append("`n`n\newpage`n`n")
+        [void]$sb.Append($converted)
+        Append-ArchiveInterludes -Builder $sb -AnchorKey ([string]$n) -ArchiveMap $ArchiveMap -TotalWords $TotalWords -ArchiveStats $ArchiveStats
+    }
+
+    if ($IncludeEpilogue) {
+        $epilogueFile = Join-Path $chaptersDir "epilogue.md"
+        if (Test-Path $epilogueFile) {
+            $epilogueRaw = Get-Content $epilogueFile -Raw -Encoding UTF8
+            $epilogueConverted = Convert-Epilogue -Content $epilogueRaw
+            $epilogueWords = ($epilogueConverted | Measure-Object -Word).Words
+            $TotalWords.Value += $epilogueWords
+            [void]$sb.Append("`n`n\newpage`n`n")
+            [void]$sb.Append($epilogueConverted.TrimEnd())
+            Write-Host "Included epilogue: $epilogueFile ($epilogueWords words)"
+        }
+    }
+
+    return $sb
+}
+
+function Write-ActMarkdownFiles {
+    param(
+        [hashtable]$ArchiveMap
+    )
+
+    $acts = @(
+        @{
+            File = 'Act_I_Routine_Patrol.md'
+            Subtitle = 'Act I — Routine Patrol'
+            ChapterStart = 1
+            ChapterEnd = 4
+            IncludePrologue = $true
+            IncludeEpilogue = $false
+        },
+        @{
+            File = 'Act_II_The_Kestrel_Veil_Incident.md'
+            Subtitle = 'Act II — The Kestrel Veil Incident'
+            ChapterStart = 5
+            ChapterEnd = 8
+            IncludePrologue = $false
+            IncludeEpilogue = $false
+        },
+        @{
+            File = 'Act_III_Shadows_Beyond_the_Border.md'
+            Subtitle = 'Act III — Shadows Beyond the Border'
+            ChapterStart = 9
+            ChapterEnd = 16
+            IncludePrologue = $false
+            IncludeEpilogue = $false
+        },
+        @{
+            File = 'Act_IV_First_Doctrine.md'
+            Subtitle = 'Act IV — First Doctrine'
+            ChapterStart = 17
+            ChapterEnd = 24
+            IncludePrologue = $false
+            IncludeEpilogue = $true
+        }
+    )
+
+    foreach ($act in $acts) {
+        $actWords = 0
+        $actChapterStats = New-Object System.Collections.Generic.List[object]
+        $actArchiveStats = New-Object System.Collections.Generic.List[object]
+        $actCleanup = @()
+
+        $actSb = Build-ManuscriptContent `
+            -ChapterStart $act.ChapterStart `
+            -ChapterEnd $act.ChapterEnd `
+            -IncludePrologue:$act.IncludePrologue `
+            -IncludeEpilogue:$act.IncludeEpilogue `
+            -ArchiveMap $ArchiveMap `
+            -TotalWords ([ref]$actWords) `
+            -ChapterStats $actChapterStats `
+            -ArchiveStats $actArchiveStats `
+            -ManualCleanup ([ref]$actCleanup)
+
+        $actYaml = @"
+---
+title: "The Kestrel Veil Incident"
+subtitle: "Book One of The Solmare Cycle — $($act.Subtitle)"
+author: "K.W. Abbott"
+lang: en-US
+rights: "Copyright (c) K.W. Abbott. All rights reserved."
+description: "Book One of The Solmare Cycle. $($act.Subtitle)."
+---
+
+"@
+        $actText = Fix-EmphasisApostrophes ($actYaml + $actSb.ToString())
+        $actPath = Join-Path $outDir $act.File
+        [System.IO.File]::WriteAllText($actPath, $actText, [System.Text.UTF8Encoding]::new($true))
+        Write-Host "Created act markdown: $actPath ($actWords words)"
+    }
+}
+
+function Export-PlainText {
+    param([string]$MarkdownPath, [string]$TextPath)
+
+    $pandocExe = $null
+    $localPandoc = Join-Path $buildDir "tools\pandoc\pandoc-3.10\pandoc.exe"
+    if (Test-Path $localPandoc) {
+        $pandocExe = $localPandoc
+    } else {
+        $env:Path = [System.Environment]::GetEnvironmentVariable("Path", "Machine") + ";" + [System.Environment]::GetEnvironmentVariable("Path", "User")
+        $pandocExe = (Get-Command pandoc -ErrorAction Stop).Source
+    }
+
+    & $pandocExe @(
+        $MarkdownPath,
+        "-o", $TextPath,
+        "--from", "markdown+smart+raw_tex+raw_attribute",
+        "-t", "plain",
+        "--wrap=none"
+    )
+
+    $text = [System.IO.File]::ReadAllText($TextPath, [System.Text.UTF8Encoding]::new($true))
+    $text = $text -replace '\\newpage\s*', "`n`n"
+    [System.IO.File]::WriteAllText($TextPath, $text.TrimEnd() + "`n", [System.Text.UTF8Encoding]::new($true))
 }
 
 function Append-ArchiveInterludes {
@@ -714,74 +882,43 @@ description: "Book One of The Solmare Cycle. A scout crew discovers that reality
 
 "@
 
-$sb = New-Object System.Text.StringBuilder
-
 $totalWords = 0
-$chapterStats = @()
+$chapterStats = New-Object System.Collections.Generic.List[object]
 $archiveStats = New-Object System.Collections.Generic.List[object]
 $manualCleanup = @()
 $archiveMap = Get-ArchiveInterludesByAnchor
 
-$prologueFile = Join-Path $chaptersDir "prologue.md"
-if (Test-Path $prologueFile) {
-    $prologueRaw = Get-Content $prologueFile -Raw -Encoding UTF8
-    $prologueConverted = Convert-Prologue -Content $prologueRaw
-    $prologueWords = ($prologueConverted | Measure-Object -Word).Words
-    $totalWords += $prologueWords
-    [void]$sb.Append($prologueConverted.TrimEnd())
-    Write-Host "Included prologue: $prologueFile ($prologueWords words)"
-    Append-ArchiveInterludes -Builder $sb -AnchorKey 'prologue' -ArchiveMap $archiveMap -TotalWords ([ref]$totalWords) -ArchiveStats $archiveStats
-}
+$sb = Build-ManuscriptContent `
+    -ChapterStart 1 `
+    -ChapterEnd 24 `
+    -IncludePrologue `
+    -IncludeEpilogue `
+    -ArchiveMap $archiveMap `
+    -TotalWords ([ref]$totalWords) `
+    -ChapterStats $chapterStats `
+    -ArchiveStats $archiveStats `
+    -ManualCleanup ([ref]$manualCleanup)
 
-for ($n = 1; $n -le 24; $n++) {
-    $chapterFile = Join-Path $chaptersDir ("chapter_{0}.md" -f $n)
-    if (-not (Test-Path $chapterFile)) {
-        throw "Missing chapter file: $chapterFile"
-    }
-    $raw = Get-Content $chapterFile -Raw -Encoding UTF8
-    $converted = Convert-ChapterContent -Content $raw -ChapterNum $n
-
-    if ($converted -notmatch 'chapter_logo\.png') {
-        $manualCleanup += "Chapter $n header not converted"
-    }
-
-    $bodyWords = ($converted | Measure-Object -Word).Words
-    $totalWords += $bodyWords
-    $chapterStats += [PSCustomObject]@{ Chapter = $n; Words = $bodyWords }
-
-    [void]$sb.Append("`n`n\newpage`n`n")
-    [void]$sb.Append($converted)
-    Append-ArchiveInterludes -Builder $sb -AnchorKey ([string]$n) -ArchiveMap $archiveMap -TotalWords ([ref]$totalWords) -ArchiveStats $archiveStats
-}
-
-$epilogueFile = Join-Path $chaptersDir "epilogue.md"
-if (Test-Path $epilogueFile) {
-    $epilogueRaw = Get-Content $epilogueFile -Raw -Encoding UTF8
-    $epilogueConverted = Convert-Epilogue -Content $epilogueRaw
-    $epilogueWords = ($epilogueConverted | Measure-Object -Word).Words
-    $totalWords += $epilogueWords
-    [void]$sb.Append("`n`n\newpage`n`n")
-    [void]$sb.Append($epilogueConverted.TrimEnd())
-    Write-Host "Included epilogue: $epilogueFile ($epilogueWords words)"
-}
-
-$masterText = Fix-EmphasisApostrophes ($sb.ToString())
+$masterText = Fix-EmphasisApostrophes ($yaml + $sb.ToString())
 [System.IO.File]::WriteAllText($masterMd, $masterText, [System.Text.UTF8Encoding]::new($true))
 Write-Host "Created master markdown: $masterMd"
 
+Write-ActMarkdownFiles -ArchiveMap $archiveMap
+
+$resourcePath = "$buildDir;$outDir"
 $env:Path = [System.Environment]::GetEnvironmentVariable("Path", "Machine") + ";" + [System.Environment]::GetEnvironmentVariable("Path", "User")
-$localPandocDir = Join-Path $outDir "tools\pandoc\pandoc-3.10"
+$localPandocDir = Join-Path $buildDir "tools\pandoc\pandoc-3.10"
 if (Test-Path (Join-Path $localPandocDir "pandoc.exe")) {
     $env:Path = "$localPandocDir;" + $env:Path
 }
 $pandoc = Get-Command pandoc -ErrorAction Stop
 
-$docxDraft = Join-Path $outDir "_draft_manuscript.docx"
+$docxDraft = Join-Path $buildDir "_draft_manuscript.docx"
 $pandocArgs = @(
     $masterMd,
     "-o", $docxDraft,
     "--from", "markdown+smart+raw_tex+raw_attribute",
-    "--resource-path", $outDir,
+    "--resource-path", $resourcePath,
     "--number-sections=false",
     "--toc",
     "--toc-depth=1",
@@ -810,12 +947,12 @@ try {
 }
 if (Test-Path $docxDraft) { Remove-Item $docxDraft -Force }
 
-$epubCss = Join-Path $outDir "epub.css"
+$epubCss = Join-Path $buildDir "epub.css"
 $epubArgs = @(
     $masterMd,
     "-o", $epubOut,
     "--from", "markdown+smart+raw_tex+raw_attribute",
-    "--resource-path", $outDir,
+    "--resource-path", $resourcePath,
     "--to", "epub3",
     "--toc",
     "--toc-depth=1",
@@ -877,7 +1014,7 @@ $pdfCreated = $false
 $pdfWarning = $null
 if ($wordFormatted) {
     try {
-        $printDocx = Join-Path $outDir "_print_manuscript.docx"
+        $printDocx = Join-Path $buildDir "_print_manuscript.docx"
         Copy-Item $docxOut $printDocx -Force
         Format-WordManuscript -InputPath $printDocx -OutputPath $printDocx -PrintPdfExport -PdfPath $pdfOut
         if (Test-Path $pdfOut) {
@@ -922,7 +1059,12 @@ $reportJson = @{
     ManualCleanup = @($manualCleanup)
     Validation = $validation
 } | ConvertTo-Json -Depth 6
-$reportJson | Set-Content (Join-Path $outDir "build_report.json") -Encoding UTF8
+$reportJson | Set-Content (Join-Path $buildDir "build_report.json") -Encoding UTF8
+
+Export-PlainText -MarkdownPath $masterMd -TextPath $txtOut
+$txtWords = ([System.IO.File]::ReadAllText($txtOut, [System.Text.UTF8Encoding]::new($true)) | Measure-Object -Word).Words
+Write-Host "Created plain text: $txtOut ($txtWords words)"
+
 Write-Host "Total words: $totalWords"
 Write-Host "Approx pages: $approxPages"
 Write-Host "Build complete."

@@ -58,7 +58,7 @@ Briefly, as she always did on Founders' Week eve, she read the carved plaque nea
 
 She returned to Level Nine with tea warming her hands and the promenade noise rising through the viewport glass.
 
-By late morning she had reviewed summaries from fourteen worlds and two station-states. Agricultural yields. Orbital factory output. A research colony's request for additional telescope time. A mining consortium's complaint about pirate insurance rates in a zone officially declared safe. A cultural capital preparing for Founders' Week celebrations that would, according to tradition, begin on every member world within the same six-day window—local calendars adjusted, local foods substituted, the same story told in a hundred accents.
+By late morning she had reviewed summaries from fourteen worlds and two station-states. Most were exactly what healthy civilizations produced—harvest yields, factory output, research requests, shipping disputes, and Founders' Week preparations beginning on the same six-day window in a hundred accents.
 
 "Tomas," she said. "Do you ever feel like the map is bigger than the archive?"
 
@@ -162,7 +162,9 @@ Calder waited for the compliment to land and felt, inconveniently, that a desk m
 
 "I know you will." Pell's voice softened a fraction. "Try to look like you believe in it while you do. Your aunt will be watching."
 
-Calder nodded. He believed in procedures. Ceremonies were procedures with music. So were ships, if you respected them. So was keeping Lisette from worrying.
+Calder nodded. "What does that require beyond correct spacing?"
+
+He believed in procedures. Ceremonies were procedures with music. So were ships, if you respected them. So was keeping Lisette from worrying.
 
 He did not think about the *Kestrel Veil* as his hull—only as dockyard folklore, if he thought about her at all. Scout-class postings were aging, the kind of assignment classmates mentioned with sympathetic jokes. He thought about the checklist for graduation day, the message owed to Lisette before Founders' Week peaked, and the pre-digital almanac on his shelf he had opened last night out of habit, not superstition. Old routes. Known solutions. He liked known solutions because unknown ones had already taken enough from him.
 
@@ -178,7 +180,9 @@ Outside his window, Founders' Week lanterns moved through the district in rehear
 
 
 
-The intelligence annex opened at 1400—the same recycled air and row of terminals as every other shift.
+By afternoon on Meridian Gate, the public archive had given way to the intelligence annex—the secondary queue Maris reserved for border work that rarely became urgent until it did.
+
+The annex opened at 1400—the same recycled air and row of terminals as every other shift.
 
 Maris Chen had requested the secondary queue three cycles ago—routine cross-border summaries, the kind of feed that arrived in hundreds of packets and died in hundreds of inboxes because each packet, alone, looked like weather. She had spent eight years in Cartography before Fleet Intelligence borrowed her for pattern work along the Outer Rim Collectives frontier. Borrowed was the polite word. She was still paid by Cartography and still slept in Meridian Gate quarters and still answered to supervisors who thought her real job was survey metadata.
 
@@ -259,6 +263,8 @@ She stood, rolled her shoulders, and told Tomas she would take the quick loop to
 "Copy."
 
 Maris took the secondary transit corridor from Level Nine to Level Six—a route she had walked four times a week for eleven years, past maintenance hatches she no longer noticed and a viewport she always noticed anyway. Shuttles crossed the dark beyond the glass. Founders' Week banners had already gone up in the lower tiers, copper and blue and a dozen imported pigments.
+
+She had promised herself she would make her grandmother's pie this Founders' Week instead of buying one from the promenade—if the Verdant vendor still had apples worth using. Cinnamon, at least. She added it to tomorrow's list in her head and went back to section three.
 
 Halfway down the corridor her vision narrowed—not pain, exactly, a sudden wrongness, as if someone had dimmed the station lights only for her.
 

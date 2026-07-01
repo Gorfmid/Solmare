@@ -134,13 +134,7 @@ The corridor sounded the same.
 
 That was the problem.
 
-**Felix Ortega** said it first—not alarm, inventory. "Maintenance window on seven-beta shifted forty minutes earlier than yesterday's listen watch peak."
-
-**Marco Reyes** pulled lane overlays. "Passenger cluster spacing widened on secondary four. Not much. A few percent."
-
-**Jun Park**: "Freight surge delayed one interval. Could be Founders' Week bleed. Could be weather."
-
-**Ari Halden**: "Weather relay cadence unchanged. Traffic cadence changed."
+**Felix Ortega** had been on passive watch fourteen hours—headphones denting his hair, eyes red at the rims he would deny in any log. He said it first anyway—not alarm, inventory: maintenance window on seven-beta had shifted forty minutes earlier than yesterday's listen watch peak. **Damon Reyes** pulled lane overlays and saw passenger cluster spacing widened on secondary four—a few percent. **Jun Park** logged freight surge delayed one interval—Founders' Week or weather, unconfirmed. **Ari Halden** said weather relay cadence was unchanged while traffic cadence had changed.
 
 Calder stood at the rail and felt the echo before he could name it— not a shout in the dark, a room adjusting when someone unknown entered and nobody acknowledged it aloud.
 
@@ -154,15 +148,13 @@ Calder stood at the rail and felt the echo before he could name it— not a shou
 
 That word had become the crew's common tongue.
 
-Reyes traced merge windows. "If they're routing around something, we're the something."
+Reyes traced merge windows. "If they're routing around something, my money's on us—and I hate that I can't disprove it yet."
 
-"If they're routing around maintenance," Tanaka said from emitters, "we're irrelevant."
+Tanaka from emitters: "Emitters dark. No routing correlation from our side."
 
-"If we're irrelevant," **Marcus Hale** said from defensive, "we're also alive. Prefer alive."
+Hale from defensive: "Irrelevant is acceptable."
 
-Calder did not smile. He noted Hale's maturity anyway.
-
-The discussion stayed professional— possibilities weighed, not verdicts delivered. Ortega proposed sensor drift. Halden proposed infrastructure load balancing. Reyes proposed holiday congestion propagating through a network older than Fleet charts. Thessaly proposed that any civilization noticing ghost traffic would tighten geometry without announcing fear.
+The discussion stayed professional— possibilities weighed, not verdicts delivered. Ortega proposed sensor drift; Halden proposed infrastructure load balancing; Reyes proposed holiday congestion propagating through a network older than Fleet charts; Thessaly proposed that any civilization noticing ghost traffic would tighten geometry without announcing fear.
 
 Nobody said *they know*.
 
@@ -170,41 +162,17 @@ Nobody said *they don't*.
 
 Calder listened the way he had learned to listen in segment six— less like a captain proving command, more like a strategist hoarding incomplete tiles.
 
-Thessaly challenged him without theater. "Holiday congestion explains passenger spacing."
+Thessaly challenged him without theater. Holiday congestion explained passenger spacing partially; maintenance backlog explained window shift partially. Ortega said listen watch showed procedural density up—that pattern doesn't match holiday. Reyes offered fiscal quarter close, audit season, someone upstream tightening belts before Founders' Week—"could be bureaucracy, could be us making them nervous, could be both."
 
-"Partially," Calder said.
-
-"Maintenance backlog explains window shift."
-
-"Partially," he said again.
-
-Ortega: "Listen watch says procedural density up. That doesn't sound like holiday."
-
-Reyes: "Could be fiscal quarter close. Could be audit season. Could be someone upstream tightening belts before Founders' Week."
-
-"Could be," Calder said. "List could-be. Weight could-be. Do not marry could-be."
-
-Halden pulled infrastructure overlays. "Relay seven-alpha shows recent handshake lag correlation with faint returns. Not causal. Correlated."
-
-"Log correlation," Calder said. "No causal claim."
-
-Park: "Internal crew note— Brenner reports ring three hears environment load before we see traffic delta. Ship may be ahead of suite by minutes."
-
-Calder glanced toward intercom. "Brenner's hunches become data when Brenner files them."
-
-Brenner, dry: "Already filed."
+Calder told them to list could-be, weight could-be, and not marry could-be. Halden pulled infrastructure overlays: relay seven-alpha showed recent handshake lag correlation with faint returns—not causal, correlated. Park: "Brenner filed ring-three environment load before suite saw traffic delta. Timestamp on internal." Calder said Brenner's hunches became data when Brenner filed them, and Brenner, dry, said he already had.
 
 Small laugh— one breath, gone. Not morale. Recognition.
 
 "Continue mission," he said. "Passive only. Increase caution— tighter rotation discipline, shorter listen windows, segregated buffers. No active sweep. No course change toward contact unless collision math demands it. Log deltas. Compare deltas daily."
 
-Park: "Logged."
+Park logged it. Walsh passed through the deck periphery, checked light schedules, redirected one overdue flag to Thessaly with *Captain aware* and did not interrupt. Small competence holding the ship together while the universe rearranged itself in millimeters.
 
-Walsh passed through the deck periphery, checked light schedules, redirected one overdue flag to Thessaly with *Captain aware* and did not interrupt. Small competence holding the ship together while the universe rearranged itself in millimeters.
-
-Brenner on intercom, flat: "Handshake lag ticked up again. Not failure. Environment speaking."
-
-"Acknowledged," Calder said.
+Brenner on intercom reported handshake lag ticking up again—not failure, environment speaking. Calder acknowledged.
 
 The *Veil* whispered.
 
@@ -330,11 +298,11 @@ He heard procedure.
 
 "They're asking more questions," he said.
 
-**Marco Reyes** in the alcove doorway again. Shadow change. Not entering. Respect for the gain setting.
+**Damon Reyes** in the alcove doorway again. Shadow change. Not entering. Respect for the gain setting.
 
 "About us?" Reyes asked.
 
-"About someone," Ortega said. "About something unresolved. Could be maintenance. Could be holiday fraud checks. Could be—"
+"About someone," Ortega said. "About something unresolved. Pattern could be maintenance. Could be holiday fraud checks. Could be—"
 
 He stopped.
 
@@ -372,7 +340,9 @@ Just slightly more certainty demanded from the dark.
 
 "Know what?" Reyes asked.
 
-"Who. What." Ortega kept his hand on the gain. "They know something doesn't fit."
+"Who. What." Ortega kept his hand on the gain. "They know something doesn't fit—and I can't tell yet if we're the mismatch or noise in their model."
+
+Reyes was quiet a beat. "Small comfort either way—we're still in the merge window."
 
 In the static, a controller repeated a routing query— twice, then a third time with a verification burst that sounded like bureaucracy putting on gloves.
 
@@ -484,7 +454,7 @@ Watch.
 **KESTREL VEIL — COMMAND DECK**  
 **THE FIRST SHADOW**
 
-Hour nineteen, segment seven, day six.
+Mission +19:00, segment seven, day six.
 
 Calder called it an overlay because *briefing* still sounded like Fleet and Fleet was a story with holes.
 
@@ -536,13 +506,11 @@ Reyes stared at the plot— merge windows, lane corrections, ghosts that commute
 
 "If they're adapting," he said slowly, "they don't know to what yet. Could be drift. Could be fraud. Could be us."
 
+He did not add what navigators added in private: *Could be my merge math is wrong and I'm steering us into a chart that was never ours.*
+
 "Could be," Calder said. "Same rule. List. Weight. Don't marry."
 
-Ortega at the hatch: "Procedure shift correlates with faint return persistence on passive plot. Correlation only."
-
-"Log it," Calder said.
-
-Park logged it beside the captain's words in segregated buffer— timestamps no upstream authority would see, truth stored in a ship that had become an archive of a war not yet declared.
+Ortega at the hatch reported procedure shift correlated with faint return persistence on passive plot—correlation only. Calder told Park to log it beside the captain's words in segregated buffer— timestamps no upstream authority would see, truth stored in a ship that had become an archive of a war not yet declared.
 
 Tanaka, quiet: "We are still dark."
 
@@ -552,9 +520,7 @@ Thessaly did not argue. She challenged assumptions now without needing victory�
 
 Calder had changed too. Not louder. More patient with incomplete tiles. A captain who still gave orders; a strategist who no longer mistook orders for understanding.
 
-Halden: "No conclusion on intent."
-
-"No conclusion on intent," Calder agreed. "Conclusion on change. Increase caution. Continue passive. Continue mission. We do not become the proof they act on."
+Halden offered no conclusion on intent. Calder agreed—and drew a conclusion on change instead: increase caution, continue passive, continue mission, do not become the proof they act on.
 
 Hale: "Rotation limit sacred."
 
@@ -562,11 +528,11 @@ Hale: "Rotation limit sacred."
 
 **Lena Walsh** on the periphery redirected a light-check flag with *overlay meeting in progress* and did not enter the room. Some officers kept captains alive by knowing when not to be visible.
 
-Brenner on intercom, almost gentle for Brenner: "Ring three steady. She's listening too, Captain. Whatever's out there, the hull hears it."
+Brenner on intercom, almost gentle for Brenner: "Ring three steady. Hull's picking up corridor load before the suite does—metal hears it first."
 
-"Acknowledged."
+Calder acknowledged.
 
-Kevin passed the hatch with trays. Nobody ate. Kevin left them anyway. The ship kept whispering through patched ring and handshake lag and the small honest tremor of metal that had learned border geometry the way Brenner had learned Calder's silences.
+Kevin passed the hatch with trays. **Marcus Hale** took one without comment—destroyer track officers learned to eat when food appeared because rotation did not pause for appetite. Kevin left the rest anyway. The ship kept whispering through patched ring and handshake lag and the small honest tremor of metal that had learned border geometry the way Brenner had learned Calder's silences.
 
 Orders unchanged in letter.
 
