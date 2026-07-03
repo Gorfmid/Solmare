@@ -6,6 +6,8 @@ These rules apply to every chapter, scene, and revision in **The Kestrel Veil In
 
 **Craft doctrine:** Also load `solmare_craft_doctrine.md` — POV information flow, professional competence, scene test, Solmare Rule (people first).
 
+**Fleet operational language:** Also load `fleet_systems_lexicon.md` for shipboard systems, Fleet Ops, comms/relay sequences, and terminology normalization passes.
+
 **Revision passes:** Also load `revision_philosophy.md`. Subtraction is as valid as addition; do not expand by default. **Revise only when demonstrably stronger**—not because you can.
 
 ---

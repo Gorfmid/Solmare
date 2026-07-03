@@ -1,11 +1,11 @@
-﻿# Chapter 12
+# Chapter 12
 
 ## Whispers in the Corridor
 
 ---
 
-**THE DOMINION — STRATEGIC SECURITY DIRECTORATE**  
-**PATTERN DEVIATION**
+***THE DOMINION — STRATEGIC SECURITY DIRECTORATE***  
+***PATTERN DEVIATION***
 
 Director-General **Lev Stratimirov** had not seen Commander **Vex** in twenty-two days.
 
@@ -67,7 +67,7 @@ Petrov nodded, chastened and not crushed. Good analysts were useful twice— onc
 
 Stratimirov walked him through the comparison method anyway— because teaching was how directorates stayed young without hiring children.
 
-"You will bucket by sensor generation," he said. "You will bucket by maintenance cycle. You will bucket by station age. If the ghost only appears on older suites, we have equipment bias. If it only appears after relay refurbishments, we have install bias. If it appears across unrelated generations—" He let the sentence hang.
+"You will bucket by sensor generation," he said. "You will bucket by maintenance cycle. You will bucket by station age. If the ghost only appears on older systems, we have equipment bias. If it only appears after relay refurbishments, we have install bias. If it appears across unrelated generations—" He let the sentence hang.
 
 Petrov finished carefully. "—we have behavior."
 
@@ -125,8 +125,8 @@ Always continue collecting.
 
 ---
 
-**KESTREL VEIL — COMMAND DECK**  
-**THE ECHO**
+***KESTREL VEIL — COMMAND DECK***  
+***THE ECHO***
 
 Segment seven, day six.
 
@@ -134,7 +134,7 @@ The corridor sounded the same.
 
 That was the problem.
 
-**Felix Ortega** had been on passive watch fourteen hours—headphones denting his hair, eyes red at the rims he would deny in any log. He said it first anyway—not alarm, inventory: maintenance window on seven-beta had shifted forty minutes earlier than yesterday's listen watch peak. **Damon Reyes** pulled lane overlays and saw passenger cluster spacing widened on secondary four—a few percent. **Jun Park** logged freight surge delayed one interval—Founders' Week or weather, unconfirmed. **Ari Halden** said weather relay cadence was unchanged while traffic cadence had changed.
+**Felix Ortega** had been on passive watch fourteen hours—headphones denting his hair, eyes red at the rims he would deny in any log. He said it first anyway—not alarm, inventory: maintenance window on seven-beta had shifted forty minutes earlier than yesterday's listen watch peak. **Damon Reyes** pulled lane overlays and saw passenger cluster spacing widened on secondary four—a few percent. **Jun Park** noted freight surge delayed one interval—Founders' Week or weather, unconfirmed. **Ari Halden** said weather relay cadence was unchanged while traffic cadence had changed.
 
 Calder stood at the rail and felt the echo before he could name it— not a shout in the dark, a room adjusting when someone unknown entered and nobody acknowledged it aloud.
 
@@ -152,7 +152,7 @@ Reyes traced merge windows. "If they're routing around something, my money's on 
 
 Tanaka from emitters: "Emitters dark. No routing correlation from our side."
 
-Hale from defensive: "Irrelevant is acceptable."
+Hale, tactical watch: "Irrelevant is acceptable."
 
 The discussion stayed professional— possibilities weighed, not verdicts delivered. Ortega proposed sensor drift; Halden proposed infrastructure load balancing; Reyes proposed holiday congestion propagating through a network older than Fleet charts; Thessaly proposed that any civilization noticing ghost traffic would tighten geometry without announcing fear.
 
@@ -160,17 +160,17 @@ Nobody said *they know*.
 
 Nobody said *they don't*.
 
-Calder listened the way he had learned to listen in segment six— less like a captain proving command, more like a strategist hoarding incomplete tiles.
+Calder ran the stack in order—list, weight, don't marry. Same rule as segment six.
 
 Thessaly challenged him without theater. Holiday congestion explained passenger spacing partially; maintenance backlog explained window shift partially. Ortega said listen watch showed procedural density up—that pattern doesn't match holiday. Reyes offered fiscal quarter close, audit season, someone upstream tightening belts before Founders' Week—"could be bureaucracy, could be us making them nervous, could be both."
 
-Calder told them to list could-be, weight could-be, and not marry could-be. Halden pulled infrastructure overlays: relay seven-alpha showed recent handshake lag correlation with faint returns—not causal, correlated. Park: "Brenner filed ring-three environment load before suite saw traffic delta. Timestamp on internal." Calder said Brenner's hunches became data when Brenner filed them, and Brenner, dry, said he already had.
+Calder told them to list could-be, weight could-be, and not marry could-be. Halden pulled infrastructure overlays: relay seven-alpha showed recent handshake lag correlation with faint returns—not causal, correlated. Park: "Brenner filed Reing 3 environment load before systems saw traffic delta. Timestamp on internal." Calder said Brenner's hunches became data when Brenner filed them, and Brenner, dry, said he already had.
 
 Small laugh— one breath, gone. Not morale. Recognition.
 
 "Continue mission," he said. "Passive only. Increase caution— tighter rotation discipline, shorter listen windows, segregated buffers. No active sweep. No course change toward contact unless collision math demands it. Log deltas. Compare deltas daily."
 
-Park logged it. Walsh passed through the deck periphery, checked light schedules, redirected one overdue flag to Thessaly with *Captain aware* and did not interrupt. Small competence holding the ship together while the universe rearranged itself in millimeters.
+Park filed it. Walsh passed through the deck periphery, checked light schedules, redirected one overdue flag to Thessaly with *Captain aware* and did not interrupt. Small competence holding the ship together while the universe rearranged itself in millimeters.
 
 Brenner on intercom reported handshake lag ticking up again—not failure, environment speaking. Calder acknowledged.
 
@@ -180,14 +180,14 @@ Somewhere in the corridor's routine, an echo answered— not words, not threat, 
 
 ---
 
-**THE DOMINION — REGIONAL TRANSPORTATION DIRECTORATE**  
-**THE MATHEMATICIAN**
+***THE DOMINION — REGIONAL TRANSPORTATION DIRECTORATE***  
+***THE MATHEMATICIAN***
 
 **Irina Volkova** trusted numbers the way other people trusted relatives— affectionately, skeptically, with the understanding that both could lie politely.
 
 The imbalance arrived as a software flag.
 
-**ROUTE BALANCE — SEVEN-ALPHA — 0.7% UNEXPLAINED VARIANCE.**
+***ROUTE BALANCE — SEVEN-ALPHA — 0.7% UNEXPLAINED VARIANCE.***
 
 Jasko snorted over her shoulder. "That's a rounding error wearing a uniform."
 
@@ -269,8 +269,8 @@ Closer to one.
 
 ---
 
-**KESTREL VEIL — SENSOR ALCOVE**  
-**LISTENING**
+***KESTREL VEIL — SENSOR ALCOVE***  
+***LISTENING***
 
 Ortega listened because looking had stopped being enough on day three and became religion on day six.
 
@@ -366,8 +366,8 @@ The whispers had begun to sound like questions.
 
 ---
 
-**THE DOMINION — BORDER SURVEILLANCE NODE K-17**  
-**THE REVIEW**
+***THE DOMINION — BORDER SURVEILLANCE NODE K-17***  
+***THE REVIEW***
 
 The review was routine.
 
@@ -397,7 +397,7 @@ Kovat did not sit straighter. She followed procedure.
 
 Selim said, "Equipment?"
 
-"Already checked," Kovat said. "Calibration sweep at shift start. Secondary confirmation on backup suite. Drift within spec. Return is not spec."
+"Already checked," Kovat said. "Calibration sweep at shift start. Secondary confirmation on backup array. Drift within spec. Return is not spec."
 
 "Classification?"
 
@@ -451,8 +451,8 @@ Watch.
 
 ---
 
-**KESTREL VEIL — COMMAND DECK**  
-**THE FIRST SHADOW**
+***KESTREL VEIL — COMMAND DECK***  
+***THE FIRST SHADOW***
 
 Mission +19:00, segment seven, day six.
 
@@ -528,11 +528,11 @@ Hale: "Rotation limit sacred."
 
 **Lena Walsh** on the periphery redirected a light-check flag with *overlay meeting in progress* and did not enter the room. Some officers kept captains alive by knowing when not to be visible.
 
-Brenner on intercom, almost gentle for Brenner: "Ring three steady. Hull's picking up corridor load before the suite does—metal hears it first."
+Brenner on intercom, almost gentle for Brenner: "Reing 3 steady. Hull's picking up corridor load before the systems do—metal hears it first."
 
 Calder acknowledged.
 
-Kevin passed the hatch with trays. **Marcus Hale** took one without comment—destroyer track officers learned to eat when food appeared because rotation did not pause for appetite. Kevin left the rest anyway. The ship kept whispering through patched ring and handshake lag and the small honest tremor of metal that had learned border geometry the way Brenner had learned Calder's silences.
+Kevin passed the hatch with trays. **Marcus Hale** took one without comment—destroyer track officers learned to eat when food appeared because rotation did not pause for appetite. Kevin left the rest anyway. The ship kept whispering through patched Reing and handshake lag and the small honest tremor of metal that had learned border geometry the way Brenner had learned Calder's silences.
 
 Orders unchanged in letter.
 
@@ -563,5 +563,7 @@ They compared.
 They waited.
 
 They continued.
+
+Petrov's board still held marker nineteen without a name—low confidence, persistent across three comparison passes, not yet elevated to contact.
 
 ---

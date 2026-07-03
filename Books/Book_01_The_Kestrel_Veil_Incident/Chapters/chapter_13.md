@@ -4,8 +4,8 @@
 
 ---
 
-**THE DOMINION — STRATEGIC SECURITY DIRECTORATE**  
-**THE RETURN**
+***THE DOMINION — STRATEGIC SECURITY DIRECTORATE***  
+***THE RETURN***
 
 Morning arrived the way it always arrived in the basalt-and-steel complex—without announcement, without drama, with tea too strong and plaques too old to read quickly in the anteroom light.
 
@@ -23,7 +23,7 @@ He transferred the scatter plot.
 
 Stratimirov studied it without speaking.
 
-Individually, each marker remained nothing—timing offsets inside tolerance on Kessik relay four, passive returns that dissolved on second pass near nine-beta merge, mass inference one percent low on a border tug until reboot, variance flags Transportation filed without panic on seven-alpha, authentication density drift on a corridor controller who had worked the same shift for eleven years, fuel spine duty cycle skew on a depot nobody had thought to watch because depots were supposed to be boring, reserve manifest routing that looked like routine until you stacked enough weeks, faint return persistence on listen watch that **Major Kovat** had logged as low confidence and refused to retract, maintenance window shifts that aligned with whisper-class harmonics no active suite had confirmed, fringe relay burst timing that did not match debris decay models, and twelve more markers Petrov had numbered without naming because naming created appetite for action before comparison finished.
+Individually, each marker remained nothing—timing offsets inside tolerance on Kessik relay four, passive returns that dissolved on second pass near nine-beta merge, mass inference one percent low on a border tug until reboot, variance flags Transportation filed without panic on seven-alpha, authentication density drift on a corridor controller who had worked the same shift for eleven years, fuel spine duty cycle skew on a depot nobody had thought to watch because depots were supposed to be boring, reserve manifest routing that looked like routine until you stacked enough weeks, faint return persistence on listen watch that **Major Kovat** had logged as low confidence and refused to retract, maintenance window shifts that aligned with whisper-class harmonics no active systems had confirmed, fringe relay burst timing that did not match debris decay models, and twelve more markers Petrov had numbered without naming because naming created appetite for action before comparison finished.
 
 Together, the markers suggested a shape.
 
@@ -97,7 +97,7 @@ That answer changed the meeting anyway.
 
 **Colonel Yenin** from Political Liaison shifted one degree in his chair— not fear, inventory. Petrov's stylus paused above his slate. Stratimirov looked at the empty inset on the wall where Vex's trial feed had lived for weeks and thought of partial collapse the way other men thought of weather they had misread.
 
-"Passive lock," Vex said. "Sustained. Scout-class suite, aging hull profile—consistent with long-service reconnaissance. Not visual acquisition. Not active targeting. Envelope could not hold."
+"Passive lock," Vex said. "Sustained. Scout-class passive systems, aging hull profile—consistent with long-service reconnaissance. Not visual acquisition. Not active targeting. Envelope could not hold."
 
 "It must maintain," Stratimirov said—not quoting Vex's old correction, echoing the doctrine beneath it.
 
@@ -159,8 +159,8 @@ For now, comparison was enough.
 
 ---
 
-**KESTREL VEIL — PASSIVE OBSERVATION**  
-**THE YARDS**
+***KESTREL VEIL — PASSIVE OBSERVATION***  
+***THE YARDS***
 
 Segment seven, day nine.
 
@@ -206,7 +206,7 @@ Calder felt the shift in his own thinking— not enemies, not targets, systems.
 
 Wars were won long before fleets deployed.
 
-They were won by people who built ships, moved fuel, certified cranes, signed tolerances barely within spec, went home late on Thursdays with flowers and welding dust on their collars.
+They were won by people who built ships, moved fuel, certified cranes, certified tolerances barely within spec, went home late on Thursdays with flowers and welding dust on their collars.
 
 The yard felt old.
 
@@ -222,7 +222,7 @@ Ortega added another return— maintenance sled, low power, repeating on a spine
 
 Brenner, without turning: "Third sled on that spine in six hours. Maintenance cycle says they expect the joint to outlast the shift."
 
-Calder filed the comment. Pilots noticed rhythm when captains were busy with scale.
+Calder noted the comment. Pilots noticed rhythm when captains were busy with scale.
 
 Halden pulled a thermal band aside. "Outer ring gantries show refurb layers— new work on old bones. If this were crisis construction, we'd see single-generation weld profiles. We don't."
 
@@ -230,7 +230,7 @@ Thessaly: "Capacity on record: not hull count— throughput potential. How many 
 
 Calder looked at her. She did not elaborate. She did not need to.
 
-"Passive only. Confirm status," Calder said.
+"Passive only. Status on my mark," Calder said.
 
 "Passive posture confirmed. Emitters dark," **Yuki Tanaka** said.
 
@@ -240,12 +240,12 @@ Calder nodded. He was no longer looking for enemy ships.
 
 He was trying to understand a civilization.
 
-Down in ring three, **Pell** had a coupling panel open that could have waited until Fleet space. **Elara Koss** had told him to fix it now—unfinished handshake drift became someone else's emergency at pickup. Pell worked with his mouth set, torque wrench counting in the quiet between Ortega's passive returns. Calder heard none of it on the deck. He felt it anyway—the ship maintaining herself while they watched a yard that had been maintaining itself for generations.
+Down in Reing 3, **Pell** had a coupling panel open that could have waited until Fleet space. **Elara Koss** had told him to fix it now—unfinished handshake drift became someone else's emergency at pickup. Pell worked with his mouth set, torque wrench counting in the quiet between Ortega's passive returns. Calder heard none of it on the deck. He felt it anyway—the ship maintaining herself while they watched a yard that had been maintaining itself for generations.
 
 ---
 
-**THE DOMINION — DISTRICT FOURTEEN / SOROKIN HOME**  
-**THURSDAY**
+***THE DOMINION — DISTRICT FOURTEEN / SOROKIN HOME***  
+***THURSDAY***
 
 **Pavel Sorokin** arrived with flowers and welding dust and the particular guilt of a man who loved his family and loved his yard and could not always love both on schedule.
 
@@ -307,7 +307,7 @@ She had seen that face for fifteen years.
 
 "Thursday—"
 
-"Thursday is when families eat if they can." She kissed his cheek. "Take a thermos. Tell Lina not to sign what you wouldn't sign."
+"Thursday is when families eat if they can." She kissed his cheek. "Take a thermos. Tell Lina not to certify what you wouldn't certify."
 
 Darya: "Will you be back for Founders' Week rehearsal?"
 
@@ -331,8 +331,8 @@ Another production adjustment in a civilization that had been adjusting producti
 
 ---
 
-**KESTREL VEIL — WARDROOM**  
-**THE PATTERN**
+***KESTREL VEIL — WARDROOM***  
+***THE PATTERN***
 
 **Mira Thessaly** had spread the war across the table—not weapons, evidence.
 
@@ -388,7 +388,7 @@ Calder nodded once. "Passive. Logging. No upstream. No illumination."
 
 "Agreed," Thessaly said.
 
-Brenner's voice on intercom, barely there: "Ring three handshake nominal. Holding pressure. Steady."
+Brenner's voice on intercom, barely there: "Reing 3 handshake nominal. Holding pressure. Steady."
 
 "Acknowledged."
 
@@ -398,8 +398,8 @@ Calder remained at the table one minute longer than necessary because captains l
 
 ---
 
-**THE DOMINION — REGIONAL TRANSPORTATION DIRECTORATE**  
-**THE ARCHIVE**
+***THE DOMINION — REGIONAL TRANSPORTATION DIRECTORATE***  
+***THE ARCHIVE***
 
 The archives lived below the planning floors where sunlight was a rumor and dust was a colleague.
 
@@ -443,8 +443,8 @@ Volkova pulled her gloves on.
 
 ---
 
-**KESTREL VEIL — COMMAND DECK**  
-**YEARS**
+***KESTREL VEIL — COMMAND DECK***  
+***YEARS***
 
 Late watch.
 
@@ -504,12 +504,14 @@ Calder issued one order.
 
 "Keep listening."
 
-Reyes returned his hands to the plot; Ortega put the headphone back; Park opened a new buffer thread. Tanaka kept emitters dark, Hale kept rotation sacred, Brenner kept the ring steady.
+Reyes returned his hands to the plot; Ortega put the headphone back; Park opened a new buffer thread. Tanaka kept emitters dark, Hale kept rotation sacred, Brenner kept the Reing steady.
 
 The *Kestrel Veil* crept on correction thrusters in a corridor that had been prepared long before she stumbled into it— damaged, professional, witness to a future someone else had hoped never to need.
 
 Calder watched the plot one more time and thought of yards and Thursdays and grandmothers who spoke in proverbs without explaining them. Not enemies. Not yet. A civilization that had been building toward a horizon Fleet charts had called empty, and a scout that had arrived in time to see the weight of it.
 
 Humility was no longer optional.
+
+Ortega's passive pane still carried a faint return on the bearing family—low confidence, no classification, not yet merged upstream.
 
 ---

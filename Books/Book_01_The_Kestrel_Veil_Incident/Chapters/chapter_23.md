@@ -4,8 +4,8 @@
 
 ---
 
-**FLEET HISTORICAL OFFICE — SYNTHESIS ANNEX**  
-**THE SUMMARIES**
+***FLEET HISTORICAL OFFICE — SYNTHESIS ANNEX***  
+***THE SUMMARIES***
 
 **Soraya Ellis** had learned to distrust mornings that arrived too organized.
 
@@ -85,8 +85,8 @@ What remained was what kind of Fleet would carry the data across the border it h
 
 ---
 
-**FLEET HEADQUARTERS — WITNESS ANNEX**  
-**THE CAPTAIN**
+***FLEET HEADQUARTERS — WITNESS ANNEX***  
+***THE CAPTAIN***
 
 Fleet Admiral **Elias Rowan** had not hurried Calder's sequestration.
 
@@ -120,7 +120,7 @@ Pause.
 
 Rowan waited. Calder had more in him when the room earned it.
 
-"No upstream illumination in segment seven," Calder said. "Procedure tightened. Tuesday routed around our silence—ordinary life by geometry, not faces. Faces stay out of the record." He paused. "Volume behaved like somewhere people call home. Inferred. I flagged it."
+"No upstream illumination in segment seven," Calder said. "Tuesday by geometry, not faces. Volume behaved like somewhere people call home—inferred, flagged."
 
 Rowan nodded once. Not agreement with policy. Receipt of witness.
 
@@ -166,7 +166,7 @@ He straightened his jacket the way he did before gangway—habit, not performanc
 
 **Felix Ortega** had headphones on in the pass-through alcove, logging Helion approach traffic with the focus of someone relearning a language. He looked up once. "Fleet control sounds thin after seven-alpha," he said. Not complaint. Inventory.
 
-**Lena Walsh** intercepted Calder before he reached the wardroom. "Four hours. Brenner signed. Ortega's next. You don't get a waiver." She handed him a medical slate. Calder signed. Walsh took it back without thanks and went to find Ortega.
+**Lena Walsh** intercepted Calder before he reached the wardroom. "Four hours. Brenner cleared. Ortega's next. You don't get a waiver." She handed him a medical slate. Calder signed. Walsh took it back without thanks and went to find Ortega.
 
 Down in the ring, **Elara Koss** argued with yard gamma about handshake coupling tolerances in a voice Calder could hear through deck plating—professional, immovable, the voice of engineering that had kept them breathing in someone else's corridor. A yard tech threw up his hands. Koss won. She usually did when the numbers were honest.
 
@@ -178,8 +178,8 @@ Calder was allowed to be a captain again.
 
 ---
 
-**FLEET HEADQUARTERS — OPERATIONS CONFERENCE ROOM**  
-**THE COMMANDERS**
+***FLEET HEADQUARTERS — OPERATIONS CONFERENCE ROOM***  
+***THE COMMANDERS***
 
 Rowan did not call it a council.
 
@@ -267,8 +267,8 @@ They were the bones policy had to fit, or policy would break Fleet from the insi
 
 ---
 
-**FLEET HEADQUARTERS — OPERATIONS TIER**  
-**THE DECISION**
+***FLEET HEADQUARTERS — OPERATIONS TIER***  
+***THE DECISION***
 
 Rowan did not choose Branch A.
 
@@ -288,7 +288,7 @@ Rowan read it without ceremony.
 
 Below it, Mercer's first principles page—one sheet, no oratory:
 
-**First Principles — Structured Civilization Beyond Fleet Survey Assumptions**
+***First Principles — Structured Civilization Beyond Fleet Survey Assumptions***
 
 1. **Observation precedes doctrine.** Witness bands remain singular. Inference routes by labeled context. Speculation does not enter executive summary without explicit flag.
 
@@ -360,12 +360,12 @@ It felt like paper finally heavy enough to stay where you put it.
 
 ---
 
-**FLEET COMMUNICATIONS COMMAND — ARCHIVE BAY**  
-**THE LAST REPORT**
+***FLEET COMMUNICATIONS COMMAND — ARCHIVE BAY***  
+***THE LAST REPORT***
 
 **Dana Holt** trusted timestamps because timestamps were how professionals admitted fallibility without calling each other liars.
 
-The archive bay was colder than the validation floor—climate control for media that outlived careers. Holt had started on VI-Gamma believing archives were where truth went to be forgotten. She had ended on Helion Prime learning archives were where truth went to become civilization.
+The archive bay was colder than the validation floor—climate control for media that outlived careers. Holt had started on the Kestran VI-Gamma watchpost believing archives were where truth went to be forgotten. She had ended on Helion Prime learning archives were where truth went to become civilization.
 
 The certified strategic witness record sat on the bay table in its binding—segment seven volumes, Holt's integrity flags, Okoye's epoch redline copy, Ellis's comparison brief, Thessaly's observation ledger cover sheet with bands intact. The executive summary carried interim terminology Fleet hated and could not yet replace. The fork annex lived in a separate sleeve Mercer had insisted remain physically distinct so no one could pretend branches had merged because staples did.
 
@@ -385,7 +385,7 @@ Nand signed validation completion.
 
 **Torres**, relay auditor from the return merge, signed as third witness because Communications did not trust elegance when redundancy was cheaper.
 
-The seal engaged with a sound Holt would remember the way she remembered VI-Gamma's flat returns—small, ordinary, definitive.
+The seal engaged with a sound Holt would remember the way she remembered VI-Gamma passive returns—small, ordinary, definitive.
 
 `CERTIFIED STRATEGIC WITNESS RECORD — ARCHIVE SEALED — RESTRICTED INTERNAL — INTERPRETATION ANNEX ROUTED SEPARATELY`
 
@@ -399,7 +399,7 @@ Not at the border—at the institution. At the shelves. At the place Fleet put t
 
 Jun Park had held the chain in segment seven.
 
-Holt had held the chain on VI-Gamma.
+Holt had held the chain on the VI-Gamma relay path.
 
 The chain had held.
 
@@ -437,8 +437,8 @@ Inside, history owned the report now.
 
 ---
 
-**FLEET HEADQUARTERS — OPERATIONS TIER**  
-**THE FIRST DOCTRINE**
+***FLEET HEADQUARTERS — OPERATIONS TIER***  
+***THE FIRST DOCTRINE***
 
 Evening light made Helion look like a city that believed in maintenance.
 
@@ -512,14 +512,14 @@ It was the office learning that some decisions did not need an audience to becom
 
 ---
 
-**KESTREL VEIL — BERTH FOURTEEN-C**  
-**NIGHT BEFORE PATROL**
+***KESTREL VEIL — BERTH FOURTEEN-C***  
+***NIGHT BEFORE PATROL***
 
 Calder could not sleep.
 
 Not from guilt—from inventory. The report was sealed. Holt's polymer band sat in archive cold store. Rowan's framework authorization had routed to annexes Calder was not invited to read tonight. His witness role was concluded; his hull clearance was not.
 
-He walked the cradle strip at second shift change when yard traffic thinned and Founders' Week residual banners finally came down on the berths that mattered. The *Kestrel Veil* looked smaller against Helion's industrial scale than she had against segment seven—scout-class, patched, listed two degrees port, breathing on correction-thrust stewardship until Koss signed gamma's ugly certification.
+He walked the cradle strip at second shift change when yard traffic thinned and Founders' Week residual banners finally came down on the berths that mattered. The *Kestrel Veil* looked smaller against Helion's industrial scale than she had against segment seven—scout-class, patched, listed two degrees port, breathing on correction-thrust stewardship until Koss certified gamma's ugly handoff.
 
 He thought of the executive summary with Thessaly's bands intact and Mercer's forks stapled beside it like siblings who did not speak at dinner. Fleet owned that now—not Calder, not Park, not Ortega's harmonics filed in triplicate. Owned the way institutions owned weather after someone measured it: useful, distributed, no longer personal.
 
@@ -534,6 +534,8 @@ He was a captain with a patched ship and amber damage boards and a frontier that
 Calder keyed the night log himself—*crew rest cycle authorized, patrol prep 0600, witness appendix custody confirmed archived*—and left the bridge before anyone could ask why he was awake.
 
 Being captain again was the work.
+
+Ortega's patrol pane still showed segment seven occupancy at the edge of classification—stable pattern, unresolved intent, waiting for the next epoch.
 
 ---
 

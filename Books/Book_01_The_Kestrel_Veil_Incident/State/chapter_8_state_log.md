@@ -20,12 +20,12 @@
 
 - **Renata Cho** — Station Chief Maintenance Officer, Kestran VI-Gamma; pragmatic Cartography maintenance authority; six-hour patch window
 - **Eban** — VI-Gamma maintenance tech (pin spacing, coupler work)
-- **Pell** — ring maintenance tech; falls asleep mid-sentence
+- **Pell** — Reing maintenance tech; falls asleep mid-sentence
 - **Sade Okwelu** — station clinic liaison (brief)
 
 ## SHIP STATE (END CH. 8)
 
-- **Status:** patched, not repaired; port list; ring three flicker; environmental three guest filter; station coupler on ring four; collar amplifier removed at departure
+- **Status:** patched, not repaired; port list; Reing 3 flicker; environmental three guest filter; station coupler on Reing 4; collar amplifier removed at departure
 - **Comms:** **out of VI-Gamma relay range** — no Fleet link, no station relay; local/internal only
 - **Tactical:** passive rebuild ~4%; local empty; no contact
 - **Life support:** operational, questionable; scrubbers loud; aft warm

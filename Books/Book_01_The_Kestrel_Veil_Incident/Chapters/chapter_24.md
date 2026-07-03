@@ -1,11 +1,11 @@
-﻿# Chapter 24
+# Chapter 24
 
 ## Edition 144
 
 ---
 
-**FLEET DOCTRINE BUREAU — CLASSIFICATION ANNEX**  
-**THE PUBLICATION**
+***FLEET DOCTRINE BUREAU — CLASSIFICATION ANNEX***  
+***THE PUBLICATION***
 
 Commander **Owen Mercer** did not hold a ceremony.
 
@@ -89,8 +89,8 @@ Fleet used it.
 
 ---
 
-**OUTER KESTRAN PATROL BAND — SKID *MORNING WATCH***  
-**FIELD ADAPTATION**
+***OUTER KESTRAN PATROL BAND — SKID *MORNING WATCH***  
+***FIELD ADAPTATION***
 
 **Lieutenant Sorin** had learned to distrust returns that looked interesting.
 
@@ -98,7 +98,7 @@ Interesting got you illuminated.
 
 Interesting got you incident reports with capital letters.
 
-The *Morning Watch* held patrol geometry on the seven-alpha adjacent band with the disciplined boredom Exploration prized and recruitment brochures lied about. Passive suite dwell extended. Emission hold nominal. Founders' Week advisories finally purged from the back display—Hwang had left them up long enough to prove corps culture leaked; Sorin had deleted them because clutter killed checklist discipline.
+The *Morning Watch* held patrol geometry on the seven-alpha adjacent band with the disciplined boredom Exploration prized and recruitment brochures lied about. Passive systems dwell extended. Emission hold nominal. Founders' Week advisories finally purged from the back display—Hwang had left them up long enough to prove corps culture leaked; Sorin had deleted them because clutter killed checklist discipline.
 
 The return appeared on sweep eleven—not dramatic, not clean: structured occupancy marker at the epoch edge with commuter merge inference stable, authentication density increase flagged *observed, intent unresolved*, no illumination geometry from upstream volume.
 
@@ -140,8 +140,8 @@ It felt like professionalism finally matching the sky.
 
 ---
 
-**FLEET CARTOGRAPHY SERVICE — MAP ROOM FOUR**  
-**LIVE MAPS**
+***FLEET CARTOGRAPHY SERVICE — MAP ROOM FOUR***  
+***LIVE MAPS***
 
 **Martine Okoye** remembered when tri-layer output started fights.
 
@@ -201,8 +201,8 @@ It was infrastructure.
 
 ---
 
-**FLEET COMMUNICATIONS COMMAND — VALIDATION BAY**  
-**NORMALIZATION**
+***FLEET COMMUNICATIONS COMMAND — VALIDATION BAY***  
+***NORMALIZATION***
 
 **Dana Holt** trusted timestamps.
 
@@ -254,7 +254,7 @@ Communications had not unified Fleet meaning.
 
 Communications had built a system that carried plural meaning without breaking custody—a harder engineering problem than anyone in Operations had admitted when Rowan signed Edition 144.
 
-Holt thought of VI-Gamma's flat returns before the incident.
+Holt thought of VI-Gamma passive returns before the incident.
 
 She thought of Jun Park's personal lane closed when the ship departed berth.
 
@@ -272,8 +272,8 @@ Private thoughts got shift end.
 
 ---
 
-**FLEET HEADQUARTERS — OPERATIONS TIER**  
-**THE OBSERVER**
+***FLEET HEADQUARTERS — OPERATIONS TIER***  
+***THE OBSERVER***
 
 Fleet Admiral **Elias Rowan** did not call a staff meeting.
 
@@ -325,8 +325,8 @@ That was also doctrine.
 
 ---
 
-**OUTER KESTRAN APPROACH — SCOUT *KESTREL VEIL***  
-**THE FRONTIER REMAINS UNCHANGED**
+***OUTER KESTRAN APPROACH — SCOUT *KESTREL VEIL***  
+***THE FRONTIER REMAINS UNCHANGED***
 
 **Calder Venn** stood on his bridge and watched nothing happen.
 
@@ -348,15 +348,13 @@ Occupied silence.
 
 Calder had learned the difference in segment seven the way surgeons learned tissue—by mistake first, by discipline after.
 
-"Passive suite stable," Ortega said from sensors. "Occupancy at epoch edge—same pattern family as segment seven. No hunt on our bearing. Logging harmonics, not intent."
+"Passive systems stable," Ortega said from sensors. "Occupancy at epoch edge—same pattern family as segment seven. No hunt on our bearing. Logging harmonics, not intent."
 
-"Log it," Calder said. "Exploration patrol restraint tag. Witness hull on a leash Fleet wrote down."
+"Log it," Calder said. "Restraint tag. Witness hull on a leash Fleet wrote down."
 
 Park almost smiled. "Footer says collapse not authorized. Strange on scout rail."
 
-"Accurate," Calder said.
-
-He did not dominate the watch with witness grammar or quote Rowan. The crew had read the manual, patched the hull, and returned from neighbors Fleet still refused to name in executive summary. Today they held geometry because holding geometry was the job—not improvisation, infrastructure.
+"Accurate." Calder turned back to the rail. "Hold geometry. Passive only."
 
 Beyond the border Fleet notated and did not yet understand, life continued without requesting Fleet's permission.
 
@@ -400,7 +398,7 @@ Sometimes crossing meant standing in passable geometry with your emissions disci
 
 "Aye, Captain."
 
-Park logged the tag; Ortega logged the bands; Walsh logged the amber boards that would outlive the watch. Calder watched the frontier remain unchanged.
+Park keyed the tag; Ortega noted the bands; Walsh ran the amber boards that would outlive the watch. Calder watched the frontier remain unchanged.
 
 He had been First Witness.
 
@@ -427,6 +425,8 @@ Inside, disciplined witness.
 Between, the margin where civilizations either lied to themselves or grew up.
 
 Fleet had chosen, for now, to grow up without parade.
+
+On the patrol skid, Ortega's pane still showed segment seven occupancy at the edge of classification—stable pattern, unresolved intent, waiting for the next epoch.
 
 **END BOOK ONE**
 

@@ -11,6 +11,6 @@ Gemini accepts PDF and plain text (.txt). It does not accept EPUB or DOCX for do
 
 For a full-manuscript critique, upload Part 1, evaluate, then continue with Parts 2-3.
 
-Regenerate: powershell -ExecutionPolicy Bypass -File .\export_for_evaluation.ps1
+Regenerate: `cd ..\Manuscript\_build` then `powershell -ExecutionPolicy Bypass -File .\export_for_evaluation.ps1`
 
-Print PDF: run build_manuscript.ps1 on a machine with Microsoft Word installed.
+Print PDF: `Manuscript\_build\build_manuscript.ps1` (Word COM) or XeLaTeX via pandoc locally.

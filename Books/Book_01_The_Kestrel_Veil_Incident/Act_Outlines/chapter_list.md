@@ -6,6 +6,7 @@ Full novel structure for *The Kestrel Veil Incident* (The Solmare Cycle · Book 
 **Rewrite tracker:** `../Notes/REWRITE_STATUS.md`  
 **Revision philosophy:** `../../../Writing_System/Style_Guide/revision_philosophy.md`  
 **Craft doctrine:** `../../../Writing_System/Style_Guide/solmare_craft_doctrine.md` (POV flow, competence, scene test, Solmare Rule)  
+**Fleet operational language:** `../../../Writing_System/Style_Guide/fleet_systems_lexicon.md` (tactical systems, VI-Gamma, sensor/comms layers, procedural tone)  
 **Chapter length:** `../../../Writing_System/Style_Guide/chapter_length_principle.md` (dynamic model — ~4,000 guideline)  
 **Series doctrine:** `../../../Writing_System/Series_Principles/series_principles.md`
 
@@ -33,7 +34,7 @@ Book One is structured around **escalation of understanding**, not episodic myst
 
 ## Manuscript Reading Order (Publication)
 
-Full build sequence for `Manuscript/build_manuscript.ps1` — see `Archive/archive_placement.json`.
+Full build sequence for `Manuscript/_build/build_manuscript.ps1` — see `Archive/archive_placement.json`.
 
 | # | Piece | File | Words | Notes |
 |---|-------|------|------:|-------|
@@ -45,6 +46,7 @@ Full build sequence for `Manuscript/build_manuscript.ps1` — see `Archive/archi
 | 4 | Routine Patrol | `chapter_4.md` | 3,210 | Act I ends |
 | 5 | Mission's End | `chapter_5.md` | 10,781 | Act II opens |
 | 6 | First Contact (Anomaly Site Alpha) | `chapter_6.md` | 5,484 | Act II |
+| — | **Kestrel Veil schematic** | `Manuscript/assets/kestrel_veil_schematic.png` | — | **Before Ch. 7** — Fleet reconnaissance vessel blueprint; preamble in `chapter_7.md` |
 | 7 | The Living Ship | `chapter_7.md` | 9,675 | Act II |
 | 8 | The Quiet Before the Silence | `chapter_8.md` | 6,544 | Act II ends |
 | — | **FCC-7712** | `Archive/archive_02_fleet_communications_passive_detection_review.md` | 30 | After Ch. 8 — Fleet Communications Command; Passive Detection Review |
@@ -70,7 +72,11 @@ Full build sequence for `Manuscript/build_manuscript.ps1` — see `Archive/archi
 **Total (publication build):** ~112,437 words  
 **Tracker:** `Notes/REWRITE_STATUS.md` · **Status:** Prologue + Ch. 1–24 + Epilogue + Archives (FSA-143-07, FCC-7712, FDB-144-DRAFT) **LOCKED**
 
+**Source of truth:** `Chapters/*.md` (and `Archive/` interludes). Compiled `Manuscript/Act_*.md` and full-book exports are **not** auto-regenerated — rebuild only when author requests (`Manuscript/_build/rebuild_act.ps1` per act, or `build_manuscript.ps1` for publication outputs).
+
 **Bookend symmetry:** Prologue (*Edition 143 · Required Reading*) + FSA-143-07 → narrative → Epilogue (*Edition 144 · Required Reading*). FCC-7712 after Incident; FDB-144-DRAFT after *New Words*.
+
+**Illustration placement:** *Kestrel Veil* schematic immediately before Ch. 7 (*The Living Ship*) — source preamble in `Chapters/chapter_7.md`; assets in `Manuscript/assets/` and `Ships/kestrel_veil_schematic.png`. Build emits preamble via `Get-ChapterPreamble` in `build_manuscript.ps1` (before chapter title + logo).
 
 **Generation guides:**
 
@@ -103,11 +109,44 @@ What begins as routine patrol becomes the **Kestrel Veil Incident** — then dis
 | Status | Pieces |
 |--------|--------|
 | ✓ **LOCKED** | Prologue, FSA-143-07, FCC-7712, FDB-144-DRAFT, Ch. 1–24, Epilogue |
-| Build | `Manuscript/build_manuscript.ps1` — archives insert per `Archive/archive_placement.json` |
+| ✓ **Editorial** | Global terminology + system-behavior passes applied to `Chapters/` (see below) |
+| ✓ **Illustration** | *Kestrel Veil* schematic — before Ch. 7 (see **Illustrations** below) |
+| Build (on request) | `Manuscript/_build/rebuild_act.ps1` · `Manuscript/_build/build_manuscript.ps1` — archives per `Archive/archive_placement.json` |
 
 **Written prose (full publication order):** ~112,380 words. See **Manuscript Reading Order** above.
 
 **Act IV planning:** `Planning/Fleet_Authority_Briefing_Packet.md` · **Archive index:** `Archive/README.md`
+
+---
+
+## Editorial Passes (Chapters — Complete)
+
+Applied to **`Chapters/*.md`** only (plot, scene order, and dialogue intent unchanged). Canonical rules: `Writing_System/Style_Guide/fleet_systems_lexicon.md`. Automation: `Manuscript/_build/terminology_pass.py`.
+
+| Pass | Scope | Summary |
+|------|-------|---------|
+| **Reing** | Ch. 1–24, State, `Ships/Kestrel_Veil.md` | Ship system rings → **Reing 1–5**; yard/station *ring* and nav *bearing* unchanged |
+| **Certify** | Ch. 3–7, 10–11, 13–14, 17, 20, 23; State | Yard/safety *certify* where appropriate; document *sign* / physical *sign* / metaphor preserved |
+| **POV headers** | Ch. 5–24 | Scene breaks → `***ALL CAPS LOCATION***` |
+| **Fleet systems lexicon** | Ch. 1–24; character/ship docs | *Defensive* department/suite/post removed → **tactical watch**, **tactical systems**; capability *suite* → systems/array/stack; **VI-Gamma** = relay/routing domain, not destination |
+| **Personnel posting** | Ch. 3–17 | `on/from/at tactical` → **tactical watch** where posting, not system-layer phrasing |
+| **Procedural + command** | Ch. 3–14, 16, 18–19, 23–24 | Varied *logged/confirmed* stamp verbs; Calder direct prioritization; compressed explanatory narration; reduced body-metaphor saturation; chapter-end unresolved classification threads |
+
+**Preserved (doctrine / accommodation):** `defensive discharge`, `defensive withdrawal`, `defensive readiness`, `defensive planning`, `Intelligence defensive`, `honor suite`, `translation suites`.
+
+**Ship bible:** `Ships/Kestrel_Veil.md` aligned with passive **systems** and scout-class language.
+
+---
+
+## Illustrations
+
+| Asset | Placement | Source | Notes |
+|-------|-----------|--------|-------|
+| `Manuscript/assets/kestrel_veil_schematic.png` | Immediately **before Ch. 7** | Preamble in `Chapters/chapter_7.md` | Scout-class reconnaissance vessel schematic — profile, cutaway, Reing spires, photon engagement scar (bearing 214 mark 6). Copy also at `Ships/kestrel_veil_schematic.png`. |
+
+**Authoring:** HTML `<img>` block precedes `# Chapter 7` in `chapter_7.md` (path `../Manuscript/assets/…` for chapter-source preview). `build_manuscript.ps1` → `Get-ChapterPreamble` rewrites to `assets/kestrel_veil_schematic.png` and inserts before chapter title + `chapter_logo.png` on publication build.
+
+**Reading order:** Ch. 6 ends → schematic (full-width) → Ch. 7 title → chapter logo → *The Living Ship* prose.
 
 ---
 
@@ -245,11 +284,12 @@ Dual POV same engagement — VI-Gamma watchpost witnesses void; *Veil* survives 
 ## Chapter 7 — The Living Ship
 
 **Status:** **LOCKED** (~9,675 words)  
-**Character sheets:** Holt, Nand, Park, Rowan, Sato, Mercer
+**Character sheets:** Holt, Nand, Park, Rowan, Sato, Mercer  
+**Illustration:** `kestrel_veil_schematic.png` — placed immediately before this chapter (see **Illustrations**)
 
 ### Purpose
 
-Incomplete recovery — repair priority sequence; Fleet via VI-Gamma relay; destruction belief corrected; orders to Neutral Zone seven-alpha.
+Incomplete recovery — repair priority sequence; Fleet via VI-Gamma relay; destruction belief corrected; orders to Neutral Zone seven-alpha. Opens on the ship as lived space — schematic precedes prose as reader orientation.
 
 ### End state
 
@@ -367,6 +407,16 @@ All contact and border chapters must support:
 - **Perception-based engagement limits** — no traditional battle clarity
 - **Escalation of understanding** — each act advances what Fleet and crew *know*, not what they *mysteriously detect*
 
+**Fleet operational language** (`fleet_systems_lexicon.md`):
+
+- **Tactical Systems** — integrated shipboard combat/readiness; no *defensive department*, *defensive suite*, or *defensive watch* as posting
+- **VI-Gamma** — routing / relay / classification filter layer; traffic *through* VI-Gamma, not *to* VI-Gamma as destination (watchpost at Kestran VI-Gamma is the physical node hosting relay control)
+- **Layer separation** — ship/system truth ≠ Fleet classification; Holt = signal-to-Fleet translation; Rowan/Sato = classification authority
+- **Sensor phrasing** — indicates / resolves / profile suggests; not *sensor confirms truth*
+- **Procedural tone** — vary stamp verbs; implied system state over repetitive *logged/confirmed* chains
+- **Calder** — restrained but active prioritization; short directives without exposition
+- **Chapter endings** — at least one unresolved classification, relay mismatch, or passive anomaly where operational sequences close
+
 **Forbidden without outline revision:**
 
 - Mystery-anomaly logs as central narrative hook
@@ -378,8 +428,8 @@ All contact and border chapters must support:
 **Doctrine threads to carry forward (from Incident):**
 
 - Cloaking validation failure (Vex / Leviathan prototype)
-- Scout-class passive detection as strategic significance
-- VI-Gamma relay chain (Holt/Nand) as operational Fleet comms bridge
+- Scout-class passive **systems** as strategic significance (not *suite*)
+- VI-Gamma relay chain (Holt/Nand) as operational Fleet comms bridge — Holt translates signal; Fleet classifies
 
 ---
 
@@ -389,12 +439,17 @@ All contact and border chapters must support:
 |----------|------|
 | `Notes/book1_core_premise.md` | Macro premise and 4-act framing |
 | `Notes/REWRITE_STATUS.md` | Manuscript lock status and word totals |
+| `Writing_System/Style_Guide/fleet_systems_lexicon.md` | Fleet operational terminology and editorial pass rules |
 | `Archive/README.md` | Archive interlude index |
 | `Archive/archive_placement.json` | Build insertion order |
-| `Manuscript/build_manuscript.ps1` | Master manuscript regeneration |
+| `Manuscript/_build/terminology_pass.py` | Repeatable defensive/suite/VI-Gamma/personnel posting pass |
+| `Manuscript/_build/rebuild_act.ps1` | Rebuild `Act_*.md` from chapters (author request only) |
+| `Manuscript/_build/build_manuscript.ps1` | Full publication manuscript + exports (author request only) |
 | `State/current_state.md` | Runtime continuity (update post–Book One as needed) |
 | `Planning/Fleet_Authority_Briefing_Packet.md` | Act IV Fleet knowledge / misunderstanding map |
 | `Ships/Kestrel_Veil.md` | Canonical ship bible |
+| `Ships/kestrel_veil_schematic.png` | Ship schematic (duplicate of manuscript asset) |
+| `Manuscript/assets/kestrel_veil_schematic.png` | Publication schematic — before Ch. 7 |
 | `Universe/Fleet_Authority/` | Fleet institutional lore (Act IV) |
 | `Planning/Solmare_Directors_Brief_Template.md` | Author chapter commission format |
 | `chapter_5_generation_directive.md` | Ch. 5 Incident spec |

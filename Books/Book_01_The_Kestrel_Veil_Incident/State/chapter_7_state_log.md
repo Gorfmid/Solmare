@@ -8,13 +8,13 @@
 
 ## KESTREL VEIL — REPAIR SEQUENCE (ON PAGE)
 
-1. Auxiliary / backup electrical (stack two; ring three relay)
+1. Auxiliary / backup electrical (stack two; Reing 3 relay)
 2. Life support redundancy (loops two/three married; environmental three — **operational, not repaired**; monitoring continues; closed compartments)
 3. Internal communications (rings one–five; pairs tests)
 4. External communications (short-range fringe to VI-Gamma only; **Fleet via Holt/Nand relay** — delays, confirm tokens, dropped packets)
 5. Tactical rebuild (~10% local; Halden/Hale)
 6. Navigation (buffer fix → manual optical hood → star fix)
-7. Engines (correction thrusters for course change; ring five)
+7. Engines (correction thrusters for course change; Reing 5)
 
 ## CREW / EMOTIONAL BEATS
 

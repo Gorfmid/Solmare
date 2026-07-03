@@ -1,11 +1,11 @@
-﻿# Chapter 15
+# Chapter 15
 
 ## The Point of No Return
 
 ---
 
-**THE DOMINION — STRATEGIC SECURITY DIRECTORATE**  
-**THIRTY-ONE**
+***THE DOMINION — STRATEGIC SECURITY DIRECTORATE***  
+***THIRTY-ONE***
 
 Rain moved across the arcade glass in sheets that made Founders' Week banners shimmer five days out, if rotation held.
 
@@ -115,8 +115,8 @@ For now, broader listening was enough.
 
 ---
 
-**KESTREL VEIL — WARDROOM**  
-**THE DEBATE**
+***KESTREL VEIL — WARDROOM***  
+***THE DEBATE***
 
 Segment seven, day thirteen.
 
@@ -132,7 +132,7 @@ Nobody wanted to stay.
 
 Everyone was correct.
 
-Thessaly spoke first because that was her job when the room needed structure. "Status on record: passive posture holds. Ring three handshake nominal. Emitter discipline intact. Dominion traffic: no search-geometry spike. Remaining days: several, if authorized."
+Thessaly spoke first because that was her job when the room needed structure. "Status on record: passive posture holds. Reing 3 handshake nominal. Emitter discipline intact. Dominion traffic: no search-geometry spike. Remaining days: several, if authorized."
 
 She tapped a band. "Departure now: picture Fleet has never had. Remaining: refinement."
 
@@ -216,7 +216,7 @@ Thessaly: "Report draft continues. Observation terms only."
 
 "Yes, sir."
 
-Brenner rose first. "Ring three handshake stress through the night. She complains, you'll know before dawn."
+Brenner rose first. "Reing 3 handshake stress through the night. She complains, you'll know before dawn."
 
 Calder nodded. "Thank you."
 
@@ -230,8 +230,8 @@ It was the moment you accepted you never would— and still chose which unknowns
 
 ---
 
-**THE DOMINION — DISTRICT NINE / KOVAT HOME**  
-**THE GARDEN**
+***THE DOMINION — DISTRICT NINE / KOVAT HOME***  
+***THE GARDEN***
 
 **Daria Kovat** knelt in the small garden plot behind the apartment block and showed **Nika** how to stake winter greens for Founders' Week visitors— not ceremony greens, practical ones, the kind neighbors admired because admiration was cheaper than hiring someone.
 
@@ -325,8 +325,8 @@ That was inheritance too.
 
 ---
 
-**KESTREL VEIL — WARDROOM**  
-**THE REPORT**
+***KESTREL VEIL — WARDROOM***  
+***THE REPORT***
 
 **Mira Thessaly** had spread paper across the wardroom table because paper remembered who had touched it and because the report would need to survive officers who had not lived inside segment seven.
 
@@ -432,8 +432,8 @@ Thessaly began again— slower, more careful, building a report that might, if t
 
 ---
 
-**THE DOMINION — BORDER OBSERVATION CENTER KESSIK**  
-**THE WATCH**
+***THE DOMINION — BORDER OBSERVATION CENTER KESSIK***  
+***THE WATCH***
 
 No Leviathan.
 
@@ -541,8 +541,8 @@ And the warning.
 
 ---
 
-**KESTREL VEIL — COMMAND DECK**  
-**THE DECISION**
+***KESTREL VEIL — COMMAND DECK***  
+***THE DECISION***
 
 Late watch.
 
@@ -558,7 +558,7 @@ The bridge sparse— systems murmuring, crew functional, responsibility distribu
 
 Calder had slept one hour and dreamed of Helion Prime terraces— graduation swords, Lisette's roll on the counter, Founders' Week as celebration, not maintenance schedule.
 
-He woke to Brenner's message: *ring three nominal. She'll hold.*
+He woke to Brenner's message: *Reing 3 nominal. She'll hold.*
 
 That was enough.
 
@@ -600,7 +600,7 @@ He left the bridge without ceremony.
 
 Down through whisper-quiet sections where scrubbers counted time the way other ships counted distance. Not inspection. Not nostalgia. A commander reminding himself what departure was for.
 
-Engineering first— ring three access, low light, the honest smell of metal worked warm.
+Engineering first— Reing 3 access, low light, the honest smell of metal worked warm.
 
 **Elara Koss** had a panel open that could have waited until Fleet space. She did not wait. Professionals finished jobs because unfinished jobs became someone else's emergency.
 
@@ -618,7 +618,7 @@ He moved on. They returned to the coupling without watching him go.
 
 The buffer alcove off communications was brighter— **Jun Park** at a console with segment seven threads arranged in labeled stacks, then copied, then copied again. Triple redundancy. Segregated lanes. Timestamp integrity. The ugly honest report Thessaly was building lived here too, beside listen watch logs and correlation strips and the quiet persistence of a man who believed losing data was worse than losing sleep.
 
-On the secondary display, low volume, **Dana Holt** sat asleep at her VI-Gamma console— nineteen years of shifts visible in the stillness of her shoulders, someone's blanket draped careful not to touch the mic. **Priya Nand** had done that, probably. Park kept the lane open without waking her. He did not look up when Calder paused.
+On the secondary display, low volume, **Dana Holt** sat asleep at her watchpost console— nineteen years of shifts visible in the stillness of her shoulders, someone's blanket draped careful not to touch the mic. **Priya Nand** had done that, probably. Park kept the lane open without waking her. He did not look up when Calder paused.
 
 "She held the door for us," Calder said quietly.
 
@@ -656,6 +656,8 @@ Calder returned to the bridge.
 
 Thessaly looked up. Brenner would be on helm when the watch required it. The ship was ready. The people were ready.
 
+"Departure blocks close in six," she said. "No open handoffs. If it's not on the slate, it doesn't exist."
+
 Calder said, "We have enough."
 
 Silence.
@@ -670,11 +672,7 @@ She already knew.
 
 Calder gave the order.
 
-"Tomorrow morning."
-
-Pause.
-
-"Course for home."
+"Tomorrow morning. Course for home. No upstream until segment five clearance."
 
 Nobody celebrated.
 
@@ -688,7 +686,7 @@ Nobody objected.
 
 The bridge simply absorbed the decision— the way bridges absorbed course changes, the way professionals absorbed truth when the math finally outweighed the appetite to stay.
 
-Reyes confirmed home vectors— first leg conservative, no upstream burst until segment five clearance, per Calder's prior constraint. Brenner: "One more night. Ring three holds or you'll hear it." Tanaka: "Emitters dark. Confirmed." Ortega put the headphone back— listening, because listening was what they owed the corridor even while leaving it.
+Reyes confirmed home vectors— first leg conservative, no upstream burst until segment five clearance, per Calder's prior constraint. Brenner: "One more night. Reing 3 holds or you'll hear it." Tanaka: "Emitters dark. Confirmed." Ortega put the headphone back— listening, because listening was what they owed the corridor even while leaving it.
 
 Thessaly stepped closer to the rail. Not challenge. Partnership.
 

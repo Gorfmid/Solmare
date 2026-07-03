@@ -4,9 +4,9 @@
 
 ---
 
-**FLEET SPACE — HELION PRIME OUTER APPROACH**
+***FLEET SPACE — HELION PRIME OUTER APPROACH***
 
-**RETURN**
+***RETURN***
 
 Traffic control did not know what history looked like.
 
@@ -30,13 +30,13 @@ The phrase landed without triumph. Calder had heard *welcome home* on postings t
 
 "Same tolerance band, some days."
 
-The *Kestrel Veil* slid into Fleet-controlled geometry the way she did everything now—reluctant, obedient, vibrating on a frequency Calder had learned to read as *holding*. Ring three coughed once on the approach vector. Nobody flinched. That was also home.
+The *Kestrel Veil* slid into Fleet-controlled geometry the way she did everything now—reluctant, obedient, vibrating on a frequency Calder had learned to read as *holding*. Reing 3 coughed once on the approach vector. Nobody flinched. That was also home.
 
-Dock assignment arrived on Thessaly's secondary pane before Calder asked for it— berth fourteen-C, the same outer-yard cradle strip where he had read damage history appendices and pretended green readiness charts meant something. The universe had not agreed to his pretense then. It was not agreeing now. Medical notification queued crew triage in shifts, priority for defensive and engineering, psychiatric consult optional and available; Calder signed the acknowledgment without reading the footer. Engineering inspection request assigned yard team gamma, six-hour window, hull and correction-thruster certification for *patched transit only*— the word *patched* appeared twice, and Calder did not confuse patched with ready. Rowan had said that through Holt's relay when the margin was six hours and the border was still ahead. Archive security protocols flagged Jun Park's chain— triple redundancy, segregated buffers, no upstream merge until Fleet Communications confirmed pickup handshake and Cartography liaison validated bearing continuity.
+Dock assignment arrived on Thessaly's secondary pane before Calder asked for it— berth fourteen-C, the same outer-yard cradle strip where he had read damage history appendices and pretended green readiness charts meant something. The universe had not agreed to his pretense then. It was not agreeing now. Medical notification queued crew triage in shifts, priority for tactical and engineering, psychiatric consult optional and available; Calder signed the acknowledgment without reading the footer. Engineering inspection request assigned yard team gamma, six-hour window, hull and correction-thruster certification for *patched transit only*— the word *patched* appeared twice, and Calder did not confuse patched with ready. Rowan had said that through Holt's relay when the margin was six hours and the border was still ahead. Archive security protocols flagged Jun Park's chain— triple redundancy, segregated buffers, no upstream merge until Fleet Communications confirmed pickup handshake and Cartography liaison validated bearing continuity.
 
 A secondary flag blinked—yard intake requesting damage summary for crane assignment. Calder forwarded Koss's one-line without embellishment: *starboard weld scar stable, list two degrees port, correction thrust certified ugly*. The controller copied it without comment. Fleet spoke fluent damage when it had to.
 
-On the bridge, the crew held the posture of people who had crossed a border and not yet uncrossed it inside their own heads— **Felix Ortega** with headphones on half-mast, still listening in Fleet-polite traffic that felt suddenly insufficient; **Mira Hale** on defensive watch out of habit though cradle approach geometry offered nothing to shoot at; **Yuki Tanaka** running emitter discipline checks against a sky that was not trying to hide anything.
+On the bridge, the crew held the posture of people who had crossed a border and not yet uncrossed it inside their own heads— **Felix Ortega** with headphones on half-mast, still listening in Fleet-polite traffic that felt suddenly insufficient; **Mira Hale** on tactical watch out of habit though cradle approach geometry offered nothing to shoot at; **Yuki Tanaka** running emitter discipline checks against a sky that was not trying to hide anything.
 
 Calder thought of segment seven—the corridors that had hummed with commuter windows and freight classification and authentication density increases that meant *someone was tightening procedure without illuminating the sky*. He thought of how quiet the bridge felt without that other rhythm. Not empty. Different. Fleet traffic control used polite merge language and assumed the lanes belonged to the people speaking.
 
@@ -62,9 +62,9 @@ Only the reader knew history had arrived in a scout-class hull with yellow tape 
 
 ---
 
-**FLEET COMMUNICATIONS COMMAND — HELION PRIME**
+***FLEET COMMUNICATIONS COMMAND — HELION PRIME***
 
-**THE NETWORK**
+***THE NETWORK***
 
 **Dana Holt** had been at Communications Command for eleven days—long enough to learn which coffee machine lied about temperature and which duty admiral treated fringe posts as career endings instead of hinge points.
 
@@ -86,7 +86,7 @@ One by one, she closed them.
 
 Not delete. Close. The event had a terminus now. The scout had returned. The chain had held.
 
-Nand set a cup on the console edge. "VI-Gamma node?"
+Nand set a cup on the console edge. "VI-Gamma relay node?"
 
 "Still sweeping. They'll keep sweeping until someone tells them to stop being afraid of void." Holt sipped. The coffee was too hot and honest. "We're not on the fringe anymore. We're on the merge."
 
@@ -94,7 +94,7 @@ Communications Command looked nothing like VI-Gamma—glass and steel and blue d
 
 Holt had believed that too, once. She still believed it. She believed it differently now.
 
-Communications Command had brought her to Helion Prime for the return—not promotion, not punishment, *hinge*. Someone upstairs had decided the fringe truth needed a body in the building where pathways were built. Priya Nand had been pulled from VI-Gamma secondary watch because validation signatures meant more when the auditor was in the room where merge errors happened.
+Communications Command had brought her to Helion Prime for the return—not promotion, not punishment, *hinge*. Someone upstairs had decided the fringe truth needed a body in the building where pathways were built. Priya Nand had been pulled from the Kestran VI-Gamma watchpost secondary watch because validation signatures meant more when the auditor was in the room where merge errors happened.
 
 "We need secure relay pathways for the segment seven bundle," she said. "Segregated from general Founders' Week residual traffic. Executive summary to Operations. Raw archives to Cartography and Historical routing. Engineering logs to yard certification. Medical to triage—not merged with intelligence queues."
 
@@ -130,9 +130,9 @@ Holt closed the last monitoring file from the Incident window. The board did not
 
 ---
 
-**FLEET HISTORICAL OFFICE — LEVEL EIGHT, ADMINISTRATIVE ANNEX**
+***FLEET HISTORICAL OFFICE — LEVEL EIGHT, ADMINISTRATIVE ANNEX***
 
-**THE SORTING ROOM**
+***THE SORTING ROOM***
 
 **Soraya Ellis** had wanted to work in Historical Office because Founders' Week exhibits made her feel like Fleet had a beginning worth protecting.
 
@@ -142,7 +142,7 @@ The sorting room was not grand. It was practical—long tables, label printers, 
 
 Ellis signed the custody receipt and opened the first crate.
 
-The *Kestrel Veil* report did not arrive as a single thing. It arrived as what Fleet was built to do with large truths— divide them into specialties until each specialty could pretend it understood the whole: navigation data to Cartography Service— lane merges, bearing families, epoch contradictions flagged in Thessaly's appendices; sensor logs to Intelligence queue— passive archives, correlation strips, discharge profiles from the Incident still referenced as baseline; engineering to yard certification and Logistics— correction-thruster curves, ring three handshake lag, patched hull geometry; communications to Holt's chain validation— relay timestamps, segregated lanes, destruction assessment correction history; historical comparisons to Ellis's own desk— frontier provisional volumes, Founders' Week origin maps, prior survey epochs that had shaded segment seven *low activity*.
+The *Kestrel Veil* report did not arrive as a single thing. It arrived as what Fleet was built to do with large truths— divide them into specialties until each specialty could pretend it understood the whole: navigation data to Cartography Service— lane merges, bearing families, epoch contradictions flagged in Thessaly's appendices; sensor logs to Intelligence queue— passive archives, correlation strips, discharge profiles from the Incident still referenced as baseline; engineering to yard certification and Logistics— correction-thruster curves, Reing 3 handshake lag, patched hull geometry; communications to Holt's chain validation— relay timestamps, segregated lanes, destruction assessment correction history; historical comparisons to Ellis's own desk— frontier provisional volumes, Founders' Week origin maps, prior survey epochs that had shaded segment seven *low activity*.
 
 Ellis watched a Cartography courier take navigation without the executive summary, a Doctrine Bureau intern collect the summary without the sensor raw, an Engineering petty officer cheerfully abscond with damage schematics that said more about survival than about construction. Nobody said anything dramatic— only *What's the edition reference on this merge notation?* and *Historical wants the survey epoch overlay back by sixteen hundred* and *Intelligence will scream if we don't split passive harmonics from tactical discharge*.
 
@@ -192,9 +192,9 @@ Institutions behaved like institutions. That was not failure. That was metabolis
 
 ---
 
-**FLEET COMMAND — OPERATIONS FLOOR**
+***FLEET COMMAND — OPERATIONS FLOOR***
 
-**THE FIRST READING**
+***THE FIRST READING***
 
 Fleet Admiral **Elias Rowan** read standing up.
 
@@ -238,9 +238,9 @@ Mercer was already moving.
 
 ---
 
-**HELION PRIME OUTER YARDS — BERTH FOURTEEN-C**
+***HELION PRIME OUTER YARDS — BERTH FOURTEEN-C***
 
-**THE WAIT**
+***THE WAIT***
 
 The hardest part of command was not the border.
 
@@ -248,7 +248,7 @@ It was the waiting afterward—when your body stood on familiar decking but your
 
 Medical exams: bloodwork, neural stress scan, the polite fiction that trauma fit in forms. Calder answered questions in complete sentences. He did not perform fine. He performed *functional*, which was what the forms actually measured.
 
-Maintenance interviews: yard gamma team recording ring three handshake lag with the respect of engineers who knew patched when they saw it. **Elara Koss** spoke for the ship in a dialect Calder could not fully translate. **Ari Halden** spoke for defensive suites. **Felix Ortega** spoke for listen logs in a voice that made civilians sound like strategic fact.
+Maintenance interviews: yard gamma team recording Reing 3 handshake lag with the respect of engineers who knew patched when they saw it. **Elara Koss** spoke for the ship in a dialect Calder could not fully translate. **Ari Halden** spoke for tactical systems. **Felix Ortega** spoke for listen logs in a voice that made civilians sound like strategic fact.
 
 Security debrief scheduling: blocks on the slate, names of officers Calder did not know yet, the word *witness* appearing without ceremony.
 
@@ -274,7 +274,7 @@ That was honest. History had not arrived at judgment. History had arrived at int
 
 Calder visited the *Kestrel* one last time before Fleet Headquarters claimed his afternoon.
 
-Brenner remained aboard—ineligible for shore leave until engineering certification signed off on the fiction that a hull could be trusted to sit still without complaining.
+Brenner remained aboard—ineligible for shore leave until engineering certification cleared on the fiction that a hull could be trusted to sit still without complaining.
 
 They met at the scarred bulkhead on the command deck approach, the same plating Calder had rested his hand on when he said *we found neighbors* and the ship had listened the way she listened to everything—without sentiment, without speech.
 
@@ -296,7 +296,7 @@ He did not say that aloud. Brenner would have mocked him kindly and been correct
 
 "Ship's eventual disposition?" Calder said. "Archive. Exhibit. Scrap."
 
-"Not yet." Brenner touched the bulkhead with two fingers—the same gesture as kicking Corridor C, minus the kick. "Hull's still here. Ring three still holds."
+"Not yet." Brenner touched the bulkhead with two fingers—the same gesture as kicking Corridor C, minus the kick. "Hull's still here. Reing 3 still holds."
 
 "Acknowledged."
 
@@ -308,9 +308,9 @@ He was not young in that way anymore.
 
 ---
 
-**FLEET HEADQUARTERS — EVENING WATCH**
+***FLEET HEADQUARTERS — EVENING WATCH***
 
-**THE CALL**
+***THE CALL***
 
 Fleet Headquarters at evening watch looked like a civilization that intended to last.
 
@@ -352,11 +352,9 @@ The report's journey had just begun—divided across Historical sorting tables, 
 
 History moved through Fleet Authority one department at a time.
 
-Calder did not know what Rowan would say.
+Rowan's read would be advisory. The witness filing wasn't.
 
-He knew Rowan had read the summary.
-
-That was enough to carry up the last corridor.
+He carried that up the last corridor.
 
 The chapter ended before the meeting began.
 

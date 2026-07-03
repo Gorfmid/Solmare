@@ -2,7 +2,7 @@
 
 ## First Contact (Anomaly Site Alpha)
 
-**PART 1 — DANA HOLT POV (KESTRAN VI-GAMMA WATCHPOST)**
+***PART 1 — DANA HOLT POV (KESTRAN VI-GAMMA WATCHPOST)***
 
 ---
 
@@ -12,7 +12,7 @@ Dana Holt had done nineteen years of shifts like this one—long baselines, low 
 
 Nothing happening was the job. Nothing happening was success.
 
-On her personal slate, buried three folders where Fleet audits rarely looked, a draft to **Jun Park** sat open the way it had for eleven days. *Saw the posting. Kestrel Veil. Scout life.* She had written and deleted the rest a dozen times. Jun had messaged first—short, warm, not asking for much. They had grown up on the same outer-district block on Helion Prime. They had not been in love. They had been each other's proof that home still existed when careers diverged. She would reply after this watch.
+On her personal slate, buried three folders deep, where Fleet audits rarely looked, a draft to **Jun Park** sat open the way it had for eleven days. *Saw the posting. Kestrel Veil. Scout life.* She had written and deleted the rest a dozen times. Jun had messaged first—short, warm, not asking for much. They had grown up on the same outer-district block on Helion Prime. They had not been in love. They had been each other's proof that home still existed when careers diverged. She would reply after this watch.
 
 She sat with her slate propped against the console and read the maintenance summary for the third time. Kestran VI-Gamma: passive array on a nickel-iron chunk, hab ring, too much insulation, orbiting where Cartography wanted a long baseline and Operations staffed one analyst when the form asked for two.
 
@@ -28,7 +28,7 @@ Nand ran the scheduled sweep. "Flat," she said.
 
 Holt typed the entry a beat later: *sector scan complete, no variance.*
 
-They worked through the checklist in the rhythm of a long quiet shift—offset sweeps logged unchanged, raw passes within tolerance, scheduled integrity on array joints, sector eleven clear on ninety-minute loops. Holt filed relay handshake stubs, weather packets, and a merchant complaint about corridor drift forwarded four times and resolved nowhere; she added the standard margin note: *Fourth forward; no action at VI-Gamma.* A delayed administrative summary arrived twenty minutes late—duplicate header, same body as yesterday's duplicate. Holt logged receipt and flagged *redundant resend* for the desk that would not read the flag.
+They worked through the checklist in the rhythm of a long quiet shift—offset sweeps logged unchanged, raw passes within tolerance, scheduled integrity on array joints, sector eleven clear on ninety-minute loops. Holt filed relay handshake stubs, weather packets, and a merchant complaint about corridor drift forwarded four times and resolved nowhere; she added the standard margin note: *Fourth forward; no action on VI-Gamma relay path.* A delayed administrative summary arrived twenty minutes late—duplicate header, same body as yesterday's duplicate. Holt logged receipt and flagged *redundant resend* for the desk that would not read the flag.
 
 The galley timer clicked over. Holt had stopped resetting it on week two.
 
@@ -42,7 +42,7 @@ Holt pulled the previous watch's strip archive and compared timestamps to the cu
 
 Environmental requested air-cycle confirmation. Holt sent it while Nand ran the scheduled sweep.
 
-"Flat," Nand said. Holt logged it. Nand ran offset. "Unchanged." Holt logged it.
+"Flat," Nand said. Holt filed the strip mark. Nand ran offset. "Unchanged." Holt queued the timestamp.
 
 A Cartography acknowledgment arrived for a packet Holt had sent six hours ago—*received, no action required.* She logged receipt. The acknowledgment duplicated identical language from the one before it.
 
@@ -64,7 +64,7 @@ Nothing.
 
 Pattern fatigue was in Holt's eyes, not in the log. Nand had it too—the flat focus of a long shift where silence counted as performance. They did not comment on it. Commenting was not in the checklist.
 
-Nand ran the scheduled sweep, then offset without waiting for Holt to prompt the second pass. Holt logged both when Nand pushed the strip summary across.
+Nand ran the scheduled sweep, then offset without waiting for Holt to prompt the second pass. Holt signed both when Nand pushed the strip summary across.
 
 Nand ran the raw column. "Within tolerance," she said.
 
@@ -82,7 +82,7 @@ Operations sent a sector scan template reminder—quarterly form, due in six wee
 
 Nand adjusted display calibration on the bearing ring—two clicks port, one click back. "Better edge on low confidence scatter," she said. Procedure, not commentary.
 
-At hour twenty-one Nand rotated the array two degrees port. Routine offset correction. Holt logged it, ran post-rotation verify—unchanged—and closed the rotation block with a second pass on eleven. Nothing.
+At hour twenty-one Nand rotated the array two degrees port. Routine offset correction. Holt stamped the rotation block, ran post-rotation verify—unchanged—and closed with a second pass on eleven. Nothing.
 
 At hour twenty-two Nand ran band six on schedule. She ran it again. She made a small sound—not alarm. The sound she made when a column required another pass.
 
@@ -140,17 +140,17 @@ Holt made tea she did not drink. Nand skipped food because skipping food was her
 
 "When the log survives a third channel."
 
-Nand accepted that the way she accepted all of Holt's delays—workflow preference, not disagreement about reality.
+Nand accepted that the way she accepted all of Holt's delays—workflow preference, not disagreement about process.
 
 Hour twenty-three. Holt reviewed the previous shift's log: three pages of *no change*, *within tolerance*, *unchanged*. She signed the review block.
 
-Nand ran sector and offset; Holt logged both outside alpha band, then integrity on the joints again because the schedule looped. The merchant complaint from Kestran IV-Alpha arrived again. Holt logged it again.
+Nand ran sector and offset; Holt filed both outside alpha band, then integrity on the joints again because the schedule looped. The merchant complaint from Kestran IV-Alpha arrived again. Holt routed it to the duplicate queue without rereading the body.
 
 A console feed alert scrolled—*platform thermal nominal, no action*—and cleared.
 
 Nand ran eleven on schedule. "Clear outside alpha," she said.
 
-Holt logged it.
+Holt signed the pass.
 
 "Fragment on eleven," Nand said. "Same bearing family as alpha."
 
@@ -170,9 +170,9 @@ Nand ran offset stack. Fragment remained on the third match.
 
 "Log companion on eleven," Holt said. "Still not a class."
 
-They logged it. They did not name it.
+They filed it. They did not name it.
 
-Nand ran sector and offset between passes; Holt logged both outside alpha and companion bands.
+Nand ran sector and offset between passes; Holt noted both outside alpha and companion bands.
 
 When contact alpha tightened further, Nand ran the same sweep four times with four offsets. On the fifth pass the fifth matched the third.
 
@@ -378,127 +378,85 @@ Dana filed the empty column where silence used to mean the watch had done its jo
 
 ---
 
-**PART 2 — KESTREL VEIL POV**
+***PART 2 — KESTREL VEIL POV***
 
 ---
 
 The hours before the lock had cost the *Kestrel Veil* something Calder could not name without sounding like a man borrowing language from a training manual he no longer trusted.
 
-Partial returns. Loss intervals. Brenner on the ring. Ortega saturated and stubborn. Halden building models that kept losing footing. Park listening to relay weather that was not weather. Thessaly holding the deck together with posture and short sentences that were not reassurance but structure.
+Partial returns. Loss intervals. Brenner on the Reing. Ortega saturated and stubborn. Halden building models that kept losing footing. Park listening to relay weather that was not weather. Thessaly holding the deck together with posture and short sentences that were not reassurance but structure.
 
 Calder had watched all of it by noticing what people did when they did not know enough to pretend.
 
 The board showed him everything too late.
 
-"Passive lock confirmed," Ortega said—not more than a minute ago in the compressed time of the deck, though the hours before it had been spent earning those three words one fragment at a time.
+Then—two seconds.
 
-Halden: "Tactical lock confirmed."
+"Passive lock held," Ortega said.
 
-Calder's hand had tightened on the rail without him noticing.
+Halden: "Tactical lock held."
 
-Reyes: "Navigation lock confirmed."
+Reyes: "Navigation lock held."
 
-The composite feed aligned. Bearing two-one-four mark six held as something real. Calder watched the lock and felt the cost in the crew's stillness before anyone named it.
+Composite aligned. Bearing two-one-four mark six held as something real for one breath.
 
-Then the board broke.
+The board broke.
 
-Masking dropped on the contact—silhouette scale for one frame on Hale's optical feed, burning bright as the inbound track registered.
+Masking dropped. Hale's optical feed caught a silhouette for one frame before the inbound track burned across the display.  
 
 "Contact decloaked," Hale said.
 
 Halden: "Photon cannon inbound. Vector locked. High velocity."
 
-Reyes went still at nav. "Impact solution—direct. No margin."
+Reyes: "Impact solution—direct. No margin."
 
-Koss on channel: "Defensive suite won't— we're not outrunning this."
+Koss on channel: "Tactical systems won't—"
 
 The alert tone tried to sound. The *Veil* swallowed it halfway.
 
 Calder: "Brace."
 
-He did not have a second order ready. Clean locks on contacts that size were never relief—they were invitations. He had known that before Reyes said it.
-
-Reyes' hands moved on deflection. The numbers sheared. "Lost solution," Reyes said. Flat. Not panic. Fact.
+Reyes' hands moved on deflection. The numbers sheared. "Lost solution—"
 
 Thessaly: "All hands—"
 
 "Record," Calder said.
 
-Hale at defensive did not leave her station. Her hands knew the suite the way Brenner knew doors—by touch, by failure history. "Suite can't answer yield class," she said. Not to Calder. To the board. To the record that might not exist in an hour.
+The deck shuddered—launch indicators hot, tubes away on reflex, not command.
 
-Koss on engineering channel was already talking to Brenner in the shorthand of people who had kept this hull alive through worse than doctrine allowed.
+"Who—"
 
-The deck shuddered before Thessaly finished—not impact. Aft. Mechanical. Wrong.
+Halden: "Crossing—"
 
-Brenner on engineering channel, first, a body moving before language: "Move—"
+The probes met the track. White outside the hull—not inside, not the frame breaking apart from direct hit. A bloom on Ortega's feed that turned the passive graph to static and the optical to an afterimage that hurt to look at even after it was gone.
 
-Koss: "Launch—"
-
-Ortega, over him: "Probes—"
-
-Calder had not ordered probes. Both launch indicators went hot on the subpanel anyway—tubes away, streaking, trajectories that had nothing to do with mapping and everything to do with a damaged ship reflexing where a person would have flinched.
-
-"Who—" Calder started.
-
-No one had.
-
-Halden stayed at tactical with her jaw set. Even dying boards got Halden's discipline. "Inbound unchanged— probes crossing— angle bad— crossing anyway—"
-
-She was not explaining. She was tracking the only geometry left that mattered.
-
-Park at relay: "Channel— I can't—"
-
-His headset slipped. He pushed it back with one hand and kept the other on a board that was trying to drown him in its own noise. Cole at secondary reached for a hardline without being asked.
-
-Thessaly moved to the rail beside Park. She did not take his station. She put one hand on the chair back—the same gesture she used when paperwork needed a witness.
-
-"Rhythm," she said. Quiet. Not for the log.
-
-Park nodded. He was not succeeding. He was still trying, which from Park looked like duty.
-
-Reyes stared at a navigation display that refreshed too slowly and lied too quickly. "I had bearing— I don't— resolution's—"
-
-Calder watched the probe icons cross the inbound photon vector on a screen that was not giving him command authority so much as showing him what the ship had decided without him.
-
-He said: "Let it—"
-
-He did not know what he permitted.
-
-The probes met the track.
-
-White outside the hull this time—not inside, not the frame breaking apart from direct hit. A bloom on Ortega's feed that turned the passive graph to static and the optical to an afterimage that hurt to look at even after it was gone.
-
-The deck kicked once. Heat rolled through the ring. Brenner swore in one syllable on the channel.
+The deck kicked once. Heat rolled through the Reing. Brenner swore in one syllable on the channel.
 
 Then stillness that was not peace.
 
-The deck kept vibrating—wrong rhythm, like a heart missing every third beat. Overhead panels held their emergency wash. Air still moved through the vents. Somewhere aft, a compartment door sealed too soft, as if the hull had forgotten how to carry noise.
+Calder had not finished the question. No one had ordered launch. The ship had.
 
-Thessaly's hand stayed on Park's chair back. For a second she looked at Calder as if she meant to say something longer than structure allowed—then the composure came back on like a hatch seal.
+Calder had braced for impact and gotten something else. Clean locks on contacts that size were invitations—not relief.
 
-"All hands report," she said. Her voice was level. It was not calm.
+The deck kept vibrating—wrong rhythm, three-beat skip in the frame. Park's headset had slipped; he pushed it back. Cole had a hardline ready. Thessaly's hand found the chair back.
 
-Calder had braced for impact and gotten something else—a ship that had moved without his word and a deck that was still under his boots.
+"Rhythm," she said. Quiet. Not for the log.
 
-"Here—" Ortega and Hale overlapped; Ortega too fast, Hale flat.
+"All hands report," Thessaly said. Her voice was level. It was not calm.
 
-Park made a sound that might have been breath catching wrong. His hands stayed on the board.
+Hale, tactical watch: "Systems can't answer yield class." Not to Calder. To the board.
 
-Ortega blinked hard against the afterimage. "Passive feed's—" He swallowed. "Nothing's coming back."
+Ortega: "Passive feed's— Nothing's coming back."
 
-Halden stared at the tactical pane. The geometry she'd been tracking had simply stopped being there. "Overlay's empty."
+Halden: "Overlay's empty."
 
 Reyes: "I don't have stars."
 
-The sentence landed after Halden had already gone quiet. Reyes kept his hands on the cradle but stopped refreshing.
+Koss on wired comm, voice thin: "Main bus dropped. Secondary's flickering. Brenner's on manual tie for Reing 3."
 
-Koss on wired comm, voice thin: "Main bus dropped. Secondary's flickering. Brenner's on manual tie for ring three."
+No one called it triage. The ship taught you an order anyway: keep power, keep air, then hear the outside world.
 
-The command deck smelled like overheated insulation. Coffee on the rail, forgotten. Calder noticed that before the red boards.
-
-No one called it triage. The ship taught you an order anyway: keep power, keep air, then try to hear the outside world, then remember where you were.
-
-Brenner's voice came from aft first—not a report, a palm slapped against metal. Once. Twice farther forward.
+Brenner's voice came from aft—not a report, a palm slapped against metal.
 
 "Manual tie holding," Koss said. "Auxiliary's flickering but it's *on*. Brenner—"
 
@@ -508,33 +466,23 @@ Brenner's voice came from aft first—not a report, a palm slapped against metal
 
 Walsh on wired comm, clipped: "Pressure holding. Air mix nominal. Thermal's wobbling but we're not cooking. Injury count holding."
 
-Thessaly had started to assign stations and stopped mid-sentence. She looked at Calder once—confirmation sought, not permission. "Life support first. Park, hardline only. Reyes, don't force the display. Halden—"
+Thessaly looked at Calder once—confirmation sought, not permission. "Life support first. Park, hardline only. Reyes, don't force the display."
 
-Halden's fingers had kept moving after the pane went empty. She stopped. Set them flat on the console rim.
+Halden set her fingers flat on the console rim. "Copy."
 
-"Copy," she said.
+Park keyed relay listen. Static. He sat like that for three breaths, then picked up the strip log. "Burst on auxiliary when Brenner gives me a watt. Not yet."
 
-Park keyed relay listen. Static. Cole ran a hardline to his station; Park held the cable without transmitting.
+Tanaka, quiet: "Last good fix in buffer."
 
-He sat like that for three breaths, then exhaled and picked up the strip log. "Burst on auxiliary when Brenner gives me a watt. Not yet."
+"I know what's in the buffer." Reyes did not lift his head from the cradle. "I don't have sky."
 
-Reyes had both palms on the nav cradle, forehead near the dead display. Tanaka leaned in from secondary nav—close, not touching.
+Koss: "Propulsion's complaining. We're not going anywhere on main. That's last on my list."
 
-"Last good fix in buffer," Tanaka said quietly.
+Brenner, through the hull: "Good. Touch Reing 3 and leave me alone."
 
-"I know what's in the buffer." Reyes did not lift his head. "I don't have sky."
+Halden, at the empty tactical pane: "If we had fired that on purpose, it still wouldn't have worked."
 
-Hale wrapped a burn on her forearm with a strip Walsh had left on the defensive console—routine care in a non-routine silence. Her sister's graduation had been on the schedule for next month on Helion Prime. Hale had filed leave that would never clear now. She tightened the strip one extra turn and went back to the board.
-
-Koss again: "Propulsion's complaining. We're not going anywhere on main. That's last on my list and it's staying there."
-
-Brenner, through the hull: "Good. Don't touch propulsion. Touch ring three and leave me alone."
-
-Calder stood at the rail because sitting felt like agreeing the ship was finished. Thessaly had a cut above her eyebrow he had not seen her earn. Tanaka worked from memory on a slate that had lost its colors.
-
-Halden spoke without looking up from the empty tactical pane. "If we had fired that on purpose, it still wouldn't have worked."
-
-Brenner came through the aft hatch, grease on his forearm. He stopped in the hatch frame and put his shoulder against the jamb.
+Brenner came through the aft hatch and stopped in the frame, shoulder against the jamb.
 
 "Probes did that," he said. "Ship fired before anyone ordered."
 
@@ -542,68 +490,39 @@ Calder: "We didn't call launch."
 
 Brenner rubbed his face with the back of his wrist. "Something did. Don't ask me to be grateful yet."
 
-Park keyed relay listen once more out of habit. Static. He lowered the headset to his neck.
+Park keyed relay listen once more. Static. He lowered the headset.
 
 "...No relief packet on the channel," he said. Almost to himself.
 
-Thessaly glanced at him. Did not comment. The line dissolved into the vent hum.
-
-Park's hand trembled once before he picked up the pen. Park wrote logs in clean sentences. What came next wasn't one.
-
-"I don't know what to log." He stared at the strip. "Did the ship just defend itself with probes? What the hell—probes? I don't know what to log. Should I log this? I mean—the ship—damn."
+Park's hand trembled once before he picked up the pen. "I don't know what to log." He stared at the strip. "Did the ship just defend itself with probes? What the hell—probes? Should I log this?"
 
 Thessaly: "Log that."
 
 He wrote on a strip by hand.
 
-Ortega kept rubbing his eye. He did not add anything to the exchange.
-
-Reyes, without looking up—still hadn't lifted his head from the cradle: "Bearing family's gone. Chart's empty."
-
-Brenner made a sound that might have been agreement or might have been the start of a curse he swallowed.
+Reyes, without looking up: "Bearing family's gone. Chart's empty."
 
 "If Fleet asks," Brenner said, "I was nowhere near the launch circuit."
 
-No one laughed. Brenner didn't either. Hale was still wrapping the burn strip, half a turn behind the rest of them. Ortega kept blinking against the afterimage on his feed. The deck kept its wrong rhythm under their feet.
-
-Thessaly crossed to Calder without ceremony. "Injury list is short. Cohesion is not. Log both."
-
-He looked at her. She did not explain cohesion. She did not need to.
-
-Halden finally turned from the empty tactical pane. "No one's answering."
-
-Park's jaw tightened. He did not reach for the headset.
+Halden: "No one's answering."
 
 "If anyone's looking—" Halden started.
 
-"—they're not looking here," Park said, flat, before she finished.
+"—they're not looking here," Park said, flat.
 
-Calder listened. No one stepped in to soften that. No one offered a correction from command net, from relay weather, from any voice that used to mean the outside world was still organized.
+Calder listened. No one stepped in to soften that.
 
-Calder sighed deeply. "Fleet's not responding." A beat. "Report status by department. Then we restore what we can."
+"Fleet's not responding," Calder said. "Department status in order. Restore what we can—hull first."
 
-Brenner was already moving in the aft pass-through before Calder finished. Halden had not looked up from the empty pane. Park tried burst on auxiliary—three seconds of carrier, then nothing. He did not try a fourth time. He stayed at the board anyway, pen capped, not ready yet.
+Brenner was already moving aft before Calder finished. Park tried burst on auxiliary—three seconds of carrier, then nothing. He stayed at the board anyway, pen capped, not ready yet.
 
-Koss on wired comm from aft: "Hull's complaining. That's the whole report until Brenner says otherwise."
-
-Metal on metal from the ring passage—Brenner, moving, not answering in words.
+Koss on wired comm: "Hull's complaining. That's the whole report until Brenner says otherwise."
 
 Calder walked to the viewport. Stars for human eyes. The nav pane beside him showed nothing Reyes could use.
 
-The *Veil* drifted on whatever the hull still remembered how to do. Reyes held the nav cradle with his palm flat on empty display the way you held a railing in dark corridor.
-
-Tanaka asked Reyes a question in a voice too low for Calder to catch. Reyes answered with a head shake and kept his palm on the cradle.
-
-Calder looked back at the deck—not at boards, at people. Hale at defensive with burned forearm and steady posture. Ortega blinking against ghosts on a feed that would not refresh. Halden with empty tactical and full discipline. Park with headset down and strip log in hand. Brenner still in the hatch, shoulder on metal. Thessaly with blood dried above one brow, already watching the next person who might need anchoring.
-
 Command was still his chair. Certainty was not.
-
-Calder stayed at the glass. The lighting on the deck had not changed—steady wash, wrong after what they'd taken. Air kept moving through the vents like nothing had happened.
-
-The stars his eyes could count did not match anything the ship could still argue about. Calder's legs felt heavy. Adrenaline had spent itself; the work had not.
 
 No one had been told to stop. No one stopped.
 
-The hull kept vibrating wrong. The vent hum kept going.
-
 ---
+

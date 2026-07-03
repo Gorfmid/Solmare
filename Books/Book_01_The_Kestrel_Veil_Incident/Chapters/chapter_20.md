@@ -4,8 +4,8 @@
 
 ---
 
-**THE DOMINION — STRATEGIC SECURITY DIRECTORATE**  
-**THE FILE**
+***THE DOMINION — STRATEGIC SECURITY DIRECTORATE***  
+***THE FILE***
 
 Rain had moved off the arcade glass, but Founders' Week had left gold thread in the banners and music in the lower plaza at reduced volume—the civilization exhaling after celebration it had not asked the border to approve.
 
@@ -91,8 +91,8 @@ History continued without asking the directorate for permission.
 
 ---
 
-**THE DOMINION — DISTRICT ELEVEN PRIMARY**  
-**THE CLASSROOM**
+***THE DOMINION — DISTRICT ELEVEN PRIMARY***  
+***THE CLASSROOM***
 
 **Nika** hated sitting still but loved the window when Teacher **Marin** let discussion replace copying.
 
@@ -146,10 +146,10 @@ Preparation was already being taught gently—not propaganda, repetition.
 
 ---
 
-**THE DOMINION — KESSIK-OUTER ORBITAL YARD**  
-**THE SHIPYARD**
+***THE DOMINION — KESSIK-OUTER ORBITAL YARD***  
+***THE SHIPYARD***
 
-**Pavel Sorokin** signed tolerance on a weld seam and hated that the crane certification on Slip Three was still three days out.
+**Pavel Sorokin** certified tolerance on a weld seam and hated that the crane certification on Slip Three was still three days out.
 
 Kessik-Outer did not pause because a directorate file changed status. Yards paused for cranes, lattices, shift change, and lunch.
 
@@ -199,8 +199,8 @@ Sorokin went back to Slip Seven after lunch because the quarter did not care wha
 
 ---
 
-**FLEET HEADQUARTERS — HISTORICAL OFFICE ANNEX**  
-**THE MAP**
+***FLEET HEADQUARTERS — HISTORICAL OFFICE ANNEX***  
+***THE MAP***
 
 **Soraya Ellis** worked historical editions after witness certification because operational charts changed quickly and memory changed carefully.
 
@@ -252,8 +252,8 @@ Fleet's map of who passed first had.
 
 ---
 
-**FLEET DOCTRINE BUREAU — CLASSIFICATION ANNEX**  
-**THE MEMO**
+***FLEET DOCTRINE BUREAU — CLASSIFICATION ANNEX***  
+***THE MEMO***
 
 Commander **Owen Mercer** hated the title on his screen.
 
@@ -311,8 +311,8 @@ Edition 144 had begun without parade.
 
 ---
 
-**FLEET HEADQUARTERS — OPERATIONS TIER**  
-**THE SHADOW**
+***FLEET HEADQUARTERS — OPERATIONS TIER***  
+***THE SHADOW***
 
 Fleet Admiral **Elias Rowan** remained after headquarters emptied because empty rooms told the truth busy rooms hid.
 
@@ -330,7 +330,7 @@ Rowan had seen maps change before—after incidents, after survey epochs, after 
 
 He did not stand at the window performing solitude. He sat at the desk where Mercer's memorandum had arrived an hour ago and Ellis's curator note had arrived with it.
 
-He thought of Calder saying *I don't know* in the witness chair without apology. Of Holt's timestamps. Of Brenner's *patched, not repaired*. Of a scout that had come home carrying Tuesdays Fleet had called empty. Of Nika—whom he would never meet—learning preparation in a classroom he would never see. Of Sorokin signing seams while a file slot read Standing Observation on the other side of a border that was knowledge, not distance.
+He thought of Calder saying *I don't know* in the witness chair without apology. Of Holt's timestamps. Of Brenner's *patched, not repaired*. Of a scout that had come home carrying Tuesdays Fleet had called empty. Of Nika—whom he would never meet—learning preparation in a classroom he would never see. Of Sorokin certifying seams while a file slot read Standing Observation on the other side of a border that was knowledge, not distance.
 
 War was not inevitable because maps grew.
 

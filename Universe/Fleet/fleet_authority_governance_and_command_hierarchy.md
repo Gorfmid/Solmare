@@ -24,7 +24,7 @@ This document **overrides all previous implied governance structures**.
 |----------|--------------|
 | `Universe/Fleet/unified_fleet_authority.md` | UFA ideology, strengths, weaknesses — high-level overview |
 | `Universe/Fleet/fleet_communication_sensor_and_information_warfare_doctrine.md` | Information authority rule; command under uncertainty |
-| `Universe/Fleet/fleet_doctrine_and_combat_logic.md` | External combat doctrine and field command behavior |
+| `Universe/fleet_doctrine_and_combat_logic.md` | External combat doctrine and field command behavior |
 | `Characters/Recurring/Maris_Chen.md` | Book One instance — intelligence civil-military interface |
 | `Books/Book_01_The_Kestrel_Veil_Incident/Notes/book1_core_premise.md` | Book One political/military opening context |
 | `Writing_System/Generation_Rules/continuity_rules.md` | Character knowledge and communication limits |

@@ -4,8 +4,8 @@
 
 ---
 
-**FLEET DOCTRINE BUREAU — CLASSIFICATION ANNEX**  
-**THE DOCTRINE SPLIT BEGINS**
+***FLEET DOCTRINE BUREAU — CLASSIFICATION ANNEX***  
+***THE DOCTRINE SPLIT BEGINS***
 
 Commander **Owen Mercer** had believed Edition 144 would converge.
 
@@ -23,7 +23,7 @@ Mercer opened with the only sentence Edition 144 had changed so far—*Survey co
 
 Three columns on the whiteboard. Parallel doctrine. Red lines, not erasures.
 
-**Branch A — Strategic peer (non-hostile assumption)**  
+***Branch A — Strategic peer (non-hostile assumption)***  
 *Structured civilization beyond survey assumptions; default posture restraint; illumination prohibited without Operations signature; civilian traffic evidence weighted; preparation read as long-horizon stability, not mobilization.*
 
 Exploration liaison **Hwang** defended it without romance. "Witness bands support civilian rhythm. Incident supports defensive discharge, not pursuit post-return. Branch A does not claim friendship. It claims non-hostile default until intent evidence arrives."
@@ -34,12 +34,12 @@ Intelligence liaison shook his head. "Non-hostile default is a policy choice, no
 
 Ahn read the author line—Exploration Corps liaison, seconded to Doctrine. "Insufficient evidence to collapse divergence," Mercer said, and Ahn stamped the footer.
 
-**Branch B — Unknown capability threshold (neutral readiness posture)**  
+***Branch B — Unknown capability threshold (neutral readiness posture)***  
 *Structured occupancy confirmed; intent unresolved; Fleet maintains survey-complete notation without hostile classification; readiness tiers elevated for border nodes; passive intelligence priority; handshake deferred pending peer framework.*
 
 Logistics and Communications had co-authored the language. **Commander Vance** called it "the adult branch"—readiness without story. Mercer did not love *unknown capability threshold*. He stamped anyway: *insufficient evidence to collapse divergence*.
 
-**Branch C — Potential strategic counter-peer (defensive planning required)**  
+***Branch C — Potential strategic counter-peer (defensive planning required)***  
 *Structured civilization with industrial depth and border discipline; Incident baseline retained; defensive readiness without preemptive engagement; illumination discipline unchanged; strategic assessment assumes dual-use infrastructure possible.*
 
 Commodore **Sato**'s intelligence captain drafted Branch C without using *enemy*. Sato had reviewed it personally. Mercer stamped a third time.
@@ -88,8 +88,8 @@ It was structured divergence under pressure—and his job was to keep the forks 
 
 ---
 
-**FLEET CARTOGRAPHY SERVICE — MAP ROOM FOUR**  
-**CARTOGRAPHY PRESSURE**
+***FLEET CARTOGRAPHY SERVICE — MAP ROOM FOUR***  
+***CARTOGRAPHY PRESSURE***
 
 **Martine Okoye** had thought epoch revision would be the hard part.
 
@@ -135,8 +135,8 @@ It was what happened when truth outgrew a single adjective.
 
 ---
 
-**FLEET DOCTRINE BUREAU — LANGUAGE INTEGRITY REVIEW**  
-**THE LANGUAGE PROBLEM**
+***FLEET DOCTRINE BUREAU — LANGUAGE INTEGRITY REVIEW***  
+***THE LANGUAGE PROBLEM***
 
 **Mira Thessaly** had written the executive summary to survive witness certification.
 
@@ -184,7 +184,7 @@ Mercer: "We do not invent one to feel clarity."
 
 Hwang wrote the compromise line twice, crossed one out, wrote it again:
 
-**Non-peer structured civilization — interim classification (internal)**
+***Non-peer structured civilization — interim classification (internal)***
 
 **Dana Holt**, present for Communications integrity, spoke once from the far chair. "Chain certifies what transmitted. Not *peer*. Not policy nouns. That's your injury upstairs."
 
@@ -204,8 +204,8 @@ Meaning had not.
 
 ---
 
-**FLEET OPERATIONS — STRATEGIC PLANNING ALCOVE**  
-**THE OPERATIONAL QUESTION**
+***FLEET OPERATIONS — STRATEGIC PLANNING ALCOVE***  
+***THE OPERATIONAL QUESTION***
 
 Commodore **Mira Sato** did not raise her voice.
 
@@ -215,22 +215,22 @@ Raising voices was for rooms that still needed persuasion. This room needed labe
 
 Three panes on the table—parallel, not merged. Mercer had routed Doctrine forks. Okoye had routed Cartography inference dispute. Thessaly's interim term sat in the header like a bandage everyone agreed to hate.
 
-**Posture A — Passive avoidance**  
+***Posture A — Passive avoidance***  
 *Maintain passive intelligence priority; no illumination; no handshake initiation; border nodes hold emission discipline; scout missions defer active geometry.*
 
 Exploration had drafted it. Logistics hated the readiness implications. Intelligence did not hate it.
 
-**Posture B — Controlled contact readiness**  
+***Posture B — Controlled contact readiness***  
 *Observation phase gate satisfied per witness record; handshake authorized only under Operations signature; contact initiation deferred to structured protocol when Edition 144 matures; default hold until peer framework exists.*
 
 Communications and Doctrine co-authored. Sato read it without endorsement.
 
-**Posture C — Defensive readiness without escalation**  
-*Incident baseline retained; defensive suites prioritized on border patrol tiers; illumination prohibited except hull preservation; no preemptive task geometry; dual-use infrastructure read permitted in planning models.*
+***Posture C — Defensive readiness without escalation***  
+*Incident baseline retained; tactical systems prioritized on border patrol tiers; illumination prohibited except hull preservation; no preemptive task geometry; dual-use infrastructure read permitted in planning models.*
 
 Intelligence draft. Branch C language visible underneath.
 
-**Dana Holt** attended for Communications—not to argue posture, to argue chain. "Default posture language will reach fringe nodes whether you intend it or not. Write what you can stand behind if a watch officer reads it at three in the morning on VI-Gamma."
+**Dana Holt** attended for Communications—not to argue posture, to argue chain. "Default posture language will reach fringe nodes whether you intend it or not. Write what you can stand behind if a watch officer reads it at three in the morning on a VI-Gamma watch."
 
 Sato looked at her. "Fringe nodes need clarity."
 
@@ -282,8 +282,8 @@ The institution remained stable because stability, today, meant formalizing disa
 
 ---
 
-**FLEET HISTORICAL OFFICE — COMPARISON ARCHIVE**  
-**THE HISTORICAL ARGUMENT**
+***FLEET HISTORICAL OFFICE — COMPARISON ARCHIVE***  
+***THE HISTORICAL ARGUMENT***
 
 **Soraya Ellis** worked history when the present became too loud.
 
@@ -323,8 +323,8 @@ History also prevented panic if you let it speak before policy did.
 
 ---
 
-**FLEET HEADQUARTERS — OPERATIONS TIER**  
-**ROWAN'S REALIZATION**
+***FLEET HEADQUARTERS — OPERATIONS TIER***  
+***ROWAN'S REALIZATION***
 
 Fleet Admiral **Elias Rowan** reviewed forks the way surgeons reviewed scans—without pretending the image was the injury.
 

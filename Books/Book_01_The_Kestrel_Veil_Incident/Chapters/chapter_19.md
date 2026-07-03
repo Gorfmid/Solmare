@@ -1,12 +1,12 @@
-﻿# Chapter 19
+# Chapter 19
 
 ## The Witnesses
 
 ---
 
-**FLEET HEADQUARTERS — STRATEGIC REVIEW CHAMBER**
+***FLEET HEADQUARTERS — STRATEGIC REVIEW CHAMBER***
 
-**THE BOARD**
+***THE BOARD***
 
 The room had no audience chairs.
 
@@ -46,7 +46,7 @@ Rowan looked at Calder, waiting in the anteroom per protocol.
 
 ---
 
-**THE CAPTAIN**
+***THE CAPTAIN***
 
 **Calder Venn** entered without swagger. Witness chair. Oath administered by Okonkwo—short Fleet form, no theatre.
 
@@ -100,7 +100,7 @@ Rowan: "What did you not see?"
 
 "First contact?"
 
-"Thessaly's technical position. Mine on record." Calder did not rush. "First contact has not occurred. Listening occurred."
+"First contact has not occurred. Listening occurred."
 
 The board did not react. Reaction was for rooms that still needed persuasion. This room needed precision.
 
@@ -114,9 +114,9 @@ Calder answered for another forty minutes.
 
 Industrial throughput—observed. Fuel spine duty cycles—observed. Departure egress—observed no pursuit geometry; inferred ordinary traffic resumption from pattern stability, flagged.
 
-Okonkwo asked about command decisions at the border. Calder did not defend them as heroism.
+Okonkwo asked about command decisions at the border.
 
-"Correction-thrust margin loss—observed," he said. "Passive posture chosen. Illumination would have changed the observation product. Inferred rationale from logged orders and Thessaly ledger. Orders are on the record."
+"Passive posture held," Calder said. "Illumination would have changed the product. Orders on record."
 
 Sato: "Would you illuminate if ordered?"
 
@@ -142,7 +142,7 @@ He left the chair without looking back. First witness was not only witness.
 
 ---
 
-**THE CREW**
+***THE CREW***
 
 The board did not want stories.
 
@@ -152,13 +152,13 @@ It wanted lanes.
 
 **Damon Reyes** — navigation.
 
-Reyes stood with the posture of a man who trusted numbers more than adjectives. Course projections on the table. Lane-family charts. Bearing logs. He had blind navigation for three legs of segment seven when ring three handshake lag exceeded comfort and still filed merges without embellishment.
+Reyes stood with the posture of a man who trusted numbers more than adjectives. Course projections on the table. Lane-family charts. Bearing logs. He had blind navigation for three legs of segment seven when Reing 3 handshake lag exceeded comfort and still filed merges without embellishment.
 
 "Seven-alpha merge antiquity—off epoch 143 shading by every measure I trust," he said. "Commuter windows: three passive legs, timing correlation holds. Observed. Occupancy predating Fleet install notation—inferred from Thessaly crosswalk layering. Inferred. Not navigation raw. Historical lane."
 
 Okoye: "Could instrumentation explain it?"
 
-"Ring three handshake lag—drift inside tolerance. Observed. Doesn't explain merge antiquity. I don't know what else would. Instrument fault isn't in Park's checksums."
+"Reing 3 handshake lag—drift inside tolerance. Observed. Doesn't explain merge antiquity. I don't know what else would. Instrument fault isn't in Park's checksums."
 
 Sato: "Navigation blind segments?"
 
@@ -172,7 +172,7 @@ He sat when Rowan nodded. He did not comment on civilian harmonics. Navigation l
 
 Halden brought thermal band logs and infrastructure age notes—twelve-to-twenty-year maintenance layering on passive returns, repair annex throughput signatures. Her hands were steady in the way engineers' hands were steady when numbers did the fear.
 
-"Thermal suite: generational maintenance bands—twelve-to-twenty-year layering, consistent across annex slice," she said. "Correction-thrust margin loss under passive hold—twelve percent on ring three handshake lag, Koss certified. Ring three cough on approach to Helion—patched, not repaired. No upstream power signatures from our hull during segment seven."
+"Thermal systems: generational maintenance bands—twelve-to-twenty-year layering, consistent across annex slice," she said. "Correction-thrust margin loss under passive hold—twelve percent on Reing 3 handshake lag, Koss certified. Reing 3 cough on approach to Helion—patched, not repaired. No upstream power signatures from our hull during segment seven."
 
 Okoye, leaning forward: "Thermal returns versus Cartography occupancy overlay?"
 
@@ -184,7 +184,7 @@ Sato: "Mobilization profile?"
 
 Mercer: "Could damage from Incident explain passive gaps?"
 
-"Gaps logged with uncertainty bands. Some track damage geometry. Some don't. I don't know unseen volumes. Thermal suite returned what it returned."
+"Gaps logged with uncertainty bands. Some track damage geometry. Some don't. I don't know unseen volumes. Thermal systems returned what it returned."
 
 She sat. Engineering lane.
 
@@ -238,7 +238,7 @@ Park sat. Archive lane.
 
 Brenner had come from berth fourteen-C in yard coveralls with a mission patch on his cuff—unofficial trade, respect currency. He smelled like solvent and honest complaining.
 
-"Correction thrust held. Ring three ugly—inside Koss's margin. Numbers held, so we held passive. Vibration shift in the monitored volume. Handshake lag climbed under hold. Departure clean—no pursuit on egress."
+"Correction thrust held. Reing 3 ugly—inside Koss's margin. Numbers held, so we held passive. Vibration shift in the monitored volume. Handshake lag climbed under hold. Departure clean—no pursuit on egress."
 
 He shifted weight. "Corridor C kick still works. Starboard dent—yellow tape, not structural. Crew sleep debt—not in annex. In the ship."
 
@@ -262,7 +262,7 @@ Mercer keyed interim witness completion. Coffee was replaced. Nobody drank.
 
 ---
 
-**THE EVIDENCE**
+***THE EVIDENCE***
 
 **Dana Holt** did not testify to meaning.
 
@@ -300,7 +300,7 @@ That was also credibility.
 
 ---
 
-**THE DELIBERATION**
+***THE DELIBERATION***
 
 **Soraya Ellis** watched professionals compare notes the way historians watched weather—patterns before narrative.
 
@@ -356,7 +356,7 @@ Today she understood how civilizations preserved truth before doctrine: they mad
 
 ---
 
-**THE RECORD**
+***THE RECORD***
 
 Rowan stood at the archive cart.
 
@@ -443,6 +443,8 @@ Rowan returned to the cart and looked at the sealed bindings.
 History would argue about doctrine soon enough.
 
 Today, history had been witnessed correctly.
+
+The sealed bindings still lacked a single agreed classification label—witness complete, intent unresolved.
 
 ---
 

@@ -83,9 +83,9 @@ Operational target: **~85%** human operational life / **~15%** direct anomaly fo
 
 Full doctrine: `Writing_System/Style_Guide/the_70_30_rule.md`
 
-**Act III (Ch. 12–18):** Deeper uncertainty, not bigger spectacle. See `Books/Book_01_The_Kestrel_Veil_Incident/Act_Outlines/act3_chapters_12-18_generation.md`.
+**Act III (Ch. 9–16):** Deeper uncertainty, not bigger spectacle. See `Books/Book_01_The_Kestrel_Veil_Incident/Act_Outlines/act3_chapters_9-16_generation.md`.
 
-**Act IV (Ch. 19–24):** Book One completion. See `Books/Book_01_The_Kestrel_Veil_Incident/Act_Outlines/act4_chapters_19-24_generation.md`.
+**Act IV (Ch. 17–24):** Book One completion. See `Books/Book_01_The_Kestrel_Veil_Incident/Act_Outlines/act4_chapters_17-24_generation.md`.
 
 ---
 
@@ -125,7 +125,7 @@ Book One **must conclude**. The Kestrel Veil Incident is fully resolved. The imm
 
 The sequel hook comes from **consequences of resolution** — not unfinished plot.
 
-Full Act IV generation doctrine: `Books/Book_01_The_Kestrel_Veil_Incident/Act_Outlines/act4_chapters_19-24_generation.md`
+Full Act IV generation doctrine: `Books/Book_01_The_Kestrel_Veil_Incident/Act_Outlines/act4_chapters_17-24_generation.md`
 
 ---
 

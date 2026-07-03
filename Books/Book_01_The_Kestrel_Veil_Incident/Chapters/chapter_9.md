@@ -1,11 +1,11 @@
-﻿# Chapter 9
+# Chapter 9
 
 ## Across the Line
 
 ---
 
-**THE DOMINION — STRATEGIC SECURITY DIRECTORATE**  
-**CLASSIFIED — EYES ONLY**
+***THE DOMINION — STRATEGIC SECURITY DIRECTORATE***  
+***CLASSIFIED — EYES ONLY***
 
 Director-General **Lev Stratimirov** read the report a third time because his profession punished people who read things twice and never punished anyone who read them four.
 
@@ -65,7 +65,7 @@ Petrov answered because that was his job. "Not conclusive. Possible automated su
 
 Low confidence in a directorate like this still meant someone would spend a week not sleeping.
 
-Stratimirov did not raise his voice. He did not need to. Everyone in the room understood what happened to careers when a trial cloak failed against a scout-class passive suite and the scout might still be talking to the void afterward.
+Stratimirov did not raise his voice. He did not need to. Everyone in the room understood what happened to careers when a trial cloak failed against a scout-class passive systems and the scout might still be talking to the void afterward.
 
 Petrov cleared his throat. "Science Directorate preliminary, sir—filed before the briefing. They request it be read into record."
 
@@ -103,7 +103,7 @@ The cloak trial was supposed to preserve that distinction—not blur it early.
 
 Stratimirov folded his hands.
 
-"Commander Vex. Rebuild the field. Document every failure mode the scout's passive suite exploited. I want architects in this room within seventy-two hours, not their deputies."
+"Commander Vex. Rebuild the field. Document every failure mode the scout's passive systems exploited. I want architects in this room within seventy-two hours, not their deputies."
 
 Vex: "The architects will want trial telemetry sealed beyond Political Liaison."
 
@@ -165,11 +165,11 @@ Petrov: "Understood, sir."
 
 ---
 
-**KESTREL VEIL — COMMAND DECK**
+***KESTREL VEIL — COMMAND DECK***
 
 Segment six had no drama in it.
 
-That was what made Calder's chest tight.
+The command deck held anyway—too quiet, wrong kind of quiet.
 
 **Damon Reyes** called bearing checks in a voice calibrated not to carry; **Yuki Tanaka** answered in monosyllables; **Felix Ortega** ran passive loops that mostly failed with errors so polite they felt like apology; **Ari Halden** watched local space and said *empty* the way other people said *fine*—meaning not safe, meaning sufficient for now.
 
@@ -181,19 +181,21 @@ Park at the buffer: upstream lane empty, hands still, jaw set.
 
 Thessaly at the transit console: slate closed unless she was writing something worth ink.
 
-Hale on defensive: rotation limit honored without comment.
+Hale, tactical watch: rotation limit honored without comment.
 
 Walsh's injury board numbers lived in Calder's peripheral vision now the way threat icons used to.
 
 He stopped at navigation. Reyes did not look up from the manual overlay. Segment six holding, correction-thrust fraction stable, no active emitters, passive only—confidence honest: they were where the charts said they were, and the charts didn't say what owned the space.
 
-Calder nodded. That was the truest thing anyone had said since VI-Gamma went static.
+"Not yet," Calder said. "Hold segment six. No upstream."
 
-At sensors Ortega reported passive rebuild at four percent, noise floor elevated—not contact, environment. Background structure, not natural, not theirs. Calder filed that without filling the silence with reassurance he did not have.
+Calder nodded. That was the truest thing anyone had said since the VI-Gamma relay went static.
+
+At sensors Ortega reported passive rebuild at four percent, noise floor elevated—not contact, environment. Background structure, not natural, not theirs. Calder let the silence stand.
 
 At tactical Halden called local empty. Calder confirmed rotation limit; Hale honored it without comment.
 
-At the buffer Park's upstream lane showed empty—the same empty that had cost him VI-Gamma's warm voice. His hands rested on the console rim instead of the key panel, a small discipline Calder had not ordered and would not praise aloud. Buffer clean, no transmit, local log only.
+At the buffer Park's upstream lane showed empty—the same empty that had cost him the VI-Gamma relay voice. His hands rested on the console rim instead of the key panel, a small discipline Calder had not ordered and would not praise aloud. Buffer clean, no transmit, local log only.
 
 Walsh pinged from clinic on internal—one line, no greeting: *Ortega light check in twenty per Thessaly schedule.* Calder sent a single acknowledgment token. Walsh did not reply. She never did when the message was received.
 
@@ -219,7 +221,7 @@ No jokes.
 
 No one had joked much since the bloom.
 
-Cole still ran pass-throughs with soft soles. **Kevin** still appeared with trays nobody asked for and calories everyone needed. **Pell** from ring maintenance ate standing at a crate because sitting still felt wrong since the bloom—three bites, then back to a coupling check without being asked.
+Cole still ran pass-throughs with soft soles. **Kevin** still appeared with trays nobody asked for and calories everyone needed. **Pell** from Reing maintenance ate standing at a crate because sitting still felt wrong since the bloom—three bites, then back to a coupling check without being asked.
 
 The ship still creaked between correction pulses the way old ships creaked when asked to be quiet and young at the same time.
 
@@ -249,11 +251,11 @@ Once, Hale said, "Movement—" and the deck went still before she finished: "—
 
 The stillness itself was new. Before the Incident, a false call would have earned a muttered joke. Now it earned a breath and a return to work.
 
-The *Veil* moved forward into segment seven like a patient animal that had learned the fence was not the edge of the world.
+The *Veil* moved forward into segment seven on correction thrust held at minimal fraction—Reing 5's low hum, scrubber cycle, the rattle of a panel Brenner had shimmed twelve years ago on a Tuesday he still remembered.
 
 ---
 
-**KESTREL VEIL — ENGINEERING**
+***KESTREL VEIL — ENGINEERING***
 
 **Tomas Brenner** could tell a ship's mood from her relays.
 
@@ -263,7 +265,7 @@ Today she sounded wrong.
 
 Not failing. Wrong.
 
-Ring three still flickered when environmental overworked. Cho's guest filter in loop three still ran with a wheeze Brenner had stopped calling temporary because temporary was a religion he no longer practiced. Koss had a thermal graph open and the expression she wore when numbers were about to misbehave socially. The port regulator was holding—Brenner heard holding and complaining both—and **Hargrove** was on the bypass with a junior tech named **Pell**—not the one who fell asleep in a collar bay, a different Pell, ring four, too young to have a bloom story yet—running cable trace on a junction that should not have needed trace if the universe were fair.
+Reing 3 still flickered when environmental overworked. Cho's guest filter in loop three still ran with a wheeze Brenner had stopped calling temporary because temporary was a religion he no longer practiced. Koss had a thermal graph open and the expression she wore when numbers were about to misbehave socially. The port regulator was holding—Brenner heard holding and complaining both—and **Hargrove** was on the bypass with a junior tech named **Pell**—not the one who fell asleep in a collar bay, a different Pell, Reing 4, too young to have a bloom story yet—running cable trace on a junction that should not have needed trace if the universe were fair.
 
 Pell looked up. "Sir—this line runs warm."
 
@@ -277,7 +279,7 @@ That was mentorship: not comfort, direction.
 
 Brenner moved to the port tie-in and listened.
 
-Correction thrust at this fraction had a signature—ring five's low hum, scrubber cycle, the particular rattle of a panel he'd shimmed twelve years ago on a Tuesday he still remembered. He knew that signature the way Calder knew crew voices.
+Correction thrust at this fraction had a signature—Reing 5's low hum, scrubber cycle, the particular rattle of a panel he'd shimmed twelve years ago on a Tuesday he still remembered. He knew that signature the way Calder knew crew voices.
 
 This had an undertone.
 
@@ -311,7 +313,7 @@ Pell: "Yes, sir."
 
 Brenner almost said something kind. He said something useful instead: "Good trace work. Do the next junction."
 
-Hargrove, from under a panel, reported ring four's coupler was still ugly. Ugly held; Brenner said to log ugly.
+Hargrove, from under a panel, reported Reing 4's coupler was still ugly. Ugly held; Brenner said to log ugly.
 
 Quiet pride. Quiet work.
 
@@ -327,7 +329,7 @@ The *Veil* kept whispering through the border in a voice Brenner was learning to
 
 ---
 
-**THE DOMINION — BORDER SURVEILLANCE NODE K-17**
+***THE DOMINION — BORDER SURVEILLANCE NODE K-17***
 
 Senior Warrant Officer **Daria Kovat** had been watching empty space for eleven years.
 
@@ -417,13 +419,13 @@ Somewhere in the corridor geometry, a damaged Fleet scout crept on correction th
 
 ---
 
-**KESTREL VEIL — COMMAND DECK**
+***KESTREL VEIL — COMMAND DECK***
 
 The discovery did not arrive as contact.
 
 It arrived as infrastructure.
 
-Ortega saw it first because Ortega always saw the wrong things first—the things passive suites were not designed to look for until someone told them to feel instead of hunt.
+Ortega saw it first because Ortega always saw the wrong things first—the things passive systems were not designed to look for until someone told them to feel instead of hunt.
 
 "Navigation anomaly." Ortega's voice stayed low. "Not contact. Beacon structure—artificial spacing, not natural clustering."
 
@@ -477,7 +479,7 @@ Calder said it quietly because quiet was doctrine and because the words deserved
 
 Pause.
 
-The scrubbers cycled. Ring three flickered once. Brenner did not comment on intercom.
+The scrubbers cycled. Reing 3 flickered once. Brenner did not comment on intercom.
 
 "We're trespassing."
 
@@ -485,9 +487,7 @@ No one answered.
 
 Thessaly opened her slate and wrote without looking at Calder. Park copied bearing and timestamp into the segregated buffer—the shelf he still trusted more than the auto-summary writers upstream. Ortega kept the passive loop running because stopping would be a kind of hope and hope was noise.
 
-Calder did not add orders.
-
-The orders were already written in Rowan's relay and Cho's strip log and Brenner's *patched not repaired* and every quiet choice the crew had made since VI-Gamma went static.
+"Segment seven holds," Calder said. "Passive only. Walsh schedule stands."
 
 Observe.
 
@@ -496,6 +496,8 @@ Investigate.
 Do not engage unless necessary.
 
 The *Kestrel Veil* crept on correction thrusters and moved deeper into segment seven—alone, damaged, professional—into a corridor that had never been empty, only patient.
+
+Ortega's passive loop still carried a companion return on the edge of tolerance—present on one pass, absent on the next, not yet filed upstream.
 
 ---
 

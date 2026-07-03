@@ -1,6 +1,6 @@
 ﻿# Archive
 
-In-universe documents preserved for historical exhibit, doctrine comparison, and series reference. **Publication interludes** — inserted by `Manuscript/build_manuscript.ps1` per `archive_placement.json`.
+In-universe documents preserved for historical exhibit, doctrine comparison, and series reference. **Publication interludes** — inserted by `Manuscript/_build/build_manuscript.ps1` per `archive_placement.json`.
 
 | Ref | Issuing authority | File | Manuscript placement | Role |
 |-----|-------------------|------|----------------------|------|

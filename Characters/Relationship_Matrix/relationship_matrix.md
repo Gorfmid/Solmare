@@ -239,7 +239,7 @@ Book One baseline (post–Chapter 5 / pre–Act II rewrite): cohesion **high und
 | Communication | Ghost-calibration jokes; serious register identical on-watch |
 | Koss misunderstands | That Halden would skip diagnostics under pressure—she would not, and neither would he |
 | Halden misunderstands | That Koss's standards are bureaucracy—she treats them as survival |
-| Koss admires | Halden knows defensive systems the way she knows propulsion |
+| Koss admires | Halden knows tactical systems the way she knows propulsion |
 | Halden admires | Koss ran five cycles without complaint or performance |
 
 ---

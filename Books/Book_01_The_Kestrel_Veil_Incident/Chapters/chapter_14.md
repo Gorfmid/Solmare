@@ -4,8 +4,8 @@
 
 ---
 
-**THE DOMINION — FRONTIER COMMAND ACADEMY**  
-**THE ACADEMY**
+***THE DOMINION — FRONTIER COMMAND ACADEMY***  
+***THE ACADEMY***
 
 **Commander Vex** had removed his gloves before entering the tactical classroom because the room deserved the habit and because young officers learned posture from what seniors did without naming it.
 
@@ -33,7 +33,7 @@ Discipline.
 
 Strategic patience.
 
-**Cadet Orlov** frowned at a timeline. "If the node had maintained single-suite passive coverage, the return would have resolved as drift."
+**Cadet Orlov** frowned at a timeline. "If the node had maintained single-system passive coverage, the return would have resolved as drift."
 
 "And if the refurb had slipped one week," Vex said, "the drift would have become a gap. Gaps are where incidents begin."
 
@@ -77,7 +77,7 @@ Vex poured tea from the pot the duty steward left each morning— too strong, co
 
 A knock at the door— **Major Petrov**, not entering, only nodding through the glass. Message delivered without words: comparison continued. Thirty observations still breathed in directorate packets. Vex's suspension still breathed in review boards. Teaching breathed in classrooms. All of it concurrent. All of it professional.
 
-When the period ended, cadets filed out with manuals under their arms and sentences in their slates they would not understand fully until they missed a dinner or signed a tolerance they would not have signed at nineteen.
+When the period ended, cadets filed out with manuals under their arms and sentences in their slates they would not understand fully until they missed a dinner or certified a tolerance they would not have certified at nineteen.
 
 Vex remained at the table a moment longer and looked at the overlay— convoy lanes, refurb bands, staffing curves.
 
@@ -97,8 +97,8 @@ Outside, rain and banners and cadets crossing the quad with manuals under their 
 
 ---
 
-**KESTREL VEIL — WARDROOM**  
-**LESSONS**
+***KESTREL VEIL — WARDROOM***  
+***LESSONS***
 
 Segment seven, day eleven.
 
@@ -126,7 +126,7 @@ Park slid a strip forward. "Observed behavior: continuity. Preparedness. Lanes a
 
 Thessaly did not look up from her notes. "Fleet operational question on record: what's out there. Observed Dominion question: what must still work tomorrow."
 
-**Marcus Hale** leaned against the bulkhead, arms crossed, destroyer track loudness restrained for once. "Defensive training weights threat geometry. No doctrine for passive transit density."
+**Marcus Hale** leaned against the bulkhead, arms crossed, destroyer track loudness restrained for once. "Combat systems training weights threat geometry. No doctrine for passive transit density."
 
 Ortega almost smiled. "We weren't trained to parse civilian rhythm. Listen watch expects the wrong profile."
 
@@ -138,7 +138,7 @@ No one in the wardroom argued that Fleet was foolish.
 
 Arguing foolishness was how institutions protected themselves from learning.
 
-Calder said, quietly, "We weren't trained to look for a civilization that already existed, were we?"
+Calder said, "We weren't trained for occupied geometry. Keep listening."
 
 The room fell silent.
 
@@ -190,8 +190,8 @@ She left before he could answer.
 
 ---
 
-**THE DOMINION — DISTRICT NINE / K-17 TRANSIT SPINE**  
-**THE MEMORIAL**
+***THE DOMINION — DISTRICT NINE / K-17 TRANSIT SPINE***  
+***THE MEMORIAL***
 
 **Daria Kovat** should have gone home.
 
@@ -279,8 +279,8 @@ Somewhere on seven-alpha, a faint return held position like a stone in a stream.
 
 Kovat would be back at K-17 before dawn.
 
-**KESTREL VEIL — CHART ROOM**  
-**MAPS**
+***KESTREL VEIL — CHART ROOM***  
+***MAPS***
 
 **Mira Thessaly** preferred paper when the question was philosophical and overlays when the question was geometric.
 
@@ -372,8 +372,8 @@ Only people could do that— slowly, if they were brave enough.
 
 ---
 
-**THE DOMINION — ORBITAL CONSTRUCTION YARD KESSIK-OUTER**  
-**THE WORKSHOP**
+***THE DOMINION — ORBITAL CONSTRUCTION YARD KESSIK-OUTER***  
+***THE WORKSHOP***
 
 The training bay smelled of hot metal and solvent and the particular patience of people who believed a joint could be proud if you gave it time.
 
@@ -439,7 +439,7 @@ Nearby, **Petran** watched from the bay doorway with tea in a chipped cup. He sa
 
 An inspection sled hummed past the window— routine, unglamorous, the kind of craft that kept yards honest. Sorokin had ridden similar sleds at Lina's age and come home with welding dust in his hair and his mother's laughter in the kitchen.
 
-He almost smiled. "Sign your work. If you wouldn't sign it, don't ask me to."
+He almost smiled. "Certify your work. If you wouldn't certify it, don't ask me to."
 
 She etched her initials into the practice log.
 
@@ -459,14 +459,14 @@ Lina followed with her log and a question she had earned.
 
 Sorokin considered. Petran would have said *the ship*. Grandmother Ilya would have said *the people who sail her*. The manual would say *the inspection record*.
 
-"The habit," he said. "Sign it right. Teach the next one. That's what outlives the weld."
+"The habit," he said. "Certify it right. Teach the next one. That's what outlives the weld."
 
 Lina wrote it down.
 
 ---
 
-**KESTREL VEIL — COMMAND DECK**  
-**THE INHERITANCE**
+***KESTREL VEIL — COMMAND DECK***  
+***THE INHERITANCE***
 
 Late watch.
 
@@ -524,13 +524,9 @@ Thessaly stepped closer to the rail. Not to challenge. To stand where executives
 
 She nodded.
 
-Calder did not issue a dramatic order.
+"Keep listening," Calder said. "Passive holds."
 
-He had issued the only order that mattered three days ago.
-
-"Keep listening," he said again, quieter— to the bridge, to himself, to the corridor that had been prepared and named and maintained by people who had never asked his permission to exist.
-
-Reyes acknowledged on chart plot; Ortega put the headphone back. Tanaka kept emitters dark; Brenner kept the ring steady.
+Reyes acknowledged on chart plot; Ortega put the headphone back. Tanaka kept emitters dark; Brenner kept the Reing steady.
 
 The *Kestrel Veil* crept on correction thrusters in inherited space— Fleet confidence meeting Dominion caution in the dark, witness to a conflict that had not begun with hatred and would not, if Calder had anything left to say about it, be simplified into villains.
 
@@ -541,5 +537,7 @@ They listened.
 They continued.
 
 The corridor held them the way it held everyone who used it without thinking about who had made tomorrow possible.
+
+Park's segregated buffer still held one correlation thread Fleet had not requested—checksum match, urgency flag unset, waiting for a policy layer that did not exist yet.
 
 ---

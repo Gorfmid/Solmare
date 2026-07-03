@@ -53,7 +53,7 @@ These are physical behaviors to **establish in prose** once, then let recur with
 - Cole identifies relay congestion by sound; Park glances at her instead of the display first.
 
 ### Halden ↔ Hale
-- Hale is already at the defensive systems panel when Halden's voice changes register.
+- Hale is already at the tactical systems panel when Halden's voice changes register.
 - Hale does not ask if there's a problem. He runs the checklist.
 
 ---

@@ -100,7 +100,7 @@
 
 ## Next writing priorities
 
-**Book One complete.** Manuscript assembly: `Manuscript/build_manuscript.ps1`
+**Book One complete.** Manuscript assembly: `Manuscript/_build/build_manuscript.ps1`
 
 ---
 

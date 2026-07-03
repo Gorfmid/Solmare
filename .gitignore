@@ -7,4 +7,8 @@ Books/Book_01_The_Kestrel_Veil_Incident/Manuscript/_draft_manuscript.docx
 Books/Book_01_The_Kestrel_Veil_Incident/Manuscript/_print_manuscript.docx
 Books/Book_01_The_Kestrel_Veil_Incident/Manuscript/__pycache__/
 Books/Book_01_The_Kestrel_Veil_Incident/Manuscript/Evaluation/
+Books/Book_01_The_Kestrel_Veil_Incident/Manuscript/media-*/
 Books/Book_01_The_Kestrel_Veil_Incident/Manuscript/The Kestrel Veil Incident.txt
+
+# Superseded build naming
+Books/Book_01_The_Kestrel_Veil_Incident/Manuscript/The_Kestrel_Veil_Incident_Book_One.*

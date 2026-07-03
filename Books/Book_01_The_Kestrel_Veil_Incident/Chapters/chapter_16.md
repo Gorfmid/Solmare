@@ -1,11 +1,11 @@
-﻿# Chapter 16
+# Chapter 16
 
 ## Homeward
 
 ---
 
-**THE DOMINION — STRATEGIC SECURITY DIRECTORATE**  
-**THE LAST COMPARISON**
+***THE DOMINION — STRATEGIC SECURITY DIRECTORATE***  
+***THE LAST COMPARISON***
 
 Morning arrived with rain on the arcade glass and Founders' Week banners finally taut— gold thread, music from the lower plaza, the ordinary volume of a civilization celebrating itself without asking permission from the border.
 
@@ -105,8 +105,8 @@ That was also a kind of answer.
 
 ---
 
-**KESTREL VEIL — DEPARTURE LEG**  
-**THE COURSE**
+***KESTREL VEIL — DEPARTURE LEG***  
+***THE COURSE***
 
 Segment seven, day fifteen.
 
@@ -114,7 +114,7 @@ Morning watch.
 
 No speeches.
 
-**Damon Reyes** updated navigation— home vectors, conservative burn, merge windows chosen for traffic humility— while **Ari Halden** adjusted engine bands until correction-thrust fraction held without complaint. The *Kestrel* complained anyway— a vibration in ring three Calder had learned to hear as mood rather than malfunction. **Yuki Tanaka** confirmed emitters dark for the third time since watch turnover; **Felix Ortega** logged passive returns with the discipline of a man who knew listening did not end when course changed. **Elara Koss** had the engine room on correction-thruster stewardship— not heroic, ancestral, the way Koss treated machines that kept people alive.
+**Damon Reyes** updated navigation— home vectors, conservative burn, merge windows chosen for traffic humility— while **Ari Halden** adjusted engine bands until correction-thrust fraction held without complaint. The *Kestrel* complained anyway— a vibration in Reing 3 Calder had learned to hear as mood rather than malfunction. **Yuki Tanaka** confirmed emitters dark for the third time since watch turnover; **Felix Ortega** logged passive returns with the discipline of a man who knew listening did not end when course changed. **Elara Koss** had the engine room on correction-thruster stewardship— not heroic, ancestral, the way Koss treated machines that kept people alive.
 
 **Calder Venn** stood at the rail and watched familiar routes begin to disappear behind the *Kestrel Veil*.
 
@@ -160,7 +160,7 @@ Bring everyone home.
 
 Everything else was secondary.
 
-"Ring three handshake nominal. Correction burn steady."
+"Reing 3 handshake nominal. Correction burn steady."
 
 "Acknowledged," Calder said.
 
@@ -210,7 +210,7 @@ Brenner made a correction burn so small Calder would not have felt it without th
 
 The *Kestrel Veil* withdrew along the corridor the way professionals withdrew— without illumination, without announcement, without forcing first contact because first contact was a thing nations chose or failed to choose, not a thing scouts triggered by lingering one day too many.
 
-**Jun Park** logged each leg departure in buffer threads tagged *segment seven — witness archive*; **Marcus Hale** ran rotation without jokes because jokes during departure felt like disrespect to a corridor that had taught them Tuesday; **Yuki Tanaka** ran emitter checks on schedule— dark, confirmed, logged.
+**Jun Park** keyed each leg departure into buffer threads tagged *segment seven — witness archive*; **Marcus Hale** ran rotation without jokes because jokes during departure felt like disrespect to a corridor that had taught them Tuesday; **Yuki Tanaka** ran emitter checks on schedule— dark, confirmed, logged.
 
 No one said goodbye.
 
@@ -230,8 +230,8 @@ The course was home.
 
 ---
 
-**THE DOMINION — DISTRICT NINE / FOUNDERS' WEEK**  
-**FOUNDERS' WEEK**
+***THE DOMINION — DISTRICT NINE / FOUNDERS' WEEK***  
+***FOUNDERS' WEEK***
 
 Founders' Week began the way it always began— with children too loud and markets opening early and tea sold from carts that had been in the same families long enough to argue about authenticity without resolving it.
 
@@ -335,8 +335,8 @@ Founders' Week made it visible.
 
 ---
 
-**KESTREL VEIL — EXECUTIVE OFFICE**  
-**THE REPORT HOME**
+***KESTREL VEIL — EXECUTIVE OFFICE***  
+***THE REPORT HOME***
 
 **Mira Thessaly** had the desk configured for writing, not war— paper stacks, observation extracts, correlation appendices, Fleet forms open on a secondary display like an old language she no longer trusted.
 
@@ -432,11 +432,11 @@ Honest.
 
 Survivable.
 
-Calder: "Neighbors stays in the margin."
+"Neighbors stays in the margin," Calder said.
 
 "I will."
 
-"And *first contact has not occurred* stays accurate."
+"First contact has not occurred stays accurate."
 
 Thessaly looked up. "Hasn't it?"
 
@@ -468,8 +468,8 @@ Homeward.
 
 ---
 
-**THE DOMINION — BORDER OBSERVATION CENTER KESSIK**  
-**THE BORDER**
+***THE DOMINION — BORDER OBSERVATION CENTER KESSIK***  
+***THE BORDER***
 
 Rain on high glass.
 
@@ -571,8 +571,8 @@ Either way, Vex would be here when the field must maintain.
 
 ---
 
-**KESTREL VEIL — COMMAND DECK**  
-**HOMEWARD**
+***KESTREL VEIL — COMMAND DECK***  
+***HOMEWARD***
 
 Late watch.
 
@@ -668,7 +668,7 @@ Acknowledgment.
 
 When Ortega put the headphones back, his hands moved slower than usual— the way everyone's hands moved when trial geometry or Leviathan doctrine surfaced in memory without being named.
 
-**Tomás Brenner**, still at helm as Fleet space approached: "Smooth water ahead, Captain. Ring three earned it."
+**Tomás Brenner**, still at helm as Fleet space approached: "Smooth water ahead, Captain. Reing 3 earned it."
 
 Calder: "Did we earn her—or did she carry us?"
 
@@ -720,8 +720,10 @@ The border held its breath so both sides could sleep.
 
 For now, that was enough.
 
+Park's witness archive still carried one segregated lane Holt had not merged—checksum green, classification pending, waiting for Fleet to decide what Tuesday meant.
+
 ---
 
-**END ACT III**
+***END ACT III***
 
 ---

@@ -3,7 +3,7 @@
 ## ROLE
 Tactical Systems Officer, UFA Scout Vessel Kestrel Veil.
 
-Manages threat assessment, engagement-rule interpretation, evasive protocol, and defensive systems readiness. On scout-class vessels, tactical work is **survival geometry**, not combat dominance.
+Manages threat assessment, engagement-rule interpretation, evasive protocol, and tactical systems readiness. On scout-class vessels, tactical work is **survival geometry**, not combat dominance.
 
 ---
 

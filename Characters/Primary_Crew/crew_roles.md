@@ -8,7 +8,7 @@ Operational voice of caution; prioritizes crew survival over mission completion.
 Manages jump calculations, sensor interpretation, anomaly detection.
 
 ## Tactical Systems Officer
-Threat assessment, engagement-rule interpretation, evasive protocol, defensive systems readiness. On scout-class vessels: survival geometry, not combat dominance.
+Threat assessment, engagement-rule interpretation, evasive protocol, tactical systems readiness. On scout-class vessels: survival geometry, not combat dominance.
 
 **Book One instance:** Ari Halden
 

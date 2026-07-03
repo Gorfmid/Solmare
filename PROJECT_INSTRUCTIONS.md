@@ -8,7 +8,7 @@ Load and obey authoritative docs for the task at hand:
 
 | Area | Start here |
 |------|------------|
-| **Craft & style** | `Writing_System/Style_Guide/global_writing_principles.md` · `solmare_craft_doctrine.md` |
+| **Craft & style** | `Writing_System/Style_Guide/global_writing_principles.md` · `solmare_craft_doctrine.md` · `fleet_systems_lexicon.md` |
 | **Series philosophy** | `Writing_System/Series_Principles/cultural_identity_and_philosophical_foundation.md` · `series_principles.md` |
 | **Civilization texture** | `Universe/cultural_touchstones.md` |
 | **World & combat rules** | `Universe/canon_and_world_rules.md` · faction docs in `Universe/` |

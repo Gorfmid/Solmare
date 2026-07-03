@@ -14,8 +14,8 @@ Shared Solmare canon: cosmology, factions, technology, geography, and observatio
 | **`Fleet/boarding_combat_and_internal_ship_geography.md`** | Internal ship layers, boarding phases, compartment rules. Reference before boarding and internal combat scenes. |
 | **`Fleet/fleet_communication_sensor_and_information_warfare_doctrine.md`** | Communication tiers, sensor reliability, information warfare. Reference before comms, sensor, and intelligence scenes. |
 | **`Fleet/fleet_authority_governance_and_command_hierarchy.md`** | Political structure, command hierarchy, operational governance. Reference before authority, political, and command scenes. |
-| **`dominion_visual_language.md`** | **Dominion** visual motifs — recognition before chapter heading |
-| **`dominion_speech.md`** | **Dominion** speech — inherited quotation; continuity vs. Fleet innovation |
+| **`The_Dominion/dominion_visual_language.md`** | **Dominion** visual motifs — recognition before chapter heading |
+| **`The_Dominion/dominion_speech.md`** | **Dominion** speech — inherited quotation; continuity vs. Fleet innovation |
 | **`The_Dominion/dominion_worldview.md`** | **Dominion** strategic philosophy, military doctrine, society, Leviathan Program. Reference before any Dominion POV or Fleet–Dominion contrast. |
 
 ## Subfolders

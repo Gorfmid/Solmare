@@ -502,6 +502,20 @@ function Format-ChapterOpening {
     return "`n`n# Chapter $ChapterNum $em $Title {.chapter-opener}`n`n<p align=""center""><img src=""$LogoRelativePath"" alt="""" width=""160"" /></p>`n`n"
 }
 
+function Get-ChapterPreamble {
+    param([string]$Content)
+
+    $match = [regex]::Match($Content, '(?m)^#\s*Chapter\s+\d+\s*$')
+    if (-not $match.Success) { return $null }
+
+    $before = $Content.Substring(0, $match.Index).Trim()
+    if ([string]::IsNullOrWhiteSpace($before)) { return $null }
+
+    $before = $before -replace '\.\./Manuscript/assets/', 'assets/'
+    $before = $before -replace '\.\./\.\./Manuscript/assets/', 'assets/'
+    return $before
+}
+
 function Convert-PublicationChapter {
     param(
         [string]$Content,
@@ -536,8 +550,16 @@ function Convert-PublicationChapter {
     $cleaned = Convert-PublicationBody -Lines $bodyLines
     $body = ($cleaned -join "`n").TrimEnd()
     $header = Format-ChapterOpening -ChapterNum $chapterNum -Title $title -LogoRelativePath $LogoRelativePath
-    if ([string]::IsNullOrWhiteSpace($body)) { return $header.TrimEnd() }
-    return "$($header.TrimEnd())`n`n$body"
+    $preamble = Get-ChapterPreamble -Content $Content
+    if ([string]::IsNullOrWhiteSpace($body)) {
+        $result = $header.TrimEnd()
+    } else {
+        $result = "$($header.TrimEnd())`n`n$body"
+    }
+    if (-not [string]::IsNullOrWhiteSpace($preamble)) {
+        return "$preamble`n`n$result"
+    }
+    return $result
 }
 
 function Convert-ChapterContent {

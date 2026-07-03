@@ -172,7 +172,7 @@ Six senior officers plus eight named support crew. Full roster: `support_crew.md
 
 **Department heads:** Dr. Sera Okwelu (medical), Tomas Brenner (maintenance), Yuki Tanaka (flight ops), Felix Ortega (science).
 
-**Recurring enlisted:** Nadia Cole (relay), Marcus Hale (defensive systems), Priya Sharma (life-support), Devon Walsh (general support).
+**Recurring enlisted:** Nadia Cole (relay), Marcus Hale (tactical systems), Priya Sharma (life-support), Devon Walsh (general support).
 
 Park knows all their names and birthdays (except Calder's—Brenner's birthday Park knows; Calder's he forgets). Thessaly knows Walsh's watch notebook is better than the official schedule. Koss knows Sharma's certification status by heart.
 

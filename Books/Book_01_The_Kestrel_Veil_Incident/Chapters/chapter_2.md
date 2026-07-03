@@ -6,19 +6,17 @@ Founders' Week turned Helion Prime's academy terrace into something the manuals 
 
 Fleet Administrative Academy graduation was always formal. Today it was also festive—lanterns strung along the stone colonnade, choir voices from three cultural houses braided into the anthem, families in the public gallery wearing colors from a dozen worlds. Beyond the glass, the Second Sunrise pulsed over the industrial districts—the foundry aurora locals treated as weather.
 
-**Cadet Captain Calder Venn** stood in final formation, sword belt finally corrected to Commander Pell's satisfaction, and watched the reviewing stand the way he watched any system due for verification: details logged, deviations noted, corrections executed before they became failure.
+Cadet Captain Calder Venn stood in final formation, sword belt finally corrected to Commander Pell's satisfaction, and watched the reviewing stand the way he watched any system due for verification: details logged, deviations noted, corrections executed before they became failure.
 
-Around him, one hundred and forty-seven cadets breathed in practiced unison.
-
-**Damon Reyes** stood two positions to Calder's left, jaw tight with the effort of not grinning during the invocation. **Sera Okonkwo** held the center file with the stillness of someone who had already decided she belonged on a combat deck. **Marcus Hale**—destroyer track, loud in every context—had somehow acquired a miniature Fleet banner and was concealing it against his thigh until the formation broke.
+Damon Reyes stood two positions to Calder's left, jaw tight with the effort of not grinning during the invocation. Sera Okonkwo held the center file with the stillness of someone who had already decided she belonged on a combat deck. Marcus Hale—destroyer track, loud in every context—had acquired a miniature Fleet banner and concealed it against his thigh, mouthing a first-officer timeline he had already memorized to the hour.
 
 Calder did not have a banner. He had a checklist.
 
-The terrace stone was worn smooth where generations of boots had found the same spacing marks—today hidden under Founders' Week bunting, copper and blue, silk banners the Senate delegation would store and bring out again next year because tradition was cheaper than reinvention.
+The terrace stone was worn smooth where generations of boots had found the same spacing marks—today hidden under copper-and-blue bunting the Senate delegation would store and bring out again next year because tradition was cheaper than reinvention.
 
-Fleet chaplain **Adeyemi** led the invocation in three languages. Calder mouthed the responses and watched the gallery. Lisette had taught him to locate the people you loved before you tried to feel proud alone.
+Fleet chaplain Adeyemi led the invocation in three languages. Calder mouthed the responses and watched the gallery. Lisette had taught him to locate the people you loved before you tried to feel proud alone.
 
-She was there. Third row. Hat she swore she did not own and wore anyway.
+She was there. Third row. The hat she swore she did not own and wore anyway.
 
 The invocation ended. Pell's voice carried without amplification—the habit of a man who had commanded attention before he had commanded ships.
 
@@ -28,21 +26,19 @@ The class answered in one voice.
 
 Calder felt the words land the way ceremony always landed for him: as obligation first, meaning second, music third. He had spent four years learning that feelings were not less real for arriving after procedure. Lisette had taught him that before the academy ever did.
 
-Commendations followed. Simulation honors. Navigation distinction. Logistics excellence. A maintenance-track cadet received the award for berth acceptance documentation so meticulous three yard supervisors had requested copies. Okonkwo received the combat-track citation with a nod that accepted what she already knew. Reyes took the cartography prize and looked, for one unguarded second, like a man who had been given permission to keep asking questions.
+Commendations followed—simulation, navigation, logistics. Okonkwo accepted the combat citation with a nod. Reyes took cartography and looked, for one unguarded second, like a man given permission to keep asking questions.
 
-Calder's name came mid-list: highest composite score on the Kestran transit failure replay; early correction of cascade failure mode; recommendation for independent command.
+Calder's name came mid-list: highest composite on the Kestran transit failure replay; early cascade correction; recommendation for independent command.
 
-Applause rolled across the terrace. In the gallery, **Lisette Venn** rose before she remembered she hated standing in crowds, then sat, then stood again because Calder was looking.
+Applause rolled across the terrace. In the gallery, Lisette Venn rose before she remembered she hated standing in crowds, then sat, then stood again because Calder was looking.
 
 He did not smile on the formation line. He nodded once—the acknowledgment he gave systems that reported green.
 
-The oath came next—words older than the terrace, sworn to a Fleet that had kept peace long enough for children to grow up thinking peace was weather. Calder spoke his line without stumbling. Around him, one hundred and forty-seven voices made the same promise.
+The oath came next—words older than the terrace, sworn to a Fleet that had kept peace long enough for children to grow up thinking peace was weather. Calder spoke his line without stumbling. One hundred and forty-seven voices made the same promise.
 
-Swords followed: not weapons for the field, but symbols handed from instructor to graduate, edge dulled, balance true, the academy insisting that command began with restraint. Pell presented Calder's sword with the same correction he had made at rehearsal—belt angle, grip, the small geometry of dignity.
+Pell presented Calder's sword with the same correction he had made at rehearsal—belt angle, grip, the small geometry of dignity. Commissioning pins came last. Metal against collar. Weight against skin.
 
-Commissioning pins came last. Metal against collar. Weight against skin.
-
-Founders' Week drums began somewhere below the terrace as the graduates broke formation and became officers the Fleet could assign, deploy, and depend upon. Confetti from the lower districts drifted past the glass—biodegradable, dyed, ridiculous, perfect.
+Drums began somewhere below the terrace as the graduates broke formation and became officers the Fleet could assign, deploy, and depend upon. Confetti from the lower districts drifted past the glass—biodegradable, dyed, ridiculous, perfect.
 
 Calder's pin felt heavier than its mass.
 
@@ -50,11 +46,11 @@ Pell found him at the terrace rail after the crowd swallowed the class into cong
 
 "Your aunt is trying not to cry in public," Pell said. "She is failing with dignity."
 
-Calder looked toward the gallery. Lisette was indeed failing with dignity, wiping her eyes with the heel of her hand while **Priya** offered a napkin and a look that said *let her*.
+Calder looked toward the gallery. Lisette was indeed failing with dignity, wiping her eyes with the heel of her hand while Priya offered a napkin and a look that said *let her*.
 
 "I'll see her after the receiving line, sir."
 
-"You will." Pell leaned on the rail beside him, not quite shoulder to shoulder. "I am not going to discuss tactics with you today."
+"You will." Pell leaned on the rail beside him, not quite shoulder to shoulder. "I am not going to discuss tactics with you today."  
 
 Calder had prepared for tactics. Simulation postmortems were safer than whatever Pell's expression suggested. "Sir?"
 
@@ -78,7 +74,7 @@ Calder looked at the pin on his collar. "How do I earn it?"
 
 Calder opened his mouth. Closed it. Nodded.
 
-"Come find me after assignment posting tomorrow if you want to argue about sensor sweeps. Today, go eat your aunt's bread and let someone be proud of you on purpose."
+"Come find me after assignment posting tomorrow if you want to argue about sensor sweeps. Today, go eat your aunt's bread and let someone be proud of you on purpose." He paused. "I know it is not your way. Give her a hug. She is proud of you."
 
 Calder saluted. Pell returned it without ceremony.
 
@@ -102,17 +98,13 @@ Okonkwo's handshake was competitive even in congratulations. "Destroyer escort, 
 
 "I'll schedule the embarrassment for your first leave."
 
-"Schedule it after Founders' Week. I'll be busy being impressive."
+"Schedule it after the parade. I'll be busy being impressive."
 
-Hale laughed too loudly and announced he was reporting to a cruiser in three days. "You'll visit. First officer by thirty. Book it."
+Hale laughed too loudly and announced he was reporting to a cruiser in three days, reciting the departure hour like a transit schedule. "You'll visit. First officer by thirty. Book it."
 
 "I'll book the bakery instead. Lisette feeds cruisers too."
 
-A cadet Calder barely knew—**Yuki Tanabe**, research command, quiet all four years—thanked him for tutoring on orbital mechanics and disappeared into a cluster of physicists before Calder could say he had only clarified what Tanabe already understood.
-
-**Instructor Mara Chen**—no relation to anyone Calder knew of—shook his hand with simulation instructor formality. "You corrected the Kestran replay early. Do not waste that instinct on paperwork once you have a crew."
-
-An academy archivist pressed a copied Founders' Week program into his hands. "For your first ship's mess wall. They always want one."
+Instructor Mara Chen—no relation to anyone Calder knew of—shook his hand with simulation instructor formality. "You corrected the Kestran replay early. Do not waste that instinct on paperwork once you have a crew."
 
 Calder could see the class's future in postings not yet read aloud—instructors embracing students they had corrected in public, banners snapping over a terrace full of people who expected the Fleet to keep doing what it had always done.
 
@@ -136,7 +128,7 @@ Calder let his shoulders down. "I'll eat at the bakery."
 
 "That's what the bulletin said. Don't start scheduling until you've been scheduled."
 
-He walked her toward the transit lift. Founders' Week lanterns reflected in the terrace glass. Somewhere below, the blessing procession rehearsed again—drums, voices, the Empire practicing joy because joy, too, was a tradition worth maintaining.
+He walked her toward the transit lift. Festival lanterns reflected in the terrace glass. Somewhere below, the blessing procession rehearsed again—drums, voices, the Empire practicing joy because joy, too, was a tradition worth maintaining.
 
 Lisette talked on the lift the way she talked when she was happy and trying not to show how afraid she had been for four years.
 
@@ -154,7 +146,9 @@ He did not know what to do with that sentence except carry it. "I'll be human at
 
 "Good. That's an order from civilian command."
 
-At the lift doors she kissed his cheek—the quick version, public enough to be decent, private enough to count—and merged into the Founders' Week crowd moving toward the lower districts. Calder watched until he lost her hat in the color and noise, then returned to academy housing alone.
+At the lift doors Calder stopped her with a hand on her sleeve—the gesture surprised them both. He hugged her before he could schedule the impulse away, quick and tight, his face against her wool coat. "Thanks for the food," he said, muffled and earnest.
+
+She kissed his cheek—the quick version, public enough to be decent, private enough to count—and merged into the blessing crowd moving toward the lower districts. Calder watched until he lost her hat in the color and noise, then returned to academy housing alone.
 
 His quarters were quiet. He hung the dress uniform with the care Lisette had taught him, set the pin in its case, opened it once more, closed it again—verification, not vanity.
 
@@ -174,7 +168,7 @@ Calder always looked.
 
 Calder ducked through the door in civilian clothes and was applauded before he had closed it.
 
-"Captain," said **Mr. Osei**, who bought rye on credit Thursdays and always paid on Thursdays. "We expected a commodore by the sound of your scores."
+"Captain," said Mr. Osei, who bought rye on credit Thursdays and always paid on Thursdays. "We expected a commodore by the sound of your scores."
 
 "Cadet Captain until the paperwork catches up," Calder said.
 
@@ -184,13 +178,13 @@ Lisette shoved a roll into his hands. "Eat before you talk."
 
 He ate. Cardamom, butter, the slight crunch of sugar Lisette insisted was not excessive. His shoulders dropped without being commanded.
 
-Priya poured tea. **Hye-Jin Park**, Jun's mother from the freight terminal, arrived still in uniform and set down a tray of rice cakes. "My son sent congratulations," she said. "He cannot call until relay window. He said to tell you mid-rim pays better than the core."
+Priya poured tea. Hye-Jin Park, Jun's mother from the freight terminal, arrived still in uniform and set down a tray of rice cakes. "My son sent congratulations," she said. "He cannot call until relay window. He said to tell you mid-rim pays better than the core."
 
 "Reyes said the same thing at graduation," Calder said.
 
 "Then it must be true."
 
-The bakery filled with the noise of people who liked each other—arguments about parade routes, a dockworker's story about a jump exit that smelled like oranges after a refrigeration leak, Captain **Aldric** on the fourth floor recounting Founders' Week on a carrier deck forty years ago with the serene inaccuracy of memory improved by retelling.
+The bakery filled with the noise of people who liked each other—arguments about parade routes, a dockworker's story about a jump exit that smelled like oranges after a refrigeration leak, Captain Aldric on the fourth floor recounting a carrier-deck Founders' Week forty years ago with the serene inaccuracy of memory improved by retelling.
 
 Aldric raised his cup. "First command?"
 
@@ -210,7 +204,7 @@ Mr. Osei told a story about a freighter captain who had docked at Helion Prime d
 
 "That's why we toast doors," Priya said quietly when Mr. Osei finished. "Half this room is alive because something broke and someone fed them anyway."
 
-Calder knew what she meant. The Empire was bread on credit and relay windows from sons on mid-rim postings—not a parade banner, but the room that fed you when credits froze. If it fell, it would fall on people like Lisette first.
+Calder knew what she meant. The Empire wasn't the flag passing overhead. It was the ordinary things that worked because millions of people did their jobs—bread on credit, relay windows from sons on distant postings, neighbors who looked after one another. If it failed, people like Lisette would feel it long before anyone in the Central Assembly did.
 
 Lisette sat beside him long enough to be noticed, then moved—hosting, correcting salt, refusing payment from someone who needed saving face more than profit. She had raised him to be self-sufficient and still watched him eat as if he might forget again.
 
@@ -232,7 +226,7 @@ Mr. Osei raised his cup. "To Calder Venn. May your ship have good doors and your
 
 Calder drank. Doors were a reasonable thing to toast. He thought about assignment posting in the morning and felt, for the first time in months, the specific lightness that came from finishing a long verification cycle.
 
-The parade drums sounded in the distance. Children ran past the window chasing a dog someone should have leashed. Lisette donated the last tray of sweet rolls to the night freight shift the way she always did during Founders' Week, because prosperity was only real if you practiced sharing it.
+The parade drums sounded in the distance. Children ran past the window chasing a dog someone should have leashed. Lisette donated the last tray of sweet rolls to the night freight shift the way she always did during the festival week, because prosperity was only real if you practiced sharing it.
 
 Later, when the crowd thinned, Lisette brought out Founders' Week fortune rolls—plain dough around a slip of paper no one pretended was mystical. Calder drew: *You will find a door that sticks and make peace with it.*
 
@@ -264,17 +258,15 @@ The hall was built for occasions that changed lives quietly. Wood panels absorbe
 
 Calder sat with his hands flat on his knees.
 
-Admiral **Sorensen**, guest of honor, spoke briefly about service—not glory, service. Calder listened because listening was respect made practical. Then the postings began.
+Admiral Sorensen, guest of honor, spoke briefly about service—not glory, service. Calder listened because listening was respect made practical. Then the postings began.
 
-The cruiser assignments went first—names Calder knew, voices he had heard in simulation debriefs, futures that sounded like the Fleet recruitment broadcasts of his childhood. **Tanaka's cousin**, whom Calder had met once at a district festival, received a diplomatic escort and cried without embarrassment. Hale shouted when his packet opened. No one shushed him. Enthusiasm was permitted on assignment day.
+The cruiser assignments went first—names Calder knew, voices he had heard in simulation debriefs, futures that sounded like the Fleet recruitment broadcasts of his childhood. Tanaka's cousin, whom Calder had met once at a district festival, received a diplomatic escort and cried without embarrassment. Hale shouted the cruiser name like a transit announcement when his packet opened. No one shushed him. Enthusiasm was permitted on assignment day.
 
-Destroyer escorts. Exploration vessels with survey mandates. Diplomatic escorts to neutral enclaves. Research commands in comfortable orbits. Supply convoy leadership for officers who wanted logistics careers with honest promotion paths.
-
-A classmate Calder had shared orbital mechanics lab with opened a research command packet and went pale with relief. Another received convoy leadership and grinned like a man who had wanted honesty over glamour and gotten it.
+Destroyer escorts. Exploration vessels with survey mandates. Diplomatic escorts. Research commands in comfortable orbits. Supply convoy leadership.
 
 Okonkwo received *Vigilant Threshold* and did not shout. She simply stood, packet in hand, already aboard in her mind.
 
-Reyes opened his exploration cartography posting and exhaled the way navigators exhaled when a solution locked. Tanabe accepted research command with a bow to the physics department chair who had come to see her off.
+Reyes opened his exploration cartography posting and exhaled the way navigators exhaled when a solution locked.
 
 Calder waited.
 
@@ -288,13 +280,13 @@ The officer called, "Venn, Calder."
 
 Calder stood. Walked forward. Accepted the packet. Broke the seal.
 
-The first line was assignment class: **Scout Vessel, UFA Reconnaissance Platform**.
+The first line was assignment class: Scout Vessel, UFA Reconnaissance Platform.
 
 Not a cruiser. Not a destroyer. Scout.
 
 He turned the page.
 
-Registry: **Kestrel Veil**.
+Registry: Kestrel Veil.
 
 The name was familiar. That it was his was not.
 
@@ -320,7 +312,7 @@ Calder closed the packet. "Acknowledged," he said to the posting officer.
 
 He returned to his seat with steady steps. Reyes touched his sleeve as he sat—brief, private, *later*. Okonkwo did not offer sympathy, which Calder appreciated. Hale whispered something about salvage yards that Calder chose not to hear.
 
-Calder opened the packet far enough to read crew complement and outgoing captain's name—**Dennett**, rotated eleven days ago. The ship had kept crew and repairs without him. He was the variable. The hull was the constant.
+Calder opened the packet far enough to read crew complement and outgoing captain's name—Dennett, rotated eleven days ago. The ship had kept crew and repairs without him. He was the variable. The hull was the constant.
 
 Not discouraging. Clarifying.
 
@@ -376,17 +368,19 @@ Helion Prime's industrial berths smelled of solvent and hot metal even through t
 
 Calder carried the assignment packet in the rigid case that had survived three academy postings. Subsection Nine was a canyon of hulls and scaffolding, voices echoing off plating, cranes moving with the unhurried confidence of machinery that had never been asked to impress anyone.
 
-He passed Berth 11 first—a frigate with a fresh dorsal repaint so sharp the new gray hurt to look at under floodlights. Berth 12 held a courier clipper whose crew sang while polishing access hatches. Berth 13 was empty, reserved for a Founders' Week demonstration sail the yard master had been boasting about all week.
+He passed Berth 11 first—a frigate with a fresh dorsal repaint so sharp the new gray hurt to look at under floodlights. Berth 12 held a courier clipper whose crew sang while polishing access hatches. Berth 13 was empty, reserved for a demonstration sail the yard master had been boasting about all week.
 
 Berth 14-C did not care about demonstrations.
 
-The tram dropped him at the cradle strip. Calder stepped off with the assignment packet under his arm and the maintenance annex already loading on his tablet. He had not wanted to read the annex before he saw the hull. Files described systems. They did not describe presence.
+The tram dropped him at the cradle strip. The maintenance annex was already loading on his tablet—he had held off reading it until he saw the hull. Files described systems. They did not describe presence.
 
 He looked up.
 
 The scar ran along the starboard mid-hull—fore to aft, nearly thirty meters, visible before he registered anything else about the ship. Plating had been replaced decades ago; weld seams were competent; paint and patch had softened the edges without erasing them. The concavity beneath the repairs still read as catastrophe—a direct strike profile consistent with a cruiser-grade primary battery, or larger.
 
 A scout hull should not have survived it.
+
+He had trained on hulls the recruitment packets used—clean profiles, synchronized panel standards, the fiction that the Fleet only commissioned what looked ready. Disappointment registered first. Curiosity followed anyway: three alloy generations on one frame, notation standards retired before his first year, survivability that should have ended in a salvage write-off. Something had kept her in service. The annex would call it certification. His eyes were not convinced yet—but they were interested.
 
 Calder stood on the observation strip long enough for the tram to leave without him.
 
@@ -430,11 +424,7 @@ He measured the scar anyway. The numbers matched what his eyes already knew.
 
 Calder circled the hull once more and counted panel stamps—yard code, year, alloy batch. Three generations of repair on one continuous frame. Each weld someone else's watch, someone else's choice to fix instead of scrap.
 
-Disappointment still sat in his chest. So did the scar's geometry, Brenner's addendum in block capitals, the tech's *Typical Veil* delivered like a fleet toast.
-
-Nearly everyone would see an obsolete ship.
-
-He was starting to see fourteen people and forty-seven years of not quitting.
+Brenner's addendum in block capitals. The tech's *Typical Veil* delivered like a fleet toast. Nearly everyone walking Subsection Nine would see an obsolete hull. Calder was starting to see fourteen people and forty-seven years of not quitting.
 
 At the gangway, a bosun checked his credentials and waved him through. The *Veil* did not perform for visitors. She tolerated them.
 
@@ -454,7 +444,7 @@ Old. Not broken. Just old.
 
 Footsteps approached from the direction of the command deck—measured pace, the walk of someone who had made this commute for years.
 
-Executive Officer **Mira Thessaly** rounded the junction with a data slate under one arm and stopped when she saw him.
+Executive Officer Mira Thessaly rounded the junction with a data slate under one arm and stopped when she saw him.
 
 "Captain Venn."
 

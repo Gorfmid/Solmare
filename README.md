@@ -1,41 +1,52 @@
 # Solmare
 
-Solmare is the shared universe and production system for The Solmare Cycle.
+Solmare is the shared universe and production system for **The Solmare Cycle**.
 
-## Current Series
+## Current series
 
-### The Solmare Cycle
+| Book | Title | Status |
+|------|-------|--------|
+| **Book One** | *The Kestrel Veil Incident* | Complete (Prologue · Ch. 1–24 · Epilogue) |
+| Book Two | TBA | — |
+| Book Three | TBA | — |
 
-- Book One: The Kestrel Veil Incident
-- Book Two: To Be Announced
-- Book Three: To Be Announced
+## Repository layout
 
-## Repository Structure
-
-- `Universe/` — shared canon, cosmology, factions (**Fleet Authority**, **The Dominion**), technology, and setting material.
-- `Characters/` — reusable character profiles, crew relationships, support cast, and recurring figures.
-- `Writing_System/` — generation rules, style guides, prompts, review checklists, and orchestration documents.
-- `Books/` — book-specific chapters, outlines, state files, manuscripts, and notes.
-- `Publishing/` — KDP, cover, metadata, marketing, and release materials.
-- `Research/` — external notes and reference material.
+| Path | Purpose |
+|------|---------|
+| `Universe/` | Shared canon — Fleet Authority, Dominion, cosmology, technology |
+| `Characters/` | Crew profiles, antagonists, relationship matrix |
+| `Writing_System/` | Style guides, generation rules, orchestrator |
+| `Books/` | Per-book chapters, outlines, state, manuscripts |
+| `Publishing/` | KDP, cover assets, marketing |
+| `Research/` | External reference notes |
 
 ## Book One
 
 `Books/Book_01_The_Kestrel_Veil_Incident/`
 
-**Rewrite in progress.** Ch. 1 complete; new book overview in `Notes/book1_core_premise.md`. Ch. 6–24 are legacy draft pending revision.
+| Layer | Location |
+|-------|----------|
+| **Prose source** | `Chapters/` (prologue, ch. 1–24, epilogue) |
+| **Continuity** | `State/current_state.md` |
+| **Act outlines** | `Act_Outlines/chapter_list.md` |
+| **Built outputs** | `Manuscript/The Kestrel Veil Incident.{md,epub,docx}` |
+
+Tracker: `Books/Book_01_The_Kestrel_Veil_Incident/Notes/REWRITE_STATUS.md`
 
 ## Regenerating the manuscript
 
 ```powershell
-cd Books\Book_01_The_Kestrel_Veil_Incident\Manuscript
+cd Books\Book_01_The_Kestrel_Veil_Incident\Manuscript\_build
 powershell -ExecutionPolicy Bypass -File .\build_manuscript.ps1
 ```
 
-## Legacy note
+Single-act rebuild:
 
-This repository was restructured from the original `The Kestrel Veil Incident/` single-book layout. The repo folder may be renamed from `solmare-quadrant` to `solmare`.
+```powershell
+powershell -ExecutionPolicy Bypass -File .\rebuild_act.ps1 -ActId III
+```
 
 ## Project instructions
 
-`PROJECT_INSTRUCTIONS.md` — agent and contributor instructions, including **The Solmare Principle**.
+`PROJECT_INSTRUCTIONS.md` — contributor and agent rules, including **The Solmare Principle**.

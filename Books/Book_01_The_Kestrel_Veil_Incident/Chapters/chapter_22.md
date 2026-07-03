@@ -4,8 +4,8 @@
 
 ---
 
-**OUTER KESTRAN PATROL BAND — SCOUT ROUTING NODE SEVEN-ALPHA ADJACENT**  
-**BORDER PATROL ADJUSTMENT**
+***OUTER KESTRAN PATROL BAND — SCOUT ROUTING NODE SEVEN-ALPHA ADJACENT***  
+***BORDER PATROL ADJUSTMENT***
 
 Captain **Hwang** did not issue a speech.
 
@@ -27,7 +27,7 @@ Sorin had not been on the *Kestrel Veil*. He had read the certified record—the
 
 "We're saying stable observation beats unstable assumption," Hwang replied. "That's how we interpret it."
 
-Hwang walked the projection once—segment seven bearing family, epoch revision without hostile shading, commuter merge inference marked as *observed pattern, intent unresolved*—then watched patrol skids update manifests without ceremony. Illumination protocols tightened—not darkened, disciplined. Passive suites logged longer dwell on structured occupancy markers. Contact rules gained a line every officer would recognize within a week:
+Hwang walked the projection once—segment seven bearing family, epoch revision without hostile shading, commuter merge inference marked as *observed pattern, intent unresolved*—then watched patrol skids update manifests without ceremony. Illumination protocols tightened—not darkened, disciplined. Passive systems logged longer dwell on structured occupancy markers. Contact rules gained a line every officer would recognize within a week:
 
 *No initiation under uncertainty threshold.*
 
@@ -61,8 +61,8 @@ Exploration remained singular in name only.
 
 ---
 
-**FLEET INTELLIGENCE — STRATEGIC MODELING FLOOR**  
-**INTELLIGENCE REPRIORITIZATION**
+***FLEET INTELLIGENCE — STRATEGIC MODELING FLOOR***  
+***INTELLIGENCE REPRIORITIZATION***
 
 Commodore **Mira Sato** preferred worst-case models that failed on paper.
 
@@ -104,8 +104,8 @@ Depth was Intelligence's job.
 
 ---
 
-**FLEET CARTOGRAPHY SERVICE — MAP ROOM FOUR**  
-**CARTOGRAPHY SPLIT OUTPUT**
+***FLEET CARTOGRAPHY SERVICE — MAP ROOM FOUR***  
+***CARTOGRAPHY SPLIT OUTPUT***
 
 **Martine Okoye** had three layers on the projection before first coffee.
 
@@ -157,8 +157,8 @@ Fleet's ability to pretend one map was the galaxy had ended.
 
 ---
 
-**FLEET COMMUNICATIONS COMMAND — VALIDATION BAY**  
-**COMMUNICATIONS FRAGILITY**
+***FLEET COMMUNICATIONS COMMAND — VALIDATION BAY***  
+***COMMUNICATIONS FRAGILITY***
 
 **Dana Holt** trusted timestamps.
 
@@ -202,8 +202,8 @@ It was fragility of shared meaning riding on stable signal.
 
 ---
 
-**FLEET DOCTRINE BUREAU — CLASSIFICATION ANNEX**  
-**DOCTRINE BUREAU PRESSURE**
+***FLEET DOCTRINE BUREAU — CLASSIFICATION ANNEX***  
+***DOCTRINE BUREAU PRESSURE***
 
 Commander **Owen Mercer** had three inbox queues and one headache that felt like policy making itself without asking permission.
 
@@ -263,8 +263,8 @@ It was conditional—and Mercer had formalized the conditionality because field 
 
 ---
 
-**FLEET HEADQUARTERS — OPERATIONS TIER**  
-**ROWAN OBSERVES THE SYSTEM**
+***FLEET HEADQUARTERS — OPERATIONS TIER***  
+***ROWAN OBSERVES THE SYSTEM***
 
 Fleet Admiral **Elias Rowan** read reports the way physicians read vitals—trends before stories, patterns before panic.
 

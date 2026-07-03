@@ -1,4 +1,4 @@
-﻿# Chapter 18
+# Chapter 18
 
 ## New Words
 
@@ -42,7 +42,7 @@ Calder corrected without irritation. "Inferred ordinary volume from pattern stab
 
 Rowan nodded. He did not ask *what does it mean*. He asked, "What did the correction-thruster crawl cost in corridor time?"
 
-"Observed: twelve percent margin loss on ring three handshake lag under passive hold."
+"Observed: twelve percent margin loss on Reing 3 handshake lag under passive hold."
 
 "What did you not see?"
 
@@ -114,7 +114,7 @@ Rowan accepted the distinction without praise. Calder continued only when Rowan 
 
 "Inferred: border-adjacent discipline increasing. Inferred: passive surveillance posture on their side—from procedure tightening, authentication density increases without search-geometry spikes. No positive hull identification observed."
 
-Rowan was quiet three seconds. Calder did not fill the silence. Thessaly did not rescue him. Silence was also data.
+Rowan was quiet three seconds. Calder waited.
 
 "Incident baseline," Rowan said. A request for the same grammar.
 
@@ -122,7 +122,7 @@ Calder: "Observed: partial cloak failure under sustained passive lock at Kestran
 
 "Speculation?" Rowan asked.
 
-"Not in the record." Calder was quiet one breath. "Off the record: I will not guess intent. Observed restraint in segment seven. Observed preparation evidence. No mobilization spike observed in our slice."
+"Not in the record." Calder said. "Observed restraint in segment seven. Observed preparation. No mobilization spike in our slice."
 
 Thessaly slid appendix C forward. "First contact has not occurred— technical position. Listening occurred. If Doctrine requires a box, the box must not penalize passive grammar."
 
@@ -158,7 +158,7 @@ Below it, a line she had written for herself before Fleet asked:
 
 She deleted the line from the official flag. Kept it on a personal pane.
 
-The chain that had begun at VI-Gamma with a discharge and a void had completed its first obligation. Proof was not understanding. Proof was permission to argue about words without arguing about fraud.
+The chain that had begun on the VI-Gamma relay path with a discharge and a void had completed its first obligation. Proof was not understanding. Proof was permission to argue about words without arguing about fraud.
 
 ---
 
@@ -274,7 +274,7 @@ The report suggested passage had been busy.
 
 ---
 
-Rowan's table had accumulated the morning without ceremony— Okoye's redline overlay, Mercer's provisional header and working title, Ellis's comparison brief, Holt's integrity flag, a yard certification margin from **Elara Koss**— correction-thruster curves, ring three handshake lag, *patched not repaired, held passive posture sufficient for segment seven return*— and a Logistics note from **Commander Vance** without a meeting request: industrial throughput implied deep capacity; model scenarios; no procurement flags without Operations signature.
+Rowan's table had accumulated the morning without ceremony— Okoye's redline overlay, Mercer's provisional header and working title, Ellis's comparison brief, Holt's integrity flag, a yard certification margin from **Elara Koss**— correction-thruster curves, Reing 3 handshake lag, *patched not repaired, held passive posture sufficient for segment seven return*— and a Logistics note from **Commander Vance** without a meeting request: industrial throughput implied deep capacity; model scenarios; no procurement flags without Operations signature.
 
 Sato arrived with passive archive thumbnails and took the chair without apology.
 
@@ -376,6 +376,8 @@ The way Fleet thought would follow.
 Not today.
 
 Inevitably.
+
+Rowan's stack still carried one open classification fork—Branch A and Branch C both green on checksum, divergent on obligation grammar, not yet reconciled.
 
 ---
 

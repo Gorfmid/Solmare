@@ -16,41 +16,43 @@ Thessaly did not comment. She had stepped around it without glancing down.
 
 "Bridge is forward," she said. "Galley aft on this deck. Engineering access is down, not up—new captains always go up first."
 
-Calder filed the correction. "Noted."
+Calder noted the correction. "Noted."
 
 At the junction for Corridor C, an environmental door sat half a millimeter shy of flush with its frame. Calder tried the control panel. The door shuddered and stopped.
 
 Footsteps behind them—heavy, unhurried.
 
-**Tomas Brenner** did not apologize for passing Calder. He kicked the lower-left seam of the door—the same kick he had done a hundred times. The door opened.
+Tomas Brenner did not apologize for passing Calder. He kicked the lower-left seam of the door—the same kick he had done a hundred times. The door opened.
 
-"Captain," Brenner said, by way of acknowledgment. To Thessaly: "Port regulator's hunting. Koss wants four hours on cradle before we ask it to hold vacuum."
+"Captain," Brenner said, by way of acknowledgment. To Thessaly: "Port regulator's still struggling. Koss wants four hours on cradle before we ask it to hold vacuum."
 
 "Logged."
 
 Brenner continued aft with a toolkit that had outlived three captains. Calder watched the door begin to stick again before it finished closing.
 
-"The kick is standard procedure?" he asked.
+"I take it the door kick is standard procedure?" he asked.
 
 Thessaly's mouth moved—almost a smile, withheld. "On this ship, yes."
 
-They passed a secondary status panel with a faint discoloration along the lower bezel—coolant, old and contained. A chair at the navigation station squeaked when Thessaly brushed it with her hip. She did not sit.
+Calder looked at the door and nodded. "I'll remember that."
+
+They passed a secondary status panel—coolant discoloration along the lower bezel, old and contained—and onto the command deck.
 
 The command deck was smaller than simulation bays at academy: tighter sight lines, a viewport that showed cradle strip and floodlights instead of open space, consoles with replacement bezels that did not quite match. Four stations active. Three people who had been watching Calder since he cleared the airlock pretended they had not been.
 
-**Damon Reyes** stood at the navigation suite, hands loose at his sides, eyes on a display that showed nothing urgent. He turned when Thessaly entered and nodded to Calder with the economy of a man who saved words for coordinates.
+Damon Reyes stood at the navigation station, hands loose at his sides, eyes on a display that showed nothing urgent. He turned when Thessaly entered and nodded to Calder with the economy of a man who saved words for coordinates.
 
 "Navigator Reyes."
 
 "Captain." Reyes returned his attention to the display. "Primary array nominal on cradle power. Jump checklist staged—Tanaka. Waiting on Fleet mandate for route confirm."
 
-**Yuki Tanaka** looked up from a color-coded slate only she and Reyes used the same way. "Secondary confirm pending. Tertiary drops port relay handshake—Ortega logged. Age-class spec."
+Yuki Tanaka looked up from a color-coded slate only she and Reyes used the same way. "Secondary confirm pending. Tertiary drops port relay handshake—Ortega logged. Age-class spec."
 
-**Felix Ortega** raised a hand from the sensor station without turning fully around. "Within spec if you ignore tertiary drift. Same wrong offset. Every sweep."
+Felix Ortega raised a hand from the sensor station without turning fully around. "Within spec if you ignore tertiary drift. Same wrong offset. Every sweep."
 
 Reyes did not react. Ortega lowered his hand and went back to work.
 
-At the relay station, **Jun Park** looked up long enough to register Calder's rank insignia and the way he held his assignment packet—corners too square.
+At the relay station, Jun Park looked up long enough to register Calder's rank insignia and the way he held his assignment packet—corners too square.
 
 "Communications Officer Park," Calder said.
 
@@ -58,7 +60,7 @@ At the relay station, **Jun Park** looked up long enough to register Calder's ra
 
 Calder had read the posting summary at Lisette's table. Reconnaissance mandate. Kestran Spiral sector. Green indicators on the readiness charts—accurate, if incomplete.
 
-**Ari Halden** leaned against the tactical console. "Tactical Systems Officer Halden, Captain. Emitters green. Egress viable if contact geometry stays favorable."
+Ari Halden leaned against the tactical console. "Tactical Systems Officer Halden, Captain. Emitters green. Egress viable if contact geometry stays favorable."
 
 "Halden," Thessaly said.
 
@@ -78,7 +80,7 @@ Calder stood at the chair and did not sit. From here he could see the scar's wel
 
 "Aye, Captain."
 
-Thessaly led him forward through the command deck—past tactical where Halden had returned to an incident archive, past communications where Park worked buffer logs—and into the short passage to the viewport blister. The scar's welded seam filled half the external view from here, close enough that Calder could count heat-discoloration zones along the repair line.
+Thessaly led him to the viewport blister—the scar's welded seam filling half the external view, close enough to count heat-discoloration zones along the repair line.
 
 "Dennett hung a curtain on that side," Thessaly said. "Took it down after three weeks. Said hiding it didn't help."
 
@@ -86,7 +88,7 @@ Thessaly led him forward through the command deck—past tactical where Halden h
 
 "Some. Crew still knew it was there." She did not look at him. "You'll learn which stories they tell newcomers and which they don't."
 
-They doubled back through Corridor B—amber light, white light, flicker—and descended toward the habitation layer. The air changed again: less oil, more detergent and human occupancy. Crew quarters doors marked with initials and one watercolor taped to **Priya Sharma**'s hatch—grandmother's terrace, Helion Prime, bad perspective, good love.
+They descended toward the habitation layer through Corridor B—amber into white into flicker. The air changed: less oil, more detergent and human occupancy. Crew quarters doors marked with initials and one watercolor taped to Priya Sharma's hatch—grandmother's terrace, Helion Prime, bad perspective, good love.
 
 The mess nook off the galley was empty now, but warmth lingered in the warmer plate. Calder paused at a bulletin board layered with watch swaps, Brenner's handwritten lift instructions, and a Founders' Week flyer pinned upside down.
 
@@ -100,9 +102,9 @@ Calder read Walsh's neat handwriting on a strip of tape: *If you are new, read l
 
 "There's always an incident. The addendum keeps it off the repeat log."
 
-From aft, Koss's voice carried through an open panel—flat, precise, asking Brenner for a wrench that Brenner had already placed in her hand. Calder could not see them. He did not need to.
+From aft, Koss's voice carried through an open panel—flat, precise, a wrench already in Brenner's hand before she asked. Calder could not see them. He did not need to.
 
-Thessaly watched his face. She did not explain what she was looking for.
+Thessaly watched his face.
 
 "Chief Engineer Koss," Calder said, though they had not yet reached engineering. "I'm ready when she is."
 
@@ -122,11 +124,11 @@ Engineering was down two decks and in, where the systems actually lived.
 
 The access ladder rung spacing was wrong for Calder's academy training—wider at the bottom, narrow at the top, adjusted once by someone who had measured with a knee rather than a spec sheet. Heat increased in sensible degrees. Sound changed from environmental thrum to something more specific: a bearing that was not yet failure, a pump that was not yet complaint.
 
-**Elara Koss** stood in front of an open regulator housing with her sleeves rolled and her diagnostic tablet dark. She listened to the machine.
+Elara Koss stood in front of an open regulator housing with her sleeves rolled and her diagnostic tablet dark. She listened to the machine.
 
 She opened her eyes when Calder's shadow crossed the deck plate.
 
-"Captain Venn." Not a question. "Port-side environmental regulator. Hunting cycle. I won't certify departure hold until it's stable four hours minimum."
+"Captain Venn." Not a question. "Port-side environmental regulator won't hold steady pressure. Within limits—but it keeps drifting off setpoint and correcting itself. Four hours stable before I certify for departure."
 
 "Understood. What's the failure mode if we launch early?"
 
@@ -152,11 +154,11 @@ Calder watched that exchange longer than he meant to.
 
 "Drive grinding at the halfway lock." Brenner, under the adjacent panel. "Captain—authorize the addendum in ship log. Lift three runs on muscle memory, not the Fleet manual. Saves Walsh retyping every audit."
 
-Calder looked at **Devon Walsh**, who had appeared with a cargo manifest slate and the expression of a man accustomed to being invisible until logistics failed.
+Calder looked at Devon Walsh, who had appeared with a cargo manifest slate and the expression of a man accustomed to being invisible until logistics failed.
 
 "You're logistics," Calder said.
 
-"General support, sir. Thessaly uses me where the schedule breaks." Walsh's voice was plain, helpful, slightly formal. "I also keep the departure checklist the way the crew actually runs it. Fleet template puts lift inspection after galley provisioning. On the *Veil*, you inspect lift three before you load anything you intend to eat."
+"General support, sir. Thessaly uses me wherever she needs." Walsh's voice was plain, helpful, slightly formal. "I also keep the departure checklist the way the crew actually runs it. Fleet template puts lift inspection after galley provisioning. On the *Veil*, you inspect lift three before you load anything you intend to eat."
 
 Thessaly, arms folded in the hatchway: "Recommendation: adopt Walsh's order for this command."
 
@@ -168,7 +170,7 @@ Walsh's eyebrows lifted a fraction. "Yes, sir."
 
 Koss was already moving to the next panel. The conversation was over because the work was not.
 
-Calder followed Thessaly back up through the ship's vertical spine, past a life-support technician—**Priya Sharma**—who apologized for being in the corridor and then continued past with a toolkit and the speed of someone who had been told apology was unnecessary but could not stop offering it.
+Calder followed Thessaly back up through the ship's vertical spine, past Priya Sharma apologizing unnecessarily in a corridor she had every right to occupy, past Nadia Cole's nest of cables on the relay deck—one ear tuned to a handshake rhythm Calder could not yet hear.
 
 "Quartermaster is not a formal billet on scout complement," Thessaly said quietly as they climbed. "Walsh is the closest we have. He knows where every spare seal and half-depleted ration crate lives. Dennett stopped pretending Fleet templates matched this ship in month two."
 
@@ -178,19 +180,9 @@ Calder followed Thessaly back up through the ship's vertical spine, past a life-
 
 Calder did not ask whether that was a compliment.
 
-They climbed past the relay technician's secondary station—**Nadia Cole** nodded from a nest of cables and mismatched mugs, one ear tuned to a handshake rhythm Calder could not yet hear—and into the narrow spine that connected habitation to operations. A crewman Calder did not know—watch assignment, general support, face familiar from the posting roster photograph Walsh had appended—stepped aside at a junction with a cargo strap over one shoulder and a clipboard under the other.
+At the operations junction, Walsh stepped aside with a cargo strap over one shoulder and a clipboard under the other. "Stores inventory for final load. Already on your slate."
 
-"Walsh?" Calder guessed.
-
-"Yes, sir." No surprise at being recognized. "Stores inventory for final load. Thessaly said you'd want the honest count before Fleet gets the pretty one."
-
-"Send it to my slate."
-
-"Already there."
-
-The crew watched Calder the way experienced personnel watched new captains: not with hostility, with assessment. Could he listen. Would he pretend the ship was something she was not. Would he get someone killed trying to prove a manual right.
-
-Thessaly did not explain this. She did not need to.
+The crew watched Calder the way experienced personnel watched new captains: not with hostility, with assessment. Could he listen. Would he pretend the ship was something she was not.
 
 
 
@@ -204,7 +196,7 @@ Off-watch, half the senior crew pretended not to watch the new captain eat.
 
 Calder accepted a bowl because Thessaly had told him captains who refused food in the galley sent a message he was not ready to send. The stew was fleet-standard with a second life imposed on it by someone who cared about morale in units of sodium.
 
-**Dr. Sera Okwelu** sat at the secondary table with a paper notebook open beside her tray. She looked at Calder the way she looked at all senior officers: calmly, as if measuring sleep debt in real time.
+Dr. Sera Okwelu sat at the secondary table with a paper notebook open beside her tray. She looked at Calder the way she looked at all senior officers: calmly, as if measuring sleep debt in real time.
 
 "Medical Officer Okwelu," Calder said.
 
@@ -248,7 +240,7 @@ Halden watched him over her mug. "Dennett ate standing up his first month. Said 
 
 Okwelu, without looking up from her notebook: "Dennett slept four hours and called it regulation. I call it a medical problem waiting for a chart entry."
 
-"Noted," Calder said.
+"Understood," Calder said.
 
 Okwelu nodded as if he had signed a form.
 
@@ -258,7 +250,7 @@ Calder watched that the way he had watched Brenner hand Koss the wrench. Habit b
 
 Ortega talked too fast until Reyes glanced at him. Then he talked at fleet speed.
 
-"Primary cal— sorry. Within tolerance if you ignore tertiary drift. Offset's consistent," Ortega said to the table, then flushed when he realized the captain was listening.
+"Primary cal— sorry. Within tolerance if you ignore tertiary drift. Offset's consistent," Ortega said to the table, then flushed when he realized the captain was listening. He had heard the warmer relay settle three seconds before the display caught up—the kind of ear he apologized for until Reyes stopped asking him to use it.
 
 "Ortega flags wrong numbers first," Reyes said. "Before I finish the sweep."
 
@@ -266,7 +258,7 @@ Ortega talked too fast until Reyes glanced at him. Then he talked at fleet speed
 
 Calder noticed Park remembering names Calder had read in the posting packet but not yet attached to faces. Park caught the glance and did not rescue him. Fair.
 
-At the defensive systems nook—barely a nook, a console alcove off the galley corridor—**Marcus Hale** passed through with a calibration kit and a yawn that suggested he had slept in a chair again.
+At the tactical systems nook—barely a nook, a console alcove off the galley corridor—Marcus Hale passed through with a calibration kit and a yawn that suggested he had slept in a chair again.
 
 "Hale," Halden said. "Tell the captain about the emitter array."
 
@@ -274,7 +266,7 @@ At the defensive systems nook—barely a nook, a console alcove off the galley c
 
 "The one you gave it."
 
-Hale paused in the hatchway. "Port defensive suite responds faster than the manual says. I call it Rhea. Dennett had a longer name for it."
+Hale paused in the hatchway. "Port tactical systems responds faster than the manual says. I call it Rhea. Dennett had a longer name for it."
 
 "Rhea is green?" Calder asked.
 
@@ -296,11 +288,11 @@ Afternoon on the *Veil* ran on overlapping schedules—Thessaly's watches, Koss'
 
 Calder walked the ship with Walsh's checklist on his slate and did not pretend to command what he was still learning to see.
 
-Corridor C dent: step left. Door seven-C: he tried the panel first anyway, because procedure existed. The door stuck. Brenner, passing aft, kicked it without breaking stride. Calder went through.
+Corridor C dent: step left. Door seven-C: panel first, because procedure existed; kick second, because the *Veil* existed. Brenner passed aft and kicked the door without breaking stride. Calder went through.
 
-Cargo lift three: he held the manual switch four seconds. The lift shuddered upward—the same grind Brenner's addendum was written for.
+Cargo lift three: four seconds on the manual switch. The lift shuddered upward—the grind Brenner's addendum was written for.
 
-The navigation station squeak: Tanaka's chair, disputed territory between maintenance logs and personal pride. Ortega had taped a note to the flickering panel in Corridor B: *DO NOT TOUCH — BRENNER LIED ABOUT FIXING THIS*. Brenner had crossed out *LIED* and written *POSTPONED*.
+The navigation station squeak: Tanaka's chair, disputed territory between maintenance logs and personal pride. Ortega had taped a note to the flickering panel in Corridor B—*DO NOT TOUCH — BRENNER LIED ABOUT FIXING THIS*, with a margin of flicker frequencies only Reyes bothered to read. Brenner had crossed out *LIED* and written *POSTPONED*.
 
 Workarounds everywhere. Not chaos—problems everyone had already mapped.
 
@@ -320,27 +312,21 @@ Calder touched the crate edge. Fleet paperwork listed twenty crew and minimal st
 
 Walsh almost smiled. "Yes, sir."
 
-They passed the engineering break room where Dennett's framed printout of Reyes's corridor-dent hazard map still hung, slightly crooked. Someone had drawn a stick figure tripping on it.
+They passed the engineering break room where Dennett's framed printout of Reyes's corridor-dent hazard map still hung, slightly crooked—a stick figure tripping on it added in pencil.
 
-On the secondary relay deck, **Nadia Cole** worked beside Park in silence broken only by the sound Cole could hear before the display showed congestion. Calder watched Park glance at Cole instead of the board when a buffer spike smoothed.
+On the secondary relay deck, Nadia Cole worked beside Park in silence broken only by the sound Cole could hear before the display showed congestion. Calder watched Park glance at Cole instead of the board when a buffer spike smoothed.
 
 "Relay Technician Cole," he said.
 
 "Sir." Cole did not look away from her panel long. "Handshake jitter on the Helion Prime queue. Founders' Week traffic. Not our problem until it is."
 
-"Park?"
-
-"Jitter until delay," Park said. "Logged. Helion Prime sends route confirmation when they're done celebrating. We're not the only hull waiting on paperwork."
-
-Calder had studied communication tiers at academy. Waiting on a core world's holiday traffic was different on a cradle strip than it was in a lecture hall.
-
-In the medical bay—closet-sized, efficient, Okwelu’s paper notebooks stacked where slates should have been—Calder signed the fitness certification backlog Dennett's rotation had left clean. Okwelu watched him sign.
+In the medical bay—closet-sized, efficient, Okwelu's paper notebooks stacked where slates should have been—Calder signed the fitness certification backlog Dennett's rotation had left clean. Okwelu watched him sign.
 
 "You read them," she said.
 
 "I verify signatures against crew roster."
 
-"You read them." She took the slate back. "Dennett read the summary line. I am not offended. I am establishing a baseline."
+"You read them." She took the slate back. "Dennett read the summary line. I am establishing a baseline."
 
 On the command deck, Reyes ran a passive array sweep that showed nothing worth reporting and therefore worth reporting. Halden stood behind tactical and said, quietly, "On an escort convoy, we'd be buried in paperwork by now."
 
@@ -380,13 +366,13 @@ Walsh closed his notebook. "I'll update the master checklist."
 
 Calder sent one line to Walsh's queue—supplementary galley stores, yard baked goods, standard perishable morale category—and did not say it aloud.
 
-After he left, Thessaly straightened Calder's mission packet stack while discussing buffer windows with Park. Calder did not notice until she was gone. He looked at the squared edges and understood, belatedly, that someone had been doing that for him all day without comment.
+After he left, Thessaly straightened Calder's mission packet stack while discussing buffer windows with Park. Calder did not notice until she was gone. He looked at the squared edges—someone had been doing that all day without comment.
 
 He opened Walsh's checklist on his slate and compared it to the Fleet template side by side. Same gates. Different order. Different reason.
 
 "Captain," Reyes said from navigation, not turning. "Kestran Spiral entry baseline—primary array. When you have a moment. Dennett had captains sign before first jump. Gives contradictions a name on the file."
 
-Calder crossed to the navigation suite. Reyes walked him through eleven objects on passive scan—local cradle noise, nothing dramatic—while Tanaka watched the sequence lines in colors only she and Reyes shared.
+Calder crossed to the navigation station. Reyes walked him through eleven objects on passive scan—local cradle noise, nothing dramatic—while Tanaka watched the sequence lines in colors only she and Reyes shared.
 
 "You annotate chart lineage," Calder said, noticing margin marks on the display.
 
@@ -396,17 +382,17 @@ Calder crossed to the navigation suite. Reyes walked him through eleven objects 
 
 Reyes indicated the baseline block. Calder signed. Tanaka exhaled—a small sound of sequence satisfaction.
 
-"You don't need his color system yet," Halden said from tactical. "You need to know he has one."
+"You don't need his color system yet," Halden said from tactical watch. "You need to know he has one."
 
 Koss appeared on the command deck at 2140 with grease on one cuff and the flat expression that meant certification, not catastrophe.
 
-"Port regulator holds," she said. "Departure hold authorized when route confirmation arrives. I won't sign propulsion clear until Tanaka completes jump sequence dry run. That is tomorrow, not tonight."
+"Port regulator holds," she said. "Departure hold authorized when route confirmation arrives. I won't certify propulsion clear until Tanaka completes jump sequence dry run. That is tomorrow, not tonight."
 
 "Understood."
 
 Koss left. Reyes exhaled once—not relief, approval for a gate done properly.
 
-Halden, from tactical: "First time you didn't ask Fleet template to argue back."
+Halden, tactical watch: "First time you didn't ask Fleet template to argue back."
 
 "I asked Walsh." Calder paused. "Was that wrong?"
 
@@ -450,7 +436,7 @@ Koss, in the doorway because engineering never fully released her, said flatly: 
 
 "True," Brenner said. "Also true: Chief before Koss said the port engine was already dead. Also true: Hale's predecessor rewired evasive thrusters to fake a second engine signature on exit. Pick one."
 
-**Marcus Hale**, defensive systems technician, looked up from his cards. "I didn't know that."
+Marcus Hale, tactical systems technician, looked up from his cards. "I didn't know that."
 
 "Because it was illegal and Dennett signed the waiver anyway."
 
@@ -486,9 +472,11 @@ The crew moved through a routine they had run before—Park with coffee ready fo
 
 Calder poured coffee and did not look at the carton.
 
-"Primary route locked," Reyes said from the command deck. "Tanaka, sequence staging." Tanaka acknowledged while Ortega took tertiary channel monitoring during jump prep—log dropouts, do not merge until Koss cleared hardware fault. Walsh moved through the ship with his checklist—new line at the bottom: *If provisioning appears unexpectedly, assume correct until proven otherwise.* Sharma verified berth atmospheres; Cole ran handshake tests with Park; Hale stood at defensive systems because Halden's voice had shifted register half a degree—nothing wrong, simply preparation.
+"Primary route locked," Reyes said from the command deck. "Tanaka, sequence staging." Tanaka acknowledged while Ortega took tertiary channel monitoring during jump prep—log dropouts, do not merge until Koss cleared hardware fault. Walsh moved through the ship with his checklist—new line at the bottom: *If provisioning appears unexpectedly, assume correct until proven otherwise.* Sharma verified berth atmospheres; Cole ran handshake tests with Park; Hale stood at tactical systems because Halden's voice had shifted register half a degree—nothing wrong, simply preparation.
 
-Calder did not shout orders. He confirmed gates.
+Calder did not shout orders. He called gates.
+
+"Stars first," he said. "No tactical until Reyes clears hood."
 
 "Medical clearance?" Okwelu: "Crew fit. Captain sleep-debt noted. Again."
 
@@ -546,6 +534,8 @@ Park: "Handshake green. Outbound buffer armed for first relay window post-depart
 
 Halden, quieter: "If something happens in the next ten minutes, it'll be paperwork."
 
+"Someone else's paperwork," Ortega said. "Let's hope the seals hold. Or we're all vacuum before lunch."
+
 "Still counts," Ortega murmured, and Reyes's glance slowed him.
 
 Calder sat in the command chair while the ship worked around him. The squeak complained when he shifted weight. Somewhere aft, Brenner kicked a door. Park laughed once at something Cole said about a mug.
@@ -554,13 +544,13 @@ The environmental thrum held its old note.
 
 Calder Venn had wanted a cruiser. He had an old scout, a skeptical crew, and green boards that did not tell the whole truth.
 
-That would have to be enough for now.
-
 Through the viewport, Helion Prime's industrial districts turned in their slow morning. Founders' Week banners came down in some quarters and stayed up in others.
 
 Fourteen people in his daily orbit. Six more on the roster. One hull with a scar and a dozen stories that did not agree.
 
 The *Kestrel Veil* waited—not new, not safe, not guaranteed.
+
+Ortega's tertiary offset still sat one line wrong on the board—green enough to fly, wrong enough to remember.
 
 Ready enough.
 
@@ -570,4 +560,4 @@ Thessaly: "Logged."
 
 Outside, a yard tug crossed the cradle strip. Inside, Brenner swore at a door that stuck on schedule.
 
-The *Veil* held vacuum. That was the only promise that mattered today.
+The Veil held. For today, that was enough.

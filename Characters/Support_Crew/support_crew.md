@@ -194,7 +194,7 @@ Senior officers know them by name. Park definitely knows them by name.
 
 **Galley secondary nook:** Park, Halden (senior); Cole sometimes intrudes with mug commentary.
 
-**Command deck:** Tanaka during jump prep; Ortega during sweeps; Cole at secondary relay; Hale when defensive posture elevated.
+**Command deck:** Tanaka during jump prep; Ortega during sweeps; Cole at secondary relay; Hale when tactical posture elevated.
 
 **Passageways:** Okwelu (ambient medical presence); Brenner (tools); Walsh (everywhere).
 

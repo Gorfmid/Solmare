@@ -3,6 +3,7 @@
 
 **Status:** Book One canonical reference  
 **Class:** Scout-class reconnaissance vessel  
+**Schematic:** `kestrel_veil_schematic.png` (reader placement: before Ch. 7 — *The Living Ship*)  
 **Source context:** Chapters 1–16  
 **Related:** `Characters/Primary_Crew/` · `Planning/Fleet_Authority_Briefing_Packet.md` (segment seven data)
 
@@ -14,8 +15,8 @@ The **Kestrel Veil** is an aging Fleet reconnaissance scout—forty-plus years i
 
 - **Old hull.** Welded scar visible on starboard (viewport line from command deck). Hand marks at power-cycle junctions; yellow tape on documented non-structural dents; replacement bezels that do not quite match.
 - **Scarred, stubborn, respected.** Dockyard folklore before Calder's assignment; classmates treated scout postings as sympathetic jokes (Ch. 1). Crew treats her as a presence earned through work—not a mascot, not a metaphor spoken aloud.
-- **Continually repaired, never fully fixed.** Koss's religion. *Patched, not repaired* (Brenner, VI-Gamma, Ch. 8). Station couplers, borrowed filters, duct-and-prayer ring work. She turns like a drunk, but she turns (Koss, Ch. 7).
-- **Living presence without sentimental speeches.** Crew read her through vibration, handshake lag, thermal lies, and ring moods. No speeches about her soul. Plenty of behavior that amounts to the same thing.
+- **Continually repaired, never fully fixed.** Koss's religion. *Patched, not repaired* (Brenner, VI-Gamma, Ch. 8). Station couplers, borrowed filters, duct-and-prayer Reing work. She turns like a drunk, but she turns (Koss, Ch. 7).
+- **Living presence without sentimental speeches.** Crew read her through vibration, handshake lag, thermal lies, and Reing moods. No speeches about her soul. Plenty of behavior that amounts to the same thing.
 
 **Registry note:** Reconnaissance mandate; Kestran Spiral sector at Book One open. Mission 4471-S amended post-Incident.
 
@@ -42,7 +43,7 @@ She carries Fleet's only witness through the Incident (Act II) and Dominion-moni
 
 ### Baseline (pre-Incident, Ch. 1–4)
 
-- Scout-class suite; aging but operational on cradle power.
+- Scout-class passive systems; aging but operational on cradle power.
 - Port-side relay handshake drift on tertiary channel (*within spec for age class*— Ortega, Ch. 3).
 - Corridor C environmental door: half-millimeter shy; **Brenner kick** required (documented crew procedure).
 - Port regulator hunts; Koss wants hours on cradle before vacuum hold.
@@ -51,17 +52,17 @@ She carries Fleet's only witness through the Incident (Act II) and Dominion-moni
 ### Post-Incident (Ch. 5–8)
 
 - **Photon engagement** at bearing 214 mark 6; probes destroyed (uncommanded intercept); optical/tactical degradation.
-- Attitude wobble, port list, ring five thermal bloom on withdrawal.
+- Attitude wobble, port list, Reing 5 thermal bloom on withdrawal.
 - Fringe relay housing cracked; tactical rebuild at fractional capacity (~10% rebuilt in Act III).
-- VI-Gamma patch window: station relay borrowed into ring three; mismatched environmental filters; Cho's cable work—**patched, not repaired**.
+- VI-Gamma patch window: station relay borrowed into Reing 3; mismatched environmental filters; Cho's cable work—**patched, not repaired**.
 - Rowan: *Six hours was not a gift. It was a margin. Do not confuse patched with ready.*
 
 ### Act III (Ch. 9–16)
 
 - **Correction thrusters** sustained through segment seven (~16 days); minimal fraction—enough to steer, not enough to boast. Very slow.
-- **Ring three:** handshake coupling stress; environmental flicker; vibration Calder reads as *mood*; Brenner monitors overnight before departure (Ch. 15).
-- **Ring five:** correction-thrust lane; Cole/Park power prayers; correction-thrust fraction stewardship under Koss/Halden.
-- **Passive suite:** ~6% rebuild by segment seven; sufficient for listen watch, not for Fleet comfort.
+- **Reing 3:** handshake coupling stress; environmental flicker; vibration Calder reads as *mood*; Brenner monitors overnight before departure (Ch. 15).
+- **Reing 5:** correction-thrust lane; Cole/Park power prayers; correction-thrust fraction stewardship under Koss/Halden.
+- **Passive systems:** ~6% rebuild by segment seven; sufficient for listen watch, not for Fleet comfort.
 - **Emitters dark** throughout Act III— Tanaka's discipline.
 - **Departure/homeward (Ch. 15–16):** Koss/Halden nurse handshake coupling (*better now than at pickup*); ship *complains anyway*.
 
@@ -77,8 +78,8 @@ She carries Fleet's only witness through the Incident (Act II) and Dominion-moni
 
 | Quirk | Detail | Who reads it |
 |-------|--------|--------------|
-| **Ring three handshake** | Flicker under scrubber load; nominal under stress until it isn't; overnight stress tests before departure | Brenner, Calder |
-| **Ring three personality** | Thermal hotter than Brenner's temper; honest complaining | Brenner, Koss |
+| **Reing 3 handshake** | Flicker under scrubber load; nominal under stress until it isn't; overnight stress tests before departure | Brenner, Calder |
+| **Reing 3 personality** | Thermal hotter than Brenner's temper; honest complaining | Brenner, Koss |
 | **Environmental hum** | Forty-seven years on the same note; deck flex within/out of tolerance | Calder (body before instruments) |
 | **Port regulator lie** | ~1° thermal lie; Koss believes it enough for correction thrust, not pride speed | Koss |
 | **Corridor C door** | Requires kick; kick is standard procedure on this ship | Brenner → crew tradition |
@@ -94,13 +95,13 @@ She carries Fleet's only witness through the Incident (Act II) and Dominion-moni
 ## 5. Key Crew Relationships
 
 ### Calder Venn (Captain)
-Learns command through her limits— not simulation bays. First hour: finds Corridor C dent, squeaky chair, scar through viewport. Act III: reads ring three mood; walks her corridors before departure decision (Ch. 15); *bring everyone home* as primary responsibility.
+Learns command through her limits— not simulation bays. First hour: finds Corridor C dent, squeaky chair, scar through viewport. Act III: reads Reing 3 mood; walks her corridors before departure decision (Ch. 15); *bring everyone home* as primary responsibility.
 
 ### Tomás Brenner (Helm)
-Knows her better than anyone alive. Door kicks, correction-thruster negotiations, bulkhead listening, *the Kestrel knows when she's been somewhere long enough*. Does not joke about ring three after Koss answers with a thermal reading.
+Knows her better than anyone alive. Door kicks, correction-thruster negotiations, bulkhead listening, *the Kestrel knows when she's been somewhere long enough*. Does not joke about Reing 3 after Koss answers with a thermal reading.
 
 ### Elara Koss (Chief Engineer) + Ari Halden (Tactical Systems / engineering support)
-Maintain and interpret. Koss: religion of couplers, logged insults, *patched not repaired*, four-hour ring-three sign-off discipline. Halden: band charts, infrastructure dating, engine bands for correction-thrust fraction.
+Maintain and interpret. Koss: religion of couplers, logged insults, *patched not repaired*, four-hour Reing 3 sign-off discipline. Halden: band charts, infrastructure dating, engine bands for correction-thrust fraction.
 
 ### Jun Park (Communications / buffers)
 Preserves what she records— segment seven triple redundancy; segregated Holt lane; correlation integrity. Ch. 15: archives live beside ugly honest report.
@@ -125,12 +126,12 @@ Canon phrases (use sparingly; earned repetition):
 | **"She'll hold"** | Brenner, Koss | Confidence without guarantee |
 | **"Patched, not repaired"** | Brenner, Koss, Rowan | Honest degradation state |
 | **"The old girl"** | Brenner, Calder (internal) | Affection without ceremony |
-| **"She's listening"** | Ortega / passive watch context | Passive suite engaged; not anthropomorphic magic |
+| **"She's listening"** | Ortega / passive watch context | Passive systems engaged; not anthropomorphic magic |
 | **"The *Kestrel* knows when she's been somewhere long enough"** | Brenner | Departure judgment (Ch. 15) |
 | **"Do not confuse patched with ready"** | Rowan (via relay) | Institutional echo of ship truth |
 | **"Logged insult"** | Koss | Thermal complaint filed |
 | **"Correction thrusters are a love letter"** | Brenner | Minimal thrust as care, not cowardice |
-| **"Ring three nominal"** | Brenner / handshake reports | Temporary all-clear |
+| **"Reing 3 nominal"** | Brenner / handshake reports | Temporary all-clear |
 
 ---
 
@@ -147,7 +148,7 @@ Small, grounded, supported by text— **invent no grand rituals.**
 | **Mess leftovers on long watches** | Galley during segment seven / late watches | Ordinary democracy; Calder does not take crew portions (Ch. 15) |
 | **Park buffer naming** | Segregated lanes, labeled stacks | Archival respect |
 | **No speeches on departure** | Calder Ch. 8, Ch. 15–16 | Quiet orders; bridge absorbs decisions |
-| **Walk the rings before big choices** | Calder Ch. 15 | Captain's unofficial review |
+| **Walk the Reings before big choices** | Calder Ch. 15 | Captain's unofficial review |
 
 **Avoid:** commissioning ceremonies, ship's blessing speeches, lucky charms played straight.
 
@@ -185,12 +186,12 @@ The *Kestrel* should remain **emotionally central** through Act IV and beyond.
 
 ---
 
-## Appendix — System Rings (working reference)
+## Appendix — System Reings (working reference)
 
-| Ring | Book One association |
+| Reing | Book One association |
 |------|---------------------|
-| **Ring three** | Handshake, environmental flicker, scrubber load, departure stress |
-| **Ring five** | Correction-thrust sustain; tactical/optical rebuild context |
+| **Reing 3** | Handshake, environmental flicker, scrubber load, departure stress |
+| **Reing 5** | Correction-thrust sustain; tactical/optical rebuild context |
 | **Life support / environmental** | Cho's borrowed filters (post-VI-Gamma); thermal lies |
 
 *Full technical specs intentionally shallow— reveal through failure and maintenance, not manuals.*

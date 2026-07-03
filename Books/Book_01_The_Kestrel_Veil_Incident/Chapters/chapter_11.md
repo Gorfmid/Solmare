@@ -4,8 +4,8 @@
 
 ---
 
-**THE DOMINION — REGIONAL TRANSPORTATION DIRECTORATE**  
-**SECTOR NINE — CROSSINGS**
+***THE DOMINION — REGIONAL TRANSPORTATION DIRECTORATE***  
+***SECTOR NINE — CROSSINGS***
 
 Morning began the way mornings began when nothing was on fire—coffee too strong, slates charged, the corridor table showing traffic the way a physician showed a pulse.
 
@@ -79,7 +79,7 @@ Fifty-one was not a headline.
 
 Fifty-one was becoming routine.
 
-When the meeting broke, Volkova stood at the window wall and watched orbital traffic in its slow geometry—tugs, ore haulers, a passenger liner adjusting early for holiday congestion, a maintenance sled boring along a service spine like a patient insect.
+When the meeting broke, Volkova stood at the window wall and watched orbital traffic in its slow geometry—tugs, ore haulers, a passenger liner adjusting early for holiday congestion, a maintenance sled boring along a service spine on schedule.
 
 A junior planner—**Maret**, still too young to hide pride—caught Volkova at the door.
 
@@ -123,7 +123,7 @@ Volkova pulled her gloves on and went back to work.
 
 ---
 
-**KESTREL VEIL — PASSIVE SUITE**
+***KESTREL VEIL — PASSIVE SUITE***
 
 Segment seven, day four.
 
@@ -139,7 +139,7 @@ Segment seven, day four.
 
 **Damon Reyes** pulled bearings before Calder asked. His hands were steady. His eyes were not.
 
-Calder confirmed passive only—Tanaka from emitters, Hale from defensive, no illumination—and Ortega added returns in tight spacing on geometry familiar to everyone except the people who had drawn Fleet charts with empty boxes.
+Calder confirmed passive only—Tanaka from emitters, Hale from tactical watch, no illumination—and Ortega added returns in tight spacing on geometry familiar to everyone except the people who had drawn Fleet charts with empty boxes.
 
 "School window," Ortega said, almost reluctant. "Mass clustering interval matches scheduled service. Repetition pattern suggests commute, not expedition."
 
@@ -173,7 +173,7 @@ He heard schedule.
 
 "Behavior is enough," she said.
 
-**Jun Park** logged timestamps to segregated buffer. No upstream. No path home. Only local truth accumulating like debt.
+**Jun Park** noted timestamps to segregated buffer. No upstream. No path home. Only local truth accumulating like debt.
 
 Park said, without looking up, "Merge overlay correlation on internal. Ortega cluster three matches Reyes bearing family. Four minutes saved if you use it."
 
@@ -189,7 +189,7 @@ Just people going to work.
 
 **Ari Halden** on the threat board: "No threat signature."
 
-"Agreed," Calder said. "But is that the point—or are we in their hallway?"
+"Agreed," Calder said. "Are we in their hallway?"
 
 Halden looked at him. Calder did not elaborate. Halden nodded once— a junior officer learning that absence of weapons was not absence of meaning.
 
@@ -197,15 +197,13 @@ Reyes, still at navigation: "If they commute, they live here."
 
 "If they live here," Thessaly said, "Fleet occupancy record is incorrect. Coordinates stand."
 
-Calder felt the old doctrine sit wrong in his chest again— not with anger, with humility. The kind that arrived late and stayed.
-
 **Mira Thessaly** did not offer comfort. She offered inventory. "Commute pattern implies destinations. Destinations imply stations. Stations imply budgets on record somewhere we haven't read."
 
-"History—is that what we're looking at?" Calder said.
+"Log it," Calder said. "History—is that what we're looking at?"
 
 Thessaly met his eyes. "Logged."
 
-**Marcus Hale** from defensive, almost apologetic: no threat geometry didn't mean no traffic control—they could merge the *Veil* if she lit up.
+**Marcus Hale**, tactical watch, almost apologetic: no threat geometry didn't mean no traffic control—they could merge the *Veil* if she lit up.
 
 "Rotation limit holds," Calder said. "Blind over visible."
 
@@ -227,8 +225,8 @@ It had been working without Fleet permission for longer than Calder had been ali
 
 ---
 
-**THE DOMINION — DISTRICT NINE / SCHOOL YARD**  
-**FOUNDERS' WEEK**
+***THE DOMINION — DISTRICT NINE / SCHOOL YARD***  
+***FOUNDERS' WEEK***
 
 **Daria Kovat** should have gone home.
 
@@ -254,7 +252,7 @@ Duty never completely left. Her slate vibrated once against her hip— secure ch
 
 She read it without leaving the yard.
 
-**K-17 — PASSIVE HOLD STEADY. NO CHANGE.**
+***K-17 — PASSIVE HOLD STEADY. NO CHANGE.***
 
 She put the slate away.
 
@@ -268,7 +266,7 @@ Parents shifted in the cold. Someone's thermos leaked. Someone else's child crie
 
 Kovat's slate vibrated again— not K-17, this time a leave update.
 
-**FOUNDERS' WEEK — APPROVED. ROUTE FOUR-BETA. DELAY PROBABLE.**
+***FOUNDERS' WEEK — APPROVED. ROUTE FOUR-BETA. DELAY PROBABLE.***
 
 She read it once and put it away without expression. Nika would see the approval at dinner and pretend not to care and care enormously.
 
@@ -294,13 +292,13 @@ The Dominion was Nika's sash and Selim's wife's wave and Teacher Marin telling c
 
 ---
 
-**KESTREL VEIL — WARDROOM**
+***KESTREL VEIL — WARDROOM***
 
 Calder called it a discussion because *briefing* sounded like Fleet and Fleet was a story they no longer trusted completely.
 
 Reyes at one end of the table. Ortega with printouts he should not have printed but had anyway because some truths needed to exist off-screen. Thessaly with slate closed for once— listening, not recording, which for her was intimacy. Halden with infrastructure overlays. Park with buffer integrity. Tanaka on emitter confirmation. Hale on rotation limits because Hale was always on rotation limits.
 
-**Lena Walsh** brought coffee without being asked and did not stay. **Kevin** left trays. **Pell** took one and ate standing at the hatch—ring maintenance did not sit on this watch anymore. Kevin left the rest anyway.
+**Lena Walsh** brought coffee without being asked and did not stay. **Kevin** left trays. **Pell** took one and ate standing at the hatch—Reing maintenance did not sit on this watch anymore. Kevin left the rest anyway.
 
 On the bulkhead display, relay geometry stacked by apparent age— not Fleet dating, which was guesswork, but maintenance layering, upgrade cadence, spacing discipline.
 
@@ -354,12 +352,12 @@ Thessaly: "Write Tuesday down. Fleet will need the word."
 
 Calder listened more than he spoke now. He heard maturity in small things: Reyes thinking in corridors instead of duels, Ortega hearing operators instead of enemies, Halden dating infrastructure instead of threat boards, Park stitching correlations without being asked, Brenner treating handshake lag as weather instead of betrayal.
 
-Brenner on intercom reported ring three handshake nominal, environment load steady—whatever was out there, the corridor still knew they were borrowing it. Calder acknowledged without thanks; Brenner would hear it anyway.
+Brenner on intercom reported Reing 3 handshake nominal, environment load steady—whatever was out there, the corridor still knew they were borrowing it. Calder acknowledged without thanks; Brenner would hear it anyway.
 
 ---
 
-**THE DOMINION — ORBITAL CONSTRUCTION YARD KESSIK-OUTER**  
-**SHIFT CHANGE**
+***THE DOMINION — ORBITAL CONSTRUCTION YARD KESSIK-OUTER***  
+***SHIFT CHANGE***
 
 The horn was not ceremonial.
 
@@ -371,11 +369,11 @@ Old workers teased apprentices. Apprentices pretended not to care. **Lina** foll
 
 "Certification inspector's on the morning sled," she said.
 
-"If traffic ate corridor four-seven again, he'll be late and I'll sign another tolerance I shouldn't sign."
+"If traffic ate corridor four-seven again, he'll be late and I'll certify another tolerance I shouldn't certify."
 
-"You'll sign it anyway."
+"You'll certify it anyway."
 
-"I'll sign it anyway."
+"I'll certify it anyway."
 
 They passed the safety board— incidents logged, days without lost fingers, a photograph of someone's grandchildren taped beside a reminder about lattice dust. Lunch smells rose from the workers' hall— broth, sharp spice, bread that tasted like every yard Sorokin had ever known.
 
@@ -387,7 +385,7 @@ Long shifts authorized on the outer berths.
 
 Production quotas on slates no one quoted aloud in the café.
 
-Sorokin ate standing up because sitting felt like surrender and checked Slip Three's joint telemetry while he chewed. Within tolerance. Barely. He signed. Lina watched him sign and learned what leadership looked like when it was not inspirational— it was accountable.
+Sorokin ate standing up because sitting felt like surrender and checked Slip Three's joint telemetry while he chewed. Within tolerance. Barely. He certified. Lina watched him certify and learned what leadership looked like when it was not inspirational— it was accountable.
 
 "Hull out of Seven tonight?" she asked.
 
@@ -435,8 +433,8 @@ That was how civilizations endured.
 
 ---
 
-**KESTREL VEIL — COMMAND DECK**  
-**SILENT CROSSINGS**
+***KESTREL VEIL — COMMAND DECK***  
+***SILENT CROSSINGS***
 
 Mission +22:00, segment seven.
 
@@ -488,7 +486,7 @@ Today they were simply living.
 
 The Dominion was not surviving in the dark.
 
-The Dominion was thriving in it— the way cities thrived on buses and ore and school bells and men who signed tolerances barely within spec because Thursday dinner still mattered.
+The Dominion was thriving in it— the way cities thrived on buses and ore and school bells and men who certified tolerances barely within spec because Thursday dinner still mattered.
 
 Calder thought of Volkova's world without knowing her name— planners removing gloves, arguing about grandmothers missing parades.
 
@@ -529,5 +527,7 @@ The work continued.
 That was the humility— not heroism, not revelation speeches, only professionals accepting that the corridor had never been empty and their charts had been a compliment Fleet paid itself.
 
 The *Veil* crept on correction thrusters and moved deeper into silent crossings— not the center of the story, only a witness in someone else's ordinary day, while corridors filled and emptied and filled again as if the scout had never been born and would never be necessary to prove they had always been here.
+
+Park's buffer still held three correlation threads that would not merge—same checksum family, different urgency flags, waiting for a policy someone upstream had not written yet.
 
 ---

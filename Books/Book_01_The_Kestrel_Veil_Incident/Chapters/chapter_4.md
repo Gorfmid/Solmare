@@ -30,7 +30,7 @@ The command deck was already awake when he arrived for the final undock gates. I
 
 Thessaly stood near the forward console with her hands folded behind her back, tracking three status streams without moving her eyes in any way Calder could follow. Park was mid-conversation with Helion Prime departure control—voice calm, clipped, already in logistics space before Calder had finished his first coffee. Reyes had one hand resting on the navigation cradle, the other loose at his side, eyes on a solution that showed nothing worth reporting.
 
-Halden did not look up from tactical until she had something to say.
+Halden did not look up from tactical watch until she had something to say.
 
 "Routine patrol corridor confirmed," Reyes said. "Same sweep Dennett ran last cycle. Drift vector four—point-zero-three port."
 
@@ -68,7 +68,7 @@ Thessaly shifted toward the central display. "Standard patrol spacing. Outer Kes
 
 "Because forty-eight makes the fuel report look like someone was guessing," Park said, closing the Helion Prime line.
 
-Brenner on comms: "Injector cycle skips even numbers on this hull. Ask the grind."
+Injector skips every other cycle on this hull. Listen for the grind—don't trust the indicator, listen for the sound.  it'll tell you when it's happy."
 
 "That is not how injectors work," Koss cut in from engineering.
 
@@ -88,11 +88,11 @@ The environmental thrum settled into its patrol note—a half-tone lower than cr
 
 ❦
 
-Reyes brought them to patrol velocity with the same micro-corrections as undock. Nothing a passenger would feel. Nothing a new captain would notice unless he stood behind navigation and asked at the wrong time.
+Reyes brought them to patrol velocity with the same micro-corrections as was done  with the undocking procedure. othing a new captain would notice unless he stood behind navigation and asked at the wrong time.
 
 Calder stood behind navigation longer than he needed to.
 
-A small set of worn dice hung near Tanaka's console bracket—faded plastic, edges softened from use, clipped to a diagnostic cable like it belonged there. They moved slightly whenever the ship corrected vector four.
+A small set of worn dice hung near Tanaka's console bracket—faded plastic, edges softened from use, clipped to a diagnostic cable like it belonged there. They moved slightly whenever the ship corrected..
 
 He didn't ask about them.
 
@@ -106,7 +106,7 @@ A pause. "Yes."
 
 Another pause. "Define normal," Reyes added.
 
-"That's dangerous on a scout," Halden said from tactical.
+"That's dangerous on a scout," Halden said from tactical watch.
 
 Reyes, unbothered: "Asymmetrical mass distribution from starboard repair patching, three cycles ago. Compensated drift. Presents on passive display as bias, not free drift."
 
@@ -128,15 +128,15 @@ Ortega raised a hand from the sensor station. "Tertiary—same offset family as 
 
 Reyes did not react. Ortega lowered his hand.
 
-Calder returned to the command chair. He did not sit immediately. The squeak complained when he tested the cushion.
+Calder returned to the command chair. He did not sit immediately. The chair complained with a squeak when he tested the cushion.
 
-"Captain," Tanaka said, quiet. "Chair tolerance is within spec."
+"Captain," Tanaka said, quiet.b "Chair tolerance is within spec."
 
 "I heard the spec," Calder said.
 
 Tanaka went back to her colors.
 
-He had enough data to name the pieces—bias, compensation, Tanaka's table—and not enough to make them cohere. He filed the gap and moved on.
+He had enough data to name the pieces—bias, compensation, Tanaka's table—and not enough to make them cohere. He moved on.
 
 ❦
 
@@ -202,7 +202,7 @@ Okwelu was in the medical bay doorway when Calder climbed toward habitation—sl
 
 When Calder climbed back to the command deck, Park was mid-rhythm and Ortega had two tabs open—the merge column and the segregated offset log he never reconciled with Fleet's pretty numbers.
 
-Tanaka and Reyes traded the navigation suite without ceremony. Tanaka sat. The chair squeaked. Reyes stood behind her and corrected one word in a buffer overlap note—*port*, not *starboard*—without looking at the slate. Tanaka paused half a beat, then nodded.
+Tanaka and Reyes traded the navigation station without ceremony. Tanaka sat. The chair squeaked. Reyes stood behind her and corrected one word in a buffer overlap note—*port*, not *starboard*—without looking at the slate. Tanaka paused half a beat, then nodded.
 
 Calder was still looking at the dice when Tanaka noticed.
 
@@ -258,7 +258,7 @@ Park: "Enough."
 
 "Hold," Calder said.
 
-Calder sat in the command chair. The squeak complained. He stayed seated anyway. The duplicate ping sat in segregated buffer somewhere behind Park's console—a wrongness that did not announce itself as wrongness.
+Calder sat in the command chair. The chair complained again, this time with more ofa  squak. He stayed seated anyway. The duplicate ping sat in segregated buffer somewhere behind Park's console—a wrongness that did not announce itself as wrongness.
 
 Brenner's voice on engineering channel, already elsewhere: "Port panel secured. Moving to lift three manual check."
 
@@ -314,12 +314,26 @@ The acknowledgment came back four seconds early.
 
 Park held the copy separate until the primary transmission finished. The secondary buffer did not clear automatically—it remained flagged longer than it should have before Park manually released it. Cole did not comment. Neither did anyone else.
 
-Calder crossed to the command chair. The squeak complained. He sat.
+"Hold secondary merge," Calder said. "Not until Park clears the flag."
 
-"Record," he said. "Pending relay rendezvous."
+Calder crossed to the command chair. The squeak complained when he tested the cushion. He sat, then shifted once—slow, deliberate—until the protest reached maximum tolerated volume.
 
-Thessaly logged it. Park returned to his rhythm while Reyes corrected vector four and the patrol clock advanced one minute without ceremony.
+Heads turned.
+
+"Chair is within spec," Calder said.
+
+Tanaka, still on her colors: "Affirmed."
+
+Halden, tactical watch: "Logged under morale."
+
+Thessaly did not look up from her slate. "If you break it, Walsh charges you."
+
+Park returned to his relay window.
+
+"Record," Calder said. "Pending relay rendezvous."
+
+Thessaly noted it on her slate. Park returned to his rhythm while Reyes corrected vector four and the patrol clock advanced one minute without ceremony.
 
 Somewhere aft, Brenner kicked a door.
 
-The environmental thrum held its patrol note. Calder listened for when it changed again.
+The environmental thrum held its patrol note. Calder listened for when it changed again. Park's secondary flag still hadn't cleared—segregated, waiting for a relay window that hadn't opened.

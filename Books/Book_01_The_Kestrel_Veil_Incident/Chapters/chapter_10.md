@@ -4,8 +4,8 @@
 
 ---
 
-**THE DOMINION — REGIONAL TRANSPORTATION DIRECTORATE**  
-**SECTOR NINE — MORNING PLANNING**
+***THE DOMINION — REGIONAL TRANSPORTATION DIRECTORATE***  
+***SECTOR NINE — MORNING PLANNING***
 
 Senior Logistics Planner **Irina Volkova** removed her gloves before she opened the morning packet because her grandmother had taught her that numbers deserved the same courtesy as people.
 
@@ -47,7 +47,7 @@ Volkova exhaled through her nose. "Of course."
 
 "They didn't announce it. They never announce it. They just—"
 
-"Reallocate," Marenko said. "Industrial signed off. We execute."
+"Reallocate," Marenko said. "Industrial certified. We execute."
 
 "We execute and commercial traffic eats the delay and three haulers file grievances and I spend my morning explaining geometry to people who think depth is a metaphor." Volkova set her cup down. "Route commercial around nine-alpha. Accept the penalty. Document the penalty. If Fleet Authority ever asks why their frontier feels crowded, we'll have timestamps."
 
@@ -99,13 +99,13 @@ Then she went to her desk and routed the world.
 
 ---
 
-**KESTREL VEIL — COMMAND DECK**
+***KESTREL VEIL — COMMAND DECK***
 
 Segment seven, day two of trespass, had a different silence than segment six.
 
 Calder felt it in the deck before Ortega named it.
 
-**Felix Ortega** had the passive suite rebuilt to six percent—still insultingly low, still enough to hurt if you listened wrong. He sat in the sensor alcove with headphones and a hand on the gain like a man holding a frightened animal still.
+**Felix Ortega** had the passive systems rebuilt to six percent—still insultingly low, still enough to hurt if you listened wrong. He sat in the sensor alcove with headphones and a hand on the gain like a man holding a frightened animal still.
 
 "Traffic." Ortega did not raise his voice.
 
@@ -145,9 +145,7 @@ Empty charts were a story.
 
 "We observe," he said. "We do not illuminate. We do not identify. We do not adjust course toward contact. We do not adjust course away unless collision geometry demands it. Log everything. Local buffer only."
 
-Park logged it. No one panicked.
-
-That was what professionalism looked like when the world rearranged itself without explosions—people continuing to do their jobs because the jobs were the only handhold.
+Park noted it on the buffer. No one panicked.
 
 Halden said, quietly, "Threat board assumes frontier—empty local, hostile at contact. Neither fits."
 
@@ -183,8 +181,8 @@ Brenner on intercom reported handshake lag trending up—not failure, environmen
 
 ---
 
-**THE DOMINION — ORBITAL CONSTRUCTION YARD KESSIK-OUTER**  
-**FABRICATION**
+***THE DOMINION — ORBITAL CONSTRUCTION YARD KESSIK-OUTER***  
+***FABRICATION***
 
 Lead Fabrication Engineer **Pavel Sorokin** hated crane certification delays the way other men hated bad weather—personally, irrationally, as if the universe had chosen them on purpose.
 
@@ -232,7 +230,7 @@ Sorokin checked weld telemetry. Checked stress margins. Checked the apprentice's
 
 That was the bargain of the yard—presence promised, time withheld, love measured in showing up when you could.
 
-He walked the ring to Slip Three and listened to the hull the way Brenner would have listened to a ship— for the lie in the numbers. The lattice joint was within tolerance. Barely. He signed the tolerance anyway because the alternative was delay and delay was a cascade and cascades were how planners stopped sleeping.
+He walked the ring to Slip Three and listened to the hull the way Brenner would have listened to a ship— for the lie in the numbers. The lattice joint was within tolerance. Barely. He certified the tolerance anyway because the alternative was delay and delay was a cascade and cascades were how planners stopped sleeping.
 
 Lina followed, silent for once. On Slip Seven's gantry, welders moved in the unhurried choreography of people who had done this for generations—hand signals, torch flare, the old songs optional and still sometimes sung.
 
@@ -256,7 +254,7 @@ On the transit ride he fell asleep against the window and missed his stop once�
 
 ---
 
-**KESTREL VEIL — SENSOR ALCOVE**
+***KESTREL VEIL — SENSOR ALCOVE***
 
 Ortega listened because looking had stopped being enough.
 
@@ -336,7 +334,7 @@ Ghosts in the dark, listening to other ghosts.
 
 ---
 
-**THE DOMINION — K-17 / TRANSIT / HOME**
+***THE DOMINION — K-17 / TRANSIT / HOME***
 
 Kovat's shift ended the way shifts ended when nothing had exploded—without ceremony.
 
@@ -376,7 +374,7 @@ The secure message arrived at 2241.
 
 She was in her kitchen with tea and the plant cutting from commons exchange rooting in a jar on the sill—hardy, stubborn, alive against odds.
 
-**K-17 — PASSIVE CONTACT ACTIVE. BEARING HOLD. RETURN 0600.**
+***K-17 — PASSIVE CONTACT ACTIVE. BEARING HOLD. RETURN 0600.***
 
 No adjectives.
 
@@ -398,7 +396,7 @@ That was preparation too.
 
 ---
 
-**KESTREL VEIL — COMMAND DECK**
+***KESTREL VEIL — COMMAND DECK***
 
 Calder called the overlay meeting at Mission +19:00 because waiting did not improve intelligence—only anxiety.
 
@@ -428,7 +426,9 @@ Reyes swallowed. "Estimated active traffic in our sector alone—if we extrapola
 
 "Don't extrapolate for comfort," Thessaly said. "Log what returns. Flag what doesn't reconcile."
 
-"I'm not." Reyes met Calder's eyes. "I'm extrapolating because that's the job. Dozens of contacts in passive range over three days. Hundreds in the corridor system if the geometry holds. Thousands if this slice connects to a network the way the listening watch suggests."
+"Extrapolate anyway," Calder said. "File the band. I'll set posture from it."
+
+Reyes met his eyes. "Dozens of contacts in passive range over three days. Hundreds in the corridor system if the geometry holds. Thousands if this slice connects to a network the way the listening watch suggests."
 
 Thessaly's mouth tightened almost imperceptibly. She wrote anyway.
 
@@ -444,7 +444,7 @@ A civilization.
 
 Not wilderness on a chart—someone's lived-in geometry, maintained on schedule, expected to be here tomorrow.
 
-The command deck was silent long enough for ring three to flicker once and Brenner not to comment on intercom.
+The command deck was silent long enough for Reing 3 to flicker once and Brenner not to comment on intercom.
 
 Calder said, quietly, "We've spent two centuries believing we were expanding into empty space."
 
@@ -456,8 +456,10 @@ No one answered.
 
 Thessaly wrote the sentence in her slate because some truths needed ink even when they could not be transmitted.
 
-Calder did not add orders. They were already written.
+"Hold segment seven," Calder said. "Passive discipline unchanged. Meeting cadence stands."
 
 The *Kestrel Veil* crept on correction thrusters and moved deeper into segment seven—alone, damaged, professional—through the outer transportation network of a civilization that had never been empty, only patient.
+
+Segment seven occupancy still lacked stable classification on Ortega's pane—observed, not resolved.
 
 ---
