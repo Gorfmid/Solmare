@@ -50,7 +50,7 @@ Calder did not tell the deck that. The deck already knew.
 
 ***KESTRAN VI-GAMMA WATCHPOST***
 
-Dana Holt had watched the bearing family shift for two days—the slow proof that the scout was still moving, still wrong, still alive.
+Dana Holt had watched the contact bearing shift for two days—the slow proof that the scout was still moving, still wrong, still alive.
 
 She had also watched the column go void.
 
@@ -106,7 +106,7 @@ Holt had not noticed. She exhaled. "Stamp approach. Partner."
 
 The sweep continued. It always continued.
 
-Holt would have warm range for the stopover. Then she would watch the friendly return shrink on the overlay and keep carrying upstream traffic until geometry said stop.
+Holt would have warm range for the stopover. Then she would watch the friendly return shrink on the overlay and keep carrying upstream traffic until relay range said stop.
 
 That was the job now.
 
@@ -390,7 +390,7 @@ Holt was quiet for a moment. "What did it say?"
 
 "That would have been honest," Holt said.
 
-"Honest doesn't always help geometry."
+"Honest doesn't always help navigation."
 
 "No." Holt looked at the board. "It helps the person reading."
 
@@ -454,7 +454,7 @@ She nodded once. He stood. At the hatch he stopped.
 
 "I know."
 
-He left. Holt sat alone for ninety seconds. She opened the queue and did not merge the personal lane headers with Fleet summary writers—that was the job and the job was how she stayed steady.
+He left. Holt sat alone for ninety seconds. She opened the queue and did not combine the personal lane headers with Fleet summary writers—that was the job and the job was how she stayed steady.
 
 Nand knocked once on the hatch frame—not entering.
 
@@ -504,9 +504,9 @@ Rowan's voice, calm as ever:
 
 Pause. Four seconds. Then:
 
-"Beyond fringe range you will have no station relay. Fleet contact resumes only when you return to relay geometry or when Cartography receives transmittable buffer. No rescue guarantee in corridor seven-alpha. Acknowledge."
+"Beyond fringe range you will have no station relay. Fleet contact resumes only when you return to relay range or when Cartography receives transmittable buffer. No rescue guarantee in corridor seven-alpha. Acknowledge."
 
-Calder looked at the collar hatch, the patched relay, the list in the deck—and at bearing two-one-four mark six on the slate Reyes had already folded into the transit annex. Same corridor family.
+Calder looked at the collar hatch, the patched relay, the list in the deck—and at bearing two-one-four mark six on the slate Reyes had already folded into the transit annex. Same corridor pattern.
 
 "Acknowledge. Independent transit copied. Observe, investigate, no engagement unless necessary."
 
@@ -528,7 +528,7 @@ In engineering, Brenner heard the orders on delay and said to Koss, "Fleet wants
 
 Calder did not comment. Thessaly did not either.
 
-On the command deck, Halden watched local space. Reyes folded the orders into nav geometry. Brenner on intercom: "Patched and leaving. Don't call us ready."
+On the command deck, Halden watched local space. Reyes folded the orders into the nav plot. Brenner on intercom: "Patched and leaving. Don't call us ready."
 
 ---
 
@@ -554,7 +554,7 @@ On the watchpost floor, Nand tracked latch release. Holt watched the viewport.
 
 The *Veil* undocked with collar-metal creak. No one cheered. Two maintenance techs watched from the gantry—one raised a hand. Acknowledgment, not salute.
 
-Park remained at the buffer until fringe geometry made warm range a countdown—burn notice, course overlay for seven-alpha, emissions discipline in Fleet language that meant *be quiet or die*.
+Park remained at the buffer until fringe range made warm range a countdown—burn notice, course overlay for seven-alpha, emissions discipline in Fleet language that meant *be quiet or die*.
 
 "Dana."
 
@@ -568,7 +568,7 @@ Park remained at the buffer until fringe geometry made warm range a countdown—
 
 "Copy."
 
-The signal dropped on the next confirm cycle—loss of voice when range exceeded geometry. Park switched to local monitoring.
+The signal dropped on the next confirm cycle—loss of voice when they outran relay range. Park switched to local monitoring.
 
 On the watchpost, Holt marked upstream gone. Nand ran sweep eleven without being asked. Partner.
 
@@ -576,7 +576,7 @@ On the watchpost, Holt marked upstream gone. Nand ran sweep eleven without being
 
 Thessaly posted running dark without naming it—lowered lighting, nonessential channels muted, status on schedule. Boots soft. Voices low. Brenner tested the no-chatter rule once with a joke about Reing 3; Koss answered with a thermal reading and he did not joke again.
 
-The *Veil* moved on correction thrusters through approach geometry Tanaka had marked in three colors. Cho's borrowed filters sat in environmental three, unmarked guest install. Park's collar amplifier fell behind them with every kilometer.
+The *Veil* moved on correction thrusters through approach corridor Tanaka had marked in three colors. Cho's borrowed filters sat in environmental three, unmarked guest install. Park's collar amplifier fell behind them with every kilometer.
 
 Reyes called manual confirms; Tanaka answered. Halden called local sweeps; Hale answered. Ortega ran passive rebuild loops that failed with polite errors. Calder stood at the rail and kept his hands still.
 
@@ -590,7 +590,7 @@ Halden: "Ortega."
 
 "False return. Band noise. Doesn't repeat—filed as noise."
 
-Halden: "Bearing family matches segment two chatter. Confidence unresolved."
+Halden: "Contact bearing matches segment two chatter. Confidence unresolved."
 
 Calder: "Hold interpretation. Act on trajectory."
 
@@ -612,7 +612,7 @@ The dark ahead was no longer empty.
 
 Passive had nothing new to file—yet.
 
-Ortega's gain trim on segment three had not propagated to Halden's overlay—same bearing family, different confidence band, still unresolved when the edge fell behind them.
+Ortega's gain trim on segment three had not propagated to Halden's overlay—same contact bearing, different confidence band, still unresolved when the edge fell behind them.
 
 Calder had not asked for another sweep.
 

@@ -1,17 +1,17 @@
-﻿# Chapter 14
+# Chapter 14
 
 ## Inheritance
 
 ---
 
 ***THE DOMINION — FRONTIER COMMAND ACADEMY***  
-***THE ACADEMY***
+*THE ACADEMY*
 
-**Commander Vex** had removed his gloves before entering the tactical classroom because the room deserved the habit and because young officers learned posture from what seniors did without naming it.
+Commander Vex had removed his gloves before entering the tactical classroom because the room deserved the habit and because young officers learned posture from what seniors did without naming it.
 
 Not a lecture hall.
 
-A practical space— worn deck plates, projection tables scarred by decades of stylus work, corridor maps layered on the walls like sediment. Rain moved across the high windows in sheets that made Founders' Week banners in the lower quad shimmer seven days out, if rotation held. Old stone framed the doorways. Brass plaques beside each map named expansion phases in script too formal for modern interfaces and too honest to be decorative.
+A practical space— worn deck plates, projection tables scarred by decades of stylus work, corridor maps layered on the walls like sediment. Rain moved across the high windows in sheets that made autumn festival banners in the lower quad shimmer seven days out, if rotation held. Old stone framed the doorways. Brass plaques beside each map named expansion phases in script too formal for modern interfaces and too honest to be decorative.
 
 Vex had returned to teaching quietly while the cloak program rebuilt on benches that did not forgive optimism.
 
@@ -33,19 +33,19 @@ Discipline.
 
 Strategic patience.
 
-**Cadet Orlov** frowned at a timeline. "If the node had maintained single-system passive coverage, the return would have resolved as drift."
+Cadet Orlov frowned at a timeline. "If the node had maintained single-system passive coverage, the return would have resolved as drift."
 
 "And if the refurb had slipped one week," Vex said, "the drift would have become a gap. Gaps are where incidents begin."
 
 Orlov nodded. Not shame. Inventory.
 
-**Cadet Sen** traced a fuel lane merge. "Redundant routing added four hours. Command accepted the delay."
+Cadet Sen traced a fuel routing junction. "Redundant routing added four hours. Command accepted the delay."
 
 "Command accepted the delay because the alternative was rebuilding a corridor under pressure," Vex said. "Pressure is expensive. Delay is merely inconvenient."
 
 Sen wrote *inconvenient* down as if it were doctrine. It was.
 
-Vex walked the table's edge the way he had walked a Leviathan bridge— measured, unhurried, attention on systems rather than applause. The cadets had gone quieter when he said the word; even here, in a classroom seven days from Founders' Week, *Leviathan* changed the air. These were not future heroes in his classroom. They were future maintainers of a civilization that had learned, long before any of them were born, that the void did not negotiate with surprise.
+Vex walked the table's edge the way he had walked a Leviathan bridge— measured, unhurried, attention on systems rather than applause. The cadets had gone quieter when he said the word; even here, in a classroom seven days from the harvest festival, *Leviathan* changed the air. These were not future heroes in his classroom. They were future maintainers of a civilization that had learned, long before any of them were born, that the void did not negotiate with surprise.
 
 A cadet near the window— young, sharp, still young enough to ask questions adults had stopped asking aloud— raised a hand.
 
@@ -67,21 +67,21 @@ No speech.
 
 Orlov returned to her timeline. Sen adjusted a routing assumption. The cadet at the window wrote the sentence down without decoration, the way cadets wrote things they expected to repeat to someone younger someday.
 
-**Cadet Orlov** added, without looking up: "My mother says preparation honors those who come after us."
+Cadet Orlov added, without looking up: "My mother says preparation honors those who come after us."
 
 "Your mother is correct," Vex said. "Write that down too. You'll need it when you're tired."
 
 Orlov did.
 
-Vex poured tea from the pot the duty steward left each morning— too strong, correct. He had learned readiness in rooms like this before he learned it on trial geometry. His first instructor had said *peace is when the keel goes down*. His instructor's instructor had said something similar in older script on a plaque Vex had walked past for twenty years without reading until he needed it.
+Vex poured tea from the pot the duty steward left each morning— too strong, correct. He had learned readiness in rooms like this before he learned it at the trial engagement. His first instructor had said *peace is when the keel goes down*. His instructor's instructor had said something similar in older script on a plaque Vex had walked past for twenty years without reading until he needed it.
 
-A knock at the door— **Major Petrov**, not entering, only nodding through the glass. Message delivered without words: comparison continued. Thirty observations still breathed in directorate packets. Vex's suspension still breathed in review boards. Teaching breathed in classrooms. All of it concurrent. All of it professional.
+A knock at the door— Major Petrov, not entering, only nodding through the glass. Message delivered without words: comparison continued. Thirty observations still breathed in directorate packets. Vex's suspension still breathed in review boards. Teaching breathed in classrooms. All of it concurrent. All of it professional.
 
 When the period ended, cadets filed out with manuals under their arms and sentences in their slates they would not understand fully until they missed a dinner or certified a tolerance they would not have certified at nineteen.
 
 Vex remained at the table a moment longer and looked at the overlay— convoy lanes, refurb bands, staffing curves.
 
-Trial geometry had failed in passive hold.
+The trial engagement had failed in passive hold.
 
 These children would inherit the lesson without inheriting the shame— if the institution did its job.
 
@@ -98,21 +98,21 @@ Outside, rain and banners and cadets crossing the quad with manuals under their 
 ---
 
 ***KESTREL VEIL — WARDROOM***  
-***LESSONS***
+*LESSONS*
 
 Segment seven, day eleven.
 
-The wardroom was warm again. **Mira Thessaly** had decided cold rooms made people rush, and rushing was how explorers mistook confidence for understanding.
+The wardroom was warm again. Mira Thessaly had decided cold rooms made people rush, and rushing was how explorers mistook confidence for understanding.
 
-**Calder Venn** sat with coffee he had not finished and notes he had not stopped collecting since day ten's overlay. **Damon Reyes** had pulled Fleet doctrine excerpts— first-contact protocols, frontier expansion assumptions, survey prioritization language that sounded reasonable until you laid it beside passive returns from a civilization that had never asked Fleet permission to exist.
+Calder Venn sat with coffee he had not finished and notes he had not stopped collecting since day ten's overlay. Damon Reyes had pulled Fleet doctrine excerpts— first-contact protocols, frontier expansion assumptions, survey prioritization language that sounded reasonable until you laid it beside passive returns from a civilization that had never asked Fleet permission to exist.
 
-**Ari Halden** had infrastructure ages.
+Ari Halden had infrastructure ages.
 
-**Felix Ortega** had listen watch cadence.
+Felix Ortega had listen watch cadence.
 
-**Jun Park** had correlation strips linking both without being asked.
+Jun Park had correlation strips linking both without being asked.
 
-**Tomás Brenner** had joined for the last twenty minutes— pilots understood doctrine gaps when the corridor punished ignorance.
+Tomás Brenner had joined for the last twenty minutes— pilots understood doctrine gaps when the corridor punished ignorance.
 
 Nobody performed revelation. They compared.
 
@@ -124,9 +124,9 @@ Halden: "Threat model assumes new install equals new truth. Infrastructure bands
 
 Park slid a strip forward. "Observed behavior: continuity. Preparedness. Lanes already built."
 
-Thessaly did not look up from her notes. "Fleet operational question on record: what's out there. Observed Dominion question: what must still work tomorrow."
+Thessaly did not look up from her notes. "Fleet operational question: what's out there. Observed Dominion question: what must still work tomorrow."
 
-**Marcus Hale** leaned against the bulkhead, arms crossed, destroyer track loudness restrained for once. "Combat systems training weights threat geometry. No doctrine for passive transit density."
+Marcus Hale leaned against the bulkhead, arms crossed, destroyer track loudness restrained for once. "Combat systems training weights threat profiles. No doctrine for passive transit density."
 
 Ortega almost smiled. "We weren't trained to parse civilian rhythm. Listen watch expects the wrong profile."
 
@@ -138,7 +138,7 @@ No one in the wardroom argued that Fleet was foolish.
 
 Arguing foolishness was how institutions protected themselves from learning.
 
-Calder said, "We weren't trained for occupied geometry. Keep listening."
+Calder said, "We weren't trained for occupied corridors. Keep listening."
 
 The room fell silent.
 
@@ -168,7 +168,7 @@ Calder thought of Helion Prime— terrace stone, graduation swords, Lisette's ro
 
 Out here, first was a relative term.
 
-Calder nodded once. "Listening. Comparing. No upstream. No illumination."
+Calder nodded once. "Listening. Comparing. No Fleet relay. No illumination."
 
 "Aye, Captain," Thessaly said.
 
@@ -180,7 +180,7 @@ Calder nodded. "Then we stay."
 
 Brenner left without ceremony.
 
-**Lena Walsh** caught Calder in the corridor outside— not blocking, not pleading. "Ortega's light check is three days overdue, Captain. Thessaly signed a waiver. I need your signature or I need him in clinic."
+Lena Walsh caught Calder in the corridor outside— not blocking, not pleading. "Ortega's light check is three days overdue, Captain. Thessaly signed a waiver. I need your signature or I need him in clinic."
 
 Calder signed the waiver on her slate without slowing. "Forty-eight hours."
 
@@ -191,11 +191,11 @@ She left before he could answer.
 ---
 
 ***THE DOMINION — DISTRICT NINE / K-17 TRANSIT SPINE***  
-***THE MEMORIAL***
+*THE MEMORIAL*
 
-**Daria Kovat** should have gone home.
+Daria Kovat should have gone home.
 
-Founders' Week rehearsal had made Nika loud and happy and intolerant of excuses, and Kovat had missed dinner twice in four days because seven-alpha would not resolve into drift no matter how many second passes she ran.
+District festival rehearsal had made Nika loud and happy and intolerant of excuses, and Kovat had missed dinner twice in four days because seven-alpha would not resolve into drift no matter how many second passes she ran.
 
 Instead she walked with her daughter through evening rain toward the small memorial on Transit Spine Four— not famous, not political, local.
 
@@ -207,7 +207,7 @@ Flowers in tin cups— fresh ones, dried ones, stems gone brittle, none of them 
 
 Children played on the plaza beyond the memorial wall with the unselfconscious volume of people who had not yet learned that memory was supposed to be quiet.
 
-Nika held Kovat's hand and swung her school slate in the other, Founders' Week sash crooked, wool coat argument postponed until approval arrived.
+Nika held Kovat's hand and swung her school slate in the other, civic festival sash crooked, wool coat argument postponed until approval arrived.
 
 "Why here?" Nika asked.
 
@@ -229,7 +229,7 @@ Kovat looked at the rows.
 
 Pause.
 
-Rain on stone. A child's laugh from the plaza. Founders' Week banners visible at the avenue bend— gold thread, anticipatory, ordinary.
+Rain on stone. A child's laugh from the plaza. Autumn festival banners visible at the avenue bend— gold thread, anticipatory, ordinary.
 
 "But they made tomorrow possible," Kovat said.
 
@@ -249,7 +249,7 @@ They stood a minute longer. Kovat did not explain the event that had put the nam
 
 That was enough for a Thursday evening.
 
-Enough for a child who would sing in Founders' Week chorus and believe, without cynicism, that perseverance was not a volume knob.
+Enough for a child who would sing in the district festival chorus and believe, without cynicism, that perseverance was not a volume knob.
 
 On the way home Nika bought sweets with her allowance because sweets were how children apologized for being children.
 
@@ -280,19 +280,19 @@ Somewhere on seven-alpha, a faint return held position like a stone in a stream.
 Kovat would be back at K-17 before dawn.
 
 ***KESTREL VEIL — CHART ROOM***  
-***MAPS***
+*MAPS*
 
-**Mira Thessaly** preferred paper when the question was philosophical and overlays when the question was geometric.
+Mira Thessaly preferred paper when the question was philosophical and overlays when the question was geometric.
 
 Tonight she needed both.
 
 Fleet charts on the left— borders drawn in confident lines, survey epochs noted in the clean typography of an institution that believed mapping was ownership.
 
-Dominion observations on the right— traffic lanes, fuel spines, yard berths, relay refurb bands, reserve routing, civilian commute windows, maintenance layering **Ari Halden** had dated with the reluctance of an engineer who understood what the dates implied.
+Dominion observations on the right— traffic lanes, fuel spines, yard berths, relay refurb bands, reserve routing, civilian commute windows, maintenance layering Ari Halden had dated with the reluctance of an engineer who understood what the dates implied.
 
-**Damon Reyes** stood at the chart table's edge, hands loose, eyes on merge geometry.
+Damon Reyes stood at the chart table's edge, hands loose, eyes on crossing windows.
 
-**Ari Halden** had joined with a band chart she did not want to be right about.
+Ari Halden had joined with a band chart she did not want to be right about.
 
 Calder had given her the room without ceremony. Chart room work was executive work when the executive was honest.
 
@@ -338,7 +338,7 @@ Thessaly did not turn. "On record: we drew a frontier through someone else's hal
 
 Calder studied the overlay. "How much of known space is known because we named it?"
 
-Reyes, quietly: "More than I'm comfortable saying aloud. Probably more than Cartography will admit first pass."
+Reyes, quietly: "More than I'm comfortable saying aloud. Probably more than the mapping office will admit first pass."
 
 Thessaly met Calder's eyes. "The *Kestrel* isn't only questioning them."
 
@@ -364,7 +364,7 @@ The *Kestrel Veil* had crossed into history in segment seven.
 
 Now it was crossing into something more uncomfortable: the possibility that Fleet history had been a chapter written late in a much longer book.
 
-Thessaly would file the comparison packet in observation language. Halden would verify the relay bands twice. Reyes would redraw merge geometry until the border line looked as absurd on paper as it felt in the gut.
+Thessaly would file the comparison packet in observation language. Halden would verify the relay bands twice. Reyes would redraw crossing windows until the border line looked as absurd on paper as it felt in the gut.
 
 None of that would erase the line from Fleet charts.
 
@@ -373,11 +373,11 @@ Only people could do that— slowly, if they were brave enough.
 ---
 
 ***THE DOMINION — ORBITAL CONSTRUCTION YARD KESSIK-OUTER***  
-***THE WORKSHOP***
+*THE WORKSHOP*
 
 The training bay smelled of hot metal and solvent and the particular patience of people who believed a joint could be proud if you gave it time.
 
-**Pavel Sorokin** had removed his gloves before correcting **Lina's** posture because inspection habits started before inspection tools.
+Pavel Sorokin had removed his gloves before correcting Lina's posture because inspection habits started before inspection tools.
 
 "Elbow in," he said.
 
@@ -387,7 +387,7 @@ Lina adjusted. Nineteen, fierce, hungry to be competent on a schedule the yard d
 
 Lina nodded. She had learned not to argue with Sorokin when his voice went flat— flat meant this mattered.
 
-The practice joint sat in the fixture— lattice segment, non-flight stock, scarred from generations of apprentices who had learned the same lesson under different cranes. The gantry beyond the bay window moved a hull shell with bored precision. Founders' Week posters in the corridor showed gold thread and stall permits and the ordinary anticipation of a district that celebrated founders the way other districts celebrated rain.
+The practice joint sat in the fixture— lattice segment, non-flight stock, scarred from generations of apprentices who had learned the same lesson under different cranes. The gantry beyond the bay window moved a hull shell with bored precision. Regional celebration posters in the corridor showed gold thread and stall permits and the ordinary anticipation of a district that celebrated harvest the way other districts celebrated rain.
 
 Sorokin ran his hand along the joint seam without touching. "Show me your pass."
 
@@ -395,7 +395,7 @@ Lina worked.
 
 Heat bloom. Steady feed. No hurry.
 
-Sorokin watched the way his mentor **Petran** had watched him— the way Petran's mentor had watched Petran, according to stories told in the break room with tea and complaints about crane certification.
+Sorokin watched the way his mentor Petran had watched him— the way Petran's mentor had watched Petran, according to stories told in the break room with tea and complaints about crane certification.
 
 Nothing military in the motion.
 
@@ -435,7 +435,7 @@ Lina exhaled.
 
 "Yes, sir."
 
-Nearby, **Petran** watched from the bay doorway with tea in a chipped cup. He said nothing. He had already taught Sorokin. Now he taught by presence— the next link in a chain that did not require speeches.
+Nearby, Petran watched from the bay doorway with tea in a chipped cup. He said nothing. He had already taught Sorokin. Now he taught by presence— the next link in a chain that did not require speeches.
 
 An inspection sled hummed past the window— routine, unglamorous, the kind of craft that kept yards honest. Sorokin had ridden similar sleds at Lina's age and come home with welding dust in his hair and his mother's laughter in the kitchen.
 
@@ -449,7 +449,7 @@ Civilizations survived because knowledge was inherited.
 
 Not invented every generation.
 
-Outside the bay, mag crawlers hummed. Somewhere in District Fourteen, Mara would be saving dinner again. Somewhere on seven-alpha, a warrant officer filed a return that refused to become drift.
+Outside the bay, mag crawlers hummed. Somewhere in District Fourteen, Mara would be saving dinner again. Somewhere on seven-alpha, a warrant officer marked a return that refused to become drift.
 
 Sorokin put his gloves on and returned to Slip Three because production adjustments were weather and weather did not wait for pride to finish feeling good.
 
@@ -466,7 +466,7 @@ Lina wrote it down.
 ---
 
 ***KESTREL VEIL — COMMAND DECK***  
-***THE INHERITANCE***
+*THE INHERITANCE*
 
 Late watch.
 
@@ -476,13 +476,13 @@ Calder at the rail.
 
 The bridge was quiet the way deep-water ships were quiet— systems murmuring, crew sparse, responsibility distributed so no one person had to carry all of it at once.
 
-**Tomás Brenner** on helm correction thrust, hands steady; **Mira Thessaly** aft with slate; **Felix Ortega** on listen watch— controllers tired, tugs patient, civilization breathing in waveforms; **Yuki Tanaka** on emitters dark; **Marcus Hale** on rotation; **Jun Park** stitching buffer threads because Park always stitched.
+Tomás Brenner on helm correction thrust, hands steady; Mira Thessaly aft with slate; Felix Ortega on listen watch— controllers tired, tugs patient, civilization breathing in waveforms; Yuki Tanaka on emitters dark; Marcus Hale on rotation; Jun Park stitching message threads because Park always stitched.
 
 Calder had not slept enough. He had stopped pretending sleep would fix what segment seven had become. Officers on long passive watches learned to function on debt— sleep debt, certainty debt, the debt of knowing your academy had prepared you for a frontier that might not exist the way charts drew it.
 
-He reviewed everything the way he had reviewed engagement geometry in simulation years ago— except simulations had endings. This did not. Academies he could not see but could infer— children's lessons about sacrifice without conquest, chorus rehearsals where perseverance was not a volume knob, professional discipline in traffic controllers who sounded tired before they sounded afraid. Archives— layered maps, handwritten margins, *We always build farther ahead than people think necessary*. Shipyards— Petran to Sorokin to Lina, *The weld outlives the shift*. Families— Thursday flowers, production adjustments accepted as weather, grandmothers with proverbs that did not explain themselves. Memorials— names in stone, *They made tomorrow possible*. Transportation— lanes older than Fleet borders. Doctrine— Fleet: discovery, expansion, first arrival; Dominion: continuity, preparedness, preservation. History, not a briefing. A habitat.
+He reviewed everything the way he had reviewed engagement scenarios in simulation years ago— except simulations had endings. This did not. Academies he could not see but could infer— children's lessons about sacrifice without conquest, chorus rehearsals where perseverance was not a volume knob, professional discipline in traffic controllers who sounded tired before they sounded afraid. Archives— layered maps, handwritten margins, *We always build farther ahead than people think necessary*. Shipyards— Petran to Sorokin to Lina, *The weld outlives the shift*. Families— Thursday flowers, production adjustments accepted as weather, grandmothers with proverbs that did not explain themselves. Memorials— names in stone, *They made tomorrow possible*. Transportation— lanes older than Fleet borders. Doctrine— Fleet: discovery, expansion, first arrival; Dominion: continuity, preparedness, preservation. History, not a briefing. A habitat.
 
-**Damon Reyes** had left a chart strip on the rail— Fleet border notation ghosted over Dominion lane merge, the line visibly absurd once you saw both at once. Calder did not need the strip to remember. Thessaly had made sure he would not.
+Damon Reyes had left a chart strip on the rail— Fleet border notation ghosted over Dominion lane routing, the line visibly absurd once you saw both at once. Calder did not need the strip to remember. Thessaly had made sure he would not.
 
 Calder looked at the plot— Dominion space rendered as observation, not threat— and understood something he had been circling since the wardroom went silent.
 
@@ -490,7 +490,7 @@ Calder said, "History inside them, or history about them?"
 
 Pause.
 
-Ortega's loop murmured— a child's chorus practice bleeding through civilian traffic harmonics, off-key and earnest, Founders' Week seven days out if rotation held.
+Ortega's loop murmured— a child's chorus practice bleeding through civilian traffic harmonics, off-key and earnest, autumn festival seven days out if rotation held.
 
 Thessaly: "They live inside it. Record supports."
 
@@ -530,7 +530,7 @@ Reyes acknowledged on chart plot; Ortega put the headphone back. Tanaka kept emi
 
 The *Kestrel Veil* crept on correction thrusters in inherited space— Fleet confidence meeting Dominion caution in the dark, witness to a conflict that had not begun with hatred and would not, if Calder had anything left to say about it, be simplified into villains.
 
-**Jun Park**, alone at the buffer console ten minutes later, tagged the night's correlations for a Fleet review that did not exist yet— headers blank, timestamps honest, the archive of a war not yet declared growing one thread at a time.
+Jun Park, alone at the communications console ten minutes later, tagged the night's correlations for a Fleet review that did not exist yet— headers blank, times honest, the archive of a war not yet declared growing one thread at a time.
 
 They listened.
 
@@ -538,6 +538,6 @@ They continued.
 
 The corridor held them the way it held everyone who used it without thinking about who had made tomorrow possible.
 
-Park's segregated buffer still held one correlation thread Fleet had not requested—checksum match, urgency flag unset, waiting for a policy layer that did not exist yet.
+Park's segregated archive still held one correlation thread Fleet had not requested—checksum match, urgency flag unset, waiting for a policy layer that did not exist yet.
 
 ---

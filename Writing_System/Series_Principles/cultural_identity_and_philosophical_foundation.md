@@ -125,19 +125,11 @@ Do not have characters comment on the contrast. Show it through what they notice
 
 The true antagonist of Book One — and ultimately the series — is **history itself**.
 
-Two civilizations developed independently.
+Two civilizations whose histories **diverged** — not two species that met by accident at a treaty line.
 
-Each evolved rationally according to its own experiences.
+Fleet Authority began as a **breakaway founding** from Dominion civilization; its public memory scrubbed or reframed that inheritance. The Dominion retained it. Over centuries, incompatible security doctrines and **outward Fleet expansion** meeting **maintained Dominion border geometry** placed them on a collision course neither fully understands from the other's archive.
 
-Each created a strategic doctrine that made perfect sense within its own history.
-
-Over centuries those doctrines became **incompatible**.
-
-Neither civilization planned to become the other's enemy.
-
-Neither civilization truly understands the other.
-
-History, geography, and expansion have finally brought them together.
+See `Universe/Fleet/fleet_dominion_frontier_history.md`.
 
 **That collision — not malice — is the source of the conflict.**
 

@@ -102,7 +102,7 @@ Brenner told a story about Dennett refusing to certify a bypass until the bypass
 
 "The hull remembers stress," Brenner said, tapping the strut. "We just log it wrong."
 
-Calder asked what they needed to restore internal voice channels.
+Calder asked what they needed to restore internal comms.
 
 “Park’s problem,” Brenner said. “Clean power to him. The relay won’t carry signal through VI-Gamma without stable pressure.”
 
@@ -302,7 +302,7 @@ Dana Holt had not slept through a full cycle since the discharge.
 
 Priya Nand had slept four hours in the hab nook and did not apologize for it. Holt had told her to. That was new too—or newer.
 
-The board in front of Holt was clean in the way a crime scene was clean after evidence was bagged—timestamps in order, band six peak logged, scatter window marked, post-event void signed by three review passes and Nand's strip log copied into the annex.
+The board in front of Holt was clean in the way a crime scene was clean after evidence was bagged—timestamps in order, band six peak logged, post-discharge scatter marked, post-event void signed by three review passes and Nand's strip log copied into the annex.
 
 The Fleet packet had left fourteen hours ago. Confirmation had returned in six—*received, under review, Cartography liaison assigned*—which was faster than Holt liked and slower than she feared.
 
@@ -364,9 +364,9 @@ Nand read it over Holt's shoulder. Neither spoke for four seconds.
 
 "Not confirmed is how Fleet says *we hope we're wrong*." Nand's voice was level. Professional. "You didn't write loss."
 
-"I wrote discharge and void." Holt did not look away from the board. "The geometry wrote the rest."
+"I wrote discharge and void." Holt did not look away from the board. "The overlay wrote the rest."
 
-She opened the patrol overlay again. Bearing family. Scout lane. The nothing where alpha had been.
+She opened the patrol overlay again. Contact bearing. Scout lane. The nothing where alpha had been.
 
 *If they're alive,* she thought, *they're alive without a beacon. If they're dead, I sent Fleet the truth too early.*
 
@@ -384,7 +384,7 @@ The watch floor at Fleet Operations never looked busy the way fiction imagined b
 
 Commander Owen Mercer stood at the routing desk with his sleeves rolled one turn and a queue tree that had grown teeth overnight.
 
-"Cartography priority from Kestran VI-Gamma," he said to the floor. "Holt, Dana. Verified chain. Contact event, energy discharge, post-event void. Scout bearing family in overlay—not in packet body."
+"Cartography priority from Kestran VI-Gamma," he said to the floor. "Holt, Dana. Verified chain. Contact event, energy discharge, post-event void. Scout contact bearing in overlay—not in packet body."
 
 Commodore Mira Sato looked up from the intelligence side alcove. She had a tablet and no coffee, which Mercer had learned meant she was already three conclusions ahead of the room.
 
@@ -400,11 +400,11 @@ Mercer had met Rowan on a bad watch six years ago—a courier lost, assumed dead
 
 Rowan read Holt's packet once. He read the annex headers. He did not sit.
 
-Mercer pulled the destruction assessment on a secondary pane—not for drama, for cross-check. The algorithm had done what algorithms did when geometry and energy class pointed at the same empty conclusion: it had written *probable hull loss* in language clean enough for liaison release.
+Mercer pulled the destruction assessment on a secondary pane—not for drama, for cross-check. The algorithm had done what algorithms did when returns and energy class pointed at the same empty conclusion: it had written *probable hull loss* in language clean enough for liaison release.
 
-"Assessment version three-point-one," Mercer said quietly. "Generated from VI-Gamma passive geometry and discharge peak. Confidence band high. No contradicting return signal from scout registry since event window."
+"Assessment version three-point-one," Mercer said quietly. "Generated from VI-Gamma passive returns and discharge peak. Confidence band high. No contradicting return signal from scout registry since event window."
 
-"Because the scout had no signal to return," Sato said. She had the annex on her tablet now—Holt's timestamps, Nand's strip log, the scatter window Holt had been careful not to over interpret. "Holt wrote facts. The board wrote implications. Fleet will merge them if we're not careful."
+"Because the scout had no signal to return," Sato said. She had the annex on her tablet now—Holt's timestamps, Nand's strip log, the post-discharge scatter Holt had been careful not to over interpret. "Holt wrote facts. The board wrote implications. Fleet will combine them if we're not careful."
 
 Rowan looked at Mercer. "Who else has seen the assessment?"
 
@@ -414,7 +414,7 @@ Rowan looked at Mercer. "Who else has seen the assessment?"
 
 Rowan accepted that with a nod. "Mercer. Status on scout registry—Kestrel Veil, mission four-four-seven-one-S."
 
-"Presumed contact-lost pending verification, sir. Preliminary destruction assessment generated forty minutes ago from watchpost geometry and discharge class. Not signed for release."
+"Presumed contact-lost pending verification, sir. Preliminary destruction assessment generated forty minutes ago from watchpost returns and discharge class. Not signed for release."
 
 "Who authorized Holt?"
 
@@ -436,7 +436,7 @@ He dismissed it almost before finishing the thought.
 
 Mercer watched the queue because watching the queue was his job. A secondary flag blinked—Cartography confirmation, scout posting overlap, outer Kestran loop.
 
-Sato said, without looking up, "Holt's overlay included bearing family consistent with scout patrol lane. She didn't put it in the packet body. She put it where Cartography would find it and Fleet couldn't ignore it."
+Sato said, without looking up, "Holt's overlay included contact bearing consistent with scout patrol lane. She didn't put it in the packet body. She put it where Cartography would find it and Fleet couldn't ignore it."
 
 "She's good," Rowan said.
 
@@ -486,7 +486,7 @@ Holt: "Copy acknowledgment. Relaying to scout."
 
 Two seconds. Park's exhale came through the line before his words. "Standing by."
 
-Sato was already writing. "Alive on comms. That contradicts destruction geometry as filed—either Holt's merge was bad or the scout threw a secondary event into the scatter window. Annex doesn't read like primary hull breach. Doesn't explain the discharge peak either. Hold for cross-check before we name it."
+Sato was already writing. "Alive on comms. That contradicts destruction assessment as filed—either Holt's correlation was bad or the scout threw a secondary event into the post-discharge scatter. Annex doesn't read like primary hull breach. Doesn't explain the discharge peak either. Hold for cross-check before we name it."
 
 Mercer pulled the revised queue. "Destruction assessment auto-flagged for hold. Revision template open."
 
@@ -508,9 +508,9 @@ Holt: "Patching captain."
 
 Calder's voice came through Holt's node—closer than Park's exhaustion, further than a ready-room briefing: "Calder Venn, captain. Go ahead."
 
-Rowan keyed his own mic. "Captain, this is Fleet Operations. We have Holt's discharge peak and an assessment that indicated you were destroyed. Park confirms hull and crew intact. We do not have a narrative—no contact class, no weapon profile, nothing that explains capital-scale energy in that volume except bad merge or scout-side error. Report what your ship saw. Contact through post-event."
+Rowan keyed his own mic. "Captain, this is Fleet Operations. We have Holt's discharge peak and an assessment that indicated you were destroyed. Park confirms hull and crew intact. We do not have a narrative—no contact class, no weapon profile, nothing that explains capital-scale energy in that volume except charting error or scout-side sensor error. Report what your ship saw. Contact through post-event."
 
-Calder did not perform it. "Masked contact through the occlusion zone. Passive, tactical, and optical could not resolve a firm cross-section until composite lock. At lock, silhouette-scale mass—larger than scout, larger than platform. Full decloak on bearing immediately before inbound photon track. Capital-class discharge on resolved geometry. Contact absent post-event."
+Calder did not perform it. "Masked contact through the occlusion zone. Passive, tactical, and optical could not resolve a firm cross-section until composite lock. At lock, silhouette-scale mass—larger than scout, larger than platform. Full decloak on bearing immediately before inbound photon track. Capital-class discharge on resolved bearing. Contact absent post-event."
 
 "this sounds incredible", Rowwan states bluntly, "How did you survive?"
 
@@ -628,7 +628,7 @@ Halden's jaw tightened. She said nothing else.
 
 Nobody laughed. Ortega did something with his hands that might have been a shake suppressed.
 
-When the fringe link stabilized again, Park keyed a personal lane—procedural gray, the kind Cartography allowed when a watchpost shared a node with a crippled scout. Holt did not merge it with the Fleet queue.
+When the fringe link stabilized again, Park keyed a personal lane—procedural gray, the kind Cartography allowed when a watchpost shared a node with a crippled scout. Holt did not combine it with the Fleet queue.
 
 Dana Holt was at her console when the relay indicator changed.
 
@@ -672,7 +672,7 @@ Holt closed her eyes once. "Whatever fired on you is still out there."
 
 "I will."
 
-The line held three seconds longer than procedure required. Then Park closed it the way he closed every personal channel—logged, timestamped, no merge with master buffer.
+The line held three seconds longer than procedure required. Then Park closed it the way he closed every personal channel—logged, timestamped, no combine with master buffer.
 
 Holt sat back. Her fingers were steady. That surprised her. It did not make her feel better.
 
@@ -692,7 +692,7 @@ She opened her personal slate and typed a reply—not the draft from eleven days
 
 *Alive. I know. Reply when YOU can.*
 
-She did not send it until the sweep block was signed. Then she sent it anyway—fringe path, short range, no Fleet merge.
+She did not send it until the sweep block was signed. Then she sent it anyway—fringe path, short range, no Fleet combine.
 
 When Fleet amended the destruction assessment an hour later—*scout registry alive; cross-check Cartography timeline*—the strip arrived on Holt's board, not Park's.
 
@@ -758,7 +758,7 @@ In medical, Walsh caught Mira Hale staring at her bandaged forearm as if it belo
 
 In engineering, Hargrove started a story about a reactor scare on Helion Prime. Brenner cut him off. "Not now." Hargrove closed his mouth. Koss didn't look up. Nobody apologized. Nobody needed to.
 
-On the command deck, Ortega ran passive rebuild tests that failed and then ran them again; Tanaka watched Reyes watch the buffer family on nav without speaking. Thessaly heard the silence anyway and added *Navigation fatigue: monitor* to the transit draft.
+On the command deck, Ortega ran passive rebuild tests that failed and then ran them again; Tanaka watched Reyes watch the reference chart on nav without speaking. Thessaly heard the silence anyway and added *Navigation fatigue: monitor* to the transit draft.
 
 Calder walked the Reing passage once more—not inspection, presence. He stopped at the inner lock where the KESTREL VEIL nameplate hung crooked. He did not straighten it. That was Brenner's job. Some repairs were rank-specific.
 
@@ -868,7 +868,7 @@ Yuki Tanaka had charts spread in colors only she and Reyes shared.
 
 Calder found Reyes where Reyes always was when the ship was hurt—palms on the nav cradle, forehead near the display like prayer.
 
-"Partial fix," Reyes said before Calder spoke. "Buffer family from pre-contact. Not live sky—not yet. Hood's still blind. I'm working the drift stack in my head and the numbers keep disagreeing with each other."
+"Partial fix," Reyes said before Calder spoke. "Reference chart from pre-contact. Not live sky—not yet. Hood's still blind. I'm working the drift stack in my head and the numbers keep disagreeing with each other."
 
 "What gets you sky back?"
 
@@ -904,11 +904,11 @@ Tanaka whispered something Calder did not know. Ortega pretended not to watch bu
 
 For a long breath Reyes said nothing. Calder had seen navigators celebrate contact locks with a nod. He had never seen one go quiet when the sky came back.
 
-"Fix holds." Reyes's voice stayed flat; his eyes did not. "Bearing family consistent with buffer. Drift corrected to—" He read numbers. His voice cracked on the third digit and he cleared it like a professional. "—good enough to call home."
+"Fix holds." Reyes's voice stayed flat; his eyes did not. "Contact bearing consistent with reference chart. Drift corrected to—" He read numbers. His voice cracked on the third digit and he cleared it like a professional. "—good enough to call home."
 
 Home was a word Reyes rarely used on-watch. Reyes kept his hand on the cradle after the fix logged anyway.
 
-Reyes matched one star to the buffer family by hand—old habit, pre-digital almanac habit—and his mouth moved once without sound. Not prayer. Verification. The kind you did when the instrument had lied for a day and your body no longer trusted glass.
+Reyes matched one star to the reference chart by hand—old habit, pre-digital almanac habit—and his mouth moved once without sound. Not prayer. Verification. The kind you did when the instrument had lied for a day and your body no longer trusted glass.
 
 "Second star holds," he said. Quieter. "Third holds. Drift stack agrees."
 
@@ -1016,7 +1016,7 @@ He thought of the contact at bearing two-one-four mark six. The decloak. The blo
 
 "Acknowledge," Calder said. "We copy observe, investigate, no engagement unless necessary."
 
-He had known the corridor family before Ortega named it. That was why he did not look at the bearing slate.
+He had known the corridor pattern before Ortega named it. That was why he did not look at the bearing slate.
 
 Holt upstream: "Scout acknowledges." Pause. "Fleet, copy confirm?"
 
@@ -1038,7 +1038,7 @@ Halden wanted sensor discipline from the jump; Park wanted buffer segregation on
 
 "Both," Brenner agreed, and cut the channel.
 
-Ortega said, very quietly, "Return bearing. Same corridor family."
+Ortega said, very quietly, "Return bearing. Same corridor pattern."
 
 Reyes answered without looking up: "Back with stars. Not enough for doctrine. Enough to steer. I'll take it."
 
@@ -1046,7 +1046,7 @@ Reyes answered without looking up: "Back with stars. Not enough for doctrine. En
 
 Park, to Calder, lower voice: "Dana will relay the burn notice upstream. Fleet liaison wants confirm before we move."
 
-"Move. File confirm when geometry holds."
+"Move. File confirm when bearing holds."
 
 "I always do." Park did not smile. "That's why she called me an idiot."
 
@@ -1088,7 +1088,7 @@ Nobody noticed.
 
 Nobody commented.
 
-Calder was still in engineering. Halden was still rebuilding tactical ten percent at a time. Park was still on the buffer, relay queue blinking, Dana Holt's timestamp in a segregated lane he would not merge.
+Calder was still in engineering. Halden was still rebuilding tactical ten percent at a time. Park was still on the buffer, relay queue blinking, Dana Holt's timestamp in a segregated lane he would not combine.
 
 Thessaly took the XO chair, stripped the transit draft of anything that wasn't executable, and set handoff blocks with no open verbs.
 
@@ -1114,7 +1114,7 @@ Above, stars held for Reyes—not promise, instrument. He finally released the m
 
 Park keyed the burn to buffer and relay lane; Walsh reported no new injuries; Ortega's passive rebuild still failed on the same polite error.
 
-At the Kestran VI-Gamma watchpost, Holt and Nand watched the scout bearing family shift one increment on the amended overlay—not proof of intent, proof of motion. Holt relayed the burn notice upstream before Calder finished asking; confirm token back; then another Fleet query waiting in queue, checksum mismatch on the second pass.
+At the Kestran VI-Gamma watchpost, Holt and Nand watched the scout contact bearing shift one increment on the amended overlay—not proof of intent, proof of motion. Holt relayed the burn notice upstream before Calder finished asking; confirm token back; then another Fleet query waiting in queue, checksum mismatch on the second pass.
 
 "Correction thrust," Nand said.
 

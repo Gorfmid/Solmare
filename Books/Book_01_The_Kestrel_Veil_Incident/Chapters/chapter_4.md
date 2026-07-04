@@ -124,7 +124,7 @@ Halden leaned back. "Everything here is slightly wrong in a way that balances ou
 
 Thessaly, from the central console: "It's the lived one."
 
-Ortega raised a hand from the sensor station. "Tertiary—same offset family as cradle. Looks nominal if you ignore the family."
+Ortega raised a hand from the sensor station. "Tertiary—same offset signature as cradle. Looks nominal if you ignore the signature."
 
 Reyes did not react. Ortega lowered his hand.
 
@@ -200,7 +200,7 @@ Hale passed the other way toward the galley corridor nook, calibration kit under
 
 Okwelu was in the medical bay doorway when Calder climbed toward habitation—slate in hand, eyes on the pass-through traffic, not on him. She noted his transit time against the rest log and went back to her notebook.
 
-When Calder climbed back to the command deck, Park was mid-rhythm and Ortega had two tabs open—the merge column and the segregated offset log he never reconciled with Fleet's pretty numbers.
+When Calder climbed back to the command deck, Park was mid-rhythm and Ortega had two tabs open—the correlation column and the segregated offset log he never reconciled with Fleet's pretty numbers.
 
 Tanaka and Reyes traded the navigation station without ceremony. Tanaka sat. The chair squeaked. Reyes stood behind her and corrected one word in a buffer overlap note—*port*, not *starboard*—without looking at the slate. Tanaka paused half a beat, then nodded.
 
@@ -274,7 +274,7 @@ Halden reported a ghost trace—possible contact, resolved as sensor echo off a 
 
 Brenner took the last piece from the forward carton on his way aft. Park refilled it from overflow without comment.
 
-When Park transmitted the late-cycle status packet, one return line matched an entry from mid-cycle—the duplicate family, not the same ping, the same shape. He hesitated half a beat, flagged it separately, released the rest without comment.
+When Park transmitted the late-cycle status packet, one return line matched an entry from mid-cycle—the duplicate signature, not the same ping, the same shape. He hesitated half a beat, flagged it separately, released the rest without comment.
 
 Calder did not ask. He was learning which questions changed posture and which ones only changed the room's temperature.
 
@@ -314,7 +314,7 @@ The acknowledgment came back four seconds early.
 
 Park held the copy separate until the primary transmission finished. The secondary buffer did not clear automatically—it remained flagged longer than it should have before Park manually released it. Cole did not comment. Neither did anyone else.
 
-"Hold secondary merge," Calder said. "Not until Park clears the flag."
+"Hold secondary composite," Calder said. "Not until Park clears the flag."
 
 Calder crossed to the command chair. The squeak complained when he tested the cushion. He sat, then shifted once—slow, deliberate—until the protest reached maximum tolerated volume.
 

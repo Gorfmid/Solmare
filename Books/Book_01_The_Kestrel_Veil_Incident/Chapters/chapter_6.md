@@ -104,7 +104,7 @@ Holt stood behind the chair. She did not take the chair. Nand hated being moved 
 
 "Run redundant column."
 
-Nand ran it. "Same wobble family. Not identical amplitude."
+Nand ran it. "Same wobble pattern. Not identical amplitude."
 
 "Note it. Run again in ten."
 
@@ -152,7 +152,7 @@ Nand ran eleven on schedule. "Clear outside alpha," she said.
 
 Holt signed the pass.
 
-"Fragment on eleven," Nand said. "Same bearing family as alpha."
+"Fragment on eleven," Nand said. "Same contact bearing as alpha."
 
 Holt looked. "Note it."
 
@@ -194,15 +194,15 @@ Holt's hand moved toward her personal slate and stopped. Cartography's correlati
 
 Nand read strip timestamps aloud. Holt let the numbers finish.
 
-"Bearing family needs outer-loop annotation for the log," she said. The words were true enough to sign.
+"Contact bearing needs outer-loop annotation for the log," she said. The words were true enough to sign.
 
 She opened the overlay anyway.
 
 One line returned. **Kestrel Veil.** Mission 4471-S. Jun Park. Communications.
 
-She closed it before Nand could see her face. The name sat where a bearing family should have stayed anonymous.
+She closed it before Nand could see her face. The name sat where a contact bearing should have stayed anonymous.
 
-She logged: *alpha geometry tightening, companion eleven present, repeat passes ongoing, partial hold noted.*
+She logged: *alpha contact tightening, companion eleven present, repeat passes ongoing, partial hold noted.*
 
 "Still alpha," she said.
 
@@ -228,7 +228,7 @@ Holt ran secondary pass. Coherence loss on passive long-range—readable becomin
 
 Nand read numbers. Holt logged numbers.
 
-The array swept. For three seconds the contact family held shape on the board. Then band six spiked—vertical, bright, sudden.
+The array swept. For three seconds the contact pattern held shape on the board. Then band six spiked—vertical, bright, sudden.
 
 Nand's breath caught.
 
@@ -500,7 +500,7 @@ Thessaly: "Log that."
 
 He wrote on a strip by hand.
 
-Reyes, without looking up: "Bearing family's gone. Chart's empty."
+Reyes, without looking up: "Contact bearing's gone. Chart's empty."
 
 "If Fleet asks," Brenner said, "I was nowhere near the launch circuit."
 

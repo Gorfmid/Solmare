@@ -4,17 +4,17 @@
 
 ---
 
-Fleet Admiral **Elias Rowan** did not keep Calder waiting.
+Fleet Admiral Elias Rowan did not keep Calder waiting.
 
 The conference room off Operations was small on purpose—glass to the corridor, privacy film engaged, coffee going cold on a table that had seen worse Tuesdays. Large rooms invited performance. Performance was how institutions lied when facts were still moving.
 
-**Calder Venn** entered with **Mira Thessaly** one step behind him, appendix tabs sorted by order of use, not alphabet. Commodore **Mira Sato** had been invited and had chosen to read archives first; she would arrive when she had timestamps, not opinions. Commander **Owen Mercer** was not in the room yet. Mercer was downstairs failing a taxonomy, which Rowan had guessed before breakfast.
+Calder Venn entered with Mira Thessaly one step behind him, appendix tabs sorted by order of use, not alphabet. Commodore Mira Sato had been invited and had chosen to read archives first; she would arrive when she had times, not opinions. Commander Owen Mercer was not in the room yet. Mercer was downstairs failing a taxonomy, which Rowan had guessed before breakfast.
 
 Rowan stood until Calder sat. He did not open with ceremony.
 
 "Start where segment seven started," he said. "Not the Incident. The crossing."
 
-Thessaly set the first tab on the table. "Observation ledger format," she said—to Rowan, not as defense, as translation. "Fleet will merge observation and inference for briefing ease. We separated them on record. Captain answers three bands: Observed. Inferred. Speculation— only if requested, explicitly labeled. Executive summary excludes speculation."
+Thessaly set the first tab on the table. "Observation ledger format," she said—to Rowan, not as defense, as translation. "Fleet will combine observation and inference for briefing ease. We separated them on the page. Captain answers three bands: Observed. Inferred. Speculation— only if requested, explicitly labeled. Executive summary excludes speculation."
 
 Rowan looked at her. "Why does that matter?"
 
@@ -22,7 +22,7 @@ Rowan looked at her. "Why does that matter?"
 
 Rowan nodded once. "Captain."
 
-Calder met his eyes. "Observed: continuous corridor traffic beyond Fleet epoch notation. Merge geometry consistent with commuter windows and freight classification. No illumination. No handshake. Upstream emissions from our hull during segment seven: none."
+Calder met his eyes. "Observed: continuous corridor traffic beyond Fleet epoch notation. Traffic patterns consistent with commuter windows and freight classification. No illumination. No handshake. Upstream emissions from our hull during segment seven: none."
 
 He paused when Rowan raised one finger—not stop, *band*.
 
@@ -34,11 +34,11 @@ He did not take notes on the slate. He had learned that writing too early let ro
 
 "Continue," Rowan said.
 
-"Observed: authentication density increases without search-geometry spikes. Observed: freight classification consistent with industrial yard throughput. Observed on egress: no pursuit geometry on our bearing."
+"Observed: authentication density increases without search-pattern spikes. Observed: freight classification consistent with industrial yard throughput. Observed on egress: no pursuit signature on our bearing."
 
 "Inference in the volume-stability line," Thessaly said quietly.
 
-Calder corrected without irritation. "Inferred ordinary volume from pattern stability. Observed: no pursuit geometry on egress bearing."
+Calder corrected without irritation. "Inferred ordinary volume from pattern stability. Observed: no pursuit signature on egress bearing."
 
 Rowan nodded. He did not ask *what does it mean*. He asked, "What did the correction-thruster crawl cost in corridor time?"
 
@@ -46,29 +46,29 @@ Rowan nodded. He did not ask *what does it mean*. He asked, "What did the correc
 
 "What did you not see?"
 
-"No upstream emissions. No task-force geometry. No empty volume."
+"No upstream emissions. No task-force contact pattern. No empty volume."
 
 The door chimed—a Cartography courier collecting bearing annexes for overlay. Rowan did not pause the meeting. Fleet did not stop because one department had started work. Somewhere else, paper was already moving.
 
 ---
 
-Three floors up, **Martine Okoye** laid segment seven navigation returns over epoch 143 frontier shading and felt the projection lie back at her.
+Three floors up, Martine Okoye laid segment seven navigation returns over epoch 143 frontier shading and felt the projection lie back at her.
 
 Map Room Four was Cartography's honest room—blue display light, paper charts because paper still won arguments, mission patches from survey installs pinned above workstations like proof someone had stood where Fleet later drew lines. Okoye had drawn frontier provisional volumes for eleven years. She believed in epochs the way engineers believed in torque ratings: not as religion, as load limits.
 
-**Pell**, two years from academy, Founders' Week ring still too shiny, ran the first overlay with the hunger of youth that still believed charts were photographs.
+Pell, two years from academy, Founders' Week ring still too shiny, ran the first overlay with the hunger of youth that still believed charts were photographs.
 
 "That's not low occupancy," Pell said quietly.
 
 "No," Okoye agreed.
 
-She zoomed seven-alpha—the corridor Fleet had shaded *provisional, low confidence* until a scout came home with merge antiquity predating the install that justified the shading. **Damon Reyes**'s navigation appendix sat in the corner pane: lane-family correlation Thessaly had flagged. Freight windows. Commuter merges. Maintenance layering on infrastructure bands **Ari Halden** had logged from passive thermal.
+She zoomed seven-alpha—the corridor Fleet had shaded *provisional, low confidence* until a scout came home with routing antiquity predating the install that justified the shading. Damon Reyes's navigation appendix sat in the corner pane: lane-family correlation Thessaly had flagged. Freight windows. Commuter traffic patterns. Maintenance layering on infrastructure bands Ari Halden had logged from passive thermal.
 
 None of it belonged inside *empty*.
 
-None of it belonged inside *buffer* unless buffer meant *we have not looked yet*.
+None of it belonged inside *provisional volume* unless provisional meant *we have not looked yet*.
 
-Okoye ran a secondary overlay—holiday congestion model from **Felix Ortega**'s harmonic annex against Fleet's Founders' Week traffic assumptions. Not identical geometry. Identical kind—civilization scheduling celebration and commerce on the same lanes without asking Fleet permission.
+Okoye ran a secondary overlay—holiday congestion model from Felix Ortega's harmonic annex against Fleet's Founders' Week traffic assumptions. Not identical routing. Identical kind—civilization scheduling celebration and commerce on the same lanes without asking Fleet permission.
 
 She called up the epoch install that had justified seven-alpha shading—relay survey post Founders' Week 2191, confidence band medium, occupancy inferred from absence of contradicting returns. Absence of returns was not absence of traffic. Absence of returns was absence of Fleet looking long enough.
 
@@ -82,7 +82,7 @@ Pell stared at the projection. "We've been mapping ourselves."
 
 Nobody laughed.
 
-A survey veteran at the next table—**Torres**, surname recycled the way yards recycled couplers—studied the redline without speaking for thirty seconds. Then: "If we brief from old slides, we lie in briefings. If we hide the overlay, we lie in archives."
+A survey veteran at the next table—Torres, surname recycled the way yards recycled couplers—studied the redline without speaking for thirty seconds. Then: "If we brief from old slides, we lie in briefings. If we hide the overlay, we lie in archives."
 
 Okoye picked up a redline pen—obsolete medium, trusted medium—and marked the chart in her own hand, not yet official:
 
@@ -102,17 +102,17 @@ Rowan: "Band?"
 
 "Observed."
 
-Thessaly turned a page. "Industrial annex: Halden thermal bands. Reyes merge crosswalk. Ortega civilian harmonics. Annexes not merged in executive summary. Intake may merge if labels survive."
+Thessaly turned a page. "Industrial annex: Halden thermal bands. Reyes navigation crosswalk. Ortega civilian harmonics. Annexes not combined in executive summary. Intake may combine them if labels survive."
 
 Rowan: "Civilian signature?"
 
 "Observed: school transport clustering in listen watch harmonics. Holiday congestion overlays on ordinary Tuesday traffic. Ortega logged civilian rhythm. No named individuals observed."
 
-Thessaly, when Rowan glanced at her: "Inferred— civilian ordinary life from traffic geometry. Appendix flag. Not observed faces."
+Thessaly, when Rowan glanced at her: "Inferred— civilian ordinary life from traffic patterns. Appendix flag. Not observed faces."
 
 Rowan accepted the distinction without praise. Calder continued only when Rowan nodded.
 
-"Inferred: border-adjacent discipline increasing. Inferred: passive surveillance posture on their side—from procedure tightening, authentication density increases without search-geometry spikes. No positive hull identification observed."
+"Inferred: border-adjacent discipline increasing. Inferred: passive surveillance posture on their side—from procedure tightening, authentication density increases without search-pattern spikes. No positive hull identification observed."
 
 Rowan was quiet three seconds. Calder waited.
 
@@ -122,7 +122,7 @@ Calder: "Observed: partial cloak failure under sustained passive lock at Kestran
 
 "Speculation?" Rowan asked.
 
-"Not in the record." Calder said. "Observed restraint in segment seven. Observed preparation. No mobilization spike in our slice."
+"Not in the testimony." Calder said. "Observed restraint in segment seven. Observed preparation. No mobilization spike in our slice."
 
 Thessaly slid appendix C forward. "First contact has not occurred— technical position. Listening occurred. If Doctrine requires a box, the box must not penalize passive grammar."
 
@@ -132,21 +132,21 @@ A slate flag pulsed—Doctrine Bureau routing, provisional classification reques
 
 ---
 
-In Communications validation bay, **Dana Holt** signed timestamps because timestamps were how civilizations admitted they might be wrong without calling each other liars.
+In Communications validation bay, Dana Holt signed timestamps because timestamps were how civilizations admitted they might be wrong without calling each other liars.
 
-**Priya Nand** had the primary chair. Holt had the pen.
+Priya Nand had the primary chair. Holt had the pen.
 
-**Jun Park** on the secure pane from berth fourteen-C: buffer chain, triple redundancy, segregated lanes intact. **Felix Ortega** on shipboard link: listen watch logs, civilian harmonics bands, authentication density curves— *Logged what I heard. Not what training expected.*
+Jun Park on the secure pane from berth fourteen-C: message chain, triple redundancy, segregated lanes intact. Felix Ortega on shipboard link: listen watch harmonics, civilian bands, authentication density curves— *Logged what I heard. Not what training expected.*
 
 Communications saw evidence. Not meaning. Proof the archive was real before meaning arguments began.
 
-Holt crosswalked VI-Gamma relay history—bearing two-one-four mark six, void geometry, destruction assessment correction, alive return on passive. Timestamps married. No orphan packets.
+Holt crosswalked VI-Gamma relay history—bearing two-one-four mark six, post-discharge scatter, destruction assessment correction, alive return on passive. Timestamps married. No orphan packets.
 
-She opened Park's segregated lane headers from the bloom window through segment seven close. Personal lanes had stayed separate from Fleet summary writers—not secrecy for drama, chain integrity so Operations could not merge grief into sensor facts.
+She opened Park's segregated lane headers from the bloom window through segment seven close. Personal lanes had stayed separate from Fleet summary writers—not secrecy for drama, chain integrity so Operations could not fold grief into sensor facts.
 
 Priya ran checksum on Thessaly's executive summary hash against pickup handshake. Match.
 
-Ortega, on the pane, read a sample timestamp when Priya asked. Nand matched relay drift. Holt did not ask if Tuesday was real. She asked if the log was consistent. Consistency was Communications' religion.
+Ortega, on the pane, read a sample timestamp when Priya asked. Nand matched relay drift. Holt did not ask if Tuesday was real. She asked if the chain was consistent. Consistency was Communications' religion.
 
 `KESTREL VEIL SEGMENT SEVEN ARCHIVE — AUTHENTICITY CONFIRMED — CHAIN INTACT`
 
@@ -162,11 +162,11 @@ The chain that had begun on the VI-Gamma relay path with a discharge and a void 
 
 ---
 
-Commander **Owen Mercer** had spent twenty years making Fleet's language fit Fleet's emergencies. Tuesday morning he discovered the emergencies had outgrown the nouns.
+Commander Owen Mercer had spent twenty years making Fleet's language fit Fleet's emergencies. Tuesday morning he discovered the emergencies had outgrown the nouns.
 
 The Classification Annex smelled of paper and Edition 143—ROE templates on whiteboards, academy primer excerpts above the coffee station, *UNKNOWN CONTACT — INITIAL CLASSIFICATION* printed in a font that implied the universe would cooperate.
 
-Lieutenant **Ahn** read failed categories aloud because Doctrine believed hearing words prevented lying.
+Lieutenant Ahn read failed categories aloud because Doctrine believed hearing words prevented lying.
 
 "Enemy." Strike.
 
@@ -226,7 +226,7 @@ Doctrine had admitted its old words were wrong.
 
 ---
 
-**Soraya Ellis** had joined Historical Office because beginnings mattered—Relay Charter glass cases, Founders' Week placards, the story Fleet told itself on parade mornings.
+Soraya Ellis had joined Historical Office because beginnings mattered—Relay Charter glass cases, Founders' Week placards, the story Fleet told itself on parade mornings.
 
 Segment seven was not a beginning.
 
@@ -240,7 +240,7 @@ She laid a survey summary from eleven years prior—corridor seven-alpha, *provi
 
 She laid Founders' Week origin maps celebrating Fleet arrival as civilization's opening movement in surveyed volumes.
 
-She laid an archival pattern queue summary—routine traffic, low priority, flagged for senior review on contradictory occupancy returns. The name on the attachment was **Maris Chen**. Ellis did not know the name's story. She knew the queue's grammar: *contradictory occupancy* filed as inconvenience, not alarm.
+She laid an archival pattern queue summary—routine traffic, low priority, flagged for senior review on contradictory occupancy returns. The name on the attachment was Maris Chen. Ellis did not know the name's story. She knew the queue's grammar: *contradictory occupancy* filed as inconvenience, not alarm.
 
 She pulled a Founders' Week academy primer excerpt—Edition 143, first-year cadet text:
 
@@ -252,7 +252,7 @@ Ellis laid Thessaly's line beside the primer—*preparedness predating Fleet sur
 
 The pattern arrived quietly.
 
-Fleet had been describing **late arrival** as **first presence**.
+Fleet had been describing late arrival as first presence.
 
 Not maliciously. Structurally. Exploration archives emphasized pioneers because pioneers were legible. Deep corridor maintenance layering did not fit pioneer slides. So deep layering became *anomaly*, *unclaimed infrastructure*, *pending survey*—words that protected Founders' Week from millennia-scale Tuesdays.
 
@@ -274,11 +274,11 @@ The report suggested passage had been busy.
 
 ---
 
-Rowan's table had accumulated the morning without ceremony— Okoye's redline overlay, Mercer's provisional header and working title, Ellis's comparison brief, Holt's integrity flag, a yard certification margin from **Elara Koss**— correction-thruster curves, Reing 3 handshake lag, *patched not repaired, held passive posture sufficient for segment seven return*— and a Logistics note from **Commander Vance** without a meeting request: industrial throughput implied deep capacity; model scenarios; no procurement flags without Operations signature.
+Rowan's table had accumulated the morning without ceremony— Okoye's redline overlay, Mercer's provisional header and working title, Ellis's comparison brief, Holt's integrity flag, a yard certification margin from Elara Koss— correction-thruster curves, Reing 3 handshake lag, *patched not repaired, held passive posture sufficient for segment seven return*— and a Logistics note from Commander Vance without a meeting request: industrial throughput implied deep capacity; model scenarios; no procurement flags without Operations signature.
 
 Sato arrived with passive archive thumbnails and took the chair without apology.
 
-"Intelligence read raw," she said. "Pattern without label. Border discipline increasing. No pursuit geometry post-departure. Inadequate for enemy. Inadequate for friendly." She paused. "If Fleet adopts *peer*, Intelligence will use it. If Fleet adopts *unknown*, Intelligence will refuse."
+"Intelligence read raw," she said. "Pattern without label. Border discipline increasing. No pursuit signature post-departure. Inadequate for enemy. Inadequate for friendly." She paused. "If Fleet adopts *peer*, Intelligence will use it. If Fleet adopts *unknown*, Intelligence will refuse."
 
 Calder had not moved from witness posture. He had not argued for *peer*. He had not argued for anything.
 
@@ -312,7 +312,7 @@ He did not say *war*. He did not say *diplomacy*. He did not say *mobilize*. Str
 
 Today was vocabulary.
 
-"Mercer—provisional tier one header stands. Working group on observation protocol. Not ROE." He glanced at Ahn's expected presence through Mercer's work. "Edition 143 failure lines by end of week. Ellis—internal historical brief. No public exhibit change without my signature. Okoye—epoch language draft by eighteen hundred. Holt—seal chain. No merge into legacy templates without Doctrine and Cartography copied."
+"Mercer—provisional tier one header stands. Working group on observation protocol. Not ROE." He glanced at Ahn's expected presence through Mercer's work. "Edition 143 failure lines by end of week. Ellis—internal historical brief. No public exhibit change without my signature. Okoye—epoch language draft by eighteen hundred. Holt—seal chain. No combine into legacy templates without Doctrine and Cartography copied."
 
 Sato: "Intelligence refrains from threat labels pending peer framework."
 
@@ -332,7 +332,7 @@ That was not triumph. It was direction—the only kind Rowan trusted before deci
 
 The meeting ended with calendars, not applause.
 
-Calder walked the administrative corridor with Thessaly behind him. Glass walls showed Helion traffic—ordinary merges, dock cranes, evening shift change. Fleet still looked like a civilization that intended to last.
+Calder walked the administrative corridor with Thessaly behind him. Glass walls showed Helion traffic—ordinary lane crossings, dock cranes, evening shift change. Fleet still looked like a civilization that intended to last.
 
 "You didn't convince them," Thessaly said.
 
@@ -369,7 +369,7 @@ Down the corridor, two junior officers walked faster than their conversation.
 "—ROE tomorrow. Words today."
 
 
-The words had moved first—in Map Room Four, in the Classification Annex, in Ellis's historian pencil, in Holt's timestamp pen, in Rowan's single sentence that renamed truth without renaming fear.
+The words had moved first—in Map Room Four, in the Classification Annex, in Ellis's historian pencil, in Holt's validation pen, in Rowan's single sentence that renamed truth without renaming fear.
 
 The way Fleet thought would follow.
 

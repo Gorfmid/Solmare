@@ -1,23 +1,23 @@
-﻿# Chapter 20
+# Chapter 20
 
 ## The Long Shadow
 
 ---
 
 ***THE DOMINION — STRATEGIC SECURITY DIRECTORATE***  
-***THE FILE***
+*THE FILE*
 
-Rain had moved off the arcade glass, but Founders' Week had left gold thread in the banners and music in the lower plaza at reduced volume—the civilization exhaling after celebration it had not asked the border to approve.
+Rain had moved off the arcade glass, but the autumn festival had left gold thread in the banners and music in the lower plaza at reduced volume—the civilization exhaling after celebration it had not asked the border to approve.
 
-Director-General **Lev Stratimirov** removed his gloves before opening the file.
+Director-General Lev Stratimirov removed his gloves before opening the file.
 
 Thirty-two independent observations.
 
 Still thirty-two.
 
-**Major Petrov** stood at the table's far edge with tea gone cold and the expression of a man who had hoped thirty-three would change the mathematics of permission.
+Major Petrov stood at the table's far edge with tea gone cold and the expression of a man who had hoped thirty-three would change the mathematics of permission.
 
-"Status summary," Petrov said. "Passive archives unchanged. Border nodes report routine. Transportation—corridor normalization holding through holiday overlays. Science Directorate—cloak bench stability improved; field trial timeline still withheld. Warrant **Kovat**—seven-alpha persistent return filed again. Low confidence. She will not retract."
+"Status summary," Petrov said. "Passive archives unchanged. Border nodes report routine. Transportation—corridor normalization holding through holiday overlays. Science Directorate—cloak bench stability improved; field trial timeline still withheld. Warrant Kovat—seven-alpha persistent return filed again. Low confidence. She will not retract."
 
 Stratimirov read the scatter plot without speaking.
 
@@ -27,7 +27,7 @@ Together, they remained persistence without proof.
 
 "Recommendation?" Stratimirov asked.
 
-Petrov did not flinch. "Continue active investigation classification. Expand comparison windows. Request illumination authorization on seven-alpha maintenance feeder—one sweep, controlled geometry, proof or dismissal."
+Petrov did not flinch. "Continue active investigation classification. Expand comparison windows. Request illumination authorization on seven-alpha maintenance feeder—one sweep, controlled sweep, proof or dismissal."
 
 Stratimirov looked at him. "And if the sweep illuminates nothing except our impatience?"
 
@@ -41,25 +41,25 @@ Petrov's jaw worked. "Sir—"
 
 "Standing Observation," Stratimirov said. "File status change. Active Investigation to Standing Observation. Passive monitoring remains. Expanded listening windows remain. No pursuit. No task force. No corridor illumination without directorate proof threshold we do not have."
 
-**Colonel Yenin** from Political Liaison looked up from her slate. "Political will read that as closure."
+Colonel Yenin from Political Liaison looked up from her slate. "Political will read that as closure."
 
-"Political will read what we tell Political," Stratimirov said, not unkind. "Numbers. Founders' Week residual traffic models. Normalization language. No drama."
+"Political will read what we tell Political," Stratimirov said, not unkind. "Numbers. Post-festival residual traffic models. Normalization language. No drama."
 
 Petrov: "The pattern didn't vanish."
 
 "No," Stratimirov said. "The pattern stopped buying decisions at observation prices."
 
-He thought of Vex at Kessik—not punished, not rewarded, assigned to watch the way watch officers watched when proof was expensive. He thought of Founders' Week crowds thinning in the arcade below and the ordinary arrogance of a civilization that believed its holidays were the loudest thing in the sector.
+He thought of Vex at Kessik—not punished, not rewarded, assigned to watch the way watch officers watched when proof was expensive. He thought of festival crowds thinning in the arcade below and the ordinary arrogance of a civilization that believed its holidays were the loudest thing in the sector.
 
 Fleet might be doing anything beyond the border.
 
 The directorate did not know.
 
-That ignorance was not incompetence. It was geometry—passive observation could not read another institution's ink.
+That ignorance was not incompetence. It was distance—passive observation could not read another institution's ink.
 
 Yenin: "Shall I prepare Political Liaison language?"
 
-"Prepare normalization summary," Stratimirov said. "Founders' Week residual traffic. Border routine. Standing Observation is not closure. It is maturity."
+"Prepare normalization summary," Stratimirov said. "Post-festival residual traffic. Border routine. Standing Observation is not closure. It is maturity."
 
 Petrov signed the status change because profession required it. Disappointment lived in his shoulders, not his voice.
 
@@ -79,9 +79,9 @@ Stratimirov poured fresh tea. Too strong. Correct. "We would regret illumination
 
 The trial command inset on the wall stayed empty.
 
-**Warrant Kovat** would file seven-alpha again on the next shift because persistence was her profession.
+Warrant Kovat would file seven-alpha again on the next shift because persistence was her profession.
 
-**Pavel Sorokin** would be signing welds that outlived shifts at Kessik-Outer.
+Pavel Sorokin would be signing welds that outlived shifts at Kessik-Outer.
 
 The Dominion did not know Fleet had certified a witness record.
 
@@ -92,21 +92,21 @@ History continued without asking the directorate for permission.
 ---
 
 ***THE DOMINION — DISTRICT ELEVEN PRIMARY***  
-***THE CLASSROOM***
+*THE CLASSROOM*
 
-**Nika** hated sitting still but loved the window when Teacher **Marin** let discussion replace copying.
+Nika hated sitting still but loved the window when Teacher Marin let discussion replace copying.
 
-Founders' Week had left paper stars on the ceiling and chalk dust on Marin's sleeves. Old stone held the classroom the way old stone held the city—without comment, with patience. Rain light moved across the slate wall where a corridor map from three border revisions ago still hung, outdated and therefore honest.
+The harvest festival had left paper stars on the ceiling and chalk dust on Marin's sleeves. Old stone held the classroom the way old stone held the city—without comment, with patience. Rain light moved across the slate wall where a corridor map from three border revisions ago still hung, outdated and therefore honest.
 
-**Warrant Officer Kovat** had walked Nika to school that morning because shift change had aligned for once. They had not talked about seven-alpha. They had talked about wool coat approval and whether chorus practice counted as history homework. Nika had filed her mother's tired eyes under *busy*, not *afraid*, because eleven was old enough to sort some things and young enough to be wrong.
+Warrant Officer Kovat had walked Nika to school that morning because shift change had aligned for once. They had not talked about seven-alpha. They had talked about wool coat approval and whether chorus practice counted as history homework. Nika had filed her mother's tired eyes under *busy*, not *afraid*, because eleven was old enough to sort some things and young enough to be wrong.
 
 "Why does history matter?" Marin asked.
 
 Hands rose.
 
-"Because Founders' Week needs a script," said **Dren**, which earned the laugh Marin allowed on purpose.
+"Because the district festival needs a script," said Dren, which earned the laugh Marin allowed on purpose.
 
-"Because we remember who paid," said **Sola**, serious.
+"Because we remember who paid," said Sola, serious.
 
 "Because tests," said someone in the back, and Marin said, "Also true, but insufficient."
 
@@ -128,13 +128,13 @@ Dren made a face. "My grandmother says conquest is what other people call it whe
 
 Marin let them argue politely—sacrifice versus conquest, preparation versus parade—until the bell threatened. Then she assigned no homework on purpose.
 
-"You already live in Founders' Week," she said. "Go notice it."
+"You already live in the autumn festival," she said. "Go notice it."
 
 They copied nothing for the last ten minutes. Marin told a story about relay refurb windows that had prevented a scheduling gap no parade would ever name—maintenance layering on a corridor node older than the academy's newest wing, filed by clerks who would never meet a warrant officer named Kovat and would never need to.
 
 School dismissed into corridor noise and wool coat arguments and sweets bought with allowance.
 
-Nika walked home through Founders' Week bunting still half-removed, repeating Marin's relay story to herself because stories stuck better when you carried them like homework.
+Nika walked home through civic festival bunting still half-removed, repeating Marin's relay story to herself because stories stuck better when you carried them like homework.
 
 The Dominion's future walked home with history in her throat and no reason to fear the border yet.
 
@@ -147,19 +147,19 @@ Preparation was already being taught gently—not propaganda, repetition.
 ---
 
 ***THE DOMINION — KESSIK-OUTER ORBITAL YARD***  
-***THE SHIPYARD***
+*THE SHIPYARD*
 
-**Pavel Sorokin** certified tolerance on a weld seam and hated that the crane certification on Slip Three was still three days out.
+Pavel Sorokin certified tolerance on a weld seam and hated that the crane certification on Slip Three was still three days out.
 
 Kessik-Outer did not pause because a directorate file changed status. Yards paused for cranes, lattices, shift change, and lunch.
 
-"Slip Seven ahead," **Petran** said, not looking up from his own inspection slate. "Slip Three behind. Same quarter, different miracles."
+"Slip Seven ahead," Petran said, not looking up from his own inspection slate. "Slip Three behind. Same quarter, different miracles."
 
 Sorokin grunted. "Miracles require certified cranes."
 
 "Miracles require people who show up anyway."
 
-Production schedules on the board ran elevated—not shouted, not labeled, simply dense. Additional berths under construction. Titanium lattice shortage flagged again. Apprentice **Lina** passed with a cart of fittings and the posture Sorokin had corrected twice yesterday.
+Production schedules on the board ran elevated—not shouted, not labeled, simply dense. Additional berths under construction. Titanium lattice shortage flagged again. Apprentice Lina passed with a cart of fittings and the posture Sorokin had corrected twice yesterday.
 
 "Tolerance band?" she asked.
 
@@ -171,21 +171,21 @@ She did. Nodded. "Petran says the bay remembers bad signatures longer than bad w
 
 Slip Seven's schedule block showed inspection density higher than commercial norms—berths reserved, throughput ordinary-high, the yard's version of a crowded Tuesday. Sorokin had learned not to read directorate files. He read weld seams and crane calendars and the faces of people who needed Thursday dinner to happen anyway.
 
-**Mara** had texted twice about grandmother's birthday candles. Sorokin had replied *late* both times because apology did not certify cranes.
+Mara had texted twice about grandmother's birthday candles. Sorokin had replied *late* both times because apology did not certify cranes.
 
 Nobody on the yard called it war.
 
 Sorokin did not call it war.
 
-He called it another difficult quarter—the kind where Thursday dinner with **Mara** and **Grandmother Ilya** moved if shifts moved, where **Darya** needed examination fees and **Mikael** needed shoes that would survive Founders' Week mud, where flowers for the table were a line item next to lattice requisitions.
+He called it another difficult quarter—the kind where Thursday dinner with Mara and Grandmother Ilya moved if shifts moved, where Darya needed examination fees and Mikael needed shoes that would survive festival mud, where flowers for the table were a line item next to lattice requisitions.
 
-Lunch was stew in the bay cafeteria and quiet complaints about shift overlap and transit delays from Founders' Week traffic bleeding into freight windows.
+Lunch was stew in the bay cafeteria and quiet complaints about shift overlap and transit delays from harvest festival traffic bleeding into freight windows.
 
-**Petran** had grandmother's proverb ready before Sorokin sat down. "My grandmother used to say the weld outlives the shift. She did not say the shift outlives the schedule. Fix the crane."
+Petran had grandmother's proverb ready before Sorokin sat down. "My grandmother used to say the weld outlives the shift. She did not say the shift outlives the schedule. Fix the crane."
 
 "Working on it," Sorokin said.
 
-They ate without naming directorate files. They ate without naming hull classes. They talked about **Lina**'s certification exam and whether the cafeteria would ever learn salt and **Mikael**'s shoes and the price of lattice this quarter—ordinary arithmetic inside elevated production.
+They ate without naming directorate files. They ate without naming hull classes. They talked about Lina's certification exam and whether the cafeteria would ever learn salt and Mikael's shoes and the price of lattice this quarter—ordinary arithmetic inside elevated production.
 
 Hints of fleet production lived in the schedule density—in berths reserved without public announcement, in inspections that ran longer than ordinary commercial work, in Sorokin's habit of signing welds that outlived shifts because habits outlived headlines.
 
@@ -195,14 +195,14 @@ Ordinary citizens lived inside the schedule.
 
 History lived above it.
 
-Sorokin went back to Slip Seven after lunch because the quarter did not care what the directorate called a file. **Mara** texted *flowers or candles?* He replied *both if shift ends*. That was the war he knew.
+Sorokin went back to Slip Seven after lunch because the quarter did not care what the directorate called a file. Mara texted *flowers or candles?* He replied *both if shift ends*. That was the war he knew.
 
 ---
 
 ***FLEET HEADQUARTERS — HISTORICAL OFFICE ANNEX***  
-***THE MAP***
+*THE MAP*
 
-**Soraya Ellis** worked historical editions after witness certification because operational charts changed quickly and memory changed carefully.
+Soraya Ellis worked historical editions after witness certification because operational charts changed quickly and memory changed carefully.
 
 Not Map Room Four.
 
@@ -216,11 +216,11 @@ It was a belief Fleet had hung on a wall.
 
 Ellis opened the historical edition file—not delete, archive. Historical Office preserved mistakes because erasure was how institutions pretended they had always been wise.
 
-She copied the old assumption into the archive band with date stamp and witness record citation:
+She copied the old assumption into the archive band with date stamp and witness citation:
 
-*Edition 143 public historical map notation — seven-alpha provisional low occupancy — superseded by certified observation record, Strategic Review Board proceeding.*
+*Edition 143 public historical map notation — seven-alpha provisional low occupancy — superseded by certified observation, Strategic Review Board proceeding.*
 
-She added a cross-reference line for a queue she would deepen later—contradictory occupancy returns, archivist name **Maris Chen**, filed as routine. Not connected today. Logged today.
+She added a cross-reference line for a queue she would deepen later—contradictory occupancy returns, archivist name Maris Chen, filed as routine. Not connected today. Noted today.
 
 She did not replace the old map with anger.
 
@@ -253,9 +253,9 @@ Fleet's map of who passed first had.
 ---
 
 ***FLEET DOCTRINE BUREAU — CLASSIFICATION ANNEX***  
-***THE MEMO***
+*THE MEMO*
 
-Commander **Owen Mercer** hated the title on his screen.
+Commander Owen Mercer hated the title on his screen.
 
 **Observation Protocol for Structured Civilizations**
 
@@ -263,7 +263,7 @@ Clumsy. Too long for a corridor joke. Accurate enough to survive contact with wi
 
 He drafted the first internal memorandum anyway because accuracy mattered more than elegance and Fleet had spent a week learning the difference.
 
-Lieutenant **Ahn** sat across the table with Edition 143 open to the First-Year Cadet Primer—the page every officer had skimmed and few admitted still shaped them.
+Lieutenant Ahn sat across the table with Edition 143 open to the First-Year Cadet Primer—the page every officer had skimmed and few admitted still shaped them.
 
 Mercer read the old sentence aloud:
 
@@ -312,11 +312,11 @@ Edition 144 had begun without parade.
 ---
 
 ***FLEET HEADQUARTERS — OPERATIONS TIER***  
-***THE SHADOW***
+*THE SHADOW*
 
-Fleet Admiral **Elias Rowan** remained after headquarters emptied because empty rooms told the truth busy rooms hid.
+Fleet Admiral Elias Rowan remained after headquarters emptied because empty rooms told the truth busy rooms hid.
 
-Evening shift had gone home to dinners and Founders' Week residual errands and the ordinary belief that strategy happened elsewhere. Glass walls showed Helion traffic—merge lanes, dock lights, a capital that did not know its admiral was looking at paper maps because paper still taught differently than slates.
+Evening shift had gone home to dinners and Founders' Week residual errands and the ordinary belief that strategy happened elsewhere. Glass walls showed Helion traffic—traffic lanes, dock lights, a capital that did not know its admiral was looking at paper maps because paper still taught differently than slates.
 
 Old map on the left—epoch 143 public historical, seven-alpha shaded provisional, frontier edge drawn with the confidence of a young institution.
 
@@ -326,11 +326,11 @@ Neither felt wrong.
 
 One was simply larger.
 
-Rowan had seen maps change before—after incidents, after survey epochs, after wars Fleet schoolbooks indexed in old script. Those changes had felt like wounds closing. This felt like waking in a room he had always lived in and noticing a door he had assumed was wall.
+Rowan had seen maps change before—after incidents, after survey epochs, after frontier volumes Founders' Week had edited into buffer language. Those changes had felt like wounds closing. This felt like waking in a room he had always lived in and noticing a door he had assumed was wall.
 
 He did not stand at the window performing solitude. He sat at the desk where Mercer's memorandum had arrived an hour ago and Ellis's curator note had arrived with it.
 
-He thought of Calder saying *I don't know* in the witness chair without apology. Of Holt's timestamps. Of Brenner's *patched, not repaired*. Of a scout that had come home carrying Tuesdays Fleet had called empty. Of Nika—whom he would never meet—learning preparation in a classroom he would never see. Of Sorokin certifying seams while a file slot read Standing Observation on the other side of a border that was knowledge, not distance.
+He thought of Calder saying *I don't know* in the witness chair without apology. Of Holt's chain validation. Of Brenner's *patched, not repaired*. Of a scout that had come home carrying Tuesdays Fleet had called empty. Of Nika—whom he would never meet—learning preparation in a classroom he would never see. Of Sorokin certifying seams while a file slot read Standing Observation on the other side of a border that was knowledge, not distance.
 
 War was not inevitable because maps grew.
 
@@ -364,7 +364,7 @@ In the corridor, a junior Doctrine intern carried Mercer's memorandum to the ove
 
 Outside, Fleet continued—coffee stations cleaned, archive shelves locked, witness record sealed in a band no parade would announce.
 
-Somewhere in Communications, Holt's integrity flag sat archived beside timestamps that would outlive every officer in the building.
+Somewhere in Communications, Holt's integrity flag sat archived beside validation data that would outlive every officer in the building.
 
 Somewhere in berth fourteen-C, Brenner listened to a patched hull breathe.
 

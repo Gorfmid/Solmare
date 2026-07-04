@@ -127,6 +127,7 @@ Fleet Authority still assumes (Act IV must challenge):
 | Assumption | Act III counter-evidence |
 |------------|--------------------------|
 | The Neutral Zone is mostly empty | Continuous civilian/industrial traffic; lanes older than Fleet borders |
+| Fleet knows nothing about the frontier | Fleet knows the **Neutral Zone** as chart category, ROE language, and corridor names — but has **edited or forgotten** who occupies the volume |
 | Fleet charts are incomplete but generally reliable | Fleet border lines cross observed fuel spines and relay refurb bands |
 | Frontier expansion has been exploratory, not provocative | Other civilization's infrastructure **predates** Fleet presence in volume |
 | The Incident was an isolated encounter | Segment seven reveals civilization-scale systems, not a single contact |

@@ -61,6 +61,8 @@ Each Dominion scene must answer:
 **Fleet Authority is still expanding.**  
 **The Dominion has existed for centuries.**
 
+**Frontier history (series canon):** `Universe/Fleet/fleet_dominion_frontier_history.md` — breakaway founding, Neutral Zone as surviving term, asymmetric memory, no border treaties.
+
 Readers should constantly encounter evidence of age:
 
 - old military traditions

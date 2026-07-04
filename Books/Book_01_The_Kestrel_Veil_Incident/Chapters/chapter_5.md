@@ -4,13 +4,13 @@
 
 Relay rendezvous closed without ceremony.
 
-Park released the secondary buffer manually—the early acknowledgment from Kestran IV-Alpha still flagged in a separate column, filed the way mid-cycle duplicates had been: observed, segregated, not merged until the relay window gave them a reason. Reyes logged the approach solution; Koss certified regulator hold for the mapping leg. Calder recorded patrol cycle continuation and the *Veil* slid back onto the outer Kestran Spiral loop as if nothing had interrupted it.
+Park released the secondary buffer manually—the early acknowledgment from Kestran IV-Alpha still flagged in a separate column, filed the way mid-cycle duplicates had been: observed, segregated, not combined until the relay window gave them a reason. Reyes logged the approach solution; Koss certified regulator hold for the mapping leg. Calder recorded patrol cycle continuation and the *Veil* slid back onto the outer Kestran Spiral loop as if nothing had interrupted it.
 
 The environmental thrum held its patrol note. Tanaka's dice clicked once when vector four corrected. Somewhere aft, Brenner kicked a door.
 
 Mission +46:00 of +46:00 on the first loop became Mission +01:00 of the mapping sweep—the part of the mandate that paid for the fuel report. Calder had read the sector chart at Helion Prime: sparse traffic, old survey lines, a border advisory in Park's queue that still had not risen above low priority. The posting summary called it routine reconnaissance. The crew called it Tuesday.
 
-The command deck operated the way it had since undock—corrections practiced until they stopped registering as corrections. Park tracked comms as rhythm; Cole covered secondary when the handshake narrowed. Ortega ran tertiary with the same wrong offset as cradle, logged separate from merge. Walsh's overflow carton on the forward console had been refilled once and was half empty again. Calder did not log it.
+The command deck operated the way it had since undock—corrections practiced until they stopped registering as corrections. Park tracked comms as rhythm; Cole covered secondary when the handshake narrowed. Ortega ran tertiary with the same wrong offset as cradle, logged separate from composite stack. Walsh's overflow carton on the forward console had been refilled once and was half empty again. Calder did not log it.
 
 "Mapping leg one," Reyes said. "Passive sweep arc seven through twelve. Tanaka has sequence staging."
 
@@ -142,7 +142,7 @@ Halden tried a second ranging sequence—tighter pulse spacing, shorter hold tim
 
 "Finding out is the job today," Thessaly said.
 
-"Hold collection," Calder said. "No merge until composite holds."
+"Hold collection," Calder said. "Hold until composite holds."
 
 On the sixth extended pass—twenty-two minutes after the first fragment—Ortega got a line that held long enough for Halden to call formation.
 
@@ -164,7 +164,7 @@ Ortega's second line thinned. Halden lost two ranging pulses mid-sequence. Hale'
 
 "What are we actually tracking?" Hale asked. Nobody had a category for it.
 
-Reyes filed the interval—formation time, hold duration, degradation pattern. Halden ran the ranging sequence again with the prior parameters saved for comparison. No second lock on that geometry.
+Reyes filed the interval—formation time, hold duration, degradation pattern. Halden ran the ranging sequence again with the prior parameters saved for comparison. No second lock on that bearing setup.
 
 Calder marked the pattern: close, then gone. Not failure. Cycle.
 
@@ -184,7 +184,7 @@ Hale logged weaker optical blinks on the same bearing. Koss verified tactical ti
 
 Through Mission +03:20 the contact persisted while instruments failed to hold it—the same edge of loss each pass.
 
-Then reposition: Ortega caught a partial lock on new sweep geometry; on the next pass the bearing had shifted half a degree starboard while the return family stayed the same.
+Then reposition: Ortega caught a partial lock on new sweep parameters; on the next pass the bearing had shifted half a degree starboard while the return signature stayed the same.
 
 "Contact repositioned," Reyes said. "Or we moved the keyhole again."
 
@@ -234,7 +234,7 @@ Thessaly joined Calder at the display margin—close enough to see, not close en
 
 She left before he could answer.
 
-Calder marked the pattern operationally: tracking effort correlated with reposition or loss—not fleeing, adjusting visibility relative to their geometry. Not proof of intent. Pattern sufficient for caution.
+Calder marked the pattern operationally: tracking effort correlated with reposition or loss—not fleeing, adjusting visibility relative to our patrol position. Not proof of intent. Pattern sufficient for caution.
 
 Park transmitted the late-cycle mapping stub—mandate data only, contact supplemental kept apart. The patrol clock advanced. The bearing stayed hot.
 
@@ -254,7 +254,7 @@ Halden, without looking up: "If that's a ship, it's not in our logs."
 
 Ortega: "Category's gone."
 
-Reyes: "Bearing shift tracks our pass geometry—reaction, not drift."
+Reyes: "Bearing shift tracks our pass track—reaction, not drift."
 
 No one answered. The bearing stayed hot.
 
@@ -262,7 +262,7 @@ No one answered. The bearing stayed hot.
 
 She was already at the margin of the holodisplay. "Scout doctrine allows tracking adjustment. Not pursuit."
 
-"Tracking adjustment," Calder said. "Reyes, hold patrol spacing. Close geometry on bearing two-one-four mark six—minimum deflection. Halden, composite sweep. Ortega, keep fragments separate until composite holds."
+"Tracking adjustment," Calder said. "Reyes, hold patrol spacing. Close on bearing two-one-four mark six—minimum deflection. Halden, composite sweep. Ortega, keep fragments separate until composite holds."
 
 "Probe authorization?" Calder asked.
 
@@ -322,7 +322,7 @@ Calder: "Deploy passive probe. Convergence on bearing. Log only."
 
 Koss: "Prepping launch. Stabilization check first."
 
-The probe prep took longer than Calder expected—not delay, procedure. Brenner ran pre-launch telemetry on the disposable relay; Koss certified launch tube pressure; Ortega verified the composite column had a dedicated probe channel that would not merge with ship passive. Halden ran tactical lag baseline against the probe's expected trajectory while Reyes plotted convergence geometry against patrol spacing limits—minimum deflection, maximum closure without breaking mandate corridor. Park and Cole synchronized comms buffer timing so probe telemetry would not collide with relay traffic on the secondary channel. Tanaka kept mapping arc eleven staging on the port side. Walsh passed through once with a stores strip, saw Koss prepping launch, and diverted aft without crossing the command deck.
+The probe prep took longer than Calder expected—not delay, procedure. Brenner ran pre-launch telemetry on the disposable relay; Koss certified launch tube pressure; Ortega verified the composite column had a dedicated probe channel that would not combine with ship passive. Halden ran tactical lag baseline against the probe's expected trajectory while Reyes plotted convergence against patrol spacing limits—minimum deflection, maximum closure without breaking mandate corridor. Park and Cole synchronized comms buffer timing so probe telemetry would not collide with relay traffic on the secondary channel. Tanaka kept mapping arc eleven staging on the port side. Walsh passed through once with a stores strip, saw Koss prepping launch, and diverted aft without crossing the command deck.
 
 "Tube green," Koss said.
 
@@ -380,7 +380,7 @@ Thessaly did not argue for a second probe either. She moved to the logging stati
 
 For twenty minutes after probe loss, the ship arrays repeated the same cycle—try, lose, adjust, try. Holds stretched to thirty-one seconds at Mission +06:30, strongest formation since probe launch; Brenner's cross-check unchanged. Park and Cole kept comms timing. Tanaka finished arc twelve on the port side.
 
-At Mission +06:40, the bearing stabilized—not lock, stability. The smear stopped repositioning long enough for Ortega to run three consecutive passive sweeps on identical geometry. Halden held ranging pulses in pairs. Park's comms reflection stayed above threshold for a full minute.
+At Mission +06:40, the bearing stabilized—not lock, stability. The smear stopped repositioning long enough for Ortega to run three consecutive passive sweeps on identical parameters. Halden held ranging pulses in pairs. Park's comms reflection stayed above threshold for a full minute.
 
 "Composite forming," Halden said. "Third attempt this cycle. Hold—hold—"
 

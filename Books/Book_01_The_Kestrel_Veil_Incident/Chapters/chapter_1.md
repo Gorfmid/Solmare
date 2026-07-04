@@ -188,7 +188,7 @@ Maris Chen had requested the Segment Seven reconciliation set three cycles ago�
 
 Most analysts validated packets. Maris reconciled them.
 
-She filtered the afternoon load: epoch adjustment notices, navigation baseline comparisons, scout return summaries, relay refurbishment logs, historical anchor reviews, passive geometry supplements marked *routine*. Tomas Rhee brought coffee and did not ask why she had pulled Segment Seven again.
+She filtered the afternoon load: epoch adjustment notices, navigation baseline comparisons, scout return summaries, relay refurbishment logs, historical anchor reviews, passive return supplements marked *routine*. Tomas Rhee brought coffee and did not ask why she had pulled Segment Seven again.
 
 "Founders' Week," he said, by way of explanation for why the queue was fat.
 
@@ -198,7 +198,7 @@ Segment Seven occupied the public archive as frontier—open notation, sparse in
 
 Maris read the first packet and felt nothing but the usual fatigue of a queue that would outlive her shift.
 
-Relay maintenance on seven-beta: refurbishment completed on schedule; merge geometry within posted tolerance. Maris tagged it *expected drift* and moved on.
+Relay maintenance on seven-beta: refurbishment completed on schedule; routing tolerance within posted limits. Maris tagged it *expected drift* and moved on.
 
 The second packet made her pause.
 
@@ -210,11 +210,11 @@ She opened a side pane and pulled last cycle's seven-alpha summary. The offset h
 
 The third packet arrived with her tea going cold.
 
-Cartography epoch desk had reopened seven-alpha merge shading—an adjustment that should have been settled two cycles ago. Reason code: conflicting survey returns. All returns had passed validation.
+Cartography epoch desk had reopened seven-alpha routing overlay—an adjustment that should have been settled two cycles ago. Reason code: conflicting survey returns. All returns had passed validation.
 
 She opened four more, faster now, because her mind had started comparing before her display finished loading.
 
-A chartered survey platform noted historical positional anchors from an eleven-year-old frontier pass no longer seated cleanly against current passive geometry—both datasets green, neither wrong alone. Navigation had posted a baseline revision for the Kestran outer marches segment; the revision was minor, the frequency was not. Two scout-class surveys filed within the same week: different crews, different sensor platform generations, both within tolerance, mutually exclusive on one merge node if you held the geometry still long enough to care.
+A chartered survey platform noted historical positional anchors from an eleven-year-old frontier pass no longer seated cleanly against current passive returns—both datasets green, neither wrong alone. Navigation had posted a baseline revision for the Kestran outer marches segment; the revision was minor, the frequency was not. Two scout-class surveys filed within the same week: different crews, different sensor platform generations, both within tolerance, mutually exclusive on one routing junction if you held the pattern still long enough to care.
 
 Any one report still had a benign explanation if you wanted one.
 
@@ -236,7 +236,7 @@ Fleet Cartography had to see it. Not after Founders' Week. Not after each packet
 
 She began a priority draft on the secure template she had used twice before in her career, both times for inconsistencies senior desks had downgraded until secondary review proved them structural. Her hands were steady. Her caution was not. The title field accepted: *Segment Seven Frontier—Persistent Survey Baseline Divergence Requiring Epoch Review.*
 
-Section one: individual reports, sourced, timestamped, stripped of adjectives. Section two: correlation map—geometry drift against baseline revisions against reopened epoch flags against mutually exclusive validated returns. Section three: still blank. Assessment and recommended escalation. Immediate transmission to Fleet Cartography Command.
+Section one: individual reports, sourced, timestamped, stripped of adjectives. Section two: correlation map—positional drift against baseline revisions against reopened epoch flags against mutually exclusive validated returns. Section three: still blank. Assessment and recommended escalation. Immediate transmission to Fleet Cartography Command.
 
 "Tomas," she said without looking up. "If you were seeing relay timing lag, would you reopen the epoch or reseat the anchor?"
 
@@ -248,7 +248,7 @@ He did not ask if she was sure. He had seen her be right before.
 
 At 1547 she saved the draft to the annex queue—priority flag pending her completion of section three, biometric handoff required before transmission. Standard procedure. The system auto-saved every four minutes.
 
-She needed twenty minutes. Maybe thirty. One more pass through the scout returns to see whether the offsets formed a geometry or a scatter.
+She needed twenty minutes. Maybe thirty. One more pass through the scout returns to see whether the offsets formed a pattern or a scatter.
 
 She stood, rolled her shoulders, and told Tomas she would take the quick loop to the chapel tier—twenty minutes to finish section three in her head.
 

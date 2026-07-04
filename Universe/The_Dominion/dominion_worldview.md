@@ -15,7 +15,8 @@ The Dominion is the primary geopolitical rival of Fleet Authority. It is **not a
 **The Dominion must always feel like a real civilization first.** History — not malice — drives the collision with Fleet Authority.
 
 **Book One application:** `Books/Book_01_The_Kestrel_Veil_Incident/Act_Outlines/act3_dominion_worldbuilding.md`  
-**Faction index:** `Characters/Antagonists/The_Dominion.md`
+**Faction index:** `Characters/Antagonists/The_Dominion.md`  
+**Frontier history:** `Universe/Fleet/fleet_dominion_frontier_history.md` — asymmetric memory, Neutral Zone, no border treaties
 
 ---
 
@@ -89,6 +90,16 @@ The conflict exists because each civilization views **security differently**.
 **Neither side is lying.** Both interpret events through completely different strategic doctrines.
 
 Both honestly believe they are protecting future generations. **This philosophical difference is the foundation of the coming war — and of the entire series.** The collision is historical and geographic, not moral cartoon opposition. See `Writing_System/Series_Principles/cultural_identity_and_philosophical_foundation.md`.
+
+### Historical relationship (series canon)
+
+Fleet Authority is not an unknown civilization to the Dominion. It is a **breakaway expansion polity** whose founding myth scrubbed shared history from public memory while **cartographic terms** (including *Neutral Zone* corridors) survived on both sides.
+
+- **No border treaties** — collision is expansion meeting maintained strategic depth, not diplomatic parity.
+- **Dominion** retains campaign memory, border watch, and awareness of Fleet habits.
+- **Fleet** retains the Neutral Zone as institutional category but has **hollowed out** the referent — buffer doctrine, edited curricula, Founders' Week forward-facing memory.
+
+Full model: `Universe/Fleet/fleet_dominion_frontier_history.md`
 
 ---
 

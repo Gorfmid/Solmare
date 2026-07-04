@@ -45,7 +45,7 @@ Act IV makes Cartography a **battleground of notation**, not starships.
 
 ## 4. Likely Assumptions
 
-- Neutral Zone is **buffer**— not overlapping civilization geometry.
+- Neutral Zone is **buffer** on Fleet charts — institutional term with **eroded referent** (see `Universe/Fleet/fleet_dominion_frontier_history.md`).
 - Provisional frontier volumes await Fleet survey completion.
 - Passive returns without Fleet install are **drift, debris, or instrument error**.
 - Scout testimony must be georeferenced to Fleet epoch notation to count.
