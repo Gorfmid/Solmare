@@ -956,7 +956,7 @@ Halden, delayed four seconds on tactical watch, reported local space empty—for
 
 Engines waited because engines always waited on the *Veil*.
 
-Koss logged propulsion at *degraded, non-maneuver, thermal stable*. Brenner called it *honest drift with ambition*.
+Koss logged propulsion at *degraded, non-maneuver, thermal stable*. Brenner called it *correction math with ambition*.
 
 They had spent six hours on Reing 5 while navigation opened the hood and tactical rebuilt in the background—propulsion last not because it was least important, but because a wrong burn killed you faster than a wrong radio.
 

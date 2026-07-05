@@ -82,11 +82,11 @@ Okonkwo: "Speculation?"
 
 Calder met her eyes. "I don't know their intent. We observed restraint. We observed preparation evidence in industrial and fuel annex data. We did not observe mobilization spike in the slice we had."
 
-Ahn's pen moved. Doctrine heard category failure becoming honesty.
+Ahn's pen moved. Doctrine heard category failure becoming precision.
 
 Sato: "Captain—if Intelligence adopts *peer assessment pending*, do you object on witness grounds?"
 
-"I don't know Intelligence labels," Calder said. "I observed structured civilization beyond Fleet survey assumptions. Labels are Fleet's injury, not mine today."
+"I don't know Intelligence labels," Calder said. "I observed structured civilization beyond Fleet survey assumptions. Classification is your queue today."
 
 Sato accepted that without frustration. Intelligence could wait for certified record. Today was credibility.
 
@@ -96,7 +96,7 @@ Sato: "Incident baseline—same grammar."
 
 Rowan: "What did you not see?"
 
-"We did not see upstream emissions during segment seven. We did not see a task-force contact pattern. We did not see empty volume."
+"We did not see upstream emissions during segment seven. We did not see a task-force contact profile. We did not see empty volume."
 
 "First contact?"
 
@@ -112,7 +112,7 @@ Rowan nodded. Lane discipline.
 
 Calder answered for another forty minutes.
 
-Industrial throughput—observed. Fuel spine duty cycles—observed. Departure egress—observed no pursuit signature; inferred ordinary traffic resumption from pattern stability, flagged.
+Industrial throughput—observed. Fuel spine duty cycles—observed. Departure egress—observed no pursuit signature; inferred ordinary traffic resumption from flow stability, flagged.
 
 Okonkwo asked about command decisions at the border.
 
@@ -194,7 +194,7 @@ Felix Ortega — communications harmonics.
 
 Ortega wore headphones around his neck like a technician's stole. He had printed harmonic strips because slates lied about color sometimes.
 
-"I logged listen watch harmonics across segment seven," he said. "School transport clustering—pattern held. Holiday congestion overlay on Tuesday rhythm—same pattern family. Authentication density up, search sweeps flat. Observed across all three."
+"I logged listen watch harmonics across segment seven," he said. "School transport clustering—timing held. Holiday congestion overlay on Tuesday rhythm—same signal family. Authentication density up, search sweeps flat. Observed across all three."
 
 He tapped a strip. "Ortega-fourteen. Timestamp matches appendix F at relay drift tolerance—Priya Nand recomputed. Park checksum crosswalk attached."
 
@@ -236,7 +236,7 @@ Park sat. Archive lane.
 
 Tomás Brenner — ship condition.
 
-Brenner had come from berth fourteen-C in yard coveralls with a mission patch on his cuff—unofficial trade, respect currency. He smelled like solvent and honest complaining.
+Brenner had come from berth fourteen-C in yard coveralls with a mission patch on his cuff—unofficial trade, respect currency. He smelled like solvent and yard complaints.
 
 "Correction thrust held. Reing 3 ugly—inside Koss's margin. Numbers held, so we held passive. Vibration shift in the monitored volume. Handshake lag climbed under hold. Departure clean—no pursuit on egress."
 
@@ -288,21 +288,15 @@ Holt: "Archive authentic. Chain intact. First contact has not occurred—technic
 
 The report became institutional fact—not belief, not inference at the institutional level. Fact of record.
 
-Proof was still not strategy.
-
-Proof was permission to proceed.
-
 Holt remained at the secondary table while the board deliberated—professional courtesy, not exile. Priya closed checksum panes one by one. Park returned to berth fourteen-C with strip notes in a folder labeled *custody complete*. Ortega's harmonic sample still sat in appendix F, unchanged by ceremony.
 
 Communications had done its job when nobody in the corridor would ever know Holt's name.
-
-That was also credibility.
 
 ---
 
 *THE DELIBERATION*
 
-Soraya Ellis watched professionals compare notes the way historians watched weather—patterns before narrative.
+Soraya Ellis watched professionals compare notes—patterns before narrative.
 
 The board did not vote. Deliberation was alignment checking—Sato's thumbnails against Ortega bands, Okoye's redline against Reyes crossings, Ahn's Edition 143 failure lines against witness grammar, Holt's timestamps against Park's strips. Mismatches were few; where witnesses inferred, annexes flagged, and cross-discipline bands held without contradiction.
 
@@ -330,8 +324,6 @@ Ellis thought of Founders' Week placards and Relay Charter glass and the Maris C
 
 Fleet trusted the report because nobody tried to become the hero.
 
-Restraint was the credibility.
-
 Okonkwo asked Ellis for Historical concurrence on the record.
 
 "Historical Office concurs on integrity and routing," Ellis said. "Historical does not certify tactical labels. Historical certifies that Fleet preserved observation bands without post-seal manipulation. Epoch contradiction documented. Public narrative revision remains internal pending Operations signature."
@@ -352,7 +344,7 @@ Ellis wrote in her historian's notebook—unofficial, personal:
 
 She would file the official Historical concurrence later.
 
-Today she understood how civilizations preserved truth before doctrine: they made heroism embarrassing.
+Today she filed witness testimony the way Historical Office always had— with timestamps, bands, and no applause in the margin.
 
 ---
 
@@ -398,10 +390,6 @@ The room was quiet the way classified rooms were quiet—not empty, sealed.
 
 "Fleet will remember this exactly as it was observed," he said.
 
-Not *as it was believed*.
-
-Not *as it was interpreted*.
-
 Observed.
 
 Mercer keyed the seal. Archive band changed from *provisional custody* to *certified strategic witness record — restricted internal*.
@@ -428,21 +416,15 @@ Thessaly remained at the cart one moment longer, hand on the binding—not senti
 
 "Observation before doctrine," she said quietly, to no one in particular.
 
-Okonkwo heard her. Said nothing. That was concurrence.
+Okonkwo heard her. Said nothing.
 
-Outside the chamber, Helion Prime corridors moved at ordinary pace—coffee stations, mission patches, shift change. Fleet had not mobilized. Fleet had not announced. Fleet had done something rarer.
-
-It had preserved truth with process disciplined enough to build on.
+Outside the chamber, Helion Prime corridors moved at ordinary pace—coffee stations, mission patches, shift change.
 
 The question was no longer *did this happen*.
 
 The question had become *what must Fleet become because it happened*.
 
 Rowan returned to the cart and looked at the sealed bindings.
-
-History would argue about doctrine soon enough.
-
-Today, history had been witnessed correctly.
 
 The sealed bindings still lacked a single agreed classification label—witness complete, intent unresolved.
 

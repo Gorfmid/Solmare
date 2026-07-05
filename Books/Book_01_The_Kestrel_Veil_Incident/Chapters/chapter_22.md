@@ -27,7 +27,7 @@ Sorin had not been on the *Kestrel Veil*. He had read the certified testimony—
 
 "We're saying stable observation beats unstable assumption," Hwang replied. "That's how we interpret it."
 
-Hwang walked the projection once—segment seven lane correlation, epoch revision without hostile shading, commuter traffic inference marked as *observed pattern, intent unresolved*—then watched patrol skids update manifests without ceremony. Illumination protocols tightened—not darkened, disciplined. Passive systems held longer dwell on structured occupancy markers. Contact rules gained a line every officer would recognize within a week:
+Hwang walked the projection once—segment seven lane correlation, epoch revision without hostile shading, commuter traffic inference marked as *observed traffic flow, intent unresolved*—then watched patrol skids update manifests without ceremony. Illumination protocols tightened—not darkened, disciplined. Passive systems held longer dwell on structured occupancy markers. Contact rules gained a line every officer would recognize within a week:
 
 *No initiation under uncertainty threshold.*
 
@@ -94,14 +94,6 @@ Intelligence was not mobilizing.
 
 Intelligence was refusing comfort.
 
-Sato watched the scenario trees rotate and thought about Calder's discharge—not as heroism, as data point. Non-trivial cost. A civilization that could hurt you without declaring you enemy.
-
-That was not hostility.
-
-That was depth.
-
-Depth was Intelligence's job.
-
 ---
 
 ***FLEET CARTOGRAPHY SERVICE — MAP ROOM FOUR***  
@@ -147,13 +139,9 @@ Ahn wrote that down verbatim. Good. Let Doctrine carry sentences Cartography sho
 
 Okoye routed the tri-layer packet to Rowan's stack with Cartography's cover line:
 
-`PARALLEL READINGS MAINTAINED — NO SINGLE DEFAULT SHADING — WITNESS GEOMETRY UNCHANGED`
+`PARALLEL READINGS MAINTAINED — NO SINGLE DEFAULT SHADING — WITNESS LANE DATA UNCHANGED`
 
 She returned to the projection.
-
-Three layers. One sky.
-
-Fleet's ability to pretend one map was the galaxy had ended.
 
 ---
 
@@ -176,7 +164,7 @@ Torres, relay auditor from the return transit, leaned over the partition. "Fring
 
 "Annoyance is cheaper than false unity," Holt said.
 
-Commander Vance called from Logistics—a voice Holt associated with fuel spines and honest frustration. "Identical bearing notices arrived with different readiness flags. Which one is Fleet?"
+Commander Vance called from Logistics—a voice Holt associated with fuel spines and blunt frustration. "Identical bearing notices arrived with different readiness flags. Which one is Fleet?"
 
 Holt was quiet one breath. The bay hummed. Somewhere upstairs Founders' Week banners came down in quarters that had already moved on.
 
@@ -188,7 +176,7 @@ Holt was quiet one breath. The bay hummed. Somewhere upstairs Founders' Week ban
 
 Vance exhaled. "Mercer's going to love this."
 
-"Mercer requested honesty," Holt said. "Honesty has queue cost."
+"Mercer requested metadata discipline," Holt said. "Discipline has queue cost."
 
 She drafted a routing note for Mercer's fork registry—*interpretation metadata must not alter checksum validation or chain custody; tagging lag to be noted, not hidden*—and flagged Rowan's stack without dramatizing the flag.
 
@@ -231,7 +219,7 @@ Doctrine depends on mission environment and department lens. Witness record rema
 
 Ahn stared at the title. "That's a menu with better manners."
 
-"That's honesty with routing tags," Mercer said.
+"That's metadata discipline with routing tags," Mercer said.
 
 Reeves rubbed her temples. "Field officers will say Fleet has no doctrine."
 
@@ -301,18 +289,6 @@ Mercer read it. "Sign?"
 He did not collapse the forks.
 
 He recognized them.
-
-No announcement.
-
-People living it called it *how we interpret it now*.
-
-The chapter ended with one Fleet and parallel readings of one border.
-
-Recognition without resolution.
-
-The consequences of interpretation had left the page.
-
-They were behaving in the world.
 
 ---
 

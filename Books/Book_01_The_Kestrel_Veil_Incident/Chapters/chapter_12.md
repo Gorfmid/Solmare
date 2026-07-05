@@ -9,9 +9,9 @@
 
 Director-General Lev Stratimirov had not seen Commander Vex in twenty-two days.
 
-The wall display still reserved a corner for trial command inset—gray-lit, steady, professional. Empty now. Suspended pending review, the paperwork said. Stratimirov did not say *punishment*. He said *process*. Process was how civilizations survived their own mistakes without mistaking embarrassment for strategy.
+The wall display still reserved a corner for trial command inset—gray-lit, steady, professional. Empty now. Suspended pending review, the paperwork said. Stratimirov did not say *punishment*. He said *process*.
 
-He removed his gloves before opening the morning intelligence packet because the room deserved the habit even when the news did not deserve the drama.
+Stratimirov opened the morning intelligence packet.
 
 Major Petrov stood at the table's far edge with a slate and the expression of a man who had found a thread and wanted to pull it until something unraveled.
 
@@ -23,7 +23,7 @@ Major Petrov stood at the table's far edge with a slate and the expression of a 
 
 Petrov transferred the overlay.
 
-Individually, each marker was nothing— a timing offset on corridor seven-alpha maintenance logs, three hundred milliseconds, inside tolerance; a passive detection at Node K-12 that resolved as calibration drift after second pass; a freight sensor at Helikon feeder reporting mass inference one percent low until reboot; a scheduling disagreement between Transportation and Border Surveillance on whether a faint return was weather or contact.
+Individually, each marker was nothing— a timing offset on corridor seven-alpha maintenance logs, three hundred milliseconds, inside tolerance; a passive detection at Node K-12 that resolved as calibration drift after second pass; a freight sensor at Helikon feeder reporting mass inference one percent low until reboot; a scheduling disagreement between Regional Transportation Directorate and Border Surveillance on whether a faint return was weather or contact.
 
 Stratimirov looked at the scatter plot.
 
@@ -79,49 +79,13 @@ Colonel Yenin from Political Liaison watched from the wall without speaking. Pol
 
 Stratimirov looked at the scatter plot again.
 
-Interesting.
+Outside the chamber, clerks moved through morning rhythm. Autumn festival banners had gone up in the lower arcade—gold thread, anticipatory.
 
-Not actionable.
-
-Not yet.
-
-Outside the chamber, clerks moved through morning rhythm. Autumn festival banners had gone up in the lower arcade—gold thread, anticipatory. A civilization preparing to celebrate while its border archives accumulated whispers.
-
-Stratimirov set his gloves beside the photograph of his daughter's graduation and returned to the day's real work—mobilization schedules that were not called mobilization, reserve manifests that were becoming routine, a trial commander's absence that was not yet a funeral.
-
-The Dominion did not panic.
-
-The Dominion compared.
-
-In the lower arcade, a vendor argued with a transit clerk about district festival stall permits. Two cadets ran for a shuttle. A maintenance worker carried a ladder through the rain screen like it was a ceremonial banner. Life continued because life was not a pause button for curiosity— it was the reason curiosity had to be done well.
-
-Stratimirov drank his tea while it was still hot.
-
-Somewhere on the wall, the empty inset where Vex should have been reminded visitors that trials had consequences even when doctrine was followed— especially when doctrine was followed.
-
-He wondered, not for the first time, whether engagement had been destruction or assumption.
-
-He did not wonder aloud.
-
-Wondering aloud was how institutions mistook fear for policy.
-
-He set the cup down and opened the next packet— mobilization schedules, reserve manifests, a Science Directorate note about cloak field profiles that used the word *promising* as if promising could pay pensions.
+Stratimirov opened the next packet beside the photograph of his daughter's graduation— mobilization schedules, reserve manifests, a Science Directorate note about cloak field profiles that used the word *promising* as if promising could pay pensions.
 
 A separate line item referenced trial command— *review ongoing, contact withheld*.
 
-Stratimirov did not circle Vex's name.
-
-He circled *withheld*.
-
-Withheld was how institutions protected themselves from stories that outran evidence. Withheld was also how good officers disappeared into process until process forgot they were people.
-
-Petrov would come back with thirty observations or he would not.
-
-Until then, the border would whisper and clerks would argue about stall permits and Volkova's mathematicians would chase variance that refused to round away and Kovat would miss dinners and file exactly.
-
-Continue collecting.
-
-Always continue collecting.
+Stratimirov circled *withheld* and sent the packet on.
 
 ---
 
@@ -129,10 +93,6 @@ Always continue collecting.
 *THE ECHO*
 
 Segment seven, day six.
-
-The corridor sounded the same.
-
-That was the problem.
 
 Felix Ortega had been on passive watch fourteen hours—headphones denting his hair, eyes red at the rims he would deny in any report. He said it first anyway—not alarm, inventory: maintenance window on seven-beta had shifted forty minutes earlier than yesterday's listen watch peak. Damon Reyes pulled lane overlays and saw passenger cluster spacing widened on secondary four—a few percent. Jun Park noted freight surge delayed one interval—autumn festival traffic or weather, unconfirmed. Ari Halden said weather relay cadence was unchanged while traffic cadence had changed.
 
@@ -146,23 +106,17 @@ Mira Thessaly joined without hurry. "Conclusion?"
 
 "Unknown."
 
-That word had become the crew's common tongue.
-
 Reyes traced transit windows. "If they're routing around something, my money's on us—and I hate that I can't disprove it yet."
 
 Tanaka from emitters: "Emitters dark. No routing correlation from our side."
 
 Hale, tactical watch: "Irrelevant is acceptable."
 
-The discussion stayed professional— possibilities weighed, not verdicts delivered. Ortega proposed sensor drift; Halden proposed infrastructure load balancing; Reyes proposed holiday congestion propagating through a network older than Fleet charts; Thessaly proposed that any civilization noticing ghost traffic would tighten lanes without announcing fear.
-
-Nobody said *they know*.
-
-Nobody said *they don't*.
+The discussion stayed professional— possibilities weighed, not verdicts delivered. Ortega proposed sensor drift; Halden proposed infrastructure load balancing; Reyes proposed holiday congestion propagating through a network older than Fleet charts; Thessaly proposed that ghost traffic would tighten lane procedure without public announcement.
 
 Calder ran the stack in order—list, weight, don't marry. Same rule as segment six.
 
-Thessaly challenged him without theater. Holiday congestion explained passenger spacing partially; maintenance backlog explained window shift partially. Ortega said listen watch showed procedural density up—that pattern doesn't match holiday. Reyes offered fiscal quarter close, audit season, someone upstream tightening belts before the harvest festival—"could be bureaucracy, could be us making them nervous, could be both."
+Thessaly challenged him without theater. Holiday congestion explained passenger spacing partially; maintenance backlog explained window shift partially. Ortega said listen watch showed procedural density up—that rhythm doesn't match holiday. Reyes offered fiscal quarter close, audit season, someone upstream tightening belts before the harvest festival—"could be bureaucracy, could be us making them nervous, could be both."
 
 Calder told them to list could-be, weight could-be, and not marry could-be. Halden pulled infrastructure overlays: relay seven-alpha showed recent handshake lag correlation with faint returns—not causal, correlated. Park: "Brenner noted Reing 3 environment load before systems saw traffic delta. Time-stamped on internal." Calder said Brenner's hunches became data when Brenner wrote them down, and Brenner, dry, said he already had.
 
@@ -176,7 +130,7 @@ Brenner on intercom reported handshake lag ticking up again—not failure, envir
 
 The *Veil* whispered.
 
-Somewhere in the corridor's routine, an echo answered— not words, not threat, only the subtle difference between a hallway empty and a hallway watched.
+Somewhere in the lane traffic's routine, an echo answered— not words, not threat, only the subtle difference between a volume empty and a volume watched.
 
 ---
 
@@ -193,9 +147,9 @@ Jasko snorted over her shoulder. "That's a rounding error wearing a uniform."
 
 "Rounding errors don't persist across three reconciliation cycles," Volkova said.
 
-She removed her gloves, poured tea, then opened the deep model.
+She poured tea and opened the deep model.
 
-The Transportation Directorate's routing mathematics were old— older than the current frontier revision codes, older than Volkova's career, built by people who believed civilization was a scheduling problem solved in advance. Inputs: mass flows, tug capacity, passenger windows, military priority penalties, maintenance closures, seasonal leave surges. Outputs: predicted congestion, predicted delay, predicted fuel burn.
+The Regional Transportation Directorate's routing mathematics were old— older than the current frontier revision codes, older than Volkova's career, built by people who believed civilization was a scheduling problem solved in advance. Inputs: mass flows, tug capacity, passenger windows, military priority penalties, maintenance closures, seasonal leave surges. Outputs: predicted congestion, predicted delay, predicted fuel burn.
 
 The model had balanced within a tenth of a percent for nine years.
 
@@ -213,7 +167,7 @@ Ensign Maret, still young enough to fear sand, hovered at Volkova's elbow. "Soft
 
 "Sensor feed corruption?"
 
-"Border nodes report clean. Maintenance logs report clean. Intelligence reports—" She stopped. She did not have clearance to finish that sentence in front of Maret. She finished it internally: *report inconsistencies too small to action.* "—are not my lane."
+"Border nodes report clean. Maintenance logs report clean. Intelligence Directorate reports—" She stopped. She did not have clearance to finish that sentence in front of Maret. She finished it internally: *report inconsistencies too small to action.* "—are not my lane."
 
 Maret bit her lip. "Should we file?"
 
@@ -231,7 +185,7 @@ Harvest festival congestion explained part. Military priority on nine-alpha expl
 
 A slice remained.
 
-A slice that looked, to Volkova's tired eyes, like the corridor itself behaving as if an extra variable had entered the equation— not a ship announced, not a lane closed, only the faint statistical fingerprint of something moving where the model assumed stillness.
+A slice that looked, to Volkova's tired eyes, like the lane network itself behaving as if an extra variable had entered the equation— not a ship announced, not a lane closed, only the faint statistical fingerprint of something moving where the model assumed stillness.
 
 Not enough to report.
 
@@ -257,7 +211,7 @@ Dusan returned from Helikon leave with depot-chair stories and a sunburn; she ro
 
 The Dominion's mornings continued— coffee too strong, slates charged, grandmothers missing parades if planners failed.
 
-Volkova pulled her gloves on and kept the civilization moving.
+Volkova signed the variance note and returned to the board.
 
 Jasko passed her desk with a stack of forms and a joke about grandmothers that she ignored with affectionate professionalism. The corridor table updated— another passenger hold, another penalty documented, another morning where nothing was on fire and the numbers still had to close.
 
@@ -274,13 +228,9 @@ Closer to one.
 
 Ortega listened because looking had stopped being enough on day three and became religion on day six.
 
-Passive six percent. Headphones. Hand on gain. Calder's *observe* sitting in his chest like a second heartbeat.
+Passive six percent. Headphones. Hand on gain. Calder's *observe* order holding.
 
-The corridor spoke in procedure.
-
-That was what he had learned to hear— not language, not Fleet format, not anything translation software would touch without keys they did not have and could not request without transmitting.
-
-Rhythm.
+The lane traffic spoke in procedure.
 
 Yesterday's listen watch had catalogued shift change, freight surge, maintenance banter, school transport clustering, weather relay cadence, the tired patience of controllers who expected tomorrow.
 
@@ -322,7 +272,7 @@ The way institutions tightened when curiosity exceeded comfort but had not yet e
 
 He kept examples—professionals persuaded captains with specifics, not speeches:
 
-— Routing update on seven-beta repeated verification burst twice before accept.
+— Transit Control update on seven-beta repeated verification burst twice before accept.
 
 — Border-adjacent maintenance channel added acknowledgment chain not present in prior listen windows.
 
@@ -344,7 +294,7 @@ Just slightly more certainty demanded from the dark.
 
 Reyes was quiet a beat. "Small comfort either way—we're still in the crossing window."
 
-In the static, a controller repeated a routing query— twice, then a third time with a verification burst that sounded like bureaucracy putting on gloves.
+In the static, a controller repeated a routing query— twice, then a third time with a verification burst before accept.
 
 Ortega thought of Volkova without knowing her name— planners rerouting freight, engineers arguing over crane certification.
 
@@ -360,7 +310,7 @@ Pause.
 
 Ortega put the headphone back.
 
-The corridor whispered.
+The transit band whispered.
 
 The whispers had begun to sound like questions.
 
@@ -371,8 +321,6 @@ The whispers had begun to sound like questions.
 
 The review was routine.
 
-That was why it mattered.
-
 Warrant Master Selim had called a seven-day passive contact comparison because comparisons were what K-17 did when the universe offered faint returns and the Directorate preferred patterns to adjectives.
 
 Daria Kovat ran the overlay in the commons room— coffee too bitter, crossword abandoned, civic festival banners visible through the viewport on the lower dock arm. Nine days to the parade now if rotation held. Nika had sent a second message about wool coats. Kovat had answered *approved, delay probable* and promised dinner.
@@ -381,9 +329,9 @@ Dinner was in twenty minutes.
 
 The review ran long.
 
-Operators pulled passive contacts from Nodes K-12, K-14, K-17, K-19— unrelated stations, unrelated crews, unrelated noise floors. Most ghosts dissolved on second pass— calibration, debris, freight echo, the honest lie of a sensor doing its best.
+Operators pulled passive contacts from Nodes K-12, K-14, K-17, K-19— unrelated stations, unrelated crews, unrelated noise floors. Most ghosts dissolved on second pass— calibration, debris, freight echo, the ordinary lie of a sensor doing its best.
 
-Operator Henn from K-14 leaned into the holo. "We had a whisper on gamma that ate itself after reboot."
+Operator Henn from K-14 leaned into the holo. "We had a whisper on gamma that cleared after reboot."
 
 Operator Tas from K-12: "Same on our side— twice, gone by third sweep."
 
@@ -393,7 +341,7 @@ Selim pointed at the cluster. "There."
 
 Kovat did not sit straighter. She followed procedure.
 
-"Repeat contact profile," she said. "Passive only. Low mass inference. Whisper-class fraction inferred. Bearing drift within corridor current. Persists across—" She counted. "—four comparison windows. Five, if you include Sector Nine Transportation's unexplained variance flag forwarded this morning."
+"Repeat contact profile," she said. "Passive only. Low mass inference. Whisper-class fraction inferred. Bearing within established route current. Persists across—" She counted. "—four comparison windows. Five, if you include Regional Transportation Directorate's unexplained variance flag forwarded this morning."
 
 Selim said, "Equipment?"
 
@@ -411,7 +359,7 @@ Kovat knew the shape of the word anyway.
 
 She said, "Continue observation."
 
-Selim nodded. "File exactly. No adjectives. Date the comparison. Route copy to Sector Nine Transportation for variance correlation— Volkova's office flagged similar imbalance. Might be nothing."
+Selim nodded. "File exactly. No adjectives. Date the comparison. Route copy to Transportation for variance correlation— Volkova's office flagged similar imbalance. Might be nothing."
 
 "Might," Kovat said.
 
@@ -427,19 +375,7 @@ Her slate chimed as she stood— Nika, dinner cooling, *are you coming?*
 
 Kovat typed: *Late. Save portion. Love.*
 
-She thought of Nika rehearsing district festival songs with Teacher Marin telling children perseverance was not a volume knob. Small life continuing while watchers compared ghosts.
-
-Small cost.
-
-Very human.
-
-Duty was not a speech.
-
-Duty was missing dinner and still filing exactly.
-
-She pulled her gloves on for the walk to the transit sled because habit crossed from profession into life the way cold crossed from installation into bone.
-
-On the sled she watched autumn festival banners pass and thought not *enemy* but *unclassified*— the professional's prayer when the universe refused to be simple.
+She walked to the transit sled.
 
 Somewhere in seven-alpha, something kept not disappearing.
 
@@ -466,17 +402,11 @@ Traffic deltas— passenger spacing widened, freight surge delayed, maintenance 
 
 Communications deltas— authentication density up on border-adjacent channels, procedural verification bursts increased, emergency channel discipline tightened.
 
-Timing deltas— corridor behavior adjusting in millimeters across days, not hours.
+Timing deltas— lane behavior adjusting in millimeters across days, not hours.
 
 Maintenance deltas— listen watch correlations suggesting networks responding to unresolved returns without announcing alarm.
 
-Kovat's world existed on the plot as absence of names— only the statistical shadow of a civilization beginning to compare whispers.
-
 Calder stood at the rail and did not look for weapons.
-
-Weapons were the old grammar.
-
-This was the new one— adaptation without declaration.
 
 "They're adapting," he said.
 
@@ -502,7 +432,7 @@ He said, "But I don't think it's coincidence anymore."
 
 Thessaly wrote the sentence down.
 
-Reyes stared at the plot— transit windows, lane corrections, ghosts that commuted and corridors that answered.
+Reyes stared at the plot— transit windows, lane corrections, ghosts that commuted and routes that answered.
 
 "If they're adapting," he said slowly, "they don't know to what yet. Could be drift. Could be fraud. Could be us."
 
@@ -516,9 +446,7 @@ Tanaka, quiet: "We are still dark."
 
 "Stay dark," Calder said.
 
-Thessaly did not argue. She challenged assumptions now without needing victory— a different kind of senior officer than the one who had boarded at Helion Prime believing Fleet charts were manners the universe agreed to observe.
-
-Calder had changed too. Not louder. More patient with incomplete tiles. A captain who still gave orders; a strategist who no longer mistook orders for understanding.
+Thessaly did not argue. She challenged assumptions now without needing victory.
 
 Halden offered no conclusion on intent. Calder agreed—and drew a conclusion on change instead: increase caution, continue passive, continue mission, do not become the proof they act on.
 
@@ -528,41 +456,17 @@ Hale: "Rotation limit sacred."
 
 Lena Walsh on the periphery redirected a light-check flag with *overlay meeting in progress* and did not enter the room. Some officers kept captains alive by knowing when not to be visible.
 
-Brenner on intercom, almost gentle for Brenner: "Reing 3 steady. Hull's picking up corridor load before the systems do—metal hears it first."
+Brenner on intercom, almost gentle for Brenner: "Reing 3 steady. Hull's picking up lane load before the systems do—metal hears it first."
 
 Calder acknowledged.
 
-Kevin passed the hatch with trays. Marcus Hale took one without comment—destroyer track officers learned to eat when food appeared because rotation did not pause for appetite. Kevin left the rest anyway. The ship kept whispering through patched Reing and handshake lag and the small honest tremor of metal that had learned border vibration the way Brenner had learned Calder's silences.
+Kevin passed the hatch with trays. Marcus Hale took one without comment—destroyer track officers learned to eat when food appeared because rotation did not pause for appetite. Kevin left the rest anyway. The ship kept whispering through patched Reing and handshake lag and the small tremor of metal that had learned border vibration the way Brenner had learned Calder's silences.
 
 Orders unchanged in letter.
 
 Changed in weight.
 
-Calder thought of empty trial insets he could not see and variance flags he could not name and warrant officers eating cold dinner because reviews ran long. Two systems adjusting in millimeters— not toward war yet, toward questions.
-
 The *Kestrel Veil* moved deeper through seven-alpha— damaged, professional, a ghost in a hallway that had begun, very quietly, to whisper back.
-
-Not discovery.
-
-Suspicion.
-
-Two civilizations still doing their jobs.
-
-The difference was that the questions were becoming specific.
-
-They were starting to notice.
-
-Not each other.
-
-Not yet.
-
-But the shape of something that did not fit— and the professionals on both sides doing what competent people did when incomplete information stopped being boring.
-
-They compared.
-
-They waited.
-
-They continued.
 
 Petrov's board still held marker nineteen without a name—low confidence, persistent across three comparison passes, not yet elevated to contact.
 

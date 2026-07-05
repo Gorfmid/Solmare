@@ -34,7 +34,7 @@ Halden did not look up from tactical watch until she had something to say.
 
 "Routine patrol corridor confirmed," Reyes said. "Same sweep Dennett ran last cycle. Drift vector four—point-zero-three port."
 
-"Fleet will love that," Halden muttered. "Picket geometry on that advisory—watch the spacing."
+"Fleet will love that," Halden muttered. "Picket spacing on that advisory—watch the intervals."
 
 "Perfect repetition's still repetition," Reyes said. "Fleet doesn't care if it bores you."
 
@@ -58,7 +58,7 @@ Reyes: "Navigation grid re-synced. No trajectory deviation."
 
 Halden looked up. "Tactical didn't notice anything because nothing happened."
 
-"Does that hold if contact geometry shifts?" Calder asked.
+"Does that hold if contact bearing shifts?" Calder asked.
 
 Halden's mouth twitched. "That's the goal. Allegedly."
 

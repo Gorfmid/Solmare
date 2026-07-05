@@ -4,7 +4,7 @@
 
 The *Kestrel Veil* matched drift into Kestran VI-Gamma watchpost berthing with visible effort—correction thrusters only, main engines offline.
 
-Damon Reyes made three correction burns that Yuki Tanaka filed as *outside tolerance* and Reyes called *honest drift math*. The scout listed two degrees to port. The hull creaked on each burn.
+Damon Reyes made three correction burns that Yuki Tanaka filed as *outside tolerance* and Reyes called *straight correction math*. The scout listed two degrees to port. The hull creaked on each burn.
 
 On the command deck, lighting ran at day-cycle—someone in environmental had won that fight—but Reing 3 still flickered when the scrubbers overworked, and the deck vibration under Calder's boots was wrong in a way his body had learned faster than any instrument.
 

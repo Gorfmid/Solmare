@@ -9,7 +9,7 @@
 
 Rain had moved off the arcade glass, but the autumn festival had left gold thread in the banners and music in the lower plaza at reduced volume—the civilization exhaling after celebration it had not asked the border to approve.
 
-Director-General Lev Stratimirov removed his gloves before opening the file.
+Director-General Lev Stratimirov opened the file.
 
 Thirty-two independent observations.
 
@@ -17,7 +17,7 @@ Still thirty-two.
 
 Major Petrov stood at the table's far edge with tea gone cold and the expression of a man who had hoped thirty-three would change the mathematics of permission.
 
-"Status summary," Petrov said. "Passive archives unchanged. Border nodes report routine. Transportation—corridor normalization holding through holiday overlays. Science Directorate—cloak bench stability improved; field trial timeline still withheld. Warrant Kovat—seven-alpha persistent return filed again. Low confidence. She will not retract."
+"Status summary," Petrov said. "Passive archives unchanged. Border nodes report routine. Regional Transportation Directorate—corridor normalization holding through holiday overlays. Science Directorate—cloak bench stability improved; field trial timeline still withheld. Warrant Kovat—seven-alpha persistent return filed again. Low confidence. She will not retract."
 
 Stratimirov read the scatter plot without speaking.
 
@@ -45,25 +45,15 @@ Colonel Yenin from Political Liaison looked up from her slate. "Political will r
 
 "Political will read what we tell Political," Stratimirov said, not unkind. "Numbers. Post-festival residual traffic models. Normalization language. No drama."
 
-Petrov: "The pattern didn't vanish."
+Petrov: "The variance didn't vanish."
 
-"No," Stratimirov said. "The pattern stopped buying decisions at observation prices."
-
-He thought of Vex at Kessik—not punished, not rewarded, assigned to watch the way watch officers watched when proof was expensive. He thought of festival crowds thinning in the arcade below and the ordinary arrogance of a civilization that believed its holidays were the loudest thing in the sector.
-
-Fleet might be doing anything beyond the border.
-
-The directorate did not know.
-
-That ignorance was not incompetence. It was distance—passive observation could not read another institution's ink.
+"No," Stratimirov said. "The variance stopped buying decisions at observation prices."
 
 Yenin: "Shall I prepare Political Liaison language?"
 
 "Prepare normalization summary," Stratimirov said. "Post-festival residual traffic. Border routine. Standing Observation is not closure. It is maturity."
 
-Petrov signed the status change because profession required it. Disappointment lived in his shoulders, not his voice.
-
-He signed the continuation order—passive coverage, comparison discipline, Kovat's filings accepted without escalation.
+Petrov signed the status change and the continuation order—passive coverage, comparison discipline, Kovat's filings accepted without escalation.
 
 Stratimirov set the folder in the standing archive slot.
 
@@ -71,23 +61,7 @@ The label caught the light when the clerk updated the system:
 
 `ACTIVE INVESTIGATION → STANDING OBSERVATION`
 
-No alarm tone. No task force clock.
-
-Petrov watched the slot accept the folder. "We will regret patience."
-
-Stratimirov poured fresh tea. Too strong. Correct. "We would regret illumination without proof more."
-
-The trial command inset on the wall stayed empty.
-
-Warrant Kovat would file seven-alpha again on the next shift because persistence was her profession.
-
-Pavel Sorokin would be signing welds that outlived shifts at Kessik-Outer.
-
-The Dominion did not know Fleet had certified a witness record.
-
-The Dominion knew thirty-two points and a quieter plot and the ordinary volume of a civilization returning to work.
-
-History continued without asking the directorate for permission.
+Stratimirov poured fresh tea and opened the next packet on his rail.
 
 ---
 
@@ -96,7 +70,7 @@ History continued without asking the directorate for permission.
 
 Nika hated sitting still but loved the window when Teacher Marin let discussion replace copying.
 
-The harvest festival had left paper stars on the ceiling and chalk dust on Marin's sleeves. Old stone held the classroom the way old stone held the city—without comment, with patience. Rain light moved across the slate wall where a corridor map from three border revisions ago still hung, outdated and therefore honest.
+The harvest festival had left paper stars on the ceiling and chalk dust on Marin's sleeves. Old stone held the classroom the way old stone held the city—without comment, with patience. Rain light moved across the slate wall where a lane map from three border revisions ago still hung, outdated and therefore useful.
 
 Warrant Officer Kovat had walked Nika to school that morning because shift change had aligned for once. They had not talked about seven-alpha. They had talked about wool coat approval and whether chorus practice counted as history homework. Nika had filed her mother's tired eyes under *busy*, not *afraid*, because eleven was old enough to sort some things and young enough to be wrong.
 
@@ -136,14 +110,6 @@ School dismissed into corridor noise and wool coat arguments and sweets bought w
 
 Nika walked home through civic festival bunting still half-removed, repeating Marin's relay story to herself because stories stuck better when you carried them like homework.
 
-The Dominion's future walked home with history in her throat and no reason to fear the border yet.
-
-Nobody in the classroom knew a Fleet admiral had signed a witness record.
-
-Nobody needed to.
-
-Preparation was already being taught gently—not propaganda, repetition.
-
 ---
 
 ***THE DOMINION — KESSIK-OUTER ORBITAL YARD***  
@@ -169,7 +135,7 @@ She did. Nodded. "Petran says the bay remembers bad signatures longer than bad w
 
 "Petran is dramatic," Sorokin said. "Not wrong."
 
-Slip Seven's schedule block showed inspection density higher than commercial norms—berths reserved, throughput ordinary-high, the yard's version of a crowded Tuesday. Sorokin had learned not to read directorate files. He read weld seams and crane calendars and the faces of people who needed Thursday dinner to happen anyway.
+Slip Seven's schedule block showed inspection density higher than commercial norms—berths reserved, throughput elevated, cranes booked through Thursday dinner.
 
 Mara had texted twice about grandmother's birthday candles. Sorokin had replied *late* both times because apology did not certify cranes.
 
@@ -179,7 +145,7 @@ Sorokin did not call it war.
 
 He called it another difficult quarter—the kind where Thursday dinner with Mara and Grandmother Ilya moved if shifts moved, where Darya needed examination fees and Mikael needed shoes that would survive festival mud, where flowers for the table were a line item next to lattice requisitions.
 
-Lunch was stew in the bay cafeteria and quiet complaints about shift overlap and transit delays from harvest festival traffic bleeding into freight windows.
+Lunch was stew in the bay cafeteria and quiet complaints about shift overlap and harvest festival traffic congesting freight windows.
 
 Petran had grandmother's proverb ready before Sorokin sat down. "My grandmother used to say the weld outlives the shift. She did not say the shift outlives the schedule. Fix the crane."
 
@@ -187,15 +153,11 @@ Petran had grandmother's proverb ready before Sorokin sat down. "My grandmother 
 
 They ate without naming directorate files. They ate without naming hull classes. They talked about Lina's certification exam and whether the cafeteria would ever learn salt and Mikael's shoes and the price of lattice this quarter—ordinary arithmetic inside elevated production.
 
-Hints of fleet production lived in the schedule density—in berths reserved without public announcement, in inspections that ran longer than ordinary commercial work, in Sorokin's habit of signing welds that outlived shifts because habits outlived headlines.
+Hints of fleet production lived in the schedule density—in berths reserved without public announcement, in inspections that ran longer than ordinary commercial work, in Sorokin's habit of signing welds to tolerance before the crane moved.
 
-A planner's slate on the wall showed normalization language Sorokin did not read. Transport said corridors were calm. The bay said calm was what happened when everyone showed up tired on time.
+A planner's slate on the wall showed normalization language Sorokin did not read. Transportation said corridors were calm.
 
-Ordinary citizens lived inside the schedule.
-
-History lived above it.
-
-Sorokin went back to Slip Seven after lunch because the quarter did not care what the directorate called a file. Mara texted *flowers or candles?* He replied *both if shift ends*. That was the war he knew.
+Sorokin went back to Slip Seven after lunch. Mara texted *flowers or candles?* He replied *both if shift ends*.
 
 ---
 
@@ -226,29 +188,13 @@ She did not replace the old map with anger.
 
 She placed the new notation beside it—*structured occupancy observed; epoch revision internal pending*—and wrote a curator's note for Founders' Week exhibits:
 
-*Do not erase prior belief. Show revision. Revision is Fleet honesty.*
+*Do not erase prior belief. Show revision. Revision is Fleet procedure.*
 
-History should remember what Fleet once believed.
+Ellis paused before closing the archive drawer.
 
-Not hide it.
-
-Ellis paused before closing the archive drawer—the pause of someone who understood that children on Helion Prime would someday learn Fleet had shaded empty what was not empty, and the lesson would land better if the old slide still existed to be compared.
-
-Institutional memory was not nostalgia.
-
-It was responsibility with shelf life.
-
-Ellis thought of Founders' Week tours—children memorizing *many worlds, one law of passage* while standing in front of a map that had shaded empty a corridor busy before their grandparents were born. The new exhibit would hurt gently. That was her job—not to comfort Fleet, to keep it honest across time.
-
-She photographed the old slide before archiving—glass glare, epoch watermark, the beautiful confidence of a young chart. The photograph would live beside the revision in the internal band. Future archivists would thank her or hate her. Both were professional outcomes.
+She photographed the old slide before archiving—glass glare, epoch watermark, the confidence of a young chart. The photograph would live beside the revision in the internal band.
 
 She returned the Relay Charter placard to its case for tomorrow's school tour.
-
-Many worlds, one law of passage.
-
-The law had not changed today.
-
-Fleet's map of who passed first had.
 
 ---
 
@@ -322,77 +268,19 @@ Old map on the left—epoch 143 public historical, seven-alpha shaded provisiona
 
 New overlay on the right—Okoye's redline, Ellis's archive citation, witness record band across the bottom.
 
-Neither felt wrong.
-
-One was simply larger.
-
-Rowan had seen maps change before—after incidents, after survey epochs, after frontier volumes Founders' Week had edited into buffer language. Those changes had felt like wounds closing. This felt like waking in a room he had always lived in and noticing a door he had assumed was wall.
-
 He did not stand at the window performing solitude. He sat at the desk where Mercer's memorandum had arrived an hour ago and Ellis's curator note had arrived with it.
-
-He thought of Calder saying *I don't know* in the witness chair without apology. Of Holt's chain validation. Of Brenner's *patched, not repaired*. Of a scout that had come home carrying Tuesdays Fleet had called empty. Of Nika—whom he would never meet—learning preparation in a classroom he would never see. Of Sorokin certifying seams while a file slot read Standing Observation on the other side of a border that was knowledge, not distance.
-
-War was not inevitable because maps grew.
-
-War was a decision institutions made after they lied long enough or learned soon enough.
-
-Fleet was learning.
-
-Observation Protocol for Structured Civilizations.
-
-Survey completes notation; absence on charts is not absence in fact.
 
 He opened Edition 143—the bound primer from his own first year, spine cracked, margin notes from a cadet who had believed exploration stabilized things.
 
 On page twelve, his own young handwriting in pencil: *someone has to go first*.
 
-He did not cross out the old sentences.
-
 He wrote one note to himself on a strip of paper and placed it inside the manual before closing it:
 
 *The frontier did not move. Our understanding did.*
 
-Not strategy.
-
-Not orders.
-
-A private sentence until it became public doctrine.
-
 Rowan turned off the office light.
 
 In the corridor, a junior Doctrine intern carried Mercer's memorandum to the overnight queue—clumsy title visible on the cover, first sentence already copied onto a whiteboard somewhere Ellis would not approve of and Okoye would.
-
-Outside, Fleet continued—coffee stations cleaned, archive shelves locked, witness record sealed in a band no parade would announce.
-
-Somewhere in Communications, Holt's integrity flag sat archived beside validation data that would outlive every officer in the building.
-
-Somewhere in berth fourteen-C, Brenner listened to a patched hull breathe.
-
-Inside the Dominion, a file slot read Standing Observation.
-
-Inside a classroom, Nika rehearsed chorus lines for no audience.
-
-Inside Kessik-Outer, Sorokin signed another weld that would outlive the quarter.
-
-Two civilizations evolved independently—one having changed its language and certified its witnesses, one having closed an investigation without closing its eyes.
-
-Fleet had changed.
-
-The Dominion had not.
-
-Not because it could not.
-
-Because it did not yet know it needed to.
-
-That asymmetry was the long shadow—history lengthening across ordinary Tuesdays before anyone on either side had name enough to fear the other.
-
-The chapter ended in dark office and ordinary lights elsewhere.
-
-Neither civilization existed solely for the plot.
-
-Both existed.
-
-For now, that was the tension—and the hope.
 
 ---
 

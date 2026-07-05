@@ -50,7 +50,7 @@ Thessaly's eyes shifted to Calder. Not a question. Availability.
 
 Calder stepped to the holodisplay. "Show me what we have."
 
-Ortega pushed his fragment—a thin wedge of return on the passive overlay, no closure, no velocity solution. Halden layered tactical ranging: intermittent pulses, three of seven expected for a clean lock. Reyes added navigation shading: a corridor of shadow along the bearing where occlusion layers overlapped on the current chart.
+Ortega pushed his fragment—a thin wedge of return on the passive overlay, no closure, no velocity solution. Halden layered tactical ranging: intermittent pulses, three of seven expected for a clean lock. Reyes added navigation shading: a band of shadow along the bearing where occlusion layers overlapped on the current chart.
 
 Park, still on primary comms: "No transponder. No Fleet handshake. Comms reflection on that bearing degraded—short burst, low coherence. Could be hull. Could be ion wash."
 
@@ -76,13 +76,13 @@ Ortega checked array calibration—drift within spec. "Array is fine," he said. 
 
 Halden adjusted ranging sensitivity down two steps, then back up one—finding the edge where noise stopped and signal might start. Reyes trimmed the occlusion overlay by a fraction of a degree where margin marks disagreed with Fleet's published boundary. Tanaka continued arc nine staging without pause; Walsh passed through the aft corridor on stores count; Cole kept secondary comms timed against relay buffer windows. The contact held everyone's attention, but the Veil continued doing everything else it was built to do
 
-Four extended passes followed—fragment, closer lines, broken pattern, staggered returns. Brenner cross-checked engineering passive between second and third: feed stable when Ortega saw the line, stable when Ortega saw absence.
+Four extended passes followed—fragment, closer lines, broken coherence, staggered returns. Brenner cross-checked engineering passive between second and third: feed stable when Ortega saw the line, stable when Ortega saw absence.
 
 Calder watched each pass add a line to Ortega's columns without adding a track. Attempt, fragment, loss, adjust, attempt again. Iteration, not failure.
 
 On the fifth extended pass—twelve minutes after the first fragment—Ortega got two lines that held long enough for Halden to call formation.
 
-Reyes pulled the chart's stellar occlusion boundary forward and overlaid it on Halden's return pattern. The unstable line sat inside the overlap zone—where passive and tactical both lost confidence for different reasons.
+Reyes pulled the chart's stellar occlusion boundary forward and overlaid it on Halden's passive trace. The unstable line sat inside the overlap zone—where passive and tactical both lost confidence for different reasons.
 
 "I'm getting three separate solutions for the sector from three different systems," Reyes said. "All of them look correct."
 
@@ -104,7 +104,7 @@ Park ran a comms sweep on the bearing—narrow band, low power, listening only. 
 
 "Hull bounce?" Cole asked.
 
-"Maybe," Park said. "Coherence pattern doesn't match debris. Too clean on the rise, too fast on the drop."
+"Maybe," Park said. "Rise profile doesn't match debris. Too clean on the rise, too fast on the drop."
 
 "Optical?" Calder asked.
 
@@ -154,7 +154,7 @@ Calder leaned forward without meaning to.
 
 The lock degraded.
 
-Ortega's second line thinned. Halden lost two ranging pulses mid-sequence. Hale's optical feed showed nothing new. The unstable return pattern came back.
+Ortega's second line thinned. Halden lost two ranging pulses mid-sequence. Hale's optical feed showed nothing new. The unstable return profile came back.
 
 "Lock lost," Ortega said. "Masking resumed. Same bearing."
 
@@ -164,9 +164,9 @@ Ortega's second line thinned. Halden lost two ranging pulses mid-sequence. Hale'
 
 "What are we actually tracking?" Hale asked. Nobody had a category for it.
 
-Reyes filed the interval—formation time, hold duration, degradation pattern. Halden ran the ranging sequence again with the prior parameters saved for comparison. No second lock on that bearing setup.
+Reyes filed the interval—formation time, hold duration, degradation curve. Halden ran the ranging sequence again with the prior parameters saved for comparison. No second lock on that bearing setup.
 
-Calder marked the pattern: close, then gone. Not failure. Cycle.
+Calder marked the cycle: close, then gone. Not failure. Repetition.
 
 They did not stop. Partial returns were not permission to freeze the deck.
 
@@ -198,7 +198,7 @@ Re-acquisition brought staggered gifts—a comms reflection without passive, the
 
 Halden nodded once. The crew named what they had, not what it meant.
 
-Reyes: "Coverage gap between arc twelve and the chart's occlusion zone. Keyhole geometry."
+Reyes: "Coverage gap between arc twelve and the chart's occlusion zone. Keyhole spacing."
 
 Ortega: "Tertiary offset still wrong. This bearing is not tertiary noise."
 
@@ -234,7 +234,7 @@ Thessaly joined Calder at the display margin—close enough to see, not close en
 
 She left before he could answer.
 
-Calder marked the pattern operationally: tracking effort correlated with reposition or loss—not fleeing, adjusting visibility relative to our patrol position. Not proof of intent. Pattern sufficient for caution.
+Calder noted it operationally: tracking effort correlated with reposition or loss—not fleeing, adjusting visibility relative to our patrol position. Not proof of intent. Recurrence sufficient for caution.
 
 Park transmitted the late-cycle mapping stub—mandate data only, contact supplemental kept apart. The patrol clock advanced. The bearing stayed hot.
 
@@ -246,7 +246,7 @@ At Mission +05:00 of the mapping sweep, the bearing shifted again—two degrees 
 
 Halden: "Masking holding. Drift is real or we're moving the keyhole."
 
-Calder watched Ortega's columns align three times in the last hour. Not a track. A pattern worth tightening on.
+Calder watched Ortega's columns align three times in the last hour. Not a track. A recurrence worth tightening on.
 
 Two more relock cycles through Mission +05:20 bought twelve to fourteen seconds before loss—same outcome each time.
 
@@ -276,7 +276,7 @@ Two minutes passed the way two minutes passed on this deck—filled with small c
 
 Reyes brought the ship through three degrees of the arc. Ortega got fragments, then a partial lock eleven seconds before loss.
 
-"Same pattern," Halden said. "Better formation. Same drop."
+"Same formation profile," Halden said. "Better formation. Same drop."
 
 Calder noted it. Tracking adjustment had improved inputs without changing the cycle. Worth knowing before authorizing probe.
 
@@ -372,7 +372,7 @@ Silence on the engineering channel. Then Koss: "Probe lost. No debris signature.
 
 "No second probe," Calder said. "Hold composite on ship arrays. Continue deflection schedule."
 
-For the next eight minutes the ship arrays ran convergence without the probe—partial locks reaching nineteen and twenty-four seconds, loss pattern unchanged.
+For the next eight minutes the ship arrays ran convergence without the probe—partial locks reaching nineteen and twenty-four seconds, same loss timing as before.
 
 Thessaly did not argue for a second probe either. She moved to the logging station and began staging the probe-loss packet—telemetry, passive fragments, cut timestamp, segregated attachments. Park opened a buffer shelf for it. Procedure continuing because procedure was how the crew kept moving when outcomes were incomplete.
 

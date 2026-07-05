@@ -9,7 +9,7 @@
 
 Morning arrived with rain on the arcade glass and autumn festival banners finally taut— gold thread, music from the lower plaza, the ordinary volume of a civilization celebrating itself without asking permission from the border.
 
-Director-General Lev Stratimirov had removed his gloves before opening Major Petrov's packet.
+Director-General Lev Stratimirov opened Major Petrov's packet.
 
 Thirty-two independent observations.
 
@@ -17,13 +17,13 @@ Not thirty-one.
 
 Petrov stood at the table's far edge with tea untouched and the controlled posture of a man presenting numbers that would not become orders yet.
 
-"Routine summary," he said, because routine was how you filed the extraordinary until it earned a name. "Border nodes, maintenance corridors, passive archives. Transportation reports corridor normalization on seven-alpha and nine-beta. Border stations report nothing extraordinary. Science Directorate reports improved cloak stability in marginal hold— bench plus margin approaching satisfaction, field trial timeline still withheld."
+"Routine summary," he said, because routine was how you filed the extraordinary until it earned a name. "Border nodes, maintenance corridors, passive archives. Regional Transportation Directorate reports corridor normalization on seven-alpha and nine-beta. Border stations report nothing extraordinary. Science Directorate reports improved cloak stability in marginal hold— bench plus margin approaching satisfaction, field trial timeline still withheld."
 
 Stratimirov studied the overlay.
 
 The thirty-second marker was a maintenance window shift on Kessik feeder two— inside tolerance alone, persistent only in company with the other thirty-one. He did not ask Petrov to read the list again. They had both memorized it.
 
-Colonel Yenin from Political Liaison read the Transportation summary. "Normalization reads like holiday congestion models. Harvest festival overlays applied. Traffic increased. Anomalies decreased in some bands."
+Colonel Yenin from Political Liaison read the Regional Transportation Directorate summary. "Normalization reads like holiday congestion models. Harvest festival overlays applied. Traffic increased. Anomalies decreased in some bands."
 
 "Increased traffic hides small signals," Petrov said. "Also decreases opportunity for consistent observation windows."
 
@@ -35,7 +35,7 @@ Petrov did not reach for drama. "Still no proof. Still persistent trespass hypot
 
 "Except," Stratimirov said.
 
-"Except the pattern, sir."
+"Except the variance trend, sir."
 
 Silence.
 
@@ -71,37 +71,17 @@ Petrov nodded. "Yes, sir."
 
 Stratimirov closed the packet.
 
-The trial command inset on the wall stayed empty.
-
 Commander Vex was at Kessik observation center, not in disgrace, not in command— judgment assigned where judgment belonged.
-
-Irina Volkova would be routing autumn festival delays in Transportation, filing penalties, keeping civilization from tripping over its own feet.
 
 Pavel Sorokin would be signing welds that outlived shifts at Kessik-Outer.
 
-The Dominion would continue— yards, gardens, memorial stone, academy classrooms— whether the scatter plot ever earned a name.
-
 Science Directorate would call when the field must maintain.
 
-Transportation would file variance until the harvest festival made math nervous.
+Regional Transportation Directorate would file variance until the harvest festival made math nervous.
 
 Border warrants would file exactly.
 
-History would eventually answer what evidence could not.
-
-Stratimirov pulled his gloves on.
-
-Mature intelligence leadership looked like this— patience at the edge of certainty, restraint chosen over appetite, comparison preferred to spectacle.
-
-Outside, the district festival began.
-
-Inside, watching continued.
-
-Nothing had been proven.
-
-Nothing had been dismissed.
-
-That was also a kind of answer.
+Stratimirov opened the next packet on his rail— Political Liaison normalization summary, post-festival residual traffic models.
 
 ---
 
@@ -118,39 +98,29 @@ Damon Reyes updated navigation— home vectors, conservative burn, crossing wind
 
 Calder Venn stood at the rail and watched familiar routes begin to disappear behind the *Kestrel Veil*.
 
-Not dramatically.
-
-Professionally.
-
 A freight spine they had used for cover.
 
 A yard thermal bloom they had dated across years.
 
 A commuter window they had learned to hear as Tuesday.
 
-The Dominion had become familiar.
-
-That was the strangest intelligence outcome of all.
-
 Tomás Brenner had the helm.
 
 He did not speak often during departure. Pilots who spoke often during departure disturbed traffic and traffic was the only diplomacy a damaged scout on correction thrusters had left.
 
-Brenner knew exactly how to move through corridors without disturbing patterns— sliding into traffic gaps, respecting maintenance sled rhythm, treating civilian haulers as weather rather than obstacles.
+Brenner knew exactly how to move through corridors without disturbing patterns— sliding into traffic gaps, respecting maintenance sled rhythm, treating civilian haulers as obstacles to be routed around, not targets.
 
-The ship felt strangely reluctant.
-
-Calder felt it too— not in engines, in crew.
+The ship felt reluctant.
 
 Mira Thessaly on aft plot, slate closed for once, eyes on the disappearing lane markers; Jun Park archiving buffers in triple redundancy because Park did not trust luck; Marcus Hale on rotation without jokes.
 
 The *Kestrel* had entered Dominion space as explorers— damaged, professional, believing empty charts.
 
-She left as witnesses.
+She left with segment seven on the buffers.
 
 Tomás Brenner had once told Calder that ships remembered corridors in their bones if you asked politely enough.
 
-Today the old girl remembered segment seven the way people remembered weather— not as coordinates, as texture.
+Today the old girl held course on correction thrust without complaint.
 
 Kevin passed the bridge hatch with stew bowls— Walsh's order, finally obeyed. Ortega took one without breaking listen watch. Brenner took one with his off hand. Calder waved Kevin off for himself; Kevin left the third bowl on the rail anyway and vanished down the ladder.
 
@@ -200,8 +170,6 @@ When she did speak, it was quiet. "Waiting for corridor objection. None observed
 
 Calder nodded.
 
-That was the farewell— not a handshake, not a salute, Tuesday continuing without them.
-
 Brenner made a correction burn so small Calder would not have felt it without the rail's vibration.
 
 "She's being polite. Thrusters only."
@@ -218,13 +186,7 @@ There was no one to say it to.
 
 Familiar routes disappeared.
 
-The Dominion remained.
-
-That realization, Calder thought, should stay with Fleet longer than any hull count.
-
 He did not look back again.
-
-Looking back was appetite dressed as sentiment.
 
 The course was home.
 
@@ -261,8 +223,6 @@ Children ran between stall rows.
 
 The festival week was not military.
 
-It was not political.
-
 It was community proving it still knew how to celebrate continuity.
 
 Kovat's secure slate vibrated once during the second chorus— routine observation summary, not emergency.
@@ -289,7 +249,7 @@ When the chorus ended, Nika ran over breathless.
 
 "Same thing, some days."
 
-Teacher Marin passed through the parent section with a nod— perseverance is not a volume knob, embodied.
+Teacher Marin passed through the parent section with a nod and corrected a second-row singer who was shouting the chorus line.
 
 Pelka raised her cup. "Your greens survived the festival crowds."
 
@@ -321,17 +281,7 @@ Kovat did not stop.
 
 She had stopped enough times to know remembrance was a habit, not an event.
 
-Duty never left.
-
-Neither did family.
-
-Civilization continued whether Fleet stayed or left.
-
-The Dominion had never revolved around a whisper-class return in seven-alpha.
-
-Kovat had always known that.
-
-The civic festival made it visible.
+Nika ran ahead to the apartment door.
 
 ---
 
@@ -394,7 +344,7 @@ Thessaly stared at it until the words looked like a child's drawing of a door.
 
 Calder almost smiled. Did not.
 
-"Neighbors," he said— quietly, testing the word.
+"Neighbors," he said— quietly, to the bulkhead.
 
 Thessaly was still.
 
@@ -420,7 +370,7 @@ Inference second.
 
 Questions third— deliberately left open.
 
-Fleet doctrine officially began changing not through orders but through language— the only medium that could survive the months between a scout's return and an institution's courage.
+Fleet doctrine officially began changing through language— the medium that survived the months between a scout's return and an institution's formal response.
 
 Thessaly typed a header at last:
 
@@ -479,10 +429,6 @@ Tea cooling in cups analysts forgot while autumn festival traffic sang in the lo
 
 Commander Vex stood at the passive plot and watched probability fade.
 
-Not dramatically.
-
-Professionally.
-
 Returns that had persisted on seven-alpha diminished below confident comparison.
 
 Patterns that had aligned across thirty-two observations dissolved into holiday congestion models and normalization bands.
@@ -491,15 +437,11 @@ Vex had watched the intelligent gap for days— moving with maintenance windows,
 
 Now the gap softened.
 
-Not proof of departure.
-
-Absence of opportunity.
-
-Traffic returned to baseline the way traffic returned when a corridor remembered it was a corridor first and a mystery second.
+Traffic returned to baseline as post-festival congestion cleared.
 
 Major Petrov leaned on the console rail with the expression of a man who wanted a conclusion and had been trained not to buy one early.
 
-"Border stations report nothing extraordinary," he said. "Transportation calls it harvest festival overlay. K-17 reports diminished persistence. Kovat filed exactly."
+"Border stations report nothing extraordinary," he said. "Regional Transportation Directorate calls it harvest festival overlay. K-17 reports diminished persistence. Kovat filed exactly."
 
 "Filed exactly," Vex said.
 
@@ -517,57 +459,19 @@ Vex did not look away from the display.
 
 "Or it stopped giving us opportunities."
 
-Nobody answered.
-
-He was neither optimistic nor pessimistic.
-
-Simply professional.
-
 Petrov exhaled. "Directorate closed the morning packet at observation limit. Continue watching."
 
 "Yes."
 
 "Do you believe someone crossed?"
 
-Vex pulled his gloves on.
-
-"I believe someone was listening. I believe professionals leave when staying becomes appetite." He paused. "I believe we will compare again when the corridor is quieter."
+"I believe someone was listening. I believe professionals leave when staying becomes appetite." He paused. "I believe we will compare again when the lane traffic is quieter."
 
 Petrov noted that too.
 
-He added a note for the morning packet— *observation limit reached; pattern persists; opportunity window closing; recommend continued passive watch post-festival congestion decay*.
+He added a note for the morning packet— *observation limit reached; return persists; opportunity window closing; recommend continued passive watch post-festival congestion decay*.
 
-Redemption complete enough for now— not reinstatement, not applause, judgment retained at the border where judgment mattered.
-
-Outside, the regional celebration continued.
-
-Inside, the trail went cold without going away.
-
-The Dominion quietly lost the thread.
-
-Or the listener stopped offering thread.
-
-Both civilizations had reached the edge of certainty.
-
-Neither crossed it.
-
-Restraint over certainty.
-
-History would file the rest when ready.
-
-Vex remained at the plot until watch turnover because warrants and commanders who had failed well knew the difference between leaving a station and abandoning it.
-
-He thought of cadets writing *peace is when readiness is built* without applause.
-
-He thought of the trial engagement and passive lock and a scout destroyed because containment failed.
-
-He thought of thirty-two markers and a gap that behaved intelligently and a corridor that had grown quieter without growing empty.
-
-If someone had crossed, they had left as professionals.
-
-If no one had crossed, the border still deserved professionals watching it.
-
-Either way, Vex would be here when the field must maintain.
+Vex remained at the plot until watch turnover.
 
 ---
 
@@ -578,65 +482,13 @@ Late watch.
 
 Segment seven, day sixteen.
 
-The final Dominion relay fell behind— a core they'd dated as older than Fleet's patience, a crossing window they'd borrowed without permission, a civilization's Tuesday fading into aft plots like a coast disappearing in weather.
+The final Dominion relay fell behind. Fleet space lay ahead— pickup protocols, medical triage, questions Calder was not ready to answer in Fleet's boxes yet.
 
-The Neutral Zone returned— not empty, never empty, only renamed in Fleet charts as buffer while someone else's infrastructure ignored the line.
+Tomás Brenner on helm; Mira Thessaly with slate sealed for transit encryption; Felix Ortega on listen watch; Yuki Tanaka on emitters dark; Jun Park on buffers; Damon Reyes on the border line.
 
-Calder remembered crossing it weeks ago believing buffer meant pause.
+Calder stood at the rail.
 
-It had meant overlap.
-
-It had meant two inheritances sharing space without sharing grammar.
-
-Fleet space lay ahead.
-
-Pickup protocols.
-
-Medical triage for a hull held together by professionalism.
-
-Questions Calder was not ready to answer in Fleet's boxes yet.
-
-Nobody cheered.
-
-Nobody relaxed.
-
-Tomás Brenner on helm; Mira Thessaly with slate sealed for transit encryption; Felix Ortega on listen watch— traffic thinning, seasonal festival harmonics gone, new old patterns ahead; Yuki Tanaka on emitters dark; Jun Park on buffers; Damon Reyes on the border line— Fleet notation approaching like a handwriting Calder had once trusted.
-
-Calder stood at the rail one minute longer than procedure required.
-
-He had commanded a patrol ship once.
-
-He commanded history's only witness now— a stranger phrase, no less true.
-
-He thought about people he had never met and would never meet on terms either civilization had chosen.
-
-A commander teaching cadets that peace was when readiness was built.
-
-A warrant filing exactly while dinner cooled and soil stayed under her nails.
-
-A welder telling an apprentice the weld outlived the shift.
-
-A planner in archives below sunlight saying *we always build farther ahead than people think necessary*.
-
-A director pouring tea and closing a packet at the limit of observation.
-
-People.
-
-Not targets.
-
-Not myths.
-
-Neighbors in the only sense that mattered— shared corridors, separate inheritances, histories that had taught caution and confidence in different proportions.
-
-The greatest discovery had never been the Dominion.
-
-It was perspective.
-
-Fleet Authority had crossed the border believing it had reached the edge of civilization.
-
-The *Kestrel* returned knowing civilization had been there all along— busy, ordinary, prepared, mournful, proud, patient.
-
-Calder said, quietly, "We came for the frontier."
+"We came for the frontier."
 
 Pause.
 
@@ -644,11 +496,7 @@ The scrubbers cycled.
 
 Correction thrust steady.
 
-The old girl reluctant and obedient at once.
-
 "We found neighbors."
-
-Nobody answered immediately.
 
 Tomás Brenner, without turning from helm: "Hull remembers corridors. She'll remember this one."
 
@@ -660,65 +508,9 @@ Thessaly, aft: "Report sealed for transit. First review on your desk at Fleet pi
 
 Calder nodded.
 
-Ortega removed his headphones long enough to meet Calder's eyes— a rare gesture from a man who lived in waveforms.
+Halden reported Fleet pickup beacon in range in fourteen hours if they held burn. Calder acknowledged. Park confirmed segment seven archived.
 
-No words.
-
-Acknowledgment.
-
-When Ortega put the headphones back, his hands moved slower than usual— the way everyone's hands moved when the trial engagement or Leviathan doctrine surfaced in memory without being named.
-
-Tomás Brenner, still at helm as Fleet space approached: "Smooth water ahead, Captain. Reing 3 earned it."
-
-Calder: "Did we earn her—or did she carry us?"
-
-The *Kestrel Veil* crossed back into Fleet space without announcement— damaged, professional, carrying segment seven in triple redundancy and ugly honest language and the melancholy of a farewell neither side had been allowed to speak aloud.
-
-First contact had still technically not occurred.
-
-Both civilizations left the border changed.
-
-Neither had been granted the comfort of certainty.
-
-The Dominion had thirty-two points and a quieter plot and the autumn festival in the streets.
-
-Fleet had a damaged scout and a report that refused easy boxes and a captain who had learned to admire what he was paid to assess.
-
-When would they meet again?
-
-The question hung in the bridge air without fear for the first time in sixteen chapters— not because danger had passed, because danger had been reframed.
-
-Not *will they survive*.
-
-*When*.
-
-Halden reported Fleet pickup beacon in range in fourteen hours if they held burn. Calder acknowledged. Park confirmed segment seven archived— nothing left behind that mattered.
-
-Calder kept his hand on the bulkhead one breath longer.
-
-Then he let go.
-
-Act III ended the way mature missions ended— not with triumph, with responsibility delivered home.
-
-Calder Venn had crossed the border as an explorer.
-
-He returned as a witness.
-
-That was the mission's measure— not hulls destroyed, not borders crossed for glory, knowledge carried home by people who still had to live with what they knew.
-
-Ahead: Fleet pickup.
-
-Briefings.
-
-Grammar wars.
-
-Doctrine catching up.
-
-Behind: rain on harvest festival banners and plots going quiet and watching continued.
-
-The border held its breath so both sides could sleep.
-
-For now, that was enough.
+The *Kestrel Veil* crossed back into Fleet space without announcement.
 
 Park's witness archive still carried one segregated lane Holt had not combined—checksum green, classification pending, waiting for Fleet to decide what Tuesday meant.
 

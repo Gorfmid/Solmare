@@ -30,7 +30,7 @@ Tomás Brenner at helm: "Lane crossing in six. Traffic profile says she remember
 
 "Same tolerance band, some days."
 
-The *Kestrel Veil* slid into Fleet-controlled space the way she did everything now—reluctant, obedient, vibrating on a frequency Calder had learned to read as *holding*. Reing 3 coughed once on the approach vector. Nobody flinched. That was also home.
+The *Kestrel Veil* slid into Fleet-controlled space the way she did everything now—reluctant, obedient, vibrating on a frequency Calder had learned to read as *holding*. Reing 3 coughed once on the approach vector. Nobody flinched.
 
 Dock assignment arrived on Thessaly's secondary pane before Calder asked for it— berth fourteen-C, the same outer-yard cradle strip where he had read damage history appendices and pretended green readiness charts meant something. The universe had not agreed to his pretense then. It was not agreeing now. Medical notification queued crew triage in shifts, priority for tactical and engineering, psychiatric consult optional and available; Calder signed the acknowledgment without reading the footer. Engineering inspection request assigned yard team gamma, six-hour window, hull and correction-thruster certification for *patched transit only*— the word *patched* appeared twice, and Calder did not confuse patched with ready. Rowan had said that through Holt's relay when the margin was six hours and the border was still ahead. Archive security protocols flagged Jun Park's chain— triple redundancy, segregated archives, no upstream combine until Fleet Communications confirmed pickup handshake and Cartography liaison validated bearing continuity.
 
@@ -38,15 +38,9 @@ A secondary flag blinked—yard intake requesting damage summary for crane assig
 
 On the bridge, the crew held the posture of people who had crossed a border and not yet uncrossed it inside their own heads— Felix Ortega with headphones on half-mast, still listening in Fleet-polite traffic that felt suddenly insufficient; Mira Hale on tactical watch out of habit though cradle approach vectors offered nothing to shoot at; Yuki Tanaka running emitter discipline checks against a sky that was not trying to hide anything.
 
-Calder thought of segment seven—the corridors that had hummed with commuter windows and freight classification and authentication density increases that meant *someone was tightening procedure without illuminating the sky*. He thought of how quiet the bridge felt without that other rhythm. Not empty. Different. Fleet traffic control used polite traffic-control language and assumed the lanes belonged to the people speaking.
-
-He had not realized, until the absence, how much he had learned to read a civilization through vibration and handshake lag and the subtle change in transit load when holiday congestion overlaid ordinary Tuesday. The other rhythm was gone from his immediate sky—basalt arcades and rain on glass replaced by cradle strip solvent and Founders' Week residual traffic. He missed it without naming what he missed, because Fleet had not given him a name for what they had listened to.
-
 Nobody on approach control asked what he had seen.
 
 They asked for registry, damage profile, berthing preference, and whether medical needed to meet the hull or the crew first.
-
-That was correct. That was how institutions survived unprecedented things—they treated the unprecedented as a form to be filed.
 
 "Berth fourteen-C," Calder said. "Medical meets crew at yard intake. Park holds archives until Communications clears custody."
 
@@ -57,8 +51,6 @@ Calder nodded. Relief lived in his chest as a physical thing—not celebration, 
 The dock cranes rose against Helion Prime's industrial dawn. Mission patches on yard workers' sleeves. Coffee steam from a kiosk on the cradle strip. A destroyer escort on the next berth getting fresh paint it did not need because Founders' Week had ended but parade habits died slowly.
 
 The *Kestrel Veil* came home.
-
-Only the reader knew history had arrived in a scout-class hull with yellow tape on a dent that was not structural and a report that refused easy boxes.
 
 ---
 
@@ -88,7 +80,7 @@ Not delete. Close. The event had a terminus now. The scout had returned. The cha
 
 Nand set a cup on the console edge. "VI-Gamma relay node?"
 
-"Still sweeping. They'll keep sweeping until someone tells them to stop being afraid of void." Holt sipped. The coffee was too hot and honest. "We're not on the fringe anymore. We're in the traffic lane."
+"Still sweeping. They'll keep sweeping until someone tells them to stop being afraid of void." Holt sipped. The coffee was too hot and bitter. "We're not on the fringe anymore. We're in the traffic lane."
 
 Communications Command looked nothing like VI-Gamma—glass and steel and blue displays, busy corridors visible through the upper gallery, relay auditors in shirtsleeves arguing about latency as if latency were morality. Young institution energy. Optimistic architecture. People who believed the network could carry truth if you built enough checksums.
 
@@ -116,12 +108,6 @@ Torres nodded. "Cartography wants contact bearings in the same packet as navigat
 
 Across the gallery, a Founders' Week residual banner hung crooked in a relay bay—someone would fix it tomorrow. Fleet kept celebrating beginnings while a return packet in Holt's queue described endings that were not endings at all.
 
-She thought of Park's voice through the relay—thin, doubled, alive. She thought of Jun asleep on a blanket someone had draped careful not to touch the mic. She thought of Calder's confirm tokens and Thessaly's refusal to use headers Fleet preferred because the headers lied about what they had seen.
-
-The communications chain had survived.
-
-That was not the mission. That was the precondition for whatever mission Fleet thought it had next.
-
 Nand leaned over the pathway map. "Secure corridor seven-alpha notation in the routing metadata. Not because the corridor is secret. Because the corridor is where everyone will fight about what the data means."
 
 Holt closed the last monitoring file from the Incident window. The board did not look empty. It looked ready.
@@ -147,14 +133,6 @@ The *Kestrel Veil* report did not arrive as a single thing. It arrived as what F
 Ellis watched a Cartography courier take navigation without the executive summary, a Doctrine Bureau intern collect the summary without the sensor raw, an Engineering petty officer cheerfully abscond with damage schematics that said more about survival than about construction. Nobody said anything dramatic— only *What's the edition reference on this navigation notation?* and *Historical wants the survey epoch overlay back by sixteen hundred* and *Intelligence will scream if we don't split passive harmonics from tactical discharge*.
 
 Ellis noted each handoff because chain of custody was how Historical Office proved it was not propaganda—even when selection was curation.
-
-She understood, with the slow clarity of someone whose job was beginnings, that separating the report also separated its meaning.
-
-Navigation without civilian traffic harmonics was charts without Tuesdays.
-
-Engineering without correction-thruster limitation was damage without method.
-
-Executive summary without Park's message chain was conclusion without proof anyone had survived to conclude.
 
 She did not stop the process. Stopping the process was not her authority. She filed a liaison note—`Recommend cross-office read before classification headers applied`—and put it in the system where liaison notes went to die unless someone important was already awake.
 
@@ -188,7 +166,7 @@ Ellis blinked. "I'll note cross-reference before handoff."
 
 Ellis returned to the sorting table.
 
-Institutions behaved like institutions. That was not failure. That was metabolism.
+Institutions behaved like institutions.
 
 ---
 
@@ -242,10 +220,6 @@ Mercer was already moving.
 
 *THE WAIT*
 
-The hardest part of command was not the border.
-
-It was the waiting afterward—when your body stood on familiar decking but your mind was still in a volume Fleet had shaded wrong on every chart you had trusted.
-
 Medical exams: bloodwork, neural stress scan, the polite fiction that trauma fit in forms. Calder answered questions in complete sentences. He did not perform fine. He performed *functional*, which was what the forms actually measured.
 
 Maintenance interviews: yard gamma team recording Reing 3 handshake lag with the respect of engineers who knew patched when they saw it. Elara Koss spoke for the ship in a dialect Calder could not fully translate. Ari Halden spoke for tactical systems. Felix Ortega spoke for listen watch in a voice that made civilians sound like strategic fact.
@@ -268,10 +242,6 @@ Calder nodded. Thessaly left for her own debrief block—grammar wars awaiting a
 
 Crew released in shifts—sleep, food, calls home if home answered. Mira Hale went first because burns needed yards. Priya Sharma disappeared toward a message queue and a watercolor grandmother who did not know about segment seven. Yuki Tanaka stood down from emitter checks when Calder ordered her off the deck.
 
-Nobody knew how history would judge what they had found.
-
-That was honest. History had not arrived at judgment. History had arrived at intake.
-
 Calder visited the *Kestrel* one last time before Fleet Headquarters claimed his afternoon.
 
 Brenner remained aboard—ineligible for shore leave until engineering certification cleared on the fiction that a hull could be trusted to sit still without complaining.
@@ -284,15 +254,7 @@ They met at the scarred bulkhead on the command deck approach, the same plating 
 
 "Professional skill." Brenner had a coffee he had not earned and a mission patch from a yard worker on his cuff—unofficial trade, respect currency. "They'll ask me for sounds. Koss gives numbers. You give patience."
 
-Calder looked through the viewport at Helion Prime's cradle strip. No Dominion rain on arcade glass. No district festival banners in a foreign plaza. No thirty-two-point scatter plots fading in a directorate room he had never seen and would not name because he did not know names.
-
-The absence was not peace.
-
-It was contrast.
-
-For eight chapters the book had breathed in two rhythms—Fleet professional survival and a civilization busy being itself behind a border Fleet called empty. Now only one rhythm played on the page. Calder felt the missing beat the way amputees felt weather in a healed limb.
-
-He did not say that aloud. Brenner would have mocked him kindly and been correct.
+Calder looked through the viewport at Helion Prime's cradle strip. No Dominion rain on arcade glass. No district festival banners in a foreign plaza.
 
 "Ship's eventual disposition?" Calder said. "Archive. Exhibit. Scrap."
 
@@ -312,7 +274,7 @@ He was not young in that way anymore.
 
 *THE CALL*
 
-Fleet Headquarters at evening watch looked like a civilization that intended to last.
+Fleet Headquarters at evening watch looked busy in the way capital institutions looked busy— paper moving, shifts changing, nothing paused for drama.
 
 Open collaboration alcoves. Paper briefing folders beside slates because some admirals still read with their hands. Coffee stations that never closed. Cartography couriers crossing with Doctrine Bureau interns in the polite traffic of people who believed departments were how truth became manageable.
 
@@ -346,17 +308,9 @@ Outside the anteroom, evening shift changed. Young officers laughed about someth
 
 Calder walked toward Operations.
 
-The *Kestrel*'s journey was over—berth fourteen-C, patched hull, Brenner guarding sounds only Brenner could hear.
-
-The report's journey had just begun—divided across Historical sorting tables, Cartography epoch fights, Doctrine Bureau taxonomy, Holt's secure pathways, Rowan's glass overlooking traffic that did not know it shared lanes with a neighbor civilization.
-
-History moved through Fleet Authority one department at a time.
-
 Rowan's read would be advisory. The witness filing wasn't.
 
 He carried that up the last corridor.
-
-The chapter ended before the meeting began.
 
 ---
 

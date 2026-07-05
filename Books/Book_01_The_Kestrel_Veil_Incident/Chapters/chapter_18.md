@@ -22,7 +22,7 @@ Rowan looked at her. "Why does that matter?"
 
 Rowan nodded once. "Captain."
 
-Calder met his eyes. "Observed: continuous corridor traffic beyond Fleet epoch notation. Traffic patterns consistent with commuter windows and freight classification. No illumination. No handshake. Upstream emissions from our hull during segment seven: none."
+Calder met his eyes. "Observed: continuous lane traffic beyond Fleet epoch notation. Scheduled service and freight windows consistent with commuter density and freight classification. No illumination. No handshake. Upstream emissions from our hull during segment seven: none."
 
 He paused when Rowan raised one finger—not stop, *band*.
 
@@ -38,15 +38,15 @@ He did not take notes on the slate. He had learned that writing too early let ro
 
 "Inference in the volume-stability line," Thessaly said quietly.
 
-Calder corrected without irritation. "Inferred ordinary volume from pattern stability. Observed: no pursuit signature on egress bearing."
+Calder corrected without irritation. "Inferred ordinary volume from traffic flow stability. Observed: no pursuit signature on egress bearing."
 
-Rowan nodded. He did not ask *what does it mean*. He asked, "What did the correction-thruster crawl cost in corridor time?"
+Rowan nodded. He did not ask *what does it mean*. He asked, "What did the correction-thruster crawl cost in transit time?"
 
 "Observed: twelve percent margin loss on Reing 3 handshake lag under passive hold."
 
 "What did you not see?"
 
-"No upstream emissions. No task-force contact pattern. No empty volume."
+"No upstream emissions. No task-force contact profile. No empty volume."
 
 The door chimed—a Cartography courier collecting bearing annexes for overlay. Rowan did not pause the meeting. Fleet did not stop because one department had started work. Somewhere else, paper was already moving.
 
@@ -54,7 +54,7 @@ The door chimed—a Cartography courier collecting bearing annexes for overlay. 
 
 Three floors up, Martine Okoye laid segment seven navigation returns over epoch 143 frontier shading and felt the projection lie back at her.
 
-Map Room Four was Cartography's honest room—blue display light, paper charts because paper still won arguments, mission patches from survey installs pinned above workstations like proof someone had stood where Fleet later drew lines. Okoye had drawn frontier provisional volumes for eleven years. She believed in epochs the way engineers believed in torque ratings: not as religion, as load limits.
+Map Room Four was Cartography's working room—blue display light, paper charts because paper still won arguments, mission patches from survey installs pinned above workstations like proof someone had stood where Fleet later drew lines. Okoye had drawn frontier provisional volumes for eleven years. She believed in epochs the way engineers believed in torque ratings: not as religion, as load limits.
 
 Pell, two years from academy, Founders' Week ring still too shiny, ran the first overlay with the hunger of youth that still believed charts were photographs.
 
@@ -62,7 +62,7 @@ Pell, two years from academy, Founders' Week ring still too shiny, ran the first
 
 "No," Okoye agreed.
 
-She zoomed seven-alpha—the corridor Fleet had shaded *provisional, low confidence* until a scout came home with routing antiquity predating the install that justified the shading. Damon Reyes's navigation appendix sat in the corner pane: lane-family correlation Thessaly had flagged. Freight windows. Commuter traffic patterns. Maintenance layering on infrastructure bands Ari Halden had logged from passive thermal.
+She zoomed seven-alpha—the corridor Fleet had shaded *provisional, low confidence* until a scout came home with routing antiquity predating the install that justified the shading. Damon Reyes's navigation appendix sat in the corner pane: lane-family correlation Thessaly had flagged. Freight windows. Commuter service windows. Maintenance layering on infrastructure bands Ari Halden had logged from passive thermal.
 
 None of it belonged inside *empty*.
 
@@ -76,7 +76,7 @@ Pell made a sound—half laugh, half distress. "That's in the briefing slides fo
 
 "I know," Okoye said. "That's why we change language before we change slides."
 
-Cartography saw geography. Not intent. Not war. Shapes Fleet had called edge were, in the data, middle.
+Cartography saw geography. Shapes Fleet had called edge were, in the data, middle.
 
 Pell stared at the projection. "We've been mapping ourselves."
 
@@ -91,8 +91,6 @@ Okoye picked up a redline pen—obsolete medium, trusted medium—and marked the
 She routed the overlay to Rowan's stack with a one-line cover note:
 
 *Charts describe knowledge limits. Recommend language change before strategy change.*
-
-The galaxy had not changed overnight. Fleet's verbs had to.
 
 ---
 
@@ -138,7 +136,7 @@ Priya Nand had the primary chair. Holt had the pen.
 
 Jun Park on the secure pane from berth fourteen-C: message chain, triple redundancy, segregated lanes intact. Felix Ortega on shipboard link: listen watch harmonics, civilian bands, authentication density curves— *Logged what I heard. Not what training expected.*
 
-Communications saw evidence. Not meaning. Proof the archive was real before meaning arguments began.
+Communications saw evidence. Proof the archive was real before meaning arguments began.
 
 Holt crosswalked VI-Gamma relay history—bearing two-one-four mark six, post-discharge scatter, destruction assessment correction, alive return on passive. Timestamps married. No orphan packets.
 
@@ -146,7 +144,7 @@ She opened Park's segregated lane headers from the bloom window through segment 
 
 Priya ran checksum on Thessaly's executive summary hash against pickup handshake. Match.
 
-Ortega, on the pane, read a sample timestamp when Priya asked. Nand matched relay drift. Holt did not ask if Tuesday was real. She asked if the chain was consistent. Consistency was Communications' religion.
+Ortega, on the pane, read a sample timestamp when Priya asked. Nand matched relay timing offset. Holt did not ask if Tuesday was real. She asked if the chain was consistent. Consistency was Communications' religion.
 
 `KESTREL VEIL SEGMENT SEVEN ARCHIVE — AUTHENTICITY CONFIRMED — CHAIN INTACT`
 
@@ -157,8 +155,6 @@ Below it, a line she had written for herself before Fleet asked:
 *They listened. Fleet must not punish listening by calling it contact.*
 
 She deleted the line from the official flag. Kept it on a personal pane.
-
-The chain that had begun on the VI-Gamma relay path with a discharge and a void had completed its first obligation. Proof was not understanding. Proof was permission to argue about words without arguing about fraud.
 
 ---
 
@@ -240,7 +236,7 @@ She laid a survey summary from eleven years prior—corridor seven-alpha, *provi
 
 She laid Founders' Week origin maps celebrating Fleet arrival as civilization's opening movement in surveyed volumes.
 
-She laid an archival pattern queue summary—routine traffic, low priority, flagged for senior review on contradictory occupancy returns. The name on the attachment was Maris Chen. Ellis did not know the name's story. She knew the queue's grammar: *contradictory occupancy* filed as inconvenience, not alarm.
+She laid an archival variance queue summary—routine traffic, low priority, flagged for senior review on contradictory occupancy returns. The name on the attachment was Maris Chen. Ellis did not know the name's story. She knew the queue's grammar: *contradictory occupancy* filed as inconvenience, not alarm.
 
 She pulled a Founders' Week academy primer excerpt—Edition 143, first-year cadet text:
 
@@ -249,12 +245,6 @@ She pulled a Founders' Week academy primer excerpt—Edition 143, first-year cad
 Segment seven had not stabilized. It had complicated.
 
 Ellis laid Thessaly's line beside the primer—*preparedness predating Fleet survey assumptions*—and felt the historian's uncomfortable pleasure of evidence that would outlive today's meeting.
-
-The pattern arrived quietly.
-
-Fleet had been describing late arrival as first presence.
-
-Not maliciously. Structurally. Exploration archives emphasized pioneers because pioneers were legible. Deep corridor maintenance layering did not fit pioneer slides. So deep layering became *anomaly*, *unclaimed infrastructure*, *pending survey*—words that protected Founders' Week from millennia-scale Tuesdays.
 
 Historical Office saw history. Inheritance conflict. Whose passage law applied to lanes Fleet had shaded empty?
 
@@ -268,10 +258,6 @@ She routed a comparison brief to Rowan's stack:
 
 She returned the Relay Charter placard to its case for the school tour at fourteen hundred. Glass reflected her face and the words *many worlds, one law of passage*.
 
-Law assumed passage had been waiting.
-
-The report suggested passage had been busy.
-
 ---
 
 Rowan's table had accumulated the morning without ceremony— Okoye's redline overlay, Mercer's provisional header and working title, Ellis's comparison brief, Holt's integrity flag, a yard certification margin from Elara Koss— correction-thruster curves, Reing 3 handshake lag, *patched not repaired, held passive posture sufficient for segment seven return*— and a Logistics note from Commander Vance without a meeting request: industrial throughput implied deep capacity; model scenarios; no procurement flags without Operations signature.
@@ -282,15 +268,9 @@ Sato arrived with passive archive thumbnails and took the chair without apology.
 
 Calder had not moved from witness posture. He had not argued for *peer*. He had not argued for anything.
 
-Rowan looked at the pile—not a war council, a metabolism. Each department had seen a different piece. None had seen the whole. That was not failure. That was profession.
+Rowan looked at the pile—each department had seen a different piece. None had seen the whole.
 
-He picked up Okoye's overlay and looked at seven-alpha redline without speaking. He read Mercer's provisional header without smiling. He read Ellis's pencil margin with the respect he gave Holt's void sweeps— someone had refused to stop looking. Engineering saw capability in Koss's margin, not heroism, method. Logistics saw scale in Vance's note.
-
-Rowan did not see *enemy*. He did not see *friend*. He saw a civilization Fleet had been describing with the wrong century—and a crew that had come home because they had observed carefully enough to leave.
-
-He had listened for most of an hour while the institution worked around him—couriers at the door, slate flags, coffee cooling, Calder's grammar refusing to simplify because simplification was how Fleet had shaded seven-alpha *empty*.
-
-Rowan spoke.
+He picked up Okoye's overlay and looked at seven-alpha redline without speaking.
 
 "Captain. One sentence. Observed band only."
 
@@ -326,13 +306,9 @@ Calder waited.
 
 "It has changed what it is willing to call true."
 
-That was not triumph. It was direction—the only kind Rowan trusted before decisions.
-
----
-
 The meeting ended with calendars, not applause.
 
-Calder walked the administrative corridor with Thessaly behind him. Glass walls showed Helion traffic—ordinary lane crossings, dock cranes, evening shift change. Fleet still looked like a civilization that intended to last.
+Calder walked the administrative corridor with Thessaly behind him. Glass walls showed Helion traffic—ordinary lane crossings, dock cranes, evening shift change.
 
 "You didn't convince them," Thessaly said.
 
@@ -367,15 +343,6 @@ Down the corridor, two junior officers walked faster than their conversation.
 "—doesn't tell us ROE—"
 
 "—ROE tomorrow. Words today."
-
-
-The words had moved first—in Map Room Four, in the Classification Annex, in Ellis's historian pencil, in Holt's validation pen, in Rowan's single sentence that renamed truth without renaming fear.
-
-The way Fleet thought would follow.
-
-Not today.
-
-Inevitably.
 
 Rowan's stack still carried one open classification fork—Branch A and Branch C both green on checksum, divergent on obligation grammar, not yet reconciled.
 

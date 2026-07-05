@@ -9,7 +9,7 @@
 
 Soraya Ellis had learned to distrust mornings that arrived too organized.
 
-The synthesis annex sat one corridor down from the comparison archive—quieter than Map Room Four, louder than the glass cases where Founders' Week placards taught children that Fleet had always intended to last. Ellis preferred rooms where paper still made sound. Slates lied smoothly. Paper admitted weight.
+The synthesis annex sat one corridor down from the comparison archive—quieter than Map Room Four, louder than the glass cases where Founders' Week placards still hung for school tours. Ellis preferred rooms where paper still made sound. Slates lied smoothly. Paper admitted weight.
 
 Six packets waited on the long table when she arrived.
 
@@ -21,15 +21,15 @@ She had asked each department for one page—not strategy, not prophecy, recomme
 
 Cartography arrived first, as Cartography always did when charts were involved. Okoye's cover line sat above tri-layer headers Ellis had learned to read without flinching:
 
-`PARALLEL READINGS MAINTAINED — WITNESS GEOMETRY UNCHANGED`
+`PARALLEL READINGS MAINTAINED — WITNESS LANE DATA UNCHANGED`
 
-The recommendation was cartographic honesty dressed as policy: maintain three operational layers until evidence collapsed divergence; route patrol skids by mission environment tag; never smuggle inference into epoch shading without label. Okoye had signed with her redline pen and a margin note—*Pell slept four hours; Torres won an argument; Map Room needs ink*—that Ellis filed mentally under *people doing their jobs while the sky changed*.
+The recommendation was cartographic rigor dressed as policy: maintain three operational layers until evidence collapsed divergence; route patrol skids by mission environment tag; never smuggle inference into epoch shading without label. Okoye had signed with her redline pen and a margin note—*Pell slept four hours; Torres won an argument; Map Room needs ink*—that Ellis filed mentally under *people doing their jobs while the sky changed*.
 
 Intelligence came with Sato's discipline and Kemmer's curves. Capability-first models expanded. Hostile classification refused. Incident baseline bookended. The recommendation: weight readiness for border nodes without procurement unlock; treat restraint culture in witness bands as unresolved intent, not permission; stamp *capability assessment, intent unresolved* on every downstream packet. Sato did not ask Fleet to fear. She asked Fleet to stop pretending depth was a rumor.
 
 Exploration sent Hwang's patrol addendum and a liaison cover sheet short enough to fit on a mission patch. Illumination hold. Passive windows extended. No initiation under uncertainty threshold. The recommendation: behave as if Calder's grammar were operational default until intent evidence arrived—not friendship, not surrender, witness discipline copied into corps culture.
 
-Communications brought Holt's routing integrity note and Nand's tagging lag measurements. Chain intact. Checksum unchanged. Metadata divergent. The recommendation: preserve interpretive labels in custody without letting labels alter validation; teach field officers to read metadata without confusing metadata with fact; accept queue cost as honesty tax.
+Communications brought Holt's routing integrity note and Nand's tagging lag measurements. Chain intact. Checksum unchanged. Metadata divergent. The recommendation: preserve interpretive labels in custody without letting labels alter validation; teach field officers to read metadata without confusing metadata with fact; accept queue cost as labeling overhead.
 
 **Doctrine** sent Mercer's Context-Dependent Application Protocol and the fork registry footer Ellis had started quoting in her sleep:
 
@@ -102,15 +102,11 @@ Rowan did not open with ceremony.
 
 He did not ask what Fleet should do.
 
-He had spent three weeks watching departments do what Fleet should do in parallel, and he had noted the divergence without collapsing it. That was not Calder's burden anymore.
-
 Rowan asked one question.
 
 "What do you wish we understood that isn't in the report?"
 
 Calder looked at the table edge the way navigators looked at horizons—measuring distance before speech.
-
-The silence lasted long enough for a courier to pass in the corridor. Long enough for Rowan to notice Calder's hands were steady. Witness steady, not performance steady.
 
 Calder said, "They lived there before we knew the place existed."
 
@@ -120,7 +116,7 @@ Pause.
 
 Rowan waited. Calder had more in him when the room earned it.
 
-"No active emissions toward Fleet relay in segment seven," Calder said. "Tuesday by traffic pattern, not faces. Volume behaved like somewhere people call home—inferred, flagged."
+"No active emissions toward Fleet relay in segment seven," Calder said. "Tuesday by traffic flow, not faces. Volume behaved like somewhere people call home—inferred, flagged."
 
 Rowan nodded once. Not agreement with policy. Receipt of witness.
 
@@ -148,15 +144,7 @@ Rowan let him leave without escort. Witnesses did not need escorts once institut
 
 Calder walked the administrative corridor with Thessaly's observation ledger cover sheet folded in his inner pocket—not classified, not souvenir, receipt. Glass walls showed Helion traffic. Junior officers passed with memo stacks and mission patches and the tired optimism of people who believed someone upstairs was deciding.
 
-Someone upstairs was deciding what kind of civilization crossed borders.
-
-Calder had decided what he observed.
-
-That division was how Fleet survived itself.
-
-He stopped once at a viewport overlooking the outer yards—not to admire Helion, to measure distance. Somewhere below, his sentences were already being quoted in annex margins without his voice attached. *They lived there before we knew.* *Tuesday routed around our silence.* Fleet would file them, fork them, teach them. That was correct. It was also a kind of loss he had not been trained to name—witness grammar becoming institution grammar while he was still breathing it.
-
-He did not resent it. Resentment was for people who thought truth belonged to them after they spoke it. Calder had learned the opposite in segment seven: truth belonged to whoever carried it home alive. Fleet was carrying it now. His chest felt lighter and thinner at once.
+He stopped once at a viewport overlooking the outer yards—not to admire Helion, to measure distance.
 
 He straightened his jacket the way he did before gangway—habit, not performance—and descended to berth fourteen-C.
 
@@ -168,13 +156,9 @@ Felix Ortega had headphones on in the pass-through alcove, listening to Helion a
 
 Lena Walsh intercepted Calder before he reached the wardroom. "Four hours. Brenner cleared. Ortega's next. You don't get a waiver." She handed him a medical slate. Calder signed. Walsh took it back without thanks and went to find Ortega.
 
-Down in the ring, Elara Koss argued with yard gamma about handshake coupling tolerances in a voice Calder could hear through deck plating—professional, immovable, the voice of engineering that had kept them breathing in someone else's corridor. A yard tech threw up his hands. Koss won. She usually did when the numbers were honest.
+Down in the ring, Elara Koss argued with yard gamma about handshake coupling tolerances in a voice Calder could hear through deck plating—professional, immovable, the voice of engineering that had kept them breathing in someone else's transit lanes. A yard tech threw up his hands. Koss won. She usually did when the numbers held.
 
-The *Kestrel Veil* smelled like solvent and coffee and the particular fatigue of a ship that had been somewhere and was pretending to be ordinary again. She was not ordinary. Neither were they. But for an hour on berth fourteen-C, they were crew again—not exhibit, not symbol, not First Witness. Calder put his hand on the bulkhead where Koss's maintenance marks layered four years of touch into the plating and felt the ship receive it.
-
-History would use Calder's sentences now.
-
-Calder was allowed to be a captain again.
+The *Kestrel Veil* smelled like solvent and coffee and the particular fatigue of a ship that had been somewhere and was pretending to be ordinary again. Calder put his hand on the bulkhead where Koss's maintenance marks layered four years of touch into the plating and felt the ship receive it.
 
 ---
 
@@ -209,7 +193,7 @@ Mercer: "Truth must survive policy."
 
 Thessaly: "Observation must remain separate from interpretation."
 
-Ellis: "History must preserve uncertainty honestly."
+Ellis: "History must preserve uncertainty without erasure."
 
 Okoye: "Maps must never pretend completeness."
 
@@ -239,7 +223,7 @@ Mercer broke the silence the way Doctrine broke silence— with procedure. "Bran
 
 "Field officers?"
 
-"Will read principles in tags if we write them honestly," Rowan said.
+"Will read principles in tags if we write them clearly," Rowan said.
 
 He stood. The meeting had taken eighteen minutes. Fleet meetings that mattered often took less time than meetings that performed importance.
 
@@ -278,7 +262,7 @@ He did not choose Branch C.
 
 He chose the frame that let all three exist without lying about singularity.
 
-Mercer spread Edition 144 on the desk—working copy, spine cracked now, Founders' Week coffee ring on the cover from a meeting that felt like another civilization. Edition 143 sat on the shelf behind it like a rebuke and a gift: one box for cadets who had learned honesty late.
+Mercer spread Edition 144 on the desk—working copy, spine cracked now, Founders' Week coffee ring on the cover from a meeting that felt like another civilization. Edition 143 sat on the shelf behind it like a rebuke and a gift: one box for cadets who had learned conditional doctrine late.
 
 The one changed sentence remained:
 
@@ -306,8 +290,6 @@ Below it, Mercer's first principles page—one sheet, no oratory:
 
 Rowan read the seventh line twice.
 
-That was the legacy line—not pretty, not parade-ready, true.
-
 Mercer waited by the door with the patience Doctrine Bureau learned when grammar carried casualties.
 
 "Sato will hate line five without line four," Mercer said.
@@ -328,7 +310,7 @@ Mercer almost smiled. "Okoye?"
 
 "Ellis?"
 
-"Will archive our mistakes beside Founders' Week slides and call it Tuesday."
+"Will file revision beside Founders' Week slides with epoch tags."
 
 Rowan picked up his pen—not the ceremonial one, the working one with bite marks from thirty years of decisions that did not feel like decisions until later.
 
@@ -342,21 +324,9 @@ On the routing line he wrote:
 
 Mercer keyed it. The annex would see it in minutes. Field officers would see it in days. The border would feel it in weeks—not as announcement, as behavior.
 
-Rowan looked at the glass. Traffic merged. Patrol skids updated checklists without knowing his pen had moved. Intelligence ran curves. Holt preserved chains. Calder walked berth fourteen-C.
-
-Fleet was still one Fleet.
-
-Fleet was no longer one understanding.
-
-Now Fleet would have one manual honest enough to admit both.
-
-Rowan thought of Calder's courtesy sentence—*they lived there before we knew the place existed*—and understood it belonged in margin, not header. Courtesy was not policy. Courtesy was the civilization choosing what policy was for.
+Rowan looked at the glass. Traffic flowed into approach lanes. Patrol skids updated checklists without knowing his pen had moved.
 
 He set the pen down.
-
-Decision did not feel like thunder.
-
-It felt like paper finally heavy enough to stay where you put it.
 
 ---
 
@@ -365,7 +335,7 @@ It felt like paper finally heavy enough to stay where you put it.
 
 Dana Holt trusted relay times because relay times were how professionals admitted fallibility without calling each other liars.
 
-The archive bay was colder than the validation floor—climate control for media that outlived careers. Holt had started on the Kestran VI-Gamma watchpost believing archives were where truth went to be forgotten. She had ended on Helion Prime learning archives were where truth went to become civilization.
+The archive bay was colder than the validation floor—climate control for media that outlived careers.
 
 The certified strategic witness record sat on the bay table in its binding—segment seven volumes, Holt's integrity flags, Okoye's epoch redline copy, Ellis's comparison brief, Thessaly's observation ledger cover sheet with bands intact. The executive summary carried interim terminology Fleet hated and could not yet replace. The fork annex lived in a separate sleeve Mercer had insisted remain physically distinct so no one could pretend branches had been stapled together as if one truth had won.
 
@@ -377,7 +347,7 @@ Custody verified.
 
 Priya Nand ran the redundancy manifest—three primary archive bands, two geographic mirrors, one deep cold store for Historical Office pattern library linkage. Same packet, same hash, different shelves. Fringe relay metadata attached as interpretive layer, not folded into witness bands; Park's headers and Holt's lag measurements preserved; VI-Gamma stability data married to return transit metadata. Routing labels archived as routed so future historians could see how Fleet hesitated without breaking custody.
 
-Nand slid the seal band across the table. Archive seals were Fleet formality at its most honest—wax and polymer and a number no one remembered until they needed to prove someone had not edited courage into cowardice after the fact.
+Nand slid the seal band across the table. Archive seals were Fleet formality at its most auditable—wax and polymer and a number no one remembered until they needed to prove someone had not edited courage into cowardice after the fact.
 
 Holt signed Communications custody completion.
 
@@ -393,23 +363,9 @@ Holt stared at the sealed binding one moment longer than procedure required.
 
 Nothing else needed transmitting.
 
-The report had arrived.
-
-Not at the border—at the institution. At the shelves. At the place Fleet put things when it was ready to admit they would outlive the people who carried them home.
-
 Jun Park had held the chain in segment seven.
 
 Holt had held the chain on the VI-Gamma relay path.
-
-The chain had held.
-
-She thought of her unsent childhood draft to Park—*Saw the posting. Kestrel Veil. Scout life.*—still buried in a personal folder she had not opened since the *Veil*'s return. She thought of *You idiot* and *Try harder* and the personal lane closed when the ship departed berth.
-
-She did not open the folder.
-
-Archive work was not grief work.
-
-It was the work grief became when professionals finished their part.
 
 "Deep cold in forty minutes," Nand said.
 
@@ -425,13 +381,13 @@ Ellis would photograph the seal band beside Founders' Week slides.
 
 Someday a cadet would read Calder's bands and wonder why the manual had three branches.
 
-That cadet would be learning Fleet honestly, late, on schedule.
+That cadet would be learning Edition 144 late, on schedule.
 
 Holt poured coffee. This time she drank it.
 
 The bay hummed—low chatter, high attention, green integrity bands that meant *chain intact*, not *everyone agrees*.
 
-Outside, Helion traffic merged on schedule.
+Outside, Helion traffic held scheduled intervals.
 
 Inside, history owned the report now.
 
@@ -442,17 +398,9 @@ Inside, history owned the report now.
 
 Evening light made Helion look like a city that believed in maintenance.
 
-Rowan's office held the working copy of Edition 144 on the desk—still draft until publication authorization, still honest until ink dried. The first principles page sat on top. Behind it, the fork annex. Beside it, Mercer's Context-Dependent Application Protocol. On the corner, Ellis's synthesis cover with the sentence Historical Office had rarely written aloud:
+Rowan's office held the working copy of Edition 144 on the desk—still draft until publication authorization, still provisional until ink dried. The first principles page sat on top. Behind it, the fork annex. Beside it, Mercer's Context-Dependent Application Protocol. On the corner, Ellis's synthesis cover with the sentence Historical Office had rarely written aloud:
 
 *Fleet has reached the limit of analysis. What remains is leadership.*
-
-Rowan had reached it.
-
-Not by commanding a war.
-
-Not by declaring peace.
-
-By defining what Fleet refused to trade away when the frontier stopped being empty.
 
 He read the publication authorization block Fleet used when manuals changed civilization—dry language for irreversible things:
 
@@ -466,49 +414,15 @@ He added one line in the margin of the first principles page—not for cadets, f
 
 *We can choose the civilization that crosses it.*
 
-Mercer had seen the lines when he proofed the page. He had not objected. Doctrine Bureau objected to almost everything; it objected honestly.
+Mercer had seen the lines when he proofed the page. He had not objected. Doctrine Bureau objected to almost everything; it objected on procedure.
 
 Rowan signed.
 
 The pen sound was small.
 
-The authorization was not.
+Publication routing would begin in the morning—training cores, liaison packets, Exploration ready rooms, Intelligence modeling floors, Cartography map rooms, Communications validation bays, Logistics scenario desks.
 
-Publication routing would begin in the morning—training cores, liaison packets, Exploration ready rooms, Intelligence modeling floors, Cartography map rooms, Communications validation bays, Logistics scenario desks. No press line. No Founders' Week announcement. Fleet did not parade manuals. Fleet routed behavior and let officers learn what Fleet believed by reading what Fleet refused to lie about.
-
-Sato would read line five and model readiness without provocation.
-
-Hwang would read line four and patrol restraint without assuming friendship.
-
-Okoye would attach tri-layer annexes and sleep four hours.
-
-Holt would preserve chains while headers diverged.
-
-Ellis would steward memory.
-
-Calder would stand on a patched hull and be a captain.
-
-The Dominion—nameless to Fleet, living beyond the border Fleet had mislabeled—would continue Tuesdays without asking permission.
-
-Rowan capped his pen.
-
-Outside the glass, approach traffic held pattern.
-
-Berth fourteen-C breathed.
-
-Edition 144 sat authorized on the desk—still a manual, not prophecy; still questions, better formed.
-
-Fleet had made its first irreversible choice.
-
-Not about the Dominion.
-
-About itself.
-
-Rowan turned off the desk lamp.
-
-Fade was not surrender.
-
-It was the office learning that some decisions did not need an audience to become real.
+Rowan capped his pen and turned off the desk lamp.
 
 ---
 
@@ -517,25 +431,11 @@ It was the office learning that some decisions did not need an audience to becom
 
 Calder could not sleep.
 
-Not from guilt—from inventory. The report was sealed. Holt's polymer band sat in archive cold store. Rowan's framework authorization had routed to annexes Calder was not invited to read tonight. His witness role was concluded; his hull clearance was not.
-
 He walked the cradle strip at second shift change when yard traffic thinned and Founders' Week residual banners finally came down on the berths that mattered. The *Kestrel Veil* looked smaller against Helion's industrial scale than she had against segment seven—scout-class, patched, listed two degrees port, breathing on correction-thrust stewardship until Koss certified gamma's ugly handoff.
-
-He thought of the executive summary with Thessaly's bands intact and Mercer's forks stapled beside it like siblings who did not speak at dinner. Fleet owned that now—not Calder, not Park, not Ortega's harmonics filed in triplicate. Owned the way institutions owned weather after someone measured it: useful, distributed, no longer personal.
-
-First Witness was not a rank. It was a season. His had ended in a witness annex with coffee untouched and Rowan asking the one question that mattered. What remained was command—berth fourteen-C, limited patrol authorization, a crew who had carried truth home and deserved not to be handled like glass.
 
 Calder climbed the gangway without ceremony. The bridge was dark except for nav plot glow and Brenner's habit of leaving one running light on when the ship slept. He stood at the rail where he had stood in segment seven and in Fleet approach and would stand tomorrow on patrol—same hull, different obligation.
 
-He was not a symbol on this rail.
-
-He was a captain with a patched ship and amber damage boards and a frontier that had not opened but had stopped being empty in Fleet's grammar.
-
 Calder keyed the night watch himself—*crew rest cycle authorized, patrol prep 0600, witness appendix custody confirmed archived*—and left the bridge before anyone could ask why he was awake.
-
-Being captain again was the work.
-
-Ortega's patrol pane still showed segment seven occupancy at the edge of classification—stable pattern, unresolved intent, waiting for the next epoch.
 
 ---
 

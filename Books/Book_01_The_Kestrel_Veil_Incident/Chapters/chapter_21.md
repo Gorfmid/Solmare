@@ -56,7 +56,7 @@ A Doctrine Bureau captain—Reeves, fifteen years of boxes—looked at the white
 
 Reeves: "Edition 144 becomes a menu."
 
-"Edition 144 becomes honest," Ahn said quietly. "Menus prevent lying."
+"Edition 144 becomes usable," Ahn said quietly. "Menus prevent lying."
 
 Mercer routed all three branches to Rowan's stack with a cover line he hated and kept:
 
@@ -76,16 +76,6 @@ Coffee went cold while language was debated.
 
 Down the hall, someone had copied Thessaly's clumsy header onto a whiteboard again. Mercer would not erase it. Forks needed visible edges.
 
-Fleet was not breaking.
-
-Fleet was splitting into expert perspectives that all had access to the same certified observation.
-
-That was structural, not emotional.
-
-Mercer discovered doctrine was not convergence.
-
-It was structured divergence under pressure—and his job was to keep the forks labeled, not pretend one was prophecy.
-
 ---
 
 ***FLEET CARTOGRAPHY SERVICE — MAP ROOM FOUR***  
@@ -99,7 +89,7 @@ Updated overlays from segment seven showed corridor structures beyond prior surv
 
 Analysts still argued about ink.
 
-Pell, Founders' Week ring duller now, pointed at a freight spine annotation. "Civilian expansion pattern. School transport clustering supports Ortega harmonics. Default read: ordinary Tuesday at scale."
+Pell, Founders' Week ring duller now, pointed at a freight spine annotation. "Civilian expansion on the spine. School transport clustering supports Ortega harmonics. Default read: ordinary Tuesday at scale."
 
 Torres, survey veteran, shook her head. "Dual-use masking is ordinary at scale. Yard throughput plus border discipline plus Incident discharge baseline—default read: infrastructure that can become strategy without announcing itself."
 
@@ -111,7 +101,7 @@ Pell flushed. "If we shade strategic ambiguity into the public historical slide,
 
 "If we shade civilian-only into operational charts," Torres said, "Exploration reads permission where Logistics reads risk."
 
-Okoye looked at the projection—lanes Fleet had called edge, now visibly middle. She thought of Ellis in Historical Office archiving old belief instead of deleting it. She thought of Mercer's three forks upstairs and the ugly honesty of not collapsing them.
+Okoye looked at the projection—lanes Fleet had called edge, now visibly middle. She thought of Ellis in Historical Office archiving old belief instead of deleting it. She thought of Mercer's three forks upstairs and the discipline of not collapsing them.
 
 "We are not drawing space anymore," Pell said, quietly. "We are drawing assumptions."
 
@@ -121,7 +111,7 @@ Okoye wrote the sentence in the Cartography liaison note for Rowan's stack:
 
 *Notation dispute: infrastructure read — civilian expansion vs dual-use strategic masking. Witness bands support both inference frames. Recommend separate operational and historical shading until Doctrine fork resolves.*
 
-She split the overlay into two notation layers on purpose—operational chart with inference flags visible, historical slide with Ellis's archive citation attached. Same chart. Two honest reads. One Fleet.
+She split the overlay into two notation layers on purpose—operational chart with inference flags visible, historical slide with Ellis's archive citation attached. Same chart. Two defensible reads. One Fleet.
 
 Soraya Ellis passed the doorway on her way to the archive annex with a curator's crate and did not intervene. She read the whiteboard over Okoye's shoulder, nodded once, and continued down the hall. Historical Office would file the argument, not settle it.
 
@@ -195,8 +185,6 @@ Sato: "Noted."
 Ahn added a redline box on the draft slide—*Limitations of Fleet Terminology*—mandatory subsection per Mercer's Edition 144 skeleton.
 
 Language remained unresolved.
-
-That was correct.
 
 Truth had been accepted.
 
@@ -293,9 +281,9 @@ She laid segment seven structure patterns beside Fleet's own historical analogue
 
 She opened Maris Chen's queue entry—contradictory occupancy, routine flag, senior review never completed. Ellis did not claim Maris had seen segment seven. She claimed Fleet had a habit of filing precision as inconvenience when precision threatened narrative comfort.
 
-Long-observation civilizations in Fleet historical record showed repeating tendencies—stability over premature classification, escalation delayed when passive evidence outran intent, infrastructure treated as Tuesday until Tuesday proved otherwise. Ellis wrote the counter-examples too: civilizations that delayed too long, that mistook preparation for peace.
+Long-observation civilizations in Fleet historical record showed repeating tendencies—stability over premature classification, escalation delayed when passive evidence outran intent, infrastructure logged as routine until routine failed. Ellis wrote the counter-examples too: civilizations that delayed too long, that mistook preparation for peace.
 
-Fleet could not assume segment seven patterns safely. Fleet could not ignore pattern without arrogance.
+Fleet could not assume segment seven traffic safely. Fleet could not ignore recurring service without arrogance.
 
 Her conclusion arrived without drama:
 
@@ -317,18 +305,12 @@ A junior curator asked if public tours should pause.
 
 "No," Ellis said. "Tours should show revision."
 
-History preserved mistakes.
-
-History also prevented panic if you let it speak before policy did.
-
 ---
 
 ***FLEET HEADQUARTERS — OPERATIONS TIER***  
 *ROWAN'S REALIZATION*
 
 Fleet Admiral Elias Rowan reviewed forks the way surgeons reviewed scans—without pretending the image was the injury.
-
-He was learning they failed when they pretended disagreement was disloyalty.
 
 Fleet was not choosing between truth and falsehood—certification had settled truth. Fleet was choosing between incomplete safeties: restraint risking late response, readiness risking self-fulfilling threat read, ambiguity dressed as maturity. None wrong. All incomplete.
 
@@ -352,21 +334,7 @@ Mercer read it over his shoulder. "Sign it?"
 
 Mercer entered it. Sato would read it without smiling. Thessaly would call it insufficient tomorrow.
 
-Evening shift changed in the corridor. Junior officers passed with memo stacks and the tired optimism of people who believed someone upstairs was deciding. Rowan was upstairs deciding only to name the disagreement honestly.
-
-Fleet had accepted truth.
-
-Now Fleet struggled with meaning.
-
-The chapter ended with three doctrine branches on a whiteboard and no single default posture in Operations.
-
-Structural ambiguity.
-
-Not confusion.
-
-The weight of evidence had arrived.
-
-The weight of interpretation had only begun.
+Evening shift changed in the corridor. Junior officers passed with memo stacks and the tired optimism of people who believed someone upstairs was deciding. Rowan was upstairs deciding only to name the disagreement plainly.
 
 ---
 

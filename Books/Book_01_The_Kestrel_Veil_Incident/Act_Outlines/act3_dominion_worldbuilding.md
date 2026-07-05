@@ -8,6 +8,8 @@
 
 **Terminology:** Scenes from the opposing civilization = **Dominion Thread** (not *enemy POV*). See `dominion_worldview.md` — recurring vocabulary.
 
+**Institutional names:** Government bodies use full institutional names on first reference in a scene (*Education Directorate*, *Regional Transportation Directorate*, *Transit Control*, *Industrial Directorate*). Characters may shorten after establishment. Do not use abstract nouns as org names (*Education*, *Industrial*, *Routing* as department). Common nouns unchanged (*maintenance windows*, *routing logic*, *industrial output*). Full table: `Characters/Antagonists/The_Dominion.md`.
+
 ---
 
 ## Core Objective

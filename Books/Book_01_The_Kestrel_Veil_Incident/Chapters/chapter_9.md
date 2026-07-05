@@ -123,7 +123,7 @@ Stratimirov opened a drawer and removed a tin of tea—not ration issue, a gift 
 
 "Mobilization schedule," he said.
 
-"Continues, sir. Tier two acceleration authorized last month." Petrov read without inflection. "Shipyard labor shifts on the outer belt yards moved to eighteen-hour rotation last week—Industrial notation only. Reserve warrant officers recalled for refresher cycles: forty-three names this month. Fuel depot expansion at Kessik completed forty days ahead of schedule. Frontier munitions stores received quiet inventory refresh—standard rotation language, nonstandard volume. Logistics corridors on the seven-alpha approach finished ahead of procurement forecast."
+"Continues, sir. Tier two acceleration authorized last month." Petrov read without inflection. "Shipyard labor shifts on the outer belt yards moved to eighteen-hour rotation last week—Industrial Directorate notation only. Reserve warrant officers recalled for refresher cycles: forty-three names this month. Fuel depot expansion at Kessik completed forty days ahead of schedule. Frontier munitions stores received quiet inventory refresh—standard rotation language, nonstandard volume. Logistics corridors on the seven-alpha approach finished ahead of Procurement Office forecast."
 
 "Continue it." He poured. "Accelerate cloak refinement. All trial data to Science Directorate—sealed channel, not political liaison. Scientific funding stays elevated—no directorate memos calling it a windfall."
 
@@ -366,7 +366,7 @@ There.
 
 Faint.
 
-Not flash. Not drive signature. Not the honest bloom of a ship that wanted to be seen.
+Not flash. Not drive signature. Not the full bloom of a ship running active emissions.
 
 A passive return outside the usual traffic patterns—thermal decay wrong for freight, too quiet for a scheduled convoy, too steady for debris.
 

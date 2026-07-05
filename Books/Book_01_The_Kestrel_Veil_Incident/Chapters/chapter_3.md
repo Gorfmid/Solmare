@@ -60,7 +60,7 @@ At the relay station, Jun Park looked up long enough to register Calder's rank i
 
 Calder had read the posting summary at Lisette's table. Reconnaissance mandate. Kestran Spiral sector. Green indicators on the readiness charts—accurate, if incomplete.
 
-Ari Halden leaned against the tactical console. "Tactical Systems Officer Halden, Captain. Emitters green. Egress viable if contact geometry stays favorable."
+Ari Halden leaned against the tactical console. "Tactical Systems Officer Halden, Captain. Emitters green. Egress viable if bearing spacing stays favorable."
 
 "Halden," Thessaly said.
 

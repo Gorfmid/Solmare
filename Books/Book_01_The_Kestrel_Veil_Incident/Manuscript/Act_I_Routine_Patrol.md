@@ -252,7 +252,7 @@ Maris Chen had requested the Segment Seven reconciliation set three cycles ago�
 
 Most analysts validated packets. Maris reconciled them.
 
-She filtered the afternoon load: epoch adjustment notices, navigation baseline comparisons, scout return summaries, relay refurbishment logs, historical anchor reviews, passive geometry supplements marked *routine*. Tomas Rhee brought coffee and did not ask why she had pulled Segment Seven again.
+She filtered the afternoon load: epoch adjustment notices, navigation baseline comparisons, scout return summaries, relay refurbishment logs, historical anchor reviews, passive return supplements marked *routine*. Tomas Rhee brought coffee and did not ask why she had pulled Segment Seven again.
 
 "Founders' Week," he said, by way of explanation for why the queue was fat.
 
@@ -262,7 +262,7 @@ Segment Seven occupied the public archive as frontier—open notation, sparse in
 
 Maris read the first packet and felt nothing but the usual fatigue of a queue that would outlive her shift.
 
-Relay maintenance on seven-beta: refurbishment completed on schedule; merge geometry within posted tolerance. Maris tagged it *expected drift* and moved on.
+Relay maintenance on seven-beta: refurbishment completed on schedule; routing tolerance within posted limits. Maris tagged it *expected drift* and moved on.
 
 The second packet made her pause.
 
@@ -274,11 +274,11 @@ She opened a side pane and pulled last cycle's seven-alpha summary. The offset h
 
 The third packet arrived with her tea going cold.
 
-Cartography epoch desk had reopened seven-alpha merge shading—an adjustment that should have been settled two cycles ago. Reason code: conflicting survey returns. All returns had passed validation.
+Cartography epoch desk had reopened seven-alpha routing overlay—an adjustment that should have been settled two cycles ago. Reason code: conflicting survey returns. All returns had passed validation.
 
 She opened four more, faster now, because her mind had started comparing before her display finished loading.
 
-A chartered survey platform noted historical positional anchors from an eleven-year-old frontier pass no longer seated cleanly against current passive geometry—both datasets green, neither wrong alone. Navigation had posted a baseline revision for the Kestran outer marches segment; the revision was minor, the frequency was not. Two scout-class surveys filed within the same week: different crews, different sensor platform generations, both within tolerance, mutually exclusive on one merge node if you held the geometry still long enough to care.
+A chartered survey platform noted historical positional anchors from an eleven-year-old frontier pass no longer seated cleanly against current passive returns—both datasets green, neither wrong alone. Navigation had posted a baseline revision for the Kestran outer marches segment; the revision was minor, the frequency was not. Two scout-class surveys filed within the same week: different crews, different sensor platform generations, both within tolerance, mutually exclusive on one routing junction if you held the pattern still long enough to care.
 
 Any one report still had a benign explanation if you wanted one.
 
@@ -300,7 +300,7 @@ Fleet Cartography had to see it. Not after Founders' Week. Not after each packet
 
 She began a priority draft on the secure template she had used twice before in her career, both times for inconsistencies senior desks had downgraded until secondary review proved them structural. Her hands were steady. Her caution was not. The title field accepted: *Segment Seven Frontier—Persistent Survey Baseline Divergence Requiring Epoch Review.*
 
-Section one: individual reports, sourced, timestamped, stripped of adjectives. Section two: correlation map—geometry drift against baseline revisions against reopened epoch flags against mutually exclusive validated returns. Section three: still blank. Assessment and recommended escalation. Immediate transmission to Fleet Cartography Command.
+Section one: individual reports, sourced, timestamped, stripped of adjectives. Section two: correlation map—positional drift against baseline revisions against reopened epoch flags against mutually exclusive validated returns. Section three: still blank. Assessment and recommended escalation. Immediate transmission to Fleet Cartography Command.
 
 "Tomas," she said without looking up. "If you were seeing relay timing lag, would you reopen the epoch or reseat the anchor?"
 
@@ -312,7 +312,7 @@ He did not ask if she was sure. He had seen her be right before.
 
 At 1547 she saved the draft to the annex queue—priority flag pending her completion of section three, biometric handoff required before transmission. Standard procedure. The system auto-saved every four minutes.
 
-She needed twenty minutes. Maybe thirty. One more pass through the scout returns to see whether the offsets formed a geometry or a scatter.
+She needed twenty minutes. Maybe thirty. One more pass through the scout returns to see whether the offsets formed a pattern or a scatter.
 
 She stood, rolled her shoulders, and told Tomas she would take the quick loop to the chapel tier—twenty minutes to finish section three in her head.
 
@@ -879,7 +879,7 @@ At the relay station, Jun Park looked up long enough to register Calder's rank i
 
 Calder had read the posting summary at Lisette's table. Reconnaissance mandate. Kestran Spiral sector. Green indicators on the readiness charts—accurate, if incomplete.
 
-Ari Halden leaned against the tactical console. "Tactical Systems Officer Halden, Captain. Emitters green. Egress viable if contact geometry stays favorable."
+Ari Halden leaned against the tactical console. "Tactical Systems Officer Halden, Captain. Emitters green. Egress viable if bearing spacing stays favorable."
 
 "Halden," Thessaly said.
 
@@ -1270,7 +1270,7 @@ Thessaly, entering with a slate: "I have it. Man lost a bonus and wrote like he 
 
 Calder listened. The official stories did not match. The ship was still here anyway.
 
-"One more," Ortega said, hesitant until Reyes nodded. "Three cycles ago—tertiary dropout on mapping run. Fleet said sensor age. Koss said connector fatigue. Offset was consistent. Same wrong family every pass. We all reported. Ship kept flying."
+"One more," Ortega said, hesitant until Reyes nodded. "Three cycles ago—tertiary dropout on mapping run. Fleet said sensor age. Koss said connector fatigue. Offset was consistent. Same wrong signature every pass. We all reported. Ship kept flying."
 
 "Typical Veil," Halden said. "Everything attached breaks. She doesn't."
 
@@ -1297,7 +1297,7 @@ The crew moved through a routine they had run before—Park with coffee ready fo
 
 Calder poured coffee and did not look at the carton.
 
-"Primary route locked," Reyes said from the command deck. "Tanaka, sequence staging." Tanaka acknowledged while Ortega took tertiary channel monitoring during jump prep—log dropouts, do not merge until Koss cleared hardware fault. Walsh moved through the ship with his checklist—new line at the bottom: *If provisioning appears unexpectedly, assume correct until proven otherwise.* Sharma verified berth atmospheres; Cole ran handshake tests with Park; Hale stood at tactical systems because Halden's voice had shifted register half a degree—nothing wrong, simply preparation.
+"Primary route locked," Reyes said from the command deck. "Tanaka, sequence staging." Tanaka acknowledged while Ortega took tertiary channel monitoring during jump prep—log dropouts, do not combine until Koss cleared hardware fault. Walsh moved through the ship with his checklist—new line at the bottom: *If provisioning appears unexpectedly, assume correct until proven otherwise.* Sharma verified berth atmospheres; Cole ran handshake tests with Park; Hale stood at tactical systems because Halden's voice had shifted register half a degree—nothing wrong, simply preparation.
 
 Calder did not shout orders. He called gates.
 
@@ -1427,7 +1427,7 @@ Halden did not look up from tactical watch until she had something to say.
 
 "Routine patrol corridor confirmed," Reyes said. "Same sweep Dennett ran last cycle. Drift vector four—point-zero-three port."
 
-"Fleet will love that," Halden muttered. "Picket geometry on that advisory—watch the spacing."
+"Fleet will love that," Halden muttered. "Picket spacing on that advisory—watch the intervals."
 
 "Perfect repetition's still repetition," Reyes said. "Fleet doesn't care if it bores you."
 
@@ -1451,7 +1451,7 @@ Reyes: "Navigation grid re-synced. No trajectory deviation."
 
 Halden looked up. "Tactical didn't notice anything because nothing happened."
 
-"Does that hold if contact geometry shifts?" Calder asked.
+"Does that hold if contact bearing shifts?" Calder asked.
 
 Halden's mouth twitched. "That's the goal. Allegedly."
 
@@ -1518,7 +1518,7 @@ Halden leaned back. "Everything here is slightly wrong in a way that balances ou
 
 Thessaly, from the central console: "It's the lived one."
 
-Ortega raised a hand from the sensor station. "Tertiary—same offset family as cradle. Looks nominal if you ignore the family."
+Ortega raised a hand from the sensor station. "Tertiary—same offset signature as cradle. Looks nominal if you ignore the signature."
 
 Reyes did not react. Ortega lowered his hand.
 
@@ -1596,7 +1596,7 @@ Hale passed the other way toward the galley corridor nook, calibration kit under
 
 Okwelu was in the medical bay doorway when Calder climbed toward habitation—slate in hand, eyes on the pass-through traffic, not on him. She noted his transit time against the rest log and went back to her notebook.
 
-When Calder climbed back to the command deck, Park was mid-rhythm and Ortega had two tabs open—the merge column and the segregated offset log he never reconciled with Fleet's pretty numbers.
+When Calder climbed back to the command deck, Park was mid-rhythm and Ortega had two tabs open—the correlation column and the segregated offset log he never reconciled with Fleet's pretty numbers.
 
 Tanaka and Reyes traded the navigation station without ceremony. Tanaka sat. The chair squeaked. Reyes stood behind her and corrected one word in a buffer overlap note—*port*, not *starboard*—without looking at the slate. Tanaka paused half a beat, then nodded.
 
@@ -1672,7 +1672,7 @@ Halden reported a ghost trace—possible contact, resolved as sensor echo off a 
 
 Brenner took the last piece from the forward carton on his way aft. Park refilled it from overflow without comment.
 
-When Park transmitted the late-cycle status packet, one return line matched an entry from mid-cycle—the duplicate family, not the same ping, the same shape. He hesitated half a beat, flagged it separately, released the rest without comment.
+When Park transmitted the late-cycle status packet, one return line matched an entry from mid-cycle—the duplicate signature, not the same ping, the same shape. He hesitated half a beat, flagged it separately, released the rest without comment.
 
 Calder did not ask. He was learning which questions changed posture and which ones only changed the room's temperature.
 
@@ -1713,7 +1713,7 @@ The acknowledgment came back four seconds early.
 
 Park held the copy separate until the primary transmission finished. The secondary buffer did not clear automatically—it remained flagged longer than it should have before Park manually released it. Cole did not comment. Neither did anyone else.
 
-"Hold secondary merge," Calder said. "Not until Park clears the flag."
+"Hold secondary composite," Calder said. "Not until Park clears the flag."
 
 Calder crossed to the command chair. The squeak complained when he tested the cushion. He sat, then shifted once—slow, deliberate—until the protest reached maximum tolerated volume.
 

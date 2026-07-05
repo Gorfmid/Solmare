@@ -21,7 +21,7 @@ Not celebration green.
 
 Procedure green.
 
-Lieutenant Ahn read the release manifest aloud because Doctrine Bureau believed spoken lists caught errors slates hid—Edition 144 base manual with First Principles, witness band appendix, and Context-Dependent Application Protocol; fork annex with Branch A, B, and C physically distinct and collapse footer intact; Cartography tri-layer attachment with operational default by mission environment tag; Communications metadata schema revision with interpretive labels and checksum isolation; training scenario refresh for conditional posture selection without unified default exercise. Mercer acknowledged each item and signed the publication completion block with the pen that had stamped *insufficient evidence to collapse divergence* so many times the nib had learned honesty.
+Lieutenant Ahn read the release manifest aloud because Doctrine Bureau believed spoken lists caught errors slates hid—Edition 144 base manual with First Principles, witness band appendix, and Context-Dependent Application Protocol; fork annex with Branch A, B, and C physically distinct and collapse footer intact; Cartography tri-layer attachment with operational default by mission environment tag; Communications metadata schema revision with interpretive labels and checksum isolation; training scenario refresh for conditional posture selection without unified default exercise. Mercer acknowledged each item and signed the publication completion block with the pen that had stamped *insufficient evidence to collapse divergence* so many times the nib had worn smooth.
 
 `EDITION 144 — SYSTEM DISTRIBUTION ACTIVE — BRANCHES PRESERVED — COLLAPSE NOT AUTHORIZED`
 
@@ -51,7 +51,7 @@ Victory was a word for engagements and elections and other things that ended wit
 
 He felt completion—the specific weight of a box finally closed because every item inside had a labeled place, even the items that contradicted each other.
 
-Edition 143 sat on the shelf behind him, spine uncracked on the cadet copy, cracked on the working copy. One manual for a Fleet that had pretended the frontier was a grammar problem. One manual for a Fleet that admitted the frontier was a civilization problem wearing survey notation.
+Edition 143 sat on the shelf behind him, spine uncracked on the cadet copy, cracked on the working copy. One manual for empty frontier notation. One manual for occupied lanes with witness bands attached.
 
 A junior Doctrine clerk—Reeves, fifteen years of boxes, younger in the face than in the career—paused at the doorway with a question Mercer had expected since the forks first appeared on the whiteboard.
 
@@ -132,12 +132,6 @@ Maret exhaled once. "So that's Edition 144."
 
 The *Morning Watch* continued patrol.
 
-Doctrine had become a dropdown menu.
-
-That should have felt diminishing.
-
-It felt like professionalism finally matching the sky.
-
 ---
 
 ***FLEET CARTOGRAPHY SERVICE — MAP ROOM FOUR***  
@@ -149,7 +143,7 @@ Now it started shifts.
 
 Map Room Four smelled the same—ink solvent, plastic sleeves, coffee that had given up pretending to be fresh. The projection table ran three layers by default: civilian rhythm, neutral corridor, strategic potential. The witness record sat beneath all three, singular and cold, the way bedrock sat beneath cities that argued about architecture.
 
-Pell, Founders' Week ring duller now, toggled layers without looking up from her epoch revision while Intelligence pulled potential overlay on the morning brief and Exploration liaison wanted rhythm primary on patrol packets—same stars, nobody screamed. Torres grunted approval when operational chart export for skid *Morning Watch* went out compressed tri-layer and Sorin acknowledged receipt without clarification request. Three weeks ago that would have been a miracle; today it was Tuesday.
+Pell, Founders' Week ring duller now, toggled layers without looking up from her epoch revision while Intelligence pulled potential overlay on the morning brief and Exploration liaison wanted rhythm primary on patrol packets—same stars, nobody screamed. Torres grunted approval when operational chart export for skid *Morning Watch* went out compressed tri-layer and Sorin acknowledged receipt without clarification request. Three weeks ago that would have started an argument; today nobody asked which layer was true.
 
 A junior analyst—Denholm, logistics crossover—paused at the UI tutorial pane. "Cadet question from training core: which layer is true?"
 
@@ -161,17 +155,7 @@ Okoye did not look up. "Which layer is your mission environment?"
 
 Denholm nodded and closed the ticket.
 
-Parallel readings had stopped being philosophy.
-
-Parallel readings were interface design.
-
 Okoye walked the projection once—segment seven lane correlation unchanged, commuter traffic inference stable, Incident baseline bearing filed separately per witness certification, epoch revision without hostile contour because hostile contour was a policy choice Cartography no longer smuggled into ink.
-
-She thought of Edition 143's comfortable empty shading.
-
-She thought of Ellis archiving that slide beside Founders' Week placards with the margin *stabilizes is not synonymous with empties*.
-
-She thought of Calder's grammar—observed, inferred, speculation absent—and how Map Room now mirrored it in color instead of sentences.
 
 "Controversial" had become a word for historians and bored captains who missed one-box manuals.
 
@@ -183,21 +167,9 @@ Pell stretched, joints loud in the quiet room. "Mercer's annex says collapse not
 
 Okoye routed the daily tri-layer integrity summary to Rowan's stack—routine now, not alarm:
 
-`PARALLEL READINGS — STANDARD UI — WITNESS GEOMETRY UNCHANGED — NO COLLAPSE REQUESTS LOGGED`
-
-What had been philosophical was operational.
-
-What had been operational was culture.
+`PARALLEL READINGS — STANDARD UI — WITNESS BEARINGS UNCHANGED — NO COLLAPSE REQUESTS LOGGED`
 
 Okoye poured second coffee and did not finish first.
-
-Fleet had not solved the border.
-
-Fleet had solved how to look at it without lying.
-
-That was not completion.
-
-It was infrastructure.
 
 ---
 
@@ -208,7 +180,7 @@ Dana Holt trusted relay times.
 
 She was learning to trust tags with the same professional patience.
 
-The validation bay had acquired a new display column three weeks ago—interpretive metadata, isolated from checksum validation, labeled in Communications sans-serif ugly enough to prevent romance. Priya had named it the *honesty column* in private. Holt had let the name stick because accuracy sometimes needed affection to survive shift work.
+The validation bay had acquired a new display column three weeks ago—interpretive metadata, isolated from checksum validation, labeled in Communications sans-serif ugly enough to prevent romance. Priya had named it the *label column* in private. Holt had let the name stick because accuracy sometimes needed affection to survive shift work.
 
 Priya Nand ran the morning lag metrics without alarm—eleven milliseconds average today, twelve yesterday, eleven the day before; structural feature, not incident. The fringe relay VI-Gamma mirror showed the same segment seven citation family arriving twice with Exploration tag at routine priority and Intelligence tag at elevated priority, checksum match, chain green; Holt noted both and archived routing order.
 
@@ -254,16 +226,6 @@ Communications had not unified Fleet meaning.
 
 Communications had built a system that carried plural meaning without breaking custody—a harder engineering problem than anyone in Operations had admitted when Rowan signed Edition 144.
 
-Holt thought of VI-Gamma passive returns before the incident.
-
-She thought of Jun Park's personal lane closed when the ship departed berth.
-
-She thought of archive seals and redundant custody and the quiet sentence that had closed the operational chain: *the report has arrived*.
-
-The report had arrived.
-
-Now the institution was arriving at itself—slowly, procedurally, without parade.
-
 Holt logged the thought nowhere official.
 
 Official logs got timestamps.
@@ -283,13 +245,7 @@ Edition 144 was propagating like a solved problem—which was not the same as a 
 
 He stood at the glass and read the morning digest Mercer routed without commentary—Exploration patrol *Morning Watch* on Branch A tag with passive extension and marker stabilized; Intelligence scenario trees refreshed under capability-first lens with hostile classification refused; Cartography tri-layer standard UI with zero collapse requests; Communications chain stable at eleven-millisecond tagging lag within structural tolerance; Doctrine annex with fourteen training cores acknowledged; Logistics duplicate notices tagged and procurement clerk educated. No panic flags, no clarification avalanches, no unified-default petitions.
 
-Rowan had spent a career believing institutions survived on singularity of understanding—the admiral's voice, the manual's one box, the order that made ambiguity someone's fault downstairs.
-
-He had learned a harder truth in the months since berth fourteen-C breathed with a patched scout inside it.
-
-Institutions survived on **honest plumbing**.
-
-Below the glass, Helion approach traffic held pattern. Berth fourteen-C still held the *Kestrel Veil*—working hull, crew rotation on schedule. Junior officers passed with slates showing context tags the way his generation had shown fuel profiles.
+Below the glass, Helion approach traffic held lane discipline. Berth fourteen-C still held the *Kestrel Veil*—working hull, crew rotation on schedule. Junior officers passed with slates showing context tags the way his generation had shown fuel profiles.
 
 Rowan opened the propagation map on his desk pane.
 
@@ -313,24 +269,12 @@ Mercer set the coffee down. "You look like a man watching weather."
 
 Rowan returned to the glass.
 
-Inside Helion Prime, Edition 144 became behavior.
-
-Outside Helion Prime, the border volume held its silence—the same structured occupancy Fleet had finally stopped calling empty.
-
-Fleet had changed everything internal.
-
-The external frontier waited unchanged.
-
-That was also doctrine.
-
 ---
 
 ***OUTER KESTRAN APPROACH — SCOUT *KESTREL VEIL***  
 *THE FRONTIER REMAINS UNCHANGED*
 
 Calder Venn stood on his bridge and watched nothing happen.
-
-That was the mission.
 
 Passive watch on the approach lane to segment seven notation—Fleet space still, by ephemeris and treaty and the comfortable fiction of margins. The *Kestrel Veil* had been cleared for limited patrol after yard certification and psychiatric consult and the slow bureaucratic kindness Fleet extended to ships that had become evidence. Brenner had the helm with the particular stillness of engineers who trusted correction thrusters more than speeches. Park ran communications with the economy of a man who had carried chains through void and did not need to prove it twice. Walsh's damage boards glowed amber in places green used to live.
 
@@ -342,53 +286,15 @@ No handshake request.
 
 No density spike requiring Branch C readiness flags.
 
-Silence—not empty silence.
-
 Occupied silence.
 
-Calder had learned the difference in segment seven the way surgeons learned tissue—by mistake first, by discipline after.
-
-"Passive systems stable," Ortega said from sensors. "Occupancy at epoch edge—same pattern family as segment seven. No hunt on our bearing. Harmonics, not intent."
+"Passive systems stable," Ortega said from sensors. "Occupancy at epoch edge—same signal family as segment seven. No hunt on our bearing. Harmonics, not intent."
 
 "Note it," Calder said. "Restraint tag. Witness hull on a leash Fleet wrote down."
 
 Park almost smiled. "Footer says collapse not authorized. Strange on scout rail."
 
 "Accurate." Calder turned back to the rail. "Hold emissions. Passive only."
-
-Beyond the border Fleet notated and did not yet understand, life continued without requesting Fleet's permission.
-
-Commuter traffic did not pause for Edition 144.
-
-Authentication density did not tighten because Mercer propagated a fork annex.
-
-The autumn festival had ended in a civilization Calder had observed only through harmonics and inference bands—ordinary volume at scale, restraint without declaration, depth without introduction.
-
-They did not know Fleet had certified a witness record.
-
-They did not know Fleet had forked doctrine.
-
-They did not know a patrol lieutenant named Sorin had extended passive dwell on a marker without brightening the sky.
-
-Calder found no comfort in that ignorance.
-
-He found proportion.
-
-Fleet had changed everything internally.
-
-Externally, nothing had moved.
-
-The frontier had not opened.
-
-No veil had lifted.
-
-No first contact had occurred in the press-office sense Fleet still feared and craved in equal institutional measure.
-
-There was only the same occupied silence, observed now by a civilization that had learned to stand before it differently.
-
-Calder thought of Rowan's margin line—*we can choose the civilization that crosses it*—and understood crossing did not mean charging.
-
-Sometimes crossing meant standing in passable corridor with your emissions disciplined and your grammar honest and your initiation withheld until intent became evidence instead of appetite.
 
 "Brenner," he said quietly.
 
@@ -400,33 +306,9 @@ Sometimes crossing meant standing in passable corridor with your emissions disci
 
 Park keyed the tag; Ortega noted the bands; Walsh ran the amber boards that would outlive the watch. Calder watched the frontier remain unchanged.
 
-He had been First Witness.
+Calder keyed the night watch himself—*crew rest cycle authorized, patrol prep 0600, witness appendix custody confirmed archived*—and left the bridge before anyone could ask why he was awake.
 
-He was a captain again.
-
-The book of the incident was sealed in archive.
-
-The book of Fleet behavior was writing itself in patrol sweeps and training cores and tri-layer maps and honesty columns—procedural sentences accumulating into history the way commuter traffic accumulated into Tuesdays.
-
-Calder did not say the closing line aloud.
-
-Fleet did not need another speech.
-
-He thought it the way navigators thought bearing corrections—private, precise, filed in the part of the mind that steered:
-
-*The frontier did not open.*
-
-*We learned how to stand before it differently.*
-
-Outside, occupied silence.
-
-Inside, disciplined witness.
-
-Between, the margin where civilizations either lied to themselves or grew up.
-
-Fleet had chosen, for now, to grow up without parade.
-
-On the patrol skid, Ortega's pane still showed segment seven occupancy at the edge of classification—stable pattern, unresolved intent, waiting for the next epoch.
+Ortega's patrol pane still showed segment seven occupancy at the edge of classification—stable returns, unresolved intent, waiting for the next epoch.
 
 **END BOOK ONE**
 

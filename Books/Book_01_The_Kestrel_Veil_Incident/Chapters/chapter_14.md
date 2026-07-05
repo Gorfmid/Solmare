@@ -7,11 +7,11 @@
 ***THE DOMINION — FRONTIER COMMAND ACADEMY***  
 *THE ACADEMY*
 
-Commander Vex had removed his gloves before entering the tactical classroom because the room deserved the habit and because young officers learned posture from what seniors did without naming it.
+Commander Vex entered the tactical classroom without ceremony.
 
 Not a lecture hall.
 
-A practical space— worn deck plates, projection tables scarred by decades of stylus work, corridor maps layered on the walls like sediment. Rain moved across the high windows in sheets that made autumn festival banners in the lower quad shimmer seven days out, if rotation held. Old stone framed the doorways. Brass plaques beside each map named expansion phases in script too formal for modern interfaces and too honest to be decorative.
+A practical space— worn deck plates, projection tables scarred by decades of stylus work, corridor maps layered on the walls like sediment. Rain moved across the high windows in sheets that made autumn festival banners in the lower quad shimmer seven days out, if rotation held. Old stone framed the doorways. Brass plaques beside each map named expansion phases in script too formal for modern interfaces and too plain to be decorative.
 
 Vex had returned to teaching quietly while the cloak program rebuilt on benches that did not forgive optimism.
 
@@ -33,9 +33,9 @@ Discipline.
 
 Strategic patience.
 
-Cadet Orlov frowned at a timeline. "If the node had maintained single-system passive coverage, the return would have resolved as drift."
+Cadet Orlov frowned at a timeline. "If the node had maintained single-system passive coverage, the return would have resolved as calibration noise."
 
-"And if the refurb had slipped one week," Vex said, "the drift would have become a gap. Gaps are where incidents begin."
+"And if the refurb had slipped one week," Vex said, "the noise would have become a gap. Gaps are where incidents begin."
 
 Orlov nodded. Not shame. Inventory.
 
@@ -45,7 +45,7 @@ Cadet Sen traced a fuel routing junction. "Redundant routing added four hours. C
 
 Sen wrote *inconvenient* down as if it were doctrine. It was.
 
-Vex walked the table's edge the way he had walked a Leviathan bridge— measured, unhurried, attention on systems rather than applause. The cadets had gone quieter when he said the word; even here, in a classroom seven days from the harvest festival, *Leviathan* changed the air. These were not future heroes in his classroom. They were future maintainers of a civilization that had learned, long before any of them were born, that the void did not negotiate with surprise.
+Vex walked the table's edge the way he had walked a Leviathan bridge— measured, unhurried, attention on systems rather than applause. The cadets had gone quieter when he said the word; even here, in a classroom seven days from the harvest festival, *Leviathan* changed the air. These were not future heroes in his classroom. They were future maintainers who would file delays correctly when the void did not cooperate.
 
 A cadet near the window— young, sharp, still young enough to ask questions adults had stopped asking aloud— raised a hand.
 
@@ -87,7 +87,7 @@ These children would inherit the lesson without inheriting the shame— if the i
 
 The institution, Vex had learned, was another word for people who filed properly and taught anyway.
 
-Rain softened against the high windows. Somewhere in the directorate, Petrov compared thirty markers. Somewhere on a border node, a warrant officer filed a return that would not become drift. Somewhere in a yard, an apprentice learned that the weld outlives the shift.
+Rain softened against the high windows. Somewhere in the directorate, Petrov compared thirty markers. Somewhere on a border node, a warrant officer filed a return that would not downgrade on second pass. Somewhere in a yard, an apprentice learned that the weld outlives the shift.
 
 Continuity was not abstraction.
 
@@ -104,7 +104,7 @@ Segment seven, day eleven.
 
 The wardroom was warm again. Mira Thessaly had decided cold rooms made people rush, and rushing was how explorers mistook confidence for understanding.
 
-Calder Venn sat with coffee he had not finished and notes he had not stopped collecting since day ten's overlay. Damon Reyes had pulled Fleet doctrine excerpts— first-contact protocols, frontier expansion assumptions, survey prioritization language that sounded reasonable until you laid it beside passive returns from a civilization that had never asked Fleet permission to exist.
+Calder Venn sat with coffee he had not finished and notes he had not stopped collecting since day ten's overlay. Damon Reyes had pulled Fleet doctrine excerpts— first-contact protocols, frontier expansion assumptions, survey prioritization language that read differently beside passive returns predating Fleet epoch notation.
 
 Ari Halden had infrastructure ages.
 
@@ -124,57 +124,45 @@ Halden: "Threat model assumes new install equals new truth. Infrastructure bands
 
 Park slid a strip forward. "Observed behavior: continuity. Preparedness. Lanes already built."
 
-Thessaly did not look up from her notes. "Fleet operational question: what's out there. Observed Dominion question: what must still work tomorrow."
+Thessaly did not look up from her notes. "Fleet operational question: what's out there. Observed question on their side: what traffic still clears on schedule."
 
 Marcus Hale leaned against the bulkhead, arms crossed, destroyer track loudness restrained for once. "Combat systems training weights threat profiles. No doctrine for passive transit density."
 
-Ortega almost smiled. "We weren't trained to parse civilian rhythm. Listen watch expects the wrong profile."
+Ortega almost smiled. "Listen watch tagged these as noise. Profile reads commuter spacing."
 
 Calder listened. He had spent years in simulation rooms where first contact arrived as curriculum— handshake protocols, cultural sensitivity modules, expansion ethics case studies that treated the frontier as a surface Fleet would eventually write upon.
 
-The overlay on the table said otherwise— yards that predated Fleet survey markers, relay refurb cycles older than Fleet frontier doctrine, reserve routing that climbed on baselines not cliffs, families that accepted production adjustments the way other civilizations accepted weather.
+The overlay on the table said otherwise— yards that predated Fleet survey markers, relay refurb cycles older than Fleet frontier doctrine, reserve routing that climbed on baselines not cliffs.
 
 No one in the wardroom argued that Fleet was foolish.
 
-Arguing foolishness was how institutions protected themselves from learning.
-
-Calder said, "We weren't trained for occupied corridors. Keep listening."
+Calder said, "We weren't trained for occupied lanes. Keep listening."
 
 The room fell silent.
 
-Not dramatic silence.
+Reyes looked at the doctrine packet, then at the Dominion overlay, then at Calder. "Edition 143 marks these lanes empty. Traffic doesn't."
 
-Professional silence— the kind that followed when a sentence could not be unsaid because it was true.
+Halden, carefully: "Survey epoch predates lane use on the overlay."
 
-Reyes looked at the doctrine packet, then at the Dominion overlay, then at Calder. "We were trained to be first. First with charts. First to call it discovery. I'm not sure we were first at anything except showing up."
+Ortega: "Charts label empty. Returns don't."
 
-"First at what?" Thessaly said.
+Park: "We mapped last. They routed first."
 
-Nobody answered immediately.
-
-Halden, carefully: "First to arrive loudly."
-
-Ortega: "Charts label empty first. Traffic says otherwise."
-
-Park: "Map ours because we drew it."
-
-Thessaly looked up at last. "Fleet Academy records Founders' Week as origin. Observed yards record Founders' Week as maintenance schedule."
+Thessaly looked up at last. "Founders' Week origin maps read first arrival. Yard maintenance bands read decades older."
 
 Hale: "Fair's not rotation doctrine. We're exposed longer every day we stay."
 
 "Threat board doesn't grade fairness," Halden said. "Infrastructure predates our epoch notation."
 
-Calder thought of Helion Prime— terrace stone, graduation swords, Lisette's roll on the counter, Pell's tea. Founders' Week as celebration. First relay charter in glass. *Someone has to go first*— an academy phrase he had believed because belief made the frontier bearable.
-
-Out here, first was a relative term.
+Calder thought of Helion Prime— terrace stone, graduation swords, Lisette's roll on the counter, Pell's tea.
 
 Calder nodded once. "Listening. Comparing. No Fleet relay. No illumination."
 
 "Aye, Captain," Thessaly said.
 
-She wrote Calder's sentence down beside day ten's *preparation, not mobilization*— two lines that did not feel like intelligence summaries anymore. They felt like the beginning of a different education.
+She wrote Calder's sentence down beside day ten's *preparation, not mobilization*.
 
-Brenner spoke from the doorway, flat: "Helm doesn't track first arrivals. Helm tracks who's still breathing after Tuesday."
+Brenner spoke from the doorway, flat: "Helm tracks separation and fuel. We'll hold lane."
 
 Calder nodded. "Then we stay."
 
@@ -195,7 +183,7 @@ She left before he could answer.
 
 Daria Kovat should have gone home.
 
-District festival rehearsal had made Nika loud and happy and intolerant of excuses, and Kovat had missed dinner twice in four days because seven-alpha would not resolve into drift no matter how many second passes she ran.
+District festival rehearsal had made Nika loud and happy and intolerant of excuses, and Kovat had missed dinner twice in four days because seven-alpha would not dissolve on second pass no matter how many reconciliations she ran.
 
 Instead she walked with her daughter through evening rain toward the small memorial on Transit Spine Four— not famous, not political, local.
 
@@ -247,10 +235,6 @@ Kovat almost smiled. "Grandmother is also not wrong."
 
 They stood a minute longer. Kovat did not explain the event that had put the names there. She did not know the full story in the way historians knew stories— she knew the shape of it the way border warrants knew shapes: loss, continuation, duty transferred to people who had not been present and still benefited.
 
-That was enough for a Thursday evening.
-
-Enough for a child who would sing in the district festival chorus and believe, without cynicism, that perseverance was not a volume knob.
-
 On the way home Nika bought sweets with her allowance because sweets were how children apologized for being children.
 
 Kovat let her.
@@ -269,11 +253,7 @@ She read without stopping.
 
 She typed *acknowledged* and put the slate away.
 
-History was not a lecture in District Nine.
-
-It was names in rain and children playing within sight of stone that outlasted the people who had carved it.
-
-At home, Nika rehearsed the chorus line while Kovat warmed the saved portion. *Perseverance is not a volume knob*— Teacher Marin's voice in an eleven-year-old's mouth. Kovat listened and did not correct the melody.
+At home, Nika rehearsed the chorus line while Kovat warmed the saved portion. *Perseverance is not a volume knob*— Teacher Marin's voice in an eleven-year-old's mouth.
 
 Somewhere on seven-alpha, a faint return held position like a stone in a stream.
 
@@ -282,7 +262,7 @@ Kovat would be back at K-17 before dawn.
 ***KESTREL VEIL — CHART ROOM***  
 *MAPS*
 
-Mira Thessaly preferred paper when the question was philosophical and overlays when the question was geometric.
+Mira Thessaly preferred paper when the question was philosophical and overlays when the question was spatial.
 
 Tonight she needed both.
 
@@ -294,7 +274,7 @@ Damon Reyes stood at the chart table's edge, hands loose, eyes on crossing windo
 
 Ari Halden had joined with a band chart she did not want to be right about.
 
-Calder had given her the room without ceremony. Chart room work was executive work when the executive was honest.
+Calder had given her the room without ceremony. Chart room work was executive work when the executive would not soften the bands.
 
 Thessaly moved a transparent sheet over Fleet border notation.
 
@@ -346,12 +326,6 @@ Thessaly met Calder's eyes. "The *Kestrel* isn't only questioning them."
 
 He stepped into the room. "We're questioning us."
 
-That was worse.
-
-Discovery could be filed.
-
-Self-doubt became doctrine.
-
 Thessaly gathered the sheets. "Comparison packet. Observation terms only. No upstream language."
 
 "Build it," Calder said.
@@ -361,8 +335,6 @@ He looked at the Fleet border line one more time— confident, recent, a civiliz
 Then at the Dominion lanes beneath it— older, continuous, indifferent to ink.
 
 The *Kestrel Veil* had crossed into history in segment seven.
-
-Now it was crossing into something more uncomfortable: the possibility that Fleet history had been a chapter written late in a much longer book.
 
 Thessaly would file the comparison packet in observation language. Halden would verify the relay bands twice. Reyes would redraw crossing windows until the border line looked as absurd on paper as it felt in the gut.
 
@@ -377,7 +349,7 @@ Only people could do that— slowly, if they were brave enough.
 
 The training bay smelled of hot metal and solvent and the particular patience of people who believed a joint could be proud if you gave it time.
 
-Pavel Sorokin had removed his gloves before correcting Lina's posture because inspection habits started before inspection tools.
+Pavel Sorokin corrected Lina's posture at the practice joint.
 
 "Elbow in," he said.
 
@@ -437,7 +409,7 @@ Lina exhaled.
 
 Nearby, Petran watched from the bay doorway with tea in a chipped cup. He said nothing. He had already taught Sorokin. Now he taught by presence— the next link in a chain that did not require speeches.
 
-An inspection sled hummed past the window— routine, unglamorous, the kind of craft that kept yards honest. Sorokin had ridden similar sleds at Lina's age and come home with welding dust in his hair and his mother's laughter in the kitchen.
+An inspection sled hummed past the window— routine, unglamorous, the kind of craft that kept yards within tolerance. Sorokin had ridden similar sleds at Lina's age and come home with welding dust in his hair and his mother's laughter in the kitchen.
 
 He almost smiled. "Certify your work. If you wouldn't certify it, don't ask me to."
 
@@ -449,9 +421,9 @@ Civilizations survived because knowledge was inherited.
 
 Not invented every generation.
 
-Outside the bay, mag crawlers hummed. Somewhere in District Fourteen, Mara would be saving dinner again. Somewhere on seven-alpha, a warrant officer marked a return that refused to become drift.
+Outside the bay, mag crawlers hummed. Somewhere in District Fourteen, Mara would be saving dinner again. Somewhere on seven-alpha, a warrant officer marked a return that held past reconciliation threshold.
 
-Sorokin put his gloves on and returned to Slip Three because production adjustments were weather and weather did not wait for pride to finish feeling good.
+Sorokin put his hardhat on and returned to Slip Three. Production adjustments did not wait for pride to finish feeling good.
 
 Lina followed with her log and a question she had earned.
 
@@ -476,15 +448,11 @@ Calder at the rail.
 
 The bridge was quiet the way deep-water ships were quiet— systems murmuring, crew sparse, responsibility distributed so no one person had to carry all of it at once.
 
-Tomás Brenner on helm correction thrust, hands steady; Mira Thessaly aft with slate; Felix Ortega on listen watch— controllers tired, tugs patient, civilization breathing in waveforms; Yuki Tanaka on emitters dark; Marcus Hale on rotation; Jun Park stitching message threads because Park always stitched.
+Tomás Brenner on helm correction thrust, hands steady; Mira Thessaly aft with slate; Felix Ortega on listen watch— controllers tired, tugs patient, commercial chatter in the returns; Yuki Tanaka on emitters dark; Marcus Hale on rotation; Jun Park stitching message threads because Park always stitched.
 
 Calder had not slept enough. He had stopped pretending sleep would fix what segment seven had become. Officers on long passive watches learned to function on debt— sleep debt, certainty debt, the debt of knowing your academy had prepared you for a frontier that might not exist the way charts drew it.
 
-He reviewed everything the way he had reviewed engagement scenarios in simulation years ago— except simulations had endings. This did not. Academies he could not see but could infer— children's lessons about sacrifice without conquest, chorus rehearsals where perseverance was not a volume knob, professional discipline in traffic controllers who sounded tired before they sounded afraid. Archives— layered maps, handwritten margins, *We always build farther ahead than people think necessary*. Shipyards— Petran to Sorokin to Lina, *The weld outlives the shift*. Families— Thursday flowers, production adjustments accepted as weather, grandmothers with proverbs that did not explain themselves. Memorials— names in stone, *They made tomorrow possible*. Transportation— lanes older than Fleet borders. Doctrine— Fleet: discovery, expansion, first arrival; Dominion: continuity, preparedness, preservation. History, not a briefing. A habitat.
-
 Damon Reyes had left a chart strip on the rail— Fleet border notation ghosted over Dominion lane routing, the line visibly absurd once you saw both at once. Calder did not need the strip to remember. Thessaly had made sure he would not.
-
-Calder looked at the plot— Dominion space rendered as observation, not threat— and understood something he had been circling since the wardroom went silent.
 
 Calder said, "History inside them, or history about them?"
 
@@ -494,27 +462,13 @@ Ortega's loop murmured— a child's chorus practice bleeding through civilian tr
 
 Thessaly: "They live inside it. Record supports."
 
-Calder looked back toward Dominion space— not with hatred, not with fear, with the growing sadness of a professional who had begun to admire what he was paid to assess.
+Calder looked back toward Dominion space.
 
 "No."
 
 Pause.
 
 "I think that's what we've forgotten."
-
-Silence held.
-
-Not cinematic.
-
-Honest.
-
-Fleet Authority had inherited confidence— the confidence of a civilization that believed someone had to go first, that empty charts were invitations, that discovery was moral when paired with procedure.
-
-The Dominion had inherited caution— the caution of a civilization that had carved names in local stone and built yards across generations and taught cadets that peace was when readiness was built.
-
-Neither civilization was wrong on its own terms.
-
-History had taught them very different lessons.
 
 Thessaly stepped closer to the rail. Not to challenge. To stand where executives stood when captains carried weight that did not show on plots.
 
@@ -528,15 +482,7 @@ She nodded.
 
 Reyes acknowledged on chart plot; Ortega put the headphone back. Tanaka kept emitters dark; Brenner kept the Reing steady.
 
-The *Kestrel Veil* crept on correction thrusters in inherited space— Fleet confidence meeting Dominion caution in the dark, witness to a conflict that had not begun with hatred and would not, if Calder had anything left to say about it, be simplified into villains.
-
-Jun Park, alone at the communications console ten minutes later, tagged the night's correlations for a Fleet review that did not exist yet— headers blank, times honest, the archive of a war not yet declared growing one thread at a time.
-
-They listened.
-
-They continued.
-
-The corridor held them the way it held everyone who used it without thinking about who had made tomorrow possible.
+Jun Park tagged the night's correlations for a Fleet review that did not exist yet— headers blank, timestamps verified.
 
 Park's segregated archive still held one correlation thread Fleet had not requested—checksum match, urgency flag unset, waiting for a policy layer that did not exist yet.
 

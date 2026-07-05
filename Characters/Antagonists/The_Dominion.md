@@ -63,6 +63,30 @@ Individual sympathy ≠ institutional approval. Empathize with both civilization
 - **Fleet POV:** no faction name until authorized discovery beat
 - Avoid stereotype dialogue; vary individuals
 
+### Institutional names (Acts III+)
+
+Refer to government bodies by **institutional name**, not abstract nouns—when the word means an office or agency.
+
+| Use | Not (as org name) |
+|-----|-------------------|
+| Education Directorate | Education |
+| Industrial Directorate | Industrial |
+| Regional Transportation Directorate | Transportation (first mention in scene) |
+| Transit Control | Routing (as department) |
+| Intelligence Directorate | Intelligence |
+| Science Directorate | *(already standard)* |
+| Strategic Security Directorate | Security (as org) |
+| Procurement Office | Procurement (as org) |
+| Maintenance Division | Maintenance (as org) |
+| Customs Office | Customs (as org) |
+| Planning Office | Planning (as org) |
+
+**Keep as common/technical nouns:** freight, cargo, maintenance windows, routing logic, industrial output, security protocol, logistics chain, maintenance tugs, industrial traffic.
+
+**Casual speech:** after a full name is established in a scene, characters may shorten (*Transportation*, *Industrial*, *Education*).
+
+**Fleet POV:** may use analytic shorthand for observed Dominion behavior unless reporting intercepted institutional language.
+
 ---
 
 ## Related
