@@ -16,6 +16,7 @@
 - `../../../Writing_System/Series_Principles/series_principles.md`
 - `../../../Writing_System/Style_Guide/solmare_craft_doctrine.md`
 - `../../../Writing_System/Style_Guide/the_70_30_rule.md`
+- `../../../Writing_System/Style_Guide/act_iv_institutional_prose.md` — **required** for institutional voice (Ch. 17–24)
 
 ---
 
@@ -99,6 +100,7 @@ The opposing presence becomes **strategically understandable**. It must not beco
 
 ## Generation Checklist (Per Chapter)
 
+- [ ] Load `act_iv_institutional_prose.md` for Fleet/institutional scenes
 - [ ] Strategic accumulation — not episodic revelation
 - [ ] Holt/Nand / Fleet Command continuity from Incident arc
 - [ ] No Fold / Library / living map legacy

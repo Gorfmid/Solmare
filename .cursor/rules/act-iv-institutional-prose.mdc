@@ -1,0 +1,24 @@
+---
+description: Act IV institutional prose — direct voice, no aphorisms (Ch. 17–24)
+globs: Books/Book_01_The_Kestrel_Veil_Incident/Chapters/chapter_{17,18,19,20,21,22,23,24}.md
+alwaysApply: false
+---
+
+# Act IV Institutional Prose
+
+**Canonical source:** `Writing_System/Style_Guide/act_iv_institutional_prose.md`
+
+Load before generating or revising **Chapters 17–24**, especially Fleet institutional scenes (Operations, Communications, Historical Office, custody routing, strategic reading).
+
+## Model sentence (Ch. 17)
+
+> Rowan did not pace. He read the executive summary to the end: observation-first, restraint documented, departure clean by Fleet metrics. The recommendation refused *enemy* without refusing seriousness.
+
+## Rules
+
+- **State action.** List what documents say. Land one institutional judgment. Stop.
+- **Institutional vocabulary only** when technical: routing, custody, segregated, executive synthesis, classification.
+- **No** undefined jargon, aphorisms, clever asides, abstract significance sentences, or verification-stack repetition.
+- **Routing model:** separate packages · independent custody · comments attached · executive synthesis delayed — not merge/combine language.
+
+When in doubt: cut the sentence that sounds wise or technical for its own sake.

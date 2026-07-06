@@ -120,6 +120,7 @@ Act III = border intelligence arc — discovery of structured opposing civilizat
 When generating **Chapters 17–24** (Act IV — First Doctrine), also load and obey:
 
 * `Books/Book_01_The_Kestrel_Veil_Incident/Act_Outlines/act4_chapters_17-24_generation.md`
+* `Writing_System/Style_Guide/act_iv_institutional_prose.md`
 * `Books/Book_01_The_Kestrel_Veil_Incident/Planning/Fleet_Authority_Briefing_Packet.md`
 * `Books/Book_01_The_Kestrel_Veil_Incident/Universe/Fleet_Authority/` (institutional lore)
 * `Books/Book_01_The_Kestrel_Veil_Incident/Ships/Kestrel_Veil.md`

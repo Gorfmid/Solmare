@@ -21,6 +21,8 @@ The narrative voice is controlled, precise, and observational. Emotion is presen
 - excessive metaphor unrelated to systems
 - artificially profound narration (see `global_writing_principles.md` → *Avoid Artificially Profound Prose*)
 
+**Act IV (Ch. 17–24):** institutional scenes use direct procedural voice — see `act_iv_institutional_prose.md`.
+
 ## DESCRIPTION RULES
 - ships = functional
 - space = scale + silence
