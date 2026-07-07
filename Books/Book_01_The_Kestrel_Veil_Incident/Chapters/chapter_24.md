@@ -51,7 +51,7 @@ Victory was a word for engagements and elections and other things that ended wit
 
 He felt completion—the specific weight of a box finally closed because every item inside had a labeled place, even the items that contradicted each other.
 
-Edition 143 sat on the shelf behind him, spine uncracked on the cadet copy, cracked on the working copy. One manual for empty frontier notation. One manual for occupied lanes with witness bands attached.
+Edition 143 sat on the shelf behind him, spine uncracked on the cadet copy, cracked on the working copy. One manual for provisional-unoccupied shading. One manual for occupied lanes with witness bands attached.
 
 A junior Doctrine clerk—Reeves, fifteen years of boxes, younger in the face than in the career—paused at the doorway with a question Mercer had expected since the forks first appeared on the whiteboard.
 
@@ -128,7 +128,7 @@ Maret exhaled once. "So that's Edition 144."
 
 "Feels quieter than I expected."
 
-"Quieter than war," Sorin said. "Louder than pretending the band was empty."
+"Quieter than war," Sorin said. "Louder than pretending the lane had no occupancy on the chart."
 
 The *Morning Watch* continued patrol.
 
@@ -188,7 +188,7 @@ A relay auditor—Kess, academy-new last month, useful this month—asked the qu
 
 "If checksum matches, why do we train officers to read priority as lens?"
 
-Holt looked up from her pane. "Because Fleet is many departments sharing one chain. The chain is fact. Priority is obligation. Confusing them was how we shaded empty until empty became incident."
+Holt looked up from her pane. "Because Fleet is many departments sharing one chain. The chain is fact. Priority is obligation. Confusing them was how we treated chart shading like occupancy until shading became incident."
 
 Kess nodded and went back to her queue.
 

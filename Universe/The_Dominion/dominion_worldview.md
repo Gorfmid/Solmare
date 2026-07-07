@@ -255,7 +255,7 @@ Recurring visual motifs — recur naturally, never forced, never explained:
 - gloves removed before important work
 - tea
 - old stone and old metal
-- gold thread (Founders' Week)
+- gold thread (harvest festival)
 - corridor maps
 - plaques
 - rain

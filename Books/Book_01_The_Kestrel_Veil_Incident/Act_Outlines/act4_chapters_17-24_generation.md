@@ -38,12 +38,13 @@ Book One **must conclude** in Ch. 24. Sequel hook from **consequences of doctrin
 
 By Ch. 24:
 
-- Structured opposing force **acknowledged** at strategic level (operational truth — not full cosmology)
-- *Veil* crew mission **complete** for Book One arc
-- Calder's Book One arc **complete**
-- Fleet Authority **permanently changed** in how it reads the border
+- **Unified Contact Doctrine** active at strategic and field level (one framework — not parallel branches)
+- Structured civilization **acknowledged**; **no hostile classification**
+- *Veil* crew mission **complete** for Book One arc; Calder applies doctrine on new detection
+- Fleet Authority **permanently changed** in border behavior
+- Book Two hook: unknown civilization **responds** (not attack; not understood)
 
----
+**Ch. 21–24 generation detail:** `act4_chapters_21-24_generation.md`
 
 ## Chapter Roadmap
 
@@ -59,25 +60,29 @@ Institutional language shift; Rowan/Calder briefing spine; Doctrine vocabulary f
 
 *Veil* testimony enters strategic record; Calder as witness.
 
-### Chapter 20 — The Weight of Evidence
+### Chapter 20 — The Long Shadow
 
-Competing Fleet interpretations; political friction over opposing presence.
+Parallel lives; Dominion Standing Observation; Edition 144 §7.2 correction begins; Rowan unsigned.
 
-### Chapter 21 — The Long Shadow
+### Chapter 21 — The First Doctrine
 
-Strategic consequences; Collectives thread intersects border intelligence.
+**Detail:** `act4_chapters_21-24_generation.md`
 
-### Chapter 22 — Recognition
+Fleet adopts **unified Contact Doctrine** — not forked branches. Calder witness record anchors capability + restraint. Rowan signs one operational framework.
 
-Fleet acknowledges structured opposing force — name/class/doctrine without full enemy resolution.
+### Chapter 22 — The Doctrine in Practice
 
-### Chapter 23 — The Last Report
+Institutional behavior changes: Exploration patrol, Intelligence modeling, Cartography layers, Communications tags, *Kestrel* witness ship.
 
-Final intelligence synthesis; Maris-thread echo; actionable strategic record.
+### Chapter 23 — The Test of Doctrine
 
-### Chapter 24 — The Veil Opens
+Doctrine under pressure — new intelligence, internal/public load, envoy preparation, Rowan: *prepare without provoking*.
 
-Book One resolution — doctrine shift complete; *Veil Opens* as strategic opening, not anomaly reveal.
+### Chapter 24 — The First Answer
+
+Edition 144 implementation complete; controlled disclosure begins; Calder detects unknown response — Book One hook for Book Two.
+
+**Retired titles/architecture:** *The Weight of Evidence* (forked Ch. 21) · *Recognition* · *The Last Report* · fork annex / Branch A/B/C / no collapse authorized.
 
 ---
 

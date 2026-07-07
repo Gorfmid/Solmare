@@ -23,7 +23,7 @@ Major Petrov stood at the table's far edge with a slate and the expression of a 
 
 Petrov transferred the overlay.
 
-Individually, each marker was nothing— a timing offset on corridor seven-alpha maintenance logs, three hundred milliseconds, inside tolerance; a passive detection at Node K-12 that resolved as calibration drift after second pass; a freight sensor at Helikon feeder reporting mass inference one percent low until reboot; a scheduling disagreement between Regional Transportation Directorate and Border Surveillance on whether a faint return was weather or contact.
+Individually, each marker was nothing— a timing offset on K-17 maintenance logs, three hundred milliseconds, inside tolerance; a passive detection at Node K-12 that resolved as calibration drift after second pass; a freight sensor at Helikon feeder reporting mass inference one percent low until reboot; a scheduling disagreement between Regional Transportation Directorate and Border Surveillance on whether a faint return was weather or contact.
 
 Stratimirov looked at the scatter plot.
 
@@ -79,7 +79,7 @@ Colonel Yenin from Political Liaison watched from the wall without speaking. Pol
 
 Stratimirov looked at the scatter plot again.
 
-Outside the chamber, clerks moved through morning rhythm. Autumn festival banners had gone up in the lower arcade—gold thread, anticipatory.
+Outside the chamber, clerks moved through morning rhythm. Harvest festival banners had gone up in the lower arcade—gold thread, anticipatory.
 
 Stratimirov opened the next packet beside the photograph of his daughter's graduation— mobilization schedules, reserve manifests, a Science Directorate note about cloak field profiles that used the word *promising* as if promising could pay pensions.
 
@@ -94,7 +94,7 @@ Stratimirov circled *withheld* and sent the packet on.
 
 Segment seven, day six.
 
-Felix Ortega had been on passive watch fourteen hours—headphones denting his hair, eyes red at the rims he would deny in any report. He said it first anyway—not alarm, inventory: maintenance window on seven-beta had shifted forty minutes earlier than yesterday's listen watch peak. Damon Reyes pulled lane overlays and saw passenger cluster spacing widened on secondary four—a few percent. Jun Park noted freight surge delayed one interval—autumn festival traffic or weather, unconfirmed. Ari Halden said weather relay cadence was unchanged while traffic cadence had changed.
+Felix Ortega had been on passive watch fourteen hours—headphones denting his hair, eyes red at the rims he would deny in any report. He said it first anyway—not alarm, inventory: maintenance window on seven-beta had shifted forty minutes earlier than yesterday's listen watch peak. Damon Reyes pulled lane overlays and saw passenger cluster spacing widened on secondary four—a few percent. Jun Park noted freight surge delayed one interval—holiday traffic or weather, unconfirmed. Ari Halden said weather relay cadence was unchanged while traffic cadence had changed.
 
 Calder stood at the rail and felt the echo before he could name it— not a shout in the dark, a room adjusting when someone unknown entered and nobody acknowledged it aloud.
 
@@ -116,7 +116,7 @@ The discussion stayed professional— possibilities weighed, not verdicts delive
 
 Calder ran the stack in order—list, weight, don't marry. Same rule as segment six.
 
-Thessaly challenged him without theater. Holiday congestion explained passenger spacing partially; maintenance backlog explained window shift partially. Ortega said listen watch showed procedural density up—that rhythm doesn't match holiday. Reyes offered fiscal quarter close, audit season, someone upstream tightening belts before the harvest festival—"could be bureaucracy, could be us making them nervous, could be both."
+Thessaly challenged him without theater. Holiday congestion explained passenger spacing partially; maintenance backlog explained window shift partially. Ortega said listen watch showed procedural density up—that rhythm doesn't match holiday. Reyes offered fiscal quarter close, audit season, someone upstream tightening belts before local holiday congestion—"could be bureaucracy, could be us making them nervous, could be both."
 
 Calder told them to list could-be, weight could-be, and not marry could-be. Halden pulled infrastructure overlays: relay seven-alpha showed recent handshake lag correlation with faint returns—not causal, correlated. Park: "Brenner noted Reing 3 environment load before systems saw traffic delta. Time-stamped on internal." Calder said Brenner's hunches became data when Brenner wrote them down, and Brenner, dry, said he already had.
 
@@ -181,7 +181,7 @@ Volkova looked at the variance map. Seven-alpha glowed faintly— not red, not a
 
 She split the variance by time window.
 
-Harvest festival congestion explained part. Military priority on nine-alpha explained part. Helikon shortfall explained part.
+Harvest festival congestion explained part. Military priority on the K-17 spine explained part. Helikon shortfall explained part.
 
 A slice remained.
 
@@ -335,7 +335,7 @@ Operator Henn from K-14 leaned into the holo. "We had a whisper on gamma that cl
 
 Operator Tas from K-12: "Same on our side— twice, gone by third sweep."
 
-Kovat watched her persistent return hold position on seven-alpha like a stone that refused to sink in a stream everyone else agreed was water.
+Kovat watched her persistent return hold position on the K-17 watch lane like a stone that refused to sink in a stream everyone else agreed was water.
 
 Selim pointed at the cluster. "There."
 
@@ -377,7 +377,7 @@ Kovat typed: *Late. Save portion. Love.*
 
 She walked to the transit sled.
 
-Somewhere in seven-alpha, something kept not disappearing.
+Somewhere on the K-17 feed, something kept not disappearing.
 
 Kovat did not know what it was.
 
@@ -416,7 +416,7 @@ Nobody spoke.
 
 The scrubbers cycled.
 
-Ortega's loop murmured in its alcove— controllers asking one more question, routes repeating verification, children somewhere rehearsing harvest festival songs off-key for mothers who might be late to dinner.
+Ortega's loop murmured in its alcove— controllers asking one more question, routes repeating verification, children somewhere rehearsing festival songs off-key for mothers who might be late to dinner.
 
 Mira Thessaly looked up from her slate.
 

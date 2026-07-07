@@ -27,7 +27,7 @@ One more point on a scatter plot that had stopped scattering like noise.
 
 Stratimirov studied the overlay without speaking.
 
-Individually, the new marker was nothing— a timing offset on seven-alpha within tolerance, filed by a controller who had worked the same shift for eleven years and had begun, quietly, to hate the word *tolerance*.
+Individually, the new marker was nothing— a timing offset on the K-17 corridor within tolerance, filed by a controller who had worked the same shift for eleven years and had begun, quietly, to hate the word *tolerance*.
 
 Together, the markers suggested what thirty had already suggested and thirty-one made harder to dismiss.
 
@@ -37,7 +37,7 @@ Colonel Yenin read the summary without pleasure. The numbers had improved. The f
 
 "Improved is how restored begins," Stratimirov said.
 
-Petrov added, quietly, "Border Surveillance expanded listening windows on K-17 and K-12 per your prior authorization. Warrant Kovat filed persistent return on seven-alpha again. Still low confidence. Still refuses to retract."
+Petrov added, quietly, "Border Surveillance expanded listening windows on K-17 and K-12 per your prior authorization. Warrant Kovat filed persistent return on K-17 again. Still low confidence. Still refuses to retract."
 
 "Good," Stratimirov said. "File exactly."
 
@@ -57,7 +57,7 @@ Yenin: "Political Liaison will need language if this continues."
 
 "Political Liaison will receive numbers," Stratimirov said. "Not language yet."
 
-He turned to Petrov. "Expanded passive observation. Broader listening on seven-alpha, nine-beta, Kessik feeder spines. Coordinate with Regional Transportation Directorate variance reconciliation. Coordinate with Border Surveillance watch rotations— no overtime theater, just coverage."
+He turned to Petrov. "Expanded passive observation. Broader listening on K-17, K-12, and Kessik feeder spines. Coordinate with Regional Transportation Directorate variance reconciliation. Coordinate with Border Surveillance watch rotations— no overtime theater, just coverage."
 
 Petrov: "Science Directorate requests field trial timeline if bench holds."
 
@@ -75,7 +75,7 @@ Petrov's jaw worked. "Sir— expanded observation without illumination—"
 
 Stratimirov looked at the scatter plot one more time— thirty-one points, persistence without spectacle.
 
-He opened the next packet— stall permits, Regional Transportation Directorate reconciliation, a polite reminder that autumn festival congestion models needed updating before the parade made math nervous.
+He opened the next packet— stall permits, Regional Transportation Directorate reconciliation, a polite reminder that harvest festival congestion models needed updating before the parade made math nervous.
 
 ---
 
@@ -191,7 +191,7 @@ Nika made a face. "They're plants."
 
 Pelka's grandson ran past the courtyard gate chasing a ball with the fearless energy of eight. Pelka did not shout. Dominion courtyards taught children volume and restraint in the same afternoon.
 
-They talked weather. Transit delays. Wool coat prices. Whether the examination tutor was worth the fee. Whether the stall permit office would survive the autumn festival without someone filing a complaint in triplicate.
+They talked weather. Transit delays. Wool coat prices. Whether the examination tutor was worth the fee. Whether the stall permit office would survive the harvest festival without someone filing a complaint in triplicate.
 
 Someone mentioned memorial flowers on Transit Spine Four— fresh cups, old names. Someone else mentioned choir rehearsal running late.
 
@@ -361,7 +361,7 @@ Judgment did not.
 
 He had returned to the frontier as an observer— not punishment, not reinstatement, assignment. Petrov's scatter plots needed eyes that had stood at the trial engagement and remembered what passive hold felt like when an envelope failed.
 
-Months of border data layered on the display— seven-alpha, nine-beta, Kessik feeders, variance flags, faint returns, debris hypotheses, timing offsets that refused to die when watched correctly.
+Months of border data layered on the display— K-17, K-12, Kessik feeders, variance flags, faint returns, debris hypotheses, timing offsets that refused to die when watched correctly.
 
 Analysts worked quietly. Tea cooled. District festival banners visible in the lower district beyond the rain. Handwritten notes in margins from warrants on earlier shifts— *check calibration*, *weather or contact*, *file exactly*— the institutional memory of a border watched the way yards watched welds: continuously, without drama.
 

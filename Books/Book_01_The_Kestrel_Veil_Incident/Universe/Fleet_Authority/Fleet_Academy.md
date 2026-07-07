@@ -66,7 +66,7 @@ Edition 143 primer is about to feel incomplete. Act IV may show academy instruct
 | Character | Role |
 |-----------|------|
 | **Captain Calder Venn** | Recent graduate; living counterexample |
-| **Captain Mira Thessaly** | Executive officer — academy-adjacent competence |
+| **Executive Officer Mira Thessaly** | Executive officer — academy-adjacent competence |
 | **Fleet Admiral Elias Rowan** | Mentorship culture; academy respect |
 
 *Placeholder:* Commander Pell-type instructor figure, Strategic Studies primer author committee, Founders' Week ceremony coordinator.

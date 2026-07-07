@@ -63,18 +63,18 @@ Full build sequence for `Manuscript/_build/build_manuscript.ps1` — see `Archiv
 | — | **FDB-144-DRAFT** | `Archive/archive_03_doctrine_bureau_edition_144_terminology_draft.md` | 45 | After Ch. 18 — Fleet Doctrine Bureau; terminology working draft |
 | 19 | The Witnesses | `chapter_19.md` | 3,525 | Act IV |
 | 20 | The Long Shadow | `chapter_20.md` | 3,067 | Act IV |
-| 21 | The Weight of Evidence | `chapter_21.md` | 3,135 | Act IV |
-| 22 | Recognition | `chapter_22.md` | 3,963 | Act IV |
-| 23 | The Last Report | `chapter_23.md` | 3,595 | Act IV |
-| 24 | Edition 144 | `chapter_24.md` | 3,490 | Act IV ends — **END BOOK ONE** |
+| 21 | The First Doctrine | `chapter_21.md` | 3,912 | Act IV — Contact Doctrine adopted; *Veil* reference hull + contact-prep refit |
+| 22 | The Crossing | `chapter_22.md` | 2,305 | Act IV — Edition 144 crossing; Alpha Seven; Thessaly XO continuity book; *Iron Harrow* / V17 coda (Vex — probable trial-scout match, cloak holds); **DRAFT** |
+| 23 | The Test of Doctrine | `chapter_23.md` | — | Act IV — **rewrite pending** |
+| 24 | The First Answer | `chapter_24.md` | — | Act IV ends — **rewrite pending** · **END BOOK ONE** |
 | — | **Epilogue** | `Chapters/epilogue.md` | 1,248 | *First Day* — Edition 144 + **Required Reading** bookend |
 
-**Total (publication build):** ~112,437 words  
-**Tracker:** `Notes/REWRITE_STATUS.md` · **Status:** Prologue + Ch. 1–24 + Epilogue + Archives (FSA-143-07, FCC-7712, FDB-144-DRAFT) **LOCKED**
+**Total (publication build):** ~115,794 words  
+**Tracker:** `Notes/REWRITE_STATUS.md` · **Status:** Ch. 1–21 + archives **LOCKED** · Ch. 22 **DRAFT** · Ch. 23–24 **rewrite pending**
 
 **Source of truth:** `Chapters/*.md` (and `Archive/` interludes). Compiled `Manuscript/Act_*.md` and full-book exports are **not** auto-regenerated — rebuild only when author requests (`Manuscript/_build/rebuild_act.ps1` per act, or `build_manuscript.ps1` for publication outputs).
 
-**Bookend symmetry:** Prologue (*Edition 143 · Required Reading*) + FSA-143-07 → narrative → Epilogue (*Edition 144 · Required Reading*). FCC-7712 after Incident; FDB-144-DRAFT after *New Words*.
+**Bookend symmetry:** Prologue (*Edition 143 · Required Reading*) + FSA-143-07 → narrative → Epilogue (*Edition 144 · Required Reading*). FCC-7712 after Incident; FDB-144-DRAFT after *New Words*. Ch. 21–24: unified Contact Doctrine (`act4_chapters_21-24_generation.md`).
 
 **Illustration placement:** *Kestrel Veil* schematic immediately before Ch. 7 (*The Living Ship*) — source preamble in `Chapters/chapter_7.md`; assets in `Manuscript/assets/` and `Ships/kestrel_veil_schematic.png`. Build emits preamble via `Get-ChapterPreamble` in `build_manuscript.ps1` (before chapter title + logo).
 
@@ -85,6 +85,7 @@ Full build sequence for `Manuscript/_build/build_manuscript.ps1` — see `Archiv
 | II | 5–8 | `act2_chapters_5-8_generation.md` |
 | III | 9–16 | `act3_chapters_9-16_generation.md` |
 | IV | 17–24 | `act4_chapters_17-24_generation.md` |
+| IV (Ch. 21–24) | 21–24 | `act4_chapters_21-24_generation.md` |
 
 Legacy filenames (`act2_chapters_6-11_generation.md`, `act3_chapters_12-18_generation.md`, `act4_chapters_19-24_generation.md`) redirect to the above.
 
@@ -104,16 +105,17 @@ What begins as routine patrol becomes the **Kestrel Veil Incident** — then dis
 
 ## Current Manuscript Status
 
-**BOOK ONE COMPLETE** — Prologue · Archive interludes · Ch. 1–24 · Epilogue **LOCKED**
+**BOOK ONE IN PROGRESS** — Prologue · Archive interludes · Ch. 1–21 · Epilogue **LOCKED** · Ch. 22–24 **pending rewrite**
 
 | Status | Pieces |
 |--------|--------|
-| ✓ **LOCKED** | Prologue, FSA-143-07, FCC-7712, FDB-144-DRAFT, Ch. 1–24, Epilogue |
+| ✓ **LOCKED** | Prologue, FSA-143-07, FCC-7712, FDB-144-DRAFT, Ch. 1–21, Epilogue |
+| **IN PROGRESS** | Ch. 22–24 manuscript rewrite (Contact Doctrine) |
 | ✓ **Editorial** | Global terminology + system-behavior passes applied to `Chapters/` (see below) |
 | ✓ **Illustration** | *Kestrel Veil* schematic — before Ch. 7 (see **Illustrations** below) |
 | Build (on request) | `Manuscript/_build/rebuild_act.ps1` · `Manuscript/_build/build_manuscript.ps1` — archives per `Archive/archive_placement.json` |
 
-**Written prose (full publication order):** ~112,380 words. See **Manuscript Reading Order** above.
+**Written prose (full publication order):** ~113,445 words. See **Manuscript Reading Order** above.
 
 **Act IV planning:** `Planning/Fleet_Authority_Briefing_Packet.md` · **Archive index:** `Archive/README.md`
 
@@ -354,11 +356,13 @@ VI-Gamma six-hour patch window; crew rest; Park/Dana emotional center; independe
 
 # ACT IV — FIRST DOCTRINE (Chapters 17–24)
 
-**Status:** Ch. 17–24 **LOCKED** (complete prose) · **Act IV closed** · **Book One complete**  
-**Generation doctrine:** `act4_chapters_17-24_generation.md`  
+**Status:** Ch. 17–21 **LOCKED** · Ch. 22–24 **planning updated — manuscript pending alignment**  
+**Generation doctrine:** `act4_chapters_17-24_generation.md` · **Ch. 21–24 detail:** `act4_chapters_21-24_generation.md`  
 **Opens from:** Ch. 16 — *Kestrel* in Fleet space; Thessaly report; `Planning/Fleet_Authority_Briefing_Packet.md`
 
-**Arc function:** Fleet transitions from **anomaly response → strategic assessment**; first doctrine formation; Book One resolves with permanent change to Fleet understanding — not cosmological mystery payoff.
+**Arc function:** Fleet transitions from **anomaly response → strategic assessment → unified Contact Doctrine**; Book One resolves with permanent behavioral framework — not cosmological mystery payoff.
+
+**Structural pivot (2026-07-07):** Retired forked doctrine (Branch A/B/C). Fleet ends Book One with **one operational doctrine**, not competing interpretations.
 
 ---
 
@@ -368,14 +372,14 @@ VI-Gamma six-hour patch window; crew rest; Park/Dana emotional center; independe
 | 18 | New Words | **LOCKED** | 3,298 | First formal ROE debate for structured unknown force — not scout improvisation |
 | 19 | The Witnesses | **LOCKED** | 3,525 | *Veil* crew testimony certified; Calder First Witness |
 | 20 | The Long Shadow | **LOCKED** | 3,067 | Parallel lives; Dominion Standing Observation; Edition 144 begins |
-| 21 | The Weight of Evidence | **LOCKED** | 3,135 | Competing Fleet interpretations; doctrine forks |
-| 22 | Recognition | **LOCKED** | 3,963 | Operational manifestation of doctrine forks; parallel departmental interpretation |
-| 23 | The Last Report | **LOCKED** | 3,595 | Edition 144 authorized; witness archive sealed; first doctrine principles |
-| 24 | Edition 144 | **LOCKED** | 3,490 | Doctrine absorption; Fleet operational under conditional framework; **END BOOK ONE** |
+| 21 | The First Doctrine | **LOCKED** | 3,912 | Edition 144 adopted (unified Contact Doctrine); department working group; Ellis disclosure deferred; Rowan signs; *Veil* named reference hull; Rowan/Calder; Lisette; contact-prep refit (signature reduction, comms partial) |
+| 22 | The Crossing | **DRAFT** | 2,305 | Calder briefing; departure; Alpha Seven crossing; Thessaly XO continuity book; command deck close; **Iron Harrow** / V17 coda (Vex — probable trial-scout match, cloak holds) |
+| 23 | The Test of Doctrine | **PLANNED** | — | New intelligence pressure; internal/public load; envoy preparation; doctrine holds |
+| 24 | The First Answer | **PLANNED** | — | Edition 144 live; controlled disclosure begins; Calder detects unknown response — **END BOOK ONE** |
 
 **FDB-144-DRAFT** (`../Archive/archive_03_doctrine_bureau_edition_144_terminology_draft.md`) inserts after Ch. 18 — Fleet Doctrine Bureau working draft; *Words determine thought. Choose carefully.*
 
-**Act IV ends:** Book One narrative arc complete per `series_principles.md`.
+**Act IV ends:** Unified Contact Doctrine active; Book One closes with Fleet behavior defined and unknown civilization's response imminent. Epilogue alignment pending Ch. 24 rewrite. See `act4_chapters_21-24_generation.md`.
 
 ---
 
@@ -393,7 +397,7 @@ Fleet Academy first-year orientation. Edition 144 primer distributed. Closes wit
 
 *Fleet Academy Strategic Studies · Edition 144 · Required Reading*
 
-**Symmetry:** Prologue (*Edition 143 · Required Reading*) ↔ Epilogue (*Edition 144 · Required Reading*). FSA-143-07 (old map assumption) ↔ Ch. 23–24 (Edition 144 framework).
+**Symmetry:** Prologue (*Edition 143*) ↔ Epilogue (*Edition 144*). Verify epilogue against unified Contact Doctrine after Ch. 24 rewrite.
 
 ---
 

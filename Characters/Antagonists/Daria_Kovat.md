@@ -34,7 +34,7 @@ Working-professional Dominion Thread — not command. Shows border as **always w
 
 ## CH. 11 CANON
 
-- Founders' Week school rehearsal; **Teacher Marin**; leave approved (four-beta, delay probable)
+- district festival school rehearsal; **Teacher Marin**; leave approved (four-beta, delay probable)
 - Proverb with Nika; secure messages read twice during rehearsal
 
 ## CH. 12 CANON
@@ -52,13 +52,13 @@ Working-professional Dominion Thread — not command. Shows border as **always w
 
 ## CH. 15 CANON
 
-- Helps Nika stake garden for Founders' Week visitors; neighbor **Pelka**; community afternoon
+- Helps Nika stake garden for district festival visitors; neighbor **Pelka**; community afternoon
 - Expanded observation request acknowledged; returns to gardening
 - Soil under nails; on watch before dawn
 
 ## CH. 16 CANON
 
-- Founders' Week begins; Nika performs in chorus; routine summary— diminished persistence, no new conclusions
+- Harvest festival begins; Nika performs in chorus; routine summary— diminished persistence, no new conclusions
 - Community scene— markets, tea, music; memorial flowers on Transit Spine Four
 - Duty and family both continue
 

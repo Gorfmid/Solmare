@@ -50,7 +50,7 @@ Individual sympathy ≠ institutional approval. Empathize with both civilization
 | Role | Character |
 |------|-----------|
 | Strategic Security Directorate | Director-General Lev Stratimirov |
-| Leviathan-class trial command | Commander Vex |
+| Leviathan-class trial command (*Iron Harrow*) | Commander Vex |
 | Border surveillance | Daria Kovat, Warrant Master Selim — Node K-17 |
 | Regional Transportation Directorate | Irina Volkova |
 | Kessik-Outer shipyard | Pavel Sorokin |

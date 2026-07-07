@@ -65,7 +65,7 @@ Act IV may feature Exploration liaison demanding new scout ROE and training sims
 | **Tomás Brenner** | Helm culture — correction thrusters as craft |
 | **Damon Reyes** | Navigation / exploration geometry |
 | **Felix Ortega** | Sensor listen culture |
-| **Captain Mira Thessaly** | Translates exploration into Fleet grammar |
+| **Executive Officer Mira Thessaly** | Translates exploration into Fleet grammar |
 
 *Placeholder:* Exploration Corps liaison to Doctrine Bureau, reconnaissance squadron commodore, sim instructor updating first-contact scenarios.
 

@@ -273,9 +273,15 @@ Avoid clever or compressed phrasing that sounds literary but reads unclear on fi
 
 | Weak / unclear | Stronger |
 |----------------|----------|
-| table that had seen worse Tuesdays | table scarred by years of use / coffee going cold on the usual table |
+| table that had seen worse Tuesdays | table scarred by years of use |
+| before Mercer's coffee cooled | before Ahn opened the fork protocol slide |
+| coffee had gone cold while they routed | all three stamps were down before Mercer gathered his notes |
 | felt the projection lie back at her | the overlay contradicted the epoch band |
 | Performance was how institutions lied | Large rooms turned testimony into theater |
+
+**Avoid beverage temperature as time passing.** Do not use coffee/tea cooling, going cold, or still warm from the printer as the primary way to show elapsed time or institutional fatigue. Characters may drink on scene; do not use drink state as the clock. Prefer: slides opened, stamps applied, printouts stacked, shift change, queue depth, certification steps completed.
+
+**Cultural beverages (series canon):** Dominion institutions and civilian life default to **tea**; Fleet institutions default to **coffee**. Use each in its civilization — see `Universe/cultural_touchstones.md` → § Cultural beverage distinction. The temperature rule does not remove tea or coffee; it removes drink temperature as a narrative clock.
 
 Read each sentence aloud. If it sounds like a quote from the author, reword it.
 

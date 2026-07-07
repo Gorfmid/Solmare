@@ -7,7 +7,7 @@
 
 Fleet Intelligence Directorate synthesizes quiet reports into strategic picture— pattern across boring packets, not just dramatic intercepts.
 
-**Commodore Mira Sato** embodies its Ch. 7+ role: cloak failure signature, capital-scale discharge, scout survival as unique asset.
+**Commodore Mira Sato** embodies its Ch. 7+ role: decloak under sustained passive lock (mechanism unresolved), capital-scale discharge inference, scout survival as unique asset.
 
 Intelligence serves Fleet Command but speaks with its own cold grammar— *what can Fleet do now?*
 
@@ -41,7 +41,7 @@ Ch. 20 *Weight of Evidence* territory— competing interpretations.
 ## 4. Likely Assumptions
 
 - Incident + segment seven are **linked** strategically even if Fleet cannot prove intent.
-- Cloak partial failure is breakthrough— must be weaponized in assessment.
+- Decloak preceded by sustained passive lock—mechanism unresolved; must be modeled carefully in assessment.
 - Passive data supports threat timelines when correlated (Sato strength).
 - Opposing restraint is **tactical**, not cultural— until proven otherwise.
 
@@ -65,7 +65,7 @@ Ch. 20 *Weight of Evidence* territory— competing interpretations.
 | **Fleet Admiral Elias Rowan** | Signs her flags; restrains panic |
 | **Jun Park** | Archive integrity |
 | **Felix Ortega** | Listen watch patterns |
-| **Captain Mira Thessaly** | Report author — name collision deliberate distance |
+| **Executive Officer Mira Thessaly** | Report author — name collision deliberate distance |
 
 *Placeholder:* Junior analyst (Ch. 7 whisper to Sato), threat board duty officer, sealed-channel Science liaison.
 

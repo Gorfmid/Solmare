@@ -34,7 +34,7 @@ Rowan continued.
 
 He gestured to the archive cart. Custody modules on the cart. Appendix bands color-coded the way Thessaly insisted—observed, inferred, speculation flagged in margins.
 
-"Judge Advocate Okonkwo observes procedure. Doctrine Lieutenant Ahn observes notation impact only—no ROE debate in this chamber. Captain Thessaly attends as report architect. Witnesses testify in expertise lanes. Cross-discipline questions are permitted. Cross-discipline answers are not."
+"Judge Advocate Okonkwo observes procedure. Doctrine Lieutenant Ahn observes notation impact only—no ROE debate in this chamber. Executive Officer Thessaly attends as report architect. Witnesses testify in expertise lanes. Cross-discipline questions are permitted. Cross-discipline answers are not."
 
 Okonkwo said, "Witness oath follows Fleet Form Seven. Short form."
 
@@ -92,7 +92,7 @@ Sato said, "Incident baseline."
 
 "Observed."
 
-Calder said, "Partial cloak failure under sustained passive lock at Kestran Spiral. Full decloak on resolved bearing before directed energy discharge. Observed mass beyond scout and platform scale. Scatter consistent with hull damage. Withdrawal under degraded auxiliary propulsion. Hull class name unresolved. Political entity name unresolved."
+Calder said, "Decloak on resolved bearing at Kestran Spiral immediately before directed energy discharge. Sustained passive lock preceded visibility; cloak mechanism unresolved. Observed mass beyond scout and platform scale. Scatter consistent with hull damage. Withdrawal under degraded auxiliary propulsion. Hull class name unresolved. Political entity name unresolved."
 
 Rowan said, "What did you not see?"
 
@@ -262,7 +262,7 @@ She moved to the next print. "The crossing record shows no upstream emissions fr
 
 Holt paused on the VI-Gamma crosswalk. "Sweep eleven repeated before the amended return registered. That is the entry that mattered."
 
-Holt turned to the relay print. "The chain runs from VI-Gamma fringe node through our validation hops to Fleet pickup handshake and Historical intake. Each hop is named and timestamped on the print. Nand closed a three-millisecond timestamp mismatch on the secondary lane during residual festival traffic. The authentication window held."
+Holt turned to the relay print. "The chain runs from VI-Gamma fringe node through our validation hops to Fleet pickup handshake and Historical intake. Each hop is named and timestamped on the print. Nand closed a three-millisecond timestamp mismatch on the secondary lane during residual Founders' Week traffic. The authentication window held."
 
 Holt laid the printed chain on the table.
 
@@ -294,7 +294,7 @@ Calder waited.
 
 Calder took time before he answered.
 
-"Observed first," he said. "At Kestran Spiral we encountered a contact larger than scout or platform scale. Cloak technology Fleet does not understand well. Sustained passive lock forced partial cloak failure. The contact discharged directed energy on our bearing. The strike crippled the ship. We withdrew under degraded auxiliary propulsion. The contact did not pursue on egress."
+"Observed first," he said. "At Kestran Spiral we encountered a contact larger than scout or platform scale. Cloak technology Fleet does not understand well. Sustained passive lock preceded decloak—we cannot prove the lock caused visibility. The contact discharged directed energy on our bearing. The strike crippled the ship. We withdrew under degraded auxiliary propulsion. The contact did not pursue on egress."
 
 He paused.
 

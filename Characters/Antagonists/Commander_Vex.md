@@ -1,7 +1,7 @@
 # COMMANDER VEX — LEVIATHAN-CLASS COMMAND (BOOK ONE, CH. 5)
 
 **Status:** Active (post–Chapter 5 debrief)  
-**Role:** Commanding officer, Leviathan-class warship (unnamed hull in text)  
+**Role:** Commanding officer, **Iron Harrow** — Leviathan-class warship  
 **Faction:** **The Dominion** (working name — reader-facing Ch. 9+; **withheld from Fleet POV** until discovery beat)  
 **First appearance:** `Books/Book_01_The_Kestrel_Veil_Incident/Chapters/chapter_5.md` — ENEMY POV debrief only (name withheld from Fleet side)
 
@@ -27,7 +27,7 @@ Little is established beyond Ch. 5. Do not invent biography, empire name, or per
 |-------|--------|
 | Rank / title | **Commander** |
 | Hull class | **Leviathan** (~60,000 crew complement per fleet canon) |
-| Ship name | **Unrevealed** (technician dialogue may refer to hull/system as *the Leviathan* — class or lead trial, not confirmed as proper name) |
+| Ship name | **Iron Harrow** (Leviathan-class; Dominion command usage — **withheld from Fleet POV** until discovery beat) |
 | Signature system | **First-of-its-kind cloaking field** on this hull — **no other Leviathan-class ship currently carries it** |
 | Ch. 5 posture | Dark-running in Kestran Spiral sector; passive monitor of scout contact; photon-cannon engagement after passive lock |
 | Ch. 5 outcome | Cloak collapsed under scout-class **passive** observation (not active targeting); scout destroyed; cloak re-engaged; **withdraw**; **rebuild the field** |

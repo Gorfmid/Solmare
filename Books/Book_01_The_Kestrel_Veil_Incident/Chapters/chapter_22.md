@@ -1,294 +1,331 @@
 # Chapter 22
 
-## Recognition
+## The Crossing
 
 ---
 
-***OUTER KESTRAN PATROL BAND — SCOUT ROUTING NODE SEVEN-ALPHA ADJACENT***  
-*BORDER PATROL ADJUSTMENT*
+***KESTREL VEIL — BRIEFING ROOM***  
+*MISSION 4471-S AMENDED*
 
-Captain Hwang did not issue a speech.
+The briefing room fit twelve and held eighteen when everyone leaned.
 
-He issued a routing addendum—three paragraphs, passive voice, no parade—and watched a ready room full of patrol officers treat it the way Fleet treated weather: as something you adjusted sails for, not something you held a ceremony about.
+Calder Venn stood at the head with Edition 144 contact preparation on the display and the amended mission packet open beside it—not ceremony, parameters. Mira Thessaly had department strips sorted by execution order. Jun Park had checksum columns ready on the side pane. Tomás Brenner had a helm card already written in block letters: *intermittent, not reliable*.
 
-Exploration Corps border patrols in the seven-alpha adjacent band received updated illumination discipline without updated fanfare: hold emission discipline unless hull preservation required; extend passive observation windows; treat structured occupancy notation as observationally stable until intent evidence arrived; no contact initiation under uncertainty threshold.
+"We are returning to segment seven under amended authority," Calder said. "Contact preparation, not contact initiation. Observation requirements are on your slates. Communications limitations are real. Withdrawal authority stays with this command unless Operations issues override."
 
-The room smelled of solvent and recycled air and the particular fatigue of people who patrolled margins because margins were where careers happened or ended quietly. A display at the back still showed Founders' Week traffic advisories in amber—residual, fading, irrelevant to this band. Hwang had left it on because deleting celebration felt like pretending the capital's moods did not leak into corps culture.
+Illumination prohibited except hull preservation or Operations signature. Contact initiation prohibited without Operations signature. Hostile classification prohibited without intent evidence. Relay traffic through Holt's validation chain—no ad hoc upstream packets that bypass confirm tokens. Observed, inferred, and speculative entries remain separate.
 
-Nobody asked which fork authorized the addendum. They asked whether it would slow turnaround.
+Slates lit. The crew wrote without interrupting.
 
-"Turnaround is not the injury," Hwang said. "Premature emissions are."
+"We are not returning to what we thought was empty space," Calder said. "We are returning to occupied space we do not yet understand. We do not know if communication is possible. We do not know if our systems will reach them. We do not know if they will recognize what we send."
 
-Lieutenant Sorin, patrol lead, read the addendum twice on his pane. Young enough to want clarity, old enough to know clarity was a luxury Fleet sometimes could not afford. Ensign Maret at the third row wanted illumination hold clarified for survey spacing as well as patrol—Hwang confirmed both, same discipline, no brightening the sky out of boredom.
+"Our job is not to answer those questions today. Our job is to make sure the next person has better information than we did."
 
-Sorin had not been on the *Kestrel Veil*. He had read the certified testimony—the Strategic Review Board proceedings, the archive checksums, the executive summary that refused to call first contact *contact* and refused to call the border *empty*. Civilian rhythm in harmonics. Restraint in segment seven. Incident discharge at Kestran Spiral filed separately—not erased, not elevated to default read.
+"The fundamentals remain the same," he said. "Stations on time. Rest cycles filed. Emitter discipline unchanged. If you have a better approach, bring it to your department head with evidence. If you have doubts, bring them to Walsh."
 
-"We're not saying they're friendly," Sorin said quietly.
+Calder pulled up the communications slide—Holt's relay chain, confirm tokens on every upstream send. "VI-Gamma is still intermittent. Route through Validation Bay anyway."
 
-"We're saying stable observation beats unstable assumption," Hwang replied. "That's how we interpret it."
+Thessaly took the room through tasks. Passive dwell extension on listen watch. Emitter discipline unchanged—Tanaka's confirmation protocol on every sector. Park to maintain segregated archive lanes; segment seven returns copied to Holt's integrity schema on send. Walsh: medical rotation limits filed; no waiver signatures without Calder's approval.
 
-Hwang walked the projection once—segment seven lane correlation, epoch revision without hostile shading, commuter traffic inference marked as *observed traffic flow, intent unresolved*—then watched patrol skids update manifests without ceremony. Illumination protocols tightened—not darkened, disciplined. Passive systems held longer dwell on structured occupancy markers. Contact rules gained a line every officer would recognize within a week:
+"Questions?" Calder asked.
 
-*No initiation under uncertainty threshold.*
+Ortega: "Contact initiation threshold?"
 
-Sorin tested the phrase under his breath. Hwang answered the rest in one breath: witness testimony sets the floor, Incident sets the ceiling on aggression, observe between them, note if illuminated but do not answer emissions with emissions unless hull preservation requires. Calder answered once; Fleet certified once; their default was not his moment.
+"Operations signature," Calder said. "Same as Fleet wrote it."
 
-The ready room accepted that—not happily, not mutinously, professionally. Exploration Corps had always prized the officers who could sit in uncomfortable sky and call it duty.
+Brenner: "Withdrawal triggers?"
 
-No announcement followed the addendum. No press line. No Founders' Week banner adjustment. Fleet Exploration did not announce doctrine. Fleet Exploration routed behavior and let the border learn what Fleet believed by watching what Fleet did.
+"Hull preservation. Loss of passive posture integrity. My order." Calder paused. "File judgment afterward."
 
-Border behavior became more cautious because interpretation had shifted in the corps that sent scouts first.
+Halden: "If signature reduction conflicts with passive sweep?"
 
-After the ready room cleared, Sorin stayed.
+"Log the conflict," Calder said. "Passive sweep takes precedence."
 
-"You believe restraint is default," he said—not accusation, inventory.
+Reyes: "Route confirmed through Neutral Zone transit. Alpha Seven entry on filed corridor."
 
-Hwang considered lying for simplicity and rejected it. "I believe restraint is operational until intent proves otherwise. Intelligence believes capability must weight every model. Communications believes ambiguity must be routed, not erased. We are not voting. We are patrolling."
+"Confirmed," Calder said. "Secondary observation protocol applies from the Alpha Seven boundary forward."
 
-"And if patrol behavior meets their border discipline?"
+Lena Walsh, arms folded at the back: "Rest cycles are per the captain's orders. Skip one and you spend time with me in clinic."
 
-"Then we note handshake lag and do not initiate." Hwang pulled up the addendum footer. "Witness discipline. Same as Calder. Different sky."
+No one argued.
 
-Sorin nodded slowly. "No one announced this."
+Calder dismissed them to stations. The briefing room emptied the way briefing rooms did when work was preferable to sitting still.
 
-"No one announces interpretation," Hwang said. "They announce outcomes after interpretation has already behaved."
+Felix Ortega paused at the hatch. "Captain."
 
-Hwang sent the addendum with a context tag Mercer would want later—*exploration-patrol-restraint*—and did not think the tag's name. He thought about commuter windows he had never seen and harmonics he had only read in Calder's witness bands. Stable. Occupied. Not proven hostile.
+"Ortega."
 
-Exploration remained professional.
+"I can hold the first twelve hours on listen watch."
 
-Exploration remained singular in name only.
+"Take them," Calder said. "I need the opening data clean. I also need you rested before the second watch—Walsh has my orders on that."
 
----
+Ortega nodded and went.
 
-***FLEET INTELLIGENCE — STRATEGIC MODELING FLOOR***  
-*INTELLIGENCE REPRIORITIZATION*
+Damon Reyes stayed long enough to confirm corridor spacing on the overlay one more time—not doubt, habit. Jun Park copied the briefing footer to segregated archive. Ari Halden took the documentation schema strip without comment.
 
-Commodore Mira Sato preferred worst-case models that failed on paper.
-
-Failed models were cheaper than failed hulls.
-
-The modeling floor occupied a tier of Fleet Headquarters that smelled like overheated processors and black coffee kept alive on pride. Displays ran scenario trees in the background—always running, because Intelligence treated silence as unpaid risk. After certification, the trees multiplied. Not because anyone shouted crisis. Because capability-first reading became the default analytical lens without anyone writing those words on the wall.
-
-Analyst Kemmer slid a dual-use infrastructure overlay onto the central table—yard throughput bands, freight classification depth, border discipline markers inferred from witness harmonics—and walked the floor through capability-first modeling without hostile classification. Scenario trees expanded for passive observation continuing twelve months, illumination without handshake, defensive discharge recurrence at Kestran incident bearing. Kemmer's worst case that failed—restraint culture with no intent to engage—still showed capability to impose cost if Fleet initiated.
-
-"Good," Sato said. "Failed worst case is still information."
-
-Nobody called the observed civilization hostile.
-
-Intelligence called the models incomplete without capability weighting.
-
-Mercer asked, "Procurement unlock?"
-
-"No," Sato said. "Reprioritization, not mobilization."
-
-"Field officers will read curves as permission," Mercer said.
-
-"Field officers read coffee stains as permission if they want war," Sato replied. "We stamp *capability assessment, intent unresolved* on every packet. Stop asking Intelligence to pretend comfort is analysis."
-
-Sato signed the reprioritization memo—internal routing, not press, not procurement unlock—and placed it beside Incident baseline like a bookend.
-
-`DEFAULT LENS: CAPABILITY-FIRST — HOSTILE CLASSIFICATION REFUSED — WITNESS RECORD UNCHANGED`
-
-Intelligence was not mobilizing.
-
-Intelligence was refusing comfort.
+Thessaly waited until the room was theirs, tucked the department strips under her arm, and walked with him toward the command deck.
 
 ---
 
-***FLEET CARTOGRAPHY SERVICE — MAP ROOM FOUR***  
-*CARTOGRAPHY SPLIT OUTPUT*
+Kevin appeared in the corridor outside with a tray of cream-filled pastries.
 
-Martine Okoye had three layers on the projection before first coffee.
+"First batch before departure," he said.
 
-Same chart. Three headers. No collapse.
+Pell, passing with a toolkit: "First batch?"
 
-Map Room Four smelled of ink solvent and old starboard charts in plastic sleeves—Cartography's religion: the sky did not change because you were tired; your notation changed because you learned. Okoye had learned too much too fast. The witness record had given Cartography a gift and a problem. The gift was precision. The problem was that precision did not imply single meaning.
+"Fleet moved us up twelve hours. Apparently this requires pastries," Kevin said.
 
-**Civilian rhythm layer** — commuter traffic patterns, school transport clustering inference, holiday overlay notation; default read for Exploration liaison packets; stable observation emphasis; epoch shading in cool blue without threat contour. **Neutral corridor layer** — structured occupancy confirmed; intent unresolved; epoch revision without hostile shading; default read for Communications routing and ambiguity-management packets Okoye refused to nickname aloud in Map Room. **Strategic potential overlay** — dual-use infrastructure inference, border discipline increases, Incident baseline bearing; default read for Intelligence and Logistics models; capability weighting visible, hostility classification explicitly absent.
+Calder took one. Flaked pastry, cardamom glaze—Lower Meridian by way of Lisette's box and Kevin's guilt about station bars.
 
-Pell, junior analyst, stared at the stack like it was a moral test. "Which one is correct?"
+"Kevin."
 
-Okoye did not look up from her redline pen. "Which one is your department?"
+"Captain."
 
-"Exploration sent civilian rhythm yesterday. Intelligence pulled strategic overlay this morning. Holt's shop flagged neutral corridor for fringe relay metadata. They're the same stars."
+"This is excellent."
 
-"Yes."
+"I know."
 
-"So one of us is wrong."
+"Make sure engineering gets some."
 
-"No." Okoye capped the pen. "We are not correcting maps anymore. We are maintaining parallel readings."
+"They already did."
 
-Torres, survey veteran, grunted from the adjacent table without stopping his epoch revision. "Operational charts need a default layer for patrol skids. Skids do not run three projections while someone's shooting at them."
+"How?"
 
-"Skids are not getting shot at in seven-alpha," Pell said.
+"They smelled them."
 
-"Skids are getting confused in seven-alpha," Torres replied. "Same injury, slower."
+Calder went forward. Kevin routed the rest toward Reing access. Brenner's voice carried from below—something about couplers and timing—and Kevin added two pastries to the tray without comment.
 
-Okoye pulled the operational template—patrol skid format, single sheet, cradle-strip practical. "Operational charts ship with all three layers compressed. Default layer is mission environment tag. Exploration patrol—rhythm. Fringe relay—neutral. Intelligence brief—potential. Pick your lens. Do not smuggle lens into epoch shading without label."
-
-Pell flushed—not shame, workload. "Junior analysts are going to hate this."
-
-"Junior analysts are going to live," Torres said.
-
-Lieutenant Ahn appeared in the doorway—Doctrine liaison, not Cartography, always a sign the annex was feeling friction. "Mercer wants to know if tri-layer output is temporary."
-
-Okoye looked at Ahn the way cartographers looked at people who asked rivers to have one bank. "Mercer wants field officers to stop asking which map is Fleet. Tell him tri-layer is operational until evidence collapses divergence. Tell him witness record is singular. Tell him shading is plural."
-
-Ahn wrote that down verbatim. Good. Let Doctrine carry sentences Cartography should not have to repeat.
-
-Okoye routed the tri-layer packet to Rowan's stack with Cartography's cover line:
-
-`PARALLEL READINGS MAINTAINED — NO SINGLE DEFAULT SHADING — WITNESS LANE DATA UNCHANGED`
-
-She returned to the projection.
+In the mess alcove, Cole took one and ate without sitting. Marcus Hale took one and asked whether departure was actually in twelve hours or twelve hours Fleet time; Kevin said yes to both and left. The ship smelled like pastry and solvent and the ordinary fact that people still ate before they were afraid.
 
 ---
 
-***FLEET COMMUNICATIONS COMMAND — VALIDATION BAY***  
-*COMMUNICATIONS FRAGILITY*
+***KESTREL VEIL — DEPARTURE CHECK***  
+*BOUNDARY PROTOCOL*
 
-Dana Holt trusted relay times.
+Calder walked the Reing passage once before undock. Captains who skipped the walk paid for it in surprises.
 
-She was learning to distrust headers.
+He checked Reing 3 under load—the handshake held. The fringe relay housing still carried Koss's label: *patched not repaired*. Corridor C still needed Brenner's kick. Through the viewport, the port scar showed the same weld line Fleet had photographed and filed.
 
-The validation bay at Communications Command had the clean acoustics of a room built to hear errors—low chatter, high attention, displays that showed chain integrity in green because green was the profession's favorite shortcut when the world was more complicated than color. Holt had lived on the fringe long enough to know green only meant *no one had broken the chain yet*. It did not mean everyone agreed what the chain carried. Message routing had begun depending on interpretation labels—not chain integrity, metadata.
+In the cradle ring, Koss argued with a bleed-routing coupler. Calder did not stop.
 
-Priya Nand ran a side-by-side on her pane, coffee forgotten at her elbow—same segment seven citation, same witness checksum, different urgency flags depending on which departmental lens an analyst attached at intake. Neutral corridor tag routed routine priority with standard relay window; strategic potential tag elevated priority and narrowed the window; civilian rhythm tag deferred priority and extended the window. Checksum and Park's message headers matched identically; Holt's forty sweeps married to VI-Gamma stability data within tolerance. Priya measured tagging lag in milliseconds—not latency failure, classification hesitation downstream—and Holt documented conditional routing so ambiguity management stayed visible rather than smuggled.
+He passed the mess alcove—pastry crumbs on one table, tools on another, the ordinary overlap of a ship that ate where it worked. Kevin's tray was empty.
 
-Torres, relay auditor from the return transit, leaned over the partition. "Fringe node asking why executive summary and Cartography attachment carry different priority stamps."
+The signature reduction package hummed at the edge of hearing—quieter than before the refit, not quiet enough to trust. Halden's conflict-test log was taped inside the sensor housing door: two failures, one pass, all filed. Calder read the pass line and kept walking.
 
-"Because they were tagged at intake by different shops," Holt said. "Tell them checksum validates regardless. Tell them priority is lens, not truth."
+On the command deck, the checklist ran in order.
 
-"That's going to annoy them."
+Dana Holt on Validation Bay relay:
 
-"Annoyance is cheaper than false unity," Holt said.
+"Good to hear you again, *Veil*." Then: "Handshake delay within tolerance. Checksum verification active. Transmission queue stable. VI-Gamma remains intermittent. No fix from my bench. Route accordingly."
 
-Commander Vance called from Logistics—a voice Holt associated with fuel spines and blunt frustration. "Identical bearing notices arrived with different readiness flags. Which one is Fleet?"
+Priya Nand on the relay: "Lag measured. Noted. Chain green."
 
-Holt was quiet one breath. The bay hummed. Somewhere upstairs Founders' Week banners came down in quarters that had already moved on.
+Park keyed confirm tokens to his segregated shelf. "Copied. No upstream send without dual confirm."
 
-"Fleet is the chain," she said at last. "Labels are departments. Readiness flags follow your modeling lens unless Operations issues unified posture—which they have not."
+Ortega at sensors: "Passive array calibrated. Observation profile active. Emissions minimized."
 
-"So Logistics reads capability and gets elevated flag."
+Tanaka from emitters: "Dark. Confirmed."
 
-"Logistics reads capability and gets Logistics tag," Holt corrected. "Communications routes what you label. We do not correct your label. We preserve your label in metadata so someone can audit why the same stars arrived twice with different urgency."
+Brenner at helm, Koss on intercom from the cradle ring:
 
-Vance exhaled. "Mercer's going to love this."
+"Signature reduction package online. Thermal bleed routing stable. Efficiency acceptable."
 
-"Mercer requested metadata discipline," Holt said. "Discipline has queue cost."
+"Acceptable?" Calder asked.
 
-She drafted a routing note for Mercer's fork registry—*interpretation metadata must not alter checksum validation or chain custody; tagging lag to be noted, not hidden*—and flagged Rowan's stack without dramatizing the flag.
+"That is engineering for *don't touch it,*" Brenner said.
 
-Priya poured coffee. Holt drank. The bay worked.
+Koss: "Reing 3 holding. Corridor C door still sticks. Kick it on the way out, Brenner."
 
-VI-Gamma stability remained intact. Holt's relay times sat true in archive.
+"Logged," Brenner said.
 
-The fragility was not fragility of signal.
+Reyes: "Navigation confirmed route. Secondary observation protocol armed for Alpha Seven boundary crossing."
 
-It was fragility of shared meaning riding on stable signal.
+Thessaly filed Calder's signature on the departure block. Berth fourteen-C released the cradle. Correction thrust engaged—the *Veil*'s familiar slow turn, Brenner's hands steady on a ship he knew by argument.
 
----
+"List is two degrees port," Brenner said. "Same as always."
 
-***FLEET DOCTRINE BUREAU — CLASSIFICATION ANNEX***  
-***DOCTRINE BUREAU PRESSURE***
+"Compensate," Calder said.
 
-Commander Owen Mercer had three inbox queues and one headache that felt like policy making itself without asking permission.
+"Compensating. Slow turn—the regulator still lies."
 
-The Classification Annex occupied a corridor Fleet officers joked about and feared—jokes about classification, fear about what classification could do to careers. Mercer did not fear terminology. He feared false singularity: the moment an institution pretended disagreement was resolved because someone needed sleep.
+"I won't ask."
 
-Field officers did not read fork registries for pleasure. They read mission orders. When mission orders carried parallel headers, they asked which one was Fleet.
+Helion traffic fell behind. Berth fourteen-C receded. Neutral Zone approach built on the plot—corridor spacing, tolerances, correction thrust within what the hull could hold.
 
-Lieutenant Ahn read a sample complaint aloud—professional, not mutiny:
+Reyes called spacing updates. Ortega listened. Park kept the queue closed.
 
-*Request clarification: patrol addendum emphasizes restraint; Intelligence brief emphasizes capability; Cartography attached three layers. Which doctrine applies to my mission environment?*
-
-Captain Reeves, Doctrine Bureau, looked at the ceiling as if Fleet God lived in the ducts and owed her a unified manual. "We cannot ship three doctrines to a patrol skid."
-
-"We are already shipping three behaviors," Mercer said. "We can ship three tags or we can ship hypocrisy."
-
-He did not collapse the fork.
-
-He had stamped *insufficient evidence to collapse divergence* too many times to reverse himself because inconvenience had arrived on schedule.
-
-He wrote instead:
-
-**Context-Dependent Application Protocol**
-
-Doctrine depends on mission environment and department lens. Witness record remains singular. Interpretation routes by tagged context—exploration patrol, fringe relay, intelligence assessment, logistics modeling—without folding into unified default.
-
-Ahn stared at the title. "That's a menu with better manners."
-
-"That's metadata discipline with routing tags," Mercer said.
-
-Reeves rubbed her temples. "Field officers will say Fleet has no doctrine."
-
-"Field officers will say Fleet has conditional doctrine," Ahn said. "Accurate."
-
-Mercer filed the protocol internal-only beside Observation Protocol draft and Edition 144's one changed sentence—*Survey completes notation; absence on charts is not absence in fact*—the sentence that had not prevented forks because sentences were not evidence of intent.
-
-Footer stamp:
-
-`COLLAPSE NOT AUTHORIZED — CONTEXT TAGS REQUIRED — WITNESS BANDS UNCHANGED`
-
-Hwang called on secure line—Exploration liaison voice, tired, competent. "Patrol addendum needs revision?"
-
-"No," Mercer said. "It needs a context tag. Tag it exploration-patrol-restraint. Intelligence tags capability-assessment. Holt tags ambiguity-management. Cartography tags parallel-readings-maintained. Stop asking which is true. Start tagging which lens."
-
-Hwang exhaled. "Officers want one answer."
-
-"Officers want one certainty," Mercer said. "Give them witness record and tag. That's Fleet now."
-
-"That's how we interpret it."
-
-"Tag it. Ship it. That's the protocol now," Mercer said.
-
-He hung up and looked at the three inbox queues. Complaints. Clarification requests. A memo from Thessaly's office asking when *non-peer structured civilization* would mature into proper nomenclature—classification pressure, not strategy. Mercer routed it to Historical and Cartography and did not promise maturity.
-
-Doctrine was no longer singular.
-
-It was conditional—and Mercer had formalized the conditionality because field officers deserved labels, not false certainty.
+Calder kept the amended packet on his slate—**4471-S AMENDED**, Edition 144 contact preparation attached.
 
 ---
 
-***FLEET HEADQUARTERS — OPERATIONS TIER***  
-*ROWAN OBSERVES THE SYSTEM*
+***SEGMENT SEVEN TRANSIT — ALPHA SEVEN BOUNDARY***
 
-Fleet Admiral Elias Rowan read reports the way physicians read vitals—trends before stories, patterns before panic.
+Reyes held the Neutral Zone corridor on filed spacing. Then he marked the Alpha Seven boundary on the plot—the Fleet epoch line where charts stopped treating returns as provisional. Beyond it, occupied volume was confirmed on the slate. Interior detail Fleet could not verify stayed blank on the overlay.
 
-His office glass showed Helion approach traffic and berth fourteen-C holding a patched scout whose hull breathed on a frequency Rowan associated with *witness returned, institution not finished*.
+Park held the upstream queue closed until Holt's confirm token returned—delayed, valid, filed. Ortega called passive sweep only; facts on the slate, inference withheld until the data supported it. Halden filed the negative space too—*no contact, no decloak, no upstream emissions worth classification*.
 
-The reports were not contradictory in fact—they were contradictory in obligation. Exploration had tightened illumination. Intelligence had expanded capability-first models while refusing hostile classification. Cartography maintained tri-layer output. Communications tracked metadata divergence while checksum validation held. Doctrine had formalized context-dependent application. Nothing was failing; everything was diverging coherently within its lens.
+Thessaly logged each shift against Edition 144 headers without commentary. Calder watched the boundary line advance.
 
-Commander Mercer appeared with coffee.
+The *Veil* crossed the Alpha Seven boundary with emitters dark. Ortega logged a harmonic shift from the signature reduction package and kept the sweep passive. Brenner held the filed corridor—the helm card at his knee still read *intermittent, not reliable*.
 
-"Sato wants a unified default again," Mercer said.
+No contact. No decloak. No bloom on bearing two-one-four mark six.
 
-"Sato will model until modeling becomes decision," Rowan said. "Field officers get witness record and context tags."
+Ortega reported traffic density in the passive returns—early data, low confidence, commuter cadence not yet confirmed. Observation, not inference. Calder did not ask her to hurry the label.
 
-Mercer set the coffee down. "Thessaly says we are translating ourselves."
+Park copied the crossing timestamp to three archive lanes. Holt would see it when Validation Bay processed the queue. Fleet would know the reference hull had crossed into occupied space beyond Alpha Seven. That was enough for today.
 
-"Ellis says we have been here before with worse documentation," Rowan said. "Both can be true."
+Second watch turnover passed without announcement. Tanaka confirmed emitters dark again. Walsh's rest-cycle reminder appeared on three slates; two were obeyed. Koss logged a thermal variance in the signature package and did not call it failure. Halden logged it anyway.
 
-Rowan opened the witness summary—not to reread facts, to confirm facts had not moved.
+Ortega's listen watch picture built slowly—traffic density low, cadence early, inference withheld. Occupied noise without a name.
 
-Calder Venn would not see this memo stack for days—witness sequestration, medical, debrief schedules Rowan had not hurried because hurry looked like decision. But Calder's restraint was already in the border band, copied into checklists by officers who had never shaken his hand.
+---
 
-Rowan did not find that comforting. He found it accurate.
+***KESTREL VEIL — EXECUTIVE QUARTERS***  
+*UNOFFICIAL HISTORY*
 
-He wrote for the Operations log:
+After second watch turnover, Thessaly locked her cabin door and took the cloth-bound notebook from the recess in the bulkhead.
 
-**We are still one Fleet.**
+Fleet kept the record—official reports, incident summaries, technical findings.
 
-**We are no longer one understanding.**
+Executive officers kept what the record could not explain.
 
-Mercer read it. "Sign?"
+The book stayed with the hull—executive officer to executive officer, never logged, never off ship. The prior XO had shown her the recess at turnover. Calder knew the tradition, as Dennett had and the captains before them. They did not read it. They did not control it. The contents stayed with the executive officer chain.
 
-"Note it," Rowan said. "Same as last time."
+At Dennett's farewell he had said: "Captains change. The ship's mistakes don't." Thessaly had written it on the inside cover.
 
-He did not collapse the forks.
+She had added one line from the Veil's last segment seven approach:
 
-He recognized them.
+*Charts said empty. Crew said nervous. Both were right in the wrong units.*
+
+She turned to an earlier page:
+
+*Minor hull damage — debris field navigation error.*
+
+*Official report says we missed the fragment by three meters. Truth is the attitude thruster stuck and we rotated six seconds early. The fragment missed anyway. Nothing in the filed model accounts for both.*
+
+*— Marsten, XO*
+
+The next page:
+
+*Thermal management corrected — reactor anomaly.*
+
+*Official line: corrected before threshold breach. Alarm should have fired fourteen seconds earlier. It did not. We corrected anyway. No satisfactory explanation filed.*
+
+*— Voss, XO*
+
+Thessaly uncapped her pen.
+
+She did not write a name for it. Fleet had none that fit. She wrote what happened.
+
+She wrote:
+
+*Masked contact through the occlusion zone.*
+
+*At composite lock, silhouette-scale mass—larger than scout, larger than existing platform. No existing category applied.*
+
+*The contact fired on the Veil.*
+
+*The discharge should have destroyed this vessel.*
+
+*Kestrel's probe launch sequence completed immediately before impact. The probes crossed the engagement path and altered the outcome.*
+
+*The mechanism remains unresolved.*
+
+*The ship survived.*
+
+*The crew survived.*
+
+*We still do not know why.*
+
+*— Thessaly, XO*
+
+She closed the notebook, returned it to the recess, and went back to the deck. The watch did not pause for private history.
+
+---
+
+***KESTREL VEIL — COMMAND DECK***  
+*INBOUND SEGMENT SEVEN*
+
+Calder had the chair. Thessaly stood at the rail with the slate she used when she was not pretending to rest.
+
+Below, Ortega had listen watch. Traffic built in the passive returns—unclassified cadence, no name filed yet. She called bearings with numbers only.
+
+Park had sent upstream after Holt's confirm token cleared forty minutes ago. Validation Bay had not returned receipt yet.
+
+Brenner held correction thrust on the filed corridor. Koss's intercom update from Reing was one line: *Reing 3 nominal under current load*—which meant complain, not fail.
+
+Calder had learned to read the ship that way. It had taken the Incident and segment seven and a refit that improved without pretending to fix.
+
+"How long until the next observation point?" Calder asked.
+
+"Six hours," Thessaly said.
+
+"Same as always," she said—not quite a question.
+
+Calder watched Reyes's plot advance. Passive returns. No handshake. No upstream emissions worth filing as contact.
+
+"No," he said. "Not anymore."
+
+Thessaly logged the protocol state and did not argue.
+
+Ahead on the navigation overlay—chart notation from Okoye's operational packet, inference labeled, bearing unresolved—**Alpha Seven** sat on the corridor line.
+
+Calder did not say the designation aloud. He watched the plot advance one tick at a time.
+
+The *Kestrel Veil* held course.
+
+Quiet. Patched. Crew at stations. Orders that matched the price already paid.
+
+Somewhere ahead, Alpha Seven waited on the chart.
+
+Occupied space beyond the boundary had not answered yet.
+
+---
+
+***THE DOMINION — VOLUME V17***  
+*STANDING OBSERVATION*
+
+The *Iron Harrow* held position, cloak stable, thermal bleed routed through corrected collectors, scatter within the margins bench engineers had promised after the trial rebuild.
+
+On the observation deck, a sensor operator watched the inbound trace finalize.
+
+"Vessel crossed inner boundary."
+
+Senior Warrant Klimov did not look up from the comparison pane. "Confirmed?"
+
+"Confirmed. Scout-class profile. Reduced emissions. Passive arrays active—no upstream illumination."
+
+Klimov filed the timestamp and routed the packet to command.
+
+Commander Vex received it at the tactical rail. He read the identification stack once—hull harmonics, correction-thrust cadence, traffic discipline the border archives still carried from the trial engagement.
+
+"Likely the trial scout," he said.
+
+Not to the room. To the record.
+
+Major Petrov on the comms inset: "Confirmed?"
+
+"Not confirmed," Vex said. "Archive match on harmonics and thrust cadence. Scout-class. Different behavior. Emissions reduced. Observation posture on entry. No initiation."
+
+He pulled the trial overlay beside the live return. The old failure modes—envelope shimmer under passive lock, scatter spikes at maneuver—did not appear. The field held. The scout's passive sweep completed without acquisition.
+
+Vex studied the comparison longer than efficiency required.
+
+"They reduced emissions," he said. "They changed posture. They learned."
+
+Petrov waited.
+
+"Match it," Vex said. "Continue passive hold. No illumination. No pursuit. File standing observation and let them complete their window."
+
+Klimov: "Archive depth?"
+
+"Full chain. V17 command and Strategic Security routing."
+
+The operator resumed the watch. The scout's signature crept along the filed corridor on the plot—patient, professional, empty of any return it had come to find.
+
+Vex logged the contact and did not alter position.
+
+V17 had registered the crossing before the scout's own archive would file the boundary.
 
 ---
 

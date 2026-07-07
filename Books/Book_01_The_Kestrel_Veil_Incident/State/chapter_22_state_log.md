@@ -1,70 +1,93 @@
-# Chapter 22 State Log — Recognition
+# Chapter 22 State Log — The Crossing
 
-**Status:** LOCKED  
-**Words:** ~3,850 (approx.)  
-**Act:** IV — First Doctrine
-
----
-
-## Operational divergence (implicit forks in behavior)
-
-| Department | Interpretive lens | Manifestation |
-|------------|-------------------|---------------|
-| **Exploration Corps** | Restraint default | Patrol illumination discipline; passive observation extended; *no initiation under uncertainty threshold* |
-| **Intelligence** | Capability-first / defensive readiness | Scenario expansion; dual-use infrastructure models; hostile classification refused |
-| **Cartography** | Parallel readings | Tri-layer output: civilian rhythm / neutral corridor / strategic potential |
-| **Communications** | Ambiguity management | Interpretation metadata drives routing priority; checksum/chain unchanged |
-| **Doctrine Bureau** | Conditional formalization | Context-Dependent Application Protocol |
-
-No branch letters declared in field dialogue. Tags use mission-environment language.
+**Status:** DRAFT — manuscript complete, author review pending  
+**Act:** IV — First Doctrine  
+**Word count:** ~2,305  
+**Planning:** User outline (Kestrel carries doctrine into practice)
 
 ---
 
-## Doctrine Bureau
+## Chapter purpose
 
-- **Context-Dependent Application Protocol** — doctrine depends on mission environment and department lens; witness record singular; collapse not authorized
-- Context tags introduced: `exploration-patrol-restraint`, `capability-assessment`, `ambiguity-management`, `parallel-readings-maintained`
-- Field officer clarification requests logged (Ahn); Mercer refuses collapse
+Fleet created the doctrine. Kestrel carries it into practice.
 
----
+**Core question:** What does it feel like for ordinary people to operate under the most important uncertainty Fleet has faced?
 
-## Cartography (Okoye)
-
-- Key line: *We are not correcting maps anymore. We are maintaining parallel readings.*
-- Operational charts ship all three layers; default layer = mission environment tag
-- Cover line: `PARALLEL READINGS MAINTAINED — NO SINGLE DEFAULT SHADING — WITNESS GEOMETRY UNCHANGED`
+Answer on the page: not fear, not excitement — **responsibility**.
 
 ---
 
-## Communications (Holt / Nand)
+## Scenes (implemented)
 
-- Same segment seven data, different urgency flags by interpretive metadata
-- VI-Gamma stability intact; tagging lag logged (milliseconds)
-- Routing note: interpretation metadata must not alter checksum validation or chain custody
-- Holt: *Fleet is the chain. Labels are departments.*
+### 1 — Fleet Departure Briefing (Briefing Room)
+
+- Calder mission briefing — parameters, not historic speech
+- Key lines: assumptions wrong / communication unknown / next person has better information
+- Crew expectations ordinary; withdrawal authority; Holt chain; no VI-Gamma promise
+- Department Q&A: Ortega, Brenner, Halden, Reyes, Walsh
+
+### 2 — Crew Reaction (Corridor / Mess)
+
+- Kevin pastries — first batch, Fleet moved up, engineering smelled them
+- Brief mess beat — ordinary life before departure
+
+### 3 — Final Systems Check (Departure)
+
+- Calder ring walk — patched hull, signature package, conflict-test log
+- Holt: VI-Gamma intermittent, no fix
+- Passive sensors, signature reduction, Brenner *don't touch it*
+- Undock; Neutral Zone transit — not routine, different headers on slate
+
+### 4 — Alpha Seven Boundary Crossing (Segment Seven Transit)
+
+- Geography: Neutral Zone transit → Alpha Seven boundary → occupied space beyond (Fleet has no name for the other power)
+- Compressed procedure: Holt relay chain, passive sweep, Halden negative filing
+- Cross boundary emitters dark; no contact, no decloak
+
+### 5 — Thessaly Unofficial History (Executive Quarters)
+
+- One cloth notebook stays with the hull; XO inheritance; captains know tradition exists, do not read or control contents
+- Fleet keeps the record; XOs keep what the record cannot explain
+- Marsten/Voss anomaly entries (official line vs what happened)
+- Thessaly Incident entry: contact fired, discharge should have destroyed vessel, probe sequence crossed engagement path, mechanism unresolved
+
+### 6 — Command Deck Close (Inbound Segment Seven)
+
+- *Same as always* / *No. Not anymore.*
+- **Alpha Seven** on Okoye chart — Fleet designation only
+- Occupied space beyond the boundary had not answered yet
+
+### 7 — Dominion V17 Coda (Vex)
+
+- Leviathan-class **Iron Harrow** on dark running at **V17** — refined cloak holds under Kestrel passive sweep
+- Kestrel detected after crossing; Vex infers trial contact from harmonic/thrust archive match—not confirmed; reduced emissions, observation posture
+- Vex: match posture, no illumination, standing observation — parallel discipline to Fleet doctrine
+- Information imbalance: V17 registered crossing before Kestrel archive
 
 ---
 
-## Rowan
+## Terminology (canon)
 
-- Reviews contradictory-but-functional departmental behaviors
-- Does not collapse forks
-- Operations log: *We are still one Fleet. We are no longer one understanding.*
-- Recognition without resolution; Calder's restraint distributed in patrol addenda without naming him
+- **Alpha Seven** — Fleet designation for the unresolved region; used on charts, mission packets, crew speech
+- **V17** — Dominion designation only; must not appear in Fleet-perspective scenes (reserved for future Dominion POV)
 
 ---
 
-## Boundaries preserved
+## Excluded (per outline)
 
-- No Dominion POV
-- No external escalation or war mobilization
-- No unified default posture
-- No hostile classification
-- No Rowan strategic decision / no doctrine resolution
-- Fleet does not learn Dominion name or internal status
+- Vex reveal, Leviathan, new alien communication, major danger, fleet panic
+- Beverage temperature markers, merge/fork language, legacy institutional montage (Hwang/Sato fork architecture)
+
+---
+
+## Canon locked from Ch. 21
+
+- Mission **4471-S AMENDED**; reference hull return to segment seven
+- Signature reduction (not cloak); VI-Gamma intermittent; Holt relay chain
+- Edition 144 contact preparation headers on deck behavior
 
 ---
 
 ## Next (Ch. 23)
 
-- ~~The Last Report~~ — **COMPLETE** — see `chapter_23_state_log.md`
+- The Test of Doctrine — pressure on unified framework; Alpha Seven approach deepens

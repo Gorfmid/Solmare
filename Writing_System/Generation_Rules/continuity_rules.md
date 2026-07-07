@@ -49,6 +49,10 @@ Empires:
 
 Civilization scenes must use **recurring cultural touchstones** per `Universe/cultural_touchstones.md` — texture through repetition, not on-page explanation.
 
+**Holiday naming:** Fleet = **Founders' Week**. Dominion = **harvest festival** (proper name) and **district festival** (local events). **civic festival** is retired. No cross-civilization bleed; Fleet border inference uses generic **holiday** only. See `Universe/cultural_touchstones.md` → § Holidays.
+
+**Beverages:** Dominion institutions and civilian life → **tea**. Fleet institutions → **coffee**. Not interchangeable; drink temperature is not a time marker. See `Universe/cultural_touchstones.md` → § Cultural beverage distinction.
+
 Fleet/Dominion scenes must pass the **civilization scene test** per `Writing_System/Series_Principles/cultural_identity_and_philosophical_foundation.md` — one new cultural aspect per chapter; never technology alone.
 
 Neither Fleet Authority nor the Dominion is the series antagonist. History and incompatible doctrines drive the collision.

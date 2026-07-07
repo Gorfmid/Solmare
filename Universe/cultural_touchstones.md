@@ -85,7 +85,27 @@ Every chapter: **one new aspect of one civilization.**
 
 ---
 
-## Fleet Authority
+## Cultural beverage distinction (series canon)
+
+Fleet and Dominion associate different drinks with institutional life. Use them as **cultural texture**, not as clocks. Do not explain the contrast on the page.
+
+| | **The Dominion** | **Fleet Authority** |
+|---|------------------|---------------------|
+| **Drink** | **Tea** | **Coffee** |
+| **Where** | Directorates, planning rooms, commons, border stations, schools, homes | Operations tier, Doctrine annex, Map Room, briefing alcoves, cradle-strip kiosks, wardrooms |
+| **Reads as** | Continuity, patience, inherited systems — poured before serious talk; often too strong; same pots across shifts | Operational tempo, active problem-solving, expeditionary culture — grabbed between watches; refilled during long sessions |
+
+### Writing rules
+
+1. **Dominion scenes** — default to **tea** in institutional and civilian settings. Gloves off, tea poured, planning packets opened.
+2. **Fleet scenes** — default to **coffee** in institutional and shipboard settings. Mess nooks, annex tables, yard kiosks.
+3. **No cross-bleed** — Dominion directorates do not run on coffee culture; Fleet headquarters does not default to tea service in briefing rooms. (Member worlds and border contact may show local variation; do not treat as interchangeable.)
+4. **Temperature is not time** — see `chapter_editing_pass.md` and `act_iv_institutional_prose.md`. Characters may drink; do not use *coffee cooled*, *tea gone cold*, or drink state as the primary marker for elapsed time. Prefer slides, stamps, paperwork, shift change.
+5. **Do not lecture** — never narrate what tea or coffee *represents*. Let habit, setting, and repetition teach the reader.
+
+**Contrast with holidays:** `Founders' Week` (Fleet) vs `harvest festival` (Dominion) — same rule: civilizational recognition, no bleed.
+
+---
 
 Fleet Authority is comparatively **young** and outward-facing. Touchstones emphasize expansion, shared law, celebration of connection, and the officer ethos of going first. Characters think **prospectively**.
 
@@ -108,6 +128,10 @@ Dominion speech habit: `Universe/The_Dominion/dominion_speech.md`
 - **Founders' Week fortune rolls** — plain dough around a paper slip; no one pretends it is mystical.
 - **Prosperity practice** — sharing food with night shifts and neighbors during Founders' Week.
 
+**Naming rule:** Use **Founders' Week** in all Fleet POV and Fleet institutional voice. Do not use Dominion holiday names (`harvest festival`, `district festival`) in Fleet scenes except when a character is explicitly analyzing foreign traffic patterns — and then use generic **holiday** / **local holiday**, not Dominion proper names.
+
+Member worlds may hold **local harvest festivals** (e.g. Verdant Line terrace cooperatives). These are **not** Dominion holidays and **not** Founders' Week.
+
 ### Places & sensory markers
 
 - **Second Sunrise** — foundry aurora over industrial districts; locals treat it as weather, not romance.
@@ -121,6 +145,7 @@ Dominion speech habit: `Universe/The_Dominion/dominion_speech.md`
 
 ### Foods & family ritual
 
+- **Coffee** — default drink in Fleet institutional and shipboard settings (operations floors, Doctrine annex, Map Room, wardrooms, yard kiosks). Operational tempo; grabbed between tasks. Not a timer — do not use cooling coffee as elapsed-time shorthand.
 - Neighbor potlucks: ocean-world stew, Selene flatbread, Verdant Line preserves — dishes arrive without being asked.
 - Family photographs with **old Fleet banners** brought out yearly; hosts let people look without lecturing.
 
@@ -154,11 +179,27 @@ Additional sayings: develop **gradually** across the series. Never batch-introdu
 
 Readers should gradually understand that Dominion citizens believe **sacrifice preserves future generations** — through repetition, not author thesis.
 
+### Holidays & naming (series canon)
+
+Dominion and Fleet holidays are **not the same event**. Do not bleed names across civilizations.
+
+| Term | Use |
+|------|-----|
+| **harvest festival** | Dominion **proper name** — institutional voice (Transportation Directorate, SSD, congestion models, leave codes), seasonal countdown, banners, freight overlays, classroom history tied to the season |
+| **district festival** | **Neighborhood scale** during harvest season — school pageant, rehearsal, stall permits, leave requests, garden stakes for visitors, chorus script |
+| **festival** (bare) | Acceptable in personal/yard voice when context is obvious — e.g. *festival mud*, *post-festival traffic* in a room that already named harvest festival |
+
+**Retired:** **civic festival** — do not use. Replace with **harvest festival** (seasonal/institutional) or **district festival** (local event).
+
+**Fleet cross-border rule:** Veil listen-watch and Exploration inference use **holiday** / **local holiday** — not Dominion proper names. Fleet does not call the border celebration *harvest festival* unless quoting captured traffic metadata (rare).
+
+**Contrast with Fleet:** **Founders' Week** = origin myth, parade, academy cohorts, copper-and-blue bunting. **Harvest festival** = continuity, seasonal rhythm, gold-thread banners, grandmothers and freight windows — a civilization that celebrates inheritance, not arrival.
+
 ### Quick reference (detail in dominion_worldview)
 
 | Category | Examples |
 |----------|----------|
-| Professional ritual | Gloves off before serious talk; tea in government and military meetings; chess in officers' commons |
+| Professional ritual | Gloves off before serious talk; **tea** in government and military meetings; chess in officers' commons |
 | Military custom | Private promotions, public funerals; frontier duty norm; border station plaques |
 | Institution | Logistics and history weighted at academies; old ships revered; family service records |
 | Education | Children learn through **stories of sacrifice**, not conquest |

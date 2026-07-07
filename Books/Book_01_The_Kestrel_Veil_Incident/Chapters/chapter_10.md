@@ -27,7 +27,7 @@ Volkova checked the delivery column on her slate. It was still empty.
 
 "Then next week is what we plan for." She poured tea from the communal pot—too strong, always too strong, the way planners drank it. "Freight routing."
 
-Dusan continued. "Commercial lanes holding. Ore haulers on schedule within tolerance. Passenger transit—autumn festival congestion projected in twelve days; family leave requests already clogging secondary routes. Automated tugs—routine. Emergency services—quiet."
+Dusan continued. "Commercial lanes holding. Ore haulers on schedule within tolerance. Passenger transit—harvest festival congestion projected in twelve days; family leave requests already clogging secondary routes. Automated tugs—routine. Emergency services—quiet."
 
 Volkova listened for variance in the numbers, not poetry.
 
@@ -61,7 +61,7 @@ Volkova assigned routes. She signed forms. She deferred seasonal leave congestio
 
 Marenko leaned back. "Scientific funding line item came through overnight. Elevated. Sealed manifests only."
 
-"Then sealed manifests travel on time or I hear about it from people who outrank me," Volkova said. "Route them on nine-beta secondary. Accept the commercial penalty. Document twice."
+"Then sealed manifests travel on time or I hear about it from people who outrank me," Volkova said. "Route them on Helikon feeder secondary. Accept the commercial penalty. Document twice."
 
 Jasko raised a hand. "Weather delay on the Helikon feeder—ion scrubber failure. Mining output may stay down six days, not one."
 

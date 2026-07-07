@@ -51,7 +51,7 @@ None disputed Park's chain.
 
 None disputed Okoye's epoch revision.
 
-They disputed what obligation followed from classification Fleet had finally stopped calling empty.
+They disputed what obligation followed from classification Fleet had finally stopped treating as unoccupied by default.
 
 Lieutenant Ahn appeared with coffee Ellis had not requested and a Doctrine Bureau expression that meant *someone upstairs is about to be asked to be an adult*.
 
@@ -264,11 +264,7 @@ He chose the frame that let all three exist without forcing false singularity.
 
 Mercer spread Edition 144 on the desk—working copy, spine cracked now, Founders' Week coffee ring on the cover from a meeting that felt like another civilization. Edition 143 sat on the shelf behind it like a rebuke and a gift: one box for cadets who had learned conditional doctrine late.
 
-The one changed sentence remained:
-
-*Survey completes notation; absence on charts is not absence in fact.*
-
-Rowan read it without ceremony.
+The §7.2 correction remained on the first page. Rowan read it without ceremony.
 
 Below it, Mercer's first principles page—one sheet, no oratory:
 

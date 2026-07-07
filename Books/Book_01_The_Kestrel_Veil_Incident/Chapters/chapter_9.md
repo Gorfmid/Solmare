@@ -123,7 +123,7 @@ Stratimirov opened a drawer and removed a tin of tea—not ration issue, a gift 
 
 "Mobilization schedule," he said.
 
-"Continues, sir. Tier two acceleration authorized last month." Petrov read without inflection. "Shipyard labor shifts on the outer belt yards moved to eighteen-hour rotation last week—Industrial Directorate notation only. Reserve warrant officers recalled for refresher cycles: forty-three names this month. Fuel depot expansion at Kessik completed forty days ahead of schedule. Frontier munitions stores received quiet inventory refresh—standard rotation language, nonstandard volume. Logistics corridors on the seven-alpha approach finished ahead of Procurement Office forecast."
+"Continues, sir. Tier two acceleration authorized last month." Petrov read without inflection. "Shipyard labor shifts on the outer belt yards moved to eighteen-hour rotation last week—Industrial Directorate notation only. Reserve warrant officers recalled for refresher cycles: forty-three names this month. Fuel depot expansion at Kessik completed forty days ahead of schedule. Frontier munitions stores received quiet inventory refresh—standard rotation language, nonstandard volume. Logistics corridors on the Kessik feeder approach finished ahead of Procurement Office forecast."
 
 "Continue it." He poured. "Accelerate cloak refinement. All trial data to Science Directorate—sealed channel, not political liaison. Scientific funding stays elevated—no directorate memos calling it a windfall."
 
@@ -350,7 +350,7 @@ Coffee from the commons pot—too bitter, shared anyway. Warrant Master Selim re
 
 The node was cold the way border installations were cold—not uncomfortable, engineered for alertness. Kovat's chair had a crease worn into the left armrest where eleven years of elbows had rested. Selim's grandfather had served on K-12. The wall plaque still listed three names from a border incident forty years ago. Procedures had been revised afterward. The lesson had not. Brass outlasted the officers who walked past it.
 
-A scrap of green sat on the console ledge—something hardy from the commons exchange, surviving on shift lamps and the water Kovat gave it when the sweep cycle refreshed. Home rotation was in fourteen days if the schedule held; her daughter had sent a recording asking whether the district autumn festival still required wool coats. Kovat had not answered yet. She would, on break.
+A scrap of green sat on the console ledge—something hardy from the commons exchange, surviving on shift lamps and the water Kovat gave it when the sweep cycle refreshed. Home rotation was in fourteen days if the schedule held; her daughter had sent a recording asking whether the district harvest festival still required wool coats. Kovat had not answered yet. She would, on break.
 
 Thinking about it did not improve the sweep.
 
@@ -402,7 +402,7 @@ Kovat knew what he meant.
 
 Not coordinates alone. Corridor context.
 
-The contact sat in seven-alpha—outside the routine traffic pattern for the cycle. Nothing in recent observations accounted for a low-power return on correction thrust.
+The contact sat on the K-17 watch corridor—outside the routine traffic pattern for the cycle. Nothing in recent observations accounted for a low-power return on correction thrust.
 
 "Scout profile," Selim said. Not a question.
 

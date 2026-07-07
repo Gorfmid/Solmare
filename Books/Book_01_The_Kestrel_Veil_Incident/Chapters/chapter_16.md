@@ -7,7 +7,7 @@
 ***THE DOMINION — STRATEGIC SECURITY DIRECTORATE***  
 *THE LAST COMPARISON*
 
-Morning arrived with rain on the arcade glass and autumn festival banners finally taut— gold thread, music from the lower plaza, the ordinary volume of a civilization celebrating itself without asking permission from the border.
+Morning arrived with rain on the arcade glass and harvest festival banners finally taut— gold thread, music from the lower plaza, the ordinary volume of a civilization celebrating itself without asking permission from the border.
 
 Director-General Lev Stratimirov opened Major Petrov's packet.
 
@@ -17,7 +17,7 @@ Not thirty-one.
 
 Petrov stood at the table's far edge with tea untouched and the controlled posture of a man presenting numbers that would not become orders yet.
 
-"Routine summary," he said, because routine was how you filed the extraordinary until it earned a name. "Border nodes, maintenance corridors, passive archives. Regional Transportation Directorate reports corridor normalization on seven-alpha and nine-beta. Border stations report nothing extraordinary. Science Directorate reports improved cloak stability in marginal hold— bench plus margin approaching satisfaction, field trial timeline still withheld."
+"Routine summary," he said, because routine was how you filed the extraordinary until it earned a name. "Border nodes, maintenance corridors, passive archives. Regional Transportation Directorate reports corridor normalization on the K-17 spine and Helikon feeder lane. Border stations report nothing extraordinary. Science Directorate reports improved cloak stability in marginal hold— bench plus margin approaching satisfaction, field trial timeline still withheld."
 
 Stratimirov studied the overlay.
 
@@ -229,7 +229,7 @@ Kovat's secure slate vibrated once during the second chorus— routine observati
 
 She read without leaving her seat.
 
-*Seven-alpha persistent return: diminished persistence. Border nodes: normalization within seasonal leave models. No new conclusions. Continue watching.*
+*K-17 persistent return: diminished persistence. Border nodes: normalization within seasonal leave models. No new conclusions. Continue watching.*
 
 No breakthrough.
 
@@ -425,11 +425,11 @@ Rain on high glass.
 
 Handrails worn smooth.
 
-Tea cooling in cups analysts forgot while autumn festival traffic sang in the lower districts.
+Tea cooling in cups analysts forgot while harvest festival traffic sang in the lower districts.
 
 Commander Vex stood at the passive plot and watched probability fade.
 
-Returns that had persisted on seven-alpha diminished below confident comparison.
+Returns that had persisted on the Kessik feeder corridor diminished below confident comparison.
 
 Patterns that had aligned across thirty-two observations dissolved into holiday congestion models and normalization bands.
 

@@ -231,7 +231,7 @@ The room continued around him.  Operations floor worked: blue displays, coffee c
 
 Rowan read.
 
-He read the Incident baseline, capital-scale discharge, cloak partial failure under passive lock, patched withdrawal. He already knew that paragraph. Destruction assessment had closed one outcome short of loss-of-ship. Then segment seven: passive posture maintained, no upstream emissions, no handshake, no illumination hunt observed, first contact has not occurred. Technical position, Thessaly's band notation.
+He read the Incident baseline—decloak after sustained passive lock, mechanism unresolved; directed energy discharge; patched withdrawal. He already knew that paragraph. Destruction assessment had closed one outcome short of loss-of-ship. Then segment seven: passive posture maintained, no upstream emissions, no handshake, no illumination hunt observed, first contact has not occurred. Technical position, Thessaly's band notation.
 
 Rowan paused on the executive summary header.
 

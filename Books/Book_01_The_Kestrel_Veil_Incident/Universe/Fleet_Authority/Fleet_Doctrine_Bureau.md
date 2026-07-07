@@ -70,7 +70,7 @@ Book One may end with the **first visible edition change**— not a finished man
 | Character | Role |
 |-----------|------|
 | **Commander Owen Mercer** | Operations/doctrine pressure at Fleet Command interface |
-| **Captain Mira Thessaly** | External author forcing revision |
+| **Executive Officer Mira Thessaly** | External author forcing revision |
 | **Captain Calder Venn** | Witness defending observation sequence |
 | **Commodore Mira Sato** | Intelligence framing vs. Bureau taxonomy |
 

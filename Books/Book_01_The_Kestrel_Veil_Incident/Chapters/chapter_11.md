@@ -13,7 +13,7 @@ Irina Volkova settled into her desk. Tea steamed gently on the cup warmer. Syste
 
 Corporal Dusan read through the overnight crossings with practiced indifference. Nothing immediately stood out.
 
-"Passenger surge on secondary four—autumn festival leave, eleven days out, already congesting freight windows. Military corridor nine—quiet priority, no announcement, commercial penalty accepted. Reserve transport—fifty-one warrant recalls routed since yesterday. Up from forty-three last week."
+"Passenger surge on secondary four—harvest festival leave, eleven days out, already congesting freight windows. Military corridor nine—quiet priority, no announcement, commercial penalty accepted. Reserve transport—fifty-one warrant recalls routed since yesterday. Up from forty-three last week."
 
 Nobody looked up.
 
@@ -39,7 +39,7 @@ Marenko, Industrial Directorate liaison, tapped his slate. "Helikon output recov
 
 "Until the cargo moves...  well, we will call it Thursday when the crane arrives." Volkova said.
 
-"Civic festival congestion—" Dusan began.
+"Harvest festival congestion—" Dusan began.
 
 "—are human problems," Volkova finished. "Route around it. Accept penalties. If a grandmother misses a parade because we optimized an ore transport, I'll hear about it from someone who outranks all of us."
 
@@ -228,7 +228,7 @@ When rehearsal ended, Nika ran over breathless.
 
 "Grandmother had practice."
 
-They walked home through banners that had grown bolder overnight— gold thread, anticipatory, autumn festival nine days now if rotation held. Nika talked about wool coats. Kovat listened.
+They walked home through banners that had grown bolder overnight— gold thread, anticipatory, harvest festival nine days now if rotation held. Nika talked about wool coats. Kovat listened.
 
 At the corner, Nika bought sweets with her own allowance because sweets were how children apologized for being children.
 

@@ -76,7 +76,7 @@ Act IV opens Fleet Command's **doctrine crisis**— not a battle crisis.
 | **Commander Owen Mercer** | Operations watch — live routing, readiness pressure |
 | **Captain Calder Venn** | Witness captain — briefs upward |
 | **Commodore Mira Sato** | Intelligence counterweight Rowan trusts |
-| **Captain Mira Thessaly** | Report architect — Rowan may never meet her before reading her text |
+| **Executive Officer Mira Thessaly** | Report architect — Rowan may never meet her before reading her text |
 
 *Placeholder:* Operations watch officers, relay duty captains, pickup coordination staff.
 

@@ -133,7 +133,7 @@ Fleet Authority still assumes (Act IV must challenge):
 | The Incident was an isolated encounter | Segment seven reveals civilization-scale systems, not a single contact |
 | First contact is something Fleet initiates or manages | Listening occurred; no handshake; opposing side may have been comparing passively |
 | Unknown civilizations fit existing doctrine templates | Thessaly rejected enemy / unknown / hostile / border / first contact headers |
-| Technological superiority evaluable through visible capability | Cloak partial failure is intelligence—but industrial depth implies peer-scale logistics |
+| Technological superiority evaluable through visible capability | Decloak after passive lock—mechanism unresolved—but industrial depth implies peer-scale logistics |
 | Passive intelligence is secondary to direct contact | Entire Act III intelligence product is passive-only |
 | A patrol report processes through normal command channels | Report breaks Fleet grammar; requires doctrine-level reception |
 | Empty charts meant absence | Calder: *absence of evidence ≠ evidence of absence* |

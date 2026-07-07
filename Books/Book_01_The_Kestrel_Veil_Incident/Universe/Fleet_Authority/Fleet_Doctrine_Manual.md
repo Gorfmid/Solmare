@@ -101,11 +101,27 @@ The *Kestrel Veil* segment seven record (Ch. 9–16) breaks Edition 143 in speci
 
 ## 5. Edition 144 — Post-Kestrel Revision
 
-**Status:** Authorized (Ch. 23–24). Branches A/B/C preserved; collapse not authorized.
+**Status:** Authorized Ch. 21 (unified Contact Doctrine) · implementation Ch. 22–24 · **planning:** `Act_Outlines/act4_chapters_21-24_generation.md`
+
+**Architecture (2026-07-07):** **One operational doctrine** — retired fork annex (Branches A/B/C; collapse not authorized).
 
 ### Key correction (replaces Survey Manual §7.2 logic)
 
 > *Survey completes notation; absence on charts is not absence in fact.*
+
+### Contact Doctrine — behavioral lines (Ch. 21)
+
+> Approach as if contact is possible.  
+> Prepare as if capability matters.  
+> Do not assign intent without evidence.
+
+### Witness behavioral floor
+
+> They demonstrated capability. They also demonstrated restraint.
+
+### Classification
+
+**Structured civilization beyond Fleet survey assumptions** — no hostile classification; no assigned proper name.
 
 ### Fleet Academy Strategic Studies — First-Year Cadet Primer (Edition 144)
 
@@ -120,9 +136,9 @@ The *Kestrel Veil* segment seven record (Ch. 9–16) breaks Edition 143 in speci
 
 *Edition 143 ended on **conflict**; see `Chapters/prologue.md`.*
 
-### First Principles (summary — full text Ch. 23)
+### First Principles (summary — unified doctrine; full text Ch. 21–24)
 
-Observation precedes doctrine · parallel interpretation permitted · mission environment tags mandatory · restraint under uncertainty · readiness not provocation · uncertainty preserved · future commanders may adapt without erasing contradiction
+Observation precedes doctrine · contact possible · capability matters · intent requires evidence · restraint under uncertainty · readiness not provocation · behavior defined before public disclosure
 
 ### Archived predecessor language
 
@@ -132,16 +148,17 @@ Observation precedes doctrine · parallel interpretation permitted · mission en
 
 ---
 
-## 6. Act IV Use (complete)
+## 6. Act IV Use (Ch. 21–24)
 
-This document supports **Chapter 24** (*The Veil Opens*) and Book One resolution.
+This document supports **Book One close** (Ch. 24 — *The First Answer*).
 
 | Act IV beat | Manual role |
 |-------------|-------------|
 | Briefings | Edition 143 language fails on screen |
 | ROE debate (Ch. 18) | Templates vs. segment seven facts |
-| Recognition (Ch. 22) | First institutional adoption of peer framing |
-| Ch. 24 close | **First visible change** 143 → 144 (direction, not encyclopedia) |
+| Ch. 21 | **First operational doctrine** adopted — unified Contact Doctrine |
+| Ch. 22–23 | Implementation and pressure test |
+| Ch. 24 close | Edition 144 deployed; public transition begins; unknown responds |
 
 **Book One end state:** War has not begun. Doctrine has begun to change. Perspective is the victory.
 

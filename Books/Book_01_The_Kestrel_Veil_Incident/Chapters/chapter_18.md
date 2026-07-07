@@ -106,7 +106,7 @@ Rowan was quiet three seconds. Calder waited.
 
 "Incident baseline," Rowan said. "Observed."
 
-Calder said, "Partial cloak failure under sustained passive lock at Kestran Spiral. Full decloak on resolved bearing before directed energy discharge. Observed mass beyond scout and platform scale. Withdrawal under degraded auxiliary propulsion. Hull classification unresolved. Political affiliation unresolved."
+Calder said, "Decloak on resolved bearing at Kestran Spiral immediately before directed energy discharge. Sustained passive lock preceded visibility; cloak mechanism unresolved. Observed mass beyond scout and platform scale. Withdrawal under degraded auxiliary propulsion. Hull classification unresolved. Political affiliation unresolved."
 
 "Speculation?" Rowan asked.
 

@@ -11,7 +11,7 @@ Commander Vex entered the tactical classroom without ceremony.
 
 Not a lecture hall.
 
-A practical space— worn deck plates, projection tables scarred by decades of stylus work, corridor maps layered on the walls like sediment. Rain moved across the high windows in sheets that made autumn festival banners in the lower quad shimmer seven days out, if rotation held. Old stone framed the doorways. Brass plaques beside each map named expansion phases in script too formal for modern interfaces and too plain to be decorative.
+A practical space— worn deck plates, projection tables scarred by decades of stylus work, corridor maps layered on the walls like sediment. Rain moved across the high windows in sheets that made harvest festival banners in the lower quad shimmer seven days out, if rotation held. Old stone framed the doorways. Brass plaques beside each map named expansion phases in script too formal for modern interfaces and too plain to be decorative.
 
 Vex had returned to teaching quietly while the cloak program rebuilt on benches that did not forgive optimism.
 
@@ -183,7 +183,7 @@ She left before he could answer.
 
 Daria Kovat should have gone home.
 
-District festival rehearsal had made Nika loud and happy and intolerant of excuses, and Kovat had missed dinner twice in four days because seven-alpha would not dissolve on second pass no matter how many reconciliations she ran.
+District festival rehearsal had made Nika loud and happy and intolerant of excuses, and Kovat had missed dinner twice in four days because K-17 would not dissolve on second pass no matter how many reconciliations she ran.
 
 Instead she walked with her daughter through evening rain toward the small memorial on Transit Spine Four— not famous, not political, local.
 
@@ -217,7 +217,7 @@ Kovat looked at the rows.
 
 Pause.
 
-Rain on stone. A child's laugh from the plaza. Autumn festival banners visible at the avenue bend— gold thread, anticipatory, ordinary.
+Rain on stone. A child's laugh from the plaza. Harvest festival banners visible at the avenue bend— gold thread, anticipatory, ordinary.
 
 "But they made tomorrow possible," Kovat said.
 
@@ -255,7 +255,7 @@ She typed *acknowledged* and put the slate away.
 
 At home, Nika rehearsed the chorus line while Kovat warmed the saved portion. *Perseverance is not a volume knob*— Teacher Marin's voice in an eleven-year-old's mouth.
 
-Somewhere on seven-alpha, a faint return held position like a stone in a stream.
+Somewhere at K-17, a faint return held position like a stone in a stream.
 
 Kovat would be back at K-17 before dawn.
 
@@ -421,7 +421,7 @@ Civilizations survived because knowledge was inherited.
 
 Not invented every generation.
 
-Outside the bay, mag crawlers hummed. Somewhere in District Fourteen, Mara would be saving dinner again. Somewhere on seven-alpha, a warrant officer marked a return that held past reconciliation threshold.
+Outside the bay, mag crawlers hummed. Somewhere in District Fourteen, Mara would be saving dinner again. Somewhere at K-17, a warrant officer marked a return that held past reconciliation threshold.
 
 Sorokin put his hardhat on and returned to Slip Three. Production adjustments did not wait for pride to finish feeling good.
 
@@ -458,7 +458,7 @@ Calder said, "History inside them, or history about them?"
 
 Pause.
 
-Ortega's loop murmured— a child's chorus practice bleeding through civilian traffic harmonics, off-key and earnest, autumn festival seven days out if rotation held.
+Ortega's loop murmured— a child's chorus practice bleeding through civilian traffic harmonics, off-key and earnest, local holiday seven days out if rotation held.
 
 Thessaly: "They live inside it. Record supports."
 

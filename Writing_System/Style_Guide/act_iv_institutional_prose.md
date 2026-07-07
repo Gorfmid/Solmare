@@ -50,6 +50,9 @@ Meaning comes from what gets **filed, routed, refused, or read** — not from na
 | Legacy merge language | combine lane, combined bundle, upstream combine | segregated, department review independent, executive synthesis pending |
 | Philosophy in system voice | "void did not change when you looked" | repeated-pass logs, sweep files, routing entries |
 | Analogies unrelated to systems | traffic lane metaphors for career moves | capital routing active; fringe relay under sweep |
+| Beverage temperature as time marker | coffee cooled / gone cold / before the tea went cold | before Ahn opened the slide; all three stamps were down; while the branches were stamped |
+
+**Civilizational beverages:** Dominion → **tea**. Fleet → **coffee**. Do not bleed across POV. Full canon: `Universe/cultural_touchstones.md` → § Cultural beverage distinction.
 
 ---
 
@@ -78,6 +81,8 @@ Before keeping a sentence in Act IV institutional prose, ask:
 4. Would removing it lose **plot, custody logic, or character judgment**?
 
 If no to 4 and the sentence sounds wise, clever, or technical for its own sake — cut or simplify.
+
+5. Is time passing marked by **drink temperature**? Replace with institutional beats: slides opened, stamps applied, printouts stacked, shift change, queue depth. (Tea in Dominion scenes and coffee in Fleet scenes remain valid cultural texture — see `cultural_touchstones.md` → § Cultural beverage distinction.)
 
 ---
 

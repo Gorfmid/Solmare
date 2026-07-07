@@ -50,7 +50,7 @@ Over time, readers should immediately feel they have entered **Dominion space**.
 | **Gloves removed** before important work | Serious talk, packets, numbers, decisions — courtesy to the task |
 | **Tea** | Planning rooms, directorates, commons — too strong is correct |
 | **Old stone and old metal** | Basalt-and-steel complexes, border installations, yards — new composite over limestone, weld scars under paint |
-| **Gold thread** | Founders' Week banners — anticipatory, not yet garish; holiday texture |
+| **Gold thread** | Harvest festival banners — anticipatory, not yet garish; holiday texture |
 | **Corridor maps** | Planning tables, wall displays, traffic geometry — civilization as scheduling |
 | **Plaques** | Border stations, anterooms, campaign names in old script — history on walls |
 | **Rain** | Rain screens, transit walks, cold corridor air — weather as engineered atmosphere |
@@ -68,7 +68,7 @@ Not every scene needs every motif. **Two well-chosen details** often do more tha
 
 Fleet Authority scenes tend toward: industrial aurora (**Second Sunrise**), **copper and blue** bunting, glass terraces, foundry light, newer installs, expansion optimism in architecture.
 
-Dominion scenes tend toward: **depth, patina, inheritance, geometry on walls**, celebration through **gold thread** and sacrifice-narrative ritual (Founders' Week parallel).
+Dominion scenes tend toward: **depth, patina, inheritance, geometry on walls**, celebration through **gold thread** and sacrifice-narrative ritual (**harvest festival** — not Founders' Week).
 
 Show contrast; never explain it.
 
@@ -82,7 +82,7 @@ Existing prose already establishes:
 
 - Stratimirov: basalt-and-steel chamber, campaign plaques, gloves, tea, apples, daughter's photograph
 - Volkova: corridor table, limestone under composite, plaques, tea, window-wall traffic geometry
-- Kovat: K-17 plaque, worn armrest, commons coffee pot, Founders' Week gold thread, plant on console
+- Kovat: K-17 plaque, worn armrest, commons **tea** pot, harvest festival gold thread, plant on console
 - Sorokin: old weld scars under paint, gantry rail, family photographs on safety boards, yard scale
 
 **Continue and deepen** — do not reset motifs each chapter.

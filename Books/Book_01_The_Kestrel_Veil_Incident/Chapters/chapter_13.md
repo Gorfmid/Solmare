@@ -23,7 +23,7 @@ He transferred the scatter plot.
 
 Stratimirov studied it without speaking.
 
-Individually, each marker remained nothing—timing offsets inside tolerance on Kessik relay four, passive returns that dissolved on second pass near nine-beta junction, mass inference one percent low on a border tug until reboot, variance flags Regional Transportation Directorate filed without panic on seven-alpha, authentication density increase on a lane controller who had worked the same shift for eleven years, fuel spine duty cycle skew on a depot nobody had thought to watch because depots were supposed to be boring, reserve manifest routing that looked like routine until you stacked enough weeks, faint return persistence on listen watch that Major Kovat had marked low confidence and refused to retract, maintenance window shifts that aligned with whisper-class harmonics no active systems had confirmed, distant relay burst timing that did not match debris decay models, and twelve more markers Petrov had numbered without naming because naming created appetite for action before comparison finished.
+Individually, each marker remained nothing—timing offsets inside tolerance on Kessik relay four, passive returns that dissolved on second pass near Helikon feeder junction, mass inference one percent low on a border tug until reboot, variance flags Regional Transportation Directorate filed without panic on K-17, authentication density increase on a lane controller who had worked the same shift for eleven years, fuel spine duty cycle skew on a depot nobody had thought to watch because depots were supposed to be boring, reserve manifest routing that looked like routine until you stacked enough weeks, faint return persistence on listen watch that Major Kovat had marked low confidence and refused to retract, maintenance window shifts that aligned with whisper-class harmonics no active systems had confirmed, distant relay burst timing that did not match debris decay models, and twelve more markers Petrov had numbered without naming because naming created appetite for action before comparison finished.
 
 Together, the markers suggested a shape.
 
@@ -129,7 +129,7 @@ Stratimirov looked at Vex again. "You obeyed doctrine."
 
 "I did."
 
-"Then doctrine learns next." Stratimirov turned to Petrov. "Passive preferred. No corridor illumination. No task force. Compare Transportation variance. Compare border archives. Compare maintenance logs on seven-alpha. If something is learning our lanes, assume it is learning our patience too."
+"Then doctrine learns next." Stratimirov turned to Petrov. "Passive preferred. No corridor illumination. No task force. Compare Transportation variance. Compare border archives. Compare maintenance logs on K-17. If something is learning our lanes, assume it is learning our patience too."
 
 "Yes, sir."
 
@@ -253,7 +253,7 @@ Mara laughed softly. "She says that whenever you work late."
 
 "She's not wrong."
 
-Darya returned to her slate— border station names, corridor phases, a question about why the autumn festival mattered to logistics. Grandmother answered with a story about stall permits and gold thread and a commander who had once delayed a parade because a fuel spine needed inspection.
+Darya returned to her slate— border station names, corridor phases, a question about why the harvest festival mattered to logistics. Grandmother answered with a story about stall permits and gold thread and a commander who had once delayed a parade because a fuel spine needed inspection.
 
 Sorokin listened the way men listened at home when work lived in their shoulders but not on their tongues.
 
@@ -371,7 +371,7 @@ The archives lived below the planning floors where sunlight was a rumor and dust
 
 Stone steps wore a groove in the center from decades of planners who had come down to learn what their predecessors had already decided. Handrails were cold. Brass plaques beside each landing named expansion phases in script too formal for modern interfaces and too plain to be decorative.
 
-Irina Volkova opened the ledger interface. Corridor expansion projects stretched across the display— digital layers over handwritten originals, ink faded, annotations in margins from planners dead before Volkova's academy cohort was born. Some margins argued about penalty documentation. Some argued about tea quality in the survey camps. All of them assumed the corridor would still matter when the argument was forgotten: seven-alpha, nine-beta, Kessik feeder spines, outer ring yard berths through three expansions, fuel depot deepening through four phases, relay refurb cycles stacked like sediment, reserve routing schema updates that changed language but not intent. Not one surge. A staircase.
+Irina Volkova opened the ledger interface. Corridor expansion projects stretched across the display— digital layers over handwritten originals, ink faded, annotations in margins from planners dead before Volkova's academy cohort was born. Some margins argued about penalty documentation. Some argued about tea quality in the survey camps. All of them assumed the corridor would still matter when the argument was forgotten: K-17 spine, Helikon feeder, Kessik feeder spines, outer ring yard berths through three expansions, fuel depot deepening through four phases, relay refurb cycles stacked like sediment, reserve routing schema updates that changed language but not intent. Not one surge. A staircase.
 
 Archivist Sten, seventy if he was a day, wheeled a tea cart with the ritual boredom of a man who had served historians and planners for forty years and trusted dust more than speeches.
 
@@ -383,7 +383,7 @@ Archivist Sten, seventy if he was a day, wheeled a tea cart with the ritual bore
 
 "Seven-alpha."
 
-Sten sipped. "Always seven-alpha. Everyone thinks borders are new. Borders are just where the math gets nervous."
+Sten sipped. "Always K-17. Everyone thinks borders are new. Borders are just where the math gets nervous."
 
 He scrolled without being asked— not classified, not dramatic, institutional memory on cold shelves.
 

@@ -1,84 +1,78 @@
-# Chapter 24 State Log — Edition 144
+# Chapter 24 State Log — The First Answer
 
-**Status:** LOCKED  
-**Words:** ~3,490 (approx.)  
-**Act:** IV — First Doctrine (Resolution)  
-**Book One:** COMPLETE
-
----
-
-## Publication (Mercer)
-
-- Edition 144 system distribution at 0600 Helion Prime — training cores, liaison, field libraries
-- Fork annex A/B/C preserved in architecture; collapse footer intact
-- No ceremony, press flag, or parade
-- Mercer: completion, not victory
-- Training desk guidance: Fleet is witness record; branches are obligation grammar; tags are not opinions
+**Status:** PLANNED — manuscript pending rewrite  
+**Act:** IV — First Doctrine (Book One close)  
+**Planning:** `Act_Outlines/act4_chapters_21-24_generation.md`
 
 ---
 
-## Field adaptation (Sorin / *Morning Watch*)
+## Chapter purpose
 
-- Ambiguous structured occupancy marker — density uptick, intent unresolved
-- Context tag: `exploration-patrol-restraint` / Branch A
-- Passive dwell extended; no illumination; no central clarification
-- Conditional clarity operational — dropdown posture selection normalized
-- Key line: *No central clarification required. That's what conditional clarity means.*
+End Book One with action; create Book Two momentum.
 
----
+**Core question:** What happens when the unknown responds?
 
-## Cartography (Okoye)
-
-- Tri-layer UI standard — civilian rhythm / neutral corridor / strategic potential
-- Layer toggle routine; zero collapse requests
-- *Parallel readings* operational term, not controversy
-- Sorin acknowledges compressed tri-layer export without clarification request
+**Opens with:** Edition 144 implementation complete · Contact Doctrine active · institutions functioning
 
 ---
 
-## Communications (Holt / Nand)
+## Planned scenes
 
-- Interpretive metadata column integrated — checksum isolated
-- Tagging lag ~11ms accepted as structural tolerance
-- Duplicate packets with different tags — chain green, design not bug
-- Vance/Logistics clerk educated on metadata vs fact
+### 1 — Fleet Doctrine Publication
 
----
+- Unified Edition 144 distributed (manuals, training, patrol guidance)
+- **No** fork annex A/B/C
+- Professional completion — not ceremony
 
-## Rowan observation
+### 2 — Operational Consequence
 
-- Morning digest: propagation nominal across departments
-- Realization: Fleet is becoming doctrine — honest plumbing, not singularity
-- Internal transformation procedural; external border unchanged
-- *Confused and attentive is Fleet adolescence.*
+- Officers decide under uncertainty
+- Doctrine prevents escalation
 
----
+### 3 — Public Transition
 
-## Calder / Book One close
+- Controlled disclosure preparation becomes execution path
+- Message shape: *We found someone. We are approaching carefully.*
+- Founders' Week / academy correction aligned with Ellis curator route
 
-- *Kestrel Veil* on limited passive patrol — approach lane segment seven notation
-- Tri-layer on bridge rail; Branch A restraint tag
-- No Dominion awareness of Fleet changes; occupied silence continues
-- Closing thought: *The frontier did not open. We learned how to stand before it differently.*
+### 4 — Final Calder Scene — The Frontier Changes
 
----
-
-## Boundaries preserved
-
-- No Dominion POV
-- No war escalation or new intelligence
-- No branch collapse or doctrine reframe
-- Dominion name still unknown to Fleet
-- No Book Two trajectory revealed
+- *Kestrel Veil* detects something new on patrol
+- Response / signal / deliberate action — **not attack**, not fully understood
+- Calder: **observe first**
+- Book One close: Fleet decided; other civilization now acts
 
 ---
 
-## State changes (Book One terminal)
+## Book One terminal state
 
-- Edition 144 fully deployed across Fleet systems
-- Branches A/B/C operationalized in field behavior
-- Cartography tri-layer standard interface
-- Communications tagging default protocol
-- Exploration conditional doctrine field behavior normalized
-- Fleet enters stable post-revelation operational state
-- **Book One narrative arc complete**
+| Element | State |
+|---------|--------|
+| Contact Doctrine | Active — unified |
+| Hostile classification | Not assigned |
+| Dominion name (Fleet) | Unknown |
+| Public | Disclosure begun / imminent |
+| *Kestrel* | Witness ship on patrol; new detection |
+| Book Two hook | Unknown civilization responds |
+
+---
+
+## Retired manuscript elements (remove on rewrite)
+
+- Fork annex publication manifest
+- Branch A restraint tag as parallel doctrine selector
+- Tri-layer UI as three-default interface
+- *Parallel readings* as normalized controversy
+- Closing: *frontier did not open* without unknown response beat
+
+---
+
+## Epilogue alignment
+
+- `epilogue.md` — Edition 144 primer for cadets; verify against unified doctrine (not conditional fork framing) after Ch. 24 rewrite
+
+---
+
+## Book One
+
+**Narrative arc:** Complete after Ch. 24 rewrite per Contact Doctrine architecture.

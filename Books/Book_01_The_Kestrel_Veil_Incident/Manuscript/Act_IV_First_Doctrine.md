@@ -762,7 +762,7 @@ Rowan continued, because one sentence was principle, not procedure.
 
 He gestured to the archive cart. Bound volumes. Appendix bands color-coded the way Thessaly insisted—observed, inferred, speculation flagged in margins.
 
-"Judge Advocate Okonkwo observes procedure. Doctrine Lieutenant Ahn observes notation impact only—no ROE debate in this chamber. Captain Thessaly attends as report architect. Witnesses testify in expertise lanes. Cross-discipline questions are permitted. Cross-discipline answers are not."
+"Judge Advocate Okonkwo observes procedure. Doctrine Lieutenant Ahn observes notation impact only—no ROE debate in this chamber. Executive Officer Thessaly attends as report architect. Witnesses testify in expertise lanes. Cross-discipline questions are permitted. Cross-discipline answers are not."
 
 Okonkwo said, "Witness oath follows Fleet Form Seven. Short form."
 

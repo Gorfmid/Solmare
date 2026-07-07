@@ -1,74 +1,86 @@
-# Chapter 21 State Log — The Weight of Evidence
+# Chapter 21 State Log — The First Doctrine
 
-**Status:** LOCKED  
-**Words:** ~3,028 (approx.)  
-**Act:** IV — First Doctrine
-
----
-
-## Doctrine Fork (formalized)
-
-| Branch | Frame |
-|--------|--------|
-| **A** | Strategic peer — non-hostile assumption |
-| **B** | Unknown capability threshold — neutral readiness |
-| **C** | Potential strategic counter-peer — defensive planning |
-
-All stamped: *insufficient evidence to collapse divergence*
+**Status:** REWRITE (LOCKED)  
+**Words:** 3,912  
+**Act:** IV — First Doctrine  
+**Planning:** `Act_Outlines/act4_chapters_21-24_generation.md`
 
 ---
 
-## Language
+## Contact Doctrine (unified)
 
-- Interim term: **Non-peer structured civilization** (internal routing)
-- *Dominion* name not invented
-- *Limitations of Fleet Terminology* subsection added to draft skeleton
-- Thessaly: *We are not translating the Dominion. We are translating ourselves.*
+**Fleet decision:**
 
----
+> Approach as if contact is possible.  
+> Prepare as if capability matters.  
+> Do not assign intent without evidence.
 
-## Cartography
+**Behavioral synthesis (from Calder record):**
 
-- Infrastructure read dispute: civilian expansion vs dual-use strategic masking
-- Pell: *We are not drawing space anymore. We are drawing assumptions.*
-- Dual notation layers (operational + historical)
+> They demonstrated capability. They also demonstrated restraint.
 
----
+**Classification:** Structured civilization beyond Fleet survey assumptions — **no hostile classification**
 
-## Operations Posture (no unified default)
-
-| Posture | Summary |
-|---------|---------|
-| **A** | Passive avoidance |
-| **B** | Controlled contact readiness |
-| **C** | Defensive readiness without escalation |
-
-Rowan: `POSTURE DIVERGENCE LOGGED — NO UNIFIED DEFAULT`
+**Edition 144:** First operational doctrine (not fork annex). Four sections: contact posture, readiness posture, escalation criteria, documentation requirements.
 
 ---
 
-## Historical (Ellis)
+## Scenes delivered (planning)
 
-- Pattern library vs counter-examples; no analogue collapse
-- Maris Chen queue referenced (not fully connected)
-- *We are not the first to reach this misunderstanding. We are just the first to document it this precisely.*
+| Scene | Outcome |
+|-------|---------|
+| Witness record (Ahn reads bands) | Capability + restraint established as behavioral floor |
+| Doctrine Bureau working group | One framework; departments contribute implementation |
+| Readiness assessment (Logistics/Intelligence) | Gaps logged; preparation not mobilization |
+| Historical (Ellis) | Public disclosure deferred; controlled correction path |
+| Rowan decision | Unified posture signed; department routing strips issued |
+| Rowan / Calder (berth fourteen-C) | *Veil* named reference hull for future contact window—not hero selection; contact preparation file routed |
+| Calder / Lisette (abbreviated) | Family grounding before extended yard prep; morale logistics (pastries) |
+| Contact preparation refit | Hull identity preserved; signature reduction (experimental, not cloak); comms improved not solved; Holt liaison |
+
+---
+
+## Kestrel Veil — post-Ch. 21 refit (canonical)
+
+| Field | State |
+|-------|-------|
+| **Role** | Fleet reference hull / strongest candidate if contact window opens |
+| **Hull** | Same aging scout—repaired where practical, quirks documented, not replaced |
+| **Signature reduction** | Experimental package—lower emissions, thermal bleed, quieter harmonics; intermittent; degrades under maneuver; **not** cloak |
+| **Comms** | Tertiary drift improved on paper; relay handoffs still require Holt chain, confirm tokens, delays |
+| **Crew posture** | Return without assuming answer; know more than Fleet, know how little that is |
+
+---
+
+## Department routing (post-signature)
+
+| Department | Task |
+|------------|------|
+| **Exploration (Hwang)** | Patrol addendum — hold emissions, passive dwell, no initiation under uncertainty |
+| **Intelligence (Sato)** | Capability modeling reprioritization; passive collection expansion |
+| **Cartography (Okoye)** | Observation/inference layer split; epoch revision |
+| **Communications (Holt)** | Metadata schema revision; fringe relay parse test |
+| **Doctrine (Mercer)** | Procedure formalization; training scenario refresh |
 
 ---
 
 ## Rowan
 
-- Manages disagreement; does not resolve
-- Operations log: *We do not lack information. We lack agreement on what information means.*
-- Fork registry formalized; collapse not authorized
+- Signs unified doctrine — does not preserve competing interpretations
+- Operations log: *Witness certified. First doctrine adopted. Unified posture effective internal routing.*
+- Line: *We do not know what they want. We know what we will do.*
 
 ---
 
-## Boundaries preserved
+## Retired (do not carry forward)
 
-- No Dominion POV; no mobilization; no hostile classification; no Edition 144 final; no Rowan final strategy
+- Branch A / B / C
+- Fork registry / collapse footer
+- POSTURE DIVERGENCE LOGGED
+- Parallel official postures
 
 ---
 
 ## Next (Ch. 22)
 
-- Recognition — Fleet acknowledges structured opposing force at strategic level
+- The Doctrine in Practice — institutional behavior change under unified framework
