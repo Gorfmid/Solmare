@@ -88,13 +88,13 @@ The wardroom was warm. The coffee was bitter. The question on the table was not 
 
 It was time.
 
-Calder Venn sat at the head because captains sat at heads when decisions approached, not because heads made decisions alone. Mira Thessaly had the overlay— traffic density, authentication slopes, yard throughput bands, memorial stone translated into observation language because stone did not lie but Fleet grammar did. Felix Ortega had listen watch summaries; Ari Halden had infrastructure ages and the particular exhaustion of an engineer who had stopped being surprised and had not started being comfortable. Damon Reyes had course projections— correction-thruster corridors home, not as escape fantasy, as mathematics. Tomás Brenner had said almost nothing for forty minutes. Jun Park had correlation strips he did not yet lay down— the way Park withheld paper until the room was ready.
+Calder Venn sat at the head because captains sat at heads when decisions approached, not because heads made decisions alone. Mira Thessaly had the overlay— traffic density, authentication slopes, yard throughput bands, memorial stone translated into observation language while Fleet's old categories still lagged behind the returns. Felix Ortega had listen watch summaries; Ari Halden had infrastructure ages and the particular exhaustion of an engineer who had stopped being surprised and had not started being comfortable. Damon Reyes had course projections— correction-thruster corridors home, not as escape fantasy, as mathematics. Tomás Brenner had said almost nothing for forty minutes. Jun Park had correlation strips he did not yet lay down— the way Park withheld paper until the room was ready.
 
 Thessaly spoke first because that was her job when the room needed structure. "Passive posture holds. Reing 3 handshake nominal. Emitter discipline intact. Dominion traffic: no search-pattern spike. Remaining days: several, if authorized."
 
 She tapped a band. "Departure now: picture Fleet has never had. Remaining: refinement."
 
-Ortega: "Authentication density up. Procedure tight. Controllers sound like Tuesday matters— not panic, not hunt. Inconsistency: discipline increased without search sweeps. Cuts both ways."
+Ortega said, "Authentication density up. Procedure tight. Controllers sound like routine matters— not panic, not hunt. Inconsistency: discipline increased without search sweeps. Cuts both ways."
 
 Halden: "Every day widens our exposure window. Relay refurb bands still undated. Yard throughput still resolving. We're building a picture—and standing in someone's traffic lane while we do it." She looked at Calder. "I don't say that lightly."
 
@@ -268,7 +268,7 @@ She slid the first stack forward. "Attempted header: *unknown contact*. Inadequa
 
 Second stack. "*Frontier anomaly cluster*. Inadequate. Frontier predates our epoch notation."
 
-Third. "*Structured opposition presence*. Inadequate. Observed behavior: maintenance of Tuesday, not opposition."
+Third. "*Structured opposition presence*. Inadequate. Observed behavior: maintenance of routine traffic, not opposition."
 
 Calder poured coffee. "Enemy."
 
@@ -284,7 +284,7 @@ Thessaly's mouth tightened. "Drafted once. Deleted. Yards do not read as enemy i
 
 "Hostile."
 
-"Hostile requires observable intent." Thessaly set the pencil down. "Procedure tightening. Throughput continuous. Children in traffic harmonics. Classification: Tuesday with discipline, not hostility."
+"Hostile requires observable intent." Thessaly set the pencil down. "Procedure tightening. Throughput continuous. Children in traffic harmonics. Classification: routine traffic with discipline, not hostility."
 
 Silence.
 
@@ -514,7 +514,7 @@ Silence.
 
 The scrubbers cycled.
 
-Ortega's loop murmured— ordinary traffic, ordinary discipline, ordinary Tuesday in someone else's inheritance.
+Ortega's loop murmured— ordinary traffic, ordinary discipline, ordinary routine in someone else's inheritance.
 
 Thessaly nodded.
 

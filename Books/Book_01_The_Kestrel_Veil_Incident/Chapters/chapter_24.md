@@ -59,7 +59,7 @@ A junior Doctrine clerk—Reeves, fifteen years of boxes, younger in the face th
 
 Mercer looked at the propagation map. Green nodes. No collapse.
 
-"Tell them Fleet is the witness record," he said. "Tell them branches are obligation grammar until evidence or Operations mandate says otherwise. Tell them tags are not opinions. Tell them if they want one certainty, they joined the wrong institution."
+"Tell them Fleet is the witness record," he said. "Tell them branches are classification forks until evidence or Operations mandate says otherwise. Tell them tags are not opinions. Tell them if they want one certainty, they joined the wrong institution."
 
 Reeves nodded and went to write the training desk note.
 
@@ -98,7 +98,7 @@ Interesting got you illuminated.
 
 Interesting got you incident summaries with capital letters.
 
-The *Morning Watch* held patrol spacing on the seven-alpha adjacent band with the disciplined boredom Exploration prized and recruitment brochures lied about. Passive systems dwell extended. Emission hold nominal. Founders' Week advisories finally purged from the back display—Hwang had left them up long enough to prove corps culture leaked; Sorin had deleted them because clutter killed checklist discipline.
+The *Morning Watch* held patrol spacing on the seven-alpha adjacent band with the disciplined boredom Exploration prized and recruitment brochures overstated. Passive systems dwell extended. Emission hold nominal. Founders' Week advisories finally purged from the back display—Hwang had left them up long enough to prove corps culture leaked; Sorin had deleted them because clutter killed checklist discipline.
 
 The return appeared on sweep eleven—not dramatic, not clean: structured occupancy marker at the epoch edge with commuter traffic inference stable, authentication density increase flagged *observed, intent unresolved*, no active emissions from the border volume.
 
@@ -116,11 +116,11 @@ Maret flushed—not shame, correction. She toggled back. "Saw capability-first i
 
 He watched the posture block populate: passive window extension authorized, illumination hold, no initiation under uncertainty threshold, log density changes, handshake deferred. Branch B would shorten the window and elevate reporting; Branch C would add readiness flags Logistics might read as procurement appetite. They were Exploration patrol; Branch A was not friendship, default until intent evidence.
 
-He extended passive dwell forty minutes without brightening emissions, noted the density uptick in witness band formatting—observed increase, inferred procedure tightening, speculation absent—and routed the packet with exploration-patrol-restraint tag and Branch A footer, checksum married to Cartography tri-layer default with civilian rhythm primary on the patrol skid. At minute thirty-eight the marker stabilized: no active emissions toward Fleet relay, no pursuit signature, Tuesday behavior at the edge of Fleet notation if Tuesday could be industrial at scale.
+He extended passive dwell forty minutes without brightening emissions, noted the density uptick in witness band formatting—observed increase, inferred procedure tightening, speculation absent—and routed the packet with exploration-patrol-restraint tag and Branch A footer, checksum married to Cartography tri-layer default with civilian rhythm primary on the patrol skid. At minute thirty-eight the marker stabilized: no active emissions toward Fleet relay, no pursuit signature, routine traffic behavior at the edge of Fleet notation if routine traffic could be industrial at scale.
 
 Sorin closed the sweep.
 
-Hwang would see it in the ready room digest. Intelligence would curve it. Holt would time-stamp it. Mercer would stamp nothing because field officers had stopped asking Doctrine to lie for convenience.
+Hwang would see it in the ready room digest. Intelligence would curve it. Holt would time-stamp it. Mercer would stamp nothing because field officers had stopped asking Doctrine to simplify for convenience.
 
 Maret exhaled once. "So that's Edition 144."
 

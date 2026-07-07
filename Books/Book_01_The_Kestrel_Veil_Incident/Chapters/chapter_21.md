@@ -56,7 +56,7 @@ A Doctrine Bureau captain—Reeves, fifteen years of boxes—looked at the white
 
 Reeves: "Edition 144 becomes a menu."
 
-"Edition 144 becomes usable," Ahn said quietly. "Menus prevent lying."
+"Edition 144 becomes usable," Ahn said quietly. "Menus prevent false categories."
 
 Mercer routed all three branches to Rowan's stack with a cover line he hated and kept:
 
@@ -70,7 +70,7 @@ Reeves looked at Edition 143 on the shelf—spine uncracked on the working copy,
 
 "Cadets learned honesty late," Ahn said from the display. "We are correcting on schedule."
 
-Mercer read Branch A's civilian traffic weighting again—Ortega harmonics, school transport clustering, holiday overlays. Read Branch C's Incident baseline retention—capital-scale discharge, partial cloak failure, defensive withdrawal. Same witness record. Different obligation grammar.
+Mercer read Branch A's civilian traffic weighting again—Ortega harmonics, cluster spacing, density peaks over baseline routing. Read Branch C's Incident baseline retention—capital-scale discharge, partial cloak failure, defensive withdrawal. Same witness record. Different classification obligations.
 
 Coffee went cold while language was debated.
 
@@ -89,7 +89,7 @@ Updated overlays from segment seven showed corridor structures beyond prior surv
 
 Analysts still argued about ink.
 
-Pell, Founders' Week ring duller now, pointed at a freight spine annotation. "Civilian expansion on the spine. School transport clustering supports Ortega harmonics. Default read: ordinary Tuesday at scale."
+Pell, Founders' Week ring duller now, pointed at a freight spine annotation. "Civilian expansion on the spine. Cluster spacing supports Ortega harmonics. Default read: routine traffic at scale."
 
 Torres, survey veteran, shook her head. "Dual-use masking is ordinary at scale. Yard throughput plus border discipline plus Incident discharge baseline—default read: infrastructure that can become strategy without announcing itself."
 
@@ -148,7 +148,7 @@ She had refused to let the team start with policy until someone read Calder's ob
 
 The room paused.
 
-She did not offer it as victory. She offered it as temporary compromise—a bandage on grammar until forks earned collapse or permanence.
+She did not offer it as victory. She offered it as temporary compromise—a bandage on classification until forks earned collapse or permanence.
 
 "Temporary compromise term," Ahn wrote on the board. "Not Edition 144 header. Internal routing only."
 
@@ -236,7 +236,7 @@ He had learned long ago that chairs at the head invited false consensus.
 
 Rowan listened.
 
-Calder's *I don't know* lived in the room as professional grammar now.
+Calder's *I don't know* lived in the room as professional discipline now.
 
 "Recommendations?" Rowan asked.
 
@@ -252,7 +252,7 @@ Rowan nodded once. "Then Logistics models. Doctrine forks. Operations does not a
 
 Sato: "Scouts in border volume need a default."
 
-"Scouts have orders and witness grammar," Rowan said. "Border doctrine won't outrun that."
+"Scouts have orders and witness discipline," Rowan said. "Border doctrine won't outrun that."
 
 Sato opened her mouth. Closed it. Professional disagreement without chaos.
 

@@ -1,6 +1,6 @@
 ﻿---
 title: "The Kestrel Veil Incident"
-subtitle: "Book One of The Solmare Cycle â€” Act I â€” Routine Patrol"
+subtitle: "Book One of The Solmare Cycle — Act I â€” Routine Patrol"
 author: "K.W. Abbott"
 lang: en-US
 rights: "Copyright (c) K.W. Abbott. All rights reserved."

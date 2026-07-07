@@ -172,11 +172,11 @@ Historical maps—the ones Founders' Week tours used, the ones academy primers c
 
 She laid epoch 143 frontier shading beside Okoye's redline overlay and segment seven comparison packet. Seven-alpha had been *provisional, low occupancy confidence* on every public historical slide since Ellis was a student.
 
-It was not a lie on the page.
+The page had not falsified anything.
 
 It was a belief Fleet had hung on a wall.
 
-Ellis opened the historical edition file—not delete, archive. Historical Office preserved mistakes because erasure was how institutions pretended they had always been wise.
+Ellis opened the historical edition file—not delete, archive. Historical Office preserved mistakes because erasure let institutions pretend they had always been wise.
 
 She copied the old assumption into the archive band with date stamp and witness citation:
 
@@ -225,7 +225,7 @@ Edition 144 began as one sentence on a working draft—not a manual, not a victo
 
 Ahn stared at it. "That's the whole edition?"
 
-"No," Mercer said. "That's the first sentence that stops us lying quickly."
+"No," Mercer said. "That's the first sentence that stops us classifying too quickly."
 
 He read the sentence again because hearing words mattered. Edition 143 had taught a generation that empty shading was truth. Segment seven had taught a crew that empty shading was habit.
 

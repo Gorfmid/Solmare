@@ -83,7 +83,7 @@ Someone in the back row asked, "Default for what environment, sir?"
 
 Good question. Ren wished she had asked it.
 
-Hale did not sigh. "Conditional doctrine. Edition 144 keeps parallel obligation grammar—mission environment tags, branches forked until evidence or Operations orders collapse. You won't get one box that pretends the frontier is simple. You'll get labels. Use them honestly."
+Hale did not sigh. "Conditional doctrine. Edition 144 keeps parallel classification branches—mission environment tags, branches forked until evidence or Operations orders collapse. You won't get one box that pretends the frontier is simple. You'll get labels. Use them honestly."
 
 Ren wrote: *tags not one box*.
 
@@ -117,7 +117,7 @@ She had no idea why these principles had arrived in her generation's primer with
 
 That was the point.
 
-History that hurt adults enough to change manuals arrived for children as Tuesday.
+History that hurt adults enough to change manuals arrived for children as routine.
 
 ---
 

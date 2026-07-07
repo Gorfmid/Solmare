@@ -147,7 +147,7 @@ Holt closed the Incident window.
 
 Soraya Ellis had applied to Historical Office after Founders' Week exhibit work. The charter displays covered Fleet origins in primary-source format.
 
-She had not expected her Tuesday to begin with a routing slate that said `SEGMENT SEVEN — PRIORITY INGEST — DEPARTMENT REVIEW INDEPENDENT — HOLD EXECUTIVE SUMMARY RELEASE`.
+She had not expected the morning to begin with a routing slate that said `SEGMENT SEVEN — PRIORITY INGEST — DEPARTMENT REVIEW INDEPENDENT — HOLD EXECUTIVE SUMMARY RELEASE`.
 
 The sorting room was not grand. It was practical: long tables, label printers, mission-patch drawers sorted by era, glass cases visible through the open arch where a curator was adjusting Relay Charter placards for a school tour that afternoon. Busy corridors beyond. Paper briefing folders in stacks by mission epoch.
 
@@ -231,7 +231,7 @@ The room continued around him.  Operations floor worked: blue displays, coffee c
 
 Rowan read.
 
-He read the Incident baseline, capital-scale discharge, cloak partial failure under passive lock, patched withdrawal. He already knew that paragraph. Destruction assessment had closed one outcome short of loss-of-ship. Then segment seven: passive posture maintained, no upstream emissions, no handshake, no illumination hunt observed, first contact has not occurred. Technical position, Thessaly's grammar.
+He read the Incident baseline, capital-scale discharge, cloak partial failure under passive lock, patched withdrawal. He already knew that paragraph. Destruction assessment had closed one outcome short of loss-of-ship. Then segment seven: passive posture maintained, no upstream emissions, no handshake, no illumination hunt observed, first contact has not occurred. Technical position, Thessaly's band notation.
 
 Rowan paused on the executive summary header.
 
@@ -241,7 +241,7 @@ Civilian-pattern traffic: recurring transport clusters, scheduled movement windo
 
 Below it, Ellis's routed packet — three department labels on the same corridor notation, no reclassification stamp. Operations header still classified the corridor degraded auxiliary space.
 
-Observed infrastructure age exceeded current Fleet survey estimates. Border-adjacent discipline increasing. Authentication density tightening without search sweeps. Long-horizon preparation evidence in throughput annex. Reserve manifest routing on long baselines. Fuel spine duty cycles indicating deep capacity, not emergency drawdown. Listen watch harmonics Ortega had logged as civilian traffic in observation bands. Calder's witness filing. Thessaly's appendices. Park's chain. Holt's bearing record.
+Observed infrastructure age exceeded current Fleet survey estimates. Border-adjacent discipline increasing. Authentication density tightening without search sweeps. Long-horizon preparation evidence in throughput annex. Reserve manifest routing on long baselines. Fuel spine duty cycles indicating deep capacity, not emergency drawdown. Traffic acoustics Ortega had logged in observation bands—not individual operator patterns. Calder's witness filing. Thessaly's appendices. Park's chain. Holt's bearing record.
 
 Rowan did not pace. He read the executive summary to the end: observation-first, restraint documented, departure clean by Fleet metrics. The recommendation assigned no hostile designation while retaining the need for Fleet review.
 

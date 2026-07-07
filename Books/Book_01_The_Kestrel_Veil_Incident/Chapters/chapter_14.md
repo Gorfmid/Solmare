@@ -91,7 +91,7 @@ Rain softened against the high windows. Somewhere in the directorate, Petrov com
 
 Continuity was not abstraction.
 
-It was Tuesday.
+Routine held.
 
 Outside, rain and banners and cadets crossing the quad with manuals under their arms— ordinary inheritance passing from one set of hands to another while benches rebuilt fields that must maintain.
 
@@ -474,7 +474,7 @@ Thessaly stepped closer to the rail. Not to challenge. To stand where executives
 
 "If we report upstream," she said quietly, "Fleet will classify *contact*. Inheritance is not in the taxonomy."
 
-"Observations first," Calder said. "Build the picture until it survives Fleet grammar."
+"Observations first," Calder said. "Build the picture until it survives Fleet review."
 
 She nodded.
 

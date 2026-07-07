@@ -260,7 +260,7 @@ Once, Hale said, "Movement—" and the deck went still before she finished: "—
 
 The stillness itself was new. Before the Incident, a false call would have earned a muttered joke. Now it earned a breath and a return to work.
 
-The *Veil* moved forward into segment seven on correction thrust held at minimal fraction—Reing 5's low hum, scrubber cycle, the rattle of a panel Brenner had shimmed twelve years ago on a Tuesday he still remembered.
+The *Veil* moved forward into segment seven on correction thrust held at minimal fraction—Reing 5's low hum, scrubber cycle, the rattle of a panel Brenner had shimmed twelve years ago on a watch he still remembered.
 
 ---
 
@@ -288,7 +288,7 @@ That was mentorship: not comfort, direction.
 
 Brenner moved to the port tie-in and listened.
 
-Correction thrust at this fraction had a signature—Reing 5's low hum, scrubber cycle, the particular rattle of a panel he'd shimmed twelve years ago on a Tuesday he still remembered. He knew that signature the way Calder knew crew voices.
+Correction thrust at this fraction had a signature—Reing 5's low hum, scrubber cycle, the particular rattle of a panel he'd shimmed twelve years ago on a watch he still remembered. He knew that signature the way Calder knew crew voices.
 
 This had an undertone.
 

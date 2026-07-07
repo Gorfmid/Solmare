@@ -308,7 +308,7 @@ Another production adjustment in a civilization that had been adjusting producti
 
 Mira Thessaly had spread the war across the table—not weapons, evidence.
 
-Paper notes because paper did not lie about who had touched it. Coffee because coffee was how executives stayed human. Charts because charts were how professionals admitted they did not yet understand enough.
+Paper notes because paper recorded who had touched it. Coffee because executives drank it on long shifts. Charts because professionals admitted when they did not yet understand enough.
 
 Calder sat across from her with Damon Reyes at one elbow and Jun Park at the other, stitching correlations without being asked.
 

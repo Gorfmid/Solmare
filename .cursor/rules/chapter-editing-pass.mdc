@@ -1,0 +1,36 @@
+---
+description: Solmare chapter editing pass — apply when user says "apply editing pass to chapter X"
+globs: Books/**/Chapters/chapter_*.md
+alwaysApply: false
+---
+
+# Chapter Editing Pass
+
+When the user says **"apply editing pass to chapter X"** (or similar), load and follow:
+
+`Writing_System/Style_Guide/chapter_editing_pass.md`
+
+Also load for context:
+- `Writing_System/Style_Guide/act_iv_institutional_prose.md` (Ch 17–24)
+- `Universe/Fleet/fleet_dominion_frontier_history.md` (segment seven / Neutral Zone canon)
+- `PROJECT_INSTRUCTIONS.md`
+
+## Rules
+
+- **Not a rewrite.** No plot, pacing, scene order, reveal, or arc changes.
+- Polish prose only where objectively weaker than surrounding material.
+- Trust the reader. Observation → Comparison → Decision.
+- End scenes on work continuing, not thematic summary.
+- Check **plain language** (no unclear clever metaphors).
+- Check **deception/lying metaphor cluster** (reduce narrator repetition).
+- Check **concrete scene setup** (plain institutional work; scene logic holds).
+- Check **observation discipline** (traffic acoustics vs. individual operator patterns on listen watch testimony).
+- Check **segment seven terminology** (frontier volume/mission designation—not a ship, adversary, or actor).
+- Check **record medium** (certified custody chain vs. working hardcopy/ink—not ink as final authority).
+- Check **procedural vs. thematic lines** (state the work in plain terms when a theme phrase feels wrong—not a fixed replacement formula).
+- Check **global manuscript style tics** (Tuesday motif, grammar drift, lied metaphors, ink-as-final-record, "not yet earned," department-saw summaries, aphorisms).
+- After editing, provide the fourteen-point report from the template.
+
+## Locked chapters
+
+Respect which acts/chapters the user has declared locked. Edit only what the user requests.

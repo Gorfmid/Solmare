@@ -9,7 +9,7 @@
 
 Soraya Ellis had learned to distrust mornings that arrived too organized.
 
-The synthesis annex sat one corridor down from the comparison archive—quieter than Map Room Four, louder than the glass cases where Founders' Week placards still hung for school tours. Ellis preferred rooms where paper still made sound. Slates lied smoothly. Paper admitted weight.
+The synthesis annex sat one corridor down from the comparison archive—quieter than Map Room Four, louder than the glass cases where Founders' Week placards still hung for school tours. Ellis preferred rooms where paper still made sound. Slates updated smoothly. Paper admitted weight.
 
 Six packets waited on the long table when she arrived.
 
@@ -27,7 +27,7 @@ The recommendation was cartographic rigor dressed as policy: maintain three oper
 
 Intelligence came with Sato's discipline and Kemmer's curves. Capability-first models expanded. Hostile classification refused. Incident baseline bookended. The recommendation: weight readiness for border nodes without procurement unlock; treat restraint culture in witness bands as unresolved intent, not permission; stamp *capability assessment, intent unresolved* on every downstream packet. Sato did not ask Fleet to fear. She asked Fleet to stop pretending depth was a rumor.
 
-Exploration sent Hwang's patrol addendum and a liaison cover sheet short enough to fit on a mission patch. Illumination hold. Passive windows extended. No initiation under uncertainty threshold. The recommendation: behave as if Calder's grammar were operational default until intent evidence arrived—not friendship, not surrender, witness discipline copied into corps culture.
+Exploration sent Hwang's patrol addendum and a liaison cover sheet short enough to fit on a mission patch. Illumination hold. Passive windows extended. No initiation under uncertainty threshold. The recommendation: behave as if Calder's witness discipline were operational default until intent evidence arrived—not friendship, not surrender, witness discipline copied into corps culture.
 
 Communications brought Holt's routing integrity note and Nand's tagging lag measurements. Chain intact. Checksum unchanged. Metadata divergent. The recommendation: preserve interpretive labels in custody without letting labels alter validation; teach field officers to read metadata without confusing metadata with fact; accept queue cost as labeling overhead.
 
@@ -35,7 +35,7 @@ Communications brought Holt's routing integrity note and Nand's tagging lag meas
 
 `COLLAPSE NOT AUTHORIZED — CONTEXT TAGS REQUIRED — WITNESS BANDS UNCHANGED`
 
-Three branches still lived in the annex whiteboard photographs Mercer attached—A, B, C—each stamped *insufficient evidence to collapse divergence*. The recommendation: ship conditional doctrine; tag mission environment; refuse false singularity; let field officers have labels instead of lies.
+Three branches still lived in the annex whiteboard photographs Mercer attached—A, B, C—each stamped *insufficient evidence to collapse divergence*. The recommendation: ship conditional doctrine; tag mission environment; refuse false singularity; let field officers have labels instead of forced unity.
 
 Logistics arrived last, which was Logistics' way of saying it had read everyone else first. Vance's page was fuel spines and reserve manifests and the adult sentence Logistics used when Intelligence frightened Procurement:
 
@@ -51,7 +51,7 @@ None disputed Park's chain.
 
 None disputed Okoye's epoch revision.
 
-They disputed what obligation followed from grammar Fleet had finally stopped calling empty.
+They disputed what obligation followed from classification Fleet had finally stopped calling empty.
 
 Lieutenant Ahn appeared with coffee Ellis had not requested and a Doctrine Bureau expression that meant *someone upstairs is about to be asked to be an adult*.
 
@@ -116,7 +116,7 @@ Pause.
 
 Rowan waited. Calder had more in him when the room earned it.
 
-"No active emissions toward Fleet relay in segment seven," Calder said. "Tuesday by traffic flow, not faces. Volume behaved like somewhere people call home—inferred, flagged."
+"No active emissions toward Fleet relay in segment seven," Calder said. "Routine traffic acoustics by flow—not individual operator patterns. Volume behaved like somewhere people call home—inferred, flagged."
 
 Rowan nodded once. Not agreement with policy. Receipt of witness.
 
@@ -140,7 +140,7 @@ At the door Calder stopped—not dramatic, procedural. "Edition 144 will say *ne
 
 "Neighbor worked in segment seven," Calder said. "We noticed. We did not contact."
 
-Rowan let him leave without escort. Witnesses did not need escorts once institutions accepted their grammar.
+Rowan let him leave without escort. Witnesses did not need escorts once institutions accepted the record.
 
 Calder walked the administrative corridor with Thessaly's observation ledger cover sheet folded in his inner pocket—not classified, not souvenir, receipt. Glass walls showed Helion traffic. Junior officers passed with memo stacks and mission patches and the tired optimism of people who believed someone upstairs was deciding.
 
@@ -260,7 +260,7 @@ He did not choose Branch B.
 
 He did not choose Branch C.
 
-He chose the frame that let all three exist without lying about singularity.
+He chose the frame that let all three exist without forcing false singularity.
 
 Mercer spread Edition 144 on the desk—working copy, spine cracked now, Founders' Week coffee ring on the cover from a meeting that felt like another civilization. Edition 143 sat on the shelf behind it like a rebuke and a gift: one box for cadets who had learned conditional doctrine late.
 
@@ -278,7 +278,7 @@ Below it, Mercer's first principles page—one sheet, no oratory:
 
 2. **Parallel interpretation is permitted; false unity is not.** Branches A, B, and C remain forked until evidence or Operations mandate collapses divergence. Collapse requires signature, not convenience.
 
-3. **Mission environment tags govern application.** Exploration patrol, fringe relay, intelligence assessment, logistics modeling—each carries distinct obligation grammar. Tags must appear on orders, not hide in annex footers.
+3. **Mission environment tags govern application.** Exploration patrol, fringe relay, intelligence assessment, logistics modeling—each carries distinct classification obligations. Tags must appear on orders, not hide in annex footers.
 
 4. **Restraint is operational default under uncertainty threshold.** No initiation without intent evidence. Illumination discipline unchanged pending Operations authorization. Restraint is not assumed friendship.
 
@@ -290,7 +290,7 @@ Below it, Mercer's first principles page—one sheet, no oratory:
 
 Rowan read the seventh line twice.
 
-Mercer waited by the door with the patience Doctrine Bureau learned when grammar carried casualties.
+Mercer waited by the door with the patience Doctrine Bureau learned when classification carried casualties.
 
 "Sato will hate line five without line four," Mercer said.
 

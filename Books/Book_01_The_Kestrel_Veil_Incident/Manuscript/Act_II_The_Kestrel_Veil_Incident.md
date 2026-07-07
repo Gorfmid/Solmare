@@ -1,6 +1,6 @@
 ﻿---
 title: "The Kestrel Veil Incident"
-subtitle: "Book One of The Solmare Cycle â€” Act II â€” The Kestrel Veil Incident"
+subtitle: "Book One of The Solmare Cycle — Act II â€” The Kestrel Veil Incident"
 author: "K.W. Abbott"
 lang: en-US
 rights: "Copyright (c) K.W. Abbott. All rights reserved."
@@ -22,7 +22,7 @@ Park released the secondary buffer manually—the early acknowledgment from Kest
 
 The environmental thrum held its patrol note. Tanaka's dice clicked once when vector four corrected. Somewhere aft, Brenner kicked a door.
 
-Mission +46:00 of +46:00 on the first loop became Mission +01:00 of the mapping sweep—the part of the mandate that paid for the fuel report. Calder had read the sector chart at Helion Prime: sparse traffic, old survey lines, a border advisory in Park's queue that still had not risen above low priority. The posting summary called it routine reconnaissance. The crew called it Tuesday.
+Mission +46:00 of +46:00 on the first loop became Mission +01:00 of the mapping sweep—the part of the mandate that paid for the fuel report. Calder had read the sector chart at Helion Prime: sparse traffic, old survey lines, a border advisory in Park's queue that still had not risen above low priority. The posting summary called it routine reconnaissance. The crew called it another routine posting.
 
 The command deck operated the way it had since undock—corrections practiced until they stopped registering as corrections. Park tracked comms as rhythm; Cole covered secondary when the handshake narrowed. Ortega ran tertiary with the same wrong offset as cradle, logged separate from composite stack. Walsh's overflow carton on the forward console had been refilled once and was half empty again. Calder did not log it.
 
@@ -1255,7 +1255,7 @@ Behind them, a technician Calder did not know by name—Hargrove, according to t
 
 Brenner: "See? The *Veil* finishes your thoughts once you've been here long enough."
 
-Calder stayed twenty minutes. He did not understand half of what they said. He did understand the map they carried in their hands—the kick on Corridor C's door, the yellow tape dent, the panel that had saved them when main bus dropped because someone had bypassed a relay *twelve years ago* on a Tuesday Brenner still remembered.
+Calder stayed twenty minutes. He did not understand half of what they said. He did understand the map they carried in their hands—the kick on Corridor C's door, the yellow tape dent, the panel that had saved them when main bus dropped because someone had bypassed a relay twelve years ago on a watch Brenner still remembered.
 
 Brenner told a story about Dennett refusing to certify a bypass until the bypass saved a watch in a radiation flare. Hargrove finished the ending Dennett never logged. Koss added the certification number that still wasn't in the manual.
 
@@ -1905,7 +1905,7 @@ Then Koss on intercom, flat: "Life support three holding. Back to work."
 
 The moment broke. The crew returned to the ship the way people returned to a damaged house—touching walls, checking doors, pretending the checking was maintenance because stopping felt worse.
 
-In environmental, Kevin found two technicians sitting on a crate in silence. He did not send them back to work immediately. He handed them tea. They drank it with jackets still on. Then they went back to the ducts where the airflow lied by compartment.
+In environmental, Kevin found two technicians sitting on a crate in silence. He did not send them back to work immediately. He handed them tea. They drank it with jackets still on. Then they went back to the ducts where airflow ran uneven by compartment.
 
 In medical, Walsh caught Mira Hale staring at her bandaged forearm as if it belonged to someone else. Walsh said nothing. She changed the dressing. Hale flexed her fingers once, winced, returned to tactical watch without a word between them.
 
@@ -2056,7 +2056,7 @@ For a long breath Reyes said nothing. Calder had seen navigators celebrate conta
 
 Home was a word Reyes rarely used on-watch. Reyes kept his hand on the cradle after the fix logged anyway.
 
-Reyes matched one star to the reference chart by hand—old habit, pre-digital almanac habit—and his mouth moved once without sound. Not prayer. Verification. The kind you did when the instrument had lied for a day and your body no longer trusted glass.
+Reyes matched one star to the reference chart by hand—old habit, pre-digital almanac habit—and his mouth moved once without sound. Not prayer. Verification. The kind you did when the instrument had drifted for a day and your body no longer trusted glass.
 
 "Second star holds," he said. Quieter. "Third holds. Drift stack agrees."
 
@@ -2082,7 +2082,7 @@ Calder looked at her. The question had traveled the ship. It had not fixed anyth
 
 "Thessaly asks." No smile this time. "Different ship. Same exhaustion."
 
-Calder thought of Dennett's ghost in every unauthorized bypass—assumption as efficiency, assumption as risk. The *Veil* had survived yesterday because someone twelve years ago had assumed a relay could be hot-wired on a Tuesday. The ship ran on that kind of history. It did not run on trust yet.
+Calder thought of Dennett's ghost in every unauthorized bypass—assumption as efficiency, assumption as risk. The *Veil* had survived yesterday because someone twelve years ago had bypassed a relay on a watch Brenner still remembered. The ship ran on that kind of history. It did not run on trust yet.
 
 He walked engineering once. Brenner was under a panel. Koss was on the catwalk. Neither stopped working when he entered. Both nodded without looking happy about it.
 

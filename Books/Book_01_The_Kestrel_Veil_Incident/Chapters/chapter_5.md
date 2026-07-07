@@ -8,7 +8,7 @@ Park released the secondary buffer manually—the early acknowledgment from Kest
 
 The environmental thrum held its patrol note. Tanaka's dice clicked once when vector four corrected. Somewhere aft, Brenner kicked a door.
 
-Mission +46:00 of +46:00 on the first loop became Mission +01:00 of the mapping sweep—the part of the mandate that paid for the fuel report. Calder had read the sector chart at Helion Prime: sparse traffic, old survey lines, a border advisory in Park's queue that still had not risen above low priority. The posting summary called it routine reconnaissance. The crew called it Tuesday.
+Mission +46:00 of +46:00 on the first loop became Mission +01:00 of the mapping sweep—the part of the mandate that paid for the fuel report. Calder had read the sector chart at Helion Prime: sparse traffic, old survey lines, a border advisory in Park's queue that still had not risen above low priority. The posting summary called it routine reconnaissance. The crew called it another routine posting.
 
 The command deck operated the way it had since undock—corrections practiced until they stopped registering as corrections. Park tracked comms as rhythm; Cole covered secondary when the handshake narrowed. Ortega ran tertiary with the same wrong offset as cradle, logged separate from composite stack. Walsh's overflow carton on the forward console had been refilled once and was half empty again. Calder did not log it.
 

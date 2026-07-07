@@ -102,7 +102,7 @@ A freight spine they had used for cover.
 
 A yard thermal bloom they had dated across years.
 
-A commuter window they had learned to hear as Tuesday.
+A commuter window they had learned to recognize by rhythm.
 
 Tomás Brenner had the helm.
 
@@ -164,9 +164,9 @@ Mira Thessaly joined him at the rail for a moment without speaking.
 
 When she did speak, it was quiet. "Waiting for corridor objection. None observed."
 
-"Tuesday continues without us," Calder said.
+"Traffic continues without us," Calder said.
 
-"No," Thessaly said. "Tuesday continues for everyone who belongs here."
+"No," Thessaly said. "Traffic continues for everyone who belongs here."
 
 Calder nodded.
 
@@ -178,7 +178,7 @@ Brenner made a correction burn so small Calder would not have felt it without th
 
 The *Kestrel Veil* withdrew along the corridor the way professionals withdrew— without illumination, without announcement, without forcing first contact because first contact was a thing nations chose or failed to choose, not a thing scouts triggered by lingering one day too many.
 
-Jun Park keyed each leg departure into message threads tagged *segment seven — witness archive*; Marcus Hale ran rotation without jokes because jokes during departure felt like disrespect to a corridor that had taught them Tuesday; Yuki Tanaka ran emitter checks on schedule— dark, confirmed.
+Jun Park keyed each leg departure into message threads tagged *segment seven — witness archive*; Marcus Hale ran rotation without jokes because jokes during departure felt like disrespect to a corridor that had taught them restraint; Yuki Tanaka ran emitter checks on schedule— dark, confirmed.
 
 No one said goodbye.
 
@@ -294,7 +294,7 @@ Segment seven, day fifteen, afternoon.
 
 The ship moving homeward under Brenner's polite burns.
 
-Thessaly moving doctrine homeward under uglier grammar.
+Thessaly moving doctrine homeward under uglier classification language.
 
 She typed.
 
@@ -308,7 +308,7 @@ Typed again.
 
 *Strategic peer* — implied parity Fleet had not admitted.
 
-*Opposing force* — lied about Tuesday.
+*Opposing force* — misread routine traffic.
 
 She set the stylus down and rubbed her eyes the way executives rubbed eyes when the institution they served was not evil, only young.
 
@@ -512,7 +512,7 @@ Halden reported Fleet pickup beacon in range in fourteen hours if they held burn
 
 The *Kestrel Veil* crossed back into Fleet space without announcement.
 
-Park's witness archive still carried one segregated lane Holt had not combined—checksum green, classification pending, waiting for Fleet to decide what Tuesday meant.
+Park's witness archive still carried one segregated lane Holt had not combined—checksum green, classification pending, waiting for Fleet to decide what the returns meant.
 
 ---
 

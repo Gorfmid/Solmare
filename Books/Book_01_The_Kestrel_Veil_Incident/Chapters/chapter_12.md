@@ -161,7 +161,7 @@ Not operationally.
 
 0.7% unexplained variance— tiny inefficiencies like sand in a joint you could still walk on.
 
-Ensign Maret, still young enough to fear sand, hovered at Volkova's elbow. "Software patch Tuesday. Could be regression."
+Ensign Maret, still young enough to fear sand, hovered at Volkova's elbow. "Scheduled patch window. Could be regression."
 
 "Already ruled out," Volkova said. "I ran rollback. Variance remained."
 
@@ -268,7 +268,7 @@ Park copied the pass to segregated archive. No Fleet relay. No path home. Only l
 
 Ortega overlayed today's authentication density against yesterday's and the day before's. A slope. Gentle. Not cliff.
 
-The way institutions tightened when curiosity exceeded comfort but had not yet earned action.
+The way institutions tightened when curiosity exceeded comfort but had not yet justified action.
 
 He kept examples—professionals persuaded captains with specifics, not speeches:
 
@@ -329,7 +329,7 @@ Dinner was in twenty minutes.
 
 The review ran long.
 
-Operators pulled passive contacts from Nodes K-12, K-14, K-17, K-19— unrelated stations, unrelated crews, unrelated noise floors. Most ghosts dissolved on second pass— calibration, debris, freight echo, the ordinary lie of a sensor doing its best.
+Operators pulled passive contacts from Nodes K-12, K-14, K-17, K-19— unrelated stations, unrelated crews, unrelated noise floors. Most ghosts dissolved on second pass— calibration, debris, freight echo, the ordinary noise of a sensor doing its best.
 
 Operator Henn from K-14 leaned into the holo. "We had a whisper on gamma that cleared after reboot."
 

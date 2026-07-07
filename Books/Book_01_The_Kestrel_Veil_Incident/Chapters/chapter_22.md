@@ -47,13 +47,13 @@ Hwang considered lying for simplicity and rejected it. "I believe restraint is o
 
 "And if patrol behavior meets their border discipline?"
 
-"Then we note handshake lag and do not initiate." Hwang pulled up the addendum footer. "Witness grammar. Same as Calder. Different sky."
+"Then we note handshake lag and do not initiate." Hwang pulled up the addendum footer. "Witness discipline. Same as Calder. Different sky."
 
 Sorin nodded slowly. "No one announced this."
 
 "No one announces interpretation," Hwang said. "They announce outcomes after interpretation has already behaved."
 
-Hwang sent the addendum with a context tag Mercer would want later—*exploration-patrol-restraint*—and did not think the tag's name. He thought about commuter windows he had never seen and harmonics he had only read in Calder's grammar. Stable. Occupied. Not proven hostile.
+Hwang sent the addendum with a context tag Mercer would want later—*exploration-patrol-restraint*—and did not think the tag's name. He thought about commuter windows he had never seen and harmonics he had only read in Calder's witness bands. Stable. Occupied. Not proven hostile.
 
 Exploration remained professional.
 
@@ -152,7 +152,7 @@ Dana Holt trusted relay times.
 
 She was learning to distrust headers.
 
-The validation bay at Communications Command had the clean acoustics of a room built to hear errors—low chatter, high attention, displays that showed chain integrity in green because green was the profession's favorite lie when the world was more complicated than color. Holt had lived on the fringe long enough to know green only meant *no one had broken the chain yet*. It did not mean everyone agreed what the chain carried. Message routing had begun depending on interpretation labels—not chain integrity, metadata.
+The validation bay at Communications Command had the clean acoustics of a room built to hear errors—low chatter, high attention, displays that showed chain integrity in green because green was the profession's favorite shortcut when the world was more complicated than color. Holt had lived on the fringe long enough to know green only meant *no one had broken the chain yet*. It did not mean everyone agreed what the chain carried. Message routing had begun depending on interpretation labels—not chain integrity, metadata.
 
 Priya Nand ran a side-by-side on her pane, coffee forgotten at her elbow—same segment seven citation, same witness checksum, different urgency flags depending on which departmental lens an analyst attached at intake. Neutral corridor tag routed routine priority with standard relay window; strategic potential tag elevated priority and narrowed the window; civilian rhythm tag deferred priority and extended the window. Checksum and Park's message headers matched identically; Holt's forty sweeps married to VI-Gamma stability data within tolerance. Priya measured tagging lag in milliseconds—not latency failure, classification hesitation downstream—and Holt documented conditional routing so ambiguity management stayed visible rather than smuggled.
 
@@ -195,7 +195,7 @@ It was fragility of shared meaning riding on stable signal.
 
 Commander Owen Mercer had three inbox queues and one headache that felt like policy making itself without asking permission.
 
-The Classification Annex occupied a corridor Fleet officers joked about and feared—jokes about grammar, fear about what grammar could do to careers. Mercer did not fear grammar. He feared false singularity: the moment an institution pretended disagreement was resolved because someone needed sleep.
+The Classification Annex occupied a corridor Fleet officers joked about and feared—jokes about classification, fear about what classification could do to careers. Mercer did not fear terminology. He feared false singularity: the moment an institution pretended disagreement was resolved because someone needed sleep.
 
 Field officers did not read fork registries for pleasure. They read mission orders. When mission orders carried parallel headers, they asked which one was Fleet.
 
@@ -243,11 +243,11 @@ Hwang exhaled. "Officers want one answer."
 
 "Tag it. Ship it. That's the protocol now," Mercer said.
 
-He hung up and looked at the three inbox queues. Complaints. Clarification requests. A memo from Thessaly's office asking when *non-peer structured civilization* would mature into proper nomenclature—grammar pressure, not strategy. Mercer routed it to Historical and Cartography and did not promise maturity.
+He hung up and looked at the three inbox queues. Complaints. Clarification requests. A memo from Thessaly's office asking when *non-peer structured civilization* would mature into proper nomenclature—classification pressure, not strategy. Mercer routed it to Historical and Cartography and did not promise maturity.
 
 Doctrine was no longer singular.
 
-It was conditional—and Mercer had formalized the conditionality because field officers deserved labels, not lies.
+It was conditional—and Mercer had formalized the conditionality because field officers deserved labels, not false certainty.
 
 ---
 
