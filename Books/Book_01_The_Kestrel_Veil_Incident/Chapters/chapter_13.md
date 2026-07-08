@@ -37,7 +37,7 @@ Only the professional unease of a variance trend that refused to die when watche
 
 "Conclusion," Stratimirov said.
 
-Petrov chose his words the way analysts chose words when careers depended on precision. "Something survived the trial engagement. Something is moving in frontier corridors with whisper-class characteristics. Something is learning our lanes without illuminating."
+Petrov chose his words the way analysts chose words when careers depended on precision. "Something survived the Iron Harrow trial engagement. Something is moving in frontier corridors with whisper-class characteristics. Something is learning our lanes without illuminating."
 
 Stratimirov poured tea. "Something."
 

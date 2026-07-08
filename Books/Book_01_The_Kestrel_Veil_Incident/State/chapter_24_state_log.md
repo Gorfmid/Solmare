@@ -1,78 +1,103 @@
-# Chapter 24 State Log — The First Answer
+# Chapter 24 State Log — After Contact
 
-**Status:** PLANNED — manuscript pending rewrite  
+**Status:** DRAFT  
 **Act:** IV — First Doctrine (Book One close)  
-**Planning:** `Act_Outlines/act4_chapters_21-24_generation.md`
+**Planning:** User outline 2026-07-07 · supersedes fork-publication montage in `act4_chapters_21-24_generation.md`
 
 ---
 
 ## Chapter purpose
 
-End Book One with action; create Book Two momentum.
+Book One aftermath — consequences of Ch. 23 first contact without new action climax.
 
-**Core question:** What happens when the unknown responds?
+**Theme:** *The first contact succeeded. Understanding has not begun.*
 
-**Opens with:** Edition 144 implementation complete · Contact Doctrine active · institutions functioning
-
----
-
-## Planned scenes
-
-### 1 — Fleet Doctrine Publication
-
-- Unified Edition 144 distributed (manuals, training, patrol guidance)
-- **No** fork annex A/B/C
-- Professional completion — not ceremony
-
-### 2 — Operational Consequence
-
-- Officers decide under uncertainty
-- Doctrine prevents escalation
-
-### 3 — Public Transition
-
-- Controlled disclosure preparation becomes execution path
-- Message shape: *We found someone. We are approaching carefully.*
-- Founders' Week / academy correction aligned with Ellis curator route
-
-### 4 — Final Calder Scene — The Frontier Changes
-
-- *Kestrel Veil* detects something new on patrol
-- Response / signal / deliberate action — **not attack**, not fully understood
-- Calder: **observe first**
-- Book One close: Fleet decided; other civilization now acts
+**Core question:** What does Fleet and Dominion do the day after acknowledgment?
 
 ---
 
-## Book One terminal state
+## Scenes (implemented)
 
-| Element | State |
-|---------|--------|
-| Contact Doctrine | Active — unified |
-| Hostile classification | Not assigned |
-| Dominion name (Fleet) | Unknown |
-| Public | Disclosure begun / imminent |
-| *Kestrel* | Witness ship on patrol; new detection |
-| Book Two hook | Unknown civilization responds |
+### 1 — Kestrel posture hold
+
+- Six hours post-exchange; passive hold; watch schedule continues
+- Brenner, Ortega, Park, Holt relay, Walsh rest cycles, Kevin soup
+- No celebration
+
+### 2 — Calder incident report
+
+- OBSERVED / INFERRED / UNKNOWN structure
+- Thessaly: keep protocol compatibility in observed; familiarity in inferred
+- Calder files uncertainty correctly — character arc close
+
+### 3 — Fleet institutional response
+
+- Holt ingest; segregated routing to Operations, Intelligence, Cartography, Doctrine, Historical
+- Rowan: maintain contact posture; no mobilization
+- Mercer propagation receipt — Edition 144 active, not fork annex
+
+### 4 — Thessaly XO book
+
+- *The ship returned.* — contact in unofficial history
+- *The answer created more questions.*
+
+### 5 — Dominion Vex report
+
+- Mirror OBSERVED / INFERRED / UNKNOWN structure
+- Trial scout possible, not confirmed; archive unreconciled
+- Intent unresolved
+
+### 6 — Ordinary ship life
+
+- Day two Alpha Seven; Kevin, Brenner, Koss, Walsh; withdrawal prep hour 22
+
+### 7 — Book One close / Book Two hook
+
+- Fringe relay unsolicited packet — not Holt path, not contact channel
+- Header order: identification-exchange family, older variant; origin empty
+- Ortega: structured passive return, no correlation to contact mass
+- Calder: file observed, inference withheld; continue egress
 
 ---
 
-## Retired manuscript elements (remove on rewrite)
+## Book One resolution
 
-- Fork annex publication manifest
-- Branch A restraint tag as parallel doctrine selector
-- Tri-layer UI as three-default interface
-- *Parallel readings* as normalized controversy
-- Closing: *frontier did not open* without unknown response beat
+| Resolved | State |
+|----------|--------|
+| Kestrel survived | Witness hull; egress authorized |
+| Leviathan encounter reframed | Behavioral acknowledgment; hostile classification not assigned |
+| Fleet doctrine | Edition 144 active; observation-first posture |
+| First contact | Exchange completed both sides |
+| Calder responsibility | Report filed; uncertainty separated correctly |
+
+| Left open | State |
+|-----------|--------|
+| Protocol similarity | Hint only — older variant both sides |
+| Dominion identity (Fleet) | Unknown category / witness profile |
+| Trial archive reconciliation | Dominion — contact destroyed vs present |
+| Third signal | Fringe relay packet + passive return — origin unresolved |
+| Beyond Alpha Seven | Book Two question |
+
+---
+
+## Retired manuscript (Ch. 24 prior draft)
+
+- Edition 144 publication ceremony montage
+- Fork annex Branch A/B/C field adaptation
+- Tri-layer map room controversy normalization
+- Sorin *Morning Watch* patrol beat
+- Closing: frontier unchanged without contact aftermath
 
 ---
 
 ## Epilogue alignment
 
-- `epilogue.md` — Edition 144 primer for cadets; verify against unified doctrine (not conditional fork framing) after Ch. 24 rewrite
+- Verify `epilogue.md` against unified Contact Doctrine (not fork framing) before LOCK
 
 ---
 
-## Book One
+## Next
 
-**Narrative arc:** Complete after Ch. 24 rewrite per Contact Doctrine architecture.
+- Ch. 24 editorial pass
+- Epilogue alignment check
+- `chapter_list.md` word count update

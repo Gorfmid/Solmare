@@ -60,7 +60,7 @@ Answer on the page: not fear, not excitement — **responsibility**.
 ### 7 — Dominion V17 Coda (Vex)
 
 - Leviathan-class **Iron Harrow** on dark running at **V17** — refined cloak holds under Kestrel passive sweep
-- Kestrel detected after crossing; Vex infers trial contact from harmonic/thrust archive match—not confirmed; reduced emissions, observation posture
+- Kestrel detected after crossing; Vex infers scout from Iron Harrow trial encounter via harmonic/thrust archive match—not confirmed; reduced emissions, observation posture
 - Vex: match posture, no illumination, standing observation — parallel discipline to Fleet doctrine
 - Information imbalance: V17 registered crossing before Kestrel archive
 
@@ -69,7 +69,8 @@ Answer on the page: not fear, not excitement — **responsibility**.
 ## Terminology (canon)
 
 - **Alpha Seven** — Fleet designation for the unresolved region; used on charts, mission packets, crew speech
-- **V17** — Dominion designation only; must not appear in Fleet-perspective scenes (reserved for future Dominion POV)
+- **V17** — Dominion designation only; must not appear in Fleet-perspective scenes (reserved for Dominion POV)
+- **Iron Harrow trial** — Dominion **concealment-system trial**; *trial hull* = Iron Harrow only; Kestrel was unexpected contact during trial window — never *trial scout* / *trial contact*
 
 ---
 

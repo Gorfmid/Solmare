@@ -297,9 +297,9 @@ Senior Warrant Klimov did not look up from the comparison pane. "Confirmed?"
 
 Klimov filed the timestamp and routed the packet to command.
 
-Commander Vex received it at the tactical rail. He read the identification stack once—hull harmonics, correction-thrust cadence, traffic discipline the border archives still carried from the trial engagement.
+Commander Vex received it at the tactical rail. He read the identification stack once—hull harmonics, correction-thrust cadence, traffic discipline the border archives still carried from the Iron Harrow trial encounter.
 
-"Likely the trial scout," he said.
+"Likely the scout from that encounter," he said.
 
 Not to the room. To the record.
 
@@ -307,7 +307,7 @@ Major Petrov on the comms inset: "Confirmed?"
 
 "Not confirmed," Vex said. "Archive match on harmonics and thrust cadence. Scout-class. Different behavior. Emissions reduced. Observation posture on entry. No initiation."
 
-He pulled the trial overlay beside the live return. The old failure modes—envelope shimmer under passive lock, scatter spikes at maneuver—did not appear. The field held. The scout's passive sweep completed without acquisition.
+He pulled the cloak trial overlay beside the live return. The old failure modes—envelope shimmer under passive lock, scatter spikes at maneuver—did not appear. The field held. The scout's passive sweep completed without acquisition.
 
 Vex studied the comparison longer than efficiency required.
 

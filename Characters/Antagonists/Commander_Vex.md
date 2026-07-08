@@ -30,7 +30,8 @@ Little is established beyond Ch. 5. Do not invent biography, empire name, or per
 | Ship name | **Iron Harrow** (Leviathan-class; Dominion command usage — **withheld from Fleet POV** until discovery beat) |
 | Signature system | **First-of-its-kind cloaking field** on this hull — **no other Leviathan-class ship currently carries it** |
 | Ch. 5 posture | Dark-running in Kestran Spiral sector; passive monitor of scout contact; photon-cannon engagement after passive lock |
-| Ch. 5 outcome | Cloak collapsed under scout-class **passive** observation (not active targeting); scout destroyed; cloak re-engaged; **withdraw**; **rebuild the field** |
+| Ch. 5 outcome | Cloak collapsed under scout-class **passive** observation (not active targeting); contact filed destroyed; cloak re-engaged; **withdraw**; **rebuild the field** |
+| **Trial terminology** | **Iron Harrow trial** = concealment-system test; *trial hull* = Iron Harrow; Kestrel = unexpected contact during trial window — **never** *trial scout* |
 
 ---
 
