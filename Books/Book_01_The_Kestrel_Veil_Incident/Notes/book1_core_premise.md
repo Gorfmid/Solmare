@@ -1,7 +1,7 @@
 ﻿# THE KESTREL VEIL INCIDENT — BOOK OVERVIEW
 
 **Series:** The Solmare Cycle · Book One  
-**Status:** **Rewrite in progress** — Ch. 1–8 locked; Ch. 9–24 structural shells. See `Notes/REWRITE_STATUS.md`.
+**Status:** **BOOK ONE LOCKED** — manuscript Ch. 1–24, epilogue, appendix. See `Act_Outlines/chapter_list.md`.
 
 **Style authority:** `Writing_System/Style_Guide/global_writing_principles.md`  
 **Craft doctrine:** `Writing_System/Style_Guide/solmare_craft_doctrine.md`  
@@ -17,15 +17,15 @@ Its citizens believe the future is secure.
 
 Its leaders believe the borders are stable.
 
-Its enemies have spent years preparing to prove them wrong.
+Its leaders believe the borders are stable.
 
-Far beyond the Fleet Authority's core worlds, a rival empire quietly prepares for war. Individually, the warning signs appear insignificant. Together, they reveal preparations for a coordinated military campaign unlike anything seen in generations.
+Beyond accepted survey margins, **Segment Seven's maps no longer reconcile**—a contradiction buried in routine traffic before anyone has permission to treat it as strategic.
 
-Maris Chen, an intelligence analyst, begins assembling a priority report — then dies before it is submitted. Her warning remains buried in routine traffic.
+**Maris Chen**, Cartography Division analyst, documents persistent baseline divergence and conflicting validated returns. Her professional conclusion: *the map does not agree with itself.* She dies before completing section three of her escalation report. Fleet later reclassifies the packet **antecedent unresolved**—connected to later events, not a solved warning.
 
 Life continues as normal until the **Kestrel Veil Incident** — and everything after.
 
-What begins as routine patrol becomes a defining contact event, then discovery beyond the border, then the Fleet's first strategic reckoning with a **structured opposing presence**.
+What begins as routine patrol becomes a defining contact event, then discovery beyond the border, then the Fleet's first strategic reckoning with **structured contact under uncertainty**.
 
 ---
 
@@ -36,7 +36,7 @@ What begins as routine patrol becomes a defining contact event, then discovery b
 | **Fleet Authority** | Primary narrative name for the governing military-civil order |
 | **Unified Fleet Authority (UFA)** | Formal institutional name (legacy docs, fleet paperwork) |
 | **the Empire** | Colloquial citizen-facing name (everyday speech, festivals, pride) |
-| **Outer Rim Collectives** | Primary rival power in Book One opening (border buildup; invasion preparation) |
+| **Outer Rim Collectives** | **Obsolete draft concept** — do not use in Book One locked canon |
 
 ---
 
@@ -48,7 +48,7 @@ Book One is structured around **escalation of understanding**, not episodic myst
 
 Make readers love the civilization and the crew before the Incident.
 
-1. **The Empire** — Fleet prosperity; Maris Chen; lost warning
+1. **The Empire** — Fleet prosperity; Maris Chen; first map contradiction (unfinished escalation)
 2. **A Captain's Dream** — Calder; *Kestrel Veil* assignment
 3. **The Ship That Refuses to Die** — Crew; ship-as-home
 4. **Routine Patrol** — Normal mission; quiet wrongness at the edge
@@ -72,11 +72,11 @@ The book's **core defining event**.
 
 Ch. 9–16: border intelligence; **understanding over hatred** — both civilizations believe they protect their future; war prep shown not stated; true objective **ambiguous** in Book One.
 
-**Act III ends:** Structured opposing civilization confirmed operationally.
+**Act III ends:** Structured contact civilization confirmed operationally; intent unresolved.
 
 ### Act IV — First Doctrine (Ch. 17–24)
 
-**Fleet doctrine shift and first strategic understanding.**
+**First Doctrine adopted; Edition 144 teaches the framework.**
 
 Ch. 17–24: listening posts, ROE debate, witness testimony, evidence weight, strategic recognition, final report, Book One resolution (Ch. 24 — *The Veil Opens*).
 
@@ -100,8 +100,8 @@ Ch. 17–24: listening posts, ROE debate, witness testimony, evidence weight, st
 
 | Layer | Nature | Book One function |
 |-------|--------|-------------------|
-| **External** | Collectives buildup → war; structured border opposition | Maris saw it; Incident confirms it; Acts III–IV strategize it |
-| **Operational** | Incomplete sensor truth under contact | Ch. 5+ doctrine — not cosmological mystery |
+| **External** | Structured contact beyond survey margins; intent unknown | Incident + segment seven witness; Acts III–IV doctrine under uncertainty |
+| **Operational** | Incomplete sensor truth under contact | Ch. 5+ procedure — not cosmological mystery |
 
 These converge in **strategic assessment** (Act IV), not anomaly revelation.
 
@@ -113,7 +113,7 @@ Calder begins as procedural optimist — graduation hope, aging ship, routine mi
 
 Through the Incident he becomes a commander who acts when **institutional truth is incomplete**.
 
-Through Acts III–IV he becomes **first witness** to what Fleet must formally acknowledge.
+Through Acts III–IV he becomes **first witness** to structured contact Fleet must acknowledge without assigning intent.
 
 See: `Characters/Primary_Crew/Calder_Venn.md`
 
@@ -124,15 +124,15 @@ See: `Characters/Primary_Crew/Calder_Venn.md`
 > Peace was never guaranteed—it was maintained.  
 > When maintenance fails, the people who were always invisible become the ones who must decide what truth is worth acting on.
 
-Book One asks whether the Fleet Authority can survive learning that the border holds a **structured opposing force** — not whether reality itself is broken.
+Book One asks whether the Fleet Authority can change how it commands under **structured contact with unknown intent** — not whether reality itself is broken.
 
 ---
 
 ## Book One Must Still Resolve (Series Doctrine)
 
-- Operational understanding of the **structured opposing presence** at strategic level
-- Fleet doctrine **permanently changed** by Incident + border intelligence
-- **Open after Book One:** full enemy intent, Collectives war timeline, cosmological questions (if any remain in series scope)
+- Operational framework for **contact under uncertainty** (First Doctrine adopted; Edition 144 teaches it)
+- Fleet procedure **permanently changed** by Incident + segment seven witness + first exchange
+- **Open after Book One:** contact civilization intent; third-source fringe return; Segment Seven map cause; series-scale cosmology (if any)
 
 Full doctrine: `Writing_System/Series_Principles/series_principles.md`
 

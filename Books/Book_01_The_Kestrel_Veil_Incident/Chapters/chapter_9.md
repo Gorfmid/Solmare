@@ -19,7 +19,7 @@ That was not culture. That was architecture. The Strategic Security Directorate 
 
 The aide—Major Petrov, young enough to still trust executive summaries—cleared his throat without raising his volume.
 
-On the table between them, someone had left a bowl of apples from the officers' commons—ordinary fruit, grown in a habitat ring Stratimirov's grandfather had helped build. Small things mattered in rooms where decisions outlived the people who made them.
+On the table between them, someone had left a bowl of apples from the officers' commons—grown in a habitat ring Stratimirov's grandfather had helped build.
 
 "Trial hull returned masked. Visual acquisition by opposing force: none. Passive acquisition aboard an aging Fleet patrol scout: confirmed. Cloak envelope partial collapse under sustained passive lock. Scout contact engaged and destroyed at bearing two-one-four mark six. Withdraw executed per doctrine. Field rebuild ordered."
 
@@ -93,9 +93,7 @@ His instructors had always said the Fleet expanded the way all young powers expa
 
 The Dominion had not forgotten.
 
-Wars did not begin with declarations. They began years earlier, when one civilization mistook another's preparation for routine.
-
-The cloak trial was supposed to preserve that distinction—not blur it early.
+The cloak trial was supposed to keep preparation unread from outside the border—not announce it early.
 
 Stratimirov folded his hands.
 
@@ -143,10 +141,9 @@ Petrov waited with the stillness of a man who had learned that stillness was pro
 
 "Science Directorate will complain about the sealed channels," Petrov said, quietly.
 
-"Science Directorate will protest the restrictions."
 "Their job is to ask for everything," Stratimirov said. "Ours is to decide what they receive."
 
-Outside the insulated room, the headquarters complex moved with the ordinary rhythm of a civilization that had been interstellar for centuries—shifts changing, families collecting children from the transit walk, cafeteria staff closing evening service in the commons. A clerk's voice rose once over procurement forms and fell again. Maintenance workers passed in the corridor, polishing old campaign plaques. Veterans played chess beneath campaign plaques whose oldest names predated most Fleet Authority colonies. No speeches accompanied them. They simply remained, reminding anyone who cared to look that institutions remembered longer than people did.
+Outside the insulated room, the headquarters complex kept its evening schedule—shifts changing, families collecting children from the transit walk, cafeteria staff closing service in the commons. A clerk's voice rose once over procurement forms and fell again. Maintenance workers passed in the corridor, polishing campaign plaques. Veterans played chess beneath the oldest names, which predated most Fleet Authority colonies.
 
 Stratimirov had eaten in that commons yesterday. His wife had sent a message about their grandson learning to swim. He had ignored it twice before finally opening it.
 
@@ -464,7 +461,7 @@ Someone had built for regular movement—not occasional patrols, not survey pass
 
 This wasn't the edge of civilization, it was part of it.
 
-Reyes traced the beacon structure on manual overlay with the careful anger of a navigator discovering someone else had been drawing his map—lane corrections, relay sleepers, maintenance pings already noted in Ortega's segregated column. Halden saw no weapons signature, infrastructure only. Park's voice when he finally spoke was barely there: nothing in Fleet format, confirmed.
+Reyes traced the beacon structure on manual overlay with the careful anger of a navigator discovering someone else had been drawing his map—lane corrections, relay sleepers, maintenance pings already noted in Ortega's separate column. Halden saw no weapons signature, infrastructure only. Park's voice when he finally spoke was barely there: nothing in Fleet format, confirmed.
 
 Thessaly appeared at Calder's shoulder without announcement. That was her version of urgency.
 
@@ -494,7 +491,7 @@ No one answered.
 
 Reyes looked back at the charts. Park's hand tightened on the communications console rim.
 
-Thessaly opened her slate and wrote without looking at Calder. Park copied bearing and time into the segregated archive—the shelf he still trusted more than the auto-summary writers at Fleet relay. Ortega kept the passive sensor cycle running because stopping would be a kind of hope and hope was noise.
+Thessaly opened her slate and wrote without looking at Calder. Park copied bearing and time into the separate archive—the shelf he still trusted more than the auto-summary writers at Fleet relay. Ortega kept the passive sensor cycle running because stopping would be a kind of hope and hope was noise.
 
 "Segment seven holds," Calder said. "Passive only. Walsh schedule stands."
 

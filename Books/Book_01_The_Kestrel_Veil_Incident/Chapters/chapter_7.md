@@ -1,4 +1,4 @@
-﻿<p align="center"><img src="../Manuscript/assets/kestrel_veil_schematic.png" alt="Kestrel Veil — scout-class reconnaissance vessel schematic" width="680" /></p>
+<p align="center"><img src="../Manuscript/assets/kestrel_veil_schematic.png" alt="Kestrel Veil — scout-class reconnaissance vessel schematic" width="680" /></p>
 
 # Chapter 7
 
@@ -1032,7 +1032,7 @@ Calder looked at the deck. Nobody cheered. Nobody refused.
 
 Thessaly exhaled once. "Neutral Zone seven-alpha. I'll draft transit watches."
 
-Halden wanted sensor discipline from the jump; Park wanted buffer segregation on anything they recovered. Brenner on intercom, before Calder could summon him: "Nameplate first or course change first?"
+Halden wanted sensor discipline from the jump; Park wanted separate buffer routing on anything they recovered. Brenner on intercom, before Calder could summon him: "Nameplate first or course change first?"
 
 "Both," Calder said.
 
@@ -1088,7 +1088,7 @@ Nobody noticed.
 
 Nobody commented.
 
-Calder was still in engineering. Halden was still rebuilding tactical ten percent at a time. Park was still on the buffer, relay queue blinking, Dana Holt's timestamp in a segregated lane he would not combine.
+Calder was still in engineering. Halden was still rebuilding tactical ten percent at a time. Park was still on the buffer, relay queue blinking, Dana Holt's timestamp in a separate lane he would not combine.
 
 Thessaly took the XO chair, stripped the transit draft of anything that wasn't executable, and set handoff blocks with no open verbs.
 

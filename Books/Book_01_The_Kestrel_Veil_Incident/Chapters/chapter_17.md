@@ -1,4 +1,4 @@
-﻿# Chapter 17
+# Chapter 17
 
 ## The Listening Post
 
@@ -36,7 +36,7 @@ Engineering inspection request assigned yard team gamma, six-hour window, hull a
 
 Rowan’s directive had come through Holt’s relay with the margin at six hours: do not confuse patched with ready.
 
-Archive security protocols flagged Jun Park's chain: triple redundancy, segregated archives, no upstream consolidation until Fleet Communications confirmed pickup handshake and Cartography liaison validated bearing continuity.
+Archive security protocols flagged Jun Park's chain: triple redundancy, separate archives, no upstream consolidation until Fleet Communications confirmed pickup handshake and Cartography liaison validated bearing continuity.
 
 A secondary flag blinked. Yard intake requesting damage summary for crane assignment. Calder forwarded Koss's one-line without embellishment: *starboard weld scar stable, list two degrees port, correction thrust within certification limits*. The controller copied it without comment. Fleet spoke fluent damage when it had to.
 
@@ -48,11 +48,11 @@ Mira Hale held tactical watch out of habit. Cradle approach vectors offered noth
 
 Yuki Tanaka ran emitter discipline checks against an open sky with no masking behavior logged.
 
-Ortega filed the homeward archive segregated. "Segment seven remains segregated pending department review."
+Ortega filed the homeward archive separate. "Segment seven remains in separate custody pending department review."
 
 Thessaly read the header on her secondary pane. Segment seven remained under amended mission language: *degraded auxiliary corridor, drift-affected volume, reduced instrumentation tolerance.* No reclassification on the slate.
 
-"File it segregated," Calder said. "No upstream consolidation until custody clears."
+"File to separate custody," Calder said. "No upstream consolidation until custody clears."
 
 Ortega: "Copied."
 
@@ -70,7 +70,7 @@ The dock cranes rose against Helion Prime's industrial dawn. Mission patches on 
 
 The *Kestrel Veil* came home.
 
-Routing metadata still classified segment seven as degraded auxiliary corridor. Ortega's segregated lane stayed open pending department review.
+Routing metadata still classified segment seven as degraded auxiliary corridor. Ortega's separate lane stayed open pending department review.
 
 ---
 
@@ -161,7 +161,7 @@ Sensor data went to Intelligence queue: passive archives, correlation strips, di
 
 Engineering data went to Yard Certification and Logistics: correction-thruster curves, Reing 3 handshake lag, patched hull profiles.
 
-Communications data went to Holt’s chain validation: relay times, segregated lanes, destruction assessment correction history.
+Communications data went to Holt’s chain validation: relay times, separate lanes, destruction assessment correction history.
 
 Historical comparisons remained at Ellis’s desk: frontier provisional volumes, Founders’ Week origin maps, prior survey epochs that marked segment seven low activity.
 
@@ -175,7 +175,7 @@ She did not stop the process. Stopping the process was not her authority. She fi
 
 On her personal pane, Ellis opened the Historical comparison packet Thessaly had attached. A frontier school petition from a shipping-container academy. A routine patrol summary from three years prior marking corridor seven-alpha as provisional, low occupancy confidence. A Founders' Week parade schedule whose calendar entries conflicted with maintenance-layer timestamps recorded in segment seven industrial logs.
 
-She opened the segregated routing packet Ortega had filed from the bridge. Operations: *instrumentation echo*. Navigation: *ephemeris residue*. Engineering: *non-random consistency, pending review*. No reclassification header.
+She opened the separate routing packet Ortega had filed from the bridge. Operations: *instrumentation echo*. Navigation: *ephemeris residue*. Engineering: *non-random consistency, pending review*. No reclassification header.
 
 The records extended beyond the survey assumptions currently attached to the corridor.
 
@@ -281,7 +281,7 @@ Mira Thessaly intercepted him outside medical with coffee.
 
 "Routing slate?"
 
-"Ortega filed it segregated. Three departments, three comments, no reclassification." Thessaly kept her voice level. "Header still reads degraded auxiliary corridor."
+"Ortega filed it separate. Three departments, three comments, no reclassification." Thessaly kept her voice level. "Header still reads degraded auxiliary corridor."
 
 Calder said, "File the routing contradiction. Do not consolidate department comments into the executive summary."
 

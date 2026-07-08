@@ -1,6 +1,6 @@
 ﻿---
 title: "The Kestrel Veil Incident"
-subtitle: "Book One of The Solmare Cycle — Act III â€” Shadows Beyond the Border"
+subtitle: "Book One of The Solmare Cycle â€” Act III â€” Shadows Beyond the Border"
 author: "K.W. Abbott"
 lang: en-US
 rights: "Copyright (c) K.W. Abbott. All rights reserved."
@@ -32,7 +32,7 @@ That was not culture. That was architecture. The Strategic Security Directorate 
 
 The aide—Major Petrov, young enough to still trust executive summaries—cleared his throat without raising his volume.
 
-On the table between them, someone had left a bowl of apples from the officers' commons—ordinary fruit, grown in a habitat ring Stratimirov's grandfather had helped build. Small things mattered in rooms where decisions outlived the people who made them.
+On the table between them, someone had left a bowl of apples from the officers' commons—grown in a habitat ring Stratimirov's grandfather had helped build.
 
 "Trial hull returned masked. Visual acquisition by opposing force: none. Passive acquisition aboard an aging Fleet patrol scout: confirmed. Cloak envelope partial collapse under sustained passive lock. Scout contact engaged and destroyed at bearing two-one-four mark six. Withdraw executed per doctrine. Field rebuild ordered."
 
@@ -106,9 +106,7 @@ His instructors had always said the Fleet expanded the way all young powers expa
 
 The Dominion had not forgotten.
 
-Wars did not begin with declarations. They began years earlier, when one civilization mistook another's preparation for routine.
-
-The cloak trial was supposed to preserve that distinction—not blur it early.
+The cloak trial was supposed to keep preparation unread from outside the border—not announce it early.
 
 Stratimirov folded his hands.
 
@@ -136,7 +134,7 @@ Stratimirov opened a drawer and removed a tin of tea—not ration issue, a gift 
 
 "Mobilization schedule," he said.
 
-"Continues, sir. Tier two acceleration authorized last month." Petrov read without inflection. "Shipyard labor shifts on the outer belt yards moved to eighteen-hour rotation last week—Industrial Directorate notation only. Reserve warrant officers recalled for refresher cycles: forty-three names this month. Fuel depot expansion at Kessik completed forty days ahead of schedule. Frontier munitions stores received quiet inventory refresh—standard rotation language, nonstandard volume. Logistics corridors on the seven-alpha approach finished ahead of Procurement Office forecast."
+"Continues, sir. Tier two acceleration authorized last month." Petrov read without inflection. "Shipyard labor shifts on the outer belt yards moved to eighteen-hour rotation last week—Industrial Directorate notation only. Reserve warrant officers recalled for refresher cycles: forty-three names this month. Fuel depot expansion at Kessik completed forty days ahead of schedule. Frontier munitions stores received quiet inventory refresh—standard rotation language, nonstandard volume. Logistics corridors on the Kessik feeder approach finished ahead of Procurement Office forecast."
 
 "Continue it." He poured. "Accelerate cloak refinement. All trial data to Science Directorate—sealed channel, not political liaison. Scientific funding stays elevated—no directorate memos calling it a windfall."
 
@@ -156,10 +154,9 @@ Petrov waited with the stillness of a man who had learned that stillness was pro
 
 "Science Directorate will complain about the sealed channels," Petrov said, quietly.
 
-"Science Directorate will protest the restrictions."
 "Their job is to ask for everything," Stratimirov said. "Ours is to decide what they receive."
 
-Outside the insulated room, the headquarters complex moved with the ordinary rhythm of a civilization that had been interstellar for centuries—shifts changing, families collecting children from the transit walk, cafeteria staff closing evening service in the commons. A clerk's voice rose once over procurement forms and fell again. Maintenance workers passed in the corridor, polishing old campaign plaques. Veterans played chess beneath campaign plaques whose oldest names predated most Fleet Authority colonies. No speeches accompanied them. They simply remained, reminding anyone who cared to look that institutions remembered longer than people did.
+Outside the insulated room, the headquarters complex kept its evening schedule—shifts changing, families collecting children from the transit walk, cafeteria staff closing service in the commons. A clerk's voice rose once over procurement forms and fell again. Maintenance workers passed in the corridor, polishing campaign plaques. Veterans played chess beneath the oldest names, which predated most Fleet Authority colonies.
 
 Stratimirov had eaten in that commons yesterday. His wife had sent a message about their grandson learning to swim. He had ignored it twice before finally opening it.
 
@@ -360,7 +357,7 @@ Coffee from the commons pot—too bitter, shared anyway. Warrant Master Selim re
 
 The node was cold the way border installations were cold—not uncomfortable, engineered for alertness. Kovat's chair had a crease worn into the left armrest where eleven years of elbows had rested. Selim's grandfather had served on K-12. The wall plaque still listed three names from a border incident forty years ago. Procedures had been revised afterward. The lesson had not. Brass outlasted the officers who walked past it.
 
-A scrap of green sat on the console ledge—something hardy from the commons exchange, surviving on shift lamps and the water Kovat gave it when the sweep cycle refreshed. Home rotation was in fourteen days if the schedule held; her daughter had sent a recording asking whether the district autumn festival still required wool coats. Kovat had not answered yet. She would, on break.
+A scrap of green sat on the console ledge—something hardy from the commons exchange, surviving on shift lamps and the water Kovat gave it when the sweep cycle refreshed. Home rotation was in fourteen days if the schedule held; her daughter had sent a recording asking whether the district harvest festival still required wool coats. Kovat had not answered yet. She would, on break.
 
 Thinking about it did not improve the sweep.
 
@@ -412,7 +409,7 @@ Kovat knew what he meant.
 
 Not coordinates alone. Corridor context.
 
-The contact sat in seven-alpha—outside the routine traffic pattern for the cycle. Nothing in recent observations accounted for a low-power return on correction thrust.
+The contact sat on the K-17 watch corridor—outside the routine traffic pattern for the cycle. Nothing in recent observations accounted for a low-power return on correction thrust.
 
 "Scout profile," Selim said. Not a question.
 
@@ -473,7 +470,7 @@ Someone had built for regular movement—not occasional patrols, not survey pass
 
 This wasn't the edge of civilization, it was part of it.
 
-Reyes traced the beacon structure on manual overlay with the careful anger of a navigator discovering someone else had been drawing his map—lane corrections, relay sleepers, maintenance pings already noted in Ortega's segregated column. Halden saw no weapons signature, infrastructure only. Park's voice when he finally spoke was barely there: nothing in Fleet format, confirmed.
+Reyes traced the beacon structure on manual overlay with the careful anger of a navigator discovering someone else had been drawing his map—lane corrections, relay sleepers, maintenance pings already noted in Ortega's separate column. Halden saw no weapons signature, infrastructure only. Park's voice when he finally spoke was barely there: nothing in Fleet format, confirmed.
 
 Thessaly appeared at Calder's shoulder without announcement. That was her version of urgency.
 
@@ -503,7 +500,7 @@ No one answered.
 
 Reyes looked back at the charts. Park's hand tightened on the communications console rim.
 
-Thessaly opened her slate and wrote without looking at Calder. Park copied bearing and time into the segregated archive—the shelf he still trusted more than the auto-summary writers at Fleet relay. Ortega kept the passive sensor cycle running because stopping would be a kind of hope and hope was noise.
+Thessaly opened her slate and wrote without looking at Calder. Park copied bearing and time into the separate archive—the shelf he still trusted more than the auto-summary writers at Fleet relay. Ortega kept the passive sensor cycle running because stopping would be a kind of hope and hope was noise.
 
 "Segment seven holds," Calder said. "Passive only. Walsh schedule stands."
 
@@ -549,7 +546,7 @@ Volkova checked the delivery column on her slate. It was still empty.
 
 "Then next week is what we plan for." She poured tea from the communal pot—too strong, always too strong, the way planners drank it. "Freight routing."
 
-Dusan continued. "Commercial lanes holding. Ore haulers on schedule within tolerance. Passenger transit—autumn festival congestion projected in twelve days; family leave requests already clogging secondary routes. Automated tugs—routine. Emergency services—quiet."
+Dusan continued. "Commercial lanes holding. Ore haulers on schedule within tolerance. Passenger transit—harvest festival congestion projected in twelve days; family leave requests already clogging secondary routes. Automated tugs—routine. Emergency services—quiet."
 
 Volkova listened for variance in the numbers, not poetry.
 
@@ -583,7 +580,7 @@ Volkova assigned routes. She signed forms. She deferred seasonal leave congestio
 
 Marenko leaned back. "Scientific funding line item came through overnight. Elevated. Sealed manifests only."
 
-"Then sealed manifests travel on time or I hear about it from people who outrank me," Volkova said. "Route them on nine-beta secondary. Accept the commercial penalty. Document twice."
+"Then sealed manifests travel on time or I hear about it from people who outrank me," Volkova said. "Route them on Helikon feeder secondary. Accept the commercial penalty. Document twice."
 
 Jasko raised a hand. "Weather delay on the Helikon feeder—ion scrubber failure. Mining output may stay down six days, not one."
 
@@ -700,7 +697,7 @@ Sorokin did not comment on beauty. Beauty was not a metric.
 
 "I read the quota."
 
-He had read it at breakfast while his daughter complained about school and his wife reminded him about her mother's birthday dinner—still on, still mandatory, still Thursday. Ordinary life pressing against a yard that never slept.
+He had read it at breakfast while his daughter complained about school and his wife reminded him about her mother's birthday dinner—still on, still mandatory, still Thursday.
 
 Slip Three's hull was not a freighter.
 
@@ -805,7 +802,7 @@ Ortega put the headphone back.
 
 In the static, somewhere beyond translation, something like a freighter captain complained about delay and something like a controller answered with the tired patience of a man who had answered a thousand times before.
 
-Ortega noted the pass times. Park copied to the segregated archive. Thessaly asked for classification bands; Ortega gave her rhythm instead—shift change, maintenance window, freight surge, quiet hour.
+Ortega noted the pass times. Park copied to the separate archive. Thessaly asked for classification bands; Ortega gave her rhythm instead—shift change, maintenance window, freight surge, quiet hour.
 
 "They sleep," Ortega said, surprised by his own sentence. "Rhythm says sleep cycle, not alert posture. Inconsistency with military surge profile."
 
@@ -832,7 +829,7 @@ Nika made a face. "You sound like Grandmother."
 
 "Grandmother was right."
 
-They bought food at the market—root vegetables, protein rolls, something sweet because sweets were how apologies were made when leave requests were late. Kovat had filed for home rotation. Approval pending. The clerk behind the counter argued with a supervisor about inventory counts in the way ordinary people argued about things that mattered today and would be forgotten tomorrow.
+They bought food at the market—root vegetables, protein rolls, something sweet because sweets were how apologies were made when leave requests were late. Kovat had filed for home rotation. Approval pending. The clerk behind the counter argued with a supervisor about inventory counts.
 
 At home, Kovat called her daughter's father on the wall screen. He was stationed four sectors over and his smile arrived a half second late because distance was still distance even when transit worked.
 
@@ -842,13 +839,13 @@ At home, Kovat called her daughter's father on the wall screen. He was stationed
 
 "She gets that from you."
 
-They talked about schedules. About Nika's examination. About whether the transit walk was safe after shift change. Ordinary language. Ordinary fears.
+They talked about schedules. About Nika's examination. About whether the transit walk was safe after shift change.
 
-Kovat ate standing at the kitchen counter and reviewed paperwork she had brought home— leave approval pending, commons plant exchange approved, Nika's examination tutor bill. Ordinary arithmetic.
+Kovat ate standing at the kitchen counter and reviewed paperwork she had brought home— leave approval pending, commons plant exchange approved, Nika's examination tutor bill.
 
 Nika fell asleep on the couch with her history slate still glowing.
 
-Kovat carried her to bed and felt, for a moment, the full weight of the person she was when she was not a warrant officer—mother, daughter of veterans, citizen of a nation that expected ordinary people to do difficult jobs well.
+Kovat carried her to bed—mother first for the length of a corridor, warrant officer again when the slate stayed dark.
 
 The secure message arrived at 2241.
 
@@ -945,7 +942,7 @@ Irina Volkova settled into her desk. Tea steamed gently on the cup warmer. Syste
 
 Corporal Dusan read through the overnight crossings with practiced indifference. Nothing immediately stood out.
 
-"Passenger surge on secondary four—autumn festival leave, eleven days out, already congesting freight windows. Military corridor nine—quiet priority, no announcement, commercial penalty accepted. Reserve transport—fifty-one warrant recalls routed since yesterday. Up from forty-three last week."
+"Passenger surge on secondary four—harvest festival leave, eleven days out, already congesting freight windows. Military corridor nine—quiet priority, no announcement, commercial penalty accepted. Reserve transport—fifty-one warrant recalls routed since yesterday. Up from forty-three last week."
 
 Nobody looked up.
 
@@ -971,7 +968,7 @@ Marenko, Industrial Directorate liaison, tapped his slate. "Helikon output recov
 
 "Until the cargo moves...  well, we will call it Thursday when the crane arrives." Volkova said.
 
-"Civic festival congestion—" Dusan began.
+"Harvest festival congestion—" Dusan began.
 
 "—are human problems," Volkova finished. "Route around it. Accept penalties. If a grandmother misses a parade because we optimized an ore transport, I'll hear about it from someone who outranks all of us."
 
@@ -1062,7 +1059,7 @@ Mira Thessaly appeared at Calder's shoulder without hurry. "Classification?"
 
 "Behavior is enough," she said.
 
-Jun Park copied the pass to segregated archive. No Fleet relay. No path home. Only local trecords accumulating.
+Jun Park copied the pass to separate archive. No Fleet relay. No path home. Only local trecords accumulating.
 
 Park said, without looking up, "Correlation overlay on communications. Ortega cluster three matches Reyes's bearing plot. Four minutes saved if you use it."
 
@@ -1158,7 +1155,7 @@ When rehearsal ended, Nika ran over breathless.
 
 "Grandmother had practice."
 
-They walked home through banners that had grown bolder overnight— gold thread, anticipatory, autumn festival nine days now if rotation held. Nika talked about wool coats. Kovat listened.
+They walked home through banners that had grown bolder overnight— gold thread, anticipatory, harvest festival nine days now if rotation held. Nika talked about wool coats. Kovat listened.
 
 At the corner, Nika bought sweets with her own allowance because sweets were how children apologized for being children.
 
@@ -1280,7 +1277,7 @@ SILENT CROSSINGS
 
 Mission +22:00, segment seven.
 
-Ortega at passive six percent— still insultingly low, still enough. Reyes on routing logic. Thessaly on classification bands that refused simple military labels. Park on communications segregation. Tanaka confirming correction-thrust fraction. Hale on rotation. Halden feeding infrastructure age estimates into Reyes's plot until the display read like established infrastructure rather than empty chart margin.
+Ortega at passive six percent— still insultingly low, still enough. Reyes on routing logic. Thessaly on classification bands that refused simple military labels. Park on separate comm routing. Tanaka confirming correction-thrust fraction. Hale on rotation. Halden feeding infrastructure age estimates into Reyes's plot until the display read like established infrastructure rather than empty chart margin.
 
 Calder stood at the rail.
 
@@ -1352,7 +1349,7 @@ Major Petrov stood at the table's far edge with a slate and the expression of a 
 
 Petrov transferred the overlay.
 
-Individually, each marker was nothing— a timing offset on corridor seven-alpha maintenance logs, three hundred milliseconds, inside tolerance; a passive detection at Node K-12 that resolved as calibration drift after second pass; a freight sensor at Helikon feeder reporting mass inference one percent low until reboot; a scheduling disagreement between Regional Transportation Directorate and Border Surveillance on whether a faint return was weather or contact.
+Individually, each marker was nothing— a timing offset on K-17 maintenance logs, three hundred milliseconds, inside tolerance; a passive detection at Node K-12 that resolved as calibration drift after second pass; a freight sensor at Helikon feeder reporting mass inference one percent low until reboot; a scheduling disagreement between Regional Transportation Directorate and Border Surveillance on whether a faint return was weather or contact.
 
 Stratimirov looked at the scatter plot.
 
@@ -1408,7 +1405,7 @@ Colonel Yenin from Political Liaison watched from the wall without speaking. Pol
 
 Stratimirov looked at the scatter plot again.
 
-Outside the chamber, clerks moved through morning rhythm. Autumn festival banners had gone up in the lower arcade—gold thread, anticipatory.
+Outside the chamber, clerks moved through morning rhythm. Harvest festival banners had gone up in the lower arcade—gold thread, anticipatory.
 
 Stratimirov opened the next packet beside the photograph of his daughter's graduation— mobilization schedules, reserve manifests, a Science Directorate note about cloak field profiles that used the word *promising* as if promising could pay pensions.
 
@@ -1422,7 +1419,7 @@ THE ECHO
 
 Segment seven, day six.
 
-Felix Ortega had been on passive watch fourteen hours—headphones denting his hair, eyes red at the rims he would deny in any report. He said it first anyway—not alarm, inventory: maintenance window on seven-beta had shifted forty minutes earlier than yesterday's listen watch peak. Damon Reyes pulled lane overlays and saw passenger cluster spacing widened on secondary four—a few percent. Jun Park noted freight surge delayed one interval—autumn festival traffic or weather, unconfirmed. Ari Halden said weather relay cadence was unchanged while traffic cadence had changed.
+Felix Ortega had been on passive watch fourteen hours—headphones denting his hair, eyes red at the rims he would deny in any report. He said it first anyway—not alarm, inventory: maintenance window on seven-beta had shifted forty minutes earlier than yesterday's listen watch peak. Damon Reyes pulled lane overlays and saw passenger cluster spacing widened on secondary four—a few percent. Jun Park noted freight surge delayed one interval—holiday traffic or weather, unconfirmed. Ari Halden said weather relay cadence was unchanged while traffic cadence had changed.
 
 Calder stood at the rail and felt the echo before he could name it— not a shout in the dark, a room adjusting when someone unknown entered and nobody acknowledged it aloud.
 
@@ -1444,21 +1441,21 @@ The discussion stayed professional— possibilities weighed, not verdicts delive
 
 Calder ran the stack in order—list, weight, don't marry. Same rule as segment six.
 
-Thessaly challenged him without theater. Holiday congestion explained passenger spacing partially; maintenance backlog explained window shift partially. Ortega said listen watch showed procedural density up—that rhythm doesn't match holiday. Reyes offered fiscal quarter close, audit season, someone upstream tightening belts before the harvest festival—"could be bureaucracy, could be us making them nervous, could be both."
+Thessaly challenged him without theater. Holiday congestion explained passenger spacing partially; maintenance backlog explained window shift partially. Ortega said listen watch showed procedural density up—that rhythm doesn't match holiday. Reyes offered fiscal quarter close, audit season, someone upstream tightening belts before local holiday congestion—"could be bureaucracy, could be us making them nervous, could be both."
 
 Calder told them to list could-be, weight could-be, and not marry could-be. Halden pulled infrastructure overlays: relay seven-alpha showed recent handshake lag correlation with faint returns—not causal, correlated. Park: "Brenner noted Reing 3 environment load before systems saw traffic delta. Time-stamped on internal." Calder said Brenner's hunches became data when Brenner wrote them down, and Brenner, dry, said he already had.
 
 Small laugh— one breath, gone. Not morale. Recognition.
 
-"Continue mission," he said. "Passive only. Increase caution— tighter rotation discipline, shorter listen windows, segregated archives. No active sweep. No course change toward contact unless collision math demands it. Note the deltas. Compare them daily."
+"Continue mission," he said. "Passive only. Increase caution— tighter rotation discipline, shorter listen windows, separate archives. No active sweep. No course change toward contact unless collision math demands it. Note the deltas. Compare them daily."
 
-Park noted it. Walsh passed through the deck periphery, checked light schedules, redirected one overdue flag to Thessaly with *Captain aware* and did not interrupt. Small competence holding the ship together while the universe rearranged itself in millimeters.
+Park noted it. Walsh passed through the deck periphery, checked light schedules, redirected one overdue flag to Thessaly with *Captain aware* and did not interrupt.
 
 Brenner on intercom reported handshake lag ticking up again—not failure, environment speaking. Calder acknowledged.
 
 The *Veil* whispered.
 
-Somewhere in the lane traffic's routine, an echo answered— not words, not threat, only the subtle difference between a volume empty and a volume watched.
+Somewhere in the lane traffic, a passive return answered— not words, not confirmation, only the measurable gap between an empty volume and one under observation.
 
 
 ***THE DOMINION — REGIONAL TRANSPORTATION DIRECTORATE***  
@@ -1508,7 +1505,7 @@ Volkova looked at the variance map. Seven-alpha glowed faintly— not red, not a
 
 She split the variance by time window.
 
-Harvest festival congestion explained part. Military priority on nine-alpha explained part. Helikon shortfall explained part.
+Harvest festival congestion explained part. Military priority on the K-17 spine explained part. Helikon shortfall explained part.
 
 A slice remained.
 
@@ -1590,7 +1587,7 @@ Mira Thessaly on the hatch, arms folded. "Confidence?"
 
 "Note the change," she said.
 
-Park copied the pass to segregated archive. No Fleet relay. No path home. Only local truth accumulating like debt.
+Park copied the pass to separate archive. No Fleet relay. No path home. Only local truth accumulating like debt.
 
 Ortega overlayed today's authentication density against yesterday's and the day before's. A slope. Gentle. Not cliff.
 
@@ -1660,7 +1657,7 @@ Operator Henn from K-14 leaned into the holo. "We had a whisper on gamma that cl
 
 Operator Tas from K-12: "Same on our side— twice, gone by third sweep."
 
-Kovat watched her persistent return hold position on seven-alpha like a stone that refused to sink in a stream everyone else agreed was water.
+Kovat watched her persistent return hold position on the K-17 watch lane like a stone that refused to sink in a stream everyone else agreed was water.
 
 Selim pointed at the cluster. "There."
 
@@ -1702,7 +1699,7 @@ Kovat typed: *Late. Save portion. Love.*
 
 She walked to the transit sled.
 
-Somewhere in seven-alpha, something kept not disappearing.
+Somewhere on the K-17 feed, something kept not disappearing.
 
 Kovat did not know what it was.
 
@@ -1718,7 +1715,7 @@ Mission +19:00, segment seven, day six.
 
 Calder called it an overlay because *briefing* still sounded like Fleet and Fleet was a story with holes.
 
-Reyes at navigation. Ortega at listen watch summaries. Thessaly with slate open now— recording because some patterns needed ink even when they could not be transmitted. Halden on infrastructure age bands. Park on communications segregation. Tanaka on emitter confirmation. Hale on rotation limits. Brenner on handshake lag trends.
+Reyes at navigation. Ortega at listen watch summaries. Thessaly with slate open now— recording because some patterns needed ink even when they could not be transmitted. Halden on infrastructure age bands. Park on separate comm routing. Tanaka on emitter confirmation. Hale on rotation limits. Brenner on handshake lag trends.
 
 The display built itself in layers.
 
@@ -1740,7 +1737,7 @@ Nobody spoke.
 
 The scrubbers cycled.
 
-Ortega's loop murmured in its alcove— controllers asking one more question, routes repeating verification, children somewhere rehearsing harvest festival songs off-key for mothers who might be late to dinner.
+Ortega's loop murmured in its alcove— controllers asking one more question, routes repeating verification, children somewhere rehearsing festival songs off-key for mothers who might be late to dinner.
 
 Mira Thessaly looked up from her slate.
 
@@ -1764,7 +1761,7 @@ He did not add what navigators added in private: _Could be my navigation math is
 
 "Could be," Calder said. "Same rule. List. Weight. Don't marry."
 
-Ortega at the hatch reported procedure shift correlated with faint return persistence on passive plot—correlation only. Calder told Park to copy it beside the captain's words in the segregated archive— times no upstream authority would see, truth stored in a ship that had become an archive of a war not yet declared.
+Ortega at the hatch reported procedure shift correlated with faint return persistence on passive plot—correlation only. Calder told Park to copy it beside the captain's words in the separate archive— times no upstream authority would see, truth stored in a ship that had become an archive of a war not yet declared.
 
 Tanaka, quiet: "We are still dark."
 
@@ -1810,7 +1807,7 @@ Morning arrived the way it always arrived in the basalt-and-steel complex—with
 
 Director-General Lev Stratimirov opened Major Petrov's packet at the conference table.
 
-The conference room was the same room. The corridor table on the wall was the same table—three border revisions deep, campaign ribbons faded to the color of old tea. Harvest festival banners showed gold thread in the lower arcade beyond the glass, anticipatory, ordinary.
+The conference room was the same room. The corridor table on the wall was the same table—three border revisions deep, campaign ribbons faded to the color of old tea. In the lower arcade beyond the glass, harvest festival banners showed gold thread five days out.
 
 Petrov stood with a slate and the controlled tension of a man who had done what he had been told to do and now needed his directorate to decide what it meant.
 
@@ -1822,7 +1819,7 @@ He transferred the scatter plot.
 
 Stratimirov studied it without speaking.
 
-Individually, each marker remained nothing—timing offsets inside tolerance on Kessik relay four, passive returns that dissolved on second pass near nine-beta junction, mass inference one percent low on a border tug until reboot, variance flags Regional Transportation Directorate filed without panic on seven-alpha, authentication density increase on a lane controller who had worked the same shift for eleven years, fuel spine duty cycle skew on a depot nobody had thought to watch because depots were supposed to be boring, reserve manifest routing that looked like routine until you stacked enough weeks, faint return persistence on listen watch that Major Kovat had marked low confidence and refused to retract, maintenance window shifts that aligned with whisper-class harmonics no active systems had confirmed, distant relay burst timing that did not match debris decay models, and twelve more markers Petrov had numbered without naming because naming created appetite for action before comparison finished.
+Individually, each marker remained nothing—timing offsets inside tolerance on Kessik relay four, passive returns that dissolved on second pass near Helikon feeder junction, mass inference one percent low on a border tug until reboot, variance flags Regional Transportation Directorate filed without panic on K-17, authentication density increase on a lane controller who had worked the same shift for eleven years, fuel spine duty cycle skew on a depot nobody had thought to watch because depots were supposed to be boring, reserve manifest routing that looked like routine until you stacked enough weeks, faint return persistence on listen watch that Major Kovat had marked low confidence and refused to retract, maintenance window shifts that aligned with whisper-class harmonics no active systems had confirmed, distant relay burst timing that did not match debris decay models, and twelve more markers Petrov had numbered without naming because naming created appetite for action before comparison finished.
 
 Together, the markers suggested a shape.
 
@@ -1836,7 +1833,7 @@ Only the professional unease of a variance trend that refused to die when watche
 
 "Conclusion," Stratimirov said.
 
-Petrov chose his words the way analysts chose words when careers depended on precision. "Something survived the trial engagement. Something is moving in frontier corridors with whisper-class characteristics. Something is learning our lanes without illuminating."
+Petrov chose his words the way analysts chose words when careers depended on precision. "Something survived the Iron Harrow trial engagement. Something is moving in frontier corridors with whisper-class characteristics. Something is learning our lanes without illuminating."
 
 Stratimirov poured tea. "Something."
 
@@ -1927,7 +1924,7 @@ Stratimirov looked at Vex again. "You obeyed doctrine."
 
 "I did."
 
-"Then doctrine learns next." Stratimirov turned to Petrov. "Passive preferred. No corridor illumination. No task force. Compare Transportation variance. Compare border archives. Compare maintenance logs on seven-alpha. If something is learning our lanes, assume it is learning our patience too."
+"Then doctrine learns next." Stratimirov turned to Petrov. "Passive preferred. No corridor illumination. No task force. Compare Transportation variance. Compare border archives. Compare maintenance logs on K-17. If something is learning our lanes, assume it is learning our patience too."
 
 "Yes, sir."
 
@@ -2029,7 +2026,7 @@ His wife Mara opened the door before he knocked.
 
 Grandmother Ilya sat at the table with the straight-backed comfort of a woman who had outlived three yard expansions and did not find any of them surprising. Darya, eleven, wrestled homework at the kitchen end. Mikael, eight, built a lattice model from meal sticks with the seriousness of someone who thought engineering was a form of prayer.
 
-The apartment smelled of stew and the rain that had come through the arcade an hour ago—District Fourteen weather, ordinary, remembered in the stone walls because this building had stood through two yard annex approvals and one argument about elevator capacity that Grandmother still considered unresolved.
+The apartment smelled of stew and the rain that had come through the arcade an hour ago—District Fourteen weather in stone walls that had outlasted two yard annex approvals and one unresolved argument about elevator capacity.
 
 Flowers went in water. Boots came off. Sorokin washed his hands twice.
 
@@ -2049,7 +2046,7 @@ Mara laughed softly. "She says that whenever you work late."
 
 "She's not wrong."
 
-Darya returned to her slate— border station names, corridor phases, a question about why the autumn festival mattered to logistics. Grandmother answered with a story about stall permits and gold thread and a commander who had once delayed a parade because a fuel spine needed inspection.
+Darya returned to her slate— border station names, corridor phases, a question about why the harvest festival mattered to logistics. Grandmother answered with a story about stall permits and gold thread and a commander who had once delayed a parade because a fuel spine needed inspection.
 
 Sorokin listened the way men listened at home when work lived in their shoulders but not on their tongues.
 
@@ -2058,8 +2055,6 @@ Mikael asked whether lattice joints could sing. Mara said not at dinner. Grandmo
 They ate. Children argued. Grandmother told a story about a border station plaque and a commander nobody under forty remembered by name— not heroic, procedural, a man who had filed the correct delay forms during a corridor widening and been forgotten because correct filing did not make songs. Mara joked about welding dust in the sugar bowl. Sorokin pretended to be offended and was not.
 
 On the sideboard, regional celebration rehearsal schedules shared space with Darya's school calendar and a photograph of Sorokin's father in a yard coat, collar stiff, eyes tired, proud in the way workers were proud when the work outlived the shift.
-
-Ordinary.
 
 The pager on his belt chirped once— work channel, not emergency tone.
 
@@ -2089,7 +2084,7 @@ He kissed Darya's forehead. Mikael demanded a promise about lattice models. He p
 
 He left with stew still warm in his bowl and the pager cold against his hip and the calm acceptance of a household that had learned, years ago, that production adjustments were not emergencies—they were weather.
 
-At Slip Three, Lina had already pulled the lattice joint specs and queued the overtime roster without asking why Thursday mattered less than throughput. Sorokin signed what he would sign. He drank Mara's thermos between weld passes. The yard hummed— cranes, mag crawlers, inspection sleds, men and women who built ships because it was their profession and their district's inheritance.
+At Slip Three, Lina had already pulled the lattice joint specs and queued the overtime roster without asking why Thursday mattered less than throughput. Sorokin signed what he would sign. He drank Mara's thermos between weld passes. The yard hummed— cranes, mag crawlers, inspection sleds, weld teams moving to the next certified joint.
 
 No alarm lights.
 
@@ -2165,7 +2160,7 @@ The archives lived below the planning floors where sunlight was a rumor and dust
 
 Stone steps wore a groove in the center from decades of planners who had come down to learn what their predecessors had already decided. Handrails were cold. Brass plaques beside each landing named expansion phases in script too formal for modern interfaces and too plain to be decorative.
 
-Irina Volkova opened the ledger interface. Corridor expansion projects stretched across the display— digital layers over handwritten originals, ink faded, annotations in margins from planners dead before Volkova's academy cohort was born. Some margins argued about penalty documentation. Some argued about tea quality in the survey camps. All of them assumed the corridor would still matter when the argument was forgotten: seven-alpha, nine-beta, Kessik feeder spines, outer ring yard berths through three expansions, fuel depot deepening through four phases, relay refurb cycles stacked like sediment, reserve routing schema updates that changed language but not intent. Not one surge. A staircase.
+Irina Volkova opened the ledger interface. Corridor expansion projects stretched across the display— digital layers over handwritten originals, ink faded, annotations in margins from planners dead before Volkova's academy cohort was born. Some margins argued about penalty documentation. Some argued about tea quality in the survey camps. All of them assumed the corridor would still matter when the argument was forgotten: K-17 spine, Helikon feeder, Kessik feeder spines, outer ring yard berths through three expansions, fuel depot deepening through four phases, relay refurb cycles stacked like sediment, reserve routing schema updates that changed language but not intent. Not one surge. A staircase.
 
 Archivist Sten, seventy if he was a day, wheeled a tea cart with the ritual boredom of a man who had served historians and planners for forty years and trusted dust more than speeches.
 
@@ -2177,7 +2172,7 @@ Archivist Sten, seventy if he was a day, wheeled a tea cart with the ritual bore
 
 "Seven-alpha."
 
-Sten sipped. "Always seven-alpha. Everyone thinks borders are new. Borders are just where the math gets nervous."
+Sten sipped. "Always K-17. Everyone thinks borders are new. Borders are just where the math gets nervous."
 
 He scrolled without being asked— not classified, not dramatic, institutional memory on cold shelves.
 
@@ -2267,7 +2262,7 @@ Commander Vex entered the tactical classroom without ceremony.
 
 Not a lecture hall.
 
-A practical space— worn deck plates, projection tables scarred by decades of stylus work, corridor maps layered on the walls like sediment. Rain moved across the high windows in sheets that made autumn festival banners in the lower quad shimmer seven days out, if rotation held. Old stone framed the doorways. Brass plaques beside each map named expansion phases in script too formal for modern interfaces and too plain to be decorative.
+A practical space— worn deck plates, projection tables scarred by decades of stylus work, corridor maps layered on the walls like sediment. Rain moved across the high windows in sheets that made harvest festival banners in the lower quad shimmer seven days out, if rotation held. Old stone framed the doorways. Brass plaques beside each map named expansion phases in script too formal for modern interfaces and too plain to be decorative.
 
 Vex had returned to teaching quietly while the cloak program rebuilt on benches that did not forgive optimism.
 
@@ -2345,11 +2340,7 @@ The institution, Vex had learned, was another word for people who filed properly
 
 Rain softened against the high windows. Somewhere in the directorate, Petrov compared thirty markers. Somewhere on a border node, a warrant officer filed a return that would not downgrade on second pass. Somewhere in a yard, an apprentice learned that the weld outlives the shift.
 
-Continuity was not abstraction.
-
-Routine held.
-
-Outside, rain and banners and cadets crossing the quad with manuals under their arms— ordinary inheritance passing from one set of hands to another while benches rebuilt fields that must maintain.
+Outside, rain softened the quad. Cadets crossed with manuals under their arms. In the adjacent bay, benches rebuilt field coils on the schedule Science Directorate had filed.
 
 
 ***KESTREL VEIL — WARDROOM***  
@@ -2437,7 +2428,7 @@ THE MEMORIAL
 
 Daria Kovat should have gone home.
 
-District festival rehearsal had made Nika loud and happy and intolerant of excuses, and Kovat had missed dinner twice in four days because seven-alpha would not dissolve on second pass no matter how many reconciliations she ran.
+District festival rehearsal had made Nika loud and happy and intolerant of excuses, and Kovat had missed dinner twice in four days because K-17 would not dissolve on second pass no matter how many reconciliations she ran.
 
 Instead she walked with her daughter through evening rain toward the small memorial on Transit Spine Four— not famous, not political, local.
 
@@ -2471,7 +2462,7 @@ Kovat looked at the rows.
 
 Pause.
 
-Rain on stone. A child's laugh from the plaza. Autumn festival banners visible at the avenue bend— gold thread, anticipatory, ordinary.
+Rain on stone. A child's laugh from the plaza. Harvest festival banners at the avenue bend— gold thread, five days out if rotation held.
 
 "But they made tomorrow possible," Kovat said.
 
@@ -2509,7 +2500,7 @@ She typed *acknowledged* and put the slate away.
 
 At home, Nika rehearsed the chorus line while Kovat warmed the saved portion. *Perseverance is not a volume knob*— Teacher Marin's voice in an eleven-year-old's mouth.
 
-Somewhere on seven-alpha, a faint return held position like a stone in a stream.
+Somewhere at K-17, a faint return held position like a stone in a stream.
 
 Kovat would be back at K-17 before dawn.
 
@@ -2612,7 +2603,7 @@ Lina adjusted. Nineteen, fierce, hungry to be competent on a schedule the yard d
 
 Lina nodded. She had learned not to argue with Sorokin when his voice went flat— flat meant this mattered.
 
-The practice joint sat in the fixture— lattice segment, non-flight stock, scarred from generations of apprentices who had learned the same lesson under different cranes. The gantry beyond the bay window moved a hull shell with bored precision. Regional celebration posters in the corridor showed gold thread and stall permits and the ordinary anticipation of a district that celebrated harvest the way other districts celebrated rain.
+The practice joint sat in the fixture— lattice segment, non-flight stock, scarred from generations of apprentices who had learned the same lesson under different cranes. The gantry beyond the bay window moved a hull shell with bored precision. In the corridor, regional celebration posters listed stall permit deadlines for the harvest festival.
 
 Sorokin ran his hand along the joint seam without touching. "Show me your pass."
 
@@ -2668,13 +2659,9 @@ He almost smiled. "Certify your work. If you wouldn't certify it, don't ask me t
 
 She etched her initials into the practice log.
 
-Sorokin thought of his father in the photograph on the apartment sideboard— collar stiff, eyes tired, proud in the way workers were proud when the work outlived the shift. He thought of Grandmother Ilya saying *the keel goes down while the weather is still kind* without explaining it because explanations were for people who had not yet burned their hands.
+Sorokin thought of his father in the photograph on the apartment sideboard— collar stiff, eyes tired, proud in the way workers were proud when the work outlived the shift. He thought of Grandmother Ilya saying *the keel goes down while the weather is still kind*— advice she never annotated because the burn marks on her hands were the annotation.
 
-Civilizations survived because knowledge was inherited.
-
-Not invented every generation.
-
-Outside the bay, mag crawlers hummed. Somewhere in District Fourteen, Mara would be saving dinner again. Somewhere on seven-alpha, a warrant officer marked a return that held past reconciliation threshold.
+Outside the bay, mag crawlers hummed. Somewhere in District Fourteen, Mara would be saving dinner again.
 
 Sorokin put his hardhat on and returned to Slip Three. Production adjustments did not wait for pride to finish feeling good.
 
@@ -2710,7 +2697,7 @@ Calder said, "History inside them, or history about them?"
 
 Pause.
 
-Ortega's loop murmured— a child's chorus practice bleeding through civilian traffic harmonics, off-key and earnest, autumn festival seven days out if rotation held.
+Ortega's loop murmured— a child's chorus practice bleeding through civilian traffic harmonics, off-key and earnest, local holiday seven days out if rotation held.
 
 Thessaly: "They live inside it. Record supports."
 
@@ -2736,7 +2723,7 @@ Reyes acknowledged on chart plot; Ortega put the headphone back. Tanaka kept emi
 
 Jun Park tagged the night's correlations for a Fleet review that did not exist yet— headers blank, timestamps verified.
 
-Park's segregated archive still held one correlation thread Fleet had not requested—checksum match, urgency flag unset, waiting for a policy layer that did not exist yet.
+Park's separate archive still held one correlation thread Fleet had not requested—checksum match, urgency flag unset, waiting for a policy layer that did not exist yet.
 
 \newpage
 
@@ -2770,7 +2757,7 @@ One more point on a scatter plot that had stopped scattering like noise.
 
 Stratimirov studied the overlay without speaking.
 
-Individually, the new marker was nothing— a timing offset on seven-alpha within tolerance, filed by a controller who had worked the same shift for eleven years and had begun, quietly, to hate the word *tolerance*.
+Individually, the new marker was nothing— a timing offset on the K-17 corridor within tolerance, filed by a controller who had worked the same shift for eleven years and had begun, quietly, to hate the word *tolerance*.
 
 Together, the markers suggested what thirty had already suggested and thirty-one made harder to dismiss.
 
@@ -2780,7 +2767,7 @@ Colonel Yenin read the summary without pleasure. The numbers had improved. The f
 
 "Improved is how restored begins," Stratimirov said.
 
-Petrov added, quietly, "Border Surveillance expanded listening windows on K-17 and K-12 per your prior authorization. Warrant Kovat filed persistent return on seven-alpha again. Still low confidence. Still refuses to retract."
+Petrov added, quietly, "Border Surveillance expanded listening windows on K-17 and K-12 per your prior authorization. Warrant Kovat filed persistent return on K-17 again. Still low confidence. Still refuses to retract."
 
 "Good," Stratimirov said. "File exactly."
 
@@ -2790,7 +2777,7 @@ Stratimirov set his cup down. "What changed?"
 
 Pause.
 
-Rain on glass. Clerks in the arcade arguing about stall permits. Civic festival gold thread anticipatory, ordinary.
+Rain on glass. Clerks in the arcade arguing about stall permits. Civic festival banners taut in the lower arcade.
 
 Stratimirov nodded once.
 
@@ -2800,7 +2787,7 @@ Yenin: "Political Liaison will need language if this continues."
 
 "Political Liaison will receive numbers," Stratimirov said. "Not language yet."
 
-He turned to Petrov. "Expanded passive observation. Broader listening on seven-alpha, nine-beta, Kessik feeder spines. Coordinate with Regional Transportation Directorate variance reconciliation. Coordinate with Border Surveillance watch rotations— no overtime theater, just coverage."
+He turned to Petrov. "Expanded passive observation. Broader listening on K-17, K-12, and Kessik feeder spines. Coordinate with Regional Transportation Directorate variance reconciliation. Coordinate with Border Surveillance watch rotations— no overtime theater, just coverage."
 
 Petrov: "Science Directorate requests field trial timeline if bench holds."
 
@@ -2818,7 +2805,7 @@ Petrov's jaw worked. "Sir— expanded observation without illumination—"
 
 Stratimirov looked at the scatter plot one more time— thirty-one points, persistence without spectacle.
 
-He opened the next packet— stall permits, Regional Transportation Directorate reconciliation, a polite reminder that autumn festival congestion models needed updating before the parade made math nervous.
+He opened the next packet— stall permits, Regional Transportation Directorate reconciliation, a polite reminder that harvest festival congestion models needed updating before the parade made math nervous.
 
 
 ***KESTREL VEIL — WARDROOM***  
@@ -2830,7 +2817,7 @@ The wardroom was warm. The coffee was bitter. The question on the table was not 
 
 It was time.
 
-Calder Venn sat at the head because captains sat at heads when decisions approached, not because heads made decisions alone. Mira Thessaly had the overlay— traffic density, authentication slopes, yard throughput bands, memorial stone translated into observation language while Fleet's old categories still lagged behind the returns. Felix Ortega had listen watch summaries; Ari Halden had infrastructure ages and the particular exhaustion of an engineer who had stopped being surprised and had not started being comfortable. Damon Reyes had course projections— correction-thruster corridors home, not as escape fantasy, as mathematics. Tomás Brenner had said almost nothing for forty minutes. Jun Park had correlation strips he did not yet lay down— the way Park withheld paper until the room was ready.
+Calder Venn sat at the head of the table. Mira Thessaly had the overlay— traffic density, authentication slopes, yard throughput bands, memorial stone rendered in observation language while Fleet's old categories still lagged behind the returns. Felix Ortega had listen watch summaries; Ari Halden had infrastructure ages and the particular exhaustion of an engineer who had stopped being surprised and had not started being comfortable. Damon Reyes had course projections— correction-thruster corridors home, not as escape fantasy, as mathematics. Tomás Brenner had said almost nothing for forty minutes. Jun Park had correlation strips he did not yet lay down— withheld until the room was ready for paper.
 
 Thessaly spoke first because that was her job when the room needed structure. "Passive posture holds. Reing 3 handshake nominal. Emitter discipline intact. Dominion traffic: no search-pattern spike. Remaining days: several, if authorized."
 
@@ -2920,7 +2907,7 @@ Daria Kovat knelt in the small garden plot behind the apartment block and showed
 
 Five days to the harvest festival if rotation held.
 
-Rain had passed through in the morning and left the air clean in the way District Nine air became clean when stone dried. Children ran in the courtyard beyond the garden wall. Someone practiced chorus lines off-key. Ordinary volume.
+Rain had passed through in the morning and left the air clean when stone dried. Children ran in the courtyard beyond the garden wall. Someone practiced chorus lines off-key.
 
 Neighbor Pelka leaned on the fence with tea in a tin cup. "Your greens are showing off."
 
@@ -2932,7 +2919,7 @@ Nika made a face. "They're plants."
 
 Pelka's grandson ran past the courtyard gate chasing a ball with the fearless energy of eight. Pelka did not shout. Dominion courtyards taught children volume and restraint in the same afternoon.
 
-They talked weather. Transit delays. Wool coat prices. Whether the examination tutor was worth the fee. Whether the stall permit office would survive the autumn festival without someone filing a complaint in triplicate.
+They talked weather. Transit delays. Wool coat prices. Whether the examination tutor was worth the fee. Whether the stall permit office would survive the harvest festival without someone filing a complaint in triplicate.
 
 Someone mentioned memorial flowers on Transit Spine Four— fresh cups, old names. Someone else mentioned choir rehearsal running late.
 
@@ -3100,7 +3087,7 @@ Judgment did not.
 
 He had returned to the frontier as an observer— not punishment, not reinstatement, assignment. Petrov's scatter plots needed eyes that had stood at the trial engagement and remembered what passive hold felt like when an envelope failed.
 
-Months of border data layered on the display— seven-alpha, nine-beta, Kessik feeders, variance flags, faint returns, debris hypotheses, timing offsets that refused to die when watched correctly.
+Months of border data layered on the display— K-17, K-12, Kessik feeders, variance flags, faint returns, debris hypotheses, timing offsets that refused to die when watched correctly.
 
 Analysts worked quietly. Tea cooled. District festival banners visible in the lower district beyond the rain. Handwritten notes in margins from warrants on earlier shifts— *check calibration*, *weather or contact*, *file exactly*— the institutional memory of a border watched the way yards watched welds: continuously, without drama.
 
@@ -3204,7 +3191,7 @@ Halden: "Threat exposure stacks on the burn home. Conservative vectors reduce cr
 
 He moved on. They returned to the coupling without watching him go.
 
-The communications alcove was brighter— Jun Park at a console with segment seven threads arranged in labeled stacks, then copied, then copied again. Triple redundancy. Segregated lanes. Thessaly's report— bands intact, no euphemism— lived here too, beside listen watch summaries and correlation strips and the quiet persistence of a man who believed losing data was worse than losing sleep.
+The communications alcove was brighter— Jun Park at a console with segment seven threads arranged in labeled stacks, then copied, then copied again. Triple redundancy. Separate routing lanes. Thessaly's report— bands intact, no euphemism— lived here too, beside listen watch summaries and correlation strips and the quiet persistence of a man who believed losing data was worse than losing sleep.
 
 On the secondary display, low volume, Dana Holt sat asleep at her watchpost console— nineteen years of shifts visible in the stillness of her shoulders, someone's blanket draped careful not to touch the mic. Priya Nand had done that, probably. Park kept the lane open without waking her. He did not look up when Calder paused.
 
@@ -3216,7 +3203,7 @@ Calder continued.
 
 The galley smelled of reheated stew and institutional coffee gone bitter.
 
-Two junior ratings Calder did not interrupt— mess duty, low voices, the ordinary democracy of a small ship.
+Two junior ratings Calder did not interrupt— mess duty, low voices, leftovers between them.
 
 "Brenner doesn't hear the ship," one said.
 
@@ -3252,7 +3239,7 @@ Silence.
 
 The scrubbers cycled.
 
-Ortega's loop murmured— ordinary traffic, ordinary discipline, ordinary routine in someone else's inheritance.
+Ortega's loop murmured— controller acknowledgments, maintenance window updates, a delayed ore hauler accepting a new ETA.
 
 Thessaly nodded.
 
@@ -3290,7 +3277,7 @@ Then he let go.
 ***THE DOMINION — STRATEGIC SECURITY DIRECTORATE***  
 THE LAST COMPARISON
 
-Morning arrived with rain on the arcade glass and autumn festival banners finally taut— gold thread, music from the lower plaza, the ordinary volume of a civilization celebrating itself without asking permission from the border.
+Morning arrived with rain on the arcade glass and harvest festival banners finally taut— gold thread, music from the lower plaza, stall permit arguments already underway.
 
 Director-General Lev Stratimirov opened Major Petrov's packet.
 
@@ -3300,7 +3287,7 @@ Not thirty-one.
 
 Petrov stood at the table's far edge with tea untouched and the controlled posture of a man presenting numbers that would not become orders yet.
 
-"Routine summary," he said, because routine was how you filed the extraordinary until it earned a name. "Border nodes, maintenance corridors, passive archives. Regional Transportation Directorate reports corridor normalization on seven-alpha and nine-beta. Border stations report nothing extraordinary. Science Directorate reports improved cloak stability in marginal hold— bench plus margin approaching satisfaction, field trial timeline still withheld."
+"Routine summary," he said. "Border nodes, maintenance corridors, passive archives. Regional Transportation Directorate reports corridor normalization on the K-17 spine and Helikon feeder lane. Border stations report nothing extraordinary. Science Directorate reports improved cloak stability in marginal hold— bench plus margin approaching satisfaction, field trial timeline still withheld."
 
 Stratimirov studied the overlay.
 
@@ -3322,13 +3309,11 @@ Petrov did not reach for drama. "Still no proof. Still persistent trespass hypot
 
 Silence.
 
-Rain. Banners. Clerks arguing about stall permits in the arcade as if the border were a scheduling problem and history were a thing that happened to other people's plaques.
+Rain. Banners. Clerks arguing about stall permits in the arcade while post-festival congestion models updated on a secondary display.
 
-Stratimirov looked at the scatter plot one last time in the mode of a man who understood that more data could be purchased only with time the border might not grant.
+Stratimirov looked at the scatter plot one last time. Additional observation would refine the record, but not change the authorized response.
 
-Professionals sometimes stopped gathering because more data no longer changed the decision.
-
-They continued watching because watching was the decision.
+They continued watching. Watching was the authorized response.
 
 "We have reached the limit of observation," Stratimirov said quietly.
 
@@ -3376,7 +3361,7 @@ Morning watch.
 
 No speeches.
 
-Damon Reyes updated navigation— home vectors, conservative burn, crossing windows chosen for traffic humility— while Ari Halden adjusted engine bands until correction-thrust fraction held without complaint. The *Kestrel* complained anyway— a vibration in Reing 3 Calder had learned to hear as mood rather than malfunction. Yuki Tanaka confirmed emitters dark for the third time since watch turnover; Felix Ortega noted passive returns with the discipline of a man who knew listening did not end when course changed. Elara Koss had the engine room on correction-thruster stewardship— not heroic, ancestral, the way Koss treated machines that kept people alive.
+Damon Reyes updated navigation— home vectors, conservative burn, crossing windows chosen for traffic humility— while Ari Halden adjusted engine bands until correction-thrust fraction held without complaint. The *Kestrel* complained anyway— a vibration in Reing 3 Calder had learned to treat as signature rather than fault. Yuki Tanaka confirmed emitters dark for the third time since watch turnover; Felix Ortega noted passive returns and kept the listen window open after course change. Elara Koss had the engine room on correction-thruster stewardship— certification passes, heat bands, the same care she gave any system that kept people alive.
 
 Calder Venn stood at the rail and watched familiar routes begin to disappear behind the *Kestrel Veil*.
 
@@ -3434,13 +3419,7 @@ Reyes called lane crossing in six minutes— passenger cluster coreward, gap for
 
 "Gap's there," Brenner said.
 
-He watched a relay core they'd dated as centuries old slide aft and felt the melancholy of leaving a library before finishing every shelf.
-
-Relief lived in the same chest.
-
-So did respect.
-
-Bittersweet satisfaction— the emotion of a mission completed without victory and without defeat.
+He watched a relay core they'd dated as centuries old slide aft— undated fully, catalogued incompletely, already leaving the listen window.
 
 Mira Thessaly joined him at the rail for a moment without speaking.
 
@@ -3458,7 +3437,7 @@ Brenner made a correction burn so small Calder would not have felt it without th
 
 "Stay polite," Calder said.
 
-The *Kestrel Veil* withdrew along the corridor the way professionals withdrew— without illumination, without announcement, without forcing first contact because first contact was a thing nations chose or failed to choose, not a thing scouts triggered by lingering one day too many.
+The *Kestrel Veil* withdrew along the corridor without illumination and without announcement— emitters dark, no open broadcast, correction thrust only.
 
 Jun Park keyed each leg departure into message threads tagged *segment seven — witness archive*; Marcus Hale ran rotation without jokes because jokes during departure felt like disrespect to a corridor that had taught them restraint; Yuki Tanaka ran emitter checks on schedule— dark, confirmed.
 
@@ -3480,11 +3459,11 @@ The harvest festival began the way it always began— with children too loud and
 
 Daria Kovat had leave approved at last— four-beta with delay probable, which meant she would make Nika's performance if the transit gods permitted and apologize with sweets if they did not.
 
-The plaza was gold thread and ordinary stone.
+The plaza was gold thread and wet stone.
 
 Rain had passed through at dawn and left the banners sharp.
 
-Music from the central stage— chorus lines imperfect, earnest, the sound of a civilization teaching sacrifice without conquest because conquest was what other people called it when sacrifice succeeded.
+Music from the central stage— chorus lines imperfect, earnest, volume rising on the rest measures Teacher Marin would trim later.
 
 Stall permits had become arguments and then compromises.
 
@@ -3504,13 +3483,13 @@ Children ran between stall rows.
 
 The festival week was not military.
 
-It was community proving it still knew how to celebrate continuity.
+It was rehearsal schedules, stall permits, and neighbors who still knew the same chorus.
 
 Kovat's secure slate vibrated once during the second chorus— routine observation summary, not emergency.
 
 She read without leaving her seat.
 
-Seven-alpha persistent return: diminished persistence. Border nodes: normalization within seasonal leave models. No new conclusions. Continue watching.
+K-17 persistent return: diminished persistence. Border nodes: normalization within seasonal leave models. No new conclusions. Continue watching.
 
 No breakthrough.
 
@@ -3590,7 +3569,7 @@ Typed again.
 
 *Opposing force* — misread routine traffic.
 
-She set the stylus down and rubbed her eyes the way executives rubbed eyes when the institution they served was not evil, only young.
+She set the stylus down and rubbed her eyes. The Fleet forms on the secondary display still asked for categories that did not fit the returns.
 
 Calder entered without ceremony.
 
@@ -3650,7 +3629,7 @@ Inference second.
 
 Questions third— deliberately left open.
 
-Fleet doctrine officially began changing through language— the medium that survived the months between a scout's return and an institution's formal response.
+Fleet forms still required boxes. Thessaly kept writing until the boxes followed the observations instead of the other way around.
 
 Thessaly typed a header at last:
 
@@ -3674,7 +3653,7 @@ Calder considered.
 
 "Listening occurred. Handshake did not. Illumination did not. Name exchange did not." Pause. "Technically."
 
-"Technically," Thessaly repeated, and wrote it down because technical truth was how professionals prevented institutions from rushing into myths.
+"Technically," Thessaly repeated, and logged it under *Limitations*— handshake absent, illumination absent, name exchange absent.
 
 She added a subsection header— *Limitations of Fleet Terminology*— and listed the words that had failed: enemy, unknown, border, frontier, first contact.
 
@@ -3683,14 +3662,6 @@ Calder read the list and said, "Add *empty*."
 Thessaly wrote *empty* down and underlined it once.
 
 She returned to the draft.
-
-Co-author of Fleet's future doctrine— not celebrated, not promoted, simply necessary.
-
-Hope lived in the draft too— not optimism, responsibility. If the report survived, Fleet might approach the next corridor with listening before labeling.
-
-If it did not survive, the *Kestrel* would still have witnessed.
-
-Either way, the doctrine would eventually catch up or be caught by history.
 
 Outside the executive office, the corridor hummed.
 
@@ -3704,11 +3675,11 @@ Rain on high glass.
 
 Handrails worn smooth.
 
-Tea cooling in cups analysts forgot while autumn festival traffic sang in the lower districts.
+Tea cooling in cups analysts forgot while harvest festival traffic sang in the lower districts.
 
 Commander Vex stood at the passive plot and watched probability fade.
 
-Returns that had persisted on seven-alpha diminished below confident comparison.
+Returns that had persisted on the Kessik feeder corridor diminished below confident comparison.
 
 Patterns that had aligned across thirty-two observations dissolved into holiday congestion models and normalization bands.
 
@@ -3790,7 +3761,7 @@ Halden reported Fleet pickup beacon in range in fourteen hours if they held burn
 
 The *Kestrel Veil* crossed back into Fleet space without announcement.
 
-Park's witness archive still carried one segregated lane Holt had not combined—checksum green, classification pending, waiting for Fleet to decide what the returns meant.
+Park's witness archive still carried one separate lane Holt had not combined—checksum green, classification pending, waiting for Fleet to decide what the returns meant.
 
 
 END ACT III

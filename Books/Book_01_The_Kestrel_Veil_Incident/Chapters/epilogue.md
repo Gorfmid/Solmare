@@ -6,13 +6,13 @@
 
 Morning at Fleet Academy arrived the way important things often did—on schedule, without asking permission to matter.
 
-**Ren Okada** had slept four hours in a bunk that still smelled like transport disinfectant and another person's ambition. She had grown up on a freight-adjacent station where *Fleet* meant the people who fixed corridor drift and filed the forms that kept drift from becoming crisis. She had not grown up with parade mornings or glass campuses or the particular Helion light that made even utilitarian architecture look like it had been designed by someone who believed in next century.
+Ren Okada had slept four hours in a bunk that still smelled like transport disinfectant and another person's ambition. She had grown up on a freight-adjacent station where *Fleet* meant the people who fixed corridor drift and filed the forms that kept drift from becoming crisis. She had not grown up with parade mornings or glass campuses or the particular Helion light that made even utilitarian architecture look like it had been designed by someone who believed in next century.
 
 She had tested in anyway.
 
 First-year orientation filled Lecture Hall Seven with two hundred forty-one bodies learning how to sit at attention without looking like they were performing attention for the first time. Ren's neighbor—a boy from core worlds who had already memorized berth codes—whispered that Strategic Studies was where careers went to become respectable. Ren wrote *respectable* in her margin and underlined it twice because underlining was what nervous people did when they could not underline their own pulse.
 
-Instructor **Captain Hale**—not famous, not young, the sort of face Fleet produced in quantity and promoted when quantity proved reliable—stood at the podium with a stack of manuals thick enough to bruise a knee.
+Instructor Captain Hale—not famous, not young, the sort of face Fleet produced in quantity and promoted when quantity proved reliable—stood at the podium with a stack of manuals thick enough to bruise a knee.
 
 "Primer distribution," Hale said. "Strategic Studies track. Take one. Sign the receipt. Do not lose the receipt. Fleet has survived wars; it has not survived cadets who lose receipts."
 
@@ -65,7 +65,7 @@ The people living through those decisions are the story.
 
 Ren read it twice.
 
-She did not know Edition 143 had ended on *conflict*. She did not know a scout captain had stood in segment seven and refused to simplify witness bands. She did not know an admiral had signed a fork annex without collapsing it. She did not know Communications had built an honesty column and Cartography had taught the sky to wear three honest faces.
+She did not know Edition 143 had ended on *conflict*. She did not know a scout captain had stood in segment seven and refused to simplify witness bands. She did not know an admiral had signed a unified contact framework while intent stayed unresolved. She did not know Communications had built an honesty column and Cartography had taught the sky to wear separate observation and inference layers.
 
 She knew the sentence sounded like something Fleet believed about itself—the way institutions wrote prayers in administrative font.
 
@@ -83,13 +83,13 @@ Someone in the back row asked, "Default for what environment, sir?"
 
 Good question. Ren wished she had asked it.
 
-Hale did not sigh. "Conditional doctrine. Edition 144 keeps parallel classification branches—mission environment tags, branches forked until evidence or Operations orders collapse. You won't get one box that pretends the frontier is simple. You'll get labels. Use them honestly."
+Hale did not sigh. "Contact doctrine. Edition 144 gives you one operational framework—approach as if contact is possible, prepare as if capability matters, do not assign intent without evidence. You'll get observation and inference tags. Use them honestly. The frontier is not one box."
 
 Ren wrote: *tags not one box*.
 
-She did not know what a branch was yet.
+She did not know what a witness band was yet.
 
-She would learn A, B, and C before midterms and still not know which one Fleet was—because Fleet, under 144, had stopped asking cadets to pretend singularity was maturity.
+She would learn observation discipline before midterms and still not know what waited beyond seven-alpha—because Fleet, under 144, had stopped asking cadets to pretend singularity was maturity.
 
 "Incomplete knowledge," Hale said. "Respect for it. Not romance. Not paralysis. Fleet does not reward officers who erase contradiction because contradiction is uncomfortable. Fleet rewards officers who preserve witness bands, route inference by context, and do not brighten the sky because they are bored."
 
@@ -109,7 +109,7 @@ Ren's notes filled half a page:
 
 *observation first*  
 *restraint under uncertainty*  
-*conditional doctrine / tags*  
+*contact doctrine / tags*  
 *incomplete knowledge preserved*  
 *do not erase contradiction*
 
@@ -151,6 +151,55 @@ Fade was not a word Hale used.
 Fade was what happened when institutions absorbed truth slowly enough to call it curriculum.
 
 History had already become curriculum.
+
+---
+
+***FLEET HISTORICAL OFFICE — COMPARISON ANNEX***  
+*LATE ROUTING*
+
+Three weeks after Edition 144 reached training desks, Soraya Ellis reopened a queue she had noted months earlier and never had cause to prioritize.
+
+Maris Chen. Cartography Division. Meridian Gate. Founders' Week eve. Priority draft incomplete—sections one and two filed, section three blank, biometric transmission never authorized. Cause of death: medical event, routine filing. Queue hygiene had buried the packet behind holiday traffic summaries within the hour.
+
+Ellis did not dramatize reopening. She compared.
+
+Maris's correlation map against Okoye's epoch redlines. Against Calder's certified segment seven witness bands. Against Holt's Kestrel Veil encounter chain. Against the fringe relay return Park had logged on egress—source unresolved, structure unmappable, origin empty.
+
+The overlays did not collapse into a single answer.
+
+They aligned on a narrower conclusion Ellis could sign without inventing prophecy:
+
+Segment Seven's accepted model had been incomplete before the *Kestrel Veil* crossed it.
+
+Before structured contact acknowledgment.
+
+Before the energy flash Ortega could not attribute.
+
+Before Fleet knew to ask the second question.
+
+Maris had not found an enemy. She had found the first contradiction—the map refusing to agree with itself while every individual return still passed validation.
+
+Ellis added a custody cross-reference to the Chen packet, changed its category from *routine archival* to *antecedent unresolved*, and routed a comparison brief to Operations tier with no press flag and no recommendation for public language.
+
+Admiral Rowan received it on his evening read stack between a refit authorization and a border liaison summary he would not finish tonight.
+
+He read the header twice.
+
+*Antecedent unresolved — Segment Seven baseline divergence (Chen, M.) — predates Kestrel encounter.*
+
+He did not know what had caused Maris's offsets. He did not know who had sent the fringe relay traffic. He did not know who had fired in Alpha Seven volume.
+
+He knew the map had been wrong before anyone had permission to say so out loud.
+
+Rowan filed the brief beside the unified doctrine authorization—not answer, inheritance. He wrote one line on the routing slip for his morning staff:
+
+*Preserve witness separation. Do not reconcile antecedent file into single narrative.*
+
+The world continued. Helion traffic held its lanes. In Lecture Hall Seven, a primer waited on a desk for a cadet who had chosen chili over paperwork.
+
+The Chen packet kept its new category.
+
+Rowan turned to the next brief on the stack.
 
 ---
 

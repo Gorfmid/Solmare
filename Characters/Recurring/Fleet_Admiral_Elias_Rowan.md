@@ -77,5 +77,5 @@ Short declarative sentences. No rank-per-sentence. *"What do we know?"* *"What d
 ## DO NOT
 
 - Make him omniscient about Leviathan/Vex identity
-- Give him Maris Chen's buried report in Ch. 7
+- Give him Maris Chen's report in Ch. 7 (antecedent brief reaches Rowan post–Book One via Ellis comparison work, epilogue)
 - Use him for exposition dumps—decisions only

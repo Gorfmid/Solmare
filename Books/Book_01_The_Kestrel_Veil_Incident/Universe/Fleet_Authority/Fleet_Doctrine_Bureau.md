@@ -39,9 +39,7 @@ Thessaly's report bypasses their headers. Act IV forces:
 
 - Emergency working groups on *non-declared civilization contact*
 - ROE debate (Ch. 18 roadmap)
-- Whether to issue Edition 144 before Fleet finishes arguing
-
-Book One may end with the **first visible edition change**— not a finished manual, a direction.
+- **First Doctrine adopted** (Ch. 21); Edition 144 primer **documents and teaches** the framework (epilogue)
 
 ---
 

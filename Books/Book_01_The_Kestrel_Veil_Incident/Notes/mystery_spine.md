@@ -28,7 +28,7 @@ Every chapter must either:
 
 **Must resolve by Ch. 24:** structured opposing force acknowledged at strategic level; Fleet doctrine shift; Incident + border intelligence synthesized into actionable record.
 
-**May remain open:** full enemy intent; Collectives war timeline; series-scale cosmology.
+**May remain open:** contact civilization intent; third-source identity; Segment Seven map cause; series-scale cosmology.
 
 Full doctrine: `../../../Writing_System/Series_Principles/series_principles.md`
 

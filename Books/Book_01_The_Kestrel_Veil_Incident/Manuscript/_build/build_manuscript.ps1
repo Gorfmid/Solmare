@@ -174,6 +174,8 @@ function Build-ManuscriptContent {
         [int]$ChapterEnd,
         [switch]$IncludePrologue,
         [switch]$IncludeEpilogue,
+        [switch]$IncludeAppendix,
+        [switch]$IncludeAboutAuthor,
         [hashtable]$ArchiveMap,
         [ref]$TotalWords,
         [System.Collections.Generic.List[object]]$ChapterStats,
@@ -227,6 +229,32 @@ function Build-ManuscriptContent {
             [void]$sb.Append("`n`n\newpage`n`n")
             [void]$sb.Append($epilogueConverted.TrimEnd())
             Write-Host "Included epilogue: $epilogueFile ($epilogueWords words)"
+        }
+    }
+
+    if ($IncludeAppendix) {
+        $appendixFile = Join-Path (Join-Path $bookRoot 'Appendix') 'book_one_appendix.md'
+        if (Test-Path $appendixFile) {
+            $appendixRaw = Get-Content $appendixFile -Raw -Encoding UTF8
+            $appendixConverted = Convert-Appendix -Content $appendixRaw
+            $appendixWords = ($appendixConverted | Measure-Object -Word).Words
+            $TotalWords.Value += $appendixWords
+            [void]$sb.Append("`n`n\newpage`n`n")
+            [void]$sb.Append($appendixConverted.TrimEnd())
+            Write-Host "Included appendix: $appendixFile ($appendixWords words)"
+        }
+    }
+
+    if ($IncludeAboutAuthor) {
+        $aboutFile = Join-Path (Join-Path $bookRoot 'About') 'about_the_author.md'
+        if (Test-Path $aboutFile) {
+            $aboutRaw = Get-Content $aboutFile -Raw -Encoding UTF8
+            $aboutConverted = Convert-AboutAuthor -Content $aboutRaw
+            $aboutWords = ($aboutConverted | Measure-Object -Word).Words
+            $TotalWords.Value += $aboutWords
+            [void]$sb.Append("`n`n\newpage`n`n")
+            [void]$sb.Append($aboutConverted.TrimEnd())
+            Write-Host "Included about the author: $aboutFile ($aboutWords words)"
         }
     }
 
@@ -711,6 +739,86 @@ function Convert-Epilogue {
     return Convert-FrontMatterSection -Content $Content -Heading 'Epilogue' -CssClass 'epilogue'
 }
 
+function Convert-Appendix {
+    param([string]$Content)
+
+    $normalized = $Content -replace '\.\./Manuscript/assets/', 'assets/'
+    $normalized = $normalized -replace '\.\./\.\./Manuscript/assets/', 'assets/'
+    $lines = $normalized -split "`r?`n"
+
+    $bodyStart = 0
+    for ($i = 0; $i -lt $lines.Count; $i++) {
+        if ($lines[$i] -match '^#\s+APPENDIX\s*$') {
+            $bodyStart = $i + 1
+            continue
+        }
+        if ($bodyStart -gt 0 -and $lines[$i] -match '^#\s+The Kestrel Veil Incident') {
+            $bodyStart = $i + 1
+            break
+        }
+    }
+
+    while ($bodyStart -lt $lines.Count) {
+        $line = $lines[$bodyStart]
+        if ([string]::IsNullOrWhiteSpace($line) -or $line -match '^---\s*$') {
+            $bodyStart++
+            continue
+        }
+        break
+    }
+
+    $bodyLines = Convert-PublicationBody -Lines $lines[$bodyStart..($lines.Count - 1)]
+    $em = [char]0x2014
+    $header = "# Appendix $em Reference Supplement {.appendix}"
+    $body = ($bodyLines -join "`n").TrimEnd()
+    if ([string]::IsNullOrWhiteSpace($body)) { return $header }
+    return "$header`n`n$body"
+}
+
+function Convert-AboutAuthor {
+    param([string]$Content)
+    return Convert-FrontMatterSection -Content $Content -Heading 'About the Author' -CssClass 'about-author'
+}
+
+function Write-AppendixMarkdownFile {
+    param([ref]$TotalWords)
+
+    $appendixFile = Join-Path (Join-Path $bookRoot 'Appendix') 'book_one_appendix.md'
+    $aboutFile = Join-Path (Join-Path $bookRoot 'About') 'about_the_author.md'
+    $appendixOut = Join-Path $outDir 'Appendix_Reference_Supplement.md'
+
+    if (-not (Test-Path $appendixFile)) {
+        Write-Warning "Appendix source not found: $appendixFile"
+        return
+    }
+    if (-not (Test-Path $aboutFile)) {
+        Write-Warning "About-the-author source not found: $aboutFile"
+        return
+    }
+
+    $appendixConverted = Convert-Appendix -Content (Get-Content $appendixFile -Raw -Encoding UTF8)
+    $aboutConverted = Convert-AboutAuthor -Content (Get-Content $aboutFile -Raw -Encoding UTF8)
+    $combined = ($appendixConverted.TrimEnd() + "`n`n\newpage`n`n" + $aboutConverted.TrimEnd())
+    $appendixWords = ($combined | Measure-Object -Word).Words
+    $TotalWords.Value = $appendixWords
+
+    $em = [char]0x2014
+    $appendixYaml = @"
+---
+title: "The Kestrel Veil Incident"
+subtitle: "Book One of The Solmare Cycle $em Appendix $em Reference Supplement"
+author: "K.W. Abbott"
+lang: en-US
+rights: "Copyright (c) K.W. Abbott. All rights reserved."
+description: "Book One reference supplement. Fleet Historical Office operational summary."
+---
+
+"@
+    $appendixText = Fix-EmphasisApostrophes ($appendixYaml + $combined)
+    [System.IO.File]::WriteAllText($appendixOut, $appendixText, [System.Text.UTF8Encoding]::new($true))
+    Write-Host "Created appendix markdown: $appendixOut ($appendixWords words)"
+}
+
 function Repair-EpubNavigation {
     param([string]$EpubPath)
 
@@ -916,6 +1024,8 @@ $sb = Build-ManuscriptContent `
     -ChapterEnd 24 `
     -IncludePrologue `
     -IncludeEpilogue `
+    -IncludeAppendix `
+    -IncludeAboutAuthor `
     -ArchiveMap $archiveMap `
     -TotalWords ([ref]$totalWords) `
     -ChapterStats $chapterStats `
@@ -927,6 +1037,9 @@ $masterText = Fix-EmphasisApostrophes ($yaml + $sb.ToString())
 Write-Host "Created master markdown: $masterMd"
 
 Write-ActMarkdownFiles -ArchiveMap $archiveMap
+
+$appendixWords = 0
+Write-AppendixMarkdownFile -TotalWords ([ref]$appendixWords)
 
 $resourcePath = "$buildDir;$outDir"
 $env:Path = [System.Environment]::GetEnvironmentVariable("Path", "Machine") + ";" + [System.Environment]::GetEnvironmentVariable("Path", "User")

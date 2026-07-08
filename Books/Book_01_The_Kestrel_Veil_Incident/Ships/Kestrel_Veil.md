@@ -104,7 +104,7 @@ Knows her better than anyone alive. Door kicks, correction-thruster negotiations
 Maintain and interpret. Koss: religion of couplers, logged insults, *patched not repaired*, four-hour Reing 3 sign-off discipline. Halden: band charts, infrastructure dating, engine bands for correction-thrust fraction.
 
 ### Jun Park (Communications / buffers)
-Preserves what she records— segment seven triple redundancy; segregated Holt lane; correlation integrity. Ch. 15: archives live beside ugly honest report.
+Preserves what she records— segment seven triple redundancy; separate VI-Gamma custody lane; correlation integrity. Ch. 15: archives live beside ugly honest report.
 
 ### Mira Thessaly (Executive Officer)
 Turns observations into doctrine— report architect; ship's data becomes Fleet grammar struggle. Covers bridge when Calder walks the hull.

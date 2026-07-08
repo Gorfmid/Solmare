@@ -11,7 +11,7 @@
 
 Human witness to the Ch. 5 engagement from outside the contact geometry. Represents institutional observation without full context—competent, cautious, permanently incomplete.
 
-**Book One architecture (4-act):** By Ch. 8, Holt/Nand are **active communication bridge participants** in the Kestrel/Fleet comms chain. Act III–IV elevate this relay role strategically (Ch. 17+).
+**Book One architecture (4-act):** By Ch. 8, Holt/Nand are **active communication bridge participants** in the Kestrel/Fleet comms chain. Ch. 17+: **Communications Command** at Fleet-side Validation Bay — VI-Gamma chain validation, separate custody lanes, incident-window routing (not shipboard comms officer).
 
 **Act III expansion:** See `Act_Outlines/act3_dominion_worldbuilding.md` — rotate Dominion POV beyond HQ; Stratimirov represents Directorate, not entire civilization.
 
@@ -118,9 +118,19 @@ Human witness to the Ch. 5 engagement from outside the contact geometry. Represe
 
 - Watches *Veil* limp in after void on board—**return on passive**; restrained relief; *no ceremony*
 - Coordinates Cho six-hour emergency berthing; *Treat them like people who shouldn't be alive and are anyway*
-- **Park/Dana:** secondary relay bay; unsent messages; void did not change when she looked; personal lane headers kept segregated from Fleet summary writers
+- **Park/Dana:** secondary relay bay; unsent messages; void did not change when she looked; personal lane headers kept **separate** from Fleet summary writers
 - Last warm voice before static for Park; *Don't be an idiot* / *Try harder*; signal drops on confirm cycle—not drama
 - Stays at board after departure; Nand marks relay loss; personal lane closed; sweep continues
+
+---
+
+## CH. 17+ CANON (LOCKED)
+
+- **Communications Command**, Fleet Validation Bay — eleven days holding incident window at Book One open of Act IV
+- Routes raw archive to Historical Office; department comments stay on packet; executive synthesis pending
+- Chain validation: relay times, **separate lanes**, destruction-assessment correction history
+- Custody confirmations on Rowan executive summary with Park, Nand, Thessaly attachments
+- **Not** shipboard communications officer — Fleet-side validation and routing through VI-Gamma relay history
 
 ---
 

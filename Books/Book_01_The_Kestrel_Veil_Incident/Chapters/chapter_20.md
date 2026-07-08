@@ -180,7 +180,7 @@ She copied the old record into the archive band with date stamp and witness cita
 
 *Edition 143 public historical map notation — seven-alpha provisional low occupancy — superseded by certified observation, Strategic Review Board proceeding.*
 
-She added a cross-reference line for a queue she would deepen later—contradictory occupancy returns, archivist name Maris Chen, filed as routine. Not connected today. Noted today.
+She added a cross-reference line for a queue she would deepen later—contradictory occupancy returns, analyst Maris Chen, Meridian Gate, priority draft incomplete on Founders' Week eve, filed as routine after assessor death. Not connected today. Noted today.
 
 She did not pull the old slide from the working set. The prior notation still governed the public display band until the revised slide mounted beside it.
 

@@ -80,7 +80,7 @@ Reyes states sector, array lead, duration. Koss confirms hardware window. Halden
 Park announces inbound fleet windows. Crew not on watch may gather for non-urgent inbound—morale tether to fleet.
 
 ### Segregated Buffer Acknowledgment
-When logs or data cannot merge, Koss or Park says **"Segregated, not lost."** Meaning: we are not ignoring contradiction; we are refusing false unity.
+When logs or data cannot reconcile, Koss or Park says **"Separate, not lost."** Meaning: we are not ignoring contradiction; we are refusing false unity.
 
 ---
 
@@ -96,7 +96,7 @@ Captain's cycle sign-off: Dennett read a paragraph from old fleet recon memoirs.
 
 | Condition | Behavior |
 |-----------|----------|
-| Sensor contradiction | Reyes parallel buffers; Koss hardware check; no merge |
+| Sensor contradiction | Reyes parallel buffers; Koss hardware check; separate custody, no false combine |
 | Relay degradation | Park buffers all outbound; local logging mandatory |
 | Cohesion strain (Park/Thessaly flag) | Thessaly enforces rest cycles; Halden stops humor |
 | Captain decision pending | Senior officers present recommendations once; do not lobby sequentially |
@@ -138,7 +138,7 @@ If data lost but crew safe: Koss treats as engineering failure; Reyes as profess
 
 ## Unwritten Rules
 
-1. **Do not merge incompatible truth.** Segregate. Report. Decide.
+1. **Do not combine incompatible truth.** Separate custody. Report. Decide.
 2. **Do not perform confidence for the captain.** Report what is verified.
 3. **Off-watch arguments stay off-watch** unless they affect certification or safety.
 4. **The XO's rest-cycle orders are medical, not personal.**
@@ -176,4 +176,4 @@ Six senior officers plus eight named support crew. Full roster: `support_crew.md
 
 Park knows all their names and birthdays (except Calder's—Brenner's birthday Park knows; Calder's he forgets). Thessaly knows Walsh's watch notebook is better than the official schedule. Koss knows Sharma's certification status by heart.
 
-Support crew adopts senior officers' segregated-buffer discipline during Book One events—culture propagates downward through procedure, not speeches.
+Support crew adopts senior officers' separate-buffer discipline during Book One events—culture propagates downward through procedure, not speeches.

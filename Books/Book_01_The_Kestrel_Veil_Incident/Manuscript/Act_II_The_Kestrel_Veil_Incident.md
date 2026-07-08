@@ -1,6 +1,6 @@
 ﻿---
 title: "The Kestrel Veil Incident"
-subtitle: "Book One of The Solmare Cycle — Act II â€” The Kestrel Veil Incident"
+subtitle: "Book One of The Solmare Cycle â€” Act II â€” The Kestrel Veil Incident"
 author: "K.W. Abbott"
 lang: en-US
 rights: "Copyright (c) K.W. Abbott. All rights reserved."
@@ -18,7 +18,7 @@ description: "Book One of The Solmare Cycle. Act II â€” The Kestrel Veil In
 
 Relay rendezvous closed without ceremony.
 
-Park released the secondary buffer manually—the early acknowledgment from Kestran IV-Alpha still flagged in a separate column, filed the way mid-cycle duplicates had been: observed, segregated, not combined until the relay window gave them a reason. Reyes logged the approach solution; Koss certified regulator hold for the mapping leg. Calder recorded patrol cycle continuation and the *Veil* slid back onto the outer Kestran Spiral loop as if nothing had interrupted it.
+Park released the secondary buffer manually—the early acknowledgment from Kestran IV-Alpha still flagged in a separate column, filed the way mid-cycle duplicates had been: observed, separate, not combined until the relay window gave them a reason. Reyes logged the approach solution; Koss certified regulator hold for the mapping leg. Calder recorded patrol cycle continuation and the *Veil* slid back onto the outer Kestran Spiral loop as if nothing had interrupted it.
 
 The environmental thrum held its patrol note. Tanaka's dice clicked once when vector four corrected. Somewhere aft, Brenner kicked a door.
 
@@ -36,9 +36,9 @@ Between Mission +02:00 and Mission +03:00 the mapping sweep settled into the rhy
 
 Park transmitted a mapping progress stub at Mission +02:50—mandate data only, no contact, no variance—with Cole confirming relay buffer clearance before the packet left. Calder signed. The mandate required it, and refusing would have accomplished nothing. Okwelu sent a watch-rest summary to Thessaly; Thessaly sent Calder a single line on the medical channel: *Hydrate.* He found a cup somewhere aft and drank it without tasting it. Brenner reported a passive feed calibration on the port long-range array—green, one adjustment, green again—and Koss logged it against Dennett's pre-departure checklist. Nobody on the command deck reacted. That was the point of green checks.
 
-Calder ate what Park left on the console ledge because skipping it would have been noticed. He ate standing up. Thessaly saw. She did not comment.  The pastry was rich and buttery, not like his aunts, but good non the less.
+Calder ate what Park left on the console ledge because skipping it would have been noticed. He ate standing up. Thessaly saw. She did not comment.  The pastry was rich and buttery, not like his aunt's, but good nonetheless.
 
-He thought he almost understood how Dennett had run this ship. Then the thought slipped and he realized that it was way to early to make that judgement.
+He thought he almost understood how Dennett had run this ship. Then the thought slipped and he realized it was too early to make that judgment.
 
 The mapping sweep continued through the last quiet minutes before contact—arc seven completing, arc eight staging, the border advisory sitting low in Park's queue where it had sat since Helion Prime. Calder reviewed the sector chart once more on his slate: sparse traffic, old survey lines, nothing that required him to change posture before Mission +03:00. Reyes called a vector correction; Tanaka's dice clicked; Halden marked another ghost trace *non-event*. The command deck breathed the way it breathed when nothing was wrong yet—routine as infrastructure.
 
@@ -85,15 +85,19 @@ Ortega, Reyes, and Halden acknowledged. Koss checked in from engineering. "Tacti
 
 "Noted," Calder said.
 
+Park left the contact flags on the local shelf. Upstream still held the mapping stub only—incomplete contact would write the wrong conclusion on someone's board before the return finished existing.
+
 The sweep extended. The fragment did not repeat on the same line.
 
 Ortega checked array calibration—drift within spec. "Array is fine," he said. "Return is not."
 
-Halden adjusted ranging sensitivity down two steps, then back up one—finding the edge where noise stopped and signal might start. Reyes trimmed the occlusion overlay by a fraction of a degree where margin marks disagreed with Fleet's published boundary. Tanaka continued arc nine staging without pause; Walsh passed through the aft corridor on stores count; Cole kept secondary comms timed against relay buffer windows. The contact held everyone's attention, but the Veil continued doing everything else it was built to do
+Halden adjusted ranging sensitivity down two steps, then back up one—finding the edge where noise stopped and signal might start. Reyes trimmed the occlusion overlay by a fraction of a degree where margin marks disagreed with Fleet's published boundary. Tanaka continued arc nine staging without pause; Walsh passed through the aft corridor on stores count; Cole kept secondary comms timed against relay buffer windows. The contact held everyone's attention, but the Veil continued doing everything else it was built to do.
 
 Four extended passes followed—fragment, closer lines, broken coherence, staggered returns. Brenner cross-checked engineering passive between second and third: feed stable when Ortega saw the line, stable when Ortega saw absence.
 
 Calder watched each pass add a line to Ortega's columns without adding a track. Attempt, fragment, loss, adjust, attempt again. Iteration, not failure.
+
+Walsh paused at the aft hatch long enough to read posture, not the board. Reyes had not rotated since the first fragment. Walsh marked the watch clock on his slate and did not interrupt.
 
 On the fifth extended pass—twelve minutes after the first fragment—Ortega got two lines that held long enough for Halden to call formation.
 
@@ -183,6 +187,10 @@ Reyes filed the interval—formation time, hold duration, degradation curve. Hal
 
 Calder marked the cycle: close, then gone. Not failure. Repetition.
 
+On Ortega's board the water pouch sat unopened. Curiosity had become work without anyone announcing the change.
+
+Thessaly opened observation and inference bands on her slate before anyone asked for a packet—same bearing, different shelf.
+
 They did not stop. Partial returns were not permission to freeze the deck.
 
 Over the next hour the bearing stayed hot while mapping continued on the port side. Halden cycled ranging modes; Park and Cole ran staggered comms sweeps; Ortega filed every fragment separate. Partial locks formed and degraded in seconds—six, eight, trending longer, never long enough for Fleet's contact packet.
@@ -227,7 +235,7 @@ No one laughed. The line landed anyway.
 
 Cole leaned toward Park without breaking her secondary watch. "Border advisory still low in your queue."
 
-"Still low," Park said. "Separate buffers. Not merging."
+"Still low," Park said. "Separate buffers. Not merging. Observed stays observed until composite holds."
 
 Calder noted the exchange and did not intervene.
 
@@ -250,6 +258,10 @@ Thessaly joined Calder at the display margin—close enough to see, not close en
 She left before he could answer.
 
 Calder noted it operationally: tracking effort correlated with reposition or loss—not fleeing, adjusting visibility relative to our patrol position. Not proof of intent. Recurrence sufficient for caution.
+
+"Walsh—fifteen-minute rotation on secondary when Cole can hand off without dropping timing," Calder said.
+
+Walsh nodded once from the hatch and left to walk the exchange. No speech. Crew endurance was still a command variable.
 
 Park transmitted the late-cycle mapping stub—mandate data only, contact supplemental kept apart. The patrol clock advanced. The bearing stayed hot.
 
@@ -336,7 +348,7 @@ Calder: "Deploy passive probe. Convergence on bearing. Log only."
 
 Koss: "Prepping launch. Stabilization check first."
 
-The probe prep took longer than Calder expected—not delay, procedure. Brenner ran pre-launch telemetry on the disposable relay; Koss certified launch tube pressure; Ortega verified the composite column had a dedicated probe channel that would not combine with ship passive. Halden ran tactical lag baseline against the probe's expected trajectory while Reyes plotted convergence against patrol spacing limits—minimum deflection, maximum closure without breaking mandate corridor. Park and Cole synchronized comms buffer timing so probe telemetry would not collide with relay traffic on the secondary channel. Tanaka kept mapping arc eleven staging on the port side. Walsh passed through once with a stores strip, saw Koss prepping launch, and diverted aft without crossing the command deck.
+The probe prep took longer than Calder expected—not delay, procedure. Brenner ran pre-launch telemetry on the disposable relay; Koss certified launch tube pressure; Ortega verified the composite column had a dedicated probe channel that would not combine with ship passive. Halden ran tactical lag baseline against the probe's expected trajectory while Reyes plotted convergence against patrol spacing limits—minimum deflection, maximum closure without breaking mandate corridor. Park and Cole synchronized comms buffer timing so probe telemetry would not collide with relay traffic on the secondary channel. Tanaka kept mapping arc eleven staging on the port side. Walsh passed through once with a stores strip, saw Koss prepping launch, and diverted aft without crossing the command deck. In the corridor he keyed trauma kit status to ready and left the kit locker unlatched—clinical, not dramatic.
 
 "Tube green," Koss said.
 
@@ -360,7 +372,7 @@ Brenner: "Telemetry still clean. Gain nominal. Bearing locked."
 
 "Hold," Calder said.
 
-The thinning was gradual—not cut, not decay curve, wrong shape, as Brenner would say later. Segments of cross-section dropping out and returning on irregular intervals while teh probe position telemetry stayed solid. Ortega logged fragment intervals—present four seconds, absent eleven, present six, absent nineteen. Halden ran tactical lag verification every thirty seconds—lag stable, bearing stable, return unstable.
+The thinning was gradual—not cut, not decay curve, wrong shape, as Brenner would say later. Segments of cross-section dropping out and returning on irregular intervals while the probe position telemetry stayed solid. Ortega logged fragment intervals—present four seconds, absent eleven, present six, absent nineteen. Halden ran tactical lag verification every thirty seconds—lag stable, bearing stable, return unstable.
 
 "Position solution solid," Brenner said. "Cross-section isn't. Probe telemetry's where it should be—the return channel's what's failing."
 
@@ -388,7 +400,7 @@ Silence on the engineering channel. Then Koss: "Probe lost. No debris signature.
 
 For the next eight minutes the ship arrays ran convergence without the probe—partial locks reaching nineteen and twenty-four seconds, same loss timing as before.
 
-Thessaly did not argue for a second probe either. She moved to the logging station and began staging the probe-loss packet—telemetry, passive fragments, cut timestamp, segregated attachments. Park opened a buffer shelf for it. Procedure continuing because procedure was how the crew kept moving when outcomes were incomplete.
+Thessaly did not argue for a second probe either. She moved to the logging station and began staging the probe-loss packet—telemetry, passive fragments, cut timestamp, separate attachments. Observed cut. Inferred cause blank. Park opened a buffer shelf for it. Procedure continuing because procedure was how the crew kept moving when outcomes were incomplete.
 
 <p align="center" class="scene-break" markdown="0">&#183; &#183; &#183;</p>
 
@@ -447,7 +459,7 @@ He watched the recalculation cycles without interrupting them.
 
 "Confirmed," Halden said. "Large external contact. Unresolved class."
 
-Thessaly: "Logged."
+Thessaly: "Logged. Scale revision stays inferred until class resolves. Do not write ship into the header."
 
 The composite held.
 
@@ -455,7 +467,7 @@ The composite held.
 
 Halden called the count through seventy seconds—forty, fifty, sixty—while Reyes reported navigation solution stable, Ortega tracked passive saturation climbing, and Hale logged optical interval steady with silhouette scale but no hull detail.
 
-Thessaly moved to the logging station without being asked. Park opened a segregated buffer for full-resolution attachments. Cole timed relay traffic on secondary so Park could focus on the contact buffer.
+Thessaly moved to the logging station without being asked. Park opened a separate buffer for full-resolution attachments. Cole timed relay traffic on secondary so Park could focus on the contact buffer.
 
 "Hold lock," Calder said. "Keep everything separate. Keep recording."
 
@@ -505,7 +517,7 @@ At three ten, passive dropped out for one sweep cycle—absent, then back, satur
 
 "Passive recovery," Ortega said. "Composite intact. Margin reduced."
 
-Thessaly staged full-resolution attachments while Park opened a segregated shelf.
+Thessaly staged full-resolution attachments while Park opened a separate shelf.
 
 Four minutes full resolution. Then tactical became the load-bearing point.
 
@@ -631,7 +643,7 @@ The photon discharge was logged. The scout contact was gone.
 
 
 
-# Chapter 6 — First Contact (Anomaly Site Alpha) {.chapter-opener}
+# Chapter 6 — Witness {.chapter-opener}
 
 <p align="center"><img src="assets/chapter_logo.png" alt="" width="160" /></p>
 
@@ -2178,7 +2190,7 @@ Calder looked at the deck. Nobody cheered. Nobody refused.
 
 Thessaly exhaled once. "Neutral Zone seven-alpha. I'll draft transit watches."
 
-Halden wanted sensor discipline from the jump; Park wanted buffer segregation on anything they recovered. Brenner on intercom, before Calder could summon him: "Nameplate first or course change first?"
+Halden wanted sensor discipline from the jump; Park wanted separate buffer routing on anything they recovered. Brenner on intercom, before Calder could summon him: "Nameplate first or course change first?"
 
 "Both," Calder said.
 
@@ -2233,7 +2245,7 @@ Nobody noticed.
 
 Nobody commented.
 
-Calder was still in engineering. Halden was still rebuilding tactical ten percent at a time. Park was still on the buffer, relay queue blinking, Dana Holt's timestamp in a segregated lane he would not combine.
+Calder was still in engineering. Halden was still rebuilding tactical ten percent at a time. Park was still on the buffer, relay queue blinking, Dana Holt's timestamp in a separate lane he would not combine.
 
 Thessaly took the XO chair, stripped the transit draft of anything that wasn't executable, and set handoff blocks with no open verbs.
 
@@ -2670,7 +2682,7 @@ Another silence.
 
 "Alive," Holt said. "That word doesn't fix the void. It just sits beside it."
 
-Park looked at the personal lane header still segregated from Fleet summary writers—the same partition since the bloom. "I had a message drafted too. After your posting message. Before the discharge. I didn't send it either."
+Park looked at the personal lane header still separate from Fleet summary writers—the same partition since the bloom. "I had a message drafted too. After your posting message. Before the discharge. I didn't send it either."
 
 Holt was quiet for a moment. "What did it say?"
 
@@ -2704,7 +2716,7 @@ Park was quiet.
 
 "No poetry," Park agreed.
 
-"I don't know what to file from here," Park said. "Half the buffer is segregated because Fleet would write a story I'm not ready to sign. Half is noise. Wrong file and someone dies downstream."
+"I don't know what to file from here," Park said. "Half the buffer is separate because Fleet would write a story I'm not ready to sign. Half is noise. Wrong file and someone dies downstream."
 
 "You file what you saw," Holt said. "You file what you didn't see. You let Fleet write their own adjectives."
 

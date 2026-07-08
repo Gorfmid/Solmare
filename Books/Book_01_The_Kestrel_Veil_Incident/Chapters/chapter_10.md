@@ -180,7 +180,7 @@ Sorokin did not comment on beauty. Beauty was not a metric.
 
 "I read the quota."
 
-He had read it at breakfast while his daughter complained about school and his wife reminded him about her mother's birthday dinner—still on, still mandatory, still Thursday. Ordinary life pressing against a yard that never slept.
+He had read it at breakfast while his daughter complained about school and his wife reminded him about her mother's birthday dinner—still on, still mandatory, still Thursday.
 
 Slip Three's hull was not a freighter.
 
@@ -286,7 +286,7 @@ Ortega put the headphone back.
 
 In the static, somewhere beyond translation, something like a freighter captain complained about delay and something like a controller answered with the tired patience of a man who had answered a thousand times before.
 
-Ortega noted the pass times. Park copied to the segregated archive. Thessaly asked for classification bands; Ortega gave her rhythm instead—shift change, maintenance window, freight surge, quiet hour.
+Ortega noted the pass times. Park copied to the separate archive. Thessaly asked for classification bands; Ortega gave her rhythm instead—shift change, maintenance window, freight surge, quiet hour.
 
 "They sleep," Ortega said, surprised by his own sentence. "Rhythm says sleep cycle, not alert posture. Inconsistency with military surge profile."
 
@@ -314,7 +314,7 @@ Nika made a face. "You sound like Grandmother."
 
 "Grandmother was right."
 
-They bought food at the market—root vegetables, protein rolls, something sweet because sweets were how apologies were made when leave requests were late. Kovat had filed for home rotation. Approval pending. The clerk behind the counter argued with a supervisor about inventory counts in the way ordinary people argued about things that mattered today and would be forgotten tomorrow.
+They bought food at the market—root vegetables, protein rolls, something sweet because sweets were how apologies were made when leave requests were late. Kovat had filed for home rotation. Approval pending. The clerk behind the counter argued with a supervisor about inventory counts.
 
 At home, Kovat called her daughter's father on the wall screen. He was stationed four sectors over and his smile arrived a half second late because distance was still distance even when transit worked.
 
@@ -324,13 +324,13 @@ At home, Kovat called her daughter's father on the wall screen. He was stationed
 
 "She gets that from you."
 
-They talked about schedules. About Nika's examination. About whether the transit walk was safe after shift change. Ordinary language. Ordinary fears.
+They talked about schedules. About Nika's examination. About whether the transit walk was safe after shift change.
 
-Kovat ate standing at the kitchen counter and reviewed paperwork she had brought home— leave approval pending, commons plant exchange approved, Nika's examination tutor bill. Ordinary arithmetic.
+Kovat ate standing at the kitchen counter and reviewed paperwork she had brought home— leave approval pending, commons plant exchange approved, Nika's examination tutor bill.
 
 Nika fell asleep on the couch with her history slate still glowing.
 
-Kovat carried her to bed and felt, for a moment, the full weight of the person she was when she was not a warrant officer—mother, daughter of veterans, citizen of a nation that expected ordinary people to do difficult jobs well.
+Kovat carried her to bed—mother first for the length of a corridor, warrant officer again when the slate stayed dark.
 
 The secure message arrived at 2241.
 

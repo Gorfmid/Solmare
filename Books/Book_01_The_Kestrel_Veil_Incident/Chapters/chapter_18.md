@@ -128,11 +128,11 @@ In Communications Validation Bay, Dana Holt signed timestamps. Custody began wit
 
 Priya Nand had the primary chair. Holt had the pen.
 
-Jun Park on the secure pane from berth fourteen-C: segment seven chain intact, segregated archive as filed. Felix Ortega on shipboard link: listen watch harmonics, civilian bands, authentication density curves. *Logged what I heard. Not what training expected.*
+Jun Park on the secure pane from berth fourteen-C: segment seven chain intact, separate archive as filed. Felix Ortega on shipboard link: listen watch harmonics, civilian bands, authentication density curves. *Logged what I heard. Not what training expected.*
 
 Holt crosswalked VI-Gamma relay history: bearing two-one-four mark six, post-discharge scatter, destruction assessment correction, passive sweep confirming the scout return. She checked each timestamp against the chain before signing.
 
-She opened Park's segregated archive from the bloom window through the close of segment seven. It had remained separate from the executive summary to preserve custody, not interpretation.
+She opened Park's separate archive from the bloom window through the close of segment seven. It had remained separate from the executive summary to preserve custody, not interpretation.
 
 Priya ran checksum on Thessaly's executive summary hash against pickup handshake. Match.
 
@@ -268,7 +268,7 @@ Rowan looked at Mercer's header. At Ellis's pencil margin. At Okoye's redline. A
 
 He did not say *war*. He did not say *diplomacy*. He did not say *mobilize*.
 
-"Mercer, provisional tier one header stands. Working group on observation protocol. Not ROE." He glanced at Ahn's expected presence through Mercer's work. "Edition 143 failure lines by end of week. Ellis, internal historical brief. No public exhibit change without my signature. Okoye, epoch language draft by eighteen hundred. Holt, seal chain. No merge into Edition 143 until Doctrine and Cartography are copied."
+"Mercer, provisional tier one header stands. Working group on observation protocol. Not ROE." He glanced at Ahn's expected presence through Mercer's work. "Edition 143 failure lines by end of week. Ellis, internal historical brief. No public exhibit change without my signature. Okoye, epoch language draft by eighteen hundred. Holt, seal chain. Do not route into Edition 143 until Doctrine and Cartography are copied."
 
 Sato said, "Intelligence holds threat labels until the header is settled."
 

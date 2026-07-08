@@ -89,11 +89,7 @@ The institution, Vex had learned, was another word for people who filed properly
 
 Rain softened against the high windows. Somewhere in the directorate, Petrov compared thirty markers. Somewhere on a border node, a warrant officer filed a return that would not downgrade on second pass. Somewhere in a yard, an apprentice learned that the weld outlives the shift.
 
-Continuity was not abstraction.
-
-Routine held.
-
-Outside, rain and banners and cadets crossing the quad with manuals under their arms— ordinary inheritance passing from one set of hands to another while benches rebuilt fields that must maintain.
+Outside, rain softened the quad. Cadets crossed with manuals under their arms. In the adjacent bay, benches rebuilt field coils on the schedule Science Directorate had filed.
 
 ---
 
@@ -217,7 +213,7 @@ Kovat looked at the rows.
 
 Pause.
 
-Rain on stone. A child's laugh from the plaza. Harvest festival banners visible at the avenue bend— gold thread, anticipatory, ordinary.
+Rain on stone. A child's laugh from the plaza. Harvest festival banners at the avenue bend— gold thread, five days out if rotation held.
 
 "But they made tomorrow possible," Kovat said.
 
@@ -359,7 +355,7 @@ Lina adjusted. Nineteen, fierce, hungry to be competent on a schedule the yard d
 
 Lina nodded. She had learned not to argue with Sorokin when his voice went flat— flat meant this mattered.
 
-The practice joint sat in the fixture— lattice segment, non-flight stock, scarred from generations of apprentices who had learned the same lesson under different cranes. The gantry beyond the bay window moved a hull shell with bored precision. Regional celebration posters in the corridor showed gold thread and stall permits and the ordinary anticipation of a district that celebrated harvest the way other districts celebrated rain.
+The practice joint sat in the fixture— lattice segment, non-flight stock, scarred from generations of apprentices who had learned the same lesson under different cranes. The gantry beyond the bay window moved a hull shell with bored precision. In the corridor, regional celebration posters listed stall permit deadlines for the harvest festival.
 
 Sorokin ran his hand along the joint seam without touching. "Show me your pass."
 
@@ -415,13 +411,9 @@ He almost smiled. "Certify your work. If you wouldn't certify it, don't ask me t
 
 She etched her initials into the practice log.
 
-Sorokin thought of his father in the photograph on the apartment sideboard— collar stiff, eyes tired, proud in the way workers were proud when the work outlived the shift. He thought of Grandmother Ilya saying *the keel goes down while the weather is still kind* without explaining it because explanations were for people who had not yet burned their hands.
+Sorokin thought of his father in the photograph on the apartment sideboard— collar stiff, eyes tired, proud in the way workers were proud when the work outlived the shift. He thought of Grandmother Ilya saying *the keel goes down while the weather is still kind*— advice she never annotated because the burn marks on her hands were the annotation.
 
-Civilizations survived because knowledge was inherited.
-
-Not invented every generation.
-
-Outside the bay, mag crawlers hummed. Somewhere in District Fourteen, Mara would be saving dinner again. Somewhere at K-17, a warrant officer marked a return that held past reconciliation threshold.
+Outside the bay, mag crawlers hummed. Somewhere in District Fourteen, Mara would be saving dinner again.
 
 Sorokin put his hardhat on and returned to Slip Three. Production adjustments did not wait for pride to finish feeling good.
 
@@ -484,6 +476,6 @@ Reyes acknowledged on chart plot; Ortega put the headphone back. Tanaka kept emi
 
 Jun Park tagged the night's correlations for a Fleet review that did not exist yet— headers blank, timestamps verified.
 
-Park's segregated archive still held one correlation thread Fleet had not requested—checksum match, urgency flag unset, waiting for a policy layer that did not exist yet.
+Park's separate archive still held one correlation thread Fleet had not requested—checksum match, urgency flag unset, waiting for a policy layer that did not exist yet.
 
 ---

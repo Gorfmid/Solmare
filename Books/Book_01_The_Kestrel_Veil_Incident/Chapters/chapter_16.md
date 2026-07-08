@@ -7,7 +7,7 @@
 ***THE DOMINION — STRATEGIC SECURITY DIRECTORATE***  
 *THE LAST COMPARISON*
 
-Morning arrived with rain on the arcade glass and harvest festival banners finally taut— gold thread, music from the lower plaza, the ordinary volume of a civilization celebrating itself without asking permission from the border.
+Morning arrived with rain on the arcade glass and harvest festival banners finally taut— gold thread, music from the lower plaza, stall permit arguments already underway.
 
 Director-General Lev Stratimirov opened Major Petrov's packet.
 
@@ -17,7 +17,7 @@ Not thirty-one.
 
 Petrov stood at the table's far edge with tea untouched and the controlled posture of a man presenting numbers that would not become orders yet.
 
-"Routine summary," he said, because routine was how you filed the extraordinary until it earned a name. "Border nodes, maintenance corridors, passive archives. Regional Transportation Directorate reports corridor normalization on the K-17 spine and Helikon feeder lane. Border stations report nothing extraordinary. Science Directorate reports improved cloak stability in marginal hold— bench plus margin approaching satisfaction, field trial timeline still withheld."
+"Routine summary," he said. "Border nodes, maintenance corridors, passive archives. Regional Transportation Directorate reports corridor normalization on the K-17 spine and Helikon feeder lane. Border stations report nothing extraordinary. Science Directorate reports improved cloak stability in marginal hold— bench plus margin approaching satisfaction, field trial timeline still withheld."
 
 Stratimirov studied the overlay.
 
@@ -39,13 +39,11 @@ Petrov did not reach for drama. "Still no proof. Still persistent trespass hypot
 
 Silence.
 
-Rain. Banners. Clerks arguing about stall permits in the arcade as if the border were a scheduling problem and history were a thing that happened to other people's plaques.
+Rain. Banners. Clerks arguing about stall permits in the arcade while post-festival congestion models updated on a secondary display.
 
-Stratimirov looked at the scatter plot one last time in the mode of a man who understood that more data could be purchased only with time the border might not grant.
+Stratimirov looked at the scatter plot one last time. Additional observation would refine the record, but not change the authorized response.
 
-Professionals sometimes stopped gathering because more data no longer changed the decision.
-
-They continued watching because watching was the decision.
+They continued watching. Watching was the authorized response.
 
 "We have reached the limit of observation," Stratimirov said quietly.
 
@@ -94,7 +92,7 @@ Morning watch.
 
 No speeches.
 
-Damon Reyes updated navigation— home vectors, conservative burn, crossing windows chosen for traffic humility— while Ari Halden adjusted engine bands until correction-thrust fraction held without complaint. The *Kestrel* complained anyway— a vibration in Reing 3 Calder had learned to hear as mood rather than malfunction. Yuki Tanaka confirmed emitters dark for the third time since watch turnover; Felix Ortega noted passive returns with the discipline of a man who knew listening did not end when course changed. Elara Koss had the engine room on correction-thruster stewardship— not heroic, ancestral, the way Koss treated machines that kept people alive.
+Damon Reyes updated navigation— home vectors, conservative burn, crossing windows chosen for traffic humility— while Ari Halden adjusted engine bands until correction-thrust fraction held without complaint. The *Kestrel* complained anyway— a vibration in Reing 3 Calder had learned to treat as signature rather than fault. Yuki Tanaka confirmed emitters dark for the third time since watch turnover; Felix Ortega noted passive returns and kept the listen window open after course change. Elara Koss had the engine room on correction-thruster stewardship— certification passes, heat bands, the same care she gave any system that kept people alive.
 
 Calder Venn stood at the rail and watched familiar routes begin to disappear behind the *Kestrel Veil*.
 
@@ -152,13 +150,7 @@ Reyes called lane crossing in six minutes— passenger cluster coreward, gap for
 
 "Gap's there," Brenner said.
 
-He watched a relay core they'd dated as centuries old slide aft and felt the melancholy of leaving a library before finishing every shelf.
-
-Relief lived in the same chest.
-
-So did respect.
-
-Bittersweet satisfaction— the emotion of a mission completed without victory and without defeat.
+He watched a relay core they'd dated as centuries old slide aft— undated fully, catalogued incompletely, already leaving the listen window.
 
 Mira Thessaly joined him at the rail for a moment without speaking.
 
@@ -176,7 +168,7 @@ Brenner made a correction burn so small Calder would not have felt it without th
 
 "Stay polite," Calder said.
 
-The *Kestrel Veil* withdrew along the corridor the way professionals withdrew— without illumination, without announcement, without forcing first contact because first contact was a thing nations chose or failed to choose, not a thing scouts triggered by lingering one day too many.
+The *Kestrel Veil* withdrew along the corridor without illumination and without announcement— emitters dark, no open broadcast, correction thrust only.
 
 Jun Park keyed each leg departure into message threads tagged *segment seven — witness archive*; Marcus Hale ran rotation without jokes because jokes during departure felt like disrespect to a corridor that had taught them restraint; Yuki Tanaka ran emitter checks on schedule— dark, confirmed.
 
@@ -199,11 +191,11 @@ The harvest festival began the way it always began— with children too loud and
 
 Daria Kovat had leave approved at last— four-beta with delay probable, which meant she would make Nika's performance if the transit gods permitted and apologize with sweets if they did not.
 
-The plaza was gold thread and ordinary stone.
+The plaza was gold thread and wet stone.
 
 Rain had passed through at dawn and left the banners sharp.
 
-Music from the central stage— chorus lines imperfect, earnest, the sound of a civilization teaching sacrifice without conquest because conquest was what other people called it when sacrifice succeeded.
+Music from the central stage— chorus lines imperfect, earnest, volume rising on the rest measures Teacher Marin would trim later.
 
 Stall permits had become arguments and then compromises.
 
@@ -223,7 +215,7 @@ Children ran between stall rows.
 
 The festival week was not military.
 
-It was community proving it still knew how to celebrate continuity.
+It was rehearsal schedules, stall permits, and neighbors who still knew the same chorus.
 
 Kovat's secure slate vibrated once during the second chorus— routine observation summary, not emergency.
 
@@ -310,7 +302,7 @@ Typed again.
 
 *Opposing force* — misread routine traffic.
 
-She set the stylus down and rubbed her eyes the way executives rubbed eyes when the institution they served was not evil, only young.
+She set the stylus down and rubbed her eyes. The Fleet forms on the secondary display still asked for categories that did not fit the returns.
 
 Calder entered without ceremony.
 
@@ -370,7 +362,7 @@ Inference second.
 
 Questions third— deliberately left open.
 
-Fleet doctrine officially began changing through language— the medium that survived the months between a scout's return and an institution's formal response.
+Fleet forms still required boxes. Thessaly kept writing until the boxes followed the observations instead of the other way around.
 
 Thessaly typed a header at last:
 
@@ -394,7 +386,7 @@ Calder considered.
 
 "Listening occurred. Handshake did not. Illumination did not. Name exchange did not." Pause. "Technically."
 
-"Technically," Thessaly repeated, and wrote it down because technical truth was how professionals prevented institutions from rushing into myths.
+"Technically," Thessaly repeated, and logged it under *Limitations*— handshake absent, illumination absent, name exchange absent.
 
 She added a subsection header— *Limitations of Fleet Terminology*— and listed the words that had failed: enemy, unknown, border, frontier, first contact.
 
@@ -403,14 +395,6 @@ Calder read the list and said, "Add *empty*."
 Thessaly wrote *empty* down and underlined it once.
 
 She returned to the draft.
-
-Co-author of Fleet's future doctrine— not celebrated, not promoted, simply necessary.
-
-Hope lived in the draft too— not optimism, responsibility. If the report survived, Fleet might approach the next corridor with listening before labeling.
-
-If it did not survive, the *Kestrel* would still have witnessed.
-
-Either way, the doctrine would eventually catch up or be caught by history.
 
 Outside the executive office, the corridor hummed.
 
@@ -512,7 +496,7 @@ Halden reported Fleet pickup beacon in range in fourteen hours if they held burn
 
 The *Kestrel Veil* crossed back into Fleet space without announcement.
 
-Park's witness archive still carried one segregated lane Holt had not combined—checksum green, classification pending, waiting for Fleet to decide what the returns meant.
+Park's witness archive still carried one separate lane Holt had not combined—checksum green, classification pending, waiting for Fleet to decide what the returns meant.
 
 ---
 

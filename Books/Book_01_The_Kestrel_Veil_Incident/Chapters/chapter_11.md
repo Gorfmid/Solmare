@@ -131,7 +131,7 @@ Mira Thessaly appeared at Calder's shoulder without hurry. "Classification?"
 
 "Behavior is enough," she said.
 
-Jun Park copied the pass to segregated archive. No Fleet relay. No path home. Only local trecords accumulating.
+Jun Park copied the pass to separate archive. No Fleet relay. No path home. Only local trecords accumulating.
 
 Park said, without looking up, "Correlation overlay on communications. Ortega cluster three matches Reyes's bearing plot. Four minutes saved if you use it."
 
@@ -353,7 +353,7 @@ An old welder named Petran passed him on the catwalk and flicked Sorokin's hardh
 
 Mission +22:00, segment seven.
 
-Ortega at passive six percent— still insultingly low, still enough. Reyes on routing logic. Thessaly on classification bands that refused simple military labels. Park on communications segregation. Tanaka confirming correction-thrust fraction. Hale on rotation. Halden feeding infrastructure age estimates into Reyes's plot until the display read like established infrastructure rather than empty chart margin.
+Ortega at passive six percent— still insultingly low, still enough. Reyes on routing logic. Thessaly on classification bands that refused simple military labels. Park on separate comm routing. Tanaka confirming correction-thrust fraction. Hale on rotation. Halden feeding infrastructure age estimates into Reyes's plot until the display read like established infrastructure rather than empty chart margin.
 
 Calder stood at the rail.
 

@@ -122,7 +122,7 @@ Nothing to do with the plot. Exists when the camera is off.
 
 ---
 
-- Buffer discipline without premature merge (Ch. 1–4)
+- Buffer discipline without premature combine (Ch. 1–4)
 - Latency, echo, and reorder detection
 - Local logging when outbound contact is withheld
 - Crew mood detection before cohesion metrics move
@@ -151,7 +151,7 @@ Under stress: on-watch precision increases; off-watch disappears into relay stat
 
 ## MORAL BASELINE
 
-> Do not merge what you cannot account for.
+> Do not combine what you cannot account for.
 
 Applies to signals and to secrets. Park will log Calder's withheld transmissions locally (Ch. 3–5 behavior aligned).
 
@@ -226,7 +226,7 @@ Park represents:
 - Leads internal comms restoration; handwritten strip log during buffer distrust
 - **Short-range fringe to VI-Gamma only**—no direct Fleet handshake from hull
 - First survival signal relayed **through Holt** to Fleet Operations
-- Personal segregated fringe lane to Dana Holt (*You idiot* / *I know*)
+- Personal **separate fringe lane** to Dana Holt via VI-Gamma validation path (*You idiot* / *I know*)
 - All Fleet traffic routes VI-Gamma ↔ *Veil* (Rowan orders hold until further notice)
 - Halden snaps at him over relay delay; neither discusses
 - Emotional restraint; no resolution—returns to queue

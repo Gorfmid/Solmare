@@ -49,7 +49,7 @@ Ortega ran the sweep again. The reorganized pattern held.
 
 "Deliberate," she said—not to the room, to the log.
 
-Calder nodded once. "File observed behavior. Inference withheld."
+Calder said, "File observed behavior. Inference withheld."
 
 ---
 
@@ -68,7 +68,7 @@ Vex pulled the traffic overlay. Background activity in V17 had shifted—not hid
 
 Petrov waited.
 
-Dominion border doctrine had files for this. Civilizations that hid. Civilizations that attacked on approach. Civilizations that negotiated from strength. Civilizations that surrendered early. Civilizations that requested protection and meant it. Civilizations that requested protection and did not.
+Dominion border guidance had files for this. Civilizations that hid. Civilizations that attacked on approach. Civilizations that negotiated from strength. Civilizations that surrendered early. Civilizations that requested protection and meant it. Civilizations that requested protection and did not.
 
 The scout had done none of those.
 
@@ -103,11 +103,11 @@ Holt on the comm inset, relay-flat. "Relay is slow but holding. You have nothing
 
 "That is not communication," Thessaly said.
 
-"No," Calder said. "It is preparation."
+"No," Calder said. "It is corridor shaping. Not speech."
 
 Thessaly met his eyes once—the XO look that meant *you are about to choose something the record will carry*.
 
-"Edition 144 prohibits initiation without Operations signature," she said, quiet enough for the rail only.
+"Operations signature required before initiation," she said, quiet enough for the rail only.
 
 "I know."
 
@@ -192,9 +192,9 @@ She let composite lock build. The picture assembled the way the Incident appendi
 
 The deck did not panic. Hands stayed on consoles. Tanaka confirmed emitters dark. Brenner held correction thrust. Halden logged *decloak partial, no discharge signature*.
 
-Thessaly did not say the word *enemy*. Neither did Calder.  
+Thessaly did not say the word *enemy*. Neither did Calder.
 
-Calder watched the silhouette resolve, color draining from his face.  The brief glimpse at the first encounter had not prepared him for this.
+Calder watched the silhouette resolve on composite lock. The Incident appendix had shown him a glimpse at bearing two-one-four mark six; passive scale on the rail was larger than that memory had prepared him for.
 
 No one on the deck said anything about the size.
 
@@ -215,7 +215,7 @@ Pause.
 
 "Diaper event?"
 
-Elenko nodded once. "Possibly."
+Elenko said, "Possibly."
 
 Petrov looked back at the display. "Do not put that in the official record."
 
@@ -290,15 +290,13 @@ Calder turned to the empty reply channel Park had kept open.
 
 Thessaly asked, "Risk?"
 
-Calder said, "Everything is a risk."
-
-"But silence is also a choice."
-
-He did not look at the crew when he said it. He looked at the identification block on the receive pane—nested headers in doctrine order, waiting for a reply.
+"Unknown," Calder said. "Same as holding fire."
 
 Thessaly said, "Acknowledgment only. Not initiation."
 
 Calder said, "Logged."
+
+He looked at the identification block on the receive pane—nested headers in exchange-stack order, waiting for a reply.
 
 Park said, "Holt gets a copy when we send."
 
@@ -339,7 +337,7 @@ Vex read it once.
 
 "They prepared an answer before we sent," Vex said. "Same as us."
 
-Elenko said quietly, "The header order matches outer-contact archive family. Older variant...I am not an archivist."
+Elenko said, "The header order matches outer-contact archive family. Older variant...I am not an archivist."
 
 Vex said, "File the observation. Do not file speculation."
 
@@ -358,7 +356,7 @@ Petrov asked, "Archive depth?"
 
 "Full chain," Vex said. "V17 command. Strategic Security. Civilizational contact bureau after my review."
 
-Drevin said, too quietly, "We found them."
+Drevin said, too low for the rail, "We found them."
 
 Vex did not confirm it. The scout held passive on the plot.
 
@@ -383,19 +381,13 @@ Ortega kept composite lock. Brenner kept the corridor. Tanaka kept emitters dark
 
 The command deck stayed quiet.
 
-Calder read the acknowledgment line twice.
-
-Someone else was there.
-
-The reply carried the same field types theirs had—identification, navigation state, observation flag. No threats. No demands.
+Calder read the acknowledgment line twice on the rail display.
 
 Thessaly logged the contact event. Observed. Acknowledged. Intent unresolved.
 
 Calder did not leave the chair.
 
 Ahead on the plot, occupied volume held the corridor around them—traffic rerouted, passive returns organized, a silhouette-scale contact visible because it had chosen to be visible.
-
-Alpha Seven was no longer empty noise without a name.
 
 The first exchange had succeeded.
 

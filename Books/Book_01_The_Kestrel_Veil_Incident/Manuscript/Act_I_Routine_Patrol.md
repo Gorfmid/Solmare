@@ -1,6 +1,6 @@
 ﻿---
 title: "The Kestrel Veil Incident"
-subtitle: "Book One of The Solmare Cycle — Act I â€” Routine Patrol"
+subtitle: "Book One of The Solmare Cycle â€” Act I â€” Routine Patrol"
 author: "K.W. Abbott"
 lang: en-US
 rights: "Copyright (c) K.W. Abbott. All rights reserved."
@@ -282,33 +282,29 @@ A chartered survey platform noted historical positional anchors from an eleven-y
 
 Any one report still had a benign explanation if you wanted one.
 
-Maris still wanted one. Aging relay infrastructure. Outdated propagation models. Cumulative navigation error. Mapping drift at the edge of survey confidence. Sensor calibration differences between sensor platform generations.
+Maris still wanted one. Aging relay infrastructure. Outdated propagation models. Cumulative navigation error. Mapping drift at the edge of survey confidence. Sensor calibration differences between platform generations.
 
 The models had required another correction. Cartography had reopened an epoch adjustment that should have been settled years ago. Three independent surveys had all passed validation. They still refused to agree.
 
-She sat back and said, very quietly, "That's not relay aging."
+She sat back. The correlation pane showed the same region returning different answers—baseline divergence, navigation offsets that repeated across windows, historical anchors that no longer seated against current passive returns. None of it proved a cause. All of it proved the map did not agree with itself.
 
 Tomas looked up.
 
 "That's not drift you patch at the relay," she said. "That's the baseline refusing to sit still."
 
-She looked at the correlation pane again. "There's something out there. Something unaccounted for on every chart we've filed."
+He leaned over her shoulder, read two lines, and went very still. "I'd reopen the epoch."
+
+"Me too." She pulled up the escalation pathway on the template. "This isn't local noise. The segment won't reconcile."
+
+He did not ask if she was sure. He had seen her be right before.
 
 Reconciliation failure was not dramatic. It was what happened when competent professionals could not make the data fit—and Segment Seven had been fitting, quietly, for years.
 
 Fleet Cartography had to see it. Not after Founders' Week. Not after each packet was read in isolation and filed as local noise. Now.
 
-She began a priority draft on the secure template she had used twice before in her career, both times for inconsistencies senior desks had downgraded until secondary review proved them structural. Her hands were steady. Her caution was not. The title field accepted: *Segment Seven Frontier—Persistent Survey Baseline Divergence Requiring Epoch Review.*
+She began a priority draft on the secure template she had used twice before in her career, both times for inconsistencies senior desks had downgraded until secondary review proved them structural. Her hands were steady. Her caution was not. The title field accepted: *Segment Seven Frontier—Persistent Baseline Divergence Requiring Epoch Review.*
 
 Section one: individual reports, sourced, timestamped, stripped of adjectives. Section two: correlation map—positional drift against baseline revisions against reopened epoch flags against mutually exclusive validated returns. Section three: still blank. Assessment and recommended escalation. Immediate transmission to Fleet Cartography Command.
-
-"Tomas," she said without looking up. "If you were seeing relay timing lag, would you reopen the epoch or reseat the anchor?"
-
-He leaned over her shoulder, read two lines, and went very still. "I'd reopen the epoch."
-
-"Me too." She pulled up the escalation pathway on the template. "This isn't local noise. This is the segment not agreeing with itself."
-
-He did not ask if she was sure. He had seen her be right before.
 
 At 1547 she saved the draft to the annex queue—priority flag pending her completion of section three, biometric handoff required before transmission. Standard procedure. The system auto-saved every four minutes.
 
@@ -1596,7 +1592,7 @@ Hale passed the other way toward the galley corridor nook, calibration kit under
 
 Okwelu was in the medical bay doorway when Calder climbed toward habitation—slate in hand, eyes on the pass-through traffic, not on him. She noted his transit time against the rest log and went back to her notebook.
 
-When Calder climbed back to the command deck, Park was mid-rhythm and Ortega had two tabs open—the correlation column and the segregated offset log he never reconciled with Fleet's pretty numbers.
+When Calder climbed back to the command deck, Park was mid-rhythm and Ortega had two tabs open—the correlation column and the separate offset log he never reconciled with Fleet's pretty numbers.
 
 Tanaka and Reyes traded the navigation station without ceremony. Tanaka sat. The chair squeaked. Reyes stood behind her and corrected one word in a buffer overlap note—*port*, not *starboard*—without looking at the slate. Tanaka paused half a beat, then nodded.
 
@@ -1655,7 +1651,7 @@ Park: "Enough."
 
 "Hold," Calder said.
 
-Calder sat in the command chair. The chair complained again, this time with more ofa  squak. He stayed seated anyway. The duplicate ping sat in segregated buffer somewhere behind Park's console—a wrongness that did not announce itself as wrongness.
+Calder sat in the command chair. The chair complained again, this time with more ofa  squak. He stayed seated anyway. The duplicate ping sat in separate buffer somewhere behind Park's console—a wrongness that did not announce itself as wrongness.
 
 Brenner's voice on engineering channel, already elsewhere: "Port panel secured. Moving to lift three manual check."
 
@@ -1664,7 +1660,7 @@ Brenner's voice on engineering channel, already elsewhere: "Port panel secured. 
 
 The duplicate did not repeat. That was almost worse.
 
-Over the next hours, small inconsistencies stacked without repeating the same shape. Ortega filed a sensor report four seconds early on tertiary—same wrong offset, same segregated column—and kept sweeping. A navigation update held wrong on Tanaka's sequence line for eleven seconds; she refreshed it without mentioning the gap to Reyes. Calder signed the mid-cycle reconnaissance summary Fleet wanted because refusing on day one would have been performance, not command.
+Over the next hours, small inconsistencies stacked without repeating the same shape. Ortega filed a sensor report four seconds early on tertiary—same wrong offset, same separate column—and kept sweeping. A navigation update held wrong on Tanaka's sequence line for eleven seconds; she refreshed it without mentioning the gap to Reyes. Calder signed the mid-cycle reconnaissance summary Fleet wanted because refusing on day one would have been performance, not command.
 
 Okwelu sent a sleep-debt notice on the medical channel—direct, no preamble: *Captain. Four hours is not sleep. Acknowledge.* He acknowledged without compliance.
 
@@ -1735,4 +1731,4 @@ Thessaly noted it on her slate. Park returned to his rhythm while Reyes correcte
 
 Somewhere aft, Brenner kicked a door.
 
-The environmental thrum held its patrol note. Calder listened for when it changed again. Park's secondary flag still hadn't cleared—segregated, waiting for a relay window that hadn't opened.
+The environmental thrum held its patrol note. Calder listened for when it changed again. Park's secondary flag still hadn't cleared—separate, waiting for a relay window that hadn't opened.

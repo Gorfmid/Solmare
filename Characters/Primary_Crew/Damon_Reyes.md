@@ -120,7 +120,7 @@ Nothing to do with the plot. Exists when the camera is off.
 
 ---
 
-- Parallel buffer maintenance without merge pressure (Ch. 3–4)
+- Parallel buffer maintenance without combine pressure (Ch. 3–4)
 - Immediate inconsistency flagging without narrative padding
 - Jump solution reliability under drift conditions
 - Chart lineage literacy

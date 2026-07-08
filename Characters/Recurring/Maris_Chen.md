@@ -1,7 +1,7 @@
 # MARIS CHEN — MERIDIAN GATE ANALYST (BOOK ONE, CH. 1)
 
 **Status:** Deceased (Chapter 1 — Founders' Week eve, Meridian Gate)  
-**Role:** Cartography Division analyst (Helion Prime rotation); borrowed pattern analyst for Fleet Intelligence — Outer Rim Collectives frontier  
+**Role:** Cartography Division analyst (Helion Prime rotation); Meridian Gate cartography annex  
 **Age at death:** 41  
 **Location:** Meridian Gate Relay Complex (primary); died transit corridor Level Nine → Level Six
 
@@ -9,75 +9,86 @@
 
 ## STORY FUNCTION
 
-Introduce the Empire's competence—and the cost of missing one warning through procedure and bad luck, not stupidity.
+Introduce Fleet Cartography competence—and the cost of an unfinished escalation when procedure and timing fail, not stupidity.
 
-Maris Chen, intelligence analyst reviewing reports from across the Empire, recognizes that scattered routine reports form a larger pattern of rival-empire military preparation along the frontier. She begins an intelligence summary for Fleet Command. She dies unexpectedly from a common medical event before she can complete or transmit it. Her unfinished report is never escalated; the warning is lost.
+Maris Chen was the first person to formally document that **Segment Seven's accepted model would not reconcile**. She did not discover an enemy, predict first contact, or identify a third actor. She preserved the **first contradiction** in the record.
 
-**Reader should feel:** she would have made a difference.
+**Reader should feel:** the map was already wrong before anyone had permission to say so out loud.
+
+---
+
+## CANON — SEGMENT SEVEN WORK (CH. 1)
+
+**Professional conclusion:** *The map does not agree with itself.*
+
+**Not her conclusion:** *There is something out there.*
+
+### What she documented
+
+- Persistent baseline divergence across navigation returns  
+- Conflicting validated returns (each green alone; mutually exclusive when compared)  
+- Unresolved navigation inconsistencies on seven-alpha / segment seven overlays  
+- Reopened epoch adjustments that should have been settled  
+- Historical positional anchors no longer seating against current passive returns  
+
+### Escalation draft
+
+- **Title:** *Segment Seven Frontier—Persistent Baseline Divergence Requiring Epoch Review*  
+- **Sections one–two:** complete (sourced reports, correlation map)  
+- **Section three:** blank at death (assessment / recommended escalation)  
+- **Transmission:** never authorized — biometric handoff pending; auto-saved; queue buried behind Founders' Week traffic  
 
 ---
 
 ## BACKGROUND
 
-- Eight years Cartography Division before Intelligence borrow-for-pattern work
-- Eleven years living on Meridian Gate
-- Colleague: **Tomas Rhee** (ocean-world upbringing, cultural desk)
-- Supervisor: unnamed; attempted escalation after her death, stalled without living author
+- Eight years Cartography Division; supervisors knew she reopened settled epoch adjustments  
+- Eleven years living on Meridian Gate  
+- Colleague: **Tomas Rhee** (cultural desk)  
+- Supervisor: unnamed; attempted escalation after her death; stalled without living author and incomplete section three  
 
 ---
 
 ## COMPETENCE
 
-Pattern synthesis across scattered routine intelligence: trade pattern shifts, fleet movements, industrial production, restricted border traffic, political shifts, patrol discipline, logistics, procurement, recon imagery. Each item has a reasonable explanation alone; together, military campaign preparation. Builds correlation maps mentally before display catches up.
+Reconciliation analyst — validates whether survey metadata agrees across independent returns. Builds correlation maps; distinguishes *expected drift* from *baseline refusing to sit still*. Does not assign cause when cause is not in the data.
 
 ---
 
-## AUTHENTIC VOICE & HUMANIZATION
+## AUTHENTIC VOICE
 
-**Blind-read test:** Precise, unsentimental analyst; catalog language when working; rare warmth with Tomas; never sounds like fleet officers or dock gossip.
+Precise, unsentimental; catalog language when working; dry collegial tone with Tomas. Pattern language: *reconcile*, *epoch*, *baseline*, *validation band* — not military campaign vocabulary.
 
-**Identity influences:** Helion Prime academy; Cartography culture (metadata, contradiction detection); age 41; human; professional middle tier; Founders' Week station life.
-
-**Vocabulary & syntax:** Report-neutral in drafts; conversational with Tomas—dry, collegial. "Exercise posture" as quoted institutional euphemism. Pattern language: *choice*, *geometry*, *convergent indicators*.
-
-**Humor & subtext:** Quiet laugh with Tomas about archive size; oranges as ordinary kindness; subtext in what she flags vs. what she leaves for section three.
-
-**Romantic orientation:** Straight. No on-page romance Book One.
-
-**Language & oaths:** Mild **"hell"** rare; invented **"drift"** (mild) if needed.
-
-**Never sounds like:** Calder, military bridge crew, politicians giving speeches.
+**Never sounds like:** fleet bridge crew, intelligence threat briefings, prophecy.
 
 ---
 
 ## DEATH (CANON)
 
-**Cause:** Ruptured cerebral aneurysm — sudden neurological event. Common enough statistic; no foul play; no connection to intelligence content.
+**Cause:** Ruptured cerebral aneurysm — sudden neurological event. No foul play; no connection to cartography content.
 
-**Aftermath:** Founders' Week casualty bulletin; Tomas memorial on Level Nine; partial draft *Collectives Frontier—Convergent Indicators* auto-saved; reclassified *pending analyst review*; author field *inactive*.
+**Aftermath:** Partial draft auto-saved; reclassified routine; author field inactive. Tomas memorial on Level Nine.
+
+---
+
+## LEGACY (POST–BOOK ONE)
+
+Fleet Historical Office later reclassified the packet **antecedent unresolved** (epilogue): Maris's incomplete analysis predates the *Kestrel Veil* segment seven crossing, first exchange, and fringe relay unresolved return. Ellis comparison work connects records — **not** a solved mystery.
+
+Rowan receives comparison brief; inherits the question, not the answer.
 
 ---
 
 ## GOVERNANCE POSITION
 
-**Fleet Intelligence Bureau** — civil-military interface layer. See `Universe/Fleet/fleet_authority_governance_and_command_hierarchy.md` §6.
-
-- Collects and analyzes frontier intelligence; submits classified reports to Military Command
-- **No enforcement authority** — reports require transmission and approval to affect action
-- Formally paid by Cartography Division while borrowed for Intelligence pattern work
-- Critical vulnerability: lost, delayed, or buried reports produce no immediate systemic awareness
-
----
-
-## RELATED THREADS
-
-- **External threat:** Outer Rim Collectives invasion preparation (unrecognized by Empire at Ch. 1 end)
-- **Not in Ch. 1:** Solmare Signal Deviation / interior anomaly thread (deferred to later chapters)
+**Cartography Division** — survey metadata, epoch review, frontier reconciliation. No enforcement authority. Reports require transmission and supervisory authorization to affect Fleet posture.
 
 ---
 
 ## DO NOT
 
-- Retcon survival
-- Imply assassination or suspicious accident
-- Resolve Collectives threat in Book One opening (sequel/consequence thread unless outline revises)
+- Retcon survival  
+- Imply she discovered Dominion, an enemy civilization, or a third actor  
+- Imply she predicted first contact or understood anomaly cause  
+- Resolve Segment Seven contradiction in her lifetime  
+- Imply assassination  

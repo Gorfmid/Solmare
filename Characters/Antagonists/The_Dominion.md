@@ -1,8 +1,8 @@
 # THE DOMINION (WORKING NAME)
 
 **Status:** Active — series canon from Ch. 9+ (Book One)  
-**Role:** Primary opposing interstellar civilization beyond the Neutral Zone  
-**Fleet POV naming:** **Withheld** until in-universe discovery — Fleet uses *unknown structured opposing force*, *contact*, etc.
+**Role:** Structured contact civilization beyond Fleet survey assumptions  
+**Fleet POV naming:** **Withheld** until in-universe discovery — Fleet uses *structured contact*, *contact civilization*, *unknown structured opposing force*, etc.
 
 ---
 
@@ -20,7 +20,7 @@ Covers: philosophical conflict with Fleet Authority, military doctrine, politica
 
 ## Story function (summary)
 
-Not "the enemy." Not the series antagonist. **Another superpower** — ancient, organized, internally consistent. The collision with Fleet Authority is **historical**, not malice.
+Not "the enemy." Not the series antagonist. **Another superpower** — ancient, organized, internally consistent; **intent unknown to Fleet at Book One close**. The collision with Fleet Authority is **historical**, not malice.
 
 > *I understand these people.*  
 > *I understand exactly why they made that decision.*

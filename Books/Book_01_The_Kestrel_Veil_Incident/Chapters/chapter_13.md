@@ -11,7 +11,7 @@ Morning arrived the way it always arrived in the basalt-and-steel complex—with
 
 Director-General Lev Stratimirov opened Major Petrov's packet at the conference table.
 
-The conference room was the same room. The corridor table on the wall was the same table—three border revisions deep, campaign ribbons faded to the color of old tea. Harvest festival banners showed gold thread in the lower arcade beyond the glass, anticipatory, ordinary.
+The conference room was the same room. The corridor table on the wall was the same table—three border revisions deep, campaign ribbons faded to the color of old tea. In the lower arcade beyond the glass, harvest festival banners showed gold thread five days out.
 
 Petrov stood with a slate and the controlled tension of a man who had done what he had been told to do and now needed his directorate to decide what it meant.
 
@@ -233,7 +233,7 @@ His wife Mara opened the door before he knocked.
 
 Grandmother Ilya sat at the table with the straight-backed comfort of a woman who had outlived three yard expansions and did not find any of them surprising. Darya, eleven, wrestled homework at the kitchen end. Mikael, eight, built a lattice model from meal sticks with the seriousness of someone who thought engineering was a form of prayer.
 
-The apartment smelled of stew and the rain that had come through the arcade an hour ago—District Fourteen weather, ordinary, remembered in the stone walls because this building had stood through two yard annex approvals and one argument about elevator capacity that Grandmother still considered unresolved.
+The apartment smelled of stew and the rain that had come through the arcade an hour ago—District Fourteen weather in stone walls that had outlasted two yard annex approvals and one unresolved argument about elevator capacity.
 
 Flowers went in water. Boots came off. Sorokin washed his hands twice.
 
@@ -263,8 +263,6 @@ They ate. Children argued. Grandmother told a story about a border station plaqu
 
 On the sideboard, regional celebration rehearsal schedules shared space with Darya's school calendar and a photograph of Sorokin's father in a yard coat, collar stiff, eyes tired, proud in the way workers were proud when the work outlived the shift.
 
-Ordinary.
-
 The pager on his belt chirped once— work channel, not emergency tone.
 
 He read it without leaving the table.
@@ -293,7 +291,7 @@ He kissed Darya's forehead. Mikael demanded a promise about lattice models. He p
 
 He left with stew still warm in his bowl and the pager cold against his hip and the calm acceptance of a household that had learned, years ago, that production adjustments were not emergencies—they were weather.
 
-At Slip Three, Lina had already pulled the lattice joint specs and queued the overtime roster without asking why Thursday mattered less than throughput. Sorokin signed what he would sign. He drank Mara's thermos between weld passes. The yard hummed— cranes, mag crawlers, inspection sleds, men and women who built ships because it was their profession and their district's inheritance.
+At Slip Three, Lina had already pulled the lattice joint specs and queued the overtime roster without asking why Thursday mattered less than throughput. Sorokin signed what he would sign. He drank Mara's thermos between weld passes. The yard hummed— cranes, mag crawlers, inspection sleds, weld teams moving to the next certified joint.
 
 No alarm lights.
 

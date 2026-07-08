@@ -1,4 +1,4 @@
-﻿# Chapter 4
+# Chapter 4
 
 ## Routine Patrol
 
@@ -200,7 +200,7 @@ Hale passed the other way toward the galley corridor nook, calibration kit under
 
 Okwelu was in the medical bay doorway when Calder climbed toward habitation—slate in hand, eyes on the pass-through traffic, not on him. She noted his transit time against the rest log and went back to her notebook.
 
-When Calder climbed back to the command deck, Park was mid-rhythm and Ortega had two tabs open—the correlation column and the segregated offset log he never reconciled with Fleet's pretty numbers.
+When Calder climbed back to the command deck, Park was mid-rhythm and Ortega had two tabs open—the correlation column and the separate offset log he never reconciled with Fleet's pretty numbers.
 
 Tanaka and Reyes traded the navigation station without ceremony. Tanaka sat. The chair squeaked. Reyes stood behind her and corrected one word in a buffer overlap note—*port*, not *starboard*—without looking at the slate. Tanaka paused half a beat, then nodded.
 
@@ -258,7 +258,7 @@ Park: "Enough."
 
 "Hold," Calder said.
 
-Calder sat in the command chair. The chair complained again, this time with more ofa  squak. He stayed seated anyway. The duplicate ping sat in segregated buffer somewhere behind Park's console—a wrongness that did not announce itself as wrongness.
+Calder sat in the command chair. The chair complained again, this time with more ofa  squak. He stayed seated anyway. The duplicate ping sat in separate buffer somewhere behind Park's console—a wrongness that did not announce itself as wrongness.
 
 Brenner's voice on engineering channel, already elsewhere: "Port panel secured. Moving to lift three manual check."
 
@@ -266,7 +266,7 @@ Brenner's voice on engineering channel, already elsewhere: "Port panel secured. 
 
 The duplicate did not repeat. That was almost worse.
 
-Over the next hours, small inconsistencies stacked without repeating the same shape. Ortega filed a sensor report four seconds early on tertiary—same wrong offset, same segregated column—and kept sweeping. A navigation update held wrong on Tanaka's sequence line for eleven seconds; she refreshed it without mentioning the gap to Reyes. Calder signed the mid-cycle reconnaissance summary Fleet wanted because refusing on day one would have been performance, not command.
+Over the next hours, small inconsistencies stacked without repeating the same shape. Ortega filed a sensor report four seconds early on tertiary—same wrong offset, same separate column—and kept sweeping. A navigation update held wrong on Tanaka's sequence line for eleven seconds; she refreshed it without mentioning the gap to Reyes. Calder signed the mid-cycle reconnaissance summary Fleet wanted because refusing on day one would have been performance, not command.
 
 Okwelu sent a sleep-debt notice on the medical channel—direct, no preamble: *Captain. Four hours is not sleep. Acknowledge.* He acknowledged without compliance.
 
@@ -336,4 +336,4 @@ Thessaly noted it on her slate. Park returned to his rhythm while Reyes correcte
 
 Somewhere aft, Brenner kicked a door.
 
-The environmental thrum held its patrol note. Calder listened for when it changed again. Park's secondary flag still hadn't cleared—segregated, waiting for a relay window that hadn't opened.
+The environmental thrum held its patrol note. Calder listened for when it changed again. Park's secondary flag still hadn't cleared—separate, waiting for a relay window that hadn't opened.

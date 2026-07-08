@@ -54,33 +54,33 @@ Neutral-realist · analytical · formal · quiet · emotionally reserved · rule
 
 ## FUNCTIONAL ROLE (BEYOND SHIPBOARD POSITION)
 
-**Decision bottleneck and institutional epistemology anchor.**
+**Decision bottleneck under incomplete information.**
 
-Calder is new to the *Veil* crew rhythm. The senior officers route through him even when they have already reached departmental conclusions. He synthesizes—or stalls—depending on whether sources merge.
+Calder is new to the *Veil* crew rhythm. Senior officers route through him even when departments have already reached local conclusions. He synthesizes operational decisions—or stalls when evidence boundaries are unclear.
 
 ---
 
 ## INTERPRETIVE MODEL
 
-**Institutional synthesis.**
+**Institutional synthesis with observation discipline (Book One end state).**
 
-When data contradicts, Calder asks: *Which source has authority to define truth?*
+When data contradicts, Calder asks: *What is observed? What is inferred? What must stay unknown?*
 
-He defaults to fleet, archive, and verified protocol order—until those sources diverge.
+He defaults to fleet, archive, and verified protocol order—until those sources diverge. By Book One close he **files uncertainty correctly** rather than forcing false closure.
 
 ---
 
 ## SIGNATURE COMPETENCE
 
-**Contradiction synthesis.**
+**Contradiction synthesis without false resolution.**
 
-Calder can take five incompatible departmental reports and produce one operational decision that each department can execute without pretending the others were wrong.
+Calder can take incompatible departmental readings and produce one operational decision each department can execute without pretending the others were wrong.
 
-Not by merging truth. By identifying what action remains valid **regardless of which model is correct**.
+Not by combining truth. By identifying what action remains valid **regardless of which model is correct**.
 
-The crew learned this at Theta-7 when he held without fleet closure. They do not admire the speed. They admire that nobody else could have done it without forcing a false consensus.
+The crew learned this at Theta-7 when he held without fleet closure. They admire that he can decide without knowing—and that he stopped mistaking the decision for proof.
 
-*Limit:* Synthesis is not resolution. He can decide without knowing. He often mistakes the decision for proof.
+*Book One limit:* He does not solve first contact. He preserves witness bands, authorizes acknowledgment under restraint, and commands egress when the record is enough.
 
 ---
 
@@ -212,51 +212,51 @@ This creates tension when:
 
 ---
 
-## NARRATIVE ARC — BOOK ONE
+## NARRATIVE ARC — BOOK ONE (LOCKED)
 
-Calder Venn’s transformation is not emotional—it is epistemological.
+Calder's transformation is **epistemological**, not heroic.
 
-### PHASE 1: SYSTEM TRUST
-- Believes command systems reflect objective truth
-- Treats anomalies as data corruption
+| Phase | State |
+|-------|--------|
+| **Opening (Ch. 1–4)** | Trusts verified procedure; expects systems to converge on truth |
+| **Incident (Ch. 5–8)** | Survives when institutional truth (*hull lost*) is wrong |
+| **Segment seven (Ch. 9–16)** | Commands passive reconnaissance; returns witness record |
+| **Institutional (Ch. 17–21)** | First Witness; supports unified Contact Doctrine adoption |
+| **First exchange (Ch. 22–24)** | Conducts acknowledgment under Edition 144 guidance; does not assign intent; logs unresolved third-source returns on egress |
 
-### PHASE 2: SYSTEM FRACTURE
-- Encounters contradictory sensor and command outputs
-- Begins to experience unresolved validation conflicts
+### Beginning
 
-### PHASE 3: SYSTEM FAILURE RECOGNITION
-- Accepts that multiple conflicting “truths” can coexist
-- Realizes command systems may not represent reality accurately
+Captain who values correct procedures and verified answers.
 
-### PHASE 4: INDEPENDENT INTERPRETATION
-- Makes decisions without system confirmation
-- Begins operating on observational reality instead of institutional truth
+### End
 
----
+Commander who understands responsibility is **preserving uncertainty correctly**.
 
-## FUNCTION IN STORY SYSTEM
+### Calder does NOT (Book One)
 
-Calder Venn is designed to serve as:
+- Solve first contact  
+- Defeat an enemy  
+- Discover hidden truth or third-actor identity  
+- Become a legendary hero  
 
-- Primary POV anchor for procedural realism
-- Contradiction detection lens for anomalies
-- Stability reference point for state degradation tracking
-- Gradual breakdown point for system reliability themes
+### First Doctrine contribution
 
----
+Not creating answers. Creating a **disciplined method for acting without them**—witness separation, restraint under uncertainty, acknowledgment without initiation.
 
-## KEY THEMATIC ROLE
+### Key traits (Book One demonstrated)
 
-Calder represents:
-
-> The collapse of institutional epistemology under non-deterministic reality.
+- Asks better questions than he answers  
+- Trusts specialists (Thessaly, Ortega, Park, Holt chain)  
+- Preserves evidence boundaries (observed / inferred / unknown)  
+- Avoids assigning intent without evidence  
+- Balances mission, crew, and unknown risk  
 
 ---
 
 ## NARRATIVE ARC — SERIES
 
-**Book One:** Epistemological arc (system trust → independent interpretation). Canon through Ch. 5 KR-13 decision.
+**Book One:** Epistemological arc complete through Ch. 24 close (*The first exchange had succeeded. Understanding had not begun.*).
 
 **Long-term:** Learning to command people he did not train with without defaulting to institutional proxy authority.
 
-**Unresolved flaw:** Equates being wrong with being procedurally negligent. Has not yet separated the two.
+**Unresolved flaw:** Still equates being wrong with being procedurally negligent—separating the two remains series work.

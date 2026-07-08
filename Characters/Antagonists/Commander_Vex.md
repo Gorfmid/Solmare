@@ -89,7 +89,7 @@ Little is established beyond Ch. 5. Do not invent biography, empire name, or per
 
 ## RELATED THREADS
 
-- **External threat:** Rival empire along frontier (Collectives thread in Ch. 1 — **not linked on page to Vex yet**)
+- **External threat:** Structured contact beyond survey margins (Book One locked — intent unknown; **not** linked to Maris Chen thread)
 - ***Kestrel Veil*:** Destroyed from Fleet perspective at bearing 214 mark 6; Vex's crew treated contact as scout-class reconnaissance
 - **Dominion Thread registry:** `Books/Book_01_The_Kestrel_Veil_Incident/Act_Outlines/chapter_5_enemy_contact_pov.md`
 - **State log:** `Books/Book_01_The_Kestrel_Veil_Incident/State/chapter_5_state_log.md`

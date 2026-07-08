@@ -21,7 +21,7 @@ Book One is structured around **escalation of understanding**, not episodic myst
 | **I — Routine Patrol** | 1–4 | Empire, crew, ship baseline; mission begins |
 | **II — The Kestrel Veil Incident** | 5–8 | **Core defining event** — contact, survival, recovery, return |
 | **III — Shadows Beyond the Border** | 9–16 | Discovery of an **unknown operational civilization** beyond the border |
-| **IV — First Doctrine** | 17–24 | Fleet doctrine shift; first **strategic** understanding of the opposing presence |
+| **IV — First Doctrine** | 17–24 | First Doctrine established; Edition 144 teaches contact framework under uncertainty |
 
 **Canonical framing (replaces prior structure):**
 
@@ -45,7 +45,7 @@ Full build sequence for `Manuscript/_build/build_manuscript.ps1` — see `Archiv
 | 3 | The Ship That Refuses to Die | `chapter_3.md` | 5,048 | Act I |
 | 4 | Routine Patrol | `chapter_4.md` | 2,705 | Act I ends |
 | 5 | Mission's End | `chapter_5.md` | 5,064 | Act II opens |
-| 6 | First Contact (Anomaly Site Alpha) | `chapter_6.md` | 3,370 | Act II |
+| 6 | Witness | `chapter_6.md` | 3,370 | Act II |
 | — | **Kestrel Veil schematic** | `Manuscript/assets/kestrel_veil_schematic.png` | — | **Before Ch. 7** — Fleet reconnaissance vessel blueprint; preamble in `chapter_7.md` |
 | 7 | The Living Ship | `chapter_7.md` | 9,608 | Act II |
 | 8 | The Quiet Before the Silence | `chapter_8.md` | 4,732 | Act II ends |
@@ -68,6 +68,7 @@ Full build sequence for `Manuscript/_build/build_manuscript.ps1` — see `Archiv
 | 23 | Recognition | `chapter_23.md` | 2,022 | Act IV — behavior anomaly; *Iron Harrow* visibility choice; technical acknowledgment exchange; **DRAFT** |
 | 24 | After Contact | `chapter_24.md` | 1,606 | Act IV ends — post-contact aftermath; fringe relay + unresolved third source; **DRAFT** · **END BOOK ONE** |
 | — | **Epilogue** | `Chapters/epilogue.md` | 1,212 | *First Day* — Edition 144 + **Required Reading** bookend |
+| — | **Appendix** | `Appendix/book_one_appendix.md` | 2,452 | Fleet Historical Office reference supplement (post–Book One); Appendices A–E |
 
 **Total (publication build):** **88,597 words** (source `Chapters/*.md` + `Archive/`; counts from markdown source files)  
 **Chapters only (1–24):** **87,038 words**  
@@ -96,22 +97,21 @@ Legacy filenames (`act2_chapters_6-11_generation.md`, `act3_chapters_12-18_gener
 
 For generations, the Fleet Authority has maintained peace throughout the Solmare Quadrant, connecting hundreds of worlds through exploration, commerce, diplomacy, and military presence. During Founders' Week, the Empire celebrates its prosperity and the generations who built it.
 
-While the Empire celebrates, intelligence analyst **Maris Chen** uncovers disturbing evidence that a rival empire along the frontier is quietly preparing for war. Before she can deliver her report to Fleet Command, she dies unexpectedly from a common medical event. Her unfinished warning disappears into routine administrative traffic, unnoticed by everyone who needed to read it.
+While the Empire celebrates, Cartography Division analyst **Maris Chen** documents that Segment Seven's accepted model will not reconcile—persistent baseline divergence, conflicting validated returns, unresolved navigation inconsistencies. Her professional conclusion: *the map does not agree with itself.* She dies from a medical event before completing section three of her escalation report; the unfinished draft is buried in routine traffic. Fleet later reclassifies the packet **antecedent unresolved**—connected to later segment seven events, not a solved warning.
 
-Unaware that history has already changed, newly commissioned Captain **Calder Venn** graduates from the Fleet Administrative Academy expecting a prestigious first command. Instead, he inherits the *Kestrel Veil*—an aging reconnaissance vessel that should have been retired decades ago, yet somehow continues returning from missions that should have destroyed her.
+Unaware that the map was already wrong, newly commissioned Captain **Calder Venn** graduates from the Fleet Administrative Academy expecting a prestigious first command. Instead, he inherits the *Kestrel Veil*—an aging reconnaissance vessel that should have been retired decades ago, yet somehow continues returning from missions that should have destroyed her.
 
-What begins as routine patrol becomes the **Kestrel Veil Incident** — then discovery beyond the border — then the Fleet's first strategic reckoning with a structured opposing force.
+What begins as routine patrol becomes the **Kestrel Veil Incident** — then discovery beyond the border — then the Fleet's first strategic reckoning with structured contact under uncertainty.
 
 ---
 
 ## Current Manuscript Status
 
-**BOOK ONE IN PROGRESS** — Prologue · Archive interludes · Ch. 1–21 · Epilogue **LOCKED** · Ch. 22–24 **DRAFT**
+**BOOK ONE LOCKED** — Prologue · Archive interludes · Ch. 1–24 · Epilogue · Appendix
 
 | Status | Pieces |
 |--------|--------|
-| ✓ **LOCKED** | Prologue, FSA-143-07, FCC-7712, FDB-144-DRAFT, Ch. 1–21, Epilogue |
-| **IN PROGRESS** | Ch. 22–24 manuscript polish · epilogue alignment check |
+| ✓ **LOCKED** | Prologue, FSA-143-07, FCC-7712, FDB-144-DRAFT, Ch. 1–24, Epilogue, Appendix |
 | ✓ **Editorial** | Global terminology + system-behavior passes applied to `Chapters/` (see below) |
 | ✓ **Illustration** | *Kestrel Veil* schematic — before Ch. 7 (see **Illustrations** below) |
 | Build (on request) | `Manuscript/_build/rebuild_act.ps1` · `Manuscript/_build/build_manuscript.ps1` — archives per `Archive/archive_placement.json` |
@@ -201,7 +201,7 @@ Establish the Empire, Calder, the crew, and the ship before the Incident.
 
 ### Purpose
 
-Introduce the Solmare universe, Fleet Authority prosperity, frontier tension, and Maris Chen's lost warning — before the primary crew story begins.
+Introduce the Solmare universe, Fleet Authority prosperity, frontier tension, and Maris Chen's **first map contradiction** — before the primary crew story begins.
 
 **Canonical scene order:** The Living Empire · A Day in the Empire · Tomorrow Begins · The Report That Never Arrived
 
@@ -268,9 +268,9 @@ Presumed hull loss at Kestran Spiral bearing 214 mark 6; Leviathan-class contact
 
 ---
 
-## Chapter 6 — First Contact
+## Chapter 6 — Witness
 
-**Prose title:** *First Contact (Anomaly Site Alpha)*  
+**Prose title:** *Witness*  
 **Status:** **LOCKED** (3,370 words)  
 **Character sheets:** Dana Holt, Priya Nand
 
@@ -373,7 +373,7 @@ VI-Gamma six-hour patch window; crew rest; Park/Dana emotional center; independe
 | 18 | New Words | **LOCKED** | 2,365 | First formal ROE debate for structured unknown force — not scout improvisation |
 | 19 | The Witnesses | **LOCKED** | 3,307 | *Veil* crew testimony certified; Calder First Witness |
 | 20 | The Long Shadow | **LOCKED** | 2,166 | Parallel lives; Dominion Standing Observation; Edition 144 begins |
-| 21 | The First Doctrine | **LOCKED** | 3,912 | Edition 144 adopted (unified Contact Doctrine); department working group; Ellis disclosure deferred; Rowan signs; *Veil* named reference hull; Rowan/Calder; Lisette; contact-prep refit (signature reduction, comms partial) |
+| 21 | The First Doctrine | **LOCKED** | 3,912 | **First Doctrine adopted** (unified Contact Doctrine); Edition 144 framework authorized for training; department working group; Ellis disclosure deferred; Rowan signs; *Veil* named reference hull; Rowan/Calder; Lisette; contact-prep refit (signature reduction, comms partial) |
 | 22 | The Crossing | **DRAFT** | 2,315 | Calder briefing; departure; Alpha Seven crossing; Thessaly XO continuity book; command deck close; **Iron Harrow** / V17 coda (Vex — probable trial-scout match, cloak holds) |
 | 23 | Recognition | **DRAFT** | 2,022 | Behavior anomaly; parallel decisions; *Iron Harrow* reveals by choice; technical ID exchange; eleven-second latency close |
 | 24 | After Contact | **DRAFT** | 1,606 | Post-contact aftermath; Calder/Vex parallel reports; Fleet institutional response; Thessaly XO *the ship returned*; fringe relay + unresolved third source — **END BOOK ONE** |

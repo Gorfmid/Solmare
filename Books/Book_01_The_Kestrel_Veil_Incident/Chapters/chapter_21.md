@@ -9,7 +9,7 @@
 
 Lieutenant Ahn read from the certified witness record into the annex session—record first, before any department spoke.
 
-The annex was quieter than it had been during certification. Calder Venn had returned to berth fourteen-C and medical follow-up. The crew witnesses had been dismissed days ago. What remained on the display was the record Fleet would have to live inside.
+The annex was quieter than it had been during certification. Calder Venn had returned to berth fourteen-C and medical follow-up. The crew witnesses had been dismissed days ago. What remained on the display was the certified witness record.
 
 Ahn read from the Incident appendix first.
 
@@ -66,7 +66,7 @@ Calder Venn sat in the ward office beside berth fourteen-C with a medical cleara
 
 The Doctrine annex was three kilometers and two bureaucracies away. He did not need to be there for Fleet to write procedure from his record. That was the bargain witness certification implied—you testified once; departments worked forever.
 
-Jun Park's segregated archive checksum still showed green on the secondary pane. Ortega's harmonic sample in appendix F unchanged. The Incident window at bearing two-one-four mark six closed in the log but not in Calder's memory.
+Jun Park's separate archive checksum still showed green on the secondary pane. Ortega's harmonic sample in appendix F unchanged. The Incident window at bearing two-one-four mark six closed in the log but not in Calder's memory.
 
 He opened his certified closing statement—not to rewrite it, to verify it had not softened in filing.
 
@@ -76,9 +76,9 @@ Below it, Fleet had already appended Mercer's synthesis in draft margin:
 
 *They demonstrated capability. They demonstrated restraint.*
 
-Calder read both lines and closed the pane. Procedure was Fleet's job now. Survival had been his.
+Calder read both lines and closed the pane. Fleet would route from the filed record.
 
-Through the berth glass, *Kestrel Veil* listed two degrees port on correction thrust stewardship while Koss's team argued with a yard crane assignment. Ordinary damage. Ordinary homecoming. The corridor beyond seven-alpha was neither.
+Through the berth glass, *Kestrel Veil* listed two degrees port on correction thrust stewardship while Koss's team argued with a yard crane assignment. Ordinary damage. Ordinary homecoming. Mission four-four-seven-one-S still listed amended corridor seven-alpha.
 
 ---
 
@@ -100,7 +100,7 @@ Below it, three lines Ahn had drafted from Calder's record and Rowan's certifica
 
 *We will not assign intent without evidence.*
 
-"One doctrine," Mercer said. "Departments contribute implementation. One response framework."
+"One framework," Mercer said. "Departments contribute implementation. One contact guidance set."
 
 Captain Reeves from the training desk nodded. "One manual. I can brief that."
 
@@ -226,7 +226,7 @@ Sato slid her reprioritization strip—passive collection expansion, capability 
 
 Okoye's notation summary fit on one pane—epoch band, operational overlay, incident bearing flagged, public revision routed to Ellis when authorized.
 
-Nobody argued separate doctrines. They checked whether one framework covered their risks.
+Nobody argued separate frameworks. They checked whether one contact guidance set covered their risks.
 
 Rowan said, "If this holds, I sign tonight."
 
@@ -329,11 +329,7 @@ Rowan turned off the office light.
 
 In the Doctrine annex, Reeves copied the three behavioral lines onto a training desk whiteboard for morning shift. In Map Room Four, Okoye split the overlay into observation and inference layers before second shift arrived. On the modeling floor, Sato's scenario trees began a new run—capability weighted, restraint on the record.
 
-Fleet had changed how it would approach the boundary.
-
-Fleet had not learned what waited there.
-
-But Fleet had named the hull that would carry the question back.
+Rowan's authorization routed to internal command. Berth fourteen-C held the reference hull naming for contact preparation—not deployment orders.
 
 ---
 
@@ -370,8 +366,6 @@ Rowan studied him. "Do you understand the return?"
 
 Calder was quiet long enough that the yard clerk's argument with Koss became audible again.
 
-"Surviving the discharge was not the hard part," he said. "We know more than anyone else in Fleet about what happened at that bearing. We also know how little that is. Returning without acting like the answer is already written—that is the hard part."
-
 Rowan nodded once. Not approval. Receipt.
 
 "What do you need?"
@@ -390,7 +384,7 @@ Rowan capped his slate. "Refit authorization keys today. Contact preparation, no
 
 He left without shaking hands. Calder watched him cross the berth apron and did not feel chosen.
 
-He felt assigned a problem Fleet had finally admitted was real.
+Contact preparation file. Reference hull. Same berth.
 
 ---
 
@@ -414,7 +408,7 @@ She studied him the way she studied receipts—looking for the line that did not
 
 "It is the only one I have clearance to give."
 
-"They have the procedure now," Calder said. "I still have the bearing."
+"Fleet has contact guidance now," Calder said. "I still have the bearing on file."
 
 "Then put the bearing down long enough to eat," Lisette said. "Your mother would have hated how thin you are. Your father would have asked who cleared you to leave again."
 
@@ -472,13 +466,11 @@ Thessaly, behind Calder: "That is not a confidence statement."
 
 "Exactly," Brenner said. "Now it's our ship again."
 
-Improved. Not perfect. Work lights along the welded seam. Crew moving through familiar faults with new vocabulary.
+Improved. Not perfect. Work lights along the welded seam. Crew moving through familiar faults with contact-preparation headers on the manifest.
 
 Holt's relay integration would stay partial until Fleet understood what first-contact communication even required. The signature reduction package would stay experimental—disciplined presence, not concealment.
 
-The unknown remained unknown.
-
-Fleet had a way to approach it anyway—the same pieced together scout on the cradle, the crew that had already returned once without pretending they understood what waited beyond seven-alpha.
+Same ship on the cradle. Refit manifest open. Mission packet amended.
 
 ---
 

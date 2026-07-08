@@ -116,7 +116,7 @@ Rowan does **not** know (and Act IV must not casually grant):
 
 ### Maris Chen thread
 
-- Rowan may not initially connect the *Kestrel* report to **Maris Chen's** unfinished pre-Act I warning (buried in routine traffic). Act IV may echo this in later chapters (see Ch. 23 roadmap)— not Rowan's Day One knowledge.
+- Rowan does **not** receive Maris's packet in Ch. 7. Ellis comparison work (epilogue) reclassifies the draft **antecedent unresolved** and routes a brief to Rowan post–Book One—connected to segment seven events, not a rival-empire warning.
 
 ---
 
@@ -204,7 +204,7 @@ Words explicitly rejected in draft process:
 
 ### Chain of custody
 
-- **Jun Park** — segment seven threads archived triple redundancy; segregated Holt lane timestamps; correlation strips
+- **Jun Park** — segment seven threads archived triple redundancy; separate VI-Gamma custody lane timestamps; correlation strips
 - **Felix Ortega** — listen watch logs
 - **Ari Halden** — infrastructure band charts
 - **Damon Reyes** — lane age / navigation overlays
@@ -326,7 +326,7 @@ Technical proof *Kestrel* did not hallucinate; relay integrity; blanket-on-conso
 
 ### Jun Park
 **Role:** Buffer integrity / archive reliability.  
-Triple redundancy; segregated lanes; institutional trust in logs.
+Triple redundancy; separate custody lanes; institutional trust in logs.
 
 ### Damon Reyes
 **Role:** Specialist witness — navigation / lane age.  

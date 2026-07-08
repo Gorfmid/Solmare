@@ -5,16 +5,17 @@
 
 ## 1. Function
 
-Fleet Communications Command owns the network— relay nodes, buffer protocols, upstream latency, fringe windows, segregated lanes.
+Fleet Communications Command owns the network— relay nodes, buffer protocols, upstream latency, fringe windows, **separate custody lanes**.
 
 It decides **what counts as heard**:
 
-- Holt relay correction of destruction assessment
-- Park's segregated fringe lanes
+- Holt relay correction of destruction assessment (VI-Gamma chain)
+- Park's separate fringe lanes (shipboard buffer)
 - Triple-redundant segment seven archives
 - Pickup handshake when *Kestrel* re-enters Fleet space
+- **Ch. 17+:** Dana Holt at Fleet Validation Bay — Communications Command incident-window routing
 
-Communications is where **truth survives bureaucracy** or dies in merge errors.
+Communications is where **truth survives bureaucracy** or dies in routing errors.
 
 ---
 
@@ -57,7 +58,7 @@ See `Books/Book_01_The_Kestrel_Veil_Incident/Archive/archive_02_fleet_communicat
 ## 5. Likely Friction
 
 - Demanding active emissions proof Fleet never had.
-- Mishandling Thessaly report merge into legacy templates.
+- Mishandling Thessaly report routing into legacy templates.
 - Dismissing Ortega's civilian traffic harmonics as noise.
 - Pressure to broadcast conclusions before Rowan approves scope.
 
@@ -68,12 +69,12 @@ See `Books/Book_01_The_Kestrel_Veil_Incident/Archive/archive_02_fleet_communicat
 | Character | Role |
 |-----------|------|
 | **Jun Park** | Buffer/archivist aboard *Kestrel* |
-| **Dana Holt** | VI-Gamma relay authority |
+| **Dana Holt** | VI-Gamma relay authority; Ch. 17+ Communications Command (Validation Bay) |
 | **Priya Nand** | Signal validation; watch partner |
 | **Yuki Tanaka** | Emitter discipline witness |
 | **Felix Ortega** | Listen watch logs |
 
-*Placeholder:* Fleet Communications duty admiral, relay merge auditor, fringe window scheduler.
+*Placeholder:* Fleet Communications duty admiral, relay validation auditor, fringe window scheduler.
 
 ---
 

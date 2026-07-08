@@ -382,7 +382,7 @@ Another silence.
 
 "Alive," Holt said. "That word doesn't fix the void. It just sits beside it."
 
-Park looked at the personal lane header still segregated from Fleet summary writers—the same partition since the bloom. "I had a message drafted too. After your posting message. Before the discharge. I didn't send it either."
+Park looked at the personal lane header still separate from Fleet summary writers—the same partition since the bloom. "I had a message drafted too. After your posting message. Before the discharge. I didn't send it either."
 
 Holt was quiet for a moment. "What did it say?"
 
@@ -416,7 +416,7 @@ Park was quiet.
 
 "No poetry," Park agreed.
 
-"I don't know what to file from here," Park said. "Half the buffer is segregated because Fleet would write a story I'm not ready to sign. Half is noise. Wrong file and someone dies downstream."
+"I don't know what to file from here," Park said. "Half the buffer is separate because Fleet would write a story I'm not ready to sign. Half is noise. Wrong file and someone dies downstream."
 
 "You file what you saw," Holt said. "You file what you didn't see. You let Fleet write their own adjectives."
 

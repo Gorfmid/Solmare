@@ -31,7 +31,7 @@ Meaning comes from what gets **filed, routed, refused, or read** — not from na
 | Do | Example |
 |----|---------|
 | One action per beat | He filed it. Incident window closed. |
-| Vocabulary from the institution | routing, custody, segregated, executive synthesis, classification, recommendation |
+| Vocabulary from the institution | routing, custody, separate lanes, executive synthesis, classification, recommendation |
 | List what a document says | restraint documented, departure clean by Fleet metrics |
 | Land one clean judgment | refused *enemy* without refusing seriousness |
 | Separate packages by office/department | raw archive to Historical Office; department comments stay on the packet |
@@ -47,7 +47,7 @@ Meaning comes from what gets **filed, routed, refused, or read** — not from na
 | Aphorisms / clever asides | "Quiet satisfaction is allowed" | Cut or replace with procedural action |
 | Abstract wrap-up sentences | "without reducing operational significance" | Name the institutional choice: *refused enemy without refusing seriousness* |
 | Staccato verification stacks | "Fourteen returns. Same bearing. Same profile." | Establish once; light callbacks only |
-| Legacy merge language | combine lane, combined bundle, upstream combine | segregated, department review independent, executive synthesis pending |
+| Legacy combine language | combine lane, combined bundle, upstream combine | separate custody, department review independent, executive synthesis pending |
 | Philosophy in system voice | "void did not change when you looked" | repeated-pass logs, sweep files, routing entries |
 | Analogies unrelated to systems | traffic lane metaphors for career moves | capital routing active; fringe relay under sweep |
 | Beverage temperature as time marker | coffee cooled / gone cold / before the tea went cold | before Ahn opened the slide; all three stamps were down; while the branches were stamped |
@@ -67,7 +67,7 @@ When writing custody, Communications, or ingest scenes:
 
 The issue is **premature interpretation**, not accidental data merging.
 
-**Preferred terms:** segregated · custody separation · pending departmental review · executive synthesis · routing comments unresolved · raw archive
+**Preferred terms:** separate custody · custody separation · pending departmental review · executive synthesis · routing comments unresolved · raw archive
 
 ---
 

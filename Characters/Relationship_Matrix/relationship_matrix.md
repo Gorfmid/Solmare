@@ -2,7 +2,7 @@
 
 Senior crew pairwise dynamics. Trust levels: **High / Solid / Professional / Developing / Strained**.
 
-Book One baseline (post–Chapter 5 / pre–Act II rewrite): cohesion **high under contact strain** at Act I end; crew **presumed lost with vessel**. Matrix reflects **Ch. 1–5 living crew** until Ch. 6+ revival re-establishes dynamics.
+Book One baseline (post–Ch. 24 lock): cohesion tested under contact strain; crew intact; matrix reflects **Ch. 1–24** dynamics unless noted.
 
 ---
 
@@ -34,7 +34,7 @@ Book One baseline (post–Chapter 5 / pre–Act II rewrite): cohesion **high und
 | Shared history | Mission-only; Calder does not know Reyes's *Meridian Echo* context |
 | Communication | Data reports upward; Calder asks clarifying questions Reyes answers literally |
 | Calder misunderstands | That Reyes's sweep advocacy is impatience rather than professional completion drive |
-| Reyes misunderstands | That Calder distrusts his data rather than distrusting merge conditions |
+| Reyes misunderstands | That Calder distrusts his data rather than distrusting premature combine conditions |
 | Calder admires | Precision under contradiction; parallel buffer discipline |
 | Reyes admires | Calder authorized Theta-7 hold without fleet closure |
 
@@ -51,7 +51,7 @@ Book One baseline (post–Chapter 5 / pre–Act II rewrite): cohesion **high und
 | Shared history | She has corrected him twice in front of witnesses without embarrassment—he noted this |
 | Communication | She brings problems in person; he receives without defensiveness |
 | Calder misunderstands | That her delays are obstruction rather than liability protection |
-| Koss misunderstands | That he wants speed over accuracy—he wants mergeable truth |
+| Koss misunderstands | That he wants speed over accuracy—he wants reconcilable truth |
 | Calder admires | Willingness to say "won't certify" to his face |
 | Koss admires | He ran all five diagnostic cycles without cutting short |
 
@@ -87,7 +87,7 @@ Book One baseline (post–Chapter 5 / pre–Act II rewrite): cohesion **high und
 | Calder misunderstands | That her pessimism is morale damage rather than risk accounting |
 | Halden misunderstands | That Calder's institutional trust is naivety rather than training |
 | Calder admires | Quiet-on-watch discipline when humor stops |
-| Halden admires | He terminated KR-12 sweep rather than forcing merge for mission appearance |
+| Halden admires | He terminated KR-12 sweep rather than forcing false combine for mission appearance |
 
 ---
 
@@ -103,7 +103,7 @@ Book One baseline (post–Chapter 5 / pre–Act II rewrite): cohesion **high und
 | Communication | Brief, mutual shorthand; she can read his "Primary array:" reports as advocacy |
 | Thessaly misunderstands | That he undervalues crew safety—he values knowledge as safety |
 | Reyes misunderstands | That she opposes exploration—she opposes unbounded exposure |
-| Thessaly admires | He maintains parallel models without merge pressure |
+| Thessaly admires | He maintains parallel models without combine pressure |
 | Reyes admires | She supported Theta-7 hold without fleet confirmation |
 
 ---
@@ -120,7 +120,7 @@ Book One baseline (post–Chapter 5 / pre–Act II rewrite): cohesion **high und
 | Communication | Logistics and certification status; minimal small talk |
 | Thessaly misunderstands | That Koss's certification delays are pushback against command |
 | Koss misunderstands | That Thessaly wants speed over reconciliation |
-| Thessaly admires | Log segregation discipline under captain's merge pressure |
+| Thessaly admires | Log separation discipline under captain's combine pressure |
 | Koss admires | Thessaly enforces crew rest when Calder will not stop for it |
 
 ---
@@ -188,7 +188,7 @@ Book One baseline (post–Chapter 5 / pre–Act II rewrite): cohesion **high und
 | Communication | Minimal direct; Park reads Reyes's stress through repetition behavior |
 | Reyes misunderstands | That Park's social checking-in is distraction |
 | Park misunderstands | That Reyes's quiet means he is fine |
-| Reyes admires | Park buffers fleet fragments without merge |
+| Reyes admires | Park buffers fleet fragments without false combine |
 | Park admires | Reyes never performs confidence he does not have |
 
 ---
@@ -206,7 +206,7 @@ Book One baseline (post–Chapter 5 / pre–Act II rewrite): cohesion **high und
 | Reyes misunderstands | That Halden opposes mapping—she opposes unbounded mapping under contradiction |
 | Halden misunderstands | That Reyes's forward bias is recklessness—it is professional identity |
 | Reyes admires | She frames downside without telling him he is stupid |
-| Halden admires | He stopped arguing after KR-12 termination and segregated buffers without sulking |
+| Halden admires | He stopped arguing after KR-12 termination and separated buffers without sulking |
 
 ---
 

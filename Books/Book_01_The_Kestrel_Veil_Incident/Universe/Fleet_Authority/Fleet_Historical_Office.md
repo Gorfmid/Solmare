@@ -74,7 +74,7 @@ Act IV may use Historical Office as **institutional denial** or **slow honest re
 
 **Book One (Ch. 17):** **Soraya Ellis** — sorting-room liaison analyst; ingests segment seven cross-office routing; recurring institutional POV as needed.
 
-**Note:** Maris Chen (Ch. 1) worked archival pattern queues— her lost warning may echo in Ch. 23 via Historical/Intelligence overlap.
+**Note:** Maris Chen (Ch. 1) documented Segment Seven baseline divergence— incomplete escalation, not threat brief. Ellis reclassifies **antecedent unresolved** (epilogue); Rowan receives comparison brief post–Book One.
 
 ---
 

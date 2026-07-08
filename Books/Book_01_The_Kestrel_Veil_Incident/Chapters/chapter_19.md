@@ -252,7 +252,7 @@ Rowan nodded. Mercer keyed interim witness completion. Coffee was replaced. Nobo
 
 *THE EVIDENCE*
 
-Communications validation had moved to the chamber's secondary table—relay path diagrams, custody headers, VI-Gamma crosswalk prints, Park's segregated archive manifests. Coffee had been replaced once and allowed to go cold again. Priya Nand ran checksum panes. Holt signed when the hashes matched the watch log.
+Communications validation had moved to the chamber's secondary table—relay path diagrams, custody headers, VI-Gamma crosswalk prints, Park's separate archive manifests. Coffee had been replaced once and allowed to go cold again. Priya Nand ran checksum panes. Holt signed when the hashes matched the watch log.
 
 Holt stood without theatrics.
 

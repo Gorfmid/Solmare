@@ -122,15 +122,15 @@ Calder told them to list could-be, weight could-be, and not marry could-be. Hald
 
 Small laugh— one breath, gone. Not morale. Recognition.
 
-"Continue mission," he said. "Passive only. Increase caution— tighter rotation discipline, shorter listen windows, segregated archives. No active sweep. No course change toward contact unless collision math demands it. Note the deltas. Compare them daily."
+"Continue mission," he said. "Passive only. Increase caution— tighter rotation discipline, shorter listen windows, separate archives. No active sweep. No course change toward contact unless collision math demands it. Note the deltas. Compare them daily."
 
-Park noted it. Walsh passed through the deck periphery, checked light schedules, redirected one overdue flag to Thessaly with *Captain aware* and did not interrupt. Small competence holding the ship together while the universe rearranged itself in millimeters.
+Park noted it. Walsh passed through the deck periphery, checked light schedules, redirected one overdue flag to Thessaly with *Captain aware* and did not interrupt.
 
 Brenner on intercom reported handshake lag ticking up again—not failure, environment speaking. Calder acknowledged.
 
 The *Veil* whispered.
 
-Somewhere in the lane traffic's routine, an echo answered— not words, not threat, only the subtle difference between a volume empty and a volume watched.
+Somewhere in the lane traffic, a passive return answered— not words, not confirmation, only the measurable gap between an empty volume and one under observation.
 
 ---
 
@@ -264,7 +264,7 @@ Mira Thessaly on the hatch, arms folded. "Confidence?"
 
 "Note the change," she said.
 
-Park copied the pass to segregated archive. No Fleet relay. No path home. Only local truth accumulating like debt.
+Park copied the pass to separate archive. No Fleet relay. No path home. Only local truth accumulating like debt.
 
 Ortega overlayed today's authentication density against yesterday's and the day before's. A slope. Gentle. Not cliff.
 
@@ -394,7 +394,7 @@ Mission +19:00, segment seven, day six.
 
 Calder called it an overlay because *briefing* still sounded like Fleet and Fleet was a story with holes.
 
-Reyes at navigation. Ortega at listen watch summaries. Thessaly with slate open now— recording because some patterns needed ink even when they could not be transmitted. Halden on infrastructure age bands. Park on communications segregation. Tanaka on emitter confirmation. Hale on rotation limits. Brenner on handshake lag trends.
+Reyes at navigation. Ortega at listen watch summaries. Thessaly with slate open now— recording because some patterns needed ink even when they could not be transmitted. Halden on infrastructure age bands. Park on separate comm routing. Tanaka on emitter confirmation. Hale on rotation limits. Brenner on handshake lag trends.
 
 The display built itself in layers.
 
@@ -440,7 +440,7 @@ He did not add what navigators added in private: *Could be my navigation math is
 
 "Could be," Calder said. "Same rule. List. Weight. Don't marry."
 
-Ortega at the hatch reported procedure shift correlated with faint return persistence on passive plot—correlation only. Calder told Park to copy it beside the captain's words in the segregated archive— times no upstream authority would see, truth stored in a ship that had become an archive of a war not yet declared.
+Ortega at the hatch reported procedure shift correlated with faint return persistence on passive plot—correlation only. Calder told Park to copy it beside the captain's words in the separate archive— times no upstream authority would see, truth stored in a ship that had become an archive of a war not yet declared.
 
 Tanaka, quiet: "We are still dark."
 

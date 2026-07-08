@@ -47,7 +47,7 @@ Stratimirov set his cup down. "What changed?"
 
 Pause.
 
-Rain on glass. Clerks in the arcade arguing about stall permits. Civic festival gold thread anticipatory, ordinary.
+Rain on glass. Clerks in the arcade arguing about stall permits. Civic festival banners taut in the lower arcade.
 
 Stratimirov nodded once.
 
@@ -88,7 +88,7 @@ The wardroom was warm. The coffee was bitter. The question on the table was not 
 
 It was time.
 
-Calder Venn sat at the head because captains sat at heads when decisions approached, not because heads made decisions alone. Mira Thessaly had the overlay— traffic density, authentication slopes, yard throughput bands, memorial stone translated into observation language while Fleet's old categories still lagged behind the returns. Felix Ortega had listen watch summaries; Ari Halden had infrastructure ages and the particular exhaustion of an engineer who had stopped being surprised and had not started being comfortable. Damon Reyes had course projections— correction-thruster corridors home, not as escape fantasy, as mathematics. Tomás Brenner had said almost nothing for forty minutes. Jun Park had correlation strips he did not yet lay down— the way Park withheld paper until the room was ready.
+Calder Venn sat at the head of the table. Mira Thessaly had the overlay— traffic density, authentication slopes, yard throughput bands, memorial stone rendered in observation language while Fleet's old categories still lagged behind the returns. Felix Ortega had listen watch summaries; Ari Halden had infrastructure ages and the particular exhaustion of an engineer who had stopped being surprised and had not started being comfortable. Damon Reyes had course projections— correction-thruster corridors home, not as escape fantasy, as mathematics. Tomás Brenner had said almost nothing for forty minutes. Jun Park had correlation strips he did not yet lay down— withheld until the room was ready for paper.
 
 Thessaly spoke first because that was her job when the room needed structure. "Passive posture holds. Reing 3 handshake nominal. Emitter discipline intact. Dominion traffic: no search-pattern spike. Remaining days: several, if authorized."
 
@@ -179,7 +179,7 @@ Daria Kovat knelt in the small garden plot behind the apartment block and showed
 
 Five days to the harvest festival if rotation held.
 
-Rain had passed through in the morning and left the air clean in the way District Nine air became clean when stone dried. Children ran in the courtyard beyond the garden wall. Someone practiced chorus lines off-key. Ordinary volume.
+Rain had passed through in the morning and left the air clean when stone dried. Children ran in the courtyard beyond the garden wall. Someone practiced chorus lines off-key.
 
 Neighbor Pelka leaned on the fence with tea in a tin cup. "Your greens are showing off."
 
@@ -466,7 +466,7 @@ Halden: "Threat exposure stacks on the burn home. Conservative vectors reduce cr
 
 He moved on. They returned to the coupling without watching him go.
 
-The communications alcove was brighter— Jun Park at a console with segment seven threads arranged in labeled stacks, then copied, then copied again. Triple redundancy. Segregated lanes. Thessaly's report— bands intact, no euphemism— lived here too, beside listen watch summaries and correlation strips and the quiet persistence of a man who believed losing data was worse than losing sleep.
+The communications alcove was brighter— Jun Park at a console with segment seven threads arranged in labeled stacks, then copied, then copied again. Triple redundancy. Separate routing lanes. Thessaly's report— bands intact, no euphemism— lived here too, beside listen watch summaries and correlation strips and the quiet persistence of a man who believed losing data was worse than losing sleep.
 
 On the secondary display, low volume, Dana Holt sat asleep at her watchpost console— nineteen years of shifts visible in the stillness of her shoulders, someone's blanket draped careful not to touch the mic. Priya Nand had done that, probably. Park kept the lane open without waking her. He did not look up when Calder paused.
 
@@ -478,7 +478,7 @@ Calder continued.
 
 The galley smelled of reheated stew and institutional coffee gone bitter.
 
-Two junior ratings Calder did not interrupt— mess duty, low voices, the ordinary democracy of a small ship.
+Two junior ratings Calder did not interrupt— mess duty, low voices, leftovers between them.
 
 "Brenner doesn't hear the ship," one said.
 
@@ -514,7 +514,7 @@ Silence.
 
 The scrubbers cycled.
 
-Ortega's loop murmured— ordinary traffic, ordinary discipline, ordinary routine in someone else's inheritance.
+Ortega's loop murmured— controller acknowledgments, maintenance window updates, a delayed ore hauler accepting a new ETA.
 
 Thessaly nodded.
 

@@ -91,7 +91,7 @@ One impossible-looking skill per officer—not superhuman, but **memorable**. Th
 
 | Character | Signature Competence |
 |-----------|---------------------|
-| Calder Venn | Synthesizes contradictory reports into one executable decision without false merge |
+| Calder Venn | Synthesizes contradictory reports into one executable decision without false combine |
 | Mira Thessaly | Reorganizes entire ship schedule with full second-order consequence mapping |
 | Damon Reyes | Holds and stress-tests 3D jump solutions mentally before display confirmation |
 | Elara Koss | Diagnoses mechanical failure from sound alone, often before fault codes |

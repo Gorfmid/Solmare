@@ -2,6 +2,8 @@
 
 # Chapter 1 — The Empire
 
+> **CANON SUPERSEDED (Book One locked):** Maris Chen documents Segment Seven map reconciliation failure — not rival-empire intelligence. Do not use this directive's Collectives / war-preparation beats. Manuscript `Chapters/chapter_1.md` is authoritative.
+
 ## Target Length
 
 See `Writing_System/Style_Guide/chapter_length_principle.md` — dynamic model (~4,000–6,000 typical; extend if material requires).

@@ -120,7 +120,7 @@ Nothing to do with the plot. Exists when the camera is off.
 
 - Diagnostic discipline under contradictory outputs (Ch. 1–4)
 - Clear separation of hardware fault vs. external anomaly
-- Log segregation protocol implementation (Ch. 3–4)
+- Log separation protocol implementation (Ch. 3–4)
 - Calm in passageway confrontations—brings problems to captain directly
 - Maintenance forecasting that prevents cascading failures
 
@@ -191,7 +191,7 @@ Koss will delay captain's action if ship-dependent systems lack reconciliation�
 
 ## NARRATIVE ARC — SERIES
 
-**Book One:** Physical continuity model; log segregation architect; ghost recalibration flag (Ch. 3).
+**Book One:** Physical continuity model; log separation architect; ghost recalibration flag (Ch. 3).
 
 **Long-term:** Learning when hardware truth is sufficient and when it is a comforting subset of a larger problem.
 

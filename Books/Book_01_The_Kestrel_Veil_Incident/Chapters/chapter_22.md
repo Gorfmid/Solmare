@@ -25,23 +25,23 @@ Slates lit. The crew wrote without interrupting.
 
 Calder pulled up the communications slide—Holt's relay chain, confirm tokens on every upstream send. "VI-Gamma is still intermittent. Route through Validation Bay anyway."
 
-Thessaly took the room through tasks. Passive dwell extension on listen watch. Emitter discipline unchanged—Tanaka's confirmation protocol on every sector. Park to maintain segregated archive lanes; segment seven returns copied to Holt's integrity schema on send. Walsh: medical rotation limits filed; no waiver signatures without Calder's approval.
+Thessaly took the room through tasks. Passive dwell extension on listen watch. Emitter discipline unchanged—Tanaka's confirmation protocol on every sector. Park to maintain separate archive lanes; segment seven returns copied to Holt's integrity schema on send. Walsh: medical rotation limits filed; no waiver signatures without Calder's approval.
 
 "Questions?" Calder asked.
 
-Ortega: "Contact initiation threshold?"
+"Contact initiation threshold?" Ortega asked.
 
 "Operations signature," Calder said. "Same as Fleet wrote it."
 
-Brenner: "Withdrawal triggers?"
+"Withdrawal triggers?" Brenner asked.
 
 "Hull preservation. Loss of passive posture integrity. My order." Calder paused. "File judgment afterward."
 
-Halden: "If signature reduction conflicts with passive sweep?"
+"If signature reduction conflicts with passive sweep?" Halden asked.
 
 "Log the conflict," Calder said. "Passive sweep takes precedence."
 
-Reyes: "Route confirmed through Neutral Zone transit. Alpha Seven entry on filed corridor."
+"Route confirmed through Neutral Zone transit. Alpha Seven entry on filed corridor," Reyes said.
 
 "Confirmed," Calder said. "Secondary observation protocol applies from the Alpha Seven boundary forward."
 
@@ -61,7 +61,7 @@ Felix Ortega paused at the hatch. "Captain."
 
 Ortega nodded and went.
 
-Damon Reyes stayed long enough to confirm corridor spacing on the overlay one more time—not doubt, habit. Jun Park copied the briefing footer to segregated archive. Ari Halden took the documentation schema strip without comment.
+Damon Reyes stayed long enough to confirm corridor spacing on the overlay one more time—not doubt, habit. Jun Park copied the briefing footer to separate archive. Ari Halden took the documentation schema strip without comment.
 
 Thessaly waited until the room was theirs, tucked the department strips under her arm, and walked with him toward the command deck.
 
@@ -120,7 +120,7 @@ Dana Holt on Validation Bay relay:
 
 Priya Nand on the relay: "Lag measured. Noted. Chain green."
 
-Park keyed confirm tokens to his segregated shelf. "Copied. No upstream send without dual confirm."
+Park keyed confirm tokens to his separate shelf. "Copied. No upstream send without dual confirm."
 
 Ortega at sensors: "Passive array calibrated. Observation profile active. Emissions minimized."
 
@@ -134,11 +134,11 @@ Brenner at helm, Koss on intercom from the cradle ring:
 
 "That is engineering for *don't touch it,*" Brenner said.
 
-Koss: "Reing 3 holding. Corridor C door still sticks. Kick it on the way out, Brenner."
+From the cradle ring, Koss said, "Reing 3 holding. Corridor C door still sticks. Kick it on the way out, Brenner."
 
 "Logged," Brenner said.
 
-Reyes: "Navigation confirmed route. Secondary observation protocol armed for Alpha Seven boundary crossing."
+Reyes said, "Navigation confirmed route. Secondary observation protocol armed for Alpha Seven boundary crossing."
 
 Thessaly filed Calder's signature on the departure block. Berth fourteen-C released the cradle. Correction thrust engaged—the *Veil*'s familiar slow turn, Brenner's hands steady on a ship he knew by argument.
 
@@ -176,7 +176,7 @@ Park copied the crossing timestamp to three archive lanes. Holt would see it whe
 
 Second watch turnover passed without announcement. Tanaka confirmed emitters dark again. Walsh's rest-cycle reminder appeared on three slates; two were obeyed. Koss logged a thermal variance in the signature package and did not call it failure. Halden logged it anyway.
 
-Ortega's listen watch picture built slowly—traffic density low, cadence early, inference withheld. Occupied noise without a name.
+Ortega's listen watch picture built slowly—traffic density low, cadence early, inference withheld. Occupied volume on passive, no name filed yet.
 
 ---
 
@@ -187,7 +187,7 @@ After second watch turnover, Thessaly locked her cabin door and took the cloth-b
 
 Fleet kept the record—official reports, incident summaries, technical findings.
 
-Executive officers kept what the record could not explain.
+Executive officers kept what witness bands could not carry cleanly upstream.
 
 The book stayed with the hull—executive officer to executive officer, never logged, never off ship. The prior XO had shown her the recess at turnover. Calder knew the tradition, as Dennett had and the captains before them. They did not read it. They did not control it. The contents stayed with the executive officer chain.
 
@@ -252,9 +252,9 @@ Below, Ortega had listen watch. Traffic built in the passive returns—unclassif
 
 Park had sent upstream after Holt's confirm token cleared forty minutes ago. Validation Bay had not returned receipt yet.
 
-Brenner held correction thrust on the filed corridor. Koss's intercom update from Reing was one line: *Reing 3 nominal under current load*—which meant complain, not fail.
+Brenner held correction thrust on the filed corridor. Koss's intercom update from Reing was one line: *Reing 3 nominal under current load*—engineering shorthand for complain, not fail.
 
-Calder had learned to read the ship that way. It had taken the Incident and segment seven and a refit that improved without pretending to fix.
+Calder had learned the ship's complaints the way Brenner did—by repetition, not by manual.
 
 "How long until the next observation point?" Calder asked.
 
@@ -272,13 +272,9 @@ Ahead on the navigation overlay—chart notation from Okoye's operational packet
 
 Calder did not say the designation aloud. He watched the plot advance one tick at a time.
 
-The *Kestrel Veil* held course.
+The *Kestrel Veil* held course on the filed corridor, emitters dark, crew at stations, amended orders on Calder's slate.
 
-Quiet. Patched. Crew at stations. Orders that matched the price already paid.
-
-Somewhere ahead, Alpha Seven waited on the chart.
-
-Occupied space beyond the boundary had not answered yet.
+Ahead, Alpha Seven waited on the chart. Occupied space beyond the boundary had not answered yet.
 
 ---
 
@@ -311,13 +307,13 @@ He pulled the cloak trial overlay beside the live return. The old failure modes�
 
 Vex studied the comparison longer than efficiency required.
 
-"They reduced emissions," he said. "They changed posture. They learned."
+"They reduced emissions," he said. "Posture changed. Same profile family, different conduct on entry."
 
 Petrov waited.
 
 "Match it," Vex said. "Continue passive hold. No illumination. No pursuit. File standing observation and let them complete their window."
 
-Klimov: "Archive depth?"
+Klimov asked, "Archive depth?"
 
 "Full chain. V17 command and Strategic Security routing."
 

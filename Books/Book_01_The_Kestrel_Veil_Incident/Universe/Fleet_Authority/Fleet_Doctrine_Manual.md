@@ -99,11 +99,39 @@ The *Kestrel Veil* segment seven record (Ch. 9–16) breaks Edition 143 in speci
 
 ---
 
-## 5. Edition 144 — Post-Kestrel Revision
+## 5. Edition 144 — Post–Segment Seven (Book One close)
 
-**Status:** Authorized Ch. 21 (unified Contact Doctrine) · implementation Ch. 22–24 · **planning:** `Act_Outlines/act4_chapters_21-24_generation.md`
+**Status:** **LOCKED** — Ch. 21 adoption · Ch. 22–24 implementation · epilogue primer distribution · appendix reference supplement
 
-**Architecture (2026-07-07):** **One operational doctrine** — retired fork annex (Branches A/B/C; collapse not authorized).
+### Causal chain (canon)
+
+```
+Segment Seven events + Kestrel Veil Incident + first exchange
+        ↓
+First Doctrine established (Fleet operational framework — Ch. 21)
+        ↓
+Fleet procedures and custody routing updated
+        ↓
+Edition 144 academy primer documents and teaches the framework
+```
+
+**Edition 144 does not create doctrine.** Rowan authorizes adoption; Doctrine Bureau propagates; **Edition 144** is the teaching and notation layer cadets receive (epilogue).
+
+**Architecture:** **One unified Contact Doctrine** — retired fork annex (Branches A/B/C; collapse not authorized).
+
+### First Doctrine (definition)
+
+Fleet operational framework established after the Kestrel Veil Incident and segment seven certification.
+
+**Core behavioral lines (authorized summary):**
+
+> Approach as if contact is possible.  
+> Prepare as if capability matters.  
+> Do not assign intent without evidence.
+
+**Doctrine is:** formal framework · institutional guidance · operational philosophy under uncertainty.
+
+**Doctrine is NOT:** an organization · a department · a character · a faction.
 
 ### Key correction (replaces Survey Manual §7.2 logic)
 
@@ -148,25 +176,24 @@ Observation precedes doctrine · contact possible · capability matters · inten
 
 ---
 
-## 6. Act IV Use (Ch. 21–24)
-
-This document supports **Book One close** (Ch. 24 — *The First Answer*).
+## 6. Act IV Use (Ch. 21–24) — LOCKED
 
 | Act IV beat | Manual role |
 |-------------|-------------|
-| Briefings | Edition 143 language fails on screen |
-| ROE debate (Ch. 18) | Templates vs. segment seven facts |
-| Ch. 21 | **First operational doctrine** adopted — unified Contact Doctrine |
-| Ch. 22–23 | Implementation and pressure test |
-| Ch. 24 close | Edition 144 deployed; public transition begins; unknown responds |
+| Ch. 18 | ROE debate — templates vs. segment seven facts |
+| Ch. 21 | **First Doctrine adopted** — unified Contact Doctrine; Rowan authorization |
+| Ch. 22–23 | Alpha Seven crossing; first exchange; behavioral acknowledgment |
+| Ch. 24 | Post-contact reports; egress; unresolved fringe return; Book One close |
+| Epilogue | Edition 144 primer teaches framework; Maris antecedent reclassified |
+| Appendix | Fleet Historical Office reference supplement (post–Book One) |
 
-**Book One end state:** War has not begun. Doctrine has begun to change. Perspective is the victory.
+**Book One end state:** War has not begun. Contact acknowledged; intent unresolved; third source unknown. Fleet changed how it approaches uncertainty.
 
 ### Style note for writers
 
 - Quote sparingly— excerpt feel, not manual dump.
-- Show Edition change through **argument**, **slides**, **margin notes**, **instructor corrections**— not chapter-long paste.
+- Show Edition change through **argument**, **slides**, **margin notes**, **routing decisions**— not chapter-long paste.
 
 ---
 
-*Living document v1.0 — post Act III; Edition 144 open*
+*Living document — Book One locked · Edition 144 documents doctrine adopted Ch. 21*

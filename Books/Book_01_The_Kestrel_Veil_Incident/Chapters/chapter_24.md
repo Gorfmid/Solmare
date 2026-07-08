@@ -11,7 +11,7 @@ Six hours after the exchange, Alpha Seven looked the same on the plot and nothin
 
 On Ortega's composite lock, the silhouette-scale contact held bearing—stable, weapons bands dark, commuter traffic rerouted along the filed corridor. Calder had not ordered pursuit or withdrawal. The contact had maintained the same restraint.
 
-The universe had changed.
+The plot looked unchanged. The record did not.
 
 Second watch had started on schedule.
 
@@ -82,11 +82,7 @@ She said, "Unknown block is honest."
 
 "Do not make the report more interesting than the facts."
 
-He signed the executive summary. Park would marry it to the chain. Holt would time-stamp it. Fleet would do what Fleet did with things it could not yet explain.
-
-Calder filed uncertainty correctly.
-
-That was the job.
+He signed the executive summary. Park would route it to the chain after Calder's review. Holt would time-stamp it at Validation Bay.
 
 ---
 
@@ -148,9 +144,7 @@ Commander Mercer appeared with coffee and Doctrine's morning propagation receipt
 
 Rowan set the digest down.
 
-Fleet did not mobilize.
-
-Fleet behaved according to the doctrine it had written.
+Fleet did not mobilize. Operations tier held posture per Edition 144 contact guidance.
 
 ---
 
@@ -175,7 +169,7 @@ She wrote:
 
 *Communication through headers and fields. Not speech.*
 
-*Raising new questions.*
+*Raising new questions. No answers filed.*
 
 *We survived.*
 
@@ -210,7 +204,7 @@ Major Petrov received the draft on the inset. Senior Warrant Klimov stood at the
 
 - Conduct restrained; exchange disciplined
 - Reply header order matches outer-contact archive family; older variant; not Dominion speech; parses on command stack
-- Intent beyond acknowledgment: unresolved under current doctrine
+- Intent beyond acknowledgment: unresolved under current contact guidance
 
 Vex read the assessment lines twice.
 
@@ -224,11 +218,11 @@ Petrov said, "Trial scout?"
 
 He signed the report and routed full chain—V17 command, Strategic Security, civilizational contact bureau after review.
 
-Drevin said, too quietly, "We found them."
+Drevin said, too low for the rail, "We found them."
 
 Vex did not confirm it.
 
-"We do not know what we found," pausing, Vex continues, "File contact under behavioral acknowledgment. Intent unresolved."
+"We do not know what we found," Vex said. "File contact under behavioral acknowledgment. Intent unresolved."
 
 ---
 
@@ -274,7 +268,7 @@ Calder said, "The contact again?"
 
 "No."
 
-"Who?"
+"Them?"
 
 "No match on the comparison overlay."
 

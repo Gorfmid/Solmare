@@ -16,7 +16,7 @@ Intelligence serves Fleet Command but speaks with its own cold grammar— *what 
 ## 2. Cultural Personality
 
 - **Analytical.** Structured lists when stressed; single sentences when certain.
-- **Pattern hunters.** Maris Chen's lost thread is Intelligence's nightmare— signal died in routine traffic.
+- **Pattern hunters.** Maris Chen's **antecedent unresolved** packet (epilogue) is Intelligence's institutional embarrassment— contradiction preserved in traffic, not escalated in her lifetime.
 - **Emotionally controlled.** Makes rooms colder by numbering implications.
 - **Respects Cartography conditionals.** Observed vs inferred discipline.
 - **Threat-first habit.** Peer civilization quickly becomes **risk surface** unless restrained.
@@ -53,7 +53,7 @@ Ch. 20 *Weight of Evidence* territory— competing interpretations.
 - Undervaluing *first contact has not occurred* technical truth.
 - Treating Calder's caution as incomplete intelligence collection.
 - Racing ahead of Cartography epoch revision.
-- Missing Maris Chen pattern echo until late Act IV (Ch. 23 roadmap).
+- Missing Maris Chen **map-reconciliation** antecedent until Ellis comparison work (epilogue).
 
 ---
 
