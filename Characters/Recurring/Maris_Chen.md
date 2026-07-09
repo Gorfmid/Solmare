@@ -51,7 +51,7 @@ Maris Chen was the first person to formally document that **Segment Seven's acce
 
 ## COMPETENCE
 
-Reconciliation analyst — validates whether survey metadata agrees across independent returns. Builds correlation maps; distinguishes *expected drift* from *baseline refusing to sit still*. Does not assign cause when cause is not in the data.
+Reconciliation analyst — validates whether survey metadata agrees across independent returns. Builds correlation maps; distinguishes relay variance from baseline divergence that repeats across windows. Does not assign cause when cause is not in the data.
 
 ---
 

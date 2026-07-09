@@ -8,7 +8,7 @@
 
 ## STRUCTURE (ON PAGE)
 
-1. **Arrival at VI-Gamma** — ugly approach, port list, uneven life support, comms via station relay; Holt/Nand see *Veil* return after void; restrained relief, no ceremony
+1. **Arrival at VI-Gamma** — ugly approach, port list, uneven life support, comms via station relay; Holt/Lin see *Veil* return after void; restrained relief, no ceremony
 2. **Six hours** — Cho/Eban station patch support; borrowed relays, cable, filters, couplers, insulation; Brenner *"Helpful is not the same as compatible"*; ship patched not repaired
 3. **Crew rest** — hot food, Pell asleep mid-sentence, Hale burn care, Reyes/Halden/Ortega/Thessaly/Calder beats; functional not rested
 4. **Park & Dana** — unsent messages, void on board, logging uncertainty, absurdity of alive; restrained, not romantic
@@ -39,7 +39,7 @@
 
 ## WATCHPOST (VI-GAMMA)
 
-- Holt/Nand: last warm voices before static; personal lane closed post-departure; sweep continues
+- Holt/Lin: last warm voices before static; personal lane closed post-departure; sweep continues
 - Cho: six-hour patch complete; no yard miracles
 
 ## FLEET OPERATIONS

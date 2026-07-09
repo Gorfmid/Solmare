@@ -17,7 +17,7 @@ Until Chapter 16, Fleet Operations has known:
 
 - The *Kestrel Veil* survived the Kestran Spiral engagement (corrected via VI-Gamma relay).
 - The scout was ordered into Neutral Zone corridor seven-alpha under restrictive rules of engagement: observe, investigate, recover intelligence; do not engage unless necessary to preserve hull and crew.
-- Communications with the scout were routed through **Dana Holt** and **Priya Nand** at Kestran VI-Gamma.
+- Communications with the scout were routed through **Dana Holt** and **Amara Lin** at Kestran VI-Gamma.
 
 Fleet has **not** received upstream traffic from the scout during segment seven reconnaissance. The full observation record arrives only when the *Kestrel* crosses back into Fleet space with sealed local logs, passive archives, and **Mira Thessaly's** structured report.
 
@@ -84,7 +84,7 @@ Fleet Admiral **Elias Rowan** (Fleet Operations) should know the following at Ac
 - Local logs, passive observation archives, correlation appendices.
 - **Jun Park** triple-redundancy buffer chain (chain of custody critical).
 - **Thessaly** report: *Reconnaissance Summary — Structured Civilization Beyond Fleet Survey Assumptions (Segment Seven)*.
-- Holt/Nand relay history proving scout continuity and signal authenticity.
+- Holt/Lin relay history proving scout continuity and signal authenticity.
 
 ---
 
@@ -316,7 +316,7 @@ May attempt categorization, readiness timelines, ROE implications.
 **Role:** Communications bridge.  
 VI-Gamma watchpost; held the door; survival correction; long-shift credibility. Act IV: fragile pathway truth.
 
-### Priya Nand
+### Amara Lin
 **Role:** Signal validation.  
 Technical proof *Kestrel* did not hallucinate; relay integrity; blanket-on-console humanity from Ch. 15 walk context optional echo.
 

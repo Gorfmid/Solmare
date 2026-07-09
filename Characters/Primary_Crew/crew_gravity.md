@@ -44,9 +44,9 @@ These are physical behaviors to **establish in prose** once, then let recur with
 - Reyes gives the nod without looking up from the display.
 - Ortega talks too fast until the nod; after the nod, fleet-appropriate speed.
 
-### Koss ↔ Sharma
-- Sharma appears with the correct certification tablet already open to the section Koss is about to ask for.
-- Koss calls her "Sharma" never "Priya" on-watch. Sharma does not mind.
+### Koss ↔ Mehta
+- Mehta appears with the correct certification tablet already open to the section Koss is about to ask for.
+- Koss calls her "Mehta" never "Sana" on-watch. Mehta does not mind.
 
 ### Park ↔ Cole
 - Cole "borrows" Park's mugs. Park finds them on the secondary relay station without looking.

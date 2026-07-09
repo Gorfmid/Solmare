@@ -87,7 +87,7 @@ PICKUP HANDSHAKE COMPLETE — SCOUT REGISTRY 471 — BEARING CONTINUITY VALIDATE
 
 She read it once. Then again.
 
-Priya Nand set two cups beside the console. “Official word on the Veil?”
+Amara Lin set two cups beside the console. “Official word on the Veil?”
 
 Holt nodded and opened the Incident window.
 
@@ -109,7 +109,7 @@ Incident window closed.
 
 No gaps flagged in custody chain.
 
-Nand slid a cup onto the console edge. “VI-Gamma relay node still open?”
+Lin slid a cup onto the console edge. “VI-Gamma relay node still open?”
 
 “Still sweeping. Sweep authority active until Operations closes it.”
 
@@ -119,7 +119,7 @@ Nand slid a cup onto the console edge. “VI-Gamma relay node still open?”
 
 A relay auditor called down from the gallery, confirming latency tables. Holt acknowledged without looking up.
 
-Nand checked the map overlay. “Segment seven bundle still segmented from Founders’ Week traffic?”
+Lin checked the map overlay. “Segment seven bundle still segmented from Founders’ Week traffic?”
 
 “Yes.”
 
@@ -133,7 +133,7 @@ Holt answered without hesitation. “Custody headers. Not executive language.”
 
 “They can wait,” Holt said.
 
-Nand leaned closer to the routing map. “Corridor seven-alpha appears in metadata again. Multiple departments are annotating it differently.”
+Lin leaned closer to the routing map. “Corridor seven-alpha appears in metadata again. Multiple departments are annotating it differently.”
 
 Holt closed the Incident window.
 
@@ -221,7 +221,7 @@ He had read destruction assessments standing up. He had read amendment packets s
 
 Mercer had learned not to offer him a chair.
 
-The executive summary arrived on Rowan's stack with custody confirmations from Park, Holt, Nand, and Thessaly attached. Cover line:
+The executive summary arrived on Rowan's stack with custody confirmations from Park, Holt, Lin, and Thessaly attached. Cover line:
 
 *Reconnaissance Summary — Structured Civilization Beyond Fleet Survey Assumptions (Segment Seven)*
 
@@ -293,7 +293,7 @@ Calder said, "File the routing contradiction. Do not consolidate department comm
 
 Calder nodded. Thessaly left for her own debrief block, classification disputes awaiting an analyst who had spent segment seven refusing easy headers.
 
-Crew released in shifts: sleep, food, calls home if home answered. Mira Hale went first because burns needed yards. Priya Sharma disappeared toward a message queue and a watercolor grandmother who did not know about segment seven. Yuki Tanaka stood down from emitter checks when Calder ordered her off the deck.
+Crew released in shifts: sleep, food, calls home if home answered. Mira Hale went first because burns needed yards. Sana Mehta disappeared toward a message queue and a watercolor grandmother who did not know about segment seven. Yuki Tanaka stood down from emitter checks when Calder ordered her off the deck.
 
 Calder visited the *Kestrel* one last time before Fleet Headquarters claimed his afternoon.
 

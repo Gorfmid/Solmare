@@ -468,7 +468,7 @@ He moved on. They returned to the coupling without watching him go.
 
 The communications alcove was brighter— Jun Park at a console with segment seven threads arranged in labeled stacks, then copied, then copied again. Triple redundancy. Separate routing lanes. Thessaly's report— bands intact, no euphemism— lived here too, beside listen watch summaries and correlation strips and the quiet persistence of a man who believed losing data was worse than losing sleep.
 
-On the secondary display, low volume, Dana Holt sat asleep at her watchpost console— nineteen years of shifts visible in the stillness of her shoulders, someone's blanket draped careful not to touch the mic. Priya Nand had done that, probably. Park kept the lane open without waking her. He did not look up when Calder paused.
+On the secondary display, low volume, Dana Holt sat asleep at her watchpost console— nineteen years of shifts visible in the stillness of her shoulders, someone's blanket draped careful not to touch the mic. Amara Lin had done that, probably. Park kept the lane open without waking her. He did not look up when Calder paused.
 
 "She held the door for us," Calder said quietly.
 

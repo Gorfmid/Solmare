@@ -118,7 +118,7 @@ Dana Holt on Validation Bay relay:
 
 "Good to hear you again, *Veil*." Then: "Handshake delay within tolerance. Checksum verification active. Transmission queue stable. VI-Gamma remains intermittent. No fix from my bench. Route accordingly."
 
-Priya Nand on the relay: "Lag measured. Noted. Chain green."
+Amara Lin on the relay: "Lag measured. Noted. Chain green."
 
 Park keyed confirm tokens to his separate shelf. "Copied. No upstream send without dual confirm."
 

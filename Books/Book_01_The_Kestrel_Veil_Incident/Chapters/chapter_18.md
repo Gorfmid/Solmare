@@ -126,7 +126,7 @@ A slate flag pulsed: Doctrine Bureau routing, provisional classification request
 
 In Communications Validation Bay, Dana Holt signed timestamps. Custody began with time.
 
-Priya Nand had the primary chair. Holt had the pen.
+Amara Lin had the primary chair. Holt had the pen.
 
 Jun Park on the secure pane from berth fourteen-C: segment seven chain intact, separate archive as filed. Felix Ortega on shipboard link: listen watch harmonics, civilian bands, authentication density curves. *Logged what I heard. Not what training expected.*
 
@@ -136,7 +136,7 @@ She opened Park's separate archive from the bloom window through the close of se
 
 Priya ran checksum on Thessaly's executive summary hash against pickup handshake. Match.
 
-Ortega, on the pane, read a sample timestamp when Priya asked. Nand matched relay timing offset. Holt was not checking the story. She was checking the chain—and the chain held.
+Ortega, on the pane, read a sample timestamp when Amara asked. Lin matched relay timing offset. Holt was not checking the story. She was checking the chain—and the chain held.
 
 `KESTREL VEIL SEGMENT SEVEN ARCHIVE — AUTHENTICITY CONFIRMED — CHAIN INTACT`
 

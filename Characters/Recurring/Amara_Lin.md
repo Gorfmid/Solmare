@@ -1,9 +1,11 @@
-# PRIYA NAND — SENSOR ANALYST, KESTRAN VI-GAMMA WATCHPOST (BOOK ONE, CH. 6)
+# AMARA LIN — SENSOR ANALYST, KESTRAN VI-GAMMA WATCHPOST (BOOK ONE, CH. 6)
 
 **Status:** Active  
 **Role:** Sensor / comms analyst (Cartography attach), primary passive-array operator — Kestran VI-Gamma  
 **Age:** 29  
 **Location:** Kestran VI-Gamma Watchpost
+
+**Not the same person as Priya Sharma** — Lisette Venn's bakery assistant at The Cardamom Oven (Helion Prime). Different surname; no relation.
 
 ---
 
@@ -63,51 +65,33 @@ The person who sees **pattern collapse before language catches up**. Station-sid
 
 ---
 
-## HOW SHE INTERPRETS INCOMPLETE DATA
-
-- Reports **what the array did not show** as loudly as what it did
-- Treats single-channel confirmation as non-confirmation
-- Prefers *unknown contact* over invented class labels
-- Accepts emotional shock late—after the pattern is already broken
-
----
-
 ## AUTHENTIC VOICE
 
-**Blind-read test:** Sensor analyst, younger, precise, irritable under boredom; not bridge officer banter.
+**Blind-read test:** Sensor analyst, precise, irritable under boredom; not bridge officer banter.
 
 **Never sounds like:** Park's comms rhythm, Halden's tactical modeling, Calder's observation mode.
 
 ---
 
-## CH. 6 CANON
+## CH. 6–8 CANON
 
 - First to notice pattern collapse during Ch. 5 engagement window (long-range passive)
 - Witnesses photon-class discharge signature and post-event signal void
-- Does not know scout identity; does not know enemy hull class
+- Partner with Holt; relay operator for *Veil* ↔ Fleet traffic
+- *Return on passive* — *consistent with not dead*; marks relay loss after departure
 
 ---
 
-## CH. 7 CANON (LOCKED)
+## CH. 17–24 CANON
 
-- **Partner** with Holt (parallel sweeps; offset stack without being asked)
-- **Relay operator** for *Veil* ↔ Fleet traffic (confirm tokens, queue management)
-- Increases gain on Park personal fringe channel without turning around
-- Halden/Park relay friction visible upstream only as delay
-
----
-
-## CH. 8 CANON (LOCKED)
-
-- *Return on passive* — *consistent with not dead*; logs approach with Holt
-- Tracks signal decay curve at departure; marks relay loss
-- *Personal lane closed* after *Veil* leaves fringe range
-- Partner dynamic continues; sweep eleven without being asked
+- Pulled to Helion Prime Validation Bay for communications chain work with Holt
+- Checksum panes, custody headers, testimony support (Ch. 19)
+- Lag metrics (Ch. 24)
 
 ---
 
 ## DO NOT
 
-- Give her expository technical lectures on screen
-- Make her instantly understand battle outcome
+- Merge with Priya Sharma (bakery) or Sana Mehta (*Veil* life-support)
+- Give expository technical lectures on screen
 - Resolve uncertainty at Section 1 end

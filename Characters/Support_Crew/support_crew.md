@@ -134,7 +134,7 @@ Senior officers know them by name. Park definitely knows them by name.
 
 ---
 
-### Priya Sharma — Life-Support Technician
+### Sana Mehta — Life-Support Technician
 
 **Rank:** Crewman First Class  
 **Age:** 22  
@@ -149,6 +149,8 @@ Senior officers know them by name. Park definitely knows them by name.
 **Ordinary imperfection:** Apologizes when nothing is her fault. Park has stopped trying to fix this.
 
 **Authentic voice:** Polite, quick apologies, practical life-support terms; young enlisted. **Blind-read:** earnest, over-responsible. **Oaths:** **"hell"** embarrassed; invented **"choke"** (life-support slang, mild). **Romance:** straight; grandmother on Helion Prime, no shipboard romance. **Never like:** Halden, Thessaly, Brenner.
+
+**Not Priya Sharma** (Lisette's bakery assistant). See `Characters/Support_Crew/Sana_Mehta.md`.
 
 ---
 
@@ -176,7 +178,7 @@ Senior officers know them by name. Park definitely knows them by name.
 |----------|-------|-------|
 | Senior officers | 6 | Venn, Thessaly, Reyes, Koss, Park, Halden |
 | Medical | 1 | Okwelu |
-| Maintenance | 1 (+2 junior via Brenner) | Brenner; Sharma (life-support) |
+| Maintenance | 1 (+2 junior via Brenner) | Brenner; Mehta (life-support) |
 | Flight ops | 1 | Tanaka |
 | Science / sensors | 1 | Ortega |
 | Relay | 1 | Cole |
@@ -190,7 +192,7 @@ Senior officers know them by name. Park definitely knows them by name.
 
 ## Where They Sit / Gather
 
-**Galley primary table:** Rotating enlisted; Ortega when excited, Sharma when Brenner sends her to eat.
+**Galley primary table:** Rotating enlisted; Ortega when excited, Mehta when Brenner sends her to eat.
 
 **Galley secondary nook:** Park, Halden (senior); Cole sometimes intrudes with mug commentary.
 
@@ -205,7 +207,7 @@ Senior officers know them by name. Park definitely knows them by name.
 - Support crew speak on the command deck when reporting or when addressed. They do not offer unsolicited strategic opinions.
 - They have names, habits, and ordinary imperfections—not arcs.
 - **Each must pass blind-read test:** dialogue identifiable without rank tags (see per-character **Authentic voice** above).
-- Park and Thessaly know all eight by name. Calder is learning. Reyes knows Tanaka and Ortega. Koss knows Brenner and Sharma. Halden knows Hale.
+- Park and Thessaly know all eight by name. Calder is learning. Reyes knows Tanaka and Ortega. Koss knows Brenner and Mehta. Halden knows Hale.
 - In crisis: same functional brevity as senior officers. Personality compresses, does not disappear.
 - **Romantic orientation (all):** straight unless canon revised; no shipboard romance arcs Book One.
 - **Language:** no profanity stronger than *hell* / *damn* / *bastard*; prefer character-specific invented oaths listed above.
@@ -222,7 +224,7 @@ Do not introduce all eight in one scene.
 - Relay congestion: Cole beside Park
 - Sweep operations: Ortega and Tanaka
 - Evasive prep: Hale with Halden
-- Passageway texture: Sharma, Walsh, Brenner
+- Passageway texture: Mehta, Walsh, Brenner
 
 One name per scene is enough early. Recurrence builds recognition.
 
@@ -238,7 +240,7 @@ One support crew member gets **meaningful recurring presence** per chapter—not
 | 7 | Okwelu |
 | 8 | Cole |
 | 9 | Walsh |
-| 10 | Sharma |
+| 10 | Mehta |
 | 11 | Hale (suggested) |
 
 Others appear in background. By ~Chapter 20, readers know all eight without formal introduction.

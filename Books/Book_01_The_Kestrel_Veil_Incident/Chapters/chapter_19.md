@@ -12,7 +12,7 @@ The room had no audience chairs. Mercer had asked whether liaison officers might
 
 The Strategic Review Chamber was smaller than the Operations conference rooms—witness table, board table, archive cart with segment seven custody modules stamped *provisional custody*, coffee going cold on the table. Hardcopy annexes on the table for witness reference; the certified record lived in the chain. Fleet insignia on the wall. Quiet corridor beyond soundproof glass.
 
-Commodore Mira Sato sat board left. Commander Owen Mercer board right, queue pane dark for once. Martine Okoye for Cartography. Dana Holt and Priya Nand for Communications. Soraya Ellis for Historical Office, historian's pencil capped. Lieutenant Ahn attended for Doctrine Bureau as notation witness, not advocate.
+Commodore Mira Sato sat board left. Commander Owen Mercer board right, queue pane dark for once. Martine Okoye for Cartography. Dana Holt and Amara Lin for Communications. Soraya Ellis for Historical Office, historian's pencil capped. Lieutenant Ahn attended for Doctrine Bureau as notation witness, not advocate.
 
 Fleet Judge Advocate Captain Liora Okonkwo observed from the back wall—minor presence by design, procedural gravity without prosecution. Her job was to ensure the record could survive Fleet's own future arguments. She had prosecuted misconduct and defended procedure; today she defended neither side, only the shape of truth in the record.
 
@@ -188,7 +188,7 @@ Ortega wore headphones around his neck like a technician's stole. He had printed
 
 "I logged traffic harmonics throughout segment seven," he said. "Cluster spacing repeated on consistent timing. Density peaks followed the same signal family across multiple observation periods. Those are traffic patterns, not individual operators. Authentication density increased. Search sweeps stayed flat."
 
-He tapped a strip. "Ortega-fourteen. Priya Nand independently recomputed the timestamp. It matches appendix F within relay tolerance. Park's checksum crosswalk is attached."
+He tapped a strip. "Ortega-fourteen. Amara Lin independently recomputed the timestamp. It matches appendix F within relay tolerance. Park's checksum crosswalk is attached."
 
 Mercer said, "Hostile classification from harmonics?"
 
@@ -252,7 +252,7 @@ Rowan nodded. Mercer keyed interim witness completion. Coffee was replaced. Nobo
 
 *THE EVIDENCE*
 
-Communications validation had moved to the chamber's secondary table—relay path diagrams, custody headers, VI-Gamma crosswalk prints, Park's separate archive manifests. Coffee had been replaced once and allowed to go cold again. Priya Nand ran checksum panes. Holt signed when the hashes matched the watch log.
+Communications validation had moved to the chamber's secondary table—relay path diagrams, custody headers, VI-Gamma crosswalk prints, Park's separate archive manifests. Coffee had been replaced once and allowed to go cold again. Amara Lin ran checksum panes. Holt signed when the hashes matched the watch log.
 
 Holt stood without theatrics.
 
@@ -262,7 +262,7 @@ She moved to the next print. "The crossing record shows no upstream emissions fr
 
 Holt paused on the VI-Gamma crosswalk. "Sweep eleven repeated before the amended return registered. That is the entry that mattered."
 
-Holt turned to the relay print. "The chain runs from VI-Gamma fringe node through our validation hops to Fleet pickup handshake and Historical intake. Each hop is named and timestamped on the print. Nand closed a three-millisecond timestamp mismatch on the secondary lane during residual Founders' Week traffic. The authentication window held."
+Holt turned to the relay print. "The chain runs from VI-Gamma fringe node through our validation hops to Fleet pickup handshake and Historical intake. Each hop is named and timestamped on the print. Lin closed a three-millisecond timestamp mismatch on the secondary lane during residual Founders' Week traffic. The authentication window held."
 
 Holt laid the printed chain on the table.
 
@@ -376,7 +376,7 @@ Sato signed—Intelligence receipt, no threat label adopted.
 
 Mercer signed—Operations record and routing seal.
 
-Holt and Nand signed—Communications chain.
+Holt and Lin signed—Communications chain.
 
 Martine Okoye signed—Cartography bearing validation.
 

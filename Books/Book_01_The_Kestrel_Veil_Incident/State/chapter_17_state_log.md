@@ -22,7 +22,7 @@
 - Calder: witness posture; summoned to Rowan 1910
 - Thessaly: separate debrief; aware report split across departments
 - Park: chain of custody intact
-- Holt/Nand: elevated at Communications Command for secure pathways
+- Holt/Lin: elevated at Communications Command for secure pathways
 
 ---
 

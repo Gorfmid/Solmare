@@ -86,7 +86,7 @@ The crew learned this at Theta-7 when he held without fleet closure. They admire
 
 ## PRIVATE LIFE
 
-**Family:** Parents died in a Helion Prime industrial transit failure when Calder was sixteen—classified as systems error, corrected posthumously. He was raised by his aunt **Lisette Venn**, who still lives on Helion Prime. He sends scheduled relay messages every two cycles. He has not visited in eleven months.
+**Family:** Parents died in a Helion Prime industrial transit failure when Calder was sixteen—classified as systems error, corrected posthumously. He was raised by his aunt **Lisette Venn**, proprietor of **The Cardamom Oven** in Helion Prime's Lower Meridian District. He sends scheduled relay messages every two cycles. He has not visited in eleven months.
 
 **Romance:** Single. One ended relationship during academy—partner cited his inability to leave work at the door. Calder thought that was a category error. He may have been wrong.
 

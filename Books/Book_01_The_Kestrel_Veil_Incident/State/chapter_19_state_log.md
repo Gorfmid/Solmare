@@ -27,7 +27,7 @@
 | **Tomás Brenner** | Ship condition / helm hold |
 
 - **Thessaly** — report architect; observation bands preserved in certification
-- **Dana Holt / Priya Nand** — Communications evidence validation (chain intact)
+- **Dana Holt / Amara Lin** — Communications evidence validation (chain intact)
 
 ---
 

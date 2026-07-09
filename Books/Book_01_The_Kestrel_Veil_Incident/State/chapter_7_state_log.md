@@ -11,7 +11,7 @@
 1. Auxiliary / backup electrical (stack two; Reing 3 relay)
 2. Life support redundancy (loops two/three married; environmental three — **operational, not repaired**; monitoring continues; closed compartments)
 3. Internal communications (rings one–five; pairs tests)
-4. External communications (short-range fringe to VI-Gamma only; **Fleet via Holt/Nand relay** — delays, confirm tokens, dropped packets)
+4. External communications (short-range fringe to VI-Gamma only; **Fleet via Holt/Lin relay** — delays, confirm tokens, dropped packets)
 5. Tactical rebuild (~10% local; Halden/Hale)
 6. Navigation (buffer fix → manual optical hood → star fix)
 7. Engines (correction thrusters for course change; Reing 5)
@@ -21,7 +21,7 @@
 - Calder: walks departments; *What do you need?* — commands **unrecovered** crew; keeps them moving without pretending okay
 - Brenner: ship history; **"She's running. That's different."** — refuses *repaired*
 - Park–Dana: restrained personal comm via fringe; Fleet **never direct**
-- Holt/Nand: **relay operators** Veil ↔ Fleet; queue weight; ship-part subtext (not stated)
+- Holt/Lin: **relay operators** Veil ↔ Fleet; queue weight; ship-part subtext (not stated)
 - Thessaly: private tears; returns **controlled not lighter** — crying solved nothing
 - Halden/Park: snap over relay delay; neither discusses
 - Reyes: star fix — navigation math, not emotional resolution
@@ -37,7 +37,7 @@
 
 ## WATCHPOST (VI-GAMMA)
 
-- Holt/Nand partner dynamic; repeated sweep eleven
+- Holt/Lin partner dynamic; repeated sweep eleven
 - **Temporary comms bridge** for *Veil* ↔ Fleet (delays, confirm tokens, dropped packets)
 - Holt receives/routes orders; relay burn notice upstream
 

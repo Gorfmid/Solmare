@@ -40,10 +40,10 @@ Full build sequence for `Manuscript/_build/build_manuscript.ps1` — see `Archiv
 |---|-------|------|------:|-------|
 | — | **Prologue** | `Chapters/prologue.md` | 40 | Edition 143 epigraph + **Required Reading** |
 | — | **FSA-143-07** | `Archive/archive_01_fleet_survey_manual_edition_143.md` | 117 | After Prologue — Fleet Survey Authority; Survey Manual §7.2 |
-| 1 | The Empire | `chapter_1.md` | 3,940 | Act I |
-| 2 | A Captain's Dream | `chapter_2.md` | 4,734 | Act I |
-| 3 | The Ship That Refuses to Die | `chapter_3.md` | 5,048 | Act I |
-| 4 | Routine Patrol | `chapter_4.md` | 2,705 | Act I ends |
+| 1 | The Empire | `chapter_1.md` | 4,312 | Act I · **LOCKED FINAL** |
+| 2 | A Captain's Dream | `chapter_2.md` | 5,262 | Act I · **LOCKED FINAL** |
+| 3 | The Ship That Refuses to Die | `chapter_3.md` | 5,422 | Act I · **LOCKED FINAL** |
+| 4 | Routine Patrol | `chapter_4.md` | 2,960 | Act I ends · **LOCKED FINAL** |
 | 5 | Mission's End | `chapter_5.md` | 5,064 | Act II opens |
 | 6 | Witness | `chapter_6.md` | 3,370 | Act II |
 | — | **Kestrel Veil schematic** | `Manuscript/assets/kestrel_veil_schematic.png` | — | **Before Ch. 7** — Fleet reconnaissance vessel blueprint; preamble in `chapter_7.md` |
@@ -70,8 +70,8 @@ Full build sequence for `Manuscript/_build/build_manuscript.ps1` — see `Archiv
 | — | **Epilogue** | `Chapters/epilogue.md` | 1,212 | *First Day* — Edition 144 + **Required Reading** bookend |
 | — | **Appendix** | `Appendix/book_one_appendix.md` | 2,452 | Fleet Historical Office reference supplement (post–Book One); Appendices A–E |
 
-**Total (publication build):** **88,597 words** (source `Chapters/*.md` + `Archive/`; counts from markdown source files)  
-**Chapters only (1–24):** **87,038 words**  
+**Total (publication build):** **90,126 words** (source `Chapters/*.md` + `Archive/`; counts from markdown source files)  
+**Chapters only (1–24):** **88,567 words**  
 **Tracker:** `Notes/REWRITE_STATUS.md` · **Status:** Ch. 1–21 + archives **LOCKED** · Ch. 22–24 **DRAFT**
 
 **Source of truth:** `Chapters/*.md` (and `Archive/` interludes). Compiled `Manuscript/Act_*.md` and full-book exports are **not** auto-regenerated — rebuild only when author requests (`Manuscript/_build/rebuild_act.ps1` per act, or `build_manuscript.ps1` for publication outputs).
@@ -116,7 +116,7 @@ What begins as routine patrol becomes the **Kestrel Veil Incident** — then dis
 | ✓ **Illustration** | *Kestrel Veil* schematic — before Ch. 7 (see **Illustrations** below) |
 | Build (on request) | `Manuscript/_build/rebuild_act.ps1` · `Manuscript/_build/build_manuscript.ps1` — archives per `Archive/archive_placement.json` |
 
-**Written prose (full publication order):** **88,597 words**. See **Manuscript Reading Order** above.
+**Written prose (full publication order):** **88,852 words**. See **Manuscript Reading Order** above.
 
 **Act IV planning:** `Planning/Fleet_Authority_Briefing_Packet.md` · **Archive index:** `Archive/README.md`
 
@@ -185,7 +185,7 @@ Edition 143 survey boundary rule + instructor margin note (*Maps describe what w
 
 # ACT I — ROUTINE PATROL (Chapters 1–4)
 
-**Status:** Ch. 1–4 **LOCKED** (complete prose)
+**Status:** Ch. 1–4 **LOCKED FINAL** (Act I complete **2026-07-09**; no further edits unless author unlocks)
 
 Establish the Empire, Calder, the crew, and the ship before the Incident.
 
@@ -196,49 +196,55 @@ Establish the Empire, Calder, the crew, and the ship before the Incident.
 ## Chapter 1 — Introduction to Calder / Fleet / Kestrel Veil
 
 **Prose title:** *The Empire*  
-**Status:** **LOCKED** (3,940 words)  
+**Status:** **LOCKED FINAL** (4,312 words) — editorial pass complete **2026-07-08**; Adrian Reyes rename **2026-07-09**; **no further edits**  
 **Generation directive:** `chapter_1_generation_directive.md`
 
 ### Purpose
 
-Introduce the Solmare universe, Fleet Authority prosperity, frontier tension, and Maris Chen's **first map contradiction** — before the primary crew story begins.
+Introduce the Solmare universe, Fleet Authority prosperity, and Maris Chen's **first map contradiction** — before the primary crew story begins.
 
 **Canonical scene order:** The Living Empire · A Day in the Empire · Tomorrow Begins · The Report That Never Arrived
+
+**Editorial pass (locked):** Scene breaks (`❦`); Cardamom Oven sign and Lisette evening beat (sister memory; Hye-Jin on Calder, Jun separate); Calder posting board (*Kestrel Veil* / *Meridian Echo*, name not yet assigned); **Adrian Reyes** academy classmate (distinct from ship navigator Damon Reyes); Maris annex cartography vocabulary (routing overlay, chart review—**epoch** reserved for Act IV doctrine); baseline divergence escalation; Tomas collegial beats; chapter closes Maris death and buried draft.
 
 ---
 
 ## Chapter 2 — Crew Establishment
 
 **Prose title:** *A Captain's Dream*  
-**Status:** **LOCKED** (4,734 words)
+**Status:** **LOCKED FINAL** (5,262 words) — editorial pass complete **2026-07-08**; Adrian Reyes rename **2026-07-09**; **no further edits**
 
 ### Purpose
 
-Introduce Calder Venn; graduation; Founders' Week; assignment to the *Kestrel Veil*; first boarding.
+Graduation; Founders' Week; Calder assigned to scout vessel *Kestrel Veil*; first boarding at Berth 14-C.
+
+**Editorial pass (locked):** Lisette gallery and lift beats; Pell mentor exchange (sensor sweeps, hug); Cardamom Oven party; assignment posting; **Adrian Reyes** classmate on *Meridian Echo* (not Damon Reyes on *Veil*); Dennett handoff memorandum (officer blurbs—Thessaly **67 months** on *Veil*, Walsh/Kevin separate, **Damon Reyes** navigator); scene breaks (`❦`); hull walk and starboard scar; Thessaly welcome—*Show me the gaps first. Then the green boards.*
 
 ---
 
 ## Chapter 3 — Ship Condition + Operational Baseline
 
 **Prose title:** *The Ship That Refuses to Die*  
-**Status:** **LOCKED** (5,048 words)
+**Status:** **LOCKED FINAL** (5,422 words) — editorial pass complete **2026-07-09**; **no further edits**
 
 ### Purpose
 
 Senior crew; ship-as-home; unofficial workarounds; Calder earns respect; departure orders for routine reconnaissance.
+
+**Editorial pass (locked):** Damon vs. **Adrian Reyes** bridge exchange; Jun Park / Hye-Jin bakery beat; **Sana Mehta** (life support), **Amara Lin** (sensor analyst) name sync; plain-prose pass (galley, Okwelu baseline, Cole relay, Reyes chart attestation, night-watch scar stories); Walsh checklist authority; departure gate call; scene breaks (`❦`); em-dash encoding restored; Act I ends ready for undock (Ch. 4).
 
 ---
 
 ## Chapter 4 — Routine Patrol Initiation
 
 **Prose title:** *Routine Patrol*  
-**Status:** **LOCKED** (2,705 words)
+**Status:** **LOCKED FINAL** (2,960 words) — editorial pass complete **2026-07-08**; **no further edits**
 
 ### Purpose
 
-Normal Fleet operations under Calder's first command; crew routines; light humor; dismissed anomaly at chapter edge — quiet wrongness, not yet alarming.
+First patrol under Calder's command: undock; crew shorthand he has not yet learned; ship quirks (vector-four port bias, Tanaka's dice, command-chair squeak); *Cardamom Oven* provisioning; habitation-layer walk and crew gravity; duplicate Kestran IV-Alpha relay ping held in separate buffers; small inconsistencies stacked without repeating; Thessaly on what to log aboard vs. transmit to Fleet; relay check-in nominal; secondary handshake flag unresolved at chapter close.
 
-**Act I ends:** Mission underway; peace still assumed; Incident not yet begun.
+**Act I ends:** Outer Kestran Spiral patrol underway; peace still assumed; duplicate ping and secondary buffer flagged—not yet alarming; Ch. 5 opens mapping sweep toward contact.
 
 ---
 
@@ -272,7 +278,7 @@ Presumed hull loss at Kestran Spiral bearing 214 mark 6; Leviathan-class contact
 
 **Prose title:** *Witness*  
 **Status:** **LOCKED** (3,370 words)  
-**Character sheets:** Dana Holt, Priya Nand
+**Character sheets:** Dana Holt, Amara Lin
 
 ### Purpose
 
@@ -296,7 +302,7 @@ Incomplete recovery — repair priority sequence; Fleet via VI-Gamma relay; dest
 
 ### End state
 
-Correction thrusters toward seven-alpha; ship/crew degraded; Holt/Nand relay bridge active.
+Correction thrusters toward seven-alpha; ship/crew degraded; Holt/Lin relay bridge active.
 
 ---
 
@@ -369,7 +375,7 @@ VI-Gamma six-hour patch window; crew rest; Park/Dana emotional center; independe
 
 | Ch | Title | Status | Words | Function (planning) |
 |----|-------|--------|------:|---------------------|
-| 17 | The Listening Post | **LOCKED** | 2,898 | Fleet and Cartography nodes become strategic instruments; Holt/Nand chain elevated |
+| 17 | The Listening Post | **LOCKED** | 2,898 | Fleet and Cartography nodes become strategic instruments; Holt/Lin chain elevated |
 | 18 | New Words | **LOCKED** | 2,365 | First formal ROE debate for structured unknown force — not scout improvisation |
 | 19 | The Witnesses | **LOCKED** | 3,307 | *Veil* crew testimony certified; Calder First Witness |
 | 20 | The Long Shadow | **LOCKED** | 2,166 | Parallel lives; Dominion Standing Observation; Edition 144 begins |
@@ -434,7 +440,7 @@ All contact and border chapters must support:
 
 - Cloaking validation failure (Vex / Leviathan prototype)
 - Scout-class passive **systems** as strategic significance (not *suite*)
-- VI-Gamma relay chain (Holt/Nand) as operational Fleet comms bridge — Holt translates signal; Fleet classifies
+- VI-Gamma relay chain (Holt/Lin) as operational Fleet comms bridge — Holt translates signal; Fleet classifies
 
 ---
 

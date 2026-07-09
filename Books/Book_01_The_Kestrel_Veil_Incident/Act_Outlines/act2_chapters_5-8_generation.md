@@ -86,7 +86,7 @@ Reference `State/chapter_8_state_log.md` and `State/current_state.md`:
 - ***Kestrel Veil*:** Patched not repaired; alone; running dark
 - **Comms:** No upstream Fleet path; VI-Gamma phase concluded
 - **Fleet:** Formally aware of structured opposing force; transitioning to strategic assessment
-- **Holt/Nand:** Active comms bridge participants in Fleet chain (relay role established)
+- **Holt/Lin:** Active comms bridge participants in Fleet chain (relay role established)
 - **Crew:** Functional not recovered; Incident arc emotionally unresolved
 
 **Do not use legacy Ch. 9–24 draft values for generation.**

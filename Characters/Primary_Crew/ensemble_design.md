@@ -16,14 +16,14 @@ Conflict arises from **differing philosophies, priorities, experiences, and meth
 
 | Character | Time Aboard *Veil* | Prior Context |
 |-----------|-------------------|---------------|
-| Mira Thessaly | 14 months (XO throughout) | Previous Captain Dennett rotated out at Helion Prime |
+| Mira Thessaly | **67 months** (XO throughout) | Three prior COs before Calder; Dennett most recent (14 months as his XO). On hull ~51 months before *Meridian Echo* transfer cohort arrived. |
 | Damon Reyes | 16 months | Transferred from UFA *Meridian Echo* with Koss and Park |
 | Elara Koss | 16 months | Same refit transfer as Reyes and Park |
 | Jun Park | 16 months | Same refit transfer |
 | Ari Halden | 11 months | Joined post-refit from convoy escort duty |
 | Calder Venn | Mission start (Book One, Ch. 1) | First command; fleet administrative track; no prior *Veil* time |
 
-**Implication:** Thessaly, Reyes, Koss, Park, and Halden have operational rhythm. Calder is procedurally competent but socially and rhythmically new.
+**Implication:** Thessaly has deep *Veil* institutional memory (67 months). Reyes, Koss, Park, and Halden have shared rhythm with each other (11–16 months). Calder is procedurally competent but socially and rhythmically new.
 
 ---
 

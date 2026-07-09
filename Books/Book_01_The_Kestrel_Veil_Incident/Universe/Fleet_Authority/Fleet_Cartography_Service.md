@@ -36,7 +36,7 @@ Cartography must respond to:
 
 - Lane antiquity contradicting frontier provisional shading
 - Industrial throughput in volumes marked *low activity*
-- Holt/Nand chain as **proof of scout continuity** and bearing truth
+- Holt/Lin chain as **proof of scout continuity** and bearing truth
 - Ch. 17 *Listening Post* elevation of Cartography nodes as strategic instruments
 
 Act IV makes Cartography a **battleground of notation**, not starships.
@@ -66,7 +66,7 @@ Act IV makes Cartography a **battleground of notation**, not starships.
 | Character | Role |
 |-----------|------|
 | **Dana Holt** | Chief Survey Officer, Kestran VI-Gamma |
-| **Priya Nand** | Watch partner; signal validation |
+| **Amara Lin** | Watch partner; signal validation |
 | **Damon Reyes** | Navigator witness— lane age overlays |
 | **Jun Park** | Buffer timestamps; Holt lane integrity |
 | **Ari Halden** | Infrastructure band dating |

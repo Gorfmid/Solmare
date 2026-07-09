@@ -11,6 +11,8 @@ Jump calculations, sensor interpretation, environmental mapping verification, ch
 
 Damon Reyes has eight years in fleet navigation, specializing in low-infrastructure sector mapping. He transferred to the *Veil* sixteen months before Book One from the scout vessel *Meridian Echo*, alongside Koss and Park, during Helion Prime refit.
 
+**Not the same person as Adrian Reyes**—Calder's academy classmate (cartography track, posted to *Meridian Echo* at graduation). Same surname; no confirmed relation. See `Characters/Recurring/Adrian_Reyes.md`.
+
 Reyes maintains personal chart annotation habits that are not strictly regulation—margin notes on survey lineage, cycle provenance, cartographer initials. Fleet databases store coordinates. Reyes stores **context**.
 
 He has never commanded. He has never wanted to.

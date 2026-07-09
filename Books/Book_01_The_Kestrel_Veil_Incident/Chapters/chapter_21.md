@@ -187,7 +187,7 @@ She slid a sample relay header across the table.
 
 "No line that reads hostile by default," Holt said. "No line that reads permission by default. Relay headers state posture—not alarm, not clearance. Fringe nodes get the same header block Helion Prime gets. If Exploration and Intelligence disagree on emphasis, the packet still has to parse once."
 
-Priya Nand had checksum isolation ready—isolated from witness bands. Holt attached it to the packet.
+Amara Lin had checksum isolation ready—isolated from witness bands. Holt attached it to the packet.
 
 Mercer keyed **Documentation requirements** with Holt's header schema attached.
 
@@ -372,7 +372,7 @@ Rowan nodded once. Not approval. Receipt.
 
 Calder thought of sixteen days on passive hold while Reing 3 complained. Of Park running confirm tokens through fringe lag. Of Walsh enforcing rest cycles nobody believed in until they collapsed. Of Thessaly eating while standing.
 
-"Cream-filled pastries," he said. "From the Lower Meridian bakeries. The ones with the cardamom glaze—not fleet ration. My aunt's shop if the procurement routing allows it. The crew ate station bars for six weeks. They deserve a treat."
+"Cream-filled pastries," he said. "From the Lower Meridian—the cardamom glaze, not fleet ration. The Cardamom Oven, if procurement routing allows it. Lisette's. The crew ate station bars for six weeks. They deserve a treat."
 
 Rowan's mouth moved almost a fraction. "I'll tell Vance it is engineering support."
 
@@ -388,7 +388,7 @@ Contact preparation file. Reference hull. Same berth.
 
 ---
 
-***LOWER MERIDIAN DISTRICT — VENN BAKERY***
+***LOWER MERIDIAN DISTRICT — THE CARDAMOM OVEN***
 
 Lisette Venn did not ask what happened beyond seven-alpha.
 
@@ -414,7 +414,7 @@ She studied him the way she studied receipts—looking for the line that did not
 
 "I know."
 
-She packed a box without being asked. Cardamom rolls. Six cream-filled pastries in wax paper. A note for Park—*eat sitting down*—because Lisette had learned that fleet messages were sometimes the only parenting available.
+She packed a box without being asked—the bakery stamp on the side, a cardamom bun and *The Cardamom Oven* in copper script. Cardamom rolls. Six cream-filled pastries in wax paper. A note for Park—*eat sitting down*—because Lisette had learned that fleet messages were sometimes the only parenting available.
 
 "You will message when they let you," she said. Not a question.
 
@@ -438,7 +438,7 @@ Incident damage: repair where practical. Reing 3 handshake couplers: replace wor
 
 The yard gave everything it had on the berth—hours, parts queues, and an experimental signature reduction package nobody was willing to call reliable.
 
-Dana Holt stood at the communications bench with Priya Nand on relay from Validation Bay and a schematic that made Park wince.
+Dana Holt stood at the communications bench with Amara Lin on relay from Validation Bay and a schematic that made Park wince.
 
 "We are not giving you a cloak," Holt said, to the room and the record. "Fleet does not have one. What our teams have designed is experimental signature reduction—lower emissions profile, improved thermal bleed management, quieter passive sensor harmonics. It is not meant to defeat what hid the larger contact at the Incident bearing. Fleet has no answer for that. This reduces unnecessary presence at distance—courtesy and observation, not deception. It might help you avoid notice. It will not hide you, but may help avoid unnecessary notice. Integration on this old architecture is ugly."
 

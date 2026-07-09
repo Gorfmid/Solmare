@@ -28,7 +28,7 @@
 - Not reality-fracture resolution
 - **Strategic assessment** — what Fleet will believe, how it will act, what changes permanently
 
-Act IV emphasizes **humanity and institution** under irreversible knowledge — Rowan, Sato, Mercer, Holt/Nand chain, Calder as witness.
+Act IV emphasizes **humanity and institution** under irreversible knowledge — Rowan, Sato, Mercer, Holt/Lin chain, Calder as witness.
 
 ---
 
@@ -50,7 +50,7 @@ By Ch. 24:
 
 ### Chapter 17 — The Listening Post
 
-Fleet and Cartography nodes as strategic instruments; Holt/Nand elevated in comms chain.
+Fleet and Cartography nodes as strategic instruments; Holt/Lin elevated in comms chain.
 
 ### Chapter 18 — New Words
 
@@ -107,7 +107,7 @@ The opposing presence becomes **strategically understandable**. It must not beco
 
 - [ ] Load `act_iv_institutional_prose.md` for Fleet/institutional scenes
 - [ ] Strategic accumulation — not episodic revelation
-- [ ] Holt/Nand / Fleet Command continuity from Incident arc
+- [ ] Holt/Lin / Fleet Command continuity from Incident arc
 - [ ] No Fold / Library / living map legacy
 - [ ] Resolution boundaries per `series_principles.md`
 - [ ] Ch. 24 delivers complete Book One arc

@@ -101,7 +101,7 @@ Cartography — Alpha Seven marked occupied; contact bearing on file
 Doctrine Bureau — behavioral acknowledgment annex  
 Historical Office — custody receipt only
 
-Priya Nand ran the lag metrics. "Twelve seconds average today."
+Amara Lin ran the lag metrics. "Twelve seconds average today."
 
 "Noted," Holt said.
 

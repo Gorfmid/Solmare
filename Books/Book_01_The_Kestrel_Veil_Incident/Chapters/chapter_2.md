@@ -1,5 +1,7 @@
 ﻿# Chapter 2
 
+<!-- LOCKED FINAL · 2026-07-09 · No further edits unless author explicitly unlocks. -->
+
 ## A Captain's Dream
 
 Founders' Week turned Helion Prime's academy terrace into something the manuals never described: a parade ground with music.
@@ -8,15 +10,15 @@ Fleet Administrative Academy graduation was always formal. Today it was also fes
 
 Cadet Captain Calder Venn stood in final formation, sword belt finally corrected to Commander Pell's satisfaction, and watched the reviewing stand the way he watched any system due for verification: details logged, deviations noted, corrections executed before they became failure.
 
-Damon Reyes stood two positions to Calder's left, jaw tight with the effort of not grinning during the invocation. Sera Okonkwo held the center file with the stillness of someone who had already decided she belonged on a combat deck. Marcus Hale—destroyer track, loud in every context—had acquired a miniature Fleet banner and concealed it against his thigh, mouthing a first-officer timeline he had already memorized to the hour.
+Adrian Reyes stood two positions to Calder's left, jaw tight with the effort of not grinning during the invocation. Sera Okonkwo held the center file with the stillness of someone who had already decided she belonged on a combat deck. Marcus Hale—destroyer track, loud in every context—had acquired a miniature Fleet banner and concealed it against his thigh, mouthing a first-officer timeline he had already memorized to the hour.
 
 Calder did not have a banner. He had a checklist.
 
 The terrace stone was worn smooth where generations of boots had found the same spacing marks—today hidden under copper-and-blue bunting the Senate delegation would store and bring out again next year because tradition was cheaper than reinvention.
 
-Fleet chaplain Adeyemi led the invocation in three languages. Calder mouthed the responses and watched the gallery. Lisette had taught him to locate the people you loved before you tried to feel proud alone.
+Fleet chaplain Adeyemi led the invocation in three languages. Calder mouthed the responses and watched the gallery. Lisette had taught him to find the people you loved in the crowd first.
 
-She was there. Third row. The hat she swore she did not own and wore anyway.
+She was there. Third row. Priya had pinned a copper-and-blue Founders' Week hat to her hair before they left the Oven for the district archive photographs. Lisette still called it bakery stock she was safeguarding—and wore it anyway, because Calder would be looking for family first, and she was not going to be hard to find.
 
 The invocation ended. Pell's voice carried without amplification—the habit of a man who had commanded attention before he had commanded ships.
 
@@ -24,17 +26,17 @@ The invocation ended. Pell's voice carried without amplification—the habit of 
 
 The class answered in one voice.
 
-Calder felt the words land the way ceremony always landed for him: as obligation first, meaning second, music third. He had spent four years learning that feelings were not less real for arriving after procedure. Lisette had taught him that before the academy ever did.
+Calder felt the words land the way ceremony always landed for him: obligation first, meaning second, music third. The academy had drilled that order for four years. Lisette had taught him, at the bakery, that the feeling still counted when it came after the work was done.
 
-Commendations followed—simulation, navigation, logistics. Okonkwo accepted the combat citation with a nod. Reyes took cartography and looked, for one unguarded second, like a man given permission to keep asking questions.
+Commendations followed—simulation, navigation, logistics. Okonkwo accepted the combat citation with a nod. Reyes accepted cartography and read the citation twice—the second pass for what the wording had compressed.
 
 Calder's name came mid-list: highest composite on the Kestran transit failure replay; early cascade correction; recommendation for independent command.
 
-Applause rolled across the terrace. In the gallery, Lisette Venn rose before she remembered she hated standing in crowds, then sat, then stood again because Calder was looking.
+Applause rolled across the terrace. In the gallery, Lisette Venn rose on her feet beaming, Founders' Week hat tilting, before she remembered she hated standing in crowds and sat. Calder looked. She stood again, eyes bright, shameless about it.
 
 He did not smile on the formation line. He nodded once—the acknowledgment he gave systems that reported green.
 
-The oath came next—words older than the terrace, sworn to a Fleet that had kept peace long enough for children to grow up thinking peace was weather. Calder spoke his line without stumbling. One hundred and forty-seven voices made the same promise.
+The oath came next—words older than the terrace, sworn to a Fleet Calder had grown up inside and never seen fail. He spoke his line without stumbling. One hundred and forty-seven voices made the same promise.
 
 Pell presented Calder's sword with the same correction he had made at rehearsal—belt angle, grip, the small geometry of dignity. Commissioning pins came last. Metal against collar. Weight against skin.
 
@@ -44,9 +46,9 @@ Calder's pin felt heavier than its mass.
 
 Pell found him at the terrace rail after the crowd swallowed the class into congratulations. The commander carried two cups of tea—the good kind from the academy mess, not the ration kind—and handed one to Calder without preamble.
 
-"Your aunt is trying not to cry in public," Pell said. "She is failing with dignity."
+"Your aunt is trying not to cry in public," Pell said. "I would reach her before the receiving line does."
 
-Calder looked toward the gallery. Lisette was indeed failing with dignity, wiping her eyes with the heel of her hand while Priya offered a napkin and a look that said *let her*.
+Calder looked toward the gallery. Lisette was wiping her eyes with the heel of her hand while Priya offered a napkin and a look that said *let her*.
 
 "I'll see her after the receiving line, sir."
 
@@ -66,7 +68,7 @@ Calder waited.
 
 "I intend to follow procedure, sir."
 
-"So do I. Procedure is the floor." Pell's mouth twitched—not quite a smile. "Do not confuse authority with leadership. Authority is what the pin gives you. Leadership is what they give back when you have earned it."
+"So do I. Procedure is just the floor." Pell's mouth twitched—not quite a smile. "Do not confuse authority with leadership. Authority is what the pin gives you. Leadership is what they give back when you have earned it."
 
 Calder looked at the pin on his collar. "How do I earn it?"
 
@@ -74,7 +76,11 @@ Calder looked at the pin on his collar. "How do I earn it?"
 
 Calder opened his mouth. Closed it. Nodded.
 
-"Come find me after assignment posting tomorrow if you want to argue about sensor sweeps. Today, go eat your aunt's bread and let someone be proud of you on purpose." He paused. "I know it is not your way. Give her a hug. She is proud of you."
+Pell watched him for a beat. "Come find me after assignment posting tomorrow if you want to argue about sensor sweeps—how many passes before you call a corridor verified, whether one offset voids a whole segment. You did that after the Kestran replay debrief until I ordered you out for food."
+
+Calder's shoulders eased a fraction. That conversation he understood.
+
+"Today, go eat your aunt's bread and let someone be proud of you on purpose." Pell glanced toward the gallery. "I know it is not your way. Give her a hug. She is proud of you."
 
 Calder saluted. Pell returned it without ceremony.
 
@@ -88,11 +94,11 @@ Calder almost said *ceremonies are procedures with music*. He thought Lisette wo
 
 The receiving line took an hour. Families, instructors, classmates, sponsors from industrial houses that recruited fleet talent the way orchards recruited seasonal labor. A Selene textiles representative pressed a scarf into Calder's hands—"For your first cold wardroom"—and laughed when he tried to return it with a receipt mindset.
 
-Reyes clasped Calder's forearm and said, "Exploration cartography track—*Meridian Echo*. Not glamorous. Maps are good, though. I'll send you coordinates the archive hasn't earned yet."
+Reyes clasped Calder's forearm and said, "Exploration cartography track—*Meridian Echo*. Not glamorous. Maps are good, though. I'll send you coordinates the archive hasn't filed yet."
 
 "Send them."
 
-"They won't match on purpose. Archive says one thing; the sweep says another. That's usually where the answer is."
+"They won't agree with the public chart. The archive keeps the filed return. The sweep keeps what the filing dropped—compare them before you trust either."
 
 Okonkwo's handshake was competitive even in congratulations. "Destroyer escort, *Vigilant Threshold*. Try not to need rescue from my sector."
 
@@ -124,13 +130,15 @@ Calder let his shoulders down. "I'll eat at the bakery."
 
 "Good." She adjusted his collar pin with the proprietary precision of someone who had hemmed his dress uniform twice. "Tomorrow they tell you where you're going. Tonight we celebrate what you've already done."
 
-"Assignment posting is tomorrow?"
+Calder felt his schedule reflex wake up anyway.
 
-"That's what the bulletin said. Don't start scheduling until you've been scheduled."
+"Don't start scheduling until you've been assigned," Lisette said.
 
 He walked her toward the transit lift. Festival lanterns reflected in the terrace glass. Somewhere below, the blessing procession rehearsed again—drums, voices, the Empire practicing joy because joy, too, was a tradition worth maintaining.
 
-Lisette talked on the lift the way she talked when she was happy and trying not to show how afraid she had been for four years.
+As the lift descended, Lisette talked without pausing. Calder had learned what that meant. She only hurried when something mattered too much to say plain.
+
+The academy had held him two districts away for four years—close enough to message, far enough that every relay delay had to be read twice before she trusted it was only latency. She had hemmed his dress uniform, still marked credit slips *Thursday* for dockworkers who reminded her of his father, and never once told him how often she checked the commissioning bulletin. Tonight she was happy. She was afraid too, but afraid was not something she said on a transit lift. 
 
 "Priya's taking photographs tomorrow at the parade route. I saved you a seat. Don't schedule yourself out of it."
 
@@ -154,9 +162,9 @@ His quarters were quiet. He hung the dress uniform with the care Lisette had tau
 
 Outside, parade drums continued.
 
+❦
 
-
-The Lower Meridian District bakery had been in Lisette Venn's family for two generations—first as a freight-worker lunch counter, later as the cardamom roll institution Calder had grown up believing was the correct shape of bread.
+The Cardamom Oven had been in Lisette Venn's family for two generations—first as a freight-worker lunch counter, later as the cardamom roll institution Calder had grown up believing was the correct shape of bread.
 
 Tonight it was also a party.
 
@@ -180,7 +188,7 @@ He ate. Cardamom, butter, the slight crunch of sugar Lisette insisted was not ex
 
 Priya poured tea. Hye-Jin Park, Jun's mother from the freight terminal, arrived still in uniform and set down a tray of rice cakes. "My son sent congratulations," she said. "He cannot call until relay window. He said to tell you mid-rim pays better than the core."
 
-"Reyes said the same thing at graduation," Calder said.
+"Adrian said the same thing at graduation," Calder said.
 
 "Then it must be true."
 
@@ -200,9 +208,9 @@ Lisette, passing with a tray, said, "He's a terrible student."
 
 Laughter moved around the tables—the easy kind that did not need a punch line, only recognition. Calder listened more than he spoke. That was his habit in rooms where he belonged.
 
-Mr. Osei told a story about a freighter captain who had docked at Helion Prime during a Founders' Week storm twenty years ago and paid his bakery debt in engine parts because credits were frozen and bread was not. Lisette had accepted the parts. The bakery's old mixer still ran on one of them.
+Mr. Osei told a story about a freighter captain who had docked at Helion Prime during a Founders' Week storm twenty years ago and paid his bakery debt in engine parts because his credits were frozen and bread was not. Lisette had accepted the parts. The bakery's old mixer still ran on one of them.
 
-"That's why we toast doors," Priya said quietly when Mr. Osei finished. "Half this room is alive because something broke and someone fed them anyway."
+"That's why the mixer still runs," Priya said quietly when Mr. Osei finished. "Half this room is alive because something broke and someone fed them anyway."
 
 Calder knew what she meant. The Empire wasn't the flag passing overhead. It was the ordinary things that worked because millions of people did their jobs—bread on credit, relay windows from sons on distant postings, neighbors who looked after one another. If it failed, people like Lisette would feel it long before anyone in the Central Assembly did.
 
@@ -210,7 +218,7 @@ Lisette sat beside him long enough to be noticed, then moved—hosting, correcti
 
 "What are you hoping for tomorrow?" Priya asked quietly.
 
-Calder considered lying. The room assumed excellence the way rooms assumed sunrise. Hale had a cruiser. Okonkwo had a destroyer escort. Reyes had mapping work on a respectable hull. Calder's composite scores were on the commendation list Pell had read aloud.
+Calder considered lying. The room assumed excellence the way rooms assumed sunrise. Hale had a cruiser. Okonkwo had a destroyer escort. Adrian had mapping work on a respectable hull. Calder's composite scores were on the commendation list Pell had read aloud.
 
 "Something that uses what I trained for," he said. "Independent command if the board agrees."
 
@@ -250,7 +258,7 @@ He kissed her cheek—the affection he allowed himself without translating it in
 
 On the transit ride back, Calder did not open the assignment preview he did not have permission to access. He slept.
 
-
+❦
 
 Assignment posting took place in Academy Hall the morning after graduation, while Founders' Week crowds moved through the lower districts and the Empire continued its week-long argument about which noodle stall was authentic.
 
@@ -360,9 +368,41 @@ He considered the honest answer. "Yes." He paused. "What does that change?"
 
 Calder ate. The disappointment did not vanish, but it made room for something else—the annex thickness, a hull name half the hall recognized, a question about why a ship with that reputation still had green indicators on the summary page.
 
-He spent an hour at the bakery, sent Reyes a message—*Assignment received. Drinks when you are back from mapping heaven*—and took the transit to the outer yards.
+He spent an hour at the bakery, sent Adrian a message—*Assignment received. Drinks when you are back from mapping heaven*—and took the transit to the outer yards.
 
+❦
 
+On the ride he opened the assignment packet far enough to find a supplement clipped behind the acceptance forms—not Fleet issue, plain paper, Dennett's hand.
+
+**Captain's Handoff Memorandum**  
+Outgoing Commanding Officer: Elias Dennett  
+Incoming Commanding Officer: Calder Venn  
+
+*Notes below are unofficial. Use judgment.*
+
+**Your officers:**
+
+**Thessaly** — Executive Officer. Sixty-seven months on the *Veil*. Three captains before you, including me. Passed captain boards twice and stayed executive anyway. She will assess you before she advises you. Do not mistake silence for agreement.
+
+**Park** — Communications. *Meridian Echo* transfer. Remembers every conversation in structural order, whether he admits it or not. On-watch voice is not off-watch voice.
+
+**Brenner** — Senior maintenance. On scout hulls longer than you have been in the Fleet. Will argue with you. Let him. He is usually arguing with the problem, not the person. Keeps a lift addendum for cargo three that is more accurate than the manual.
+
+**Walsh** — General support. Not on the complement chart the way Fleet templates expect. Keeps the departure checklist the crew actually runs. Knows where every spare seal and half-empty ration crate lives.
+
+**Reyes** — Navigation. Same transfer cohort as Park and Koss. Eight years in low-infrastructure sectors. Keeps margin notes on charts the public overlay does not carry. Will ask you to sign the navigation baseline before first jump—do it.
+
+**Koss** — Chief engineer. Apprenticeship track, not your academy path. Listens to machines before she listens to officers. If she says comfort degrades first, believe her.
+
+One other crew member you need to be aware of.  **Kevin** — Environmental support. No surname in the files; crew stopped asking years ago. Appears with trays nobody requested and leaves them anyway. Works with Walsh on galley cycles. Will acquire pastries if the opportunity presents itself.
+
+The *Veil* is an interesting ship. I cannot explain her. You will find out.
+
+*P.S. Watch the door. Habitation seven-C. Lower-left kick.*
+
+Calder read it twice—the second pass for what Dennett had left out. The memo named people. It did not explain the scar. That, he supposed, was what the observation strip was for.
+
+❦
 
 Helion Prime's industrial berths smelled of solvent and hot metal even through the airlock filters. Founders' Week had reached the shipyards—fresh paint on parade-ready hulls, inspection crews working double shifts, destroyer escorts gleaming under floodlights as if they had been built yesterday.
 

@@ -62,7 +62,7 @@ Reference `State/chapter_8_state_log.md` for Ch. 9 entry only:
 | *Kestrel Veil* | Patched not repaired; running dark; alone |
 | Comms | Out of VI-Gamma relay range; no upstream Fleet path |
 | Fleet | Aware of structured opposing force; observe/investigate ROE active |
-| Holt/Nand | Active relay-chain participants; not passive observers |
+| Holt/Lin | Active relay-chain participants; not passive observers |
 | Crew | Functional not recovered; Incident trauma unresolved |
 | Enemy (reader) | Vex; Leviathan-class; location unknown |
 

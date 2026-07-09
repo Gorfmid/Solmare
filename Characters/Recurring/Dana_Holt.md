@@ -11,7 +11,7 @@
 
 Human witness to the Ch. 5 engagement from outside the contact geometry. Represents institutional observation without full context—competent, cautious, permanently incomplete.
 
-**Book One architecture (4-act):** By Ch. 8, Holt/Nand are **active communication bridge participants** in the Kestrel/Fleet comms chain. Ch. 17+: **Communications Command** at Fleet-side Validation Bay — VI-Gamma chain validation, separate custody lanes, incident-window routing (not shipboard comms officer).
+**Book One architecture (4-act):** By Ch. 8, Holt/Lin are **active communication bridge participants** in the Kestrel/Fleet comms chain. Ch. 17+: **Communications Command** at Fleet-side Validation Bay — VI-Gamma chain validation, separate custody lanes, incident-window routing (not shipboard comms officer).
 
 **Act III expansion:** See `Act_Outlines/act3_dominion_worldbuilding.md` — rotate Dominion POV beyond HQ; Stratimirov represents Directorate, not entire civilization.
 
@@ -24,7 +24,7 @@ Human witness to the Ch. 5 engagement from outside the contact geometry. Represe
 - Twenty-six years Fleet Cartography Survey Service; field survey lead before watchpost assignment
 - Posted to VI-Gamma after insisting on contradictory occupancy returns at a decommissioned platform—career slowed, not ended
 - Civilian-adjacent service culture: scientific discipline under Fleet paperwork, not bridge command track
-- Two-person core watch with rotating relief (often only Holt + Nand on shift)
+- Two-person core watch with rotating relief (often only Holt + Lin on shift)
 
 ---
 
@@ -95,17 +95,17 @@ Human witness to the Ch. 5 engagement from outside the contact geometry. Represe
 
 ## CH. 6 CANON
 
-- On watch with Priya Nand during outer-spiral passive monitoring
+- On watch with Amara Lin during outer-spiral passive monitoring
 - Witnesses long-range sensor event: two returns, energy discharge, scatter, void
 - Fleet packet: sensor facts only; **nothing remains to classify**
-- Personal grief parallel: Park / *Kestrel Veil* — Dana shares with Nand at section end
+- Personal grief parallel: Park / *Kestrel Veil* — Dana shares with Lin at section end
 
 ---
 
 ## CH. 7 CANON (LOCKED)
 
 - Receives Fleet liaison *probable hull loss* summary; cannot accept void without repeat sweeps
-- **Partner** dynamic with Nand; parallel sweep eleven
+- **Partner** dynamic with Lin; parallel sweep eleven
 - **Temporary comms bridge** for *Veil* ↔ Fleet—all traffic relayed through VI-Gamma (delays, confirm tokens)
 - Direct personal comm with Jun Park via fringe short-range (*You idiot* / *I know*)
 - Queue weight on console; relay operator role emerges (ship-part subtext, not stated)
@@ -120,7 +120,7 @@ Human witness to the Ch. 5 engagement from outside the contact geometry. Represe
 - Coordinates Cho six-hour emergency berthing; *Treat them like people who shouldn't be alive and are anyway*
 - **Park/Dana:** secondary relay bay; unsent messages; void did not change when she looked; personal lane headers kept **separate** from Fleet summary writers
 - Last warm voice before static for Park; *Don't be an idiot* / *Try harder*; signal drops on confirm cycle—not drama
-- Stays at board after departure; Nand marks relay loss; personal lane closed; sweep continues
+- Stays at board after departure; Lin marks relay loss; personal lane closed; sweep continues
 
 ---
 
@@ -129,7 +129,7 @@ Human witness to the Ch. 5 engagement from outside the contact geometry. Represe
 - **Communications Command**, Fleet Validation Bay — eleven days holding incident window at Book One open of Act IV
 - Routes raw archive to Historical Office; department comments stay on packet; executive synthesis pending
 - Chain validation: relay times, **separate lanes**, destruction-assessment correction history
-- Custody confirmations on Rowan executive summary with Park, Nand, Thessaly attachments
+- Custody confirmations on Rowan executive summary with Park, Lin, Thessaly attachments
 - **Not** shipboard communications officer — Fleet-side validation and routing through VI-Gamma relay history
 
 ---

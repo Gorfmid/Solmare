@@ -96,7 +96,7 @@ Ship as one organism—not Calder solo.
 
 **Support spotlight: Marcus Hale** — weapons cold until right moment; rebuilds emitter controls; improvises; one excellent tactical suggestion; earns respect (not comic relief).
 
-**Also use naturally:** Sharma (atmosphere as ammunition), Brenner (live-power repairs), Cole (relay congestion), Walsh (movement/resources), Okwelu (medical calm), Tanaka (nav sync), Ortega (truth inside contradictory sensors).
+**Also use naturally:** Mehta (atmosphere as ammunition), Brenner (live-power repairs), Cole (relay congestion), Walsh (movement/resources), Okwelu (medical calm), Tanaka (nav sync), Ortega (truth inside contradictory sensors).
 
 ---
 

@@ -27,7 +27,7 @@ Last updated: Chapter 10 complete — 2026-06-28 (*Ghosts in the Dark*)
 
 ## WATCHPOST (VI-GAMMA)
 
-- Holt/Nand: no live link to *Veil* intelligence
+- Holt/Lin: no live link to *Veil* intelligence
 
 ---
 

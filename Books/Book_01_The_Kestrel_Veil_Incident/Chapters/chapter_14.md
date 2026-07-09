@@ -150,7 +150,7 @@ Hale: "Fair's not rotation doctrine. We're exposed longer every day we stay."
 
 "Threat board doesn't grade fairness," Halden said. "Infrastructure predates our epoch notation."
 
-Calder thought of Helion Prime— terrace stone, graduation swords, Lisette's roll on the counter, Pell's tea.
+Calder thought of Helion Prime—terrace stone, graduation swords, a roll from the Oven on the counter, Pell's tea.
 
 Calder nodded once. "Listening. Comparing. No Fleet relay. No illumination."
 

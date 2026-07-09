@@ -300,9 +300,9 @@ Calder nodded. "What do you need before fringe link?"
 
 Dana Holt had not slept through a full cycle since the discharge.
 
-Priya Nand had slept four hours in the hab nook and did not apologize for it. Holt had told her to. That was new too—or newer.
+Amara Lin had slept four hours in the hab nook and did not apologize for it. Holt had told her to. That was new too—or newer.
 
-The board in front of Holt was clean in the way a crime scene was clean after evidence was bagged—timestamps in order, band six peak logged, post-discharge scatter marked, post-event void signed by three review passes and Nand's strip log copied into the annex.
+The board in front of Holt was clean in the way a crime scene was clean after evidence was bagged—timestamps in order, band six peak logged, post-discharge scatter marked, post-event void signed by three review passes and Lin's strip log copied into the annex.
 
 The Fleet packet had left fourteen hours ago. Confirmation had returned in six—*received, under review, Cartography liaison assigned*—which was faster than Holt liked and slower than she feared.
 
@@ -310,7 +310,7 @@ Mercer at Fleet Operations routed it to Rowan’s stack. Sato read the annex. Ho
 
 She ran the sweep again because the sweep was what you did when thinking hurt.
 
-"You're on the fourth repeat of hour twenty-two," Nand said from the primary chair.
+"You're on the fourth repeat of hour twenty-two," Lin said from the primary chair.
 
 "I know."
 
@@ -318,9 +318,9 @@ She ran the sweep again because the sweep was what you did when thinking hurt.
 
 "I know."
 
-Nand did not tell her to stop. Six months ago she would have waited for Holt to authorize the repeat. Now she ran offset stack in parallel without being asked and pushed the comparison pane across.
+Lin did not tell her to stop. Six months ago she would have waited for Holt to authorize the repeat. Now she ran offset stack in parallel without being asked and pushed the comparison pane across.
 
-"Same void," Nand said. "Same residual decay curve. Same nothing where alpha was."
+"Same void," Lin said. "Same residual decay curve. Same nothing where alpha was."
 
 Holt stared at the nothing anyway.
 
@@ -330,23 +330,23 @@ She had opened the patrol overlay once since the notification—once, at Mission
 
 She had not replied when she could.
 
-"Chief," Nand said, quieter, "you can't un-send the packet."
+"Chief," Lin said, quieter, "you can't un-send the packet."
 
 "I know that too."
 
-"I mean—" Nand hesitated, which was rare. "Fleet read what we wrote. Not what you almost wrote."
+"I mean—" Lin hesitated, which was rare. "Fleet read what we wrote. Not what you almost wrote."
 
 Holt filed the offset comparison. "If VI-Gamma hears from the scout before Fleet sends us a summary, I want it on strip log before it touches the board."
 
 "Personal?"
 
-"Personal until I say otherwise." Holt looked at Nand. "Partner?"
+"Personal until I say otherwise." Holt looked at Lin. "Partner?"
 
-Nand nodded once. "Partner."
+Lin nodded once. "Partner."
 
 "Run eleven again."
 
-Nand ran it.
+Lin ran it.
 
 The void remained.
 
@@ -356,13 +356,13 @@ At Mission +19:00, Fleet liaison returned a summary strip—not Holt's packet ec
 
 *Contact event logged. Scout registry presumed contact-lost pending verification. Preliminary destruction assessment: probable hull loss. Confidence high. Contradiction pending.*
 
-Nand read it over Holt's shoulder. Neither spoke for four seconds.
+Lin read it over Holt's shoulder. Neither spoke for four seconds.
 
-"Probable," Nand said finally.
+"Probable," Lin said finally.
 
 "Not confirmed," Holt said.
 
-"Not confirmed is how Fleet says *we hope we're wrong*." Nand's voice was level. Professional. "You didn't write loss."
+"Not confirmed is how Fleet says *we hope we're wrong*." Lin's voice was level. Professional. "You didn't write loss."
 
 "I wrote discharge and void." Holt did not look away from the board. "The overlay wrote the rest."
 
@@ -374,7 +374,7 @@ She closed the overlay.
 
 "Run eleven again," she said.
 
-Nand ran it.
+Lin ran it.
 
 ---
 
@@ -404,7 +404,7 @@ Mercer pulled the destruction assessment on a secondary pane—not for drama, fo
 
 "Assessment version three-point-one," Mercer said quietly. "Generated from VI-Gamma passive returns and discharge peak. Confidence band high. No contradicting return signal from scout registry since event window."
 
-"Because the scout had no signal to return," Sato said. She had the annex on her tablet now—Holt's timestamps, Nand's strip log, the post-discharge scatter Holt had been careful not to over interpret. "Holt wrote facts. The board wrote implications. Fleet will combine them if we're not careful."
+"Because the scout had no signal to return," Sato said. She had the annex on her tablet now—Holt's timestamps, Lin's strip log, the post-discharge scatter Holt had been careful not to over interpret. "Holt wrote facts. The board wrote implications. Fleet will combine them if we're not careful."
 
 Rowan looked at Mercer. "Who else has seen the assessment?"
 
@@ -654,7 +654,7 @@ Holt swallowed. "I sent the packet."
 
 "I know that too."
 
-Nand, at the primary chair, did not turn around. She increased the gain a fraction so Holt would not have to ask. On the secondary pane, the Fleet queue blinked—waiting.
+Lin, at the primary chair, did not turn around. She increased the gain a fraction so Holt would not have to ask. On the secondary pane, the Fleet queue blinked—waiting.
 
 Park: "We're blind on passive. Tactical's rebuilding. Reyes says sky comes back in pieces. Fleet thinks we were dead an hour ago."
 
@@ -676,7 +676,7 @@ The line held three seconds longer than procedure required. Then Park closed it 
 
 Holt sat back. Her fingers were steady. That surprised her. It did not make her feel better.
 
-Nand, without looking up: "Want me to run eleven again?"
+Lin, without looking up: "Want me to run eleven again?"
 
 "Yes."
 
@@ -684,7 +684,7 @@ Nand, without looking up: "Want me to run eleven again?"
 
 Holt considered. "Yes."
 
-Nand ran the sweep. Holt filed the strip. Partner, not pupil.
+Lin ran the sweep. Holt filed the strip. Partner, not pupil.
 
 The void on the board was unchanged. Jun Park was alive. That fact did not resolve anything on the sweep—it only meant she had someone left to relay for.
 
@@ -696,17 +696,17 @@ She did not send it until the sweep block was signed. Then she sent it anyway—
 
 When Fleet amended the destruction assessment an hour later—*scout registry alive; cross-check Cartography timeline*—the strip arrived on Holt's board, not Park's.
 
-Nand read it upstream to confirm. Holt read it twice.
+Lin read it upstream to confirm. Holt read it twice.
 
-Nand watched her.
+Lin watched her.
 
-"He's alive," Holt said. Not to Nand. To the board.
+"He's alive," Holt said. Not to Lin. To the board.
 
-"I relayed Park to Fleet," Nand said. "You relayed Park to Fleet. Fleet heard Park because we held the node."
+"I relayed Park to Fleet," Lin said. "You relayed Park to Fleet. Fleet heard Park because we held the node."
 
 "Fleet thought he was dead."
 
-"Fleet corrected." Nand returned to the primary chair. "Through us."
+"Fleet corrected." Lin returned to the primary chair. "Through us."
 
 Holt stamped the amendment. Her hand did not shake. Her shoulders did not loosen.
 
@@ -716,15 +716,15 @@ Holt stamped the amendment. Her hand did not shake. Her shoulders did not loosen
 
 "Fleet will send them back."
 
-Nand did not ask how she knew. The orders strip arrived six minutes later—observe, investigate, corridor seven-alpha—addressed to Calder, routed through VI-Gamma for relay.
+Lin did not ask how she knew. The orders strip arrived six minutes later—observe, investigate, corridor seven-alpha—addressed to Calder, routed through VI-Gamma for relay.
 
 Holt read it. Felt the weight of the queue tree on her console—the Fleet packets waiting, the scout replies pending, the confirm tokens she would send in both directions until someone fixed a hull she could not see.
 
-Nand said, "Chief—"
+Lin said, "Chief—"
 
 "I know." Holt opened a new relay lane. "Partner."
 
-"Partner," Nand said.
+"Partner," Lin said.
 
 "Run eleven again."
 
@@ -1114,9 +1114,9 @@ Above, stars held for Reyes—not promise, instrument. He finally released the m
 
 Park keyed the burn to buffer and relay lane; Walsh reported no new injuries; Ortega's passive rebuild still failed on the same polite error.
 
-At the Kestran VI-Gamma watchpost, Holt and Nand watched the scout contact bearing shift one increment on the amended overlay—not proof of intent, proof of motion. Holt relayed the burn notice upstream before Calder finished asking; confirm token back; then another Fleet query waiting in queue, checksum mismatch on the second pass.
+At the Kestran VI-Gamma watchpost, Holt and Lin watched the scout contact bearing shift one increment on the amended overlay—not proof of intent, proof of motion. Holt relayed the burn notice upstream before Calder finished asking; confirm token back; then another Fleet query waiting in queue, checksum mismatch on the second pass.
 
-"Correction thrust," Nand said.
+"Correction thrust," Lin said.
 
 "Observe and investigate." Holt did not smile. "Fleet language for *go back and don't die stupidly*."
 

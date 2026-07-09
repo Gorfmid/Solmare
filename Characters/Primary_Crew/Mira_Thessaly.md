@@ -9,9 +9,9 @@ Second-in-command. Watch captain during Calder's rest cycles. Operational author
 
 ## BACKGROUND
 
-Mira Thessaly entered fleet service through standard officer commissioning—not the administrative track Calder took, but not frontline combat command either. She served two scout postings as navigation liaison and then three as executive officer before the *Veil*.
+Mira Thessaly entered fleet service through standard officer commissioning—not the administrative track Calder took, but not frontline combat command either. She served two scout postings as navigation liaison and three as executive officer on other hulls before assignment to the *Veil*.
 
-She was XO under Captain Dennett for fourteen months before Dennett rotated out at Helion Prime. She knows this ship's habits, failings, and crew rhythms better than Calder does.
+She has been executive officer aboard the *Kestrel Veil* for **sixty-seven months** at Book One opening—through three prior commanding officers before Calder. Captain Dennett was the most recent; she served under him for **fourteen months** before he rotated out at Helion Prime (eleven days before Calder's posting). She knows this ship's habits, failings, and crew rhythms better than Calder does.
 
 Thessaly did not apply for captain on the *Veil*. She stayed as XO when Calder was assigned. This was the correct professional outcome and she treats it as such.
 

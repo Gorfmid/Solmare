@@ -34,7 +34,7 @@ Communications is where **truth survives bureaucracy** or dies in routing errors
 Communications validates:
 
 - That segment seven logs are authentic (Park)
-- That Holt/Nand chain proves continuity (Ch. 6–8)
+- That Holt/Lin chain proves continuity (Ch. 6–8)
 - Whether *first contact has not occurred* is technically defensible
 - How much report can be relayed before classification seals
 
@@ -70,7 +70,7 @@ See `Books/Book_01_The_Kestrel_Veil_Incident/Archive/archive_02_fleet_communicat
 |-----------|------|
 | **Jun Park** | Buffer/archivist aboard *Kestrel* |
 | **Dana Holt** | VI-Gamma relay authority; Ch. 17+ Communications Command (Validation Bay) |
-| **Priya Nand** | Signal validation; watch partner |
+| **Amara Lin** | Signal validation; watch partner |
 | **Yuki Tanaka** | Emitter discipline witness |
 | **Felix Ortega** | Listen watch logs |
 

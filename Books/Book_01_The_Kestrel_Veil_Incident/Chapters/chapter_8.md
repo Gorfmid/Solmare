@@ -54,9 +54,9 @@ Dana Holt had watched the contact bearing shift for two days—the slow proof th
 
 She had also watched the column go void.
 
-Both facts lived on her board now without reconciling. Nand said that was correct procedure. Holt said procedure was what you hid behind when your hands wanted to shake.
+Both facts lived on her board now without reconciling. Lin said that was correct procedure. Holt said procedure was what you hid behind when your hands wanted to shake.
 
-"Return on passive," Priya Nand said from the primary chair. "Scout-class silhouette. Damaged profile consistent with—" She stopped. Rechecked. "Consistent with *not dead*."
+"Return on passive," Amara Lin said from the primary chair. "Scout-class silhouette. Damaged profile consistent with—" She stopped. Rechecked. "Consistent with *not dead*."
 
 Holt did not look away from the viewport.
 
@@ -72,7 +72,7 @@ Jun Park—not as a signal trace, but as someone she had grown up beside, whose 
 
 For two days she had been the hinge between a dead scout on Fleet paper and a living crew on correction thrusters. Now the living crew had a silhouette.
 
-"Lane two alignment," Nand said.
+"Lane two alignment," Lin said.
 
 "Mark it," Holt said.
 
@@ -80,7 +80,7 @@ On the overlay, alpha returned—not the contact from the discharge, not the ene
 
 Her throat tightened. She swallowed once and stamped the timestamp because the board expected a stamp.
 
-"Chief," Nand said, quietly.
+"Chief," Lin said, quietly.
 
 "I see it."
 
@@ -88,7 +88,7 @@ Her throat tightened. She swallowed once and stamped the timestamp because the b
 
 "No ceremony." Holt pulled the approach checklist. "Open emergency berthing. Tell maintenance we have six hours and a scout that lists to port. Tell them not to applaud."
 
-Nand almost said something. Didn't. Keyed the orders.
+Lin almost said something. Didn't. Keyed the orders.
 
 Holt opened the maintenance channel herself—voice level, Cartography professional: "Cho, lane two in ten. Scout-class, damaged profile, six-hour emergency window. No ceremony. No press. Treat them like people who shouldn't be alive and are anyway. And get them real food as soon as the collar's green."
 
@@ -98,11 +98,11 @@ Holt almost smiled. Didn't.
 
 She had seen the discharge on the board. She had seen the void. She had not seen the hull until now—wrong thermal signature, wrong attitude, **return on passive**.
 
-Nand said, quietly, "You held your breath."
+Lin said, quietly, "You held your breath."
 
 Holt had not noticed. She exhaled. "Stamp approach. Partner."
 
-"Partner," Nand said.
+"Partner," Lin said.
 
 The sweep continued. It always continued.
 
@@ -334,7 +334,7 @@ Park found Holt in the fringe room between hour three and four—not the primary
 
 Holt was alone.
 
-Nand had the primary chair. Cho's maintenance shift had the collar. The board still ran sweeps because the board always ran sweeps.
+Lin had the primary chair. Cho's maintenance shift had the collar. The board still ran sweeps because the board always ran sweeps.
 
 Park stood in the hatchway long enough to be seen.
 
@@ -344,7 +344,7 @@ Park stood in the hatchway long enough to be seen.
 
 "Come in."
 
-He came in. Closed the hatch. Sat in the second chair—the one Nand usually took.
+He came in. Closed the hatch. Sat in the second chair—the one Lin usually took.
 
 Silence did the first work.
 
@@ -396,9 +396,9 @@ Holt was quiet for a moment. "What did it say?"
 
 Park did not answer that directly. Two days as the person other people read through had taught him the cost.
 
-"Nand knows," Holt said. It wasn't a question.
+"Lin knows," Holt said. It wasn't a question.
 
-"Nand always knows," Park said. "She just doesn't say until you need her to."
+"Lin always knows," Park said. "She just doesn't say until you need her to."
 
 "She increased gain on the personal lane during the discharge window. I didn't ask."
 
@@ -456,9 +456,9 @@ She nodded once. He stood. At the hatch he stopped.
 
 He left. Holt sat alone for ninety seconds. She opened the queue and did not combine the personal lane headers with Fleet summary writers—that was the job and the job was how she stayed steady.
 
-Nand knocked once on the hatch frame—not entering.
+Lin knocked once on the hatch frame—not entering.
 
-"Hour five in twelve," Nand said.
+"Hour five in twelve," Lin said.
 
 "I know."
 
@@ -470,7 +470,7 @@ Nand knocked once on the hatch frame—not entering.
 
 "I know." Holt did not turn. "Partner."
 
-"Partner," Nand said, and went back to the primary chair.
+"Partner," Lin said, and went back to the primary chair.
 
 Holt looked at the viewport—not the scout, the black beyond it. The corridor they would enter again. The void that had eaten alpha on her board.
 
@@ -496,7 +496,7 @@ Calder on the command deck with Thessaly at his shoulder and the crew scattered 
 
 In engineering, Koss paused with a station coupler in her hand and did not move until the packet finished.
 
-On the watchpost floor, Nand watched Holt's shoulders and said nothing.
+On the watchpost floor, Lin watched Holt's shoulders and said nothing.
 
 Rowan's voice, calm as ever:
 
@@ -550,7 +550,7 @@ Cho met Calder at the collar hatch.
 
 Calder thanked Cho in the administrative way that meant *we owe you* without currency to pay it. Cho nodded like she had heard that from every wounded scout Cartography ever mothered for one collar window.
 
-On the watchpost floor, Nand tracked latch release. Holt watched the viewport.
+On the watchpost floor, Lin tracked latch release. Holt watched the viewport.
 
 The *Veil* undocked with collar-metal creak. No one cheered. Two maintenance techs watched from the gantry—one raised a hand. Acknowledgment, not salute.
 
@@ -570,7 +570,7 @@ Park remained at the buffer until fringe range made warm range a countdown—bur
 
 The signal dropped on the next confirm cycle—loss of voice when they outran relay range. Park switched to local monitoring.
 
-On the watchpost, Holt marked upstream gone. Nand ran sweep eleven without being asked. Partner.
+On the watchpost, Holt marked upstream gone. Lin ran sweep eleven without being asked. Partner.
 
 ---
 
