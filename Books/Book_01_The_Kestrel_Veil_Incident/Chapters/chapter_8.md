@@ -2,103 +2,29 @@
 
 ## The Quiet Before the Silence
 
-The *Kestrel Veil* matched drift into Kestran VI-Gamma watchpost berthing with visible effort—correction thrusters only, main engines offline.
+The latch held green. Cho's six-hour window was open.
 
-Damon Reyes made three correction burns that Yuki Tanaka filed as *outside tolerance* and Reyes called *straight correction math*. The scout listed two degrees to port. The hull creaked on each burn.
+No one on the gantry waved. Two techs watched the scout settle into the collar—measuring whether latch hold would last.
 
-On the command deck, lighting ran at day-cycle—someone in environmental had won that fight—but Reing 3 still flickered when the scrubbers overworked, and the deck vibration under Calder's boots was wrong in a way his body had learned faster than any instrument.
+Ari Halden, tactical watch: "Local space clean. Station read only."
 
-"Fringe contact, four minutes." Jun Park said from the buffer. His voice was flat even on internal comm; thirty-eight hours of upstream timestamps will do that. "Kestran VI-Gamma watchpost. Lane two. Emergency berthing. Six-hour window."
+Calder stood. "Thessaly—station liaison. Park—keep upstream live. Brenner and Koss—take what they'll give us for the window. No fights you can't finish."
 
-Calder looked at Mira Thessaly. She had the transit slate open and the expression she wore when numbers were correct and circumstances were not.
+Through the collar viewport the array spine rose against the black—Cartography's long watch made physical. Holt was already stamping their arrival upstream. Brenner was already arguing about pin spacing.
 
-"Acknowledge," Calder said.
+"Pick fights I can finish," Brenner said on intercom. "Got it."
 
-Park keyed upstream. Four-second delay. Dana Holt's voice: "Lane two. Match your drift before you make everyone nervous."
+"Don't pick fights," Calder corrected.
 
-"Copy. Matching."
+"Copy," Brenner said, in a tone that promised nothing.
 
-He did not add that matching took effort the display smoothed away.
+Calder took the transit tube to the collar level because the lift could not compensate for the port list.
 
-Tomas Brenner on intercom, to no one in particular: "Lane two means their array still trusts our thrusters not to kiss their spine. That's a worn coupling holding."
+❦
 
-Elara Koss: "Lane two means they need us off their fringe before the next sweep block."
+On the watchpost floor, Holt watched the collar light and did not look away until Lin stamped approach final.
 
-"Same load rating," Brenner said.
-
-Calder listened and did not interrupt. The ship around him still smelled like scorch and hot duct—familiar now, wrong still. A runner had taped *DOES NOT SEAL* on a hatch that no longer met its frame. Someone else had written *YET* underneath in smaller letters.
-
-Park keyed burn status and latch prep upstream; Holt returned confirm on the second wait.
-
-Thessaly leaned toward Calder, voice low. "Cho's maintenance team is standing by on the ring. Collar window from latch. Walsh wants Hale in clinic the moment we're stable."
-
-"And the crew?"
-
-"Functional." Thessaly did not look at him when she said it. "Not rested. Walsh note on record: sitting down is not sleep."
-
-"Noted." Calder watched the watchpost grow in the forward display—not a station in the Fleet sense, a listening post with a hab ring and an array spine and an emergency collar grafted on like an afterthought. "Brenner gets liaison when pin spacing holds. Not before."
-
-The approach burn corrections had been ugly enough that Tanaka had filed each one with a comment column Reyes asked her to leave blank. She had left one word on the last entry: *survived*. Calder had seen it and not corrected her.
-
-One receiving node remained.
-
-The window, Park had said. Emergency berthing. Not a yard. Not recovery. A pause.
-
-Calder did not tell the deck that. The deck already knew.
-
----
-
-***KESTRAN VI-GAMMA WATCHPOST***
-
-Dana Holt had watched the contact bearing shift for two days—the slow proof that the scout was still moving, still wrong, still alive.
-
-She had also watched the column go void.
-
-Both facts lived on her board now without reconciling. Lin said that was correct procedure. Holt said procedure was what you hid behind when your hands wanted to shake.
-
-"Return on passive," Amara Lin said from the primary chair. "Scout-class silhouette. Damaged profile consistent with—" She stopped. Rechecked. "Consistent with *not dead*."
-
-Holt did not look away from the viewport.
-
-The *Kestrel Veil* came off correction thrusters in a bad way—attitude wobble, port list, thermal bloom on Reing 5 that Cartography would classify as *distressed* before anyone wrote *brave*. No parade. No escort. Just a tired hull crossing the last kilometers on fractional thrust and borrowed tolerance.
-
-Holt had written *probable hull loss* into the Fleet chain without writing those words. She had carried Jun Park's voice upstream and heard Fleet un-write the loss on the same procedural tone they used for weather.
-
-She had not allowed herself to imagine the scout on approach.
-
-Seeing it was different.
-
-Jun Park—not as a signal trace, but as someone she had grown up beside, whose voice upstream now arrived in fragments she had to interpret instead of simply hear.
-
-For two days she had been the hinge between a dead scout on Fleet paper and a living crew on correction thrusters. Now the living crew had a silhouette.
-
-"Lane two alignment," Lin said.
-
-"Mark it," Holt said.
-
-On the overlay, alpha returned—not the contact from the discharge, not the enemy, but the friendly return she had stopped believing would ever show a hull again.
-
-Her throat tightened. She swallowed once and stamped the timestamp because the board expected a stamp.
-
-"Chief," Lin said, quietly.
-
-"I see it."
-
-"Do you want—"
-
-"No ceremony." Holt pulled the approach checklist. "Open emergency berthing. Tell maintenance we have six hours and a scout that lists to port. Tell them not to applaud."
-
-Lin almost said something. Didn't. Keyed the orders.
-
-Holt opened the maintenance channel herself—voice level, Cartography professional: "Cho, lane two in ten. Scout-class, damaged profile, six-hour emergency window. No ceremony. No press. Treat them like people who shouldn't be alive and are anyway. And get them real food as soon as the collar's green."
-
-Cho's reply crackled once: "Copy, Chief. We'll treat them like one of our own returning from patrol."
-
-Holt almost smiled. Didn't.
-
-She had seen the discharge on the board. She had seen the void. She had not seen the hull until now—wrong thermal signature, wrong attitude, **return on passive**.
-
-Lin said, quietly, "You held your breath."
+"You held your breath," Lin said, quietly.
 
 Holt had not noticed. She exhaled. "Stamp approach. Partner."
 
@@ -114,37 +40,7 @@ Not witness alone.
 
 Bridge.
 
----
-
-The *Veil* matched lane two with a final burn that Brenner on intercom called *a negotiation* and Koss called *an insult to propulsion*.
-
-Calder felt the first latch contact as a shudder through the collar hardpoint—metal on metal, honest, ungraceful.
-
-Not a yard. Not home. A place to stop before the dark.
-
-Reyes called contact; Tanaka engaged the latch. Three seconds of vibration Calder felt in his teeth as the scout's list shifted a fraction and the collar took weight it had not been designed to love. Latch green, relative drift within tolerance—generous tolerance, Reyes said, but tolerance kept them alive.
-
-Through the collar viewport Calder saw station techs already moving—cable coils, filter crates, a relay housing on a cart. Cho stood at the center of it with a slate and the expression of a woman who had mothered too many wounded hulls to be surprised by another one.
-
-No one on the gantry waved. Two techs watched the scout settle into the collar—measuring whether latch hold would last.
-
-Ari Halden, tactical watch: "Local space clean. Station read only."
-
-Calder stood. "Thessaly—station liaison. Park—keep upstream live. Brenner and Koss—take what they'll give us for the window. No fights you can't finish." He almost smiled. "Back home we'd call this more than lipstick on a pig."
-
-Through the viewport the array spine rose against the black—Cartography's long watch made physical. Holt was already stamping their arrival upstream. Brenner was already arguing about pin spacing.
-
-Six hours on the clock. Not enough. Everything they had.
-
-"Pick fights I can finish," Brenner said on intercom. "Got it."
-
-"Don't pick fights," Calder corrected.
-
-"Copy," Brenner said, in a tone that promised nothing.
-
-Calder took the transit tube to the collar level because the lift could not compensate for the port list.
-
----
+❦
 
 For thirty-eight hours Thessaly had been the membrane between Calder, the deck, and Fleet—injury summaries, upstream traffic, every gap filled before anyone asked.
 
@@ -172,9 +68,9 @@ Nobody noticed.
 
 Nobody commented.
 
----
+❦
 
-In the access bay Calder passed Lieutenant Commander Sade Okwelu coordinating clinic transfers—Hale first, two others who had been pretending minor burns were minor.
+In the access bay Calder passed Lieutenant Commander Seru Okwelu coordinating clinic transfers—Hale first, two others who had been pretending minor burns were minor.
 
 "Captain," Okwelu said. "Borrowed time. I'll get you people back on the board without bandages where the board can see them. I won't get you people rested."
 
@@ -192,7 +88,7 @@ In the access bay Calder passed Lieutenant Commander Sade Okwelu coordinating cl
 
 Calder continued to the collar.
 
----
+❦
 
 The watchpost berthing ring at Kestran VI-Gamma was a metal collar and a maintenance crawlway grafted onto a listening post that had never been designed to mother wounded scouts.
 
@@ -256,7 +152,7 @@ Cho, beside Calder: "He's fun."
 
 Calder nodded once. "You have no idea."
 
----
+❦
 
 Hour one through four belonged to duct tape theology—insulation from station stores, borrowed relays in Reing 3, couplers that fit almost, Cho's team sharing tools while Brenner shared coffee smuggled from the scout galley because station coffee tasted like administrative regret.
 
@@ -274,7 +170,7 @@ Cho checked in each hour—"What do you still need?"—and Brenner's list grew s
 
 Walsh fought clinic paperwork in hour two. In hour four, aft berthing cooled one degree; Kevin ran hot meals from station galley. Park tested the collar amplifier on schedule; Holt returned *readable*, four seconds later, never *good*.
 
----
+❦
 
 Off-cycle came in fragments—not rest, but gaps.
 
@@ -328,7 +224,7 @@ Calder found Brenner in the collar bay at hour four, eating stew from a station 
 
 Calder left him there.
 
----
+❦
 
 Park found Holt in the fringe room between hour three and four—not the primary watch floor, the secondary space where Cartography allowed personal lanes if you didn't lie about the log headers.
 
@@ -480,7 +376,7 @@ That fact did not make the void safe.
 
 It made the borrowed time matter.
 
----
+❦
 
 Hour five brought Fleet.
 
@@ -530,7 +426,7 @@ Calder did not comment. Thessaly did not either.
 
 On the command deck, Halden watched local space. Reyes folded the orders into the nav plot. Brenner on intercom: "Patched and leaving. Don't call us ready."
 
----
+❦
 
 Undock ran heavier than arrival had—the six-hour margin expiring without a bell, Cho saying *you're out of my collar* and Brenner *we're out of your cable* in the same minute.
 
@@ -572,7 +468,7 @@ The signal dropped on the next confirm cycle—loss of voice when they outran re
 
 On the watchpost, Holt marked upstream gone. Lin ran sweep eleven without being asked. Partner.
 
----
+❦
 
 Thessaly posted running dark without naming it—lowered lighting, nonessential channels muted, status on schedule. Boots soft. Voices low. Brenner tested the no-chatter rule once with a joke about Reing 3; Koss answered with a thermal reading and he did not joke again.
 
@@ -615,5 +511,3 @@ Passive had nothing new to file—yet.
 Ortega's gain trim on segment three had not propagated to Halden's overlay—same contact bearing, different confidence band, still unresolved when the edge fell behind them.
 
 Calder had not asked for another sweep.
-
----

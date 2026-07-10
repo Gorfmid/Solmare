@@ -2,7 +2,7 @@
 
 ## New Words
 
----
+❦
 
 Fleet Admiral Elias Rowan did not keep Calder waiting.
 
@@ -44,7 +44,7 @@ Rowan nodded. He did not ask *what does it mean*. He asked, "What did the passiv
 
 The door chimed. A Cartography courier collected bearing annexes for overlay. Rowan did not pause the meeting. Fleet routines did not stop because one department had started work. Somewhere else, packets were already routing.
 
----
+❦
 
 Three floors up, Martine Okoye laid segment seven navigation returns over epoch 143 frontier shading and watched the overlay contradict the band.
 
@@ -82,7 +82,7 @@ She routed the overlay to Rowan's stack with a one-line cover note:
 
 *Charts describe knowledge limits. Recommend language change before strategy change.*
 
----
+❦
 
 "We observed industrial throughput at multiple construction slips, repair annex activity across recurring work periods, and fuel spine duty cycles that suggest deep capacity baselines rather than emergency drawdown," Calder said.
 
@@ -122,7 +122,7 @@ Rowan said, "Understood."
 
 A slate flag pulsed: Doctrine Bureau routing, provisional classification request. Rowan read the header preview without comment and let the meeting continue.
 
----
+❦
 
 In Communications Validation Bay, Dana Holt signed timestamps. Custody began with time.
 
@@ -148,7 +148,7 @@ Below it, a line she had written for herself before Fleet asked:
 
 She deleted the line from the official flag. Kept it on a personal pane.
 
----
+❦
 
 Commander Owen Mercer had spent twenty years making Fleet's language fit Fleet's emergencies. The segment seven returns failed every row in Edition 143.
 
@@ -202,7 +202,7 @@ He routed both to Rowan's stack:
 
 Edition 143's first-contact page carried its first redline. Rowan would have it before lunch. Ahn copied the strike list and returned to the rows Mercer had left marked.
 
----
+❦
 
 Soraya Ellis had joined Historical Office because beginnings mattered: Relay Charter glass cases, Founders' Week placards, the story Fleet told itself on parade mornings.
 
@@ -238,7 +238,7 @@ She routed a comparison brief to Rowan's stack:
 
 She returned the Relay Charter placard to its case before the afternoon school tour. The inscription caught the light: *many worlds, one law of passage*.
 
----
+❦
 
 Rowan's table held the routed returns: Okoye's redline overlay, Mercer's provisional header, Ellis's comparison brief, Holt's integrity flag, Koss's yard certification margin, and a Logistics note from Commander Vance—industrial throughput, model scenarios, no procurement without Operations signature.
 
@@ -310,8 +310,7 @@ Down the corridor, two junior officers debated without breaking stride.
 
 "Mercer hasn't written that part yet."
 
----
+❦
 
 **END CHAPTER 18**
 
----

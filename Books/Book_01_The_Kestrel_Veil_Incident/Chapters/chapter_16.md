@@ -498,8 +498,7 @@ The *Kestrel Veil* crossed back into Fleet space without announcement.
 
 Park's witness archive still carried one separate lane Holt had not combined—checksum green, classification pending, waiting for Fleet to decide what the returns meant.
 
----
+❦
 
 *END ACT III*
 
----

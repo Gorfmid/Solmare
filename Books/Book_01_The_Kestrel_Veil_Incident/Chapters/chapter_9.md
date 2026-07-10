@@ -505,5 +505,3 @@ The *Kestrel Veil* crept on correction thrusters and moved deeper into segment s
 
 Ortega's passive sensor cycle still carried a companion return on the edge of tolerance—present on one pass, absent on the next, not yet sent to Fleet relay.
 
----
-

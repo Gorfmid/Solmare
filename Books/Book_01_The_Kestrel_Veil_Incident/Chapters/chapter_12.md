@@ -470,4 +470,3 @@ The *Kestrel Veil* moved deeper through seven-alpha— damaged, professional, a 
 
 Petrov's board still held marker nineteen without a name—low confidence, persistent across three comparison passes, not yet elevated to contact.
 
----

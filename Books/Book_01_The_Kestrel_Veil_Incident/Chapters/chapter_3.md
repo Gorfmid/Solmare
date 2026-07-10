@@ -210,7 +210,7 @@ The crew watched Calder the way experienced personnel watched new captains: not 
 
 The galley fit six at a table, not fourteen. Calder ducked through the hatch into recycled protein and stew Park had salted again—two tables, one nook, mugs in a rack that did not match. Off-watch, half the senior crew pretended not to watch the new captain eat.
 
-Dr. Sera Okwelu sat at the secondary table with a paper notebook open beside her tray.
+Dr. Seru Okwelu sat at the secondary table with a paper notebook open beside her tray.
 
 "Medical Officer Okwelu," Calder said.
 

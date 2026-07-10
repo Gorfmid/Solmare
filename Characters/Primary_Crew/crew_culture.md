@@ -170,7 +170,7 @@ Signs of strain (current, Ch. 5):
 
 Six senior officers plus eight named support crew. Full roster: `support_crew.md`.
 
-**Department heads:** Dr. Sera Okwelu (medical), Tomas Brenner (maintenance), Yuki Tanaka (flight ops), Felix Ortega (science).
+**Department heads:** Dr. Seru Okwelu (medical), Tomas Brenner (maintenance), Yuki Tanaka (flight ops), Felix Ortega (science).
 
 **Recurring enlisted:** Nadia Cole (relay), Marcus Hale (tactical systems), Sana Mehta (life-support), Devon Walsh (general support).
 

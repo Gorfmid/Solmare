@@ -540,4 +540,3 @@ Calder kept his hands on the rail until the watch turned.
 
 Then he let go.
 
----

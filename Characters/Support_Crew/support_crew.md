@@ -16,7 +16,7 @@ Senior officers know them by name. Park definitely knows them by name.
 
 ## Department Heads (Support)
 
-### Dr. Sera Okwelu — Chief Medical Officer
+### Dr. Seru Okwelu — Chief Medical Officer
 
 **Rank:** Lieutenant (Medical Corps)  
 **Age:** 38  

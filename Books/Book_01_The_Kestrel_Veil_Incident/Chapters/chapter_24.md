@@ -295,12 +295,11 @@ Ahead, Helion Prime.
 The first exchange had succeeded.
 
 Understanding had not begun.
----
+❦
 
 **END BOOK ONE**
 
----
+❦
 
 **END CHAPTER 24**
 
----

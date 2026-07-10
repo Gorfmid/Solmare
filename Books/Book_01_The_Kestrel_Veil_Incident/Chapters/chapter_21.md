@@ -472,8 +472,7 @@ Holt's relay integration would stay partial until Fleet understood what first-co
 
 Same ship on the cradle. Refit manifest open. Mission packet amended.
 
----
+❦
 
 **END CHAPTER 21**
 
----

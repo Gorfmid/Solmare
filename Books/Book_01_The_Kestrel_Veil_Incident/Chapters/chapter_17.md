@@ -359,8 +359,7 @@ Calder walked toward Operations.
 
 Witness filing remained on his slate. Rowan's request was Priority One.
 
----
+❦
 
 **END CHAPTER 17**
 
----

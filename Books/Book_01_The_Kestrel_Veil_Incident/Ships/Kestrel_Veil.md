@@ -4,6 +4,7 @@
 **Status:** Book One canonical reference  
 **Class:** Scout-class reconnaissance vessel  
 **Schematic:** `kestrel_veil_schematic.png` (reader placement: before Ch. 7 — *The Living Ship*)  
+**Chart position:** Peripheral Survey Limit; explorer lane via Kestran IV-Alpha / VI-Gamma; stardate 2387.44 (see `Universe/Maps/ufa_galactic_reference_guide.md`)  
 **Source context:** Chapters 1–16  
 **Related:** `Characters/Primary_Crew/` · `Planning/Fleet_Authority_Briefing_Packet.md` (segment seven data)
 

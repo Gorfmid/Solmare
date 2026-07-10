@@ -268,8 +268,7 @@ Rowan turned off the office light.
 
 In the corridor, a junior Doctrine intern carried Mercer's memorandum to the overnight queue—clumsy title visible on the cover, first sentence already copied onto a whiteboard somewhere Ellis would not approve of and Okoye would.
 
----
+❦
 
 **END CHAPTER 20**
 
----

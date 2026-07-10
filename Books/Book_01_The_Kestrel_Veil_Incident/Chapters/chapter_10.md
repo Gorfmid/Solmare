@@ -410,4 +410,3 @@ Thessaly wrote the sentence in her slate. Fleet relay could wait.
 
 The *Kestrel Veil* crept on correction thrusters and moved deeper into segment seven—alone, scarred but operational, professional.
 
----

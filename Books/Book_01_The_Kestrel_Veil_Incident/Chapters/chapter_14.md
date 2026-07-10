@@ -478,4 +478,3 @@ Jun Park tagged the night's correlations for a Fleet review that did not exist y
 
 Park's separate archive still held one correlation thread Fleet had not requested—checksum match, urgency flag unset, waiting for a policy layer that did not exist yet.
 
----

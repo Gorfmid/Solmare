@@ -65,7 +65,7 @@ Damon Reyes stayed long enough to confirm corridor spacing on the overlay one mo
 
 Thessaly waited until the room was theirs, tucked the department strips under her arm, and walked with him toward the command deck.
 
----
+❦
 
 Kevin appeared in the corridor outside with a tray of cream-filled pastries.
 
@@ -323,8 +323,7 @@ Vex logged the contact and did not alter position.
 
 V17 had registered the crossing before the scout's own archive would file the boundary.
 
----
+❦
 
 **END CHAPTER 22**
 
----

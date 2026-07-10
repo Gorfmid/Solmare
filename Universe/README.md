@@ -8,6 +8,7 @@ Shared Solmare canon: cosmology, factions, technology, geography, and observatio
 |----------|---------|
 | **`cultural_touchstones.md`** | **Series-wide** — civilization texture, cultural memory, Dominion proverbs, civilization scene test |
 | **`../Writing_System/Series_Principles/cultural_identity_and_philosophical_foundation.md`** | **Series-wide** — cultural recursion, true antagonist (history), series philosophy |
+| **`Maps/ufa_galactic_reference_guide.md`** | **UFA official navigation chart** — seven survey segments, travel network, planet template, canon rules |
 | **`canon_and_world_rules.md`** | Fleet vessel class hierarchy, weapons by class, design philosophy |
 | **`fleet_doctrine_and_combat_logic.md`** | How space combat functions — role matchups, battle outcome logic, narrative integration rules. Reference before battle scenes. |
 | **`Fleet/fleet_crew_and_officer_canon.md`** | Crew complements and officer scaling by vessel class. Reference before ship interior and command scenes. |
@@ -23,7 +24,7 @@ Shared Solmare canon: cosmology, factions, technology, geography, and observatio
 | Folder | Contents |
 |--------|----------|
 | `Cosmology/` | Galaxy-scale structure (`galaxy.md`, `systems.md`) |
-| `Maps/` | Sectors, Solmare Quadrant geography |
+| `Maps/` | Sectors, Solmare Quadrant geography, **`Maps/ufa_galactic_reference_guide.md`** (UFA seven-segment chart bible) |
 | `Fleet/` | Unified Fleet Authority, inter-faction relations |
 | `The_Dominion/` | Primary opposing civilization — worldview, doctrine, society |
 | `Technology/` | Ship classes, sensors, relays |

@@ -21,7 +21,7 @@
 - **Renata Cho** — Station Chief Maintenance Officer, Kestran VI-Gamma; pragmatic Cartography maintenance authority; six-hour patch window
 - **Eban** — VI-Gamma maintenance tech (pin spacing, coupler work)
 - **Pell** — Reing maintenance tech; falls asleep mid-sentence
-- **Sade Okwelu** — station clinic liaison (brief)
+- **Seru Okwelu** — station clinic liaison (brief)
 
 ## SHIP STATE (END CH. 8)
 

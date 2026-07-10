@@ -44,8 +44,8 @@ Full build sequence for `Manuscript/_build/build_manuscript.ps1` — see `Archiv
 | 2 | A Captain's Dream | `chapter_2.md` | 5,262 | Act I · **LOCKED FINAL** |
 | 3 | The Ship That Refuses to Die | `chapter_3.md` | 5,422 | Act I · **LOCKED FINAL** |
 | 4 | Routine Patrol | `chapter_4.md` | 2,960 | Act I ends · **LOCKED FINAL** |
-| 5 | Mission's End | `chapter_5.md` | 5,064 | Act II opens |
-| 6 | Witness | `chapter_6.md` | 3,370 | Act II |
+| 5 | Mission's End | `chapter_5.md` | 5,397 | Act II opens · **LOCKED FINAL** |
+| 6 | Witness | `chapter_6.md` | 3,829 | Act II · **LOCKED FINAL** |
 | — | **Kestrel Veil schematic** | `Manuscript/assets/kestrel_veil_schematic.png` | — | **Before Ch. 7** — Fleet reconnaissance vessel blueprint; preamble in `chapter_7.md` |
 | 7 | The Living Ship | `chapter_7.md` | 9,608 | Act II |
 | 8 | The Quiet Before the Silence | `chapter_8.md` | 4,732 | Act II ends |
@@ -70,11 +70,13 @@ Full build sequence for `Manuscript/_build/build_manuscript.ps1` — see `Archiv
 | — | **Epilogue** | `Chapters/epilogue.md` | 1,212 | *First Day* — Edition 144 + **Required Reading** bookend |
 | — | **Appendix** | `Appendix/book_one_appendix.md` | 2,452 | Fleet Historical Office reference supplement (post–Book One); Appendices A–E |
 
-**Total (publication build):** **90,126 words** (source `Chapters/*.md` + `Archive/`; counts from markdown source files)  
-**Chapters only (1–24):** **88,567 words**  
+**Total (publication build):** **90,918 words** (source `Chapters/*.md` + `Archive/`; counts from markdown source files)  
+**Chapters only (1–24):** **89,359 words**  
 **Tracker:** `Notes/REWRITE_STATUS.md` · **Status:** Ch. 1–21 + archives **LOCKED** · Ch. 22–24 **DRAFT**
 
 **Source of truth:** `Chapters/*.md` (and `Archive/` interludes). Compiled `Manuscript/Act_*.md` and full-book exports are **not** auto-regenerated — rebuild only when author requests (`Manuscript/_build/rebuild_act.ps1` per act, or `build_manuscript.ps1` for publication outputs).
+
+**World map reference:** `Universe/Maps/ufa_galactic_reference_guide.md` — UFA seven-segment chart bible (text reference; chart image pending).
 
 **Bookend symmetry:** Prologue (*Edition 143 · Required Reading*) + FSA-143-07 → narrative → Epilogue (*Edition 144 · Required Reading*). FCC-7712 after Incident; FDB-144-DRAFT after *New Words*. Ch. 21–24: unified Contact Doctrine (`act4_chapters_21-24_generation.md`).
 
@@ -250,7 +252,7 @@ First patrol under Calder's command: undock; crew shorthand he has not yet learn
 
 # ACT II — THE KESTREL VEIL INCIDENT (Chapters 5–8)
 
-**Status:** Ch. 5–8 **LOCKED** (complete prose)  
+**Status:** Ch. 5–6 **LOCKED FINAL** (2026-07-09); Ch. 7–8 **LOCKED** (complete prose)  
 **Generation doctrine:** `act2_chapters_5-8_generation.md`  
 **State logs:** `../State/chapter_5_state_log.md` through `chapter_8_state_log.md`
 
@@ -260,49 +262,51 @@ The book's **defining event**: contact, presumed destruction, survival, Fleet co
 
 ## Chapter 5 — Mission's End
 
-**Status:** **LOCKED** (5,064 words)  
+**Status:** **LOCKED FINAL** (5,397 words) — editorial pass complete **2026-07-09**; **no further edits**  
 **Generation directive:** `chapter_5_generation_directive.md`  
-**Dominion Thread:** `chapter_5_enemy_contact_pov.md` (format registry) · `Characters/Antagonists/Commander_Vex.md`
+**Dominion Thread:** `chapter_5_enemy_contact_pov.md` (format registry) · `Characters/Antagonists/Commander_Vex.md`  
+**State log:** `../State/chapter_5_state_log.md`
 
 ### Purpose
 
-**Act II opening.** First encounter with structured external unknown — partial detection, passive lock, photon discharge, dual POV (Fleet scout + enemy monitor). ***Kestrel Veil* believed destroyed.**
+**Act II opening.** First encounter with structured external unknown — partial detection, passive lock, photon discharge, dual POV (Fleet scout + Reciprocal Bearing intercuts). ***Kestrel Veil* believed destroyed.**
 
 ### End state
 
-Presumed hull loss at Kestran Spiral bearing 214 mark 6; Leviathan-class contact (reader/Vex POV); Fleet unaware of survival.
+Presumed hull loss at Kestran Spiral bearing 214 mark 6; opposing command debrief (Vex; reader-only); Fleet unaware of survival or hull class.
 
 ---
 
 ## Chapter 6 — Witness
 
 **Prose title:** *Witness*  
-**Status:** **LOCKED** (3,370 words)  
-**Character sheets:** Dana Holt, Amara Lin
+**Status:** **LOCKED FINAL** (3,829 words) — editorial pass complete **2026-07-09**; **no further edits**  
+**Character sheets:** Dana Holt, Amara Lin (`Characters/Recurring/Dana_Holt.md`)  
+**State log:** `../State/chapter_6_state_log.md`
 
 ### Purpose
 
-Dual POV same engagement — VI-Gamma watchpost witnesses void; *Veil* survives via uncommanded probe intercept; crippled/blind; dual misclassification.
+Dual POV same engagement — **KESTRAN VI-GAMMA WATCHPOST** (Holt/Lin procedural witness) then **KESTREL VEIL** (survival triage). Holt files Cartography notification on sensor facts only; *Veil* survives the bloom; crew blind and injured; empty launch tubes discovered—cause still unknown at chapter end.
 
 ### End state
 
-*Veil* drifting blind; Holt notification filed; repair deferred to Ch. 7.
+*Veil* alive, unverified, no Fleet response; Holt notification filed (Jun not in packet); five walking wounded; repair deferred to Ch. 7.
 
 ---
 
 ## Chapter 7 — The Living Ship
 
-**Status:** **LOCKED** (9,608 words)  
+**Status:** **LOCKED FINAL** (2026-07-10)  
 **Character sheets:** Holt, Nand, Park, Rowan, Sato, Mercer  
 **Illustration:** `kestrel_veil_schematic.png` — placed immediately before this chapter (see **Illustrations**)
 
 ### Purpose
 
-Incomplete recovery — repair priority sequence; Fleet via VI-Gamma relay; destruction belief corrected; orders to Neutral Zone seven-alpha. Opens on the ship as lived space — schematic precedes prose as reader orientation.
+Incomplete recovery — repair priority sequence; Fleet via VI-Gamma relay; destruction belief corrected; transit to VI-Gamma emergency berthing; seven-alpha mission amended. Opens on the ship as lived space — schematic precedes prose as reader orientation.
 
 ### End state
 
-Correction thrusters toward seven-alpha; ship/crew degraded; Holt/Lin relay bridge active.
+Latched at Kestran VI-Gamma, lane two — six-hour emergency collar window open; ship/crew degraded; Holt/Lin relay bridge active; seven-alpha on the slate after berthing.
 
 ---
 

@@ -65,7 +65,7 @@ Chernov looked at the plot one more time. "Then survive a third. Fleet has seen 
 
 Stratimirov did not adjudicate. "Both of you document. Bring Commander Vex."
 
----
+❦
 
 Commander Vex entered without ceremony.
 
@@ -456,4 +456,3 @@ The *Veil* crept on correction thrusters while the watch continued.
 
 Ortega's passive pane still carried a faint return on the same bearing—low confidence, no classification, not yet sent to Fleet relay.
 
----

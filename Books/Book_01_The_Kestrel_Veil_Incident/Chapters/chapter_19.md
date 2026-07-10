@@ -42,7 +42,7 @@ Rowan looked at Calder, waiting in the anteroom per protocol.
 
 "Bring in Captain Venn."
 
----
+❦
 
 *THE CAPTAIN*
 
@@ -134,11 +134,11 @@ Thessaly touched his sleeve once as he passed—report architect to captain, not
 
 He left the chair without looking back. He was the first witness, there would be many more testimonies today.
 
----
+❦
 
 *THE CREW*
 
----
+❦
 
 Damon Reyes — navigation.
 
@@ -158,7 +158,7 @@ Rowan nodded.
 
 Reyes gathered his charts and sat.
 
----
+❦
 
 Ari Halden — engineering observations.
 
@@ -180,7 +180,7 @@ Mercer said, "Could damage from the Incident explain passive gaps?"
 
 She sat.
 
----
+❦
 
 Felix Ortega — communications harmonics.
 
@@ -202,7 +202,7 @@ Rowan nodded once and let the testimony stand.
 
 He gathered the strips and sat.
 
----
+❦
 
 Jun Park — archive integrity.
 
@@ -224,7 +224,7 @@ Holt did not look up. Her pen moved once.
 
 Park gathered his notes and sat.
 
----
+❦
 
 Tomás Brenner — ship condition.
 
@@ -248,7 +248,7 @@ Thessaly closed her slate. Witness appendices complete.
 
 Rowan nodded. Mercer keyed interim witness completion. Coffee was replaced. Nobody drank.
 
----
+❦
 
 *THE EVIDENCE*
 
@@ -276,7 +276,7 @@ Holt said, "The archive is authentic. The custody chain remained intact througho
 
 Holt remained at the secondary table—professional courtesy, not exile. Priya closed checksum panes one by one. Park returned to berth fourteen-C with strip notes in a folder labeled *custody complete*. Ortega's harmonic sample still sat in appendix F, unchanged by ceremony.
 
----
+❦
 
 Rowan looked at Okonkwo. Okonkwo opened the anteroom door.
 
@@ -314,7 +314,7 @@ Rowan nodded once. Okonkwo registered the command synthesis on the custody slate
 
 Calder returned to the anteroom.
 
----
+❦
 
 *THE DELIBERATION*
 
@@ -356,7 +356,7 @@ Ellis wrote in her historian's notebook—unofficial, personal:
 
 She would file the official Historical concurrence later.
 
----
+❦
 
 *THE RECORD*
 
@@ -424,8 +424,7 @@ Rowan looked once at the sealed bindings, knowing everything was going to change
 
 Witness complete. Intent unresolved.
 
----
+❦
 
 **END CHAPTER 19**
 
----

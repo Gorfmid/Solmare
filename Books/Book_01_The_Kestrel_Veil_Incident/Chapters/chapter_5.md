@@ -1,30 +1,34 @@
 # Chapter 5
 
+<!-- LOCKED FINAL · 2026-07-09 · No further edits unless author explicitly unlocks. -->
+
 ## Mission's End
 
 Relay rendezvous closed without ceremony.
 
-Park released the secondary buffer manually—the early acknowledgment from Kestran IV-Alpha still flagged in a separate column, filed the way mid-cycle duplicates had been: observed, separate, not combined until the relay window gave them a reason. Reyes logged the approach solution; Koss certified regulator hold for the mapping leg. Calder recorded patrol cycle continuation and the *Veil* slid back onto the outer Kestran Spiral loop as if nothing had interrupted it.
+Park released the secondary buffer manually. The early acknowledgment from Kestran IV-Alpha was still in the side lane—where it had sat since check-in, separate from the primary log. Reyes logged the approach solution; Koss certified regulator hold for the mapping leg. Calder recorded patrol cycle continuation and the *Veil* slid back onto the outer Kestran Spiral loop as if nothing had interrupted it.
 
 The environmental thrum held its patrol note. Tanaka's dice clicked once when vector four corrected. Somewhere aft, Brenner kicked a door.
 
-Mission +46:00 of +46:00 on the first loop became Mission +01:00 of the mapping sweep—the part of the mandate that paid for the fuel report. Calder had read the sector chart at Helion Prime: sparse traffic, old survey lines, a border advisory in Park's queue that still had not risen above low priority. The posting summary called it routine reconnaissance. The crew called it another routine posting.
+Mission +46:00 of +46:00 on the first loop became Mission +01:00 of the mapping sweep—the reconnaissance work the mandate was written for. Calder had read the sector chart at Helion Prime: sparse traffic, old survey lines, a border advisory in Park's queue that still had not risen above low priority. The posting summary called it routine reconnaissance. The crew called it another routine posting.
 
-The command deck operated the way it had since undock—corrections practiced until they stopped registering as corrections. Park tracked comms as rhythm; Cole covered secondary when the handshake narrowed. Ortega ran tertiary with the same wrong offset as cradle, logged separate from composite stack. Walsh's overflow carton on the forward console had been refilled once and was half empty again. Calder did not log it.
+The command deck had the same rhythm as undock—small corrections, no one calling them out anymore. Park tracked comms by habit; Cole took secondary when the handshake narrowed. Ortega ran tertiary with the same wrong offset he had logged at cradle, still in his own column. Walsh's overflow carton on the forward console had been refilled once and was half empty again. Calder did not log it.
 
 "Mapping leg one," Reyes said. "Passive sweep arc seven through twelve. Tanaka has sequence staging."
 
 "Aye," Tanaka said. The dice hung bracketed to the cable run again—same arrangement as undock, same click on correction. Calder had stopped asking about it.
 
-Halden ran tactical overlays that showed empty space and ghost traces the board labeled *non-events*. Calder stood once, sat once, and did not give an order that changed motion.
+Halden cycled tactical overlays across empty volume—ghost traces that bloomed on first pass and vanished when she ran them again. The board stamped each one *non-event*; Halden left them filed that way. Calder stood from the command chair, watched the sweep for a minute, and sat back down. Nothing on the board needed his voice yet.
 
 Between Mission +02:00 and Mission +03:00 the mapping sweep settled into the rhythm Reyes had described at undock—corrections too small to announce, data too routine to interrupt meals. Tanaka staged arcs eight through eleven while Reyes overlaid Fleet chart and margin marks in parallel, running each batch twice and logging both when solutions matched within tolerance. Cole covered comms while Park ate from the forward carton without leaving his chair; Mehta stepped left around the Corridor C dent on a maintenance loop; Hale ran a tactical systems calibration in the galley corridor nook—green check, one adjustment, green again. Walsh came through at Mission +02:40 with a stores strip, checked the forward carton against his manifest line, nodded once, and left without breaking anyone's concentration.
 
-Park transmitted a mapping progress stub at Mission +02:50—mandate data only, no contact, no variance—with Cole confirming relay buffer clearance before the packet left. Calder signed. The mandate required it, and refusing would have accomplished nothing. Okwelu sent a watch-rest summary to Thessaly; Thessaly sent Calder a single line on the medical channel: *Hydrate.* He found a cup somewhere aft and drank it without tasting it. Brenner reported a passive feed calibration on the port long-range array—green, one adjustment, green again—and Koss logged it against Dennett's pre-departure checklist. Nobody on the command deck reacted. That was the point of green checks.
+Park transmitted a mapping progress stub at Mission +02:50—mandate data only, no contact, no variance—with Cole confirming relay buffer clearance before the packet left. Calder signed when the acknowledgment reached his chair. Okwelu sent a watch-rest summary to Thessaly; Thessaly sent Calder a single line on the medical channel: *Hydrate.* He found a cup somewhere aft and drank it without tasting it. Brenner reported a passive feed calibration on the port long-range array—green, one adjustment, green again—and Koss logged it against Dennett's pre-departure checklist. Nobody on the command deck reacted. That was the point of green checks.
 
 Calder ate what Park left on the console ledge because skipping it would have been noticed. He ate standing up. Thessaly saw. She did not comment.  The pastry was rich and buttery, not like his aunt's, but good nonetheless.
 
-He thought he almost understood how Dennett had run this ship. Then the thought slipped and he realized it was too early to make that judgment.
+For a few minutes he thought he almost understood how Dennett had run this ship. The deck kept its rhythm without his voice. Walsh checked the carton and left. Park sent the stub. Brenner logged against Dennett's pre-departure checklist as if the handover had been a formality. Calder had eaten standing because Dennett's logs said sitting in the first month looked like commitment to the wrong things, and Thessaly had not corrected him.
+
+Then the thought slipped. Two days of quiet was not long enough to know whether he was learning Dennett's method or only matching the crew's memory of it.
 
 The mapping sweep continued through the last quiet minutes before contact—arc seven completing, arc eight staging, the border advisory sitting low in Park's queue where it had sat since Helion Prime. Calder reviewed the sector chart once more on his slate: sparse traffic, old survey lines, nothing that required him to change posture before Mission +03:00. Reyes called a vector correction; Tanaka's dice clicked; Halden marked another ghost trace *non-event*. The command deck breathed the way it breathed when nothing was wrong yet—routine as infrastructure.
 
@@ -58,7 +62,7 @@ Park, still on primary comms: "No transponder. No Fleet handshake. Comms reflect
 
 "Could," Park said. "Isn't."
 
-Calder watched the overlays stack. Incomplete pieces. Not one system calling the others wrong—each showing what it could see through its own limits.
+Calder watched the overlays stack. Incomplete pieces—each true within its own angle, none closing the gap the others left open.
 
 The bearing was not empty. That was enough for now.
 
@@ -82,7 +86,7 @@ Four extended passes followed—fragment, closer lines, broken coherence, stagge
 
 Calder watched each pass add a line to Ortega's columns without adding a track. Attempt, fragment, loss, adjust, attempt again. Iteration, not failure.
 
-Walsh paused at the aft hatch long enough to read posture, not the board. Reyes had not rotated since the first fragment. Walsh marked the watch clock on his slate and did not interrupt.
+Walsh paused at the aft hatch long enough to read posture, not the board. Reyes had not rotated since the first fragment. Walsh set a hydration pouch on the lip of Ortega's board and marked the watch clock on his slate without interrupting.
 
 On the fifth extended pass—twelve minutes after the first fragment—Ortega got two lines that held long enough for Halden to call formation.
 
@@ -94,9 +98,9 @@ Reyes pulled the chart's stellar occlusion boundary forward and overlaid it on H
 
 "Looks kind of like a masking signature," Halden said. "Intermittent. Not Fleet-standard stealth, though. It behaves differently."
 
-"External is not hostile," Reyes said.
+"We can't call it hostile on this data," Reyes said. "No track, no closure, nothing vectoring toward us. Upstream still has mapping on the stub."
 
-"External is not resolved," Halden said.
+"We can't write it off either," Halden said. "Five passes, same bearing. It holds against the boundary when it holds at all. Ghost traces fade on second pass. This keeps coming back without giving us a hull class."
 
 "Reflection on bearing—coherence unstable," Park said. "No packet-ready ID."
 
@@ -168,17 +172,15 @@ Ortega's second line thinned. Halden lost two ranging pulses mid-sequence. Hale'
 
 "What are we actually tracking?" Hale asked. Nobody had a category for it.
 
-Reyes filed the interval—formation time, hold duration, degradation curve. Halden ran the ranging sequence again with the prior parameters saved for comparison. No second lock on that bearing setup.
+Reyes recorded the interval—formation time, hold duration, degradation curve. Halden ran the ranging sequence again with the prior parameters saved for comparison. No second lock on that bearing setup.
 
 Calder marked the cycle: close, then gone. Not failure. Repetition.
 
-On Ortega's board the water pouch sat unopened. Curiosity had become work without anyone announcing the change.
+Ortega's hands had not left tertiary since the first fragment. Walsh's pouch still sat sealed on the board lip. The bearing had stopped being interesting and started being the only thing worth watching.
 
 Thessaly opened observation and inference bands on her slate before anyone asked for a packet—same bearing, different shelf.
 
-They did not stop. Partial returns were not permission to freeze the deck.
-
-Over the next hour the bearing stayed hot while mapping continued on the port side. Halden cycled ranging modes; Park and Cole ran staggered comms sweeps; Ortega filed every fragment separate. Partial locks formed and degraded in seconds—six, eight, trending longer, never long enough for Fleet's contact packet.
+Over the next hour the bearing stayed hot and the port-side mapping arcs kept staging—two jobs on one deck. Halden cycled ranging modes; Park and Cole ran staggered comms sweeps; Ortega filed every fragment separate. Partial locks formed and degraded in seconds—six, eight, trending longer, never long enough for Fleet's contact packet.
 
 The discoveries came in layers.
 
@@ -234,11 +236,11 @@ Further passes through Mission +04:25 bought longer holds and comms-only coheren
 
 Thessaly joined Calder at the display margin—close enough to see, not close enough to crowd.
 
-"Dennett would have logged first and argued second," she said.
+"Dennett would have argued before he filed anything," she said.
 
-"That what you would have done?" Calder asked.
+"Would you have?"
 
-"I would have told Ortega to stop combining columns," she said. "You already did."
+"I would have told Ortega to stop combining columns." She glanced at the tertiary board. "You already did. Dennett took a month to learn that on this hull."
 
 She left before he could answer.
 
@@ -254,9 +256,9 @@ He did not escalate. He did not call Fleet. Partial was partial.
 
 ❦
 
-At Mission +05:00 of the mapping sweep, the bearing shifted again—two degrees port, slow lateral drift without velocity confidence.
+At Mission +05:00 of the mapping sweep, the bearing shifted again—two degrees port, no velocity solution.
 
-Halden: "Masking holding. Drift is real or we're moving the keyhole."
+Halden: "Masking still holding. Two degrees port since the last good lock. Either something repositioned on that bearing, or we changed the sweep track and we're looking through a different gap in the occlusion. Same signature. Different window."
 
 Calder watched Ortega's columns align three times in the last hour. Not a track. A recurrence worth tightening on.
 
@@ -266,7 +268,7 @@ Halden, without looking up: "If that's a ship, it's not in our logs."
 
 Ortega: "Category's gone."
 
-Reyes: "Bearing shift tracks our pass track—reaction, not drift."
+Reyes: "Bearing shift tracks our pass track. Reaction—not independent movement."
 
 No one answered. The bearing stayed hot.
 
@@ -274,31 +276,31 @@ No one answered. The bearing stayed hot.
 
 She was already at the margin of the holodisplay. "Scout doctrine allows tracking adjustment. Not pursuit."
 
-"Tracking adjustment," Calder said. "Reyes, hold patrol spacing. Close on bearing two-one-four mark six—minimum deflection. Halden, composite sweep. Ortega, keep fragments separate until composite holds."
+"Tracking adjustment," Calder said. "Reyes, hold patrol spacing. Nudge the patrol arc toward bearing two-one-four mark six—minimum closure, not pursuit. Halden, composite sweep. Ortega, keep fragments separate until composite holds."
 
-"Probe authorization?" Calder asked.
+"Koss, stage probe prep," Calder said. "Log aboard only. Stand by on launch."
 
-"Log only," Thessaly said. It was not quite approval. It was not quite caution.
+Thessaly: "No upstream packet on a partial return."
 
-Two minutes passed the way two minutes passed on this deck—filled with small corrections and no announcement. Tanaka pushed arc eleven staging. Walsh flagged thermal patch variance on Thessaly's slate without crossing the command deck.
+The deck kept working—small corrections, no one calling them out. Tanaka pushed arc eleven staging. Walsh flagged thermal patch variance on Thessaly's slate without crossing the command deck.
 
-"Deflection schedule ready," Reyes said.
+"Closure schedule ready," Reyes said. "Three degrees off the patrol arc toward the bearing. Mandate corridor holds."
 
-"Execute minimum deflection," Calder said.
+"Execute," Calder said.
 
-Reyes brought the ship through three degrees of the arc. Ortega got fragments, then a partial lock eleven seconds before loss.
+Reyes brought the ship through the adjustment. Ortega got fragments, then a partial lock eleven seconds before loss.
 
 "Same formation profile," Halden said. "Better formation. Same drop."
 
-Calder noted it. Tracking adjustment had improved inputs without changing the cycle. Worth knowing before authorizing probe.
+Calder noted it. Tracking adjustment had improved inputs without changing the cycle. Worth knowing before launching the probe.
 
-"Hold deflection," he said. "Stage probe prep. Stand by on launch."
+"Hold the adjustment," he said. "Stage probe prep. Stand by on launch."
 
 One ship-array cycle on the new bearing bought sixteen seconds before simultaneous loss. A second cycle pushed comms coherence to forty seconds without passive—the longest single-channel hold of the day.
 
 ---
 
-***Leviathan Watch Command***
+***RECIPROCAL BEARING***
 
 *On the dark-running hull, the watch station held passive on the scout contact pressing reciprocal bearing.*
 
@@ -307,6 +309,8 @@ One ship-array cycle on the new bearing bought sixteen seconds before simultaneo
 *“Scout contact on reciprocal bearing,” the sensor operator said. “Still unresolved. Still searching.”*
 
 *“Tracking pressure increasing,” the second operator said. “Working the occlusion zone.”*
+
+*“Watch, I think they know we are out here,” the sensor operator said. “Same bearing, pass after pass. They can't hold a lock yet.”*
 
 *The watch officer did not escalate.*
 
@@ -324,17 +328,13 @@ One ship-array cycle on the new bearing bought sixteen seconds before simultaneo
 
 ***KESTREL VEIL — RESUMED***
 
-"Thessaly," he said again.
+"Deploy passive probe," Calder said. "Convergence on bearing. Log aboard only."
 
-"Probe authorization?"
-
-"Log only," Thessaly said. It was not quite approval. It was not quite caution.
-
-Calder: "Deploy passive probe. Convergence on bearing. Log only."
+Thessaly: "Park keeps contact supplemental off the mandate stub."
 
 Koss: "Prepping launch. Stabilization check first."
 
-The probe prep took longer than Calder expected—not delay, procedure. Brenner ran pre-launch telemetry on the disposable relay; Koss certified launch tube pressure; Ortega verified the composite column had a dedicated probe channel that would not combine with ship passive. Halden ran tactical lag baseline against the probe's expected trajectory while Reyes plotted convergence against patrol spacing limits—minimum deflection, maximum closure without breaking mandate corridor. Park and Cole synchronized comms buffer timing so probe telemetry would not collide with relay traffic on the secondary channel. Tanaka kept mapping arc eleven staging on the port side. Walsh passed through once with a stores strip, saw Koss prepping launch, and diverted aft without crossing the command deck. In the corridor he keyed trauma kit status to ready and left the kit locker unlatched—clinical, not dramatic.
+The probe prep took longer than Calder expected—not delay, procedure. Koss and Brenner cleared the tube from aft. Ortega isolated the probe channel from ship passive. Reyes held minimum closure on the bearing. The mapping sweep kept running on the port side. Walsh keyed the trauma kit to ready in the corridor and kept moving.
 
 "Tube green," Koss said.
 
@@ -462,11 +462,9 @@ Thessaly moved to the logging station without being asked. Park opened a separat
 
 One subsystem did not settle cleanly into the hold.
 
-Ortega’s passive channel showed the first sign—noise floor rising in increments that did not resolve after each trim. Halden’s tactical feed needed micro-corrections closer together. Reyes’ navigation held zero drift but correction cadence climbed. Park’s comms latency stretched a fraction each pass.
+Ortega's passive channel showed the first sign—noise floor rising in increments that did not resolve after each trim. Halden's tactical feed needed micro-corrections closer together. Reyes' navigation held steady but correction cadence climbed. Park's comms latency stretched a fraction each pass. The composite still held.
 
-None of it broke composite. Composite was no longer evenly carried.
-
-The contact stopped drifting.
+The return on the bearing went still.
 
 Reyes saw it first on the navigation overlay—the lateral smear that had been sliding and repositioning for hours went still, then centered on the ship's forward axis.
 
@@ -476,7 +474,9 @@ Halden: "Tactical return stabilized. Not smear. Shape."
 
 The partial returns that had flickered through blind spots for hours came up together—full-spectrum, sustained.
 
-Optical: silhouette-scale presence, holding frame to frame. Passive: returns saturating the band Ortega had been nursing since Mission +03:00. Tactical: overlay filled—the missing mass appeared on the board as a solid footprint that had outgrown every prior bracket. Comms: reflection spike, coherent, aligned, structured.
+Optical: silhouette-scale presence, holding frame to frame. Passive: returns saturating the band Ortega had been nursing since Mission +03:00.
+
+ Tactical: overlay filled—the missing mass appeared on the board as a solid footprint that had outgrown every prior bracket. Comms: reflection spike, coherent, aligned, structured.
 
 "Full resolution," Hale said. "Window open. Recording."
 
@@ -546,15 +546,17 @@ Calder did not speak. He watched.
 
 ---
 
-***Leviathan Watch Command***
+***RECIPROCAL BEARING***
 
 *The monitor alarm did not sound.*
 
 *"Passive lock obtained," the sensor operator said. "Scout contact. Full hold on reciprocal bearing."*
 
-*"They have us," another operator said. "Lock."*
+*"They have us," another operator said. "Full lock."*
 
-*"Photon cannon," the watch officer said. "Single discharge. Directed. Full yield on resolved bearing."*
+*"Envelope stress climbing under their hold," the systems officer said. "If they record and relay, the trial is exposed."*
+
+*"Passive lock held. Drop masking and fire," the watch officer said. "Remove observation before they transmit. Photon cannon—single discharge, directed, full yield on resolved bearing."*
 
 *The weapon cycled.*
 
@@ -616,17 +618,14 @@ Darkness.
 
 ---
 
-***Leviathan Watch Command — COMMAND DEBRIEF (COMMANDER VEX)***
+***COMMAND DEBRIEF (COMMANDER VEX)***
 
 *Commander Vex did not react to the display lag.*
 
 *The photon discharge was logged. The scout contact was gone.*
 
-*"Containment failed," a technician said.*
+*"Scout destroyed," a technician said.*
 
-*"Scout destroyed. Operational loss. Reengage cloak," Vex said.*
-
-*"Withdraw. Rebuild the field."*
+*"Cover dropped to fire—their lock, not envelope collapse," Vex said. "Operational loss. Reengage cloak. Withdraw. Rebuild the field."*
 
 
----

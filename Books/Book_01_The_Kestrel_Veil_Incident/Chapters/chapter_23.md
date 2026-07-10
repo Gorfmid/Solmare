@@ -393,8 +393,7 @@ The first exchange had succeeded.
 
 Nothing was simpler now.
 
----
+❦
 
 **END CHAPTER 23**
 
----
