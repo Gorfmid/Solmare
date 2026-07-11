@@ -35,6 +35,66 @@ $lines[$functionStart..($yamlLine - 1)] | Set-Content -LiteralPath $funcPath -En
 . $funcPath
 Remove-Item -LiteralPath $funcPath -Force -ErrorAction SilentlyContinue
 
+function Get-FrontMatter {
+    $em = [char]0x2014
+    return @"
+
+\newpage
+
+# Contents {.unnumbered}
+
+**Front matter**
+
+- [Reference Plates](#reference-plates)
+- [Prologue](#prologue)
+- [Archive FSA-143-07](#archive)
+
+**Act I $em Routine Patrol**
+
+- [Chapter 1 $em The Empire](#chapter-1-the-empire)
+- [Chapter 2 $em A Captain's Dream](#chapter-2-a-captains-dream)
+- [Chapter 3 $em The Ship That Refuses to Die](#chapter-3-the-ship-that-refuses-to-die)
+- [Chapter 4 $em Routine Patrol](#chapter-4-routine-patrol)
+
+**Act II $em The Kestrel Veil Incident**
+
+- [Chapter 5 $em Mission's End](#chapter-5-missions-end)
+- [Chapter 6 $em Witness](#chapter-6-witness)
+- [*Kestrel Veil* schematic (before Chapter 7)](#chapter-7-the-living-ship)
+- [Chapter 7 $em The Living Ship](#chapter-7-the-living-ship)
+- [Chapter 8 $em The Quiet Before the Silence](#chapter-8-the-quiet-before-the-silence)
+- [Archive FCC-7712](#archive-1)
+
+\newpage
+
+# Reference Plates {.unnumbered}
+
+## UFA chart context (text plate)
+
+*Together we explore. Together we endure.*
+
+United Fleet Authority charted space is divided into **seven survey segments**. Segment Seven $em the Neutral Zone and approaches $em is where Book One's border reconnaissance occurs.
+
+| Statistic | Value |
+|-----------|-------|
+| Member worlds | 12 |
+| Associate worlds | 5 |
+| Fleet stations | 15 |
+| Survey segments | 7 |
+
+*Full chart bible:* ``Universe/Maps/ufa_galactic_reference_guide.md`` (author reference; visual chart plate pending).
+
+## *Kestrel Veil* $em Fleet reconnaissance reference plate
+
+<p align="center"><img src="assets/kestrel_veil_reference_plate.png" alt="Kestrel Veil — Fleet reconnaissance reference plate" width="720" /></p>
+
+*External profile, internal cutaway, and operational configuration. Chapter 7 includes the hull schematic before prose.*
+
+\newpage
+
+"@
+}
+
 $archiveMap = Get-ArchiveInterludesByAnchor
 $totalWords = 0
 $chapterStats = New-Object System.Collections.Generic.List[object]
@@ -64,7 +124,7 @@ description: "Acts I and II of Book One: Routine Patrol and The Kestrel Veil Inc
 
 "@
 
-$masterText = Fix-EmphasisApostrophes ($yaml + $sb.ToString())
+$masterText = Fix-EmphasisApostrophes ($yaml + (Get-FrontMatter) + $sb.ToString())
 [System.IO.File]::WriteAllText($masterMd, $masterText, [System.Text.UTF8Encoding]::new($true))
 Write-Host "Created markdown: $masterMd ($totalWords words)"
 
@@ -95,7 +155,21 @@ if ($coverImage) {
     $epubArgs += @("--epub-cover-image=$coverImage")
 }
 
-& pandoc @epubArgs
-Repair-EpubNavigation -EpubPath $epubOut
-Write-Host "Created EPUB: $epubOut"
+$pandoc = Get-Command pandoc -ErrorAction SilentlyContinue
+if ($null -eq $pandoc) {
+    $localPandocDir = Join-Path $buildDir 'tools\pandoc\pandoc-3.10'
+    if (Test-Path (Join-Path $localPandocDir 'pandoc.exe')) {
+        $env:Path = "$localPandocDir;" + $env:Path
+        $pandoc = Get-Command pandoc -ErrorAction Stop
+    }
+}
+
+if ($null -ne $pandoc) {
+    & pandoc @epubArgs
+    Repair-EpubNavigation -EpubPath $epubOut
+    Write-Host "Created EPUB: $epubOut"
+} else {
+    Write-Host 'Pandoc not found — markdown only (no EPUB).'
+}
+
 Write-Host "Total words: $totalWords"

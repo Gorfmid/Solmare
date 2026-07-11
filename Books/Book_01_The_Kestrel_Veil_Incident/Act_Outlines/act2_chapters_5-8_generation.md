@@ -3,7 +3,7 @@
 ## THE KESTREL VEIL INCIDENT
 
 **Scope:** Chapters 5–8 (Act II only)  
-**Status:** Ch. 5–8 **LOCKED** — complete prose  
+**Status:** Ch. 5–8 **LOCKED FINAL** — Act II complete  
 **Prior file:** `act2_chapters_6-11_generation.md` — **superseded** by this document and 4-act architecture
 
 **Related documents:**
@@ -72,9 +72,9 @@ Ch. 5–8 must **not** restore legacy anomaly-first framing (KR-13, Signal Devia
 
 **End state:** Correction-thruster crawl toward seven-alpha; VI-Gamma relay bridge; Fleet orders active.
 
-### Chapter 8 — The Quiet Before the Silence ✓ LOCKED
+### Chapter 8 — The Quiet Before the Silence ✓ LOCKED FINAL
 
-**End state:** Out of VI-Gamma relay range; seven-alpha approach edge; suspense not action.
+**End state:** Out of VI-Gamma relay range; seven-alpha approach edge; emissions discipline; suspense not action.
 
 ---
 

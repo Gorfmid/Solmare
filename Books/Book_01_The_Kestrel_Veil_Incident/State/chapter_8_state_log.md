@@ -1,58 +1,61 @@
 # CHAPTER 8 STATE LOG — THE QUIET BEFORE THE SILENCE
 
-**Status:** **LOCKED** (2026-06-28)  
-**Word count:** 6,366  
-**Refinement:** VI-Gamma emergency stopover; six-hour patch window; departure into independent transit; Neutral Zone seven-alpha approach under silence discipline.
+**Status:** **LOCKED FINAL** (2026-07-10)  
+**Word count:** 3,820  
+**Refinement:** VI-Gamma six-hour emergency collar window; mandatory rest cycle honored; departure into independent transit; seven-alpha approach under emissions discipline.
 
 > Do not retcon without outline revision. Ch. 9 opens from END STATE below.
 
 ## STRUCTURE (ON PAGE)
 
-1. **Arrival at VI-Gamma** — ugly approach, port list, uneven life support, comms via station relay; Holt/Lin see *Veil* return after void; restrained relief, no ceremony
-2. **Six hours** — Cho/Eban station patch support; borrowed relays, cable, filters, couplers, insulation; Brenner *"Helpful is not the same as compatible"*; ship patched not repaired
-3. **Crew rest** — hot food, Pell asleep mid-sentence, Hale burn care, Reyes/Halden/Ortega/Thessaly/Calder beats; functional not rested
-4. **Park & Dana** — unsent messages, void on board, logging uncertainty, absurdity of alive; restrained, not romantic
-5. **Fleet orders finalized** — Rowan via Holt relay; independent transit beyond fringe; no rescue guarantee; observe/investigate ROE unchanged
-6. **Departure** — heavier than arrival; Park/Holt last exchange (*Don't be an idiot* / *Try harder*); signal drops quietly; Dana at board, Priya tracks decay
-7. **Approach to Neutral Zone** — running dark via behavior; segments manual; Ortega false return logged as noise; end at seven-alpha approach edge
+1. **Latch / collar open** — Cho six-hour window; Calder department assignments; Holt/Lin watchpost; gantry techs (*still flying*)
+2. **Thessaly relay minute** — Walsh posts Calder's mandatory two-hour rest; father managed-care check (Kestran IV); returns to liaison chair
+3. **Okwelu clinic** — wounded to station sutures; crew not rested
+4. **Cho patch window** — Brenner/Koss/Eban collar work; borrowed cable, filters, couplers; Calder signs strip log (*materials borrowed*, not hull certification)
+5. **Hours 1–4** — duct tape theology; Walsh clinic paperwork; off-cycle fragments (Kevin stew, Pell twenty minutes, Hale burn care)
+6. **Park & Dana** — fringe room personal lane; unsent drafts; filing anxiety; deferred relationship beat (*when this is all over—*); *Send it* goodbye
+7. **Hour five** — Rowan final amendment via Holt; independent transit; no rescue guarantee in seven-alpha
+8. **Undock** — Cho strip log; Park/Holt last exchange; fringe range lost
+9. **Seven-alpha approach** — emissions discipline posted; correction thrusters only (main drive offline); Ortega false return filed as noise; approach edge crossed
 
-## NEW CHARACTER (ON PAGE)
+## CHARACTERS (ON PAGE)
 
-- **Renata Cho** — Station Chief Maintenance Officer, Kestran VI-Gamma; pragmatic Cartography maintenance authority; six-hour patch window
-- **Eban** — VI-Gamma maintenance tech (pin spacing, coupler work)
-- **Pell** — Reing maintenance tech; falls asleep mid-sentence
-- **Seru Okwelu** — station clinic liaison (brief)
+- **Renata Cho** — Station Chief Maintenance Officer, Kestran VI-Gamma
+- **Eban** — VI-Gamma maintenance tech (pin spacing, couplers)
+- **Pell** — Reing maintenance tech (asleep mid-sentence on stew)
+- **Seru Okwelu** — ship medical (clinic transfers at collar)
 
 ## SHIP STATE (END CH. 8)
 
-- **Status:** patched, not repaired; port list; Reing 3 flicker; environmental three guest filter; station coupler on Reing 4; collar amplifier removed at departure
-- **Comms:** **out of VI-Gamma relay range** — no Fleet link, no station relay; local/internal only
-- **Tactical:** passive rebuild ~4%; local empty; no contact
-- **Life support:** operational, questionable; scrubbers loud; aft warm
-- **Location:** **Neutral Zone corridor seven-alpha approach edge** — independent transit
+- **Status:** patched, not repaired; port list; Reing 3 flicker; environmental three guest filter (unstamped); main drive offline
+- **Comms:** **out of VI-Gamma relay range** — no Fleet link, no station relay; local/internal only; collar amplifier behind them
+- **Tactical:** passive rebuild loops fail politely; local empty; Ortega noise filed; segment-three gain trim unresolved vs Halden overlay
+- **Life support:** operational, questionable; forward mess sealed—Walsh galley air uncertified
+- **Propulsion:** correction thrusters only along Tanaka three-color approach corridor
+- **Location:** **seven-alpha approach edge** — independent transit
 
 ## CREW STATE (END CH. 8)
 
-- **Status:** functional, not healed; silence discipline active
-- **Injuries:** Hale cleared limited full rotation; Ortega afterimage fatigue; Walsh monitoring continues
-- **Emotional:** crossed from recovery into risk; Park learning not to transmit; Thessaly tracking who is close to cracking
+- **Status:** functional, not rested; mandatory two-hour rest logged—enforced in fragments only
+- **Injuries:** Hale limited full rotation cleared; Ortega feed-flash sensitivity (Walsh chart *not fine*)
+- **Discipline:** emissions discipline on watch schedule; no casual chatter
+- **Emotional:** Park/Holt deferred commitment; crew crossed from recovery into risk
 
 ## WATCHPOST (VI-GAMMA)
 
-- Holt/Lin: last warm voices before static; personal lane closed post-departure; sweep continues
-- Cho: six-hour patch complete; no yard miracles
+- Holt/Lin: last warm voices before static; personal lane headers not combined with Fleet queue; sweep continues
+- Cho: six-hour window complete; strip log signed
 
 ## FLEET OPERATIONS
 
-- Rowan final amendment before independent transit — same mission, no rescue guarantee in seven-alpha
-- Sato: buffer request if they survive
-- Mercer: logged
+- Rowan: six hours was margin, not gift; do not confuse patched with ready
+- Sato: buffers if they survive
+- Independent transit amendment copied; observe/investigate ROE unchanged
 
 ## END STATE (CH. 9 ENTRY — ACT III)
 
-- *Veil* at Neutral Zone seven-alpha approach edge — Act II (Incident) complete
-
-- *Veil* alone on seven-alpha approach lane under emissions discipline
+- *Veil* at **seven-alpha approach edge** — Act II (Incident) complete
+- Alone on approach lane under emissions discipline
 - No upstream comms path
-- Suspense ending — dark ahead not speaking yet; Ortega noise only (no enemy contact)
-- Crew aware they have re-entered contact volume without support
+- Passive noise only—no new contact filed
+- Ortega/Halden confidence band unresolved at edge crossing

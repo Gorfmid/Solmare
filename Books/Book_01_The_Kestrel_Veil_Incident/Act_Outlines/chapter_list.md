@@ -47,8 +47,8 @@ Full build sequence for `Manuscript/_build/build_manuscript.ps1` — see `Archiv
 | 5 | Mission's End | `chapter_5.md` | 5,397 | Act II opens · **LOCKED FINAL** |
 | 6 | Witness | `chapter_6.md` | 3,829 | Act II · **LOCKED FINAL** |
 | — | **Kestrel Veil schematic** | `Manuscript/assets/kestrel_veil_schematic.png` | — | **Before Ch. 7** — Fleet reconnaissance vessel blueprint; preamble in `chapter_7.md` |
-| 7 | The Living Ship | `chapter_7.md` | 9,608 | Act II |
-| 8 | The Quiet Before the Silence | `chapter_8.md` | 4,732 | Act II ends |
+| 7 | The Living Ship | `chapter_7.md` | 9,608 | Act II · **LOCKED FINAL** |
+| 8 | The Quiet Before the Silence | `chapter_8.md` | 3,820 | Act II ends · **LOCKED FINAL** |
 | — | **FCC-7712** | `Archive/archive_02_fleet_communications_passive_detection_review.md` | 89 | After Ch. 8 — Fleet Communications Command; Passive Detection Review |
 | 9 | Across the Line | `chapter_9.md` | 4,343 | Act III |
 | 10 | Ghosts in the Dark | `chapter_10.md` | 3,384 | Act III |
@@ -70,9 +70,9 @@ Full build sequence for `Manuscript/_build/build_manuscript.ps1` — see `Archiv
 | — | **Epilogue** | `Chapters/epilogue.md` | 1,212 | *First Day* — Edition 144 + **Required Reading** bookend |
 | — | **Appendix** | `Appendix/book_one_appendix.md` | 2,452 | Fleet Historical Office reference supplement (post–Book One); Appendices A–E |
 
-**Total (publication build):** **90,918 words** (source `Chapters/*.md` + `Archive/`; counts from markdown source files)  
-**Chapters only (1–24):** **89,359 words**  
-**Tracker:** `Notes/REWRITE_STATUS.md` · **Status:** Ch. 1–21 + archives **LOCKED** · Ch. 22–24 **DRAFT**
+**Total (publication build):** **90,006 words** (source `Chapters/*.md` + `Archive/`; counts from markdown source files)  
+**Chapters only (1–24):** **88,447 words**  
+**Tracker:** `Notes/REWRITE_STATUS.md` · **Status:** Ch. 1–8 **LOCKED FINAL** (Act I–II) · Ch. 9–21 + archives **LOCKED** · Ch. 22–24 **DRAFT**
 
 **Source of truth:** `Chapters/*.md` (and `Archive/` interludes). Compiled `Manuscript/Act_*.md` and full-book exports are **not** auto-regenerated — rebuild only when author requests (`Manuscript/_build/rebuild_act.ps1` per act, or `build_manuscript.ps1` for publication outputs).
 
@@ -252,7 +252,7 @@ First patrol under Calder's command: undock; crew shorthand he has not yet learn
 
 # ACT II — THE KESTREL VEIL INCIDENT (Chapters 5–8)
 
-**Status:** Ch. 5–6 **LOCKED FINAL** (2026-07-09); Ch. 7–8 **LOCKED** (complete prose)  
+**Status:** Ch. 5–8 **LOCKED FINAL** (Ch. 8 **2026-07-10**) — **Act II complete**  
 **Generation doctrine:** `act2_chapters_5-8_generation.md`  
 **State logs:** `../State/chapter_5_state_log.md` through `chapter_8_state_log.md`
 
@@ -296,8 +296,9 @@ Dual POV same engagement — **KESTRAN VI-GAMMA WATCHPOST** (Holt/Lin procedural
 
 ## Chapter 7 — The Living Ship
 
-**Status:** **LOCKED FINAL** (2026-07-10)  
+**Status:** **LOCKED FINAL** (9,608 words) — editorial pass complete **2026-07-10**; **no further edits**  
 **Character sheets:** Holt, Nand, Park, Rowan, Sato, Mercer  
+**State log:** `../State/chapter_7_state_log.md`  
 **Illustration:** `kestrel_veil_schematic.png` — placed immediately before this chapter (see **Illustrations**)
 
 ### Purpose
@@ -312,16 +313,19 @@ Latched at Kestran VI-Gamma, lane two — six-hour emergency collar window open;
 
 ## Chapter 8 — The Quiet Before the Silence
 
-**Status:** **LOCKED** (4,732 words)  
-**Character sheets:** Holt, Nand, Cho, Park, Rowan
+**Status:** **LOCKED FINAL** (3,820 words) — editorial pass complete **2026-07-10**; **no further edits**  
+**Character sheets:** Holt, Lin, Cho, Park, Rowan, Thessaly, Okwelu  
+**State log:** `../State/chapter_8_state_log.md`
 
 ### Purpose
 
-VI-Gamma six-hour patch window; crew rest; Park/Dana emotional center; independent transit order; departure; seven-alpha approach under silence discipline.
+VI-Gamma six-hour emergency collar window — Cho patch support, borrowed materials, crew off-cycle; Park/Dana fringe-room center; Rowan final independent-transit amendment; undock; seven-alpha approach under emissions discipline.
+
+**Editorial pass (locked):** Calder mandatory two-hour rest from Ch. 7 — Walsh logged, Thessaly enforced; off-cycle fragments not recovery. Thessaly relay minute (father/Kestran IV managed-care check). Cho/Brenner/Koss collar patch (*patched not repaired*); Walsh forward mess sealed—galley air uncertified. Ortega feed-flash bloom canon; plain comms voice in Park/Holt scene (no contact-alpha label for Park; custody-hold filing; deferred *when this is all over* beat). Timeline hour five of six; emissions discipline posted (not *running dark* jargon); correction thrusters only, main drive offline. Plain-prose pass — cut thematic/anthropomorphic lines (*wrong*, *lies*, *Silence did the first work*, gauge/summary aphorisms, etc.). Ortega segment-three false return; unresolved confidence band at approach edge.
 
 ### End state
 
-*Veil* alone at Neutral Zone seven-alpha approach edge — patched, out of relay range, crossed from recovery into risk.
+*Veil* crosses seven-alpha approach edge — patched, alone, out of VI-Gamma relay range, emissions discipline active; passive noise only; Act II (Incident arc) complete → FCC-7712 → Ch. 9.
 
 ### FCC-7712 — Passive Detection Review
 
