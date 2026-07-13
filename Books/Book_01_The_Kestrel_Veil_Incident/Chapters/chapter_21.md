@@ -448,7 +448,7 @@ Dana Holt stood at the communications bench with Amara Lin on relay from Validat
 
 Koss came out of the cradle with grease on her cuff. "Package drops effectiveness under maneuver," she said. "Reing 3 does not like sharing load with experimental bleed routing. Maintenance window is short. Brenner gets a card on the helm—*intermittent, not reliable*—and nobody writes *cloak* on my ship."
 
-Brenner, on the hatch rim: "Might help us avoid notice."
+"Might help us avoid notice," Brenner said from the hatch rim.
 
 "It will not hide us," Koss said.
 
@@ -462,7 +462,7 @@ Brenner met him at the cradle ramp with the completed work-order stack in one ha
 
 "Same ship," Brenner said. "Mostly repaired. Some systems still complaining. One new package that may or may not decide it wants to work when we need it."
 
-Thessaly, behind Calder: "That is not a confidence statement."
+"That is not a confidence statement," Thessaly said from behind Calder.
 
 "Exactly," Brenner said. "Now it's our ship again."
 

@@ -1,7 +1,7 @@
 # CHAPTER 9 STATE LOG — ACROSS THE LINE
 
-**Status:** Complete (2026-06-28) · enrichment pass · final polish (2026-06-28)  
-**Word count:** ~4,200 (approx.; post-polish)  
+**Status:** **LOCKED FINAL** (2026-07-11)  
+**Word count:** 4,343  
 **Act:** III opens — *Shadows Beyond the Border*
 
 > Do not retcon without outline revision. Ch. 10 opens from END STATE below.

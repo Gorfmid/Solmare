@@ -19,7 +19,7 @@ Her aide Corporal Dusan read the overnight summary the way he always did: flat, 
 
 Nobody in the room looked surprised.
 
-Deputy Director Marenko, Industrial Directorate liaison, tapped his slate. "Helikon shortfall affects plate stock. The shipyard already filed contingency."
+Deputy Director Marenko, Industrial Directorate liaison, tapped his slate. "Helikon shortfall affects plate stock. The shipyard already submitted a contingency requisition."
 
 Volkova checked the delivery column on her slate. It was still empty.
 
@@ -43,7 +43,7 @@ Volkova exhaled through her nose. "Of course."
 
 "Reallocate," Marenko said. "Industrial Directorate certified. We execute."
 
-"We execute. Commercial traffic absorbs the delay. Three haulers file grievances. I spend the morning explaining why." Volkova set her cup down. "Route commercial around nine-alpha. Accept the twelve-hour delay. Document it. When Strategic Liaison audits the reroute, we'll have timestamps."
+"We execute. Commercial traffic absorbs the delay. Three haulers lodge grievances. I spend the morning explaining why." Volkova set her cup down. "Route commercial around nine-alpha. Accept the twelve-hour delay. Document it. When Strategic Liaison audits the reroute, we'll have timestamps."
 
 Planner Jasko, two seats down, dry as always: "Every military priority becomes tomorrow's commercial grievance."
 
@@ -85,11 +85,11 @@ Then she went to her desk and routed the world.
 
 ***KESTREL VEIL — COMMAND DECK***
 
-Segment seven, day two of trespass, had a different silence than segment six.
+Segment seven, day two, had a different silence than segment six.
 
-Calder felt it in the deck before Ortega named it.
+Calder sensed the change in the watch before Ortega gave it a name.
 
-Felix Ortega had the passive systems rebuilt to six percent—still insultingly low, still barely enough to separate signal from noise. He sat in the sensor alcove with headphones on and one hand resting lightly on the gain control, making adjustments a fraction at a time. Passive work rewarded patience. Most days, the hardest part was deciding what not to believe.
+Felix Ortega had the sensor rebuild at six percent—insultingly low, barely enough to separate signal from noise. He sat in the sensor alcove with headphones on and one hand on the gain control, adjustments a fraction at a time. Most days the hardest part was deciding what not to believe.
 
 "Traffic." Ortega did not raise his voice.
 
@@ -101,7 +101,7 @@ Calder crossed the rail in three strides.
 
 Damon Reyes pulled the bearings into manual overlay without being asked. His jaw worked once.
 
-Calder confirmed passive only—Ortega and Tanaka both said they were always passive only—and Hale confirmed no illumination, rotation limit honored, no active sweep. Correction-thrust fraction held.
+Calder confirmed the board stayed dark—no illumination, no sweep, rotation limit honored. Correction-thrust fraction held.
 
 Calder looked at the plot—ghost returns, weak as breath on cold glass, spaced along the same traffic network they had noted yesterday. Not a frontier picket. Not a patrol line. Traffic.
 
@@ -111,7 +111,7 @@ Mira Thessaly appeared at his shoulder without interrupting the watch.
 
 "Unknown registry. Unknown format. Same routing discipline we've been seeing since yesterday."
 
-Reyes added, thinking aloud: "Lane corrections on all of them. Years of use, maybe decades. We've been driving through someone's commute and calling it empty."
+Reyes added, thinking aloud: "Lane corrections on all of them. Years of use in the spacing—maybe decades. Fleet charts call this sector empty. The board does not."
 
 Thessaly said, without looking up from her slate, "Mission brief classification: frontier."
 
@@ -141,11 +141,13 @@ Calder watched it register and thought of Rowan's relay voice and Dana Holt's st
 
 Walsh pinged internal—*Ortega light check overdue.* Calder dismissed the notification without comment.
 
-Thessaly glanced up from her slate just long enough to see the notification vanish. She returned to her work. Walsh would raise it again when the watch ended.
+Thessaly saw the alert clear and did not reopen it. Before they were fired on he would have looked to her—or let her route Walsh's schedule before Ortega went back on the board. He had not asked. Segment seven held, Ortega stayed at the gain control, and Calder had made that call himself.
+
+She returned to her slate. Walsh would raise it again when the watch ended.
 
 Kevin passed through with trays. Ortega took one without looking up—first bite in six hours, eaten with headphones still on. Kevin adjusted the second tray on the ledge and left without thanks. The *Veil* kept whispering.
 
-Reyes spoke without looking up. "If they're using these routes, they've been using them for years. We're the only new contact in the area."
+Reyes spoke without looking up. "Residual decay in the lane spacing—drive wash, thermal bleed on the returns indicate years of use, decades maybe, maybe even more. We're the only new contact on the board."
 
 Calder told him to note the anomaly and to ensure the Veil stays hidden.
 
@@ -162,7 +164,7 @@ Slip Seven was ahead of schedule.
 
 Slip Three was not.
 
-He stood on the observation gantry with a thermal slate and a cup of coffee his wife would say was too bitter and he would claim it is almost perfect. Below him, the yard sprawled in the only architecture that made sense at this scale—mass as intention, scaffolding as patience, hull curves catching station light like slow moons. Old weld scars on the gantry rail still showed through newer paint—marks from hulls launched before his grandfather was born. Kessik-Outer had been building ships since his grandfather's apprenticeship. The outer ring expansion was new; the tradition was not.
+He stood on the observation gantry with a thermal slate and tea from the thermos his wife packed—the same dented flask his grandfather had carried on the gantry. Below him, the yard sprawled in the only architecture that made sense at this scale—mass as intention, scaffolding as patience, hull curves catching station light like slow moons. Old weld scars on the gantry rail still showed through newer paint—marks from hulls launched before his grandfather was born. Kessik-Outer had been building ships since his grandfather's apprenticeship. The outer ring expansion was new; the tradition was not.
 
 "Budget says we're fine," Lina said.
 
@@ -212,9 +214,9 @@ Material shortages.
 
 Long shifts.
 
-Additional berths rising on the outer ring like new ribs.
+The additional berths rising on the outer ring like new ribs bolted to bone the yard had carried for three generations. From the Slip Seven gantry he could trace six active frameworks along the expansion collar—primary spines certified and painted, secondary lattice still open to vacuum, inspection sleds crawling seams while mag haulers queued on rails stamped through last quarter's revision. Anchor blocks the yard had reused rather than replaced: limestone under composite, still sound, still cheaper than tearing out what worked. Apprentice teams marked joints he would have to sign before the cranes moved again. The inner ring kept its own rhythm—Slip Three behind, Slip Seven ahead—while the outer collar grew around it without pause. Scaffold wrapped every junction where new gantries met old weld scars. Shift horns overlapped down the curve; torch flare stacked berth to berth until clearance was the only metric that mattered. Directorate called it quota. Foremen called it survival.
 
-A workforce expanded not for celebration but for throughput.
+More berths meant more people on every shift—the yard widening because the corridor widened, because the Dominion had been expanding farther out long before this quarter's quota reached his slate.
 
 Sorokin went home smelling of metal and thinking about Thursday dinner and did not, anywhere in his head, use the word *war*.
 
@@ -226,13 +228,13 @@ On the transit ride he fell asleep against the window and missed his stop once. 
 
 ***KESTREL VEIL — SENSOR ALCOVE***
 
-Ortega listened because looking had stopped being enough.
+Ortega listened because looking had stopped being enough two watches ago. The plot still worked—ghost returns on a lane Fleet charts had called empty, correction pulses spaced like years of habit, commercial profiles Reyes could stack until the geometry resembled a city seen through frosted glass. Mass and bearing were not civilization. They did not tell you whether controllers answered on script cadence or alert posture, whether the network under the drive wash sounded like patrol or like shift work, whether sleep cycles lived in the harmonics beneath the ore haulers. That required listening band three from the local archive—no relay, no transmit, gain turned a fraction at a time—and headphones kept on long enough for rhythm to separate from noise.
 
-Passive rebuild at six percent meant the universe arrived as texture—grain, rhythm, absence that wasn't absence. He had headphones. He had Walsh's schedule demanding a light check he would refuse until the last minute. He had Calder's *observe* order and Walsh's overdue light check he would refuse until the last minute.
+Walsh's light check could wait.
 
 "Give me listening band three," he said.
 
-Park routed nothing, because routing was active and active was forbidden. Ortega pulled band three from the local archive the way you pulled a book from a shelf—carefully, without disturbing the dust.
+Park routed nothing off-ship. Ortega pulled band three from the local archive the way you pulled a book from a shelf—carefully, without disturbing the dust.
 
 Static first.
 
@@ -258,21 +260,15 @@ Thessaly listened from the hatch, arms folded, slate closed.
 
 "Can we use any of it?" she asked.
 
-"No. Active parse requires transmit."
+"No. That requires transmit."
 
-"Can they use us?"
+"Can they see us?"
 
-Ortega watched another commercial contact settle into its assigned route. "Nothing we've observed suggests they even know we're here."
-
-"If we illuminate," he said, "they learn what our sensors can do. If we transmit, they learn what our signals look like. If we stay passive, they only know we were here if they're already looking."
-
-"And they're already looking," Thessaly said.
-
-Ortega nodded once.
+Ortega watched another commercial contact settle into its assigned route. "Nothing suggests they know we're here."
 
 Reyes said, quietly, "Controller cadence matches our commercial lanes."
 
-Ortega removed one headphone. "Delay complaints on schedule. Answers from script, not alert posture."
+Ortega removed one headphone. "Control channel—query tone, answer tone, fixed gap. Same spacing as commercial lane disputes. Script, not alert."
 
 Calder's voice on intercom, low: "Ortega. Status."
 
@@ -284,7 +280,7 @@ Then Calder: "Log it. Continue."
 
 Ortega put the headphone back.
 
-In the static, somewhere beyond translation, something like a freighter captain complained about delay and something like a controller answered with the tired patience of a man who had answered a thousand times before.
+In the static, a call-and-response he could not translate—rising inflection, flat reply, gaps measured in seconds. Commercial dispute profile. The same rhythm Fleet logged on lane-control channels when the exchange was routine.
 
 Ortega noted the pass times. Park copied to the separate archive. Thessaly asked for classification bands; Ortega gave her rhythm instead—shift change, maintenance window, freight surge, quiet hour.
 
@@ -298,9 +294,9 @@ Ghosts in the dark, listening to other ghosts.
 
 ***THE DOMINION — K-17 / TRANSIT / HOME***
 
-Kovat's shift ended the way shifts ended when nothing had exploded—without ceremony.
+Kovat's shift ended at 2200 with the faint return still on the board—same bearing hold, same low-confidence mark she had carried since afternoon watch without escalation or correction thrust worth naming. She had logged the sweep, noted the persistence, and handed the board to Selim when he reached the transfer slate. Nothing at K-17 had required the emergency stack or the names on the wall plaque. That was a good night at a border node.
 
-Selim signed the watch transfer. The junior operators filed out. The crossword was left unfinished on the commons table—abandoned mid-clue, like most shift-end rituals. The coffee pot in the alcove was older than Kovat's assignment—service tallies scratched into the handle by hands long rotated elsewhere.
+Selim signed the watch transfer. The junior operators filed out. The crossword was left unfinished on the commons table—abandoned mid-clue, like most shift-end rituals. The tea pot in the alcove was older than Kovat's assignment—service tallies scratched into the handle by hands long rotated elsewhere.
 
 She rode transit home with miners and clerks and a maintenance worker who smelled of polish and old stone. Harvest festival decorations had appeared in the carriages overnight—banners not yet garish, only anticipatory, the same gold-thread pattern Kovat remembered from childhood parades. Eleven days now, if rotation held.
 
@@ -314,7 +310,7 @@ Nika made a face. "You sound like Grandmother."
 
 "Grandmother was right."
 
-They bought food at the market—root vegetables, protein rolls, something sweet because sweets were how apologies were made when leave requests were late. Kovat had filed for home rotation. Approval pending. The clerk behind the counter argued with a supervisor about inventory counts.
+They bought food at the market—root vegetables, protein rolls, something sweet because sweets were how apologies were made when leave requests were late. Kovat had requested home rotation. Approval pending. The clerk behind the counter argued with a supervisor about inventory counts.
 
 At home, Kovat called her daughter's father on the wall screen. He was stationed four sectors over and his smile arrived a half second late because distance was still distance even when transit worked.
 
@@ -338,11 +334,9 @@ She was in her kitchen with tea and the plant cutting from commons exchange root
 
 ***K-17 — PASSIVE CONTACT ACTIVE. BEARING HOLD. RETURN 0600.***
 
-No adjectives.
+Bearing. Return time. Nothing that required a reply tonight.
 
-No panic.
-
-She checked the timestamp, did the sleep math, and sighed.
+She checked the timestamp—2241. Return at 0600. Seven hours if transit ran on time. She sighed.
 
 She set the alarm.
 
@@ -360,19 +354,19 @@ Kovat slept anyway.
 
 Calder called the overlay meeting at Mission +19:00 because waiting did not improve intelligence—only anxiety.
 
-Reyes at navigation. Ortega at sensors. Tanaka on confirmation. Halden on threat board, even though threat was the wrong word. Park on communications integrity. Thessaly with slate open for once. Hale on rotation limit because Hale was always on rotation limit.
+Reyes at navigation. Ortega at sensors. Tanaka on confirmation. Halden on threat board, even though threat was the wrong word. Park on communications integrity. Thessaly with slate open. Hale on rotation limit because Hale was always on rotation limit.
 
-The display built itself in layers—passive beacons, lane corrections, relay spacing, maintenance spacing, observed traffic returns from seventy-two hours on correction thrusters, listening watch correlations, routes the Fleet charts had labeled unsurveyed.
+The display built itself in layers—beacon returns, lane corrections, relay spacing, maintenance spacing, traffic logged over seventy-two hours on correction thrusters, listening watch correlations, routes the Fleet charts had labeled unsurveyed.
 
 Reyes traced lines with the stylus he used when he was angry and precise. "Navigation network—not edge marker. Core routing. Traffic capacity implied by lane width and correction frequency."
 
 Ortega confirmed listening watch showed operational tempo—daily life, not backup lanes. Tanaka: "Maintenance intervals match commercial schedule. Not military surge." Halden noted traffic returns correlated with lane patterns: if they were visible, someone was already tracking them.
 
-"Passive only," Calder said. Hale confirmed.
+"Stay dark," Calder said. Hale confirmed.
 
 Halden saw no weapons signatures in the overlay.
 
-"No weapons signatures on passive," Calder said. "Traffic density says otherwise."
+"No weapons signatures," Calder said. "Commercial tempo on the channels. Interior routing on the plot. That's not empty frontier—that's someone else's corridor."
 
 The map filled.
 
@@ -386,15 +380,15 @@ Reyes swallowed. "Estimated active traffic in our sector alone—if we extrapola
 
 "Don't extrapolate for comfort," Thessaly said. "Log what returns. Flag what doesn't reconcile."
 
-"Extrapolate anyway," Calder said. "Set the band. I'll set posture from it."
+Calder met her eyes. "Extrapolate anyway. Give me the band—I need posture numbers even if they're soft."
 
-Reyes met his eyes. "Dozens of contacts in passive range over three days. Hundreds in the transit network if the spacing holds. Thousands if this slice connects to a network the listening watch suggests."
+Reyes met his eyes. "Dozens of contacts in range over three days. Hundreds in the transit network if the spacing holds. Thousands if this slice connects to a network the listening watch suggests."
 
-Thessaly's mouth tightened almost imperceptibly. She wrote anyway.
+Thessaly did not agree. She wrote anyway.
 
 Park confirmed nothing to Fleet relay, ship records only.
 
-Calder nodded. That was still the world—no Fleet path, no rescue guarantee, no one to tell.
+Calder nodded. The board was full. The channel was not.
 
 The command deck was silent long enough for Reing 3 to flicker once and Brenner not to comment on intercom.
 
@@ -406,7 +400,7 @@ No one answered.
 
 Thessaly wrote the sentence in her slate. Fleet relay could wait.
 
-"Hold segment seven," Calder said. "Passive discipline unchanged. Meeting cadence stands."
+"Hold segment seven," Calder said. "Same discipline. Meeting cadence stands."
 
 The *Kestrel Veil* crept on correction thrusters and moved deeper into segment seven—alone, scarred but operational, professional.
 

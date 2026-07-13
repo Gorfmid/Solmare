@@ -45,7 +45,7 @@ Thessaly took the room through tasks. Passive dwell extension on listen watch. E
 
 "Confirmed," Calder said. "Secondary observation protocol applies from the Alpha Seven boundary forward."
 
-Lena Walsh, arms folded at the back: "Rest cycles are per the captain's orders. Skip one and you spend time with me in clinic."
+"Rest cycles are per the captain's orders," Lena Walsh said, arms folded at the back. "Skip one and you spend time with me in clinic."
 
 No one argued.
 
@@ -71,7 +71,7 @@ Kevin appeared in the corridor outside with a tray of cream-filled pastries.
 
 "First batch before departure," he said.
 
-Pell, passing with a toolkit: "First batch?"
+"First batch?" Pell asked, passing with a toolkit.
 
 "Fleet moved us up twelve hours. Apparently this requires pastries," Kevin said.
 
@@ -116,15 +116,15 @@ On the command deck, the checklist ran in order.
 
 Dana Holt on Validation Bay relay:
 
-"Good to hear you again, *Veil*." Then: "Handshake delay within tolerance. Checksum verification active. Transmission queue stable. VI-Gamma remains intermittent. No fix from my bench. Route accordingly."
+"Good to hear you again, *Veil*." Then, "Handshake delay within tolerance. Checksum verification active. Transmission queue stable. VI-Gamma remains intermittent. No fix from my bench. Route accordingly."
 
-Amara Lin on the relay: "Lag measured. Noted. Chain green."
+"Lag measured," Amara Lin said on the relay. "Noted. Chain green."
 
 Park keyed confirm tokens to his separate shelf. "Copied. No upstream send without dual confirm."
 
-Ortega at sensors: "Passive array calibrated. Observation profile active. Emissions minimized."
+"Passive array calibrated," Ortega said at sensors. "Observation profile active. Emissions minimized."
 
-Tanaka from emitters: "Dark. Confirmed."
+"Dark," Tanaka said from emitters. "Confirmed."
 
 Brenner at helm, Koss on intercom from the cradle ring:
 
@@ -160,7 +160,7 @@ Calder kept the amended packet on his slate—**4471-S AMENDED**, Edition 144 co
 
 ***SEGMENT SEVEN TRANSIT — ALPHA SEVEN BOUNDARY***
 
-Reyes held the Neutral Zone corridor on filed spacing. Then he marked the Alpha Seven boundary on the plot—the Fleet epoch line where charts stopped treating returns as provisional. Beyond it, occupied volume was confirmed on the slate. Interior detail Fleet could not verify stayed blank on the overlay.
+Reyes held the Neutral Zone corridor on filed spacing. Then he marked the Alpha Seven boundary on the plot—the Fleet epoch line where charts stopped treating returns as provisional. Beyond it, occupied sector was confirmed on the slate. Interior detail Fleet could not verify stayed blank on the overlay.
 
 Park held the upstream queue closed until Holt's confirm token returned—delayed, valid, filed. Ortega called passive sweep only; facts on the slate, inference withheld until the data supported it. Halden filed the negative space too—*no contact, no decloak, no upstream emissions worth classification*.
 
@@ -176,7 +176,7 @@ Park copied the crossing timestamp to three archive lanes. Holt would see it whe
 
 Second watch turnover passed without announcement. Tanaka confirmed emitters dark again. Walsh's rest-cycle reminder appeared on three slates; two were obeyed. Koss logged a thermal variance in the signature package and did not call it failure. Halden logged it anyway.
 
-Ortega's listen watch picture built slowly—traffic density low, cadence early, inference withheld. Occupied volume on passive, no name filed yet.
+Ortega's listen watch picture built slowly—traffic density low, cadence early, inference withheld. Occupied sector on passive, no name filed yet.
 
 ---
 
@@ -191,7 +191,7 @@ Executive officers kept what witness bands could not carry cleanly upstream.
 
 The book stayed with the hull—executive officer to executive officer, never logged, never off ship. The prior XO had shown her the recess at turnover. Calder knew the tradition, as Dennett had and the captains before them. They did not read it. They did not control it. The contents stayed with the executive officer chain.
 
-At Dennett's farewell he had said: "Captains change. The ship's mistakes don't." Thessaly had written it on the inside cover.
+At Dennett's farewell he had said, "Captains change. The ship's mistakes don't." Thessaly had written it on the inside cover.
 
 She had added one line from the Veil's last segment seven approach:
 
@@ -299,7 +299,7 @@ Commander Vex received it at the tactical rail. He read the identification stack
 
 Not to the room. To the record.
 
-Major Petrov on the comms inset: "Confirmed?"
+"Confirmed?" Major Petrov asked on the comms inset.
 
 "Not confirmed," Vex said. "Archive match on harmonics and thrust cadence. Scout-class. Different behavior. Emissions reduced. Observation posture on entry. No initiation."
 

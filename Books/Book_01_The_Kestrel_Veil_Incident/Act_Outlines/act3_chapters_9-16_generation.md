@@ -79,35 +79,59 @@ Reference `State/chapter_8_state_log.md` for Ch. 9 entry only:
 
 ### Chapter 9 — Across the Line ✓
 
-**Status:** Complete (~3,778 words)
+**Status:** **LOCKED FINAL** (4,343 words) — editorial pass **2026-07-11**
 
 **Beat:** Stratimirov reviews cloak trial; mobilization; locate scout. Calder recon transition; Brenner/ship; K-17 passive contact; foreign infrastructure; *We're trespassing*.
+
+**Editorial:** Dominion tea canon; Act III entry discipline. See `chapter_list.md` § Chapter 9.
 
 **End state:** Act III underway. **Ch. 10 opens from here.**
 
 ### Chapter 10 — Ghosts in the Dark ✓
 
-**Status:** Complete (~3,822 words)
+**Status:** **LOCKED FINAL** (3,606 words) — editorial pass **2026-07-11**
 
-**Beat:** Volkova logistics brief; faint traffic; Sorokin shipyard; Ortega listening watch; Kovat home; Calder network overlay — *We weren't* (empty space). No combat.
+**Beat:** Volkova logistics brief; day-two traffic stack; Sorokin outer-ring berths; Ortega listening watch (rhythm not translation); Kovat home + 0600 recall; Calder network overlay — *We weren't* (empty space). No combat.
+
+**Editorial:** Dominion tea canon; reduced *filed* density; cut passive hammering; sector not volume; Thessaly/Calder extrapolate tension; interior corridor not weapons-from-density. See `chapter_list.md` § Chapter 10.
 
 **End state:** Empire scale confirmed. Ch. 11 opens from here.
 
-### Chapter 11 — Silent Crossings
+### Chapter 11 — Silent Crossings ✓
 
-Emissions discipline; contested geometry under observation pressure.
+**Status:** **LOCKED FINAL** (2,902 words) — editorial pass **2026-07-11**
 
-### Chapter 12 — The Watchers
+**Beat:** Volkova transportation morning (51/43 recalls, Maret commendation); Ortega/Reyes commute geometry; Kovat Founders' Week + K-17 hold; wardroom centuries-scale relays + explore vs. occupied lanes; Sorokin shift change (Petran); Calder *crossed into history* close. No combat.
 
-Mutual observation — opposing force watches back; incomplete sensor truth both ways.
+**Editorial:** Dominion tea; transportation procedural language; Park correlation lane; Walsh deferred; interior routing not trespass; Thessaly XO log not captain order; Sorokin dinner deduped from Ch. 10; cut passive % recap. See `chapter_list.md` § Chapter 11.
 
-### Chapter 13 — Broken Lines
+**End state:** Commute traffic normalized; crew deeper in segment seven day four. Ch. 12 opens mutual observation pressure.
 
-Comms and relay failure under **real opposition** — operational, not metaphysical.
+### Chapter 12 — Whispers in the Corridor ✓
 
-### Chapter 14 — Echoes of Passage
+**Status:** **LOCKED FINAL** (3,132 words) — editorial pass **2026-07-11**
 
-Physical traces of civilization-scale operations; intelligence recovery.
+**Beat:** Stratimirov/Petrov scatter (unassigned); day-six pattern shift; Volkova K-17 spine variance; Ortega verification density (timing only); Kovat seven-day review; overlay *They're adapting*; Petrov marker nineteen coda. No combat.
+
+**Editorial:** Dominion *K-17 spine* not Fleet *seven-alpha*; Fleet inference limits; cut 6%/aphorisms/adjectives mantra; list-weigh-don't-lock; Walsh queued note; major break on coda. See `chapter_list.md` § Chapter 12.
+
+**End state:** Mutual incomplete observation; day six close. Ch. 13 opens preparation escalation.
+
+### Chapter 13 — The Weight of Preparation
+
+**Status:** **LOCKED FINAL** (3,436 words) — editorial pass **2026-07-12**. See `chapter_list.md` § Chapter 13 · `State/chapter_13_state_log.md`.
+
+Long-baseline preparation (not crash mobilization). Vex: cloak imperfect under passive. Fleet: throughput / relative generations; *Keep listening*.
+
+**End state:** Preparation recognized; standing orders hold; Ch. 14 **LOCKED FINAL** (inheritance / chart recognition).
+
+### Chapter 14 — Inheritance
+
+**Status:** **LOCKED FINAL** (3,817 words) — editorial pass **2026-07-12**. See `chapter_list.md` § Chapter 14 · `State/chapter_14_state_log.md`.
+
+Intergenerational continuity (Dominion); Fleet chart/doctrine error — Edition 143 empty vs sector already running; comparison packet; *keep listening*.
+
+**End state:** Occupied sector recognized internally; Ch. 15 opens departure pressure.
 
 ### Chapter 15 — The First Map
 

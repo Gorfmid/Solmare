@@ -5,7 +5,7 @@ Generation rules, style guides, orchestration, and review tooling for AI-assiste
 | Folder | Contents |
 |--------|----------|
 | `Generation_Rules/` | Chapter generator spec, state engine, continuity, validators |
-| `Style_Guide/` | Prose, dialogue, pacing, **chapter length (dynamic model)**, 70/30 rule, **global writing principles**, **revision philosophy** |
+| `Style_Guide/` | Prose, dialogue, pacing, **chapter length (dynamic model)**, 70/30 rule, **global writing principles**, **revision philosophy**, **chapter editing pass**, **final edit pass (Ch. 13+)** |
 | `Series_Principles/` | Cross-book resolution boundaries |
 | `Orchestrator/` | Master orchestrator prompt |
 | `Character_Generation/` | Reserved for character generation prompts |

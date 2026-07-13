@@ -11,6 +11,9 @@ Primary opposing civilization to Fleet Authority across The Solmare Cycle.
 | **`dominion_visual_language.md`** | **Dominion visual motifs** — recognition before chapter heading |
 | **`dominion_speech.md`** | **Dominion speech** — inherited quotation; Fleet contrast |
 | **`dominion_worldview.md`** | **Series foundation** — strategic philosophy, military doctrine, political structure, society, **cultural touchstones**, Leviathan Program, reader experience, Solmare Rule (Dominion scenes) |
+| **`dominion_civilization_reference.md`** | **Civilization reference** — government, Directorates (org charts), education, military, economy, border admin, Science Directorate, Contact Office (pending); cites civilian life |
+| **`dominion_civilian_life.md`** | **Civilian texture** — daily life, family, harvest festival, regional variation; cite from civilization reference |
+| **`peligar_planning_seed.md`** | **Peligar** — Dominion exonym; continuity / industrial ecology; Book Two+ planning seed (not full encyclopedia) |
 
 ## Book One
 

@@ -1,73 +1,71 @@
 # CURRENT STATE — BOOK ONE
 
-> **POST–CHAPTER 10 CANON.** Chapters 1–9 locked. Ch. 10 complete. Ch. 11–24 shells.  
-> **Architecture:** 4-act — Act III in progress. See `State/chapter_10_state_log.md`.
+> **POST–CHAPTER 16 CANON.** Ch. 1–16 **LOCKED FINAL** (2026-07-12). **Act III complete.**  
+> **Architecture:** 4-act — Act IV in progress. See `State/chapter_16_state_log.md`.
 
-Last updated: Chapter 10 complete — 2026-06-28 (*Ghosts in the Dark*)
+Last updated: Chapter 16 **LOCKED FINAL** — 2026-07-12 (*Homeward*)
 
 ---
 
 ## NARRATIVE STATE (MACRO)
 
-- **Act III (Ch. 9–10):** Border intelligence — scale of opposing civilization revealed
-- **Dominion (reader):** Named; Volkova, Sorokin, Kovat recurring; Fleet crew does **not** know the name
-- **Discovery:** Outer transportation network — empire scale, not frontier infrastructure
+- **Act III (Ch. 9–16) COMPLETE:** *Kestrel* back in Fleet space; report sealed; *neighbors* in the margin; observation only, no contact
+- **Dominion (reader):** Thirty-two markers; gap softened; Vex expects to compare again; Kovat attended the festival
+- **Act IV (Ch. 17+):** Fleet doctrine arc — from anomaly response to Contact Doctrine
 
 ---
 
 ## SHIP STATE (*Kestrel Veil*)
 
-- **operational_status:** damaged; patched; segment seven, seven-alpha
-- **sensors/comms:** passive only; listening watch; ~6% passive rebuild; local buffer
-- **propulsion:** correction thrusters; silence discipline
-- **last_known_location:** Inside Dominion transportation network volume
-- **crew_perception:** trespassing through active civilization; *We weren't expanding into empty space*
+- **operational_status:** damaged; patched; in Fleet space transit to pickup
+- **sensors/comms:** emitters dark through exit; Fleet pickup beacon in range (14 hrs)
+- **last_known_location:** Fleet space — homeward
+- **crew_perception:** Bring everyone home; report sealed; *neighbors* in margin
 
 ---
 
 ## WATCHPOST (VI-GAMMA)
 
-- Holt/Lin: no live link to *Veil* intelligence
+- Holt/Lin: no live link during segment seven; classification pending at pickup
 
 ---
 
 ## FLEET COMMAND
 
-- Unaware of Ch. 10 discoveries in real time
+- Unaware of Ch. 10–16 discoveries until pickup and report intake
 
 ---
 
 ## DOMINION STATE (READER KNOWLEDGE)
 
-- **K-17 (Kovat):** passive contact active; return 0600
-- **Stratimirov:** mobilization continues (off-page Ch. 10)
-- **Vex:** off-page; trial suspended
-- **Civilian threads:** Volkova logistics; Sorokin shipyard Kessik-Outer
+- **Stratimirov:** thirty-two; watching; no task force
+- **Kovat:** K-17 diminished; Founders' Week attended
+- **Vex:** gap softened; field trial deferred; *we'll see them again*
 
 ---
 
 ## KNOWLEDGE STATE
 
-### Confirmed (Ch. 10)
+### Confirmed (Ch. 10–16)
 
-- Faint commercial traffic; comm architecture (untranslated)
-- Network overlay: thousands of transits implied; sustained movement
-- Calder closing line: *We weren't* (empty space)
+- Occupied sector; long-baseline civilization; not crisis mobilization
+- Report header: *Structured civilization beyond Fleet survey assumptions*
+- First contact: observation only — no handshake, illumination, name exchange
+- *Neighbors* in margin; *empty* added to Fleet terminology failures
 
 ### Withheld from Fleet POV
 
-- Dominion name, K-17, Volkova, Sorokin
+- Dominion name, breakaway history, Vex trial detail, Stratimirov/Petrov chain
 
 ---
 
 ## MISSION STATUS
 
-**Act III in progress.** Observe, investigate, recover intelligence — ROE unchanged.
+**Act III complete.** *Kestrel* in Fleet space. Ch. 17 opens Fleet doctrine arc (*The Listening Post*).
 
 ---
 
 ## BATCH RECORD
 
-- Ch. **1–9:** Ch. 1–8 LOCKED · Ch. 9 complete
-- Ch. **10:** Complete
-- Ch. **11–24:** Shells
+- Ch. **1–16:** **LOCKED FINAL** (2026-07-12) — **Acts I–III complete**
+- Ch. **17–24:** Prior LOCKED prose pending editorial

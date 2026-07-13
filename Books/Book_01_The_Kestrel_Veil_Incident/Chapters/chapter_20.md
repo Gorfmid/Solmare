@@ -117,7 +117,7 @@ Nika walked home through harvest festival bunting still half-removed, wondering 
 
 Pavel Sorokin certified tolerance on a weld seam and hated that the crane certification on Slip Three was still three days out.
 
-Kessik-Outer did not pause because a directorate file changed status. Yards paused for cranes, lattices, shift change, and lunch, not necessarily in that order.
+Kessik-Outer did not pause because a directorate file changed status. Yards paused for cranes, lattice deliveries, shift change, and lunch, not necessarily in that order.
 
 "Slip Seven ahead," Petran said, not looking up from his own inspection slate. "Slip Three behind. Crane's still three days out."
 
@@ -141,7 +141,7 @@ Nobody on the yard called it war.
 
 Sorokin did not call it war.
 
-He called it another difficult quarter—the kind where dinners and other routines get moved when shifts run long, where Darya needed examination fees and Mikael needed shoes that would survive festival mud, where flowers for the table were a line item next to lattice requisitions.
+He called it another difficult quarter—the kind where dinners and other routines get moved when shifts run long, where Darya needed examination fees and Mikael needed shoes that would survive festival mud, where flowers for the table were a line item next to titanium lattice requisitions.
 
 Lunch was stew in the bay cafeteria and quiet complaints about shift overlap and harvest festival traffic congesting freight windows.
 
@@ -151,7 +151,7 @@ Petran was already holding a seat and complaining that second shift always got t
 
 "Working on it," Sorokin said.
 
-They ate. Petran finally stopped talking about the stew long enough to ask if Sorokin had bought the candles yet. Sorokin hadn't. Someone two tables over was arguing about lattice prices. Lina's certification came up twice.
+They ate. Petran finally stopped talking about the stew long enough to ask if Sorokin had bought the candles yet. Sorokin hadn't. Someone two tables over was arguing about titanium lattice prices. Lina's certification came up twice.
 
 After lunch he walked Slip Seven's seam again while the inspection lead rechecked a junction he had already signed—double pass, third signature on the slate, twenty minutes on the crane queue nobody rushed. Sorokin initialed the tolerance band and waved the cart through when the numbers matched twice.
 

@@ -1,0 +1,31 @@
+---
+description: Solmare final edit pass (Ch. 13+) — Claude 4.6; colon tags, file density, tea/coffee clocks, em dashes, plain English
+globs: Books/**/Chapters/chapter_*.md
+alwaysApply: false
+---
+
+# Chapter Final Edit Pass (Act III+)
+
+When the user says **"final edit pass on chapter X"**, **"apply final edit to chapter X"**, or **"Ch. X final pass"**:
+
+1. **Model:** Use **Claude 4.6** (`claude-4.6-sonnet-medium-thinking` or latest Claude 4.6 Sonnet). If the session is not on Claude 4.6, tell the user to switch before continuing.
+2. Load and follow: `Writing_System/Style_Guide/chapter_final_edit_pass.md`
+3. Also load: `Writing_System/Style_Guide/chapter_editing_pass.md` + Book One `State/current_state.md`
+
+## Hard priorities (from Ch. 13+ line edits)
+
+1. Colon dialogue tags → comma attribution (`Name: "…"` → `"…," Name said.`)
+2. Tea/coffee temperature or fill as time clock → remove/rewrite (tea=Dominion, coffee=Fleet still OK)
+3. Merge/separate paragraphs; fix room geography and speaker blur (titles when needed)
+4. Reduce *file/filed/filing* — vary with log, record, note, add, treat
+5. Plain English — cut aphorisms, author winks, *without drama* stacks
+6. Prefer fewer em dashes — replace with period, comma, or sentence break when possible
+7. Cut *second pass* sensor filler; limit *lanes* / spatial *volume*; watch *signing* in craft/approval contexts — prefer *laying*, *certifying*, *approving* unless it is a literal document signature
+8. Fleet POV: no unauthorized *Dominion*; no breakaway heritage inference
+9. Standing orders: don’t mantra-repeat; explain illumination restraint once, plainly
+10. No semicolon crew rosters — prose sentences
+11. End scenes on work continuing
+
+Deliver the report checklist at the end of `chapter_final_edit_pass.md`.
+
+Respect **LOCKED FINAL** unless the author unlocks.

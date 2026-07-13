@@ -30,9 +30,9 @@ Rowan did not take notes on the slate. He had learned that writing too early let
 
 "Authentication density increased without search-pattern spikes. Freight returns stayed consistent with industrial yard throughput. On egress, no pursuit signature on our bearing."
 
-"Inference in the volume-stability line," Thessaly said quietly.
+"Inference in the sector-stability line," Thessaly said quietly.
 
-Calder corrected without irritation. "Ordinary volume, inferred from traffic flow stability. No pursuit on egress. That part is observed."
+Calder corrected without irritation. "Ordinary sector, inferred from traffic flow stability. No pursuit on egress. That part is observed."
 
 Rowan nodded. He did not ask *what does it mean*. He asked, "What did the passive hold crawl cost in transit time?"
 
@@ -40,7 +40,7 @@ Rowan nodded. He did not ask *what does it mean*. He asked, "What did the passiv
 
 "What did you not see?"
 
-"No upstream emissions. No task-force contact profile. No empty volume."
+"No upstream emissions. No task-force contact profile. No empty sector."
 
 The door chimed. A Cartography courier collected bearing annexes for overlay. Rowan did not pause the meeting. Fleet routines did not stop because one department had started work. Somewhere else, packets were already routing.
 
@@ -48,7 +48,7 @@ The door chimed. A Cartography courier collected bearing annexes for overlay. Ro
 
 Three floors up, Martine Okoye laid segment seven navigation returns over epoch 143 frontier shading and watched the overlay contradict the band.
 
-Map Room Four was Cartography's working room: display walls for live overlay, film strips clipped at each station for markup that was in progress, mission patches from survey installs pinned above the workstations. Okoye had spent eleven years shading frontier provisional volumes. The patches were from boots-on-ground installs. The charts came later. An epoch band was Fleet's best confidence estimate until better returns forced a revision.
+Map Room Four was Cartography's working room: display walls for live overlay, film strips clipped at each station for markup that was in progress, mission patches from survey installs pinned above the workstations. Okoye had spent eleven years shading frontier provisional sectors. The patches were from boots-on-ground installs. The charts came later. An epoch band was Fleet's best confidence estimate until better returns forced a revision.
 
 Pell, two years from the academy, Founders' Week ring still too shiny, ran the first overlay with the confidence of a recent graduate.
 
@@ -58,7 +58,7 @@ Pell, two years from the academy, Founders' Week ring still too shiny, ran the f
 
 She zoomed seven-alpha. Fleet had shaded it *provisional, low confidence* from a survey install the scout's routing now predated. Reyes's navigation appendix sat beside Thessaly's lane-family correlation: freight patterns, commuter clustering, and Halden's passive thermal analysis.
 
-None of it belonged inside *provisional volume* unless provisional only meant Fleet had not looked long enough.
+None of it belonged inside *provisional sector* unless provisional only meant Fleet had not looked long enough.
 
 Okoye compared Ortega's civilian traffic harmonics against Fleet's Founders' Week routing assumptions. The routes differed. The pattern did not: density peaks, commuter clustering, freight movement repeating on interval.
 
@@ -216,7 +216,7 @@ Fleet's frontier school petition went beside Thessaly's thermal-layer notes on t
 
 An eleven-year survey summary followed—corridor seven-alpha, *provisional, low occupancy confidence*.
 
-Founders' Week origin maps celebrated Fleet arrival as civilization's opening movement in surveyed volumes. Ellis set them next to the survey sheet.
+Founders' Week origin maps celebrated Fleet arrival as civilization's opening movement in surveyed sectors. Ellis set them next to the survey sheet.
 
 The archival variance queue summary sat last: routine traffic, low priority, flagged for senior review on contradictory occupancy returns. Maris Chen on the attachment. Ellis did not know the name's story. She knew how the queue had filed it: *contradictory occupancy* as inconvenience, not alarm.
 

@@ -50,13 +50,13 @@ Full build sequence for `Manuscript/_build/build_manuscript.ps1` — see `Archiv
 | 7 | The Living Ship | `chapter_7.md` | 9,608 | Act II · **LOCKED FINAL** |
 | 8 | The Quiet Before the Silence | `chapter_8.md` | 3,820 | Act II ends · **LOCKED FINAL** |
 | — | **FCC-7712** | `Archive/archive_02_fleet_communications_passive_detection_review.md` | 89 | After Ch. 8 — Fleet Communications Command; Passive Detection Review |
-| 9 | Across the Line | `chapter_9.md` | 4,343 | Act III |
-| 10 | Ghosts in the Dark | `chapter_10.md` | 3,384 | Act III |
-| 11 | Silent Crossings | `chapter_11.md` | 2,651 | Act III |
-| 12 | Whispers in the Corridor | `chapter_12.md` | 3,311 | Act III |
-| 13 | The Weight of Preparation | `chapter_13.md` | 3,802 | Act III |
-| 14 | Inheritance | `chapter_14.md` | 3,552 | Act III |
-| 15 | The Point of No Return | `chapter_15.md` | 3,340 | Act III |
+| 9 | Across the Line | `chapter_9.md` | 4,343 | Act III opens · **LOCKED FINAL** |
+| 10 | Ghosts in the Dark | `chapter_10.md` | 3,606 | Act III · **LOCKED FINAL** |
+| 11 | Silent Crossings | `chapter_11.md` | 2,902 | Act III · **LOCKED FINAL** |
+| 12 | Whispers in the Corridor | `chapter_12.md` | 3,132 | Act III · **LOCKED FINAL** |
+| 13 | The Weight of Preparation | `chapter_13.md` | 3,436 | Act III · **LOCKED FINAL** |
+| 14 | Inheritance | `chapter_14.md` | 3,817 | Act III · **LOCKED FINAL** |
+| 15 | The Point of No Return | `chapter_15.md` | 3,742 | Act III · **LOCKED FINAL** |
 | 16 | Homeward | `chapter_16.md` | 2,863 | Act III ends |
 | 17 | The Listening Post | `chapter_17.md` | 2,898 | Act IV opens |
 | 18 | New Words | `chapter_18.md` | 2,365 | Act IV |
@@ -70,9 +70,9 @@ Full build sequence for `Manuscript/_build/build_manuscript.ps1` — see `Archiv
 | — | **Epilogue** | `Chapters/epilogue.md` | 1,212 | *First Day* — Edition 144 + **Required Reading** bookend |
 | — | **Appendix** | `Appendix/book_one_appendix.md` | 2,452 | Fleet Historical Office reference supplement (post–Book One); Appendices A–E |
 
-**Total (publication build):** **90,006 words** (source `Chapters/*.md` + `Archive/`; counts from markdown source files)  
-**Chapters only (1–24):** **88,447 words**  
-**Tracker:** `Notes/REWRITE_STATUS.md` · **Status:** Ch. 1–8 **LOCKED FINAL** (Act I–II) · Ch. 9–21 + archives **LOCKED** · Ch. 22–24 **DRAFT**
+**Total (publication build):** **90,148 words** (source `Chapters/*.md` + `Archive/`; counts from markdown source files)  
+**Chapters only (1–24):** **88,589 words**  
+**Tracker:** `Notes/REWRITE_STATUS.md` · **Status:** Ch. 1–16 **LOCKED FINAL** (2026-07-12) · Ch. 17–21 + archives **LOCKED** · Ch. 22–24 **DRAFT**
 
 **Source of truth:** `Chapters/*.md` (and `Archive/` interludes). Compiled `Manuscript/Act_*.md` and full-book exports are **not** auto-regenerated — rebuild only when author requests (`Manuscript/_build/rebuild_act.ps1` per act, or `build_manuscript.ps1` for publication outputs).
 
@@ -118,7 +118,7 @@ What begins as routine patrol becomes the **Kestrel Veil Incident** — then dis
 | ✓ **Illustration** | *Kestrel Veil* schematic — before Ch. 7 (see **Illustrations** below) |
 | Build (on request) | `Manuscript/_build/rebuild_act.ps1` · `Manuscript/_build/build_manuscript.ps1` — archives per `Archive/archive_placement.json` |
 
-**Written prose (full publication order):** **88,852 words**. See **Manuscript Reading Order** above.
+**Written prose (full publication order):** **88,486 words**. See **Manuscript Reading Order** above.
 
 **Act IV planning:** `Planning/Fleet_Authority_Briefing_Packet.md` · **Archive index:** `Archive/README.md`
 
@@ -342,7 +342,7 @@ VI-Gamma six-hour emergency collar window — Cho patch support, borrowed materi
 
 # ACT III — SHADOWS BEYOND THE BORDER (Chapters 9–16)
 
-**Status:** Ch. 9–16 **LOCKED** (complete prose) · **Act III closed**  
+**Status:** Ch. 9–16 **LOCKED FINAL** (Ch. 16 **2026-07-12**) · **Act III fully locked**  
 **Generation doctrine:** `act3_chapters_9-16_generation.md`  
 **Dominion worldbuilding:** `Universe/The_Dominion/dominion_worldview.md` (series foundation) · `act3_dominion_worldbuilding.md`  
 **Opens from:** Ch. 8 end state — *Veil* alone at Neutral Zone seven-alpha approach edge  
@@ -356,16 +356,371 @@ VI-Gamma six-hour emergency collar window — Cho patch support, borrowed materi
 
 | Ch | Prose title | Status | Words | Function (summary) |
 |----|-------------|--------|------:|-------------------|
-| 9 | Across the Line | **LOCKED** | 4,343 | Cross segment seven; Dominion introduced (reader); infrastructure; K-17 tracking |
-| 10 | Ghosts in the Dark | **LOCKED** | 3,384 | Empire scale; traffic; listening watch; network overlay |
-| 11 | Silent Crossings | **LOCKED** | 2,651 | Emissions discipline; civilian traffic; humility; *start listening* |
-| 12 | Whispers in the Corridor | **LOCKED** | 3,311 | Mutual incomplete sensor truth; pattern deviation; *they're adapting* |
-| 13 | The Weight of Preparation | **LOCKED** | 3,802 | Decades-long preparation; Vex debrief; *preparation, not mobilization* |
-| 14 | Inheritance | **LOCKED** | 3,552 | Intergenerational culture; Calder questions Fleet doctrine; *lives inside history* |
-| 15 | The Point of No Return | **LOCKED** | 3,340 | Departure decision; *we have enough*; course for home |
-| 16 | Homeward | **LOCKED** | 2,863 | Return to Fleet space; Thessaly report; *we found neighbors*; **END ACT III** |
+| 9 | Across the Line | **LOCKED FINAL** | 4,343 | Cross segment seven; Dominion introduced (reader); infrastructure; K-17 tracking |
+| 10 | Ghosts in the Dark | **LOCKED FINAL** | 3,606 | Empire scale; traffic; listening watch; network overlay — *We weren't* |
+| 11 | Silent Crossings | **LOCKED FINAL** | 2,902 | Commute geometry; centuries-scale relays; *crossed into history* |
+| 12 | Whispers in the Corridor | **LOCKED FINAL** | 3,132 | Mutual incomplete observation; verification density; *They're adapting* |
+| 13 | The Weight of Preparation | **LOCKED FINAL** | 3,436 | Long-baseline capacity; Vex cloak imperfect; *already at this* / keep listening |
+| 14 | Inheritance | **LOCKED FINAL** | 3,817 | Intergenerational culture; Edition 143 vs occupied sector; *already there* / keep listening |
+| 15 | The Point of No Return | **LOCKED FINAL** | 3,742 | Departure decision; *we have enough*; course for home |
+| 16 | Homeward | **LOCKED FINAL** | 2,632 | Return to Fleet space; Thessaly report; *we found neighbors*; **END ACT III** |
 
-**Act III ends:** Structured opposing civilization confirmed operationally; border intelligence arc complete; Ch. 17 opens Fleet doctrine arc.
+---
+
+## Chapter 9 — Across the Line
+
+**Prose title:** *Across the Line*  
+**File:** `../Chapters/chapter_9.md`  
+**Status:** **LOCKED FINAL** (4,343 words) — editorial pass complete **2026-07-11**; **no further edits** unless author unlocks  
+**State log:** `../State/chapter_9_state_log.md`  
+**Generation doctrine:** `act3_chapters_9-16_generation.md`
+
+### Purpose
+
+Act III opens: Dominion introduced to reader (Stratimirov, Kovat); *Veil* crosses segment seven; foreign infrastructure discovered; crew reframes mission from exploration to trespass.
+
+### Scene order (on page)
+
+1. Stratimirov — cloak trial debrief; mobilization; locate scout orders  
+2. Calder — segment six recon transition; crew changed post-Incident  
+3. Brenner — ship sounds wrong beyond border; maintenance mentorship  
+4. Kovat — K-17 passive contact; procedure; Selim / seven-alpha significance  
+5. Calder — infrastructure discovery (beacons, lane corrections, relay sleeper); *We're trespassing*
+
+### Editorial pass (locked inventory)
+
+- **Dominion tea canon** — Stratimirov tin; K-17 commons pot (`cultural_touchstones.md`); no Fleet coffee bleed on Dominion beats
+- **Act III entry** — structured civilization through individuals; war prep shown not stated
+- **Fleet posture** — passive only; no transmit; Park relay empty
+- **Close preserved:** *We're not exploring* / *We're trespassing* (Ch. 10+ softens trespass hammering)
+
+### End state
+
+*Veil* in Dominion-monitored space; K-17 tracking; detection pressure building; Ch. 10 opens day two segment seven.
+
+---
+
+## Chapter 10 — Ghosts in the Dark
+
+**Prose title:** *Ghosts in the Dark*  
+**File:** `../Chapters/chapter_10.md`  
+**Status:** **LOCKED FINAL** (3,606 words) — editorial pass complete **2026-07-11**; **no further edits** unless author unlocks  
+**State log:** `../State/chapter_10_state_log.md`  
+**Generation doctrine:** `act3_chapters_9-16_generation.md`
+
+### Purpose
+
+Day two in segment seven: Dominion logistics and yard expansion at civilization scale; Fleet crew maps foreign traffic and listening-watch rhythm; Kovat domestic thread + recall; Calder overlay — empty-space assumption breaks.
+
+### Scene order (on page)
+
+1. Volkova — Regional Transportation Directorate morning planning  
+2. *Kestrel Veil* command deck — day-two traffic stack  
+3. Sorokin — Kessik-Outer outer-ring berths  
+4. Ortega — sensor alcove / listening band three  
+5. Kovat — K-17 shift end, transit, home, 0600 recall  
+6. Calder — overlay meeting; *We've spent two centuries…* / *We weren't.*
+
+### Editorial pass (locked inventory)
+
+**Dominion / canon**
+- **Tea not coffee** — Volkova communal pot; Sorokin thermos; K-17 commons tea pot (`cultural_touchstones.md`)
+- **Procedural language** — contingency **requisition**; **Delivery is next week**; reduced *filed* density (*logged*, *requested*, *lodge grievances*, *submitted*)
+- **Sorokin yard** — outer-ring berth expansion elaborated; *More berths meant more people* (Dominion corridor growth, not celebration/throughput aphorism); *deadline* not *war*
+
+**Fleet / command deck**
+- **Day two** — not *trespass* framing; *Fleet charts call this sector empty. The board does not.*
+- **Sensor rebuild ~6%** — passive doctrine stated once; cut passive hammering (*stay dark*, *board stayed dark*, *same discipline*)
+- **Walsh light-check overdue** — Calder dismisses; Thessaly notes captain call without routing through her
+- **Reyes** — residual decay in lane spacing; only new contact on board
+
+**Ortega / listening watch**
+- Expanded opener — plot vs. rhythm; band three from local archive
+- **Can they see us?** (not *use us*); detection answer only
+- **Unknown language** — inference from cadence/gaps/tones only (not translated delay complaints)
+- Cut illuminate/transmit/passive triplet repetition
+
+**Kovat**
+- Shift-end procedural expansion (2200 handoff, plaque, good night at border node)
+- Recall read as bearing + return time (not *No adjectives / No panic*)
+- **2241 → 0600** — seven hours plain (not *sleep math*)
+
+**Overlay meeting**
+- No weapons signatures — **interior routing / someone else's corridor** (not traffic density = weapons)
+- **Thessaly / Calder** — extrapolate disagreement explicit (*Thessaly did not agree. She wrote anyway.*)
+- **Calder** — *The board was full. The channel was not.* (replaces no-Fleet-path refrain)
+- Close preserved: *We weren't.* · *Same discipline. Meeting cadence stands.*
+
+### End state
+
+Empire-scale network on the board; crew holds observe posture; Kovat recalled 0600; Ch. 11 opens deeper in segment seven.
+
+---
+
+## Chapter 11 — Silent Crossings
+
+**Prose title:** *Silent Crossings*  
+**File:** `../Chapters/chapter_11.md`  
+**Status:** **LOCKED FINAL** (2,902 words) — editorial pass complete **2026-07-11**; **no further edits** unless author unlocks  
+**State log:** `../State/chapter_11_state_log.md`  
+**Generation doctrine:** `act3_chapters_9-16_generation.md`
+
+### Purpose
+
+Day four in segment seven: Dominion civilian routine at civilization scale; Fleet crew identifies **commute geometry** inside maintained corridors; wardroom assembles centuries-scale infrastructure picture; Calder reframes discovery as history, not border crossing alone.
+
+### Scene order (on page)
+
+1. Volkova — Regional Transportation Directorate morning planning  
+2. *Kestrel Veil* sensor alcove — passenger clusters; commute read  
+3. Kovat — Founders' Week school-yard rehearsal  
+4. Calder — wardroom discussion (relay age, explore vs. occupied lanes)  
+5. Sorokin — Kessik-Outer shift change  
+6. Command deck — Mission +22:00; *crossed into history* close
+
+### Editorial pass (locked inventory)
+
+**Dominion / canon**
+- **Tea not coffee** — Volkova desk tea; Sorokin yard tea (`cultural_touchstones.md`)
+- **Transportation procedural** — `commercial rerouted around nine-alpha, twelve-hour delay nominal` (not abstract *commercial penalty*); `If schedules slip, document why` (not *Accept penalties*)
+- **Maret commendation** — Volkova **filed** it (not ordering Dusan); knock-on routing beat (four-seven / five-gamma)
+- **Reserve recalls** — **51 / 43** only (dropped orphan 31); desk reconciles Dusan's read — no Veil-telegraph *holiday travel* language
+- **School excursion split** — four-beta / five-gamma; Education + Industrial grievance routing
+
+**Fleet / sensor alcove & command**
+- **Park** — correlation lane beat (not *no Fleet relay / no path home*)
+- **Walsh** — Calder **shake of head—no**; medical log `Captain deferred. Reschedule after watch.`
+- **Calder** — *morning commute* / **interior routing**; charts called empty, board shows lanes
+- **Thessaly** — split dialogue with Reyes (annex empty); occupancy charts incorrect if they live here
+- **Ortega** — `Can they see us?` commute windows; fixed schedule not surge
+- **Reyes** — commute geometry; explore **and** occupied lanes — no either/or trespass framing
+- **Passive doctrine** — cut 6% recap at close; *stay dark* / *listen watch* where touched
+
+**Wardroom**
+- Charts stale, not “crew distrust Fleet”
+- **Park** — outbound relay blank, Holt-format buffer, channel state
+- **Reyes overlay** — only what **they assembled** — no Fleet catalogue over-read
+- **Reyes** — orders say explore + lanes say maintained corridors
+- **Fleet coffee** — Walsh brings coffee (wardroom Fleet beat)
+
+**Kovat / school yard**
+- Removed *duty never left* / *sleep math* aphorisms
+- Grandmother/Marin humor without *volume knob*; sweets peace-offering
+- K-17 message read at rehearsal (plain): *PASSIVE HOLD STEADY. NO CHANGE.*
+
+**Sorokin / Kessik-Outer**
+- Thursday dinner **deduped from Ch. 10** — post-dinner report (dessert, asleep in chair, flowers); not telemetry at table
+- **Petran** expanded — catwalk, brim-flick inheritance; wedding/certification backlog dialogue
+
+**Close**
+- Calder: *We thought we crossed a border* / *crossed into history*
+- **Thessaly** — observation bands need new header; glances at Calder (XO log, not ordering captain)
+- Park: three correlation threads won't combine; *silent crossings* while lanes fill and empty
+
+### End state
+
+Commute traffic normalized on the plot; centuries-scale relay evidence logged; crew holds observe posture deeper in segment seven; Ch. 12 opens mutual observation pressure.
+
+---
+
+## Chapter 12 — Whispers in the Corridor
+
+**Prose title:** *Whispers in the Corridor*  
+**File:** `../Chapters/chapter_12.md`  
+**Status:** **LOCKED FINAL** (3,132 words) — editorial pass complete **2026-07-11**; **no further edits** unless author unlocks  
+**State log:** `../State/chapter_12_state_log.md`  
+**Generation doctrine:** `act3_chapters_9-16_generation.md`
+
+### Purpose
+
+Day six in segment seven: mutual incomplete observation. Dominion sees correlated but unassigned returns + K-17 spine variance; Fleet sees verification density rise without language or locked intent. Pressure without contact.
+
+### Scene order (on page)
+
+1. Stratimirov / Petrov — Strategic Security pattern deviation  
+2. *Kestrel Veil* command deck — day-six pattern shift  
+3. Volkova — K-17 spine route balance variance  
+4. Ortega — sensor alcove listen watch  
+5. Kovat / Selim — K-17 seven-day passive review  
+6. Command deck overlay — Mission +19:00; *They're adapting*  
+7. Coda — Petrov marker nineteen (major section break)
+
+### Editorial pass (locked inventory)
+
+**Dominion / terminology**
+- **K-17 spine** — Dominion Transportation/Border name for the corridor Fleet calls *seven-alpha* (never *seven-alpha* in Dominion POV)
+- **Tea** — Stratimirov pours tea (plain); Volkova / K-17 commons tea
+- **Unassigned returns** — not trial scout / not *Veil*; residual noise, equipment bias, unknown hull open
+- **Petrov** — no clever echo dialogue; no forbidden-word theater; *I don't have a category yet*
+- **Volkova** — cut relatives/lie/model-philosophy aphorisms; 0.7% = note not report; Maret without *fear sand*
+- **Kovat / Selim** — seven-day comparison as procedure; cut *whisper-class* / adjectives mantra / *shape of the word*; *Insufficient for that. Continue observation.*
+- **Coda** — major break (`---` + header), not soft `❦`; marker nineteen unnamed
+
+**Fleet / inference limits**
+- **Listen watch** — timing, mass class, verification/auth structure only; no banter, school transport, controllers, festival songs, translated questions
+- **Ortega** — *Verification density is up* (not *asking questions*); *Could be us* (not debris ghost)
+- Cut **6%** / passive percent restatement
+- Cut *no Fleet relay / no path home*; Park = Holt-format buffer, transmit closed
+- **List / weigh / don't lock** (not *don't marry*)
+- Cut station-roster recap at overlay (already established)
+- **Annex** — still empty on paper; six days of returns contradict; kept as prior Fleet belief
+- **Thessaly** — keeps unresolved return / schedule pressure open; not abstract *challenge without victory*
+- **Walsh** — queues note (Ortega light check, food, rest) — does not interrupt overlay
+- **Hale** — rotation limit *holds* (not *sacred*)
+- Mission +19:00 = mission **clock time-of-day** on day six (not cumulative T+; Ch. 11 was +22:00 day four)
+
+**Close**
+- Calder: adapting / not coincidence; stay dark; do not illuminate
+- Orders unchanged in letter; caution increased
+- Petrov marker nineteen bookend after major Dominion header
+
+### End state
+
+Mutual pressure without contact; Ch. 13 opens from day-six end state / Dominion marker chain still low confidence.
+
+---
+
+## Chapter 13 — The Weight of Preparation
+
+**Prose title:** *The Weight of Preparation*  
+**File:** `../Chapters/chapter_13.md`  
+**Status:** **LOCKED FINAL** (3,436 words) — editorial pass complete **2026-07-12**; **no further edits** unless author unlocks  
+**State log:** `../State/chapter_13_state_log.md`  
+**Generation doctrine:** `act3_chapters_9-16_generation.md`
+
+### Purpose
+
+Preparation recognized as long baseline, not crash mobilization. Dominion reaches thirty markers / Vex answers cloak imperfect; Fleet maps yard throughput and relative upgrade generations; domestic Dominion life continues under ordinary overtime.
+
+### Scene order (on page)
+
+1. Strategic Security — Petrov thirty / Stratimirov / Chernov / Vex debrief  
+2. *Kestrel Veil* — day nine yards (throughput, not fleet numbers)  
+3. Sorokin home — Thursday dinner / overtime / Slip Three lattice joint  
+4. Wardroom — Thessaly pattern (acceleration vs long baseline)  
+5. Transportation archive — Volkova / Sten folio  
+6. Command deck — day ten overlay; generations explained; *Keep listening*
+
+### Editorial pass (locked inventory)
+
+**Dominion**
+- **Tea** — Stratimirov plain; no tea theater
+- **Thirty** — deeper comparison, not action threshold for illumination
+- **Vex** — clear of blame; Science lead disappeared; rebuild when bench holds; cloak imperfect under passive; hull not Dominion / not **Peligar**
+- **Yenin** — active search would find *Iron Harrow* faster; survivor who/what
+- **Sorokin** — dry domestic humor; Grandmother sacrifice expanded; plaque story once (not retold); work **slate** not pager; **lattice** = ventral-frame piece, not whole hull
+- **Sten** — archivist with folio (not Dominion Kevin / tea cart)
+- **K-17 spine** — Dominion only; never *seven-alpha* in Dominion POV
+
+**Fleet / inference limits**
+- Throughput / plate / hull sections — **no fleet-number estimates** from watch
+- Layering dated **relative to itself**, not Fleet survey calendars
+- Cut restated *Passive only / No Fleet relay / No illumination* → standing orders hold
+- Reyes generations = road dug twice (thermal/geometry/spacing); *Dumbass*; Calder smiles
+- Halden: years stacked, not crash; no brief-prepared-us claim; hedge decades
+- Thessaly: already at this / preparation long baseline; traffic climb after entry separate
+- Spatial **sector** not volume (where spatial)
+
+**Close**
+- Crash build vs already at this → preparation long baseline
+- *Keep listening*; faint return unrelayed
+
+### End state
+
+Fleet: long-baseline preparation working theory; observe continues. Dominion: thirty held; passive collect; Vex rebuild path. Ch. 14 **LOCKED** — inheritance / chart recognition complete.
+
+---
+
+## Chapter 14 — Inheritance
+
+**Prose title:** *Inheritance*  
+**File:** `../Chapters/chapter_14.md`  
+**Status:** **LOCKED FINAL** (3,817 words) — editorial pass complete **2026-07-12**; **no further edits** unless author unlocks  
+**State log:** `../State/chapter_14_state_log.md`  
+**Generation doctrine:** `act3_chapters_9-16_generation.md`
+
+### Purpose
+
+Intergenerational continuity on Dominion side; Fleet recognizes chart/doctrine error — Edition 143 empty frontier vs sector already running. Inheritance as habit (memorial, weld, academy), not Fleet taxonomy.
+
+### Scene order (on page)
+
+1. Frontier Command Academy — Vex teaching; gap lesson; peace/readiness; Petrov nod  
+2. Wardroom (day eleven) — doctrine vs returns; Calder *not trained to meet another civilization*; *keep listening*; Walsh waiver  
+3. K-17 memorial — Kovat / Nika; local wall vs parade; inheritance as showing up; K-17 persistent return  
+4. Chart room — MAPS overlay; survey edge on Fleet maps only; ignorance not defiance; Thessaly wrong-first-question; Calder trust; comparison packet  
+5. Kessik-Outer workshop — Sorokin / Lina; *habit outlives the weld*  
+6. Command deck (day twelve) — *history inside them*; Fleet empty-chart framing; observations first; *keep listening*; Park archive
+
+### Editorial pass (locked inventory)
+
+**Dominion**
+- **Vex academy** — suspension; bench rebuild; gap/coverage lesson; reputation without trial command
+- **Kovat memorial** — plain dialogue (parade vs rain wall; sacrifice/conquest; showing up); K-17 return *won't stay off the board*
+- **Sorokin workshop** — lattice practice joint; weld/habit chain; festival permits on corridor
+
+**Fleet / chart room**
+- **Edition 143** — empty frontier vs eleven days observed traffic (spines, berths, commute windows)
+- **Survey edge** — Fleet maps only; other side unaware of UFA / edge (not ignoring)
+- **Calder geography** — leaves chart room to alcove; single entrance; *good work, Mira* / *good commander* trust
+- **Thessaly** — wrong-first-question beat; upstream contact stamp warning; comparison packet observation terms only
+- **Command close** — no breakaway/shared-heritage inference; *already there* vs discovery doctrine
+- Cut **second pass** sensor jargon; reduce **lanes** overuse in chart-room speech
+- **No Dominion name** in Fleet POV; standing orders / *keep listening*
+
+**Close**
+- Observations first; build picture for Fleet review; Park separate archive thread
+- Segment seven **day twelve** late watch
+
+### End state
+
+Fleet: occupied sector recognized internally; comparison packet building; resist upstream *contact* flattening. Dominion: continuity culture on page; Kovat passive preferred. Ch. 15 **LOCKED FINAL** — departure / enough-picture complete.
+
+---
+
+## Chapter 15 — The Point of No Return
+
+**Prose title:** *The Point of No Return*  
+**File:** `../Chapters/chapter_15.md`  
+**Status:** **LOCKED FINAL** (3,742 words) — editorial pass complete **2026-07-12**; **no further edits** unless author unlocks  
+**State log:** `../State/chapter_15_state_log.md`  
+**Generation doctrine:** `act3_chapters_9-16_generation.md`
+
+### Purpose
+
+Enough picture → departure. Fleet commits to home with a report Helion cannot flatten to anomaly. Dominion expands quiet listening (thirty-one) without illumination. Vex watches the gap as observer.
+
+### Scene order (on page)
+
+1. Strategic Security — thirty-one; expanded passive; no illumination; Yenin shut down  
+2. Wardroom debate (day thirteen) — stay vs leave; Walsh; Brenner; decision deferred  
+3. Kovat garden — Pelka/Nika; expanded K-17 ack  
+4. Wardroom report — create own header; time-lapse draft; civilization header + lags  
+5. Kessik observation — Vex; listening; reinstatement deferred  
+6. Command decision (day fourteen) — walk ship; *We have enough*; course for home morning
+
+### Editorial pass (locked inventory)
+
+**Dominion**
+- **Thirty-one** — absurd accumulation; investigate wider, no chase / no illumination
+- **Yenin** — Political Liaison; counts not Council story
+- **Kovat garden** — busy; expanded observation ack; festival week holds
+- **Vex watch** — observer; out there / listening (not *crossed*); no whisper-class; reinstatement when bench exceeds requirement / field must maintain
+
+**Fleet**
+- **Debate** — refinement vs discovery; exposure clocks; Park archive risk; Walsh courtesy-not-welcome
+- **Report** — paper for Helion markup; approved headers fail; *Structured civilization beyond Fleet survey assumptions*; observation terms; lags appendix
+- **Decision** — no station roster dump; no live Holt (transmit closed); *We have enough*; departure morning; segment five clearance before Fleet relay
+- **No Dominion name** in Fleet POV
+
+**Close**
+- Segment seven **day fourteen**; one more night; course for home ordered
+
+### End state
+
+Departure ordered morning; report header locked; Dominion expanded passive listen. Ch. 16 opens homeward transit / Fleet-space return.
+
+**Act III ends (book arc):** Structured opposing civilization confirmed operationally; border intelligence arc complete; Ch. 17 opens Fleet doctrine arc.
 
 ---
 

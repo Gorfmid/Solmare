@@ -6,6 +6,7 @@ Reusable character profiles for The Solmare Cycle.
 
 | Folder | Contents |
 |--------|----------|
+| `Encyclopedia/` | **Character Encyclopedia** — index + master knowledge file for all recurring cast |
 | `Primary_Crew/` | Senior officers, ensemble design, crew culture |
 | `Support_Crew/` | Recurring enlisted and department heads |
 | `Recurring/` | Kevin (environmental liaison, Ch. 7+), Maris Chen (Ch. 1), **Lisette Venn / The Cardamom Oven (Ch. 1+; Priya Sharma assistant)**, **Dana Holt / Amara Lin (Ch. 6–7 watchpost)**, **Fleet Command: Rowan / Sato / Mercer (Ch. 7+)**, and other recurring figures |

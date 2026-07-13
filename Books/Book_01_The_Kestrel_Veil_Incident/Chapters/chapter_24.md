@@ -49,13 +49,13 @@ Thessaly read over his shoulder without commenting until he reached the inferenc
 - Structured message received: identification fields, navigation state, observation status flag; no weapons metadata; no pursuit metadata; no demand structure
 - Structured reply sent: equivalent acknowledgment under observation status; no illumination; no pursuit
 - No hostile action during contact window
-- Occupied volume traffic reorganized along filed corridor prior to visibility event; passive shift only; comms empty until structured exchange
+- Occupied sector traffic reorganized along filed corridor prior to visibility event; passive shift only; comms empty until structured exchange
 
 **INFERRED**
 
 - Structured civilization with advanced capability
 - Intentional restraint during approach and exchange
-- Crew complement estimate (Ortega volume model against Fleet capital scaling): approximately fifty thousand to seventy thousand if standard manning density applies—not a head count
+- Crew complement estimate (Ortega density model against Fleet capital scaling): approximately fifty thousand to seventy thousand if standard manning density applies—not a head count
 - Familiarity with identification-exchange architecture—not Fleet language, compatible with Fleet protocol stacks; older variant
 
 **UNKNOWN**
@@ -161,7 +161,7 @@ She turned past Marsten's debris-field entry. Past Voss's reactor alarm. Past he
 
 She wrote:
 
-*Alpha Seven — occupied volume.*
+*Alpha Seven — occupied sector.*
 
 *Kestrel Veil entered under amended mission authority.*
 
@@ -248,7 +248,7 @@ The *Kestrel Veil* and her crew were going home. They carried a record nobody ha
 ***KESTREL VEIL — FRINGE RELAY LEG***  
 *UNRESOLVED RETURN*
 
-Forty hours out of Alpha Seven, Ortega saw it on passive first—a single energy release in the volume behind them. Possible discharge. One event. No second mass lock. No pursuit signature.
+Forty hours out of Alpha Seven, Ortega saw it on passive first—a single energy release in the sector behind them. Possible discharge. One event. No second mass lock. No pursuit signature.
 
 She called the chair.
 
@@ -280,7 +280,7 @@ Ortega ran the sweep. "Nothing on passive at that bearing. Signal only."
 
 Calder said, "The flash?"
 
-"Not correlated. Different bearing. Same volume. I do not know who fired. I do not know why."
+"Not correlated. Different bearing. Same sector. I do not know who fired. I do not know why."
 
 Park said, "File it?"
 

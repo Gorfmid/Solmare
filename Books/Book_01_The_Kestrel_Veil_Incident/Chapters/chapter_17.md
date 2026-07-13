@@ -22,7 +22,7 @@ Welcome home.
 
 The phrase arrived without ceremony. Calder had heard it on postings that ended in court-martial reviews and on postings that ended in commendations filed in drawers. Fleet manners. No additional data in the transmission.
 
-Tomás Brenner at helm: "Lane crossing in six. Traffic profile nominal for corridor."
+"Lane crossing in six," Tomás Brenner said at helm. "Traffic profile nominal for corridor."
 
 "Same tolerance band, some days."
 
@@ -50,11 +50,11 @@ Yuki Tanaka ran emitter discipline checks against an open sky with no masking be
 
 Ortega filed the homeward archive separate. "Segment seven remains in separate custody pending department review."
 
-Thessaly read the header on her secondary pane. Segment seven remained under amended mission language: *degraded auxiliary corridor, drift-affected volume, reduced instrumentation tolerance.* No reclassification on the slate.
+Thessaly read the header on her secondary pane. Segment seven remained under amended mission language: *degraded auxiliary corridor, drift-affected sector, reduced instrumentation tolerance.* No reclassification on the slate.
 
 "File to separate custody," Calder said. "No upstream consolidation until custody clears."
 
-Ortega: "Copied."
+"Copied," Ortega said.
 
 Nobody on approach control asked what he had seen.
 
@@ -62,7 +62,9 @@ They asked for registry, damage profile, berthing preference, and whether medica
 
 "Berth fourteen-C," Calder said. "Medical meets crew at yard intake. Park holds archives until Communications clears custody."
 
-Jun Park did not look up from his board. "Copied. Custody hold active." Mira Thessaly, aft of command: "Bundle stays sealed until pickup handshake completes. Executive summary goes to Fleet Operations when they clear custody."
+Jun Park did not look up from his board. "Copied. Custody hold active."
+
+"Bundle stays sealed until pickup handshake completes," Mira Thessaly said from aft of command. "Executive summary goes to Fleet Operations when they clear custody."
 
 Calder nodded. Intake queue ahead. Routing status only; no sentiment recorded.
 
@@ -163,7 +165,7 @@ Engineering data went to Yard Certification and Logistics: correction-thruster c
 
 Communications data went to Holt’s chain validation: relay times, separate lanes, destruction assessment correction history.
 
-Historical comparisons remained at Ellis’s desk: frontier provisional volumes, Founders’ Week origin maps, prior survey epochs that marked segment seven low activity.
+Historical comparisons remained at Ellis’s desk: frontier provisional sectors, Founders’ Week origin maps, prior survey epochs that marked segment seven low activity.
 
 Ellis watched a Cartography courier step up to her sorting desk, accept the navigation data, and split off the executive summary to a Bureau intern. An Engineering petty officer collected damage schematics for yard certification.
 

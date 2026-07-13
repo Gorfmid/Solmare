@@ -27,7 +27,7 @@ Shared Solmare canon: cosmology, factions, technology, geography, and observatio
 | `Maps/` | Sectors, Solmare Quadrant geography, **`Maps/ufa_galactic_reference_guide.md`** (UFA seven-segment chart bible) |
 | `Fleet/` | Unified Fleet Authority, inter-faction relations |
 | `The_Dominion/` | Primary opposing civilization — worldview, doctrine, society |
-| `Technology/` | Ship classes, sensors, relays |
+| `Technology/` | **[`Technology/Technology_Bible.md`](Technology/Technology_Bible.md)** — complete tech bible; scout-class; sensors/relays index |
 | `Observation_Doctrine/` | Anomaly stages, dual-truth rules |
 | `Fold/`, `Library/`, `Interior_Mandate/`, `KISC_KISU/`, `Civilian_Factions/`, `Timeline/` | Topic indexes (see each folder README) |
 

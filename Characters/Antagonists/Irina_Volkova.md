@@ -38,7 +38,7 @@ Dominion Thread — civilian logistics, not military command. Shows how **normal
 
 ## CH. 12 CANON
 
-- 0.7–0.8% route balance variance on seven-alpha; model wobble after nine years
+- 0.7–0.8% route balance variance on **K-17 spine**; model wobble after nine years
 - *Geometry always tells the truth* — watches, does not file yet
 - Cross-check with K-17 comparison chain
 

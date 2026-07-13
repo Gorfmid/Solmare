@@ -10,10 +10,21 @@ Solmare is the shared universe and production system for **The Solmare Cycle**.
 | Book Two | TBA | — |
 | Book Three | TBA | — |
 
+## Local wiki
+
+Browse the whole project in a browser (organized nav, Markdown rendering, search):
+
+```powershell
+.\Wiki\serve_tcp.ps1
+```
+
+Then open **http://127.0.0.1:8765/Wiki/** — see `Wiki/README.md`.
+
 ## Repository layout
 
 | Path | Purpose |
 |------|---------|
+| `Wiki/` | Local browser wiki for canon, books, notes |
 | `Universe/` | Shared canon — Fleet Authority, Dominion, cosmology, technology |
 | `Characters/` | Crew profiles, antagonists, relationship matrix |
 | `Writing_System/` | Style guides, generation rules, orchestrator |

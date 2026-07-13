@@ -31,7 +31,7 @@ She let the passive picture rebuild one sweep. Traffic density unchanged on the 
 
 Thessaly did not ask for clarification. Park closed the archive pane he had been reviewing. Brenner kept correction thrust steady and listened.
 
-Ortega routed the comparison stack to the rail display—two passive windows, six minutes apart, same volume, different geometry.
+Ortega routed the comparison stack to the rail display—two passive windows, six minutes apart, same sector, different geometry.
 
 "Commuter cadence held," she said. "Then it didn't. Background returns reorganized along our corridor line. Not closure. Not pursuit pattern. Spacing adjusted—like something moved traffic aside without broadcasting."
 
@@ -62,7 +62,7 @@ Commander Vex received the same reorganization report from Klimov's watch twelve
 
 Major Petrov on the comms inset asked, "Meaning?"
 
-Vex pulled the traffic overlay. Background activity in V17 had shifted—not hidden, rerouted. Civilian throughput held on the spines. Peripheral returns thinned along the scout's filed path as if volume had been instructed to make room.
+Vex pulled the traffic overlay. Background activity in V17 had shifted—not hidden, rerouted. Civilian throughput held on the spines. Peripheral returns thinned along the scout's filed path as if the sector had been instructed to make room.
 
 "It did not react as expected," Vex said.
 
@@ -74,7 +74,7 @@ The scout had done none of those.
 
 The Iron Harrow trial archive still carried the initial engagement result: *contact destroyed*—discharge on bearing, scatter filed as a kill. The concealment trial had read as successful. Border nodes had logged quieter traces questioning that record for months. Low confidence. Never confirmed. Vex had no reconciliation for a hull the file had removed.
 
-Now it was inside V17 again—emissions down, illumination held. When the volume around it adjusted, it had not accelerated. It had not lit weapons. It had not fled.
+Now it was inside V17 again—emissions down, illumination held. When the sector around it adjusted, it had not accelerated. It had not lit weapons. It had not fled.
 
 "It withdrew," Vex said. "It studied. It returned."
 
@@ -387,7 +387,7 @@ Thessaly logged the contact event. Observed. Acknowledged. Intent unresolved.
 
 Calder did not leave the chair.
 
-Ahead on the plot, occupied volume held the corridor around them—traffic rerouted, passive returns organized, a silhouette-scale contact visible because it had chosen to be visible.
+Ahead on the plot, occupied sector held the corridor around them—traffic rerouted, passive returns organized, a silhouette-scale contact visible because it had chosen to be visible.
 
 The first exchange had succeeded.
 

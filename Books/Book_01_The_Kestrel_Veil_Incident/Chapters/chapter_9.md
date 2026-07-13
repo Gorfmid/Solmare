@@ -49,13 +49,13 @@ Vex: "Discharge confirmed on resolved bearing. Post-event scatter consistent wit
 
 "And yet."
 
-Petrov glanced at his slate. "Sir—"
+Petrov glanced at his slate. "Sir-"
 
 Stratimirov raised one finger. Petrov stopped.
 
 Vex waited. He was good at waiting. Commanders entrusted with Leviathan-class trials were selected for judgment first, temperament second, and the discipline to let silence remain useful.
 
-"After withdrawal, our sensors detected a low-power transmission inconsistent with debris," Stratimirov said. "It wasn't a distress call. It wasn't Fleet command traffic. Whatever it was, someone was still transmitting."
+"After withdrawal, your sensors detected a low-power transmission inconsistent with debris," Stratimirov said. "It wasn't a distress call. It wasn't Fleet command traffic. Whatever it was, someone was still transmitting."
 
 Silence.
 
@@ -75,7 +75,7 @@ Petrov did not perform it. He recited. "Envelope collapse within modeled toleran
 
 Stratimirov removed his gloves—black dress, fingerless lining—and set them beside the photograph. "Science Directorate measures performance. I measure outcomes. A scout detected us. File that with your metrics."
 
-Colonel Yenin from Political Liaison sat against the far wall and did not speak. Political Liaison did not speak in this room unless invited. That was how Stratimirov kept them useful instead of theatrical.
+Colonel Yenin from Political Liaison sat against the far wall and did not speak. A political Liaison did not speak in this room unless invited. That was how Stratimirov kept them useful instead of theatrical.
 
 Failure did not require raised voices or hollow threats. The Directorate had no need for either. Failure was investigated, documented, assigned, and remembered. Sometimes the consequence was a relieved command. Sometimes a prison cell. Sometimes an officer simply stopped appearing in official photographs. The paperwork merely recorded the outcome. Vex knew it. Stratimirov could see him measuring those possibilities already.
 
@@ -163,7 +163,7 @@ Petrov: "Understood, sir."
 
 By the time segment six began, VI-Gamma had been behind them long enough that no one mentioned the station anymore.
 
-The *Veil* had undocked on correction thrusters and kept moving. Park had watched warm range count down and the relay voice drop on the next confirm cycle—Fleet contact gone, local board only, upstream no longer answering. Thessaly had posted running dark without naming it. Boots soft. Voices low. Passive only. No one had needed to say the rest.
+The *Veil* had undocked on correction thrusters and kept moving. Park had watched warm range count down and the relay voice drop on the next confirm cycle—Fleet contact gone, local board only, upstream no longer answering. Thessaly had posted that the veil was running dark. Boots soft. Voices low. Passive only. No one had needed to say the rest.
 
 Hours of passage followed. Manual bearing checks. Sweeps that returned nothing worth calling an event. The approach edge had fallen astern during segment five. The corridor ahead remained empty on Fleet charts and uneventful on passive sensors.
 
@@ -343,7 +343,7 @@ Empty was never empty. Empty was noise floor, calibration drift, the slow turn o
 
 Shift four was routine.
 
-Coffee from the commons pot—too bitter, shared anyway. Warrant Master Selim read a novel on a slate with the cover turned away; fiction was permitted on watch, not encouraged. Two junior operators traded a crossword in low voices. Excitement was contagious. Contagion was bad for discipline.
+Tea from the commons pot—shared anyway. Warrant Master Selim read a novel on a slate with the cover turned away; fiction was permitted on watch, not encouraged. Two junior operators traded a crossword in low voices. Excitement was contagious. Contagion was bad for discipline.
 
 The node was cold the way border installations were cold—not uncomfortable, engineered for alertness. Kovat's chair had a crease worn into the left armrest where eleven years of elbows had rested. Selim's grandfather had served on K-12. The wall plaque still listed three names from a border incident forty years ago. Procedures had been revised afterward. The lesson had not. Brass outlasted the officers who walked past it.
 
@@ -351,7 +351,7 @@ A scrap of green sat on the console ledge—something hardy from the commons exc
 
 Thinking about it did not improve the sweep.
 
-Kovat ran the passive sweep because the sweep always ran.
+Kovat looked at the passive sweep because the sweep always ran.
 
 Segment alpha—clear.
 
@@ -399,19 +399,17 @@ Kovat knew what he meant.
 
 Not coordinates alone. Corridor context.
 
-The contact sat on the K-17 watch corridor—outside the routine traffic pattern for the cycle. Nothing in recent observations accounted for a low-power return on correction thrust.
+The contact sat on the K-17 watch corridor—outside the routine traffic pattern for the cycle. Nothing in recent observations accounted for a low-power return..
 
 "Scout profile," Selim said. Not a question.
 
 "Possible," Kovat said. "Damaged. Scout-sized return. Light displacement. Not confirmed."
 
-"Continue track. No active ping. No escalation without Directorate channel."
-
 "Yes, Warrant Master."
 
 Selim returned to his chair. He did not read the novel again.
 
-He poured coffee he did not drink and watched the bearing plot age in thirty-second increments.
+He poured tea and watched the bearing plot age in thirty-second increments.
 
 Kovat watched the faint return hold on her board—professional, fragile, real.
 
@@ -473,20 +471,16 @@ Thessaly appeared at Calder's shoulder without announcement. That was her versio
 
 "Observe." He straightened. Looked around the deck—Park, Reyes, Ortega, Halden, the crew that had survived the Incident and still showed up to their stations because showing up was the job.
 
-He thought of Rowan's *no rescue guarantee* and Cho's six-hour margin—enough to patch, not enough to pretend.
-
 The Neutral Zone had not been empty. It had simply belonged to someone else Fleet charts would not name.
 
 Calder said it quietly because quiet was doctrine and because the words deserved accuracy more than volume.
 
 "We're not exploring."
 
-Pause.
 
 The scrubbers cycled. Reing 3 flickered once. Brenner did not comment on intercom.
 
 "We're trespassing."
-
 No one answered.
 
 Reyes looked back at the charts. Park's hand tightened on the communications console rim.

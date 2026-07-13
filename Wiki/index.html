@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Solmare Wiki</title>
+  <link rel="stylesheet" href="styles.css" />
+  <link rel="preconnect" href="https://cdn.jsdelivr.net" />
+</head>
+<body>
+  <div id="app">
+    <aside id="sidebar">
+      <div class="brand">
+        <a href="#/" id="home-link">
+          <span class="brand-mark">SOLMARE</span>
+          <span class="brand-sub">Series Wiki</span>
+        </a>
+      </div>
+      <div class="search-wrap">
+        <input type="search" id="search" placeholder="Search files…" autocomplete="off" />
+      </div>
+      <nav id="nav" aria-label="Primary"></nav>
+      <footer class="sidebar-foot">
+        <button type="button" id="btn-browse" class="ghost">Browse all files</button>
+        <p class="hint">Local reference · not published prose</p>
+      </footer>
+    </aside>
+
+    <main id="main">
+      <header id="crumb-bar">
+        <div id="crumbs"></div>
+        <div class="actions">
+          <a id="open-raw" class="ghost" href="#" target="_blank" rel="noopener" hidden>Open raw</a>
+        </div>
+      </header>
+      <article id="content" class="prose">
+        <p class="loading">Loading…</p>
+      </article>
+    </main>
+  </div>
+
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+  <script src="nav-data.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

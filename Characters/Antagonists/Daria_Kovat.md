@@ -10,7 +10,7 @@
 
 **Pillar:** Border security, ordinary duty, family life, watchfulness.
 
-Working-professional Dominion Thread — not command. Shows border as **always watched**; faint passive contact on seven-alpha corridor (*Kestrel Veil*).
+Working-professional Dominion Thread — not command. Shows border as **always watched**; faint passive contact on **K-17 spine** (*Kestrel Veil*).
 
 ---
 
@@ -25,7 +25,7 @@ Working-professional Dominion Thread — not command. Shows border as **always w
 ## CH. 9 CANON
 
 - Routine shift until passive contact — unclassified profile, whisper-class fraction inferred
-- Files report exactly; no adjectives; Selim notes seven-alpha corridor significance
+- Files report exactly; no adjectives; Selim notes K-17 spine / border approach significance
 - Continue track; no active ping; no escalation without Directorate channel
 
 ## CH. 10 CANON
@@ -39,7 +39,7 @@ Working-professional Dominion Thread — not command. Shows border as **always w
 
 ## CH. 12 CANON
 
-- Seven-day passive contact review; persistent return on seven-alpha (4–5 windows)
+- Seven-day passive contact review; persistent return on K-17 spine (4–5 windows)
 - Equipment checked; *continue observation*; misses dinner with Nika
 - Correlates with Transportation variance flag
 

@@ -35,4 +35,6 @@ Also load for context:
 
 Respect which acts/chapters the user has declared locked. Edit only what the user requests.
 
-**LOCKED FINAL (no further edits — remind author if edit suggested):** Ch. 1 (*The Empire*), Ch. 2 (*A Captain's Dream*), Ch. 4 (*Routine Patrol*). Ch. 1–2 re-locked **2026-07-09** (Adrian Reyes rename); Ch. 4 editorial pass complete **2026-07-08**.
+For the **Ch. 13+ hard checklist** (colon tags, *file* density, beverage clocks, Claude 4.6), use trigger **"final edit pass on chapter X"** → `Writing_System/Style_Guide/chapter_final_edit_pass.md` and `.cursor/rules/chapter-final-edit-pass.mdc`.
+
+**LOCKED FINAL (no further edits — remind author if edit suggested):** Ch. 1 (*The Empire*), Ch. 2 (*A Captain's Dream*), Ch. 4 (*Routine Patrol*). Ch. 1–2 re-locked **2026-07-09** (Adrian Reyes rename); Ch. 4 editorial pass complete **2026-07-08**. Also check `Act_Outlines/chapter_list.md` for current Act III locks (Ch. 9–14+).

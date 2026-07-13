@@ -4,6 +4,8 @@
 
 **Canonical template for prose polish on locked manuscript chapters.**
 
+**For Act III+ hard checklist (colon tags, *file* density, tea/coffee clocks, Claude 4.6):** see `chapter_final_edit_pass.md` — trigger *Final edit pass on Chapter X*.
+
 ---
 
 ## Scope

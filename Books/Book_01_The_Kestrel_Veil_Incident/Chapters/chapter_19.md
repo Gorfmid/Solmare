@@ -96,7 +96,7 @@ Calder said, "Decloak on resolved bearing at Kestran Spiral immediately before d
 
 Rowan said, "What did you not see?"
 
-"We did not see upstream emissions during segment seven. We did not see a task-force contact profile. We did not see empty volume."
+"We did not see upstream emissions during segment seven. We did not see a task-force contact profile. We did not see empty sector."
 
 "First contact?"
 
@@ -196,7 +196,7 @@ Mercer said, "Hostile classification from harmonics?"
 
 Ahn said, "Training expectations versus observation?"
 
-"Our training prepared us to hear threat patterns in unknown volume," Ortega said. "The signals didn't match those expectations. They sounded busy, not empty, so I logged the discrepancy."
+"Our training prepared us to hear threat patterns in unknown sector," Ortega said. "The signals didn't match those expectations. They sounded busy, not empty, so I logged the discrepancy."
 
 Rowan nodded once and let the testimony stand.
 
@@ -230,7 +230,7 @@ Tomás Brenner — ship condition.
 
 Brenner had come from berth fourteen-C in yard coveralls with a mission patch on his cuff—unofficial trade, respect currency. He smelled like solvent.
 
-"Auxiliary thrust held throughout passive operations," he said. "Reing 3 wasn't pretty, but it stayed inside Koss's certified margins. Vibration shifted as we crossed the volume and handshake lag crept up under hold, but the ship stayed controllable. Departure was clean—no pursuit on egress."
+"Auxiliary thrust held throughout passive operations," he said. "Reing 3 wasn't pretty, but it stayed inside Koss's certified margins. Vibration shifted as we crossed the sector and handshake lag crept up under hold, but the ship stayed controllable. Departure was clean—no pursuit on egress."
 
 He shifted weight. "Corridor C kick still works. Starboard dent. Yellow tape, not structural. Crew sleep debt—not in annex. In the ship."
 
