@@ -1,7 +1,7 @@
 ﻿# THE KESTREL VEIL INCIDENT — BOOK OVERVIEW
 
 **Series:** The Solmare Cycle · Book One  
-**Status:** **BOOK ONE LOCKED** — manuscript Ch. 1–24, epilogue, appendix. See `Act_Outlines/chapter_list.md`.
+**Status:** Acts I–III **LOCKED FINAL** · Act IV: Ch. 17–23 **LOCKED FINAL** · Ch. 24 **DRAFT** — final edit pending. See `Act_Outlines/chapter_list.md` · `Notes/REWRITE_STATUS.md`.
 
 **Style authority:** `Writing_System/Style_Guide/global_writing_principles.md`  
 **Craft doctrine:** `Writing_System/Style_Guide/solmare_craft_doctrine.md`  

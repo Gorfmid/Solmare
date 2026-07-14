@@ -2,8 +2,6 @@
 
 **Trigger phrases:** *Final edit pass on Chapter X* · *Apply final edit to Chapter X* · *Ch. X final pass*
 
-**Model (required):** **Claude 4.6** — in Cursor use `claude-4.6-sonnet-medium-thinking` (or the latest Claude 4.6 Sonnet available). Do **not** run this pass on a weaker/faster model.
-
 **Canonical companion:** `Writing_System/Style_Guide/chapter_editing_pass.md` (general polish). This template is the **Ch. 13+ hard checklist** from line-by-line editorial work — use both.
 
 **Scope:** Prose polish only. **Not a rewrite.** Do not change plot, pacing, scene order, reveals, or arcs. Respect **LOCKED FINAL** chapters unless the author unlocks.
@@ -12,6 +10,8 @@
 - This template
 - `Writing_System/Style_Guide/chapter_editing_pass.md`
 - Book One `State/current_state.md` + prior chapter state log
+- **LOCKED FINAL** prior chapters (and their state logs) for any fact, name, custody chain, classification, or order this chapter restates
+- Book One canon as needed: `Notes/book1_core_premise.md`, `Act_Outlines/chapter_list.md`, relevant `Universe/` and `Characters/` docs
 - `Universe/cultural_touchstones.md` (tea/coffee; holiday names)
 - For Dominion scenes: `Universe/The_Dominion/dominion_worldview.md` + speech/visual docs as needed
 
@@ -19,10 +19,10 @@
 
 ## How to run
 
-1. Switch chat/agent to **Claude 4.6**.
-2. Open the chapter file.
-3. Say: **Final edit pass on Chapter N** (or paste this template).
-4. Work **section by section** (or line-by-line if the author is mid-polish). Prefer small surgical edits over sweeping rewrites.
+1. Open the chapter file.
+2. Say: **Final edit pass on Chapter N** (or paste this template).
+3. Work **section by section** (or line-by-line if the author is mid-polish). Prefer small surgical edits over sweeping rewrites.
+4. Before accepting institutional or continuity-sensitive lines, verify against **LOCKED FINAL** prior text and Book One canon (§15).
 5. After the pass, deliver the **report** at the bottom of this doc.
 6. When the author locks: add `<!-- LOCKED FINAL · YYYY-MM-DD -->`, update `chapter_list.md`, state log, `current_state.md`, `REWRITE_STATUS.md`.
 
@@ -87,10 +87,13 @@ Do not stamp every institutional action with *file*.
 | Overused | Prefer (vary) |
 |----------|----------------|
 | File exactly | Record it exactly / Log it as written / No adjustments |
-| filed persistent return | logged persistent return |
-| filed a note | added a note / noted |
+| File status change / File Standing Observation | Report the status change / Report Standing Observation as… |
+| filed persistent return | logged persistent return / reported |
+| filed a note | added a note / noted / reported |
 | filing as artifact | treating as artifact |
 | margin *file exactly* | *log exactly* |
+
+**Imperative *File* as institutional stamp:** Prefer **report**, **log**, **record**, or **note** — especially for status changes, classifications, and summary actions (`File Standing Observation` → `Report Standing Observation`). *File* as a noun for a literal dossier or packet is fine (`opened the file`, `directorate file`).
 
 **Keep** *filed* when it is a specific past bureaucratic act that would sound wrong any other way (e.g. a report filed under suspension). Aim for **few** instances per chapter, not zero.
 
@@ -137,7 +140,29 @@ Vary with: *would not stay off the board*, *refuses to retract*, *refused to die
 
 ---
 
-### 7a. *Signing* in craft / institutional contexts
+### 7a. *Passive* as modifier
+
+**Sweep for `\bpassive\b`** — cut unless the word is doing specific work.
+
+**Cut when** the method is already established by context:
+
+| Weak | Prefer |
+|------|--------|
+| passive strips | correlation strips / listen strips |
+| observed through passive listening | observed in transit / observed on the crossing |
+| passive scan | scan (if no active/passive contrast needed) |
+
+**Keep when** the word carries a distinction the sentence needs:
+
+- Explicit contrast with active: `passive lock` · `passive return` · `scout return on passive` · `no active emissions on the approach vector`
+- Formal doctrine / report language: `passive posture maintained` · `passive archives`
+- Specific data-package identification: `passive harmonics` · `passive archive thumbnails`
+
+**Search:** `\bpassive\b`
+
+---
+
+### 7b. *Signing* in craft / institutional contexts
 
 **Avoid** *signing* when the action is physical craft or bureaucratic approval and the verb reads as odd:
 
@@ -181,6 +206,24 @@ When expanding passive policy, explain **why** (don’t light the corridor; comp
 | **hull** / hull sections | vague “the lattice” for ship |
 | Edition 143 / survey edge / frontier provisional | mapping-as-ownership lectures |
 | lanes (sparingly) | “lanes” as default for all traffic — prefer spines, berths, commute windows, traffic, corridor |
+| **unsurveyed frontier sector** / **Fleet's charts** / **Fleet's survey records** | **epoch** / **epoch notation** / **epoch shading** — replace with plain-language equivalent of what the charts showed or failed to show |
+| **Edition 143 public map** / **marked provisional** / **provisional marking** | **frontier shading** / **public shading** / **shaded provisional** — prefer plain map language; keep named Edition 143 when the character is actually revising or comparing that edition |
+| **make contact** / **open contact** | **handshake** — keep in formal doctrine/custody language only; prefer plain synonym in general prose |
+| **report** / **records** / **the report** | **annex** / **annexes** in general prose — *annex* is acceptable as a specific formal label (e.g. *thermal annex*, *fuel annex*) but avoid as a vague substitute for report, records, or sector |
+
+**Reing propulsion lock (do not conflate):**
+
+| Term | What it is |
+|------|------------|
+| **Main engines** / main drive | Primary propulsion (often damaged / offline pending yard certification) |
+| **Correction thrust** / correction thrusters | Low-power transit / helm — not the main drive |
+| **Reing 1–5** | Ship **system / power rings** (Reing spires on the schematic) — distribution architecture under load |
+| **Reing 3** | Midship aux bus — flicker, scrubbers/thermal, life-support/cert load, “coughs,” lag under stress. **Not** engines. **Not** correction thrust. |
+
+**Wrong:** writing as if Reing 3 *is* the engines, or as if correction-thrust-only transit = “running on Reing 3.”
+**Right:** mains offline; ship on correction thrust; Reing 3 (or another ring) holds / lags / coughs as the bus under that load.
+
+**Search:** `Reing 3` · `Reing` near `engine` / `thrust` / `propulsion` / `drive` — fix any synonym mash.
 
 ---
 
@@ -225,6 +268,25 @@ End on work continuing — packet opened, watch held, archive tagged, departure 
 
 ---
 
+### 15. Consistency with prior chapters and Book One canon
+
+Final edit is not only prose polish. **Text must remain consistent with previous chapters and Book One canon.**
+
+**Check before keeping or inventing:**
+- Character names, ranks, roles, and who holds which duty (e.g. separate archive lane = Park/Holt custody, not a reassigned owner)
+- Orders, mission headers, classification stamps, and custody language already established in **LOCKED FINAL** chapters
+- Timeline, location, and what the POV character is allowed to know (Fleet naming limits, discovery gates)
+- Ship state, damage, propulsion, and repair status — do not resurrect closed windows or contradict certified returns
+- Terminology locks and institutional vocabulary already used in prior locked text
+
+**Prefer** matching the locked phrasing or cutting the beat over inventing a new bureaucratic label that fights prior chapters.
+
+**When draft and canon conflict:** correct the draft to match **LOCKED FINAL** / Book One canon. Do not “smooth” by rewriting locked history. Flag irresolvable conflicts in the report instead of guessing.
+
+**Load for this check:** prior **LOCKED FINAL** chapter files + state logs · `State/current_state.md` · `Act_Outlines/chapter_list.md` · `Notes/book1_core_premise.md` · relevant Universe/Character docs.
+
+---
+
 ## Suggested search pass (run in chapter)
 
 ```
@@ -239,6 +301,12 @@ nodded once|almost smiled|quietly,
 volume        → (spatial misuse)
 seven-alpha   → (Dominion POV — should be K-17 spine)
 pager
+\bpassive\b   → cut unless contrast/doctrine/data-package needed (§7a)
+\bepoch\b     → replace with plain-language equivalent (what the charts showed or failed to show)
+frontier shading|public shading|shaded provisional → prefer "public map" / "marked provisional"
+\bhandshake\b → prefer "make contact" / "open contact" in general prose; keep in formal doctrine/custody language
+Reing 3|Reing [1-5] → not engines / not correction thrust; keep as power ring / bus under load (§10)
+main engine|correction thrust → check nearby Reing language for conflation
 ```
 
 ---
@@ -255,8 +323,9 @@ pager
 8. Fleet POV naming + inference discipline.
 9. Standing-orders / illumination phrasing.
 10. Semicolon rosters rewritten.
-11. Continuity issues found (room geography, titles, prior-chapter locks).
-12. Sections left unchanged because already stronger.
+11. Continuity / Book One canon (§15): names, custody, classification, orders, ship state, POV knowledge — what was checked against LOCKED FINAL prior chapters; what was corrected or flagged.
+12. **Reing / propulsion lock (§10):** any Reing-as-engines or Reing=correction-thrust conflations fixed; mains / correction thrust / Reing N kept separate.
+13. Sections left unchanged because already stronger.
 
 ---
 

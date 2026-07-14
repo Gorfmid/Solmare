@@ -1,5 +1,7 @@
 # Chapter 16
 
+<!-- LOCKED FINAL · 2026-07-12 · No further edits unless author explicitly unlocks. -->
+
 ## Homeward
 
 ---
@@ -118,7 +120,7 @@ Bring everyone home.
 
 Everything else was secondary.
 
-"Reing 3 handshake nominal. Correction burn steady."
+"Correction burn steady. Reing 3 bus handshake nominal."
 
 "Acknowledged," Calder said.
 
@@ -466,7 +468,7 @@ Halden reported Fleet pickup beacon in range in fourteen hours if they held burn
 
 The *Kestrel Veil* crossed back into Fleet space without announcement.
 
-Park's witness archive still carried one separate lane Holt had not combined—checksum green, classification pending, waiting for Fleet to decide what the returns meant.
+Park's archive still carried one separate lane Holt had not combined—checksum green, classification pending, waiting for Fleet to decide what the returns meant.
 
 ❦
 

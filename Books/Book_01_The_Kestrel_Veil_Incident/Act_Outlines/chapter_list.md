@@ -57,22 +57,22 @@ Full build sequence for `Manuscript/_build/build_manuscript.ps1` — see `Archiv
 | 13 | The Weight of Preparation | `chapter_13.md` | 3,436 | Act III · **LOCKED FINAL** |
 | 14 | Inheritance | `chapter_14.md` | 3,817 | Act III · **LOCKED FINAL** |
 | 15 | The Point of No Return | `chapter_15.md` | 3,742 | Act III · **LOCKED FINAL** |
-| 16 | Homeward | `chapter_16.md` | 2,863 | Act III ends |
-| 17 | The Listening Post | `chapter_17.md` | 2,898 | Act IV opens |
-| 18 | New Words | `chapter_18.md` | 2,365 | Act IV |
+| 16 | Homeward | `chapter_16.md` | 2,632 | Act III ends · **LOCKED FINAL** |
+| 17 | The Listening Post | `chapter_17.md` | 2,841 | Act IV opens · **LOCKED FINAL** |
+| 18 | New Words | `chapter_18.md` | 2,153 | Act IV · **LOCKED FINAL** |
 | — | **FDB-144-DRAFT** | `Archive/archive_03_doctrine_bureau_edition_144_terminology_draft.md` | 101 | After Ch. 18 — Fleet Doctrine Bureau; terminology working draft |
-| 19 | The Witnesses | `chapter_19.md` | 3,307 | Act IV |
-| 20 | The Long Shadow | `chapter_20.md` | 2,166 | Act IV |
-| 21 | The First Doctrine | `chapter_21.md` | 3,912 | Act IV — Contact Doctrine adopted; *Veil* reference hull + contact-prep refit |
-| 22 | The Crossing | `chapter_22.md` | 2,315 | Act IV — Edition 144 crossing; Alpha Seven; Thessaly XO continuity book; *Iron Harrow* / V17 coda; **DRAFT** |
-| 23 | Recognition | `chapter_23.md` | 2,022 | Act IV — behavior anomaly; *Iron Harrow* visibility choice; technical acknowledgment exchange; **DRAFT** |
-| 24 | After Contact | `chapter_24.md` | 1,606 | Act IV ends — post-contact aftermath; fringe relay + unresolved third source; **DRAFT** · **END BOOK ONE** |
+| 19 | The Witnesses | `chapter_19.md` | 2,234 | Act IV · **LOCKED FINAL** |
+| 20 | The Long Shadow | `chapter_20.md` | 2,087 | Act IV · **LOCKED FINAL** |
+| 21 | The First Doctrine | `chapter_21.md` | 3,088 | Act IV · **LOCKED FINAL** |
+| 22 | The Crossing | `chapter_22.md` | 2,308 | Act IV · **LOCKED FINAL** |
+| 23 | Recognition | `chapter_23.md` | 2,105 | Act IV · **LOCKED FINAL** |
+| 24 | After Contact | `chapter_24.md` | 1,606 | Act IV ends · **DRAFT** — post-contact aftermath; fringe relay + unresolved third source · **END BOOK ONE** |
 | — | **Epilogue** | `Chapters/epilogue.md` | 1,212 | *First Day* — Edition 144 + **Required Reading** bookend |
 | — | **Appendix** | `Appendix/book_one_appendix.md` | 2,452 | Fleet Historical Office reference supplement (post–Book One); Appendices A–E |
 
-**Total (publication build):** **90,148 words** (source `Chapters/*.md` + `Archive/`; counts from markdown source files)  
-**Chapters only (1–24):** **88,589 words**  
-**Tracker:** `Notes/REWRITE_STATUS.md` · **Status:** Ch. 1–16 **LOCKED FINAL** (2026-07-12) · Ch. 17–21 + archives **LOCKED** · Ch. 22–24 **DRAFT**
+**Total (publication build):** **87,748 words** (source `Chapters/*.md` + `Archive/`; counts from markdown source files)  
+**Chapters only (1–24):** **86,189 words**  
+**Tracker:** `Notes/REWRITE_STATUS.md` · **Status:** Ch. 1–23 **LOCKED FINAL** (Ch. 23 **2026-07-14**) · Ch. 24 **DRAFT** (final edit pending) · archives / epilogue / appendix separate
 
 **Source of truth:** `Chapters/*.md` (and `Archive/` interludes). Compiled `Manuscript/Act_*.md` and full-book exports are **not** auto-regenerated — rebuild only when author requests (`Manuscript/_build/rebuild_act.ps1` per act, or `build_manuscript.ps1` for publication outputs).
 
@@ -109,16 +109,18 @@ What begins as routine patrol becomes the **Kestrel Veil Incident** — then dis
 
 ## Current Manuscript Status
 
-**BOOK ONE LOCKED** — Prologue · Archive interludes · Ch. 1–24 · Epilogue · Appendix
+**Acts I–III LOCKED FINAL.** Act IV underway — Ch. 17–23 **LOCKED FINAL**; Ch. 24 **DRAFT** (final edit pending).
 
 | Status | Pieces |
 |--------|--------|
-| ✓ **LOCKED** | Prologue, FSA-143-07, FCC-7712, FDB-144-DRAFT, Ch. 1–24, Epilogue, Appendix |
-| ✓ **Editorial** | Global terminology + system-behavior passes applied to `Chapters/` (see below) |
+| ✓ **LOCKED FINAL** | Ch. 1–23 (Acts I–III + Act IV through *Recognition*) |
+| **DRAFT** | Ch. 24 (Act IV — final edit pending) |
+| Separate | Prologue, FSA-143-07, FCC-7712, FDB-144-DRAFT, Epilogue, Appendix |
+| ✓ **Editorial** | Global terminology + system-behavior passes applied to `Chapters/` (see below) — not a substitute for remaining Act IV final edits |
 | ✓ **Illustration** | *Kestrel Veil* schematic — before Ch. 7 (see **Illustrations** below) |
 | Build (on request) | `Manuscript/_build/rebuild_act.ps1` · `Manuscript/_build/build_manuscript.ps1` — archives per `Archive/archive_placement.json` |
 
-**Written prose (full publication order):** **88,486 words**. See **Manuscript Reading Order** above.
+**Written prose (full publication order):** **86,317 words**. See **Manuscript Reading Order** above.
 
 **Act IV planning:** `Planning/Fleet_Authority_Briefing_Packet.md` · **Archive index:** `Archive/README.md`
 
@@ -720,13 +722,57 @@ Enough picture → departure. Fleet commits to home with a report Helion cannot 
 
 Departure ordered morning; report header locked; Dominion expanded passive listen. Ch. 16 opens homeward transit / Fleet-space return.
 
-**Act III ends (book arc):** Structured opposing civilization confirmed operationally; border intelligence arc complete; Ch. 17 opens Fleet doctrine arc.
+---
+
+## Chapter 16 — Homeward
+
+**Prose title:** *Homeward*  
+**File:** `../Chapters/chapter_16.md`  
+**Status:** **LOCKED FINAL** (2,632 words) — editorial pass complete **2026-07-12**; **no further edits** unless author unlocks  
+**State log:** `../State/chapter_16_state_log.md`  
+**Generation doctrine:** `act3_chapters_9-16_generation.md`
+
+### Purpose
+
+Return without announcement. Fleet crosses back into known space with a sealed report Helion's boxes cannot hold. Dominion reaches observation limit (thirty-two) and authorizes watching, not illumination. Ordinary life continues on both sides of the line.
+
+### Scene order (on page)
+
+1. Strategic Security — thirty-two; pattern not argument; watching authorized; no illumination / no task force  
+2. Departure leg (day fifteen) — Reyes/Brenner/crew stations; familiar routes disappearing; stew bowls; bring everyone home; Ortega still listening  
+3. District Nine Founders' Week — Kovat/Nika/Pelka; chorus; K-17 diminished; *I was heard*; transit spine memorial  
+4. Executive office — Thessaly report; headers fail; *neighbors* in margin; observation sequence; *Limitations of Fleet Terminology*; *add empty*  
+5. Kessik observation — gap softened; festival congestion; Vex *not yet* / *we'll see them again*  
+6. Command deck (day sixteen) — Fleet space ahead; *we found neighbors*; report sealed; crossed back without announcement; Park archive checksum green
+
+### Editorial pass (locked inventory)
+
+**Dominion**
+- **Thirty-two** — pattern; watching is the authorized response; no chase / no illumination / no task force
+- **Yenin** — Political Liaison; numbers when history answers
+- **Founders' Week** — harvest festival; Kovat leave; Nika chorus; K-17 diminished persistence; memorial habit
+- **Vex / Petrov** — gap softened into congestion; field trial deferred; *we'll see them again*
+
+**Fleet**
+- **Departure** — emitters dark; correction thrust; one among many; Ortega listen window open on the way out
+- **Report** — *Structured civilization beyond Fleet survey assumptions*; *neighbors* margin-only; first contact = observation only; *Limitations of Fleet Terminology* (+ *empty*)
+- **Homeward close** — fourteen hours to pickup beacon; report sealed; Park archive checksum green, classification pending
+- **No Dominion name** in Fleet POV; `witness archive` → `Park's archive` / segment seven archived
+
+**Close**
+- Segment seven **day sixteen**; crossed back into Fleet space without announcement — **END ACT III**
+
+### End state
+
+*Kestrel* in Fleet space; pickup pending; report sealed; *neighbors* in the margin; observation only. Dominion: thirty-two held; watching continues; Vex expects return comparison.
+
+**Act III ends (book arc):** Structured opposing civilization confirmed operationally; border intelligence arc complete; Ch. 17 opens Fleet doctrine arc (*The Listening Post*).
 
 ---
 
 # ACT IV — FIRST DOCTRINE (Chapters 17–24)
 
-**Status:** Ch. 17–21 **LOCKED** · Ch. 22–24 **DRAFT**  
+**Status:** Ch. 17–23 **LOCKED FINAL** (Ch. 23 **2026-07-14**) · Ch. 24 **DRAFT** — final edit pending  
 **Generation doctrine:** `act4_chapters_17-24_generation.md` · **Ch. 21–24 detail:** `act4_chapters_21-24_generation.md`  
 **Opens from:** Ch. 16 — *Kestrel* in Fleet space; Thessaly report; `Planning/Fleet_Authority_Briefing_Packet.md`
 
@@ -738,18 +784,132 @@ Departure ordered morning; report header locked; Dominion expanded passive liste
 
 | Ch | Title | Status | Words | Function (planning) |
 |----|-------|--------|------:|---------------------|
-| 17 | The Listening Post | **LOCKED** | 2,898 | Fleet and Cartography nodes become strategic instruments; Holt/Lin chain elevated |
-| 18 | New Words | **LOCKED** | 2,365 | First formal ROE debate for structured unknown force — not scout improvisation |
-| 19 | The Witnesses | **LOCKED** | 3,307 | *Veil* crew testimony certified; Calder First Witness |
-| 20 | The Long Shadow | **LOCKED** | 2,166 | Parallel lives; Dominion Standing Observation; Edition 144 begins |
-| 21 | The First Doctrine | **LOCKED** | 3,912 | **First Doctrine adopted** (unified Contact Doctrine); Edition 144 framework authorized for training; department working group; Ellis disclosure deferred; Rowan signs; *Veil* named reference hull; Rowan/Calder; Lisette; contact-prep refit (signature reduction, comms partial) |
-| 22 | The Crossing | **DRAFT** | 2,315 | Calder briefing; departure; Alpha Seven crossing; Thessaly XO continuity book; command deck close; **Iron Harrow** / V17 coda (Vex — probable trial-scout match, cloak holds) |
-| 23 | Recognition | **DRAFT** | 2,022 | Behavior anomaly; parallel decisions; *Iron Harrow* reveals by choice; technical ID exchange; eleven-second latency close |
+| 17 | The Listening Post | **LOCKED FINAL** | 2,841 | Helion intake; digital custody split; Ellis; Rowan first reading; Calder summoned |
+| 18 | New Words | **LOCKED FINAL** | 2,153 | Rowan briefing; Observed/Inferred bands; provisional Structured Civilization header; Observation Protocol (not ROE) |
+| 19 | The Witnesses | **LOCKED FINAL** | 2,234 | *Veil* crew testimony certified; Calder First Witness |
+| 20 | The Long Shadow | **LOCKED FINAL** | 2,087 | Parallel lives; Dominion Standing Observation; Edition 144 begins |
+| 21 | The First Doctrine | **LOCKED FINAL** | 3,088 | **First Doctrine adopted** (unified Contact Doctrine); Edition 144 framework authorized for training; department working group; Ellis disclosure deferred; Rowan signs; *Veil* named reference hull; Rowan/Calder; Lisette; contact-prep refit (signature reduction, comms partial) |
+| 22 | The Crossing | **LOCKED FINAL** | 2,308 | Calder briefing; departure; Alpha Seven crossing; Thessaly XO continuity book; command deck close; **Iron Harrow** / V17 coda (Vex — probable trial-scout match, cloak holds) |
+| 23 | Recognition | **LOCKED FINAL** | 2,105 | Behavior anomaly; corridor shaping; *Iron Harrow* reveals by choice; technical ID exchange; intent unresolved |
 | 24 | After Contact | **DRAFT** | 1,606 | Post-contact aftermath; Calder/Vex parallel reports; Fleet institutional response; Thessaly XO *the ship returned*; fringe relay + unresolved third source — **END BOOK ONE** |
 
 **FDB-144-DRAFT** (`../Archive/archive_03_doctrine_bureau_edition_144_terminology_draft.md`) inserts after Ch. 18 — Fleet Doctrine Bureau working draft; *Words determine thought. Choose carefully.*
 
 **Act IV ends:** First contact acknowledged; understanding deferred; Book One closes on *Kestrel* egress with unresolved third signal and energy event in Alpha Seven volume. Epilogue alignment pending editorial pass.
+
+---
+
+## Chapter 17 — The Listening Post
+
+**Prose title:** *The Listening Post*  
+**File:** `../Chapters/chapter_17.md`  
+**Status:** **LOCKED FINAL** (2,841 words) — editorial pass complete **2026-07-13**; **no further edits** unless author unlocks  
+**State log:** `../State/chapter_17_state_log.md`  
+**Generation doctrine:** `act4_chapters_17-24_generation.md`
+
+### Purpose
+
+Act IV opens. The *Kestrel* returns to Helion; the report enters Fleet custody and splits across specialty queues. Institutions begin metabolizing segment seven before strategy exists. Rowan reads; Calder is summoned. No war council yet.
+
+### Scene order (on page)
+
+1. Helion outer approach — traffic control; berth fourteen-C; medical / engineering / archive intake; crew still on mission posture  
+2. Fleet Communications — Holt/Lin; pickup handshake; department routing comments; VI-Gamma node still open  
+3. Historical Office sorting room — Ellis; *executive eyes only*; digital queue splits; liaison reclaim; degraded auxiliary header unresolved  
+4. Operations floor — Rowan at the glass; executive summary; civilization beyond charts; *Find me Captain Calder*  
+5. Berth fourteen-C — medical / yard interviews; Thessaly on routing split; crew release; Brenner stays with the hull  
+6. Fleet Headquarters anteroom — liaison questions; Priority One summons to Operations 1910
+
+### Editorial pass (locked inventory)
+
+**Continuity / canon**
+- **Marcus Hale** (not Mira); Park custody lane (not Ortega-owned); no VI-Gamma six-hour collar at Helion
+- **Digital custody** — intake packets, queue accepts, pane annotations; hardcopy = markup only
+- **Fleet POV** — no Dominion name; no Dominion-negation scenery on Helion viewport
+
+**Institutional**
+- Amended mission header still *degraded auxiliary corridor*; no reclassification
+- Report split: Cartography / Intelligence / Engineering / Communications / Historical / Doctrine
+- **Soraya Ellis** — Historical Office liaison; *executive eyes only* ingest
+- Rowan: low expectation vs civilization; summons Calder
+
+**Close**
+- Witness filing on Calder's slate; Rowan Priority One — chapter ends before the meeting
+
+### End state
+
+*Kestrel* at fourteen-C under yard certification; archives in Fleet custody lanes; Rowan has read the summary; Calder en route to Operations. Ch. 18 opens the formal meeting / new-words work.
+
+---
+
+## Chapter 18 — New Words
+
+**Prose title:** *New Words*  
+**File:** `../Chapters/chapter_18.md`  
+**Status:** **LOCKED FINAL** (2,153 words) — editorial pass complete **2026-07-13**; **no further edits** unless author unlocks  
+**State log:** `../State/chapter_18_state_log.md`  
+**Generation doctrine:** `act4_chapters_17-24_generation.md`
+
+### Purpose
+
+First formal Fleet metabolization of segment seven. Rowan hears Observed / Inferred / Speculation bands; departments route parallel work back to his table. Strategy unchanged. Vocabulary changes — provisional *Structured Civilization* header and Observation Protocol (ROE deferred).
+
+### Scene order (on page)
+
+1. Operations conference — Rowan / Calder / Thessaly; Observed band; Cartography liaison takes bearing annex mid-meeting  
+2. Map Room Four — Okoye / Ensign Leta Rios; seven-alpha epoch redline; language before strategy  
+3. Briefing continues — industrial throughput; Incident baseline; speculation authorized once; Sato flag / Doctrine routing  
+4. Communications Validation Bay — Holt / Lin / Park / Ortega; authenticity confirmed; *Labels can wait*  
+5. Classification Annex — Mercer / Ahn; strike list; provisional Structured Civilization header; Observation Protocol  
+6. Historical Office — Ellis; beginnings vs correction; Maris queue echo; Founders' Week language review  
+7. Synthesis — department returns on Rowan's table; Sato; Calder's one observed / inference; Mercer arrives; orders issued  
+8. Corridor — Thessaly; Classification Annex cork board; junior ROE debate
+
+### Editorial pass (locked inventory)
+
+**Continuity / canon**
+- **Ensign Leta Rios** (Cartography junior) — not Commander Pell / Reing Pell collision
+- **Amara Lin** checksum (not Priya); digital custody / sorting panes
+- Observed vs inferred discipline enforced (authentication = Ortega reading; ordinary sector = inference)
+- Fleet POV — no Dominion name; correction-thrust transit cost (no six-hour / passive-hold mash)
+
+**Institutional**
+- Provisional tier one: **Structured Civilization Beyond Fleet Survey Assumptions**
+- Working template: **Observation Protocol for Structured Civilizations** — not ROE
+- Rowan: strategy unchanged; record language changed; seal chain; epoch language draft; no material orders without signature
+
+**Close**
+- Cork board: Observation Protocol; *Watch first. Opening contact comes later.*; *empty is not a survey result*
+
+### End state
+
+Provisional header stands; Observation Protocol working group tasked; Edition 143 failure lines due; Exploration paused in seven-alpha notation pending epoch revision. Ch. 19 — crew testimony / First Witness.
+
+---
+
+## Chapter 23 — Recognition
+
+**Prose title:** *Recognition*  
+**File:** `../Chapters/chapter_23.md`  
+**Status:** **LOCKED FINAL** (2,105 words) — editorial pass complete **2026-07-14**; **no further edits** unless author unlocks  
+**State log:** `../State/chapter_23_state_log.md`
+
+### Purpose
+
+First acknowledgment exchange. Doctrine under maximum pressure without battle. Corridor shaping → visibility by Dominion choice → technical ID exchange; intent unresolved both sides.
+
+### Scene order (on page)
+
+1. Listen watch — Ortega: traffic reorganized (behavior, not contact); inference withheld  
+2. *Iron Harrow* / V17 — Vex: scout did none of the procedure categories; archival kill unreconciled  
+3. Decision hold — gap held; unseen actor inferred from traffic; no initiation; reply channel open/empty  
+4. Vex reveals — cleared line while hidden → show ourselves; mass appears for scout  
+5. Composite lock — Incident-scale unknown category; deliberate visibility  
+6. First receive / first send — protocol-compatible headers; Holt only on send; equivalent acknowledgment returned  
+
+### End state
+
+Behavioral acknowledgment exchanged. Silhouette-scale contact visible by choice. Intent unresolved. Ch. 24 — After Contact.
 
 ---
 

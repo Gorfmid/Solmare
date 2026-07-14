@@ -11,13 +11,13 @@ Rain had moved off the arcade glass, but harvest festival bunting still hung in 
 
 Director-General Lev Stratimirov opened the file.
 
-Thirty-two independent observations.
+They had asked for a preposterous number of independent observations. The markers came in fast.
+  
+Then they stopped. Thirty-two. Thirty-two independent observations. Why did they stop?
 
-Still thirty-two.
+Major Petrov stood at the table's far edge, tea in hand. He had hoped the post-harvest festival traffic would settle into something clear enough to act on. It hadn't.
 
-Major Petrov stood at the table's far edge, sipping his tea and the expression of a man who had hoped post-harvest festival traffic would settle into a pattern that finally justified escalation.
-
-"Status summary," Petrov said. "Passive archives unchanged. Border nodes report routine. Regional Transportation Directorate—corridor normalization holding through holiday overlays. Science Directorate—cloak bench stability improved; field trial timeline still withheld. Warrant Kovat—K-17 persistent return filed again. Low confidence. She will not retract."
+"Status summary," Petrov said. "Archives unchanged. Border nodes report routine. Regional Transportation Directorate—corridor normalization holding through holiday overlays. Science Directorate—cloak bench stability improved; field trial timeline still withheld. Warrant Officer Kovat logged her unresolved return again — Directorate sensor label K-17. Confidence still low. She will not retract it."
 
 Stratimirov read the scatter plot without speaking.
 
@@ -27,19 +27,19 @@ Together, they still failed the proof threshold.
 
 "Recommendation?" Stratimirov asked.
 
-Petrov did not flinch. "Continue active investigation classification. Expand comparison windows. Request illumination authorization on the K-17 maintenance feeder—one controlled sweep. Proof or dismissal."
+Petrov did not flinch. "Continue active investigation classification. Expand comparison windows. Request illumination authorization on the suspected maintenance feeder—one controlled sweep."
 
 Stratimirov looked at him. "And if the sweep illuminates nothing except our impatience?"
 
 "Then we learn that too," Petrov said.
 
-"Or we teach someone to stop giving us opportunities." Stratimirov closed the overlay. "Passive returns have plateaued. We are not acquiring new evidence at this classification level."
+"Or whatever is out there learns something about us." Stratimirov closed the overlay. "Returns have plateaued. We are not acquiring new evidence at this classification level."
 
 Silence. Accounting.
 
 Petrov's jaw worked. "Sir—"
 
-"Standing Observation," Stratimirov said. "File status change. Active Investigation to Standing Observation. Passive monitoring remains. Expanded listening windows remain. No pursuit. No task force. No corridor illumination without directorate proof threshold we do not have."
+"Standing Observation," Stratimirov said. "Report the status change. Active Investigation to Standing Observation. Passive monitoring remains. Expanded listening windows remain. No pursuit. No task force. No corridor illumination without directorate proof threshold we do not have."
 
 Colonel Yenin from Political Liaison looked up from her slate. "The Political office will read that as closure."
 
@@ -51,7 +51,7 @@ Colonel Yenin from Political Liaison looked up from her slate. "The Political of
 
 "Shall I prepare Political Liaison language?" Yenin asked.
 
-"Prepare normalization summary," Stratimirov said. "Post-harvest festival residual traffic. Border routine. File Standing Observation as continued passive posture—not closure."
+"Prepare normalization summary," Stratimirov said. "Post-harvest festival residual traffic. Border routine. Report Standing Observation as continued passive posture—not closure."
 
 Petrov signed the status change and the continuation order—passive coverage, comparison discipline, Kovat's filings accepted without escalation.
 
@@ -170,7 +170,7 @@ Not Map Room Four.
 
 Historical maps—the ones Founders' Week tours used, the ones academy primers copied, the ones that told Fleet who it believed it had been.
 
-She laid epoch 143 frontier shading beside Okoye's redline overlay and segment seven comparison packet. Seven-alpha had been *provisional, low occupancy confidence* on every public historical slide since Ellis was a student.
+She laid the Edition 143 public map beside Okoye's redline overlay and the segment seven comparison packet. Seven-alpha had been marked *provisional, low occupancy confidence* on every public historical slide since Ellis was a student.
 
 The page had not falsified anything. It had simply aged without revision.
 
@@ -184,13 +184,13 @@ She added a cross-reference line for a queue she would deepen later—contradict
 
 She did not pull the old slide from the working set. The prior notation still governed the public display band until the revised slide mounted beside it.
 
-She placed the new notation adjacent—*structured occupancy observed; epoch revision internal pending*—and wrote a curator's routing note for Founders' Week exhibits:
+She placed the new notation adjacent—*structured occupancy observed; survey revision internal pending*—and wrote a curator's routing note for Founders' Week exhibits:
 
-*Edition 143 slide remains on tour rotation. Revised notation mounts adjacent. Epoch tags on both.*
+*Edition 143 slide remains on tour rotation. Revised notation mounts adjacent. Edition tags on both.*
 
 Ellis paused before closing the archive drawer.
 
-She photographed the old slide before archiving—glass glare, epoch watermark, public shading still legible. The photograph would live beside the revision in the internal band.
+She photographed the old slide before archiving—glass glare, edition watermark, the provisional marking still legible. The photograph would live beside the revision in the internal band.
 
 She returned the Relay Charter placard to its case for tomorrow's school tour.
 
@@ -203,11 +203,9 @@ Commander Owen Mercer hated the title on his screen.
 
 **Observation Protocol for Structured Civilizations**
 
-Clumsy. Too long for a corridor joke. Accurate enough to survive witness certification.
+Clumsy. Accurate enough to survive witness certification. He drafted the memorandum anyway.
 
-He drafted the first internal memorandum anyway because accuracy mattered more than elegance.
-
-Lieutenant Ahn sat across the table with Edition 143 open to the Survey Manual annex—the §7.2 page every officer had skimmed and few admitted still shaped them.
+Lieutenant Ahn sat across the table with Edition 143 open to Survey Manual §7.2 — the page every officer had skimmed and few admitted still shaped them.
 
 Mercer read the old sentence aloud:
 
@@ -215,9 +213,9 @@ Mercer read the old sentence aloud:
 
 Ahn winced. "Segment seven—"
 
-"—filed direct evidence," Mercer finished. "Write the change."
+"—brought direct evidence," Mercer finished. "Write the change."
 
-Edition 144 began as one sentence on a working draft—not a manual, not a victory, a correction:
+Edition 144 began as one sentence on a working draft — not a manual, a correction:
 
 **Survey completes notation; absence on charts is not absence in fact.**
 
@@ -225,34 +223,26 @@ Ahn stared at it. "That's the whole edition?"
 
 "No," Mercer said. "That's the §7.2 change request. The rest are still in drafts."
 
-Mercer read it aloud again. §7.2 still listed *unoccupied* as the default assumption. The segment seven return did not fit it.
+Below the sentence he added Ahn's overnight skeleton—observation phase gate before contact; listen intelligence as first-class product; limitations subsection mandatory on reconnaissance summaries. None of it adopted. All of it routed: internal only, not ROE, not press, not Exploration outbound until Rowan signed scope. He kept the title he hated because Thessaly's header had survived Strategic Review. Doctrine did not get to be elegant yet.
 
-Below the sentence he added the memorandum skeleton Ahn had built overnight—observation phase gate before handshake prerequisite; passive intelligence as first-class product; limitations subsection mandatory on reconnaissance summaries. None of it adopted. All of it routed.
-
-He kept the memorandum title he hated because Thessaly's header had survived Strategic Review and witness certification. Doctrine did not get to be elegant yet.
-
-Routing tags followed—internal only, not ROE, not press, not Exploration outbound proposals until Rowan signed scope.
-
-Mercer filed the draft to Rowan's stack and Ahn's Edition failure list.
+Mercer sent the draft to Rowan's stack and Ahn's Edition failure list.
 
 Ahn asked, quietly, "When they quote Edition 144 in a briefing, which sentence will they use?"
 
 "Whichever one Rowan signs," Mercer said. "Until then it's a draft."
 
-Mercer's coffee had cooled in the cup. The paper from the printer was still warm.
-
-Outside the annex, an Exploration Corps lieutenant walked past the whiteboard where someone had copied Thessaly's clumsy header without permission. Mercer left the whiteboard copy until Rowan signed scope.
+Outside the annex, an Exploration Corps lieutenant walked past the whiteboard where someone had copied Thessaly's header without permission. Mercer left it until Rowan signed scope.
 
 ---
 
 ***FLEET HEADQUARTERS — OPERATIONS TIER***  
 *THE SHADOW*
 
-Fleet Admiral Elias Rowan remained after headquarters emptied. The operations tier was quiet enough to read the same memorandum twice.
+Fleet Admiral Elias Rowan remained after headquarters emptied. The operations tier was quiet. He read Mercer's memorandum twice.
 
 Evening shift had gone home to dinners and Founders' Week residual errands and the ordinary belief that strategy happened elsewhere. Beyond the glass, Helion traffic held its usual lanes and dock lights.
 
-Old map on the left—epoch 143 public historical, seven-alpha shaded provisional, frontier edge from the public epoch band.
+Old map on the left—Edition 143 public historical, seven-alpha still marked provisional, frontier edge from the public survey record.
 
 New overlay on the right—Okoye's redline, Ellis's archive citation, Holt's custody strip along the bottom.
 
@@ -271,4 +261,6 @@ In the corridor, a junior Doctrine intern carried Mercer's memorandum to the ove
 ❦
 
 **END CHAPTER 20**
+
+<!-- LOCKED FINAL · 2026-07-13 -->
 

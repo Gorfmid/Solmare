@@ -1,7 +1,7 @@
 ﻿# Book One — The Kestrel Veil Incident
 
 **Series:** The Solmare Cycle  
-**Status:** Ch. 1–8 **LOCKED** · Ch. 9–24 shells · **4-act architecture** (2026-06-28)
+**Status:** Ch. 1–23 **LOCKED FINAL** · Ch. 24 **DRAFT** (final edit pending) · **4-act architecture**
 
 See `Notes/book1_core_premise.md` and `Notes/REWRITE_STATUS.md`.
 
@@ -9,10 +9,10 @@ See `Notes/book1_core_premise.md` and `Notes/REWRITE_STATUS.md`.
 
 | Act | Chapters | Arc |
 |-----|----------|-----|
-| I — Routine Patrol | 1–4 | ✓ Complete |
-| II — The Kestrel Veil Incident | 5–8 | ✓ **LOCKED** |
-| III — Shadows Beyond the Border | 9–16 | Shell |
-| IV — First Doctrine | 17–24 | Shell |
+| I — Routine Patrol | 1–4 | ✓ **LOCKED FINAL** |
+| II — The Kestrel Veil Incident | 5–8 | ✓ **LOCKED FINAL** |
+| III — Shadows Beyond the Border | 9–16 | ✓ **LOCKED FINAL** |
+| IV — First Doctrine | 17–24 | Ch. 17–23 ✓ **LOCKED FINAL** · Ch. 24 **DRAFT** |
 
 ## Folders
 

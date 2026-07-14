@@ -1,97 +1,44 @@
 # Chapter 23 State Log — Recognition
 
-**Status:** DRAFT  
-**Act:** IV — First Doctrine  
-**Word count:** ~2,086  
-**Planning:** User outline 2026-07-07 · `Act_Outlines/act4_chapters_21-24_generation.md` (Ch. 23 superseded by field contact arc)
+**Status:** **LOCKED FINAL** — editorial pass complete **2026-07-14** (2,105 words)  
+**Act:** IV — First Doctrine
 
 ---
 
-## Chapter purpose
+## Structure (on page)
 
-First true contact — doctrine tested under maximum pressure, not battle.
-
-**Core question:** Can two civilizations make contact without turning uncertainty into conflict?
-
----
-
-## Scenes (implemented)
-
-### 1 — Kestrel command deck / first anomaly
-
-- Ortega reports *behavior*, not contact — traffic reorganized around corridor
-- Park: no packet, no hostile signal, no weapons indication
-- Thessaly: do not classify intent
-- Calder: continue observation; Edition 144 holds
-
-### 2 — Iron Harrow / V17 observation
-
-- Vex: scout changed behavior; did not react as expected
-- Dominion procedure files referenced; Fleet pattern unusual (withdrew, studied, returned)
-- No intent stamp
-
-### 3 — Decision (both sides)
-
-- Fleet: Holt — no confirmed comm path; Ortega — environment shaped; Calder — preparation, not initiation
-- Vex: continuing concealment assigns unverified meaning; chooses visibility
-
-### 4 — Reveal
-
-- Vex executes partial envelope withdrawal (choice, not cloak failure)
-- Ortega: composite lock — Incident-scale profile; unknown category
-- Calder: maintain passive posture
-
-### 5 — First exchange (technical)
-
-- Dominion send: identification / navigation / intent marker (observe-acknowledge-no pursuit)
-- Park: protocol-stack compatible, pre-contact era variant — **no ancestry explained**
-- Elenko notices familiar response architecture; files observation, suppresses speculation
-
-### 6 — Parallel authorization
-
-- Calder: silence is also a choice; acknowledgment under observation status
-- Vex: they crossed boundary; they came back
-
-### 7 — First message / Kestrel close
-
-- Fleet send: Kestrel Veil identification, observation status, no pursuit
-- Dominion reply: equivalent acknowledgment
-- Eleven-second relay latency — ends on Kestrel deck; no celebration
+| Scene | Beat |
+|-------|------|
+| Listen watch | Ortega: traffic reorganized (behavior, not contact); inference withheld |
+| *Iron Harrow* / V17 | Vex: scout fits none of procedure categories; archival *contact destroyed* unreconciled (debris on bearing) |
+| Decision hold | Gap held; traffic change without message → unseen actor inferred; no initiation; reply open/empty; Holt delayed confirm only |
+| Vex command | Cleared line while hidden → show ourselves (not “they have seen us”); visibility sequence |
+| Composite lock | Mass resolves on listen stack; Incident-scale unknown category; deliberate visibility |
+| First receive/send | Protocol-compatible headers; no live Holt on receive; equivalent acknowledgment returned; intent unresolved |
 
 ---
 
-## Canon locked (Ch. 23)
+## Canon Outcomes
 
-| Term | Usage |
-|------|--------|
-| **Iron Harrow trial** | Dominion **concealment-system trial** — not a test of Kestrel/Fleet; scout was unexpected variable during trial window |
-| **Trial archive result** | *Contact destroyed* filed as kill; concealment trial read successful — record later unreconciled |
-| **Alpha Seven** | Fleet designation — occupied volume |
-| **V17** | Dominion POV only |
-| **Iron Harrow** | Dominion hull name |
-| **Leviathan-class** | Dominion internal / technical only |
-| Fleet contact name | Incident witness profile / unknown category — **not** Leviathan |
-| Intent | **Unresolved** both sides |
-| Shared origin | **Hint only** (protocol header shape) — not revealed |
+- Behavioral acknowledgment exchanged (Fleet ↔ occupied contact)
+- *Iron Harrow* visible by Dominion choice (partial envelope withdrawal)
+- Fleet: unknown category / Kestran witness profile — no Leviathan name on Fleet slate
+- Intent unresolved both sides
+- Shared-origin hint only (protocol header shape) — not explained
+- Validation Bay / Holt: copy on send; intermittent relay; not live mid-receive
 
 ---
 
-## End state
+## Final Edit Notes (2026-07-14)
 
-- Behavioral acknowledgment exchanged
-- Silhouette-scale contact visible by Dominion choice
-- Kestrel believes doctrine succeeded; occupied volume answered
-- Dominion files contact; Vex — intent unresolved
-- Neither side knows shared-history implication of protocol familiarity
+- *file/filed* density cleared except literal dossiers noun
+- Epistemic correction: Fleet has not acquired hull before reveal; Vex does not claim they mapped the gap
+- Holt live interrupt cut (cannot see local receive until upstream)
+- Illumination/discharge terminology cleaned where it meant fire vs cloak drop
+- Thematic close captions cut; ends on visible-by-choice image
 
 ---
 
 ## Next (Ch. 24)
 
-- Book One close per `act4_chapters_21-24_generation.md` — may adjust after Ch. 23 contact beat
-
----
-
-## Retired manuscript
-
-- Full replace of fork-architecture *Last Report* / departmental summary montage
+- *After Contact* — post-exchange aftermath; fringe relay + unresolved third source · **END BOOK ONE**

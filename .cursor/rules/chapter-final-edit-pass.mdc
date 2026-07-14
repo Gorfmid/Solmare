@@ -1,5 +1,5 @@
 ---
-description: Solmare final edit pass (Ch. 13+) — Claude 4.6; colon tags, file density, tea/coffee clocks, em dashes, plain English
+description: Solmare final edit pass (Ch. 13+) — colon tags, file density, tea/coffee clocks, em dashes, plain English
 globs: Books/**/Chapters/chapter_*.md
 alwaysApply: false
 ---
@@ -8,9 +8,8 @@ alwaysApply: false
 
 When the user says **"final edit pass on chapter X"**, **"apply final edit to chapter X"**, or **"Ch. X final pass"**:
 
-1. **Model:** Use **Claude 4.6** (`claude-4.6-sonnet-medium-thinking` or latest Claude 4.6 Sonnet). If the session is not on Claude 4.6, tell the user to switch before continuing.
-2. Load and follow: `Writing_System/Style_Guide/chapter_final_edit_pass.md`
-3. Also load: `Writing_System/Style_Guide/chapter_editing_pass.md` + Book One `State/current_state.md`
+1. Load and follow: `Writing_System/Style_Guide/chapter_final_edit_pass.md`
+2. Also load: `Writing_System/Style_Guide/chapter_editing_pass.md` + Book One `State/current_state.md`
 
 ## Hard priorities (from Ch. 13+ line edits)
 
@@ -25,6 +24,7 @@ When the user says **"final edit pass on chapter X"**, **"apply final edit to ch
 9. Standing orders: don’t mantra-repeat; explain illumination restraint once, plainly
 10. No semicolon crew rosters — prose sentences
 11. End scenes on work continuing
+12. **Reing lock:** Reing 1–5 = power/system rings (Reing 3 ≈ midship aux bus). Do **not** treat Reing 3 as main engines or correction thrust — keep mains, correction thrust, and Reing N separate
 
 Deliver the report checklist at the end of `chapter_final_edit_pass.md`.
 

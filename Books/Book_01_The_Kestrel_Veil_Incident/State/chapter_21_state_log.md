@@ -1,86 +1,49 @@
 # Chapter 21 State Log — The First Doctrine
 
-**Status:** REWRITE (LOCKED)  
-**Words:** 3,912  
-**Act:** IV — First Doctrine  
-**Planning:** `Act_Outlines/act4_chapters_21-24_generation.md`
+**Status:** **LOCKED FINAL** — editorial pass complete **2026-07-14** (3,088 words)  
+**Act:** IV — First Doctrine
 
 ---
 
-## Contact Doctrine (unified)
+## Structure (on page)
 
-**Fleet decision:**
-
-> Approach as if contact is possible.  
-> Prepare as if capability matters.  
-> Do not assign intent without evidence.
-
-**Behavioral synthesis (from Calder record):**
-
-> They demonstrated capability. They also demonstrated restraint.
-
-**Classification:** Structured civilization beyond Fleet survey assumptions — **no hostile classification**
-
-**Edition 144:** First operational doctrine (not fork annex). Four sections: contact posture, readiness posture, escalation criteria, documentation requirements.
+| Scene | Beat |
+|-------|------|
+| The Witness Record | Ahn works certified record for doctrine session (not restaged); Mercer capability/restraint floor; no hostile classification |
+| Witness Still on Record | Calder at berth verifies certified close; Mercer synthesis appended |
+| One Framework | Observation Protocol / Edition 144 working draft condensed; Thessaly language-only guest; four sections → Rowan's stack |
+| Before Signature | Rowan / Hwang / Sato personal conversation — we knew it was possible; we are not alone; intent unresolved |
+| Public Correction | Ellis; controlled disclosure; no immediate announcement |
+| The Decision | Rowan signs First Operational Doctrine — Edition 144; behavioral lines; notify Calder |
+| Reference Hull | Rowan at berth; contact preparation packet; return understanding; pastries joke |
+| Cardamom Oven | Lisette; clearance-safe "mission was rough" |
+| Contact Preparation Refit | Koss signature reduction; Holt relay lane; Park/Holt keep-in-touch promise; main engines still offline |
 
 ---
 
-## Scenes delivered (planning)
+## Canon Outcomes
 
-| Scene | Outcome |
-|-------|---------|
-| Witness record (Ahn reads bands) | Capability + restraint established as behavioral floor |
-| Doctrine Bureau working group | One framework; departments contribute implementation |
-| Readiness assessment (Logistics/Intelligence) | Gaps logged; preparation not mobilization |
-| Historical (Ellis) | Public disclosure deferred; controlled correction path |
-| Rowan decision | Unified posture signed; department routing strips issued |
-| Rowan / Calder (berth fourteen-C) | *Veil* named reference hull for future contact window—not hero selection; contact preparation file routed |
-| Calder / Lisette (abbreviated) | Family grounding before extended yard prep; morale logistics (pastries) |
-| Contact preparation refit | Hull identity preserved; signature reduction (experimental, not cloak); comms improved not solved; Holt liaison |
+- **First Doctrine adopted** — unified Contact Doctrine / Observation Protocol
+- **No hostile classification**
+- Edition 144 no longer one sentence — how Fleet behaves while intent unknown
+- *Veil* named **reference hull** for contact preparation (not deployment)
+- Signature reduction package experimental; not invisible; unreliable under maneuver
+- Main engines offline; correction thrust certification first; Reing 3 = bus under that load
+- Park/Holt: personal lane open; promise to send
 
 ---
 
-## Kestrel Veil — post-Ch. 21 refit (canonical)
+## Final Edit Notes (2026-07-14)
 
-| Field | State |
-|-------|-------|
-| **Role** | Fleet reference hull / strongest candidate if contact window opens |
-| **Hull** | Same aging scout—repaired where practical, quirks documented, not replaced |
-| **Signature reduction** | Experimental package—lower emissions, thermal bleed, quieter harmonics; intermittent; degrades under maneuver; **not** cloak |
-| **Comms** | Tertiary drift improved on paper; relay handoffs still require Holt chain, confirm tokens, delays |
-| **Crew posture** | Return without assuming answer; know more than Fleet, know how little that is |
-
----
-
-## Department routing (post-signature)
-
-| Department | Task |
-|------------|------|
-| **Exploration (Hwang)** | Patrol addendum — hold emissions, passive dwell, no initiation under uncertainty |
-| **Intelligence (Sato)** | Capability modeling reprioritization; passive collection expansion |
-| **Cartography (Okoye)** | Observation/inference layer split; epoch revision |
-| **Communications (Holt)** | Metadata schema revision; fringe relay parse test |
-| **Doctrine (Mercer)** | Procedure formalization; training scenario refresh |
-
----
-
-## Rowan
-
-- Signs unified doctrine — does not preserve competing interpretations
-- Operations log: *Witness certified. First doctrine adopted. Unified posture effective internal routing.*
-- Line: *We do not know what they want. We know what we will do.*
-
----
-
-## Retired (do not carry forward)
-
-- Branch A / B / C
-- Fork registry / collapse footer
-- POSTURE DIVERGENCE LOGGED
-- Parallel official postures
+- Compressed witness remount and ONE FRAMEWORK department speeches
+- Thessaly = language guest only (not Doctrine policy writer)
+- BEFORE SIGNATURE → personal FA conversation
+- Holt = Communications only; Koss = signature package
+- Reing 3 ≠ engines/thrust (and Ch. 16–19 continuity surgicals on same rule)
+- Plain language passes throughout
 
 ---
 
 ## Next (Ch. 22)
 
-- The Doctrine in Practice — institutional behavior change under unified framework
+- *The Crossing* — Edition 144 crossing; Alpha Seven; Thessaly XO continuity; *Iron Harrow* / V17 coda

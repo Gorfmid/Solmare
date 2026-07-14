@@ -9,7 +9,7 @@
 
 Four hours past the Alpha Seven boundary, the command deck looked the way it had looked for a decade—stations manned, emitters dark, Brenner's helm card at his knee still reading *intermittent, not reliable*.
 
-Ortega had listen watch. Reyes held the filed corridor on the plot. Park would not send anything to Fleet until Holt's confirm token cleared. Thessaly logged protocol state without commentary.
+Ortega had listen watch. Reyes held the corridor on the plot. Park would not send anything to Fleet until Holt's confirm token cleared. Thessaly logged the protocol state.
 
 Calder had the chair.
 
@@ -41,38 +41,38 @@ Thessaly said, "Passive shift only. Comms empty. Intent stays off the slate."
 
 Calder said, "Continue observation. Halden—negative space on the slate. Tanaka—emitter discipline unchanged."
 
-Halden filed *no decloak, no discharge signature, no outbound emissions spike* before Ortega finished the next sweep.
+Halden marked the slate empty before Ortega finished the next sweep.
 
-Calder had signed the amended packet at berth fourteen-C. The deck was quieter now. The obligation was the same.
+Calder had signed the amended packet at berth fourteen-C. The deck was quieter now.
 
 Ortega ran the sweep again. The reorganized pattern held.
 
 "Deliberate," she said—not to the room, to the log.
 
-Calder said, "File observed behavior. Inference withheld."
+Calder said, "Log the observed behavior. Inference withheld."
 
 ---
 
 ***THE DOMINION — VOLUME V17***  
 *IRON HARROW — STANDING OBSERVATION*
 
-Commander Vex received the same reorganization report from Klimov's watch twelve minutes after the scout's passive window crossed the inner corridor.
+Commander Vex received the same reorganization report from Klimov's watch twelve minutes after the scout crossed the inner corridor.
 
 "The scout changed behavior," Klimov said.
 
 Major Petrov on the comms inset asked, "Meaning?"
 
-Vex pulled the traffic overlay. Background activity in V17 had shifted—not hidden, rerouted. Civilian throughput held on the spines. Peripheral returns thinned along the scout's filed path as if the sector had been instructed to make room.
+Vex pulled the traffic overlay. Background activity in V17 had shifted—not hidden, rerouted. Civilian throughput held on the spines. Peripheral returns thinned along the scout's path as if the sector had been instructed to make room.
 
 "It did not react as expected," Vex said.
 
 Petrov waited.
 
-Dominion border guidance had files for this. Civilizations that hid. Civilizations that attacked on approach. Civilizations that negotiated from strength. Civilizations that surrendered early. Civilizations that requested protection and meant it. Civilizations that requested protection and did not.
+Dominion border guidance had files for this. Civilizations that hid. Civilizations that attacked on approach. Civilizations that negotiated from strength. Civilizations that surrendered early. Civilizations that asked for protection and meant it. Civilizations that asked for protection as cover.
 
 The scout had done none of those.
 
-The Iron Harrow trial archive still carried the initial engagement result: *contact destroyed*—discharge on bearing, scatter filed as a kill. The concealment trial had read as successful. Border nodes had logged quieter traces questioning that record for months. Low confidence. Never confirmed. Vex had no reconciliation for a hull the file had removed.
+The Iron Harrow trial archive still carried the initial engagement result: *contact destroyed*—debris on bearing, logged as a kill. The concealment trial had read as successful. Border nodes had logged quieter traces questioning that record for months. Low confidence. Never confirmed. Vex had no reconciliation for a hull the archive had removed.
 
 Now it was inside V17 again—emissions down, illumination held. When the sector around it adjusted, it had not accelerated. It had not lit weapons. It had not fled.
 
@@ -80,7 +80,7 @@ Now it was inside V17 again—emissions down, illumination held. When the sector
 
 Klimov asked, "Classification?"
 
-"Insufficient." Vex closed the overlay. "Behavioral file only. No intent stamp."
+"Insufficient." Vex closed the overlay. "Behavioral record only. No intent stamp."
 
 Petrov asked, "Action?"
 
@@ -95,19 +95,29 @@ Vex studied the plot without speaking.
 
 The reorganization held through two full passive cycles.
 
-Holt's relay finally returned a confirm token—delayed, valid, tagged *Validation Bay processed, fringe latency elevated*. Park filed the token. Nothing went to Fleet yet.
+Holt's relay finally returned a confirm token—delayed, valid, tagged *Validation Bay processed, fringe latency elevated*. Park logged the token. Nothing went to Fleet yet.
 
 Holt on the comm inset, relay-flat. "Relay is slow but holding. You have nothing to answer yet. Do not reply blind."
 
-"They are controlling the environment around us, Captain," Ortega said. "Not closing. Shaping."
+Ortega kept the comparison stack on the rail. Same corridor line, six minutes, then twelve, then a full cycle—returns that had sat near their track emptied and stayed empty. Outer lanes denser by the same count. No drift back.
 
-"That is not communication," Thessaly said.
+"Still no contact mass," she said. "Still no emissions I can pin to a hull. The traffic did not move itself. Something cleared our line and held the gap."
 
-"No," Calder said. "It is corridor shaping. Not speech."
+Park said, "Nothing on local comms telling those hulls to shift. Nothing addressed to us either."
 
-Thessaly met his eyes once—the XO look that meant *you are about to choose something the record will carry*.
+"No message," Thessaly said. "Only the change in traffic."
 
-"Operations signature required before initiation," she said, quiet enough for the rail only.
+"And it held," Ortega said. "Not closing on us—clearing space ahead of our track. Something in the neighborhood can move traffic without showing a hull."
+
+Calder watched the next sweep. The gap held.
+
+"Corridor shaping," he said. "Not speech. Not contact I can put on the slate."
+
+"Not yet," Ortega said.
+
+Thessaly met his eyes once—the XO look that meant *you are about to choose something the record will carry forever*.
+
+"Operations authorization required before initiation," she said, quiet enough for the rail only.
 
 "I know."
 
@@ -121,7 +131,7 @@ Calder watched the reshaped pattern hold through another sweep.
 
 "Open and empty," Park said. "Local copy only. Holt will see it when we send."
 
-"Ortega—keep the behavior file live," Calder said. "If illumination appears, I want composite lock before anyone says a class name aloud."
+"Ortega—keep the behavior log live," Calder said. "If illumination appears, I want composite lock before anyone says a class name aloud."
 
 "Aye, Captain," Ortega said.
 
@@ -136,21 +146,19 @@ Pursuit authorization sat open on Vex's rail.
 
 Vex said, "No."
 
-Pause.
-
 Petrov on the inset asked, "Reason?"
 
-"They have seen us," Vex said. "Iron Harrow trial scout—possible. The archive matches. I do not confirm it. If we keep the cloak after they changed the corridor, we act on assumption. I do not authorize that."
+"They have not acquired," Vex said. "They may not have noticed the gap. That does not matter. We cleared their line while hidden. Iron Harrow trial scout—possible. The archive matches. I do not confirm it. We show ourselves now."
 
 Drevin said, "Reveal implies intent."
 
 "So does hiding," Vex said.
 
-He did not trust the scout. Trust was not the variable. Assumption was.
+He did not trust the scout, not that the scout could do anything to them. Trust was not the variable. Assumption was.
 
-The field on *Iron Harrow* had been rebuilt after the trial failure—corrected modes on the bench, margin claims logged. Field success was not yet filed.
+The field on *Iron Harrow* had been rebuilt after the trial failure—improved performance in testing, tolerance claims logged. Field success was not yet verified.
 
-He opened the visibility sequence. Partial envelope withdrawal on a bearing that would read on scout passive as mass resolving where mass had not resolved before. Identification structure prepared. Navigation state bundled. Intent marker set to *observe / acknowledge / no pursuit* in Dominion operational encoding.
+He opened the visibility sequence. Partial envelope withdrawal on a bearing the scout could read—mass appearing where emptiness had been. Identification structure prepared. Navigation state bundled. Intent marker set to *observe / acknowledge / no pursuit*.
 
 Petrov asked, "Authorization level?"
 
@@ -158,11 +166,11 @@ Petrov asked, "Authorization level?"
 
 Petrov asked, "If they fire?"
 
-"Then we have learned something different," Vex said. "Prepare defensive envelope. No illumination unless fired upon."
+"Then we have learned something different," Vex said. "Prepare defensive envelope. Do not fire unless fired upon."
 
 "The size of that ship—"
 
-"A glasswing hunter can sting a river grazer," Vex said. "The grazer survives the encounter."
+"A glasswing hunter can sting a river grazer," Vex said. "The grazer isn't even aware of the hunter."
 
 Drevin swallowed whatever objection he had been trained to make.
 
@@ -175,22 +183,22 @@ Vex said, "Execute on my mark."
 ***KESTREL VEIL — COMMAND DECK***  
 *COMPOSITE LOCK*
 
-Ortega saw it on passive first—not bloom, absence reversing.
+Ortega's hand stopped on the pad again. On the listen stack, empty return on a stable bearing began to resolve—mass filling in where the sweep had shown nothing. Not a flare. Not closure. Scale building as the picture assembled.
 
 "Captain."
 
 "Report."
 
-"I have a return."
+"I have a return. Large. Still building."
 
 "Classification?"
 
-She let composite lock build. The picture assembled the way the Incident appendix had assembled in Calder's memory without permission—silhouette-scale mass, larger than scout, larger than any platform in Fleet taxonomy, bearing stable, no weapons band spike.
+She let composite lock take it. The picture assembled the way the Incident appendix had assembled in Calder's memory without permission—silhouette-scale mass, larger than any platform in Fleet taxonomy, bearing stable, no weapons band spike.
 
 
-"Unknown category," she said. "Profile consistent with Kestran event witness record. Mass beyond scout scale.  Whatever it is..." she paused, "it is enormous. Masking reduced—not absent. Deliberate visibility."
+"Unknown category," she said. "Profile consistent with Kestran event witness record. Whatever it is..." she paused, "it is enormous. Masking reduced—not absent. Deliberate visibility."
 
-The deck did not panic. Hands stayed on consoles. Tanaka confirmed emitters dark. Brenner held correction thrust. Halden logged *decloak partial, no discharge signature*.
+The deck did not panic. Hands stayed on consoles. Tanaka confirmed emitters dark. Brenner held correction thrust. Halden logged *decloak partial, giving it an odd wavering image, no discharge signature*.
 
 Thessaly did not say the word *enemy*. Neither did Calder.
 
@@ -203,7 +211,7 @@ No one on the deck said anything about the size.
 ***THE DOMINION — VOLUME V17***  
 *POST-REVEAL TELEMETRY*
 
-The scout's passive window held six seconds on Elenko's readout.
+On Elenko's readout, the scout held steady for six seconds—no course change, no emissions spike. Just sitting there taking in the mass of the *Harrow*
 
 "They have reached scale realization," Elenko said.
 
@@ -234,11 +242,7 @@ Vex kept his eyes on the plot.
 
 Park said, "Incoming message. Not language."
 
-The display populated—nested headers, navigation state, identification block, intent marker field empty of threat coding. Park logged it locally. Nothing to Fleet yet.
-
-Holt's voice returned on the delay. "Validation Bay sees you received something. Do not answer until—"
-
-"I know," Calder said.
+The display populated—nested headers, navigation state, identification block, intent marker field empty of threat coding. Park logged it locally. Upstream stayed closed—Validation Bay would see it when they sent, not before.
 
 Park looked up. "Captain—the message format."
 
@@ -250,9 +254,9 @@ Thessaly said, "Explain."
 
 "Not compatible with our language sets," Park said. "It maps to our protocol stack. Header order matches identification exchange format. Older variant. Built to parse here."
 
-Ortega reported, "No illumination from the contact. Holding visibility."
+Ortega reported, "No weapons band from the contact. Holding visibility."
 
-Calder looked at the display, then simply said, "Acknowledged."
+Calder looked at the display. "Local copy only. We do not answer blind."
 
 ---
 
@@ -269,15 +273,13 @@ Petrov asked, "Confirmed?"
 
 Petrov asked, "Response cycle?"
 
-Vex looked at the plot—the scout holding passive, the Leviathan-class mass visible because he had chosen visibility, traffic rerouted on the filed corridor.
+Vex looked at the plot—the scout holding passive, the Leviathan-class mass visible because he had chosen visibility, traffic rerouted along the corridor.
 
 "Authorized," he said.
 
 Drevin asked, "Why?"
 
 "Because they already crossed the boundary," Vex said.
-
-Pause.
 
 "And because they came back."
 
@@ -306,7 +308,7 @@ He dictated—not speech, fields.
 
 IDENTIFICATION: Kestrel Veil. Fleet vessel. Scout-class reconnaissance. Observation status active. Intent: acknowledge receive; maintain passive posture; no pursuit; no illumination.
 
-Park built the block. Ortega verified navigation state matched Reyes's filed corridor. Halden stamped negative space on weapons and pursuit metadata. Thessaly signed the command authorization on the send line.
+Park built the block. Ortega verified navigation state matched Reyes's corridor. Halden stamped negative space on weapons and pursuit metadata. Thessaly signed the command authorization on the send line.
 
 Calder said, "Send."
 
@@ -339,7 +341,7 @@ Vex read it once.
 
 Elenko said, "The header order matches outer-contact archive family. Older variant...I am not an archivist."
 
-Vex said, "File the observation. Do not file speculation."
+Vex said, "Log the observation. Do not log speculation."
 
 ---
 
@@ -350,7 +352,7 @@ Elenko said, "Reply frame ready."
 
 Vex said, "Send equivalent. Identification. Navigation state. Observation. No pursuit."
 
-The send left. The receive returned. The log filed both.
+The send left. The receive returned. The log recorded both.
 
 Petrov asked, "Archive depth?"
 
@@ -358,16 +360,16 @@ Petrov asked, "Archive depth?"
 
 Drevin said, too low for the rail, "We found them."
 
-Vex did not confirm it. The scout held passive on the plot.
+Vex did not confirm it. The scout remained on their plot.
 
-"File contact under behavioral acknowledgment," he said. "Intent unresolved."
+"Log the contact under behavioral acknowledgment," he said. "Intent unresolved."
 
 ---
 
 ***KESTREL VEIL — COMMAND DECK***  
 *FIRST ANSWER*
 
-The reply arrived on Park's console—same message format, Dominion identification block translated into display characters Fleet parsers could render without claiming fluency.
+The reply arrived on Park's console—same message format, identification block translated into display characters Fleet parsers could render without claiming fluency.
 
 Equivalent information. No threats. No demands. Acknowledgment returned.
 
@@ -389,11 +391,9 @@ Calder did not leave the chair.
 
 Ahead on the plot, occupied sector held the corridor around them—traffic rerouted, passive returns organized, a silhouette-scale contact visible because it had chosen to be visible.
 
-The first exchange had succeeded.
-
-Nothing was simpler now.
-
 ❦
 
 **END CHAPTER 23**
+
+<!-- LOCKED FINAL · 2026-07-14 -->
 
