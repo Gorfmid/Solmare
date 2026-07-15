@@ -44,7 +44,7 @@ Halden did not look up from tactical watch until she had something to say.
 
 A dry sound came from Brenner over the engineering channel—not laughter. Agreement with physics, maybe, or with the injector schedule.
 
-Calder, munching on his cardemom bun, stepped fully onto the command deck from the captain's alcove.
+Calder, munching on his cardamom bun, stepped fully onto the command deck from the captain's alcove.
 
 Thessaly turned halfway. Acknowledgment, not greeting.
 

@@ -1,10 +1,10 @@
 ﻿---
 title: "The Kestrel Veil Incident"
-subtitle: "Book One of The Solmare Cycle â€” Act II â€” The Kestrel Veil Incident"
+subtitle: "Book One of The Solmare Cycle — Act II — The Kestrel Veil Incident"
 author: "K.W. Abbott"
 lang: en-US
 rights: "Copyright (c) K.W. Abbott. All rights reserved."
-description: "Book One of The Solmare Cycle. Act II â€” The Kestrel Veil Incident."
+description: "Book One of The Solmare Cycle. Act II — The Kestrel Veil Incident."
 ---
 
 
@@ -44,7 +44,7 @@ Then the thought slipped. Two days of quiet was not long enough to know whether 
 
 The mapping sweep continued through the last quiet minutes before contact—arc seven completing, arc eight staging, the border advisory sitting low in Park's queue where it had sat since Helion Prime. Calder reviewed the sector chart once more on his slate: sparse traffic, old survey lines, nothing that required him to change posture before Mission +03:00. Reyes called a vector correction; Tanaka's dice clicked; Halden marked another ghost trace *non-event*. The command deck breathed the way it breathed when nothing was wrong yet—routine as infrastructure.
 
-<p align="center" class="scene-break" markdown="0">&#183; &#183; &#183;</p>
+<p align="center" class="scene-break" markdown="0">&#10086;</p>
 
 
 The first return came on Ortega's long-range passive channel—Mission +03:00 of the mapping sweep, no alarm, no posture change.
@@ -267,7 +267,7 @@ Park transmitted the late-cycle mapping stub—mandate data only, contact supple
 
 He did not escalate. He did not call Fleet. Partial was partial.
 
-<p align="center" class="scene-break" markdown="0">&#183; &#183; &#183;</p>
+<p align="center" class="scene-break" markdown="0">&#10086;</p>
 
 
 At Mission +05:00 of the mapping sweep, the bearing shifted again—two degrees port, no velocity solution.
@@ -312,6 +312,8 @@ Calder noted it. Tracking adjustment had improved inputs without changing the cy
 
 One ship-array cycle on the new bearing bought sixteen seconds before simultaneous loss. A second cycle pushed comms coherence to forty seconds without passive—the longest single-channel hold of the day.
 
+<p align="center" class="scene-break" markdown="0">&#10086;</p>
+
 
 **RECIPROCAL BEARING**
 
@@ -336,6 +338,8 @@ On the far side of the occlusion zone, the scout kept searching.
 No weapon cycled. No pulse sent.
 
 The hull stayed silent.
+
+<p align="center" class="scene-break" markdown="0">&#10086;</p>
 
 
 **KESTREL VEIL — RESUMED**
@@ -400,7 +404,7 @@ For the next eight minutes the ship arrays ran convergence without the probe—p
 
 Thessaly did not argue for a second probe either. She moved to the logging station and began staging the probe-loss packet—telemetry, passive fragments, cut timestamp, separate attachments. Observed cut. Inferred cause blank. Park opened a buffer shelf for it. Procedure continuing because procedure was how the crew kept moving when outcomes were incomplete.
 
-<p align="center" class="scene-break" markdown="0">&#183; &#183; &#183;</p>
+<p align="center" class="scene-break" markdown="0">&#10086;</p>
 
 
 For twenty minutes after probe loss, the ship arrays repeated the same cycle—try, lose, adjust, try. Holds stretched to thirty-one seconds at Mission +06:30, strongest formation since probe launch; Brenner's cross-check unchanged. Park and Cole kept comms timing. Tanaka finished arc twelve on the port side.
@@ -557,6 +561,8 @@ The contact on bearing two-one-four mark six held on the board as something real
 
 Calder did not speak. He watched.
 
+<p align="center" class="scene-break" markdown="0">&#10086;</p>
+
 
 **RECIPROCAL BEARING**
 
@@ -573,6 +579,8 @@ The monitor alarm did not sound.
 The weapon cycled.
 
 The pulse crossed the gap toward the scout contact.
+
+<p align="center" class="scene-break" markdown="0">&#10086;</p>
 
 
 **KESTREL VEIL — RESUMED**
@@ -626,6 +634,8 @@ Then nothing the instruments could hold.
 Darkness.
 
 
+<p align="center" class="scene-break" markdown="0">&#10086;</p>
+
 
 **COMMAND DEBRIEF (COMMANDER VEX)**
 
@@ -647,7 +657,7 @@ The photon discharge was logged. The scout contact was gone.
 
 **KESTRAN VI-GAMMA WATCHPOST**
 
-<p align="center" class="scene-break" markdown="0">&#183; &#183; &#183;</p>
+<p align="center" class="scene-break" markdown="0">&#10086;</p>
 
 
 Hour nineteen on a watch indistinguishable from Mission +03:00.
@@ -1018,10 +1028,12 @@ The board showed scatter where the contact had been. If Jun was still alive, he 
 
 Dana filed the empty column where silence used to mean the watch had done its job. Quiet still looked the same on the form. It did not weigh the same.
 
+<p align="center" class="scene-break" markdown="0">&#10086;</p>
+
 
 **KESTREL VEIL**
 
-<p align="center" class="scene-break" markdown="0">&#183; &#183; &#183;</p>
+<p align="center" class="scene-break" markdown="0">&#10086;</p>
 
 
 The hours before the lock had taken something from the deck Calder could feel but not write down—nothing the strip had a field for.
@@ -1172,8 +1184,6 @@ No one had been told to stop. No one stopped.
 
 \newpage
 
-<p align="center"><img src="assets/kestrel_veil_schematic.png" alt="Kestrel Veil — scout-class reconnaissance vessel schematic" width="680" /></p>
-
 
 
 # Chapter 7 — The Living Ship {.chapter-opener}
@@ -1248,7 +1258,7 @@ Calder did not fix it.
 
 He started in engineering because Brenner would have started there whether anyone ordered it or not.
 
-<p align="center" class="scene-break" markdown="0">&#183; &#183; &#183;</p>
+<p align="center" class="scene-break" markdown="0">&#10086;</p>
 
 
 The Reing passage smelled like hot insulation and the particular grease Tomas Brenner wore into his skin. Elara Koss had a multimeter between her teeth and a certification slate propped against a junction box. The maintenance stamp said it had not been opened in a year. Brenner had been inside it all morning.
@@ -1399,7 +1409,7 @@ In the pass-through he passed Jun Park running cable with Cole—both of them sm
 
 He kept walking.
 
-<p align="center" class="scene-break" markdown="0">&#183; &#183; &#183;</p>
+<p align="center" class="scene-break" markdown="0">&#10086;</p>
 
 
 Life support came next because Walsh would not let anyone forget it.
@@ -1420,7 +1430,7 @@ Medical bay was calm in the way a field hospital pretended to be an office. Dr. 
 
 "I'll ask you again when you sit down." She returned to her chart. "Go. Brenner's doing that thing where he keeps the ship breathing with spite. It's not the same as healthy."
 
-<p align="center" class="scene-break" markdown="0">&#183; &#183; &#183;</p>
+<p align="center" class="scene-break" markdown="0">&#10086;</p>
 
 
 Internal communications returned in pieces—a morning's work that felt like a week.
@@ -1505,6 +1515,8 @@ Calder nodded. "What do you need before fringe link?"
 
 "Don't. She'll send more runners out of spite."
 
+<p align="center" class="scene-break" markdown="0">&#10086;</p>
+
 
 **KESTRAN VI-GAMMA WATCHPOST**
 
@@ -1585,6 +1597,8 @@ She closed the overlay.
 "Run eleven again," she said.
 
 Lin ran it.
+
+<p align="center" class="scene-break" markdown="0">&#10086;</p>
 
 
 **FLEET OPERATIONS COMMAND — HELION PRIME**
@@ -1767,7 +1781,7 @@ Mercer: "Copy, sir."
 
 Mercer keyed. The floor resumed its temperature—busy without noise, the way Fleet survived bad news.
 
-<p align="center" class="scene-break" markdown="0">&#183; &#183; &#183;</p>
+<p align="center" class="scene-break" markdown="0">&#10086;</p>
 
 
 Short-range communications came back the way Park had promised—in ugly, honest steps.
@@ -1968,7 +1982,7 @@ Lin said, "Chief—"
 
 They ran it. The void remained.
 
-<p align="center" class="scene-break" markdown="0">&#183; &#183; &#183;</p>
+<p align="center" class="scene-break" markdown="0">&#10086;</p>
 
 
 Mission +22:00 on the *Veil*. Internal comms mostly live. Short-range fringe only off-ship. Tactical rebuilding. Navigation waiting on hood.
@@ -2001,7 +2015,7 @@ Calder walked the Reing passage once more—not inspection, presence. He stopped
 
 He was beginning to understand that he was not commanding a crew that had recovered. He was commanding exhausted professionals who had decided to work anyway—and his job was to keep them moving without pretending that was the same as being okay.
 
-<p align="center" class="scene-break" markdown="0">&#183; &#183; &#183;</p>
+<p align="center" class="scene-break" markdown="0">&#10086;</p>
 
 
 Calder sat in the galley for six minutes—the first time he had sat without being summoned since the contact.
@@ -2030,7 +2044,7 @@ Kevin, passing: "Cap. Sit longer next time. The bowl's empty—that counts."
 
 Calder set the bowl down. "Counted." He almost made a promise and didn't. "Six minutes is what I had. It helped."
 
-<p align="center" class="scene-break" markdown="0">&#183; &#183; &#183;</p>
+<p align="center" class="scene-break" markdown="0">&#10086;</p>
 
 
 Before the afternoon rounds, Calder stood in engineering while Brenner walked him through the tube strip one more time. Second departure timestamp inside the discharge window. No engineering key. No command key. No name on the log.
@@ -2045,7 +2059,7 @@ Calder stared at the strip. "You're telling me the ship launched a drone into th
 
 Calder kept turning it over anyway. The strip gave him sequence, not cause. He filed the gap where an answer should have been and walked the departments—medical, tactical, navigation—because the ship still needed a captain moving.
 
-<p align="center" class="scene-break" markdown="0">&#183; &#183; &#183;</p>
+<p align="center" class="scene-break" markdown="0">&#10086;</p>
 
 
 Lieutenant Commander Seru Okwelu in medical ran concussion follow-ups with the patience of a woman who counted sleep debt in other people's names.
@@ -2066,7 +2080,7 @@ Calder did not sit. "Beyond that."
 
 "I know. Tell him I said that. He'll like it."
 
-<p align="center" class="scene-break" markdown="0">&#183; &#183; &#183;</p>
+<p align="center" class="scene-break" markdown="0">&#10086;</p>
 
 
 Halden's tactical bay smelled like burned emitter gel and coffee that had been reheated too many times. Halden had the overlay up on a secondary pane—empty still, but the frame lived.
@@ -2103,7 +2117,7 @@ Calder: "I'll tell Brenner tactical waits in line."
 
 Halden: "Tell Brenner tactical waits until navigation stops sulking. Reyes gets the viewport before I get targets."
 
-<p align="center" class="scene-break" markdown="0">&#183; &#183; &#183;</p>
+<p align="center" class="scene-break" markdown="0">&#10086;</p>
 
 
 Yuki Tanaka had charts spread in colors only she and Reyes shared.
@@ -2124,7 +2138,7 @@ Reyes wanted one more hour with Reing 5 stable—Brenner had promised—then the
 
 Calder left them to it.
 
-<p align="center" class="scene-break" markdown="0">&#183; &#183; &#183;</p>
+<p align="center" class="scene-break" markdown="0">&#10086;</p>
 
 
 Mission +28:00 through Mission +31:00 belonged to navigation and the optical hood.
@@ -2207,7 +2221,7 @@ She did not answer.
 
 Halden, delayed four seconds on tactical watch, reported local space empty—for now—without the sound of relief, only the sound of someone who had been relieved before and learned better. Later Park relayed buffer and star fixes to Holt—confirm receive, four-second delay, confirmed—and logged that too. Nobody told him to stop.
 
-<p align="center" class="scene-break" markdown="0">&#183; &#183; &#183;</p>
+<p align="center" class="scene-break" markdown="0">&#10086;</p>
 
 
 Main propulsion stayed offline until navigation had sky and Reing 5 had held long enough for Koss to trust the numbers.
@@ -2246,7 +2260,7 @@ Hargrove, from the upper crawl: "And someone to tell Fleet we're not a warship w
 
 Calder carried Brenner's love letter to the command deck without comment.
 
-<p align="center" class="scene-break" markdown="0">&#183; &#183; &#183;</p>
+<p align="center" class="scene-break" markdown="0">&#10086;</p>
 
 
 Fleet orders came at Mission +38:00—strip on Holt's board first, then downstream after confirm tokens.
@@ -2299,7 +2313,7 @@ Park, to Calder, lower voice: "Dana will relay the burn notice upstream. Fleet l
 
 "I always do." Park did not smile. "That's why she called me an idiot."
 
-<p align="center" class="scene-break" markdown="0">&#183; &#183; &#183;</p>
+<p align="center" class="scene-break" markdown="0">&#10086;</p>
 
 
 Everyone had work.
@@ -2342,7 +2356,7 @@ Calder was still in engineering. Halden was still rebuilding tactical ten percen
 
 Thessaly took the XO chair, stripped the transit draft of anything that wasn't executable, and set handoff blocks with no open verbs.
 
-<p align="center" class="scene-break" markdown="0">&#183; &#183; &#183;</p>
+<p align="center" class="scene-break" markdown="0">&#10086;</p>
 
 
 Course change came slow—the way the *Veil* did everything now.
@@ -2369,7 +2383,7 @@ Above, stars held for Reyes—not promise, instrument. He finally released the m
 
 Park keyed the burn to buffer and relay lane; Walsh reported no new injuries; Ortega's passive rebuild still died at array handshake—the feed flat, same as every pass.
 
-<p align="center" class="scene-break" markdown="0">&#183; &#183; &#183;</p>
+<p align="center" class="scene-break" markdown="0">&#10086;</p>
 
 
 At the Kestran VI-Gamma watchpost, Holt relayed the burn notice upstream and got confirm back before Calder finished asking. Another Fleet query waited in queue behind it—checksum mismatch on the second pass, the kind of problem that would still be there when the scout was on the collar.
@@ -2396,7 +2410,7 @@ Lin keyed the orders. Holt opened the maintenance channel herself: "Cho, lane tw
 
 Cho's reply crackled once: "Copy, Chief. Food when the collar's green."
 
-<p align="center" class="scene-break" markdown="0">&#183; &#183; &#183;</p>
+<p align="center" class="scene-break" markdown="0">&#10086;</p>
 
 
 In engineering, after the burn had held six minutes, Tomas Brenner reached up over the inner lock and straightened the brass KESTREL VEIL nameplate where the thrust had knocked it askew. Calder had squared it hours ago. The burn had undone that. Cosmetic. Necessary. Not repair.
@@ -2407,7 +2421,7 @@ Hargrove passed him a rag without comment.
 
 Brenner wiped the plate. Stepped back. Went back to work.
 
-<p align="center" class="scene-break" markdown="0">&#183; &#183; &#183;</p>
+<p align="center" class="scene-break" markdown="0">&#10086;</p>
 
 
 "Fringe contact, four minutes." Park said from the buffer. His voice was flat even on internal comm; thirty-eight hours of upstream timestamps will do that. "Kestran VI-Gamma watchpost. Lane two. Emergency berthing. Six-hour window."
@@ -2488,7 +2502,7 @@ Through the collar viewport the array spine rose against the black. Calder final
 
 Calder took the transit tube to the collar level because the lift could not compensate for the port list.
 
-<p align="center" class="scene-break" markdown="0">&#183; &#183; &#183;</p>
+<p align="center" class="scene-break" markdown="0">&#10086;</p>
 
 
 On the watchpost floor, Holt watched the collar light and did not look away until Lin stamped approach final.
@@ -2507,7 +2521,7 @@ Not witness alone.
 
 Bridge.
 
-<p align="center" class="scene-break" markdown="0">&#183; &#183; &#183;</p>
+<p align="center" class="scene-break" markdown="0">&#10086;</p>
 
 
 For thirty-eight hours Thessaly had been the membrane between Calder, the deck, and Fleet—injury summaries, upstream traffic, every gap filled before anyone asked.
@@ -2540,7 +2554,7 @@ Nobody noticed.
 
 Nobody commented.
 
-<p align="center" class="scene-break" markdown="0">&#183; &#183; &#183;</p>
+<p align="center" class="scene-break" markdown="0">&#10086;</p>
 
 
 In the access bay Calder passed Lieutenant Commander Seru Okwelu coordinating clinic transfers—Hale first, two others who had been pretending their burns were minor.
@@ -2561,7 +2575,7 @@ In the access bay Calder passed Lieutenant Commander Seru Okwelu coordinating cl
 
 Calder continued to the collar.
 
-<p align="center" class="scene-break" markdown="0">&#183; &#183; &#183;</p>
+<p align="center" class="scene-break" markdown="0">&#10086;</p>
 
 
 The watchpost berthing ring at Kestran VI-Gamma was a metal collar and a maintenance crawlway grafted onto a listening post that had never been designed to mother wounded ships.
@@ -2628,7 +2642,7 @@ Cho, beside Calder: "He's fun."
 
 Calder nodded once. "You have no idea."
 
-<p align="center" class="scene-break" markdown="0">&#183; &#183; &#183;</p>
+<p align="center" class="scene-break" markdown="0">&#10086;</p>
 
 
 Hour one through four belonged to duct tape theology—insulation from station stores, borrowed relays in Reing 3, couplers that fit almost, Cho's team sharing tools while Brenner shared coffee smuggled from the scout galley because station coffee tasted like administrative regret.
@@ -2647,7 +2661,7 @@ Cho checked in each hour—"What do you still need?"—and Brenner's list grew s
 
 Walsh fought clinic paperwork in hour two. In hour four, aft berthing cooled one degree; Kevin ran hot meals from station galley. Park tested the collar amplifier on schedule; Holt returned *readable*, four seconds later, never *good*.
 
-<p align="center" class="scene-break" markdown="0">&#183; &#183; &#183;</p>
+<p align="center" class="scene-break" markdown="0">&#10086;</p>
 
 
 Walsh logged Calder's two-hour rest at latch. Thessaly enforced what the injury board and Cho's collar would allow. Off-cycle came in fragments—not blocks, but gaps.
@@ -2702,7 +2716,7 @@ Calder found Brenner in the collar bay at hour four, eating stew from a station 
 
 Calder left him there.
 
-<p align="center" class="scene-break" markdown="0">&#183; &#183; &#183;</p>
+<p align="center" class="scene-break" markdown="0">&#10086;</p>
 
 
 Park found Holt in the fringe room between hour three and four—not the primary watch floor, the secondary space where Cartography allowed personal lanes if you didn't lie about the log headers.
@@ -2853,7 +2867,7 @@ Jun Park was alive.
 
 It didn't change the bearing.
 
-<p align="center" class="scene-break" markdown="0">&#183; &#183; &#183;</p>
+<p align="center" class="scene-break" markdown="0">&#10086;</p>
 
 
 Hour five brought Fleet.
@@ -2898,13 +2912,13 @@ In engineering, Brenner heard the orders on delay and said to Koss, "Fleet wants
 
 "Fleet wants miracles," Koss said.
 
-"They'll fauthenticated ready on the strip," Brenner said. "We're patched."
+"They'll be authenticated ready on the strip," Brenner said. "We're patched."
 
 Calder did not comment. Thessaly did not either.
 
 On the command deck, Halden watched local space. Reyes folded the orders into the nav plot. Brenner on intercom: "Patched and leaving. Don't call us ready."
 
-<p align="center" class="scene-break" markdown="0">&#183; &#183; &#183;</p>
+<p align="center" class="scene-break" markdown="0">&#10086;</p>
 
 
 Undock ran heavier than arrival had—the six-hour margin expiring without a bell, Cho saying _you're out of my collar_ and Brenner _we're out of your cable_ in the same minute.
@@ -2947,7 +2961,7 @@ The signal dropped on the next confirm cycle—loss of voice when they outran re
 
 On the watchpost, Holt marked upstream gone. Lin ran sweep eleven without being asked.
 
-<p align="center" class="scene-break" markdown="0">&#183; &#183; &#183;</p>
+<p align="center" class="scene-break" markdown="0">&#10086;</p>
 
 
 Thessaly posted emissions discipline to the watch schedule—lowered lighting, nonessential channels muted, status calls on schedule only. Boots soft. Voices low. Brenner tested the no-chatter rule once with a joke about Reing 3; Koss answered with a thermal reading and he did not joke again.

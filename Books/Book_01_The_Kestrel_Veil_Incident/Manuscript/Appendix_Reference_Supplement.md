@@ -15,10 +15,14 @@ description: "Book One reference supplement. Fleet Historical Office operational
 
 This supplement records what Fleet institutions have **observed**, **certified**, and **routed** through the events of Book One. It does not resolve intent. It does not assign identity where observation did not support it.
 
+<p align="center" class="scene-break" markdown="0">&#10086;</p>
+
 \newpage
 
-# APPENDIX A {.appendix-letter}
-# Fleet Vessel Reference
+# APPENDIX A — Fleet Vessel Reference {.appendix-letter}
+
+<p align="center"><img src="assets/chapter_logo.png" alt="" width="160" /></p>
+
 
 ## Kestrel Veil
 
@@ -30,13 +34,15 @@ Figure A-3 — Kestrel Veil operational configuration (reference plate, profile 
 
 *Property of the Fleet · Reconnaissance Mandate · Status: Operational (patched)*
 
+<p align="center" class="scene-break" markdown="0">&#10086;</p>
+
 
 ### Vessel summary
 
 | Field | Record |
 |-------|--------|
 | **Name** | *Kestrel Veil* |
-| **Registry** | 4471-S |
+| **Registry** | 471 |
 | **Classification** | Scout-class reconnaissance vessel |
 | **Service life** | Forty-plus years in continuous Fleet assignment |
 | **Standard complement** | Twenty-four (scout roster) |
@@ -80,12 +86,18 @@ At completion of the segment seven reconnaissance leg and return to Fleet space:
 
 The *Kestrel Veil* is an ordinary long-service scout that remained operational because her crew treated imperfection as a working condition. No special platform designation applies. Significance attaches to **certified returns** and **command conduct under uncertainty**, not to hull legend.
 
+<p align="center" class="scene-break" markdown="0">&#10086;</p>
+
 \newpage
 
-# APPENDIX B {.appendix-letter}
-# Personnel Reference
+# APPENDIX B — Personnel Reference {.appendix-letter}
+
+<p align="center"><img src="assets/chapter_logo.png" alt="" width="160" /></p>
+
 
 Abbreviated assignment records. Not biographical files. Observed professional characteristics only.
+
+<p align="center" class="scene-break" markdown="0">&#10086;</p>
 
 
 ## Captain Calder Venn
@@ -102,6 +114,8 @@ Abbreviated assignment records. Not biographical files. Observed professional ch
 
 Calder Venn is not catalogued as resolving the contact question. He is catalogued as **refusing to simplify it incorrectly**.
 
+<p align="center" class="scene-break" markdown="0">&#10086;</p>
+
 
 ## Executive Officer Mira Thessaly
 
@@ -116,17 +130,21 @@ Calder Venn is not catalogued as resolving the contact question. He is catalogue
 
 Thessaly's notebook is not certified Fleet custody. It is noted as a command-work product used to prevent narrative compression before witness certification.
 
+<p align="center" class="scene-break" markdown="0">&#10086;</p>
 
-## Chief Engineer Tomás Brenner
+
+## Tomás Brenner — Senior Maintenance
 
 | Field | Record |
 |-------|--------|
-| **Assignment** | Helm / engineering authority (scout operations integration) |
+| **Assignment** | Senior maintenance authority, *Kestrel Veil*; ship-specific mechanical interpreter (reports under Chief Engineer) |
 | **Tenure on hull** | Extended; primary interpreter of *Veil* mechanical behavior |
 
 **Operational significance:** Maintained correction-thrust and Reing reliability through Incident recovery, VI-Gamma patch window, and segment seven endurance leg.
 
 **Professional characterization:** Competent, dry, unsentimental; treats ship limits as facts to be worked with; known for ship-specific maintenance knowledge (documented procedures include non-manual environmental door correction). Not filed as comic relief.
+
+<p align="center" class="scene-break" markdown="0">&#10086;</p>
 
 
 ## Dana Holt — Fleet Communications Validation
@@ -142,6 +160,8 @@ Thessaly's notebook is not certified Fleet custody. It is noted as a command-wor
 
 *Note:* Holt is not *Kestrel Veil* shipboard crew. She is included because no certified Book One record reaches Fleet Command without her validation chain.
 
+<p align="center" class="scene-break" markdown="0">&#10086;</p>
+
 
 ## Felix Ortega — Sensor / Listen Watch
 
@@ -153,6 +173,8 @@ Thessaly's notebook is not certified Fleet custody. It is noted as a command-wor
 **Operational significance:** Primary sensor voice for segment seven listen watch; Alpha Seven contact lock and post-exchange passive monitoring.
 
 **Professional characterization:** Evidence-first; distinguishes traffic acoustics from individual operator identification; reports limits as observed (*not matched*, *cannot classify*).
+
+<p align="center" class="scene-break" markdown="0">&#10086;</p>
 
 
 ## Jun Park — Communications / Archive
@@ -166,6 +188,8 @@ Thessaly's notebook is not certified Fleet custody. It is noted as a command-wor
 
 **Professional characterization:** Precision in timestamp and packet order; correlation discipline; routes information without editorializing witness content.
 
+<p align="center" class="scene-break" markdown="0">&#10086;</p>
+
 
 ## Dr. Marcus Walsh — Medical / Crew Systems
 
@@ -177,6 +201,8 @@ Thessaly's notebook is not certified Fleet custody. It is noted as a command-wor
 **Operational significance:** Maintains human-system readiness across extended passive operations; enforces rest-cycle accountability on command staff when warranted.
 
 **Professional characterization:** Practical; crew-facing realism; treats fatigue and injury as operational variables, not morale anecdotes.
+
+<p align="center" class="scene-break" markdown="0">&#10086;</p>
 
 
 ## Contact Command Authority — Vex (designation unresolved)
@@ -197,10 +223,16 @@ Thessaly's notebook is not certified Fleet custody. It is noted as a command-wor
 
 Fleet does not classify this officer as enemy, ally, or third party. Fleet classifies **conduct observed** and **identity unknown**.
 
+<p align="center" class="scene-break" markdown="0">&#10086;</p>
+
 \newpage
 
-# APPENDIX C {.appendix-letter}
-# Civilizations and Political Entities
+# APPENDIX C — Civilizations and Political Entities {.appendix-letter}
+
+<p align="center"><img src="assets/chapter_logo.png" alt="" width="160" /></p>
+
+
+<p align="center" class="scene-break" markdown="0">&#10086;</p>
 
 
 ## Unified Fleet Authority
@@ -216,13 +248,15 @@ The administrative and operational body coordinating member-world passage, explo
 
 Fleet Authority is not a monolith in practice. It is a **routing architecture** for competing professional readings of the same returns.
 
-<p align="center" class="scene-break" markdown="0">&#183; &#183; &#183;</p>
+<p align="center" class="scene-break" markdown="0">&#10086;</p>
 
 
+<p align="center" class="scene-break" markdown="0">&#10086;</p>
 
-## The Empire / Member Worlds
 
-Common informal name for the coordinated civilization Fleet serves — hundreds of worlds linked by relay corridors, trade, and shared passage law.
+## Member Worlds
+
+Hundreds of worlds linked by relay corridors, trade, and shared passage law — the population and commerce Fleet serves and protects.
 
 *Observed characteristics:*
 
@@ -232,6 +266,8 @@ Common informal name for the coordinated civilization Fleet serves — hundreds 
 - Not narratively perfect; not narratively evil — **operationally busy**
 
 Member worlds produce the commerce and personnel Fleet patrols protect. Frontier maps describe Fleet survey confidence, not moral verdict on worlds beyond them.
+
+<p align="center" class="scene-break" markdown="0">&#10086;</p>
 
 
 ## Structured Contact Civilization
@@ -258,19 +294,25 @@ Fleet does not assign villain classification. Fleet assigns **observation bands*
 
 ### Information discipline
 
-No entry in this supplement asserts contact civilization's self-knowledge beyond what Fleet observed. Internal Dominion debates, directorate names, and trial programs are **not** Fleet custody at Book One close.
+No entry in this supplement asserts contact civilization's self-knowledge beyond what Fleet observed. Internal debates, directorate names, and trial programs inside that civilization are **not** Fleet custody at Book One close.
+
+<p align="center" class="scene-break" markdown="0">&#10086;</p>
 
 \newpage
 
-# APPENDIX D {.appendix-letter}
-# Operational Terms
+# APPENDIX D — Operational Terms {.appendix-letter}
+
+<p align="center"><img src="assets/chapter_logo.png" alt="" width="160" /></p>
+
 
 Short definitions as used in certified Book One records. Not exhaustive.
+
+<p align="center" class="scene-break" markdown="0">&#10086;</p>
 
 
 ## Segment Seven
 
-A **geographic reconnaissance volume** along the outer Kestran arm — corridor designation family including seven-alpha, seven-beta, and related routing notation.
+A **geographic reconnaissance volume** along the outer Kestran Spiral — corridor designation family including seven-alpha, seven-beta, and related routing notation.
 
 Segment seven is:
 
@@ -284,10 +326,14 @@ Segment seven is **not**:
 - a command authority  
 - a synonym for the contact civilization
 
+<p align="center" class="scene-break" markdown="0">&#10086;</p>
+
 
 ## Corridor Seven-Alpha
 
 A corridor designation within segment seven used in navigation baseline comparisons and epoch review packets. Referenced in Cartography reconciliation records and witness annex overlays.
+
+<p align="center" class="scene-break" markdown="0">&#10086;</p>
 
 
 ## The Kestrel Veil Incident
@@ -301,6 +347,8 @@ The engagement at Kestran Spiral bearing 214 mark 6 in which:
 - Witness fragments entered VI-Gamma relay custody
 
 **Distinct from:** segment seven crossing (later passive reconnaissance leg) and Alpha Seven first exchange.
+
+<p align="center" class="scene-break" markdown="0">&#10086;</p>
 
 
 ## First Doctrine (adopted Ch. 21; taught via Edition 144 primer)
@@ -317,6 +365,8 @@ Fleet operational framework established after segment seven certification and fi
 
 **Institutional function:** Replaces default absence notation where certified observation requires restraint under uncertainty.
 
+<p align="center" class="scene-break" markdown="0">&#10086;</p>
+
 
 ## Listen Watch
 
@@ -327,6 +377,8 @@ Passive reconnaissance method emphasizing sustained low-emission monitoring.
 **Not observed layer:** individual operator identities, faces, or named vessels resolved from harmonics alone.
 
 Listen watch produces **how busy the corridor sounds**, not **who** occupies it.
+
+<p align="center" class="scene-break" markdown="0">&#10086;</p>
 
 
 ## Archive Custody
@@ -343,26 +395,34 @@ Fleet process for validating and routing recorded returns.
 
 Certified records live in custody chains and validated digital headers. Working hardcopy and slates support witness procedure; they are not sole authority.
 
+<p align="center" class="scene-break" markdown="0">&#10086;</p>
+
 
 
 Communications Command review node in the Kestran VI-Gamma relay chain. Validates packets before executive digest reaches Operations tier. Associated authority: Dana Holt (Book One chain).
+
+<p align="center" class="scene-break" markdown="0">&#10086;</p>
 
 
 ## Alpha Seven
 
 Chart notation for contact volume used in Edition 144 crossing orders. Site of acknowledged technical exchange. Not equivalent to segment seven entire volume.
 
+<p align="center" class="scene-break" markdown="0">&#10086;</p>
+
 \newpage
 
-# APPENDIX E {.appendix-letter}
-# Historical Timeline
+# APPENDIX E — Historical Timeline {.appendix-letter}
+
+<p align="center"><img src="assets/chapter_logo.png" alt="" width="160" /></p>
+
 
 Abbreviated institutional chronology. Dates approximate where Fleet uses era notation rather than single calendar.
 
 | Era / Event | Institutional record |
 |-------------|---------------------|
 | **Consolidation and relay charter period** | Member corridors joined under shared passage law; Founders' observances established across worlds |
-| **Relay corridor expansion** | Survey notation extended along Kestran arm and outer marches; Edition 143 survey assumptions codified |
+| **Relay corridor expansion** | Survey notation extended along Kestran Spiral and outer marches; Edition 143 survey assumptions codified |
 | **Routine exploration and patrol century** | Scout reconnaissance, freight traffic, and Cartography epoch adjustments treated as administrative continuity |
 | **Founders' Week eve — Meridian Gate** | Analyst Maris Chen drafted segment seven baseline divergence report; transmission not authorized before medical event; packet later reclassified *antecedent unresolved* |
 | **Kestrel Veil Incident** | Engagement at bearing 214 mark 6; hull loss corrected; VI-Gamma witness chain active |
@@ -377,15 +437,27 @@ Abbreviated institutional chronology. Dates approximate where Fleet uses era not
 
 No entry beyond this table is authorized in the Book One reference supplement.
 
+<p align="center" class="scene-break" markdown="0">&#10086;</p>
+
+\newpage
+
+# APPENDIX F — Fleet Operational Chart {.appendix-letter}
+
+<p align="center"><img src="assets/chapter_logo.png" alt="" width="160" /></p>
+
+
+<p align="center"><img src="assets/ufa_navigation_chart.png" alt="Unified Fleet Authority official navigation chart" width="720" /></p>
+
+Figure F-1 — Unified Fleet Authority operational chart. Certified survey boundaries reflect Fleet knowledge at Edition 144. Uncharted volume may contain unverified infrastructure, traffic, or civilizations.
+
+<p align="center" class="scene-break" markdown="0">&#10086;</p>
+
 
 **Fleet Historical Office**  
 **Operations Liaison — Book One Reference**  
 *Edition 144 cycle · Restricted internal*
 
 Maps describe what Fleet has certified. Not necessarily what exists.
-
-
-*END APPENDIX*
 
 \newpage
 

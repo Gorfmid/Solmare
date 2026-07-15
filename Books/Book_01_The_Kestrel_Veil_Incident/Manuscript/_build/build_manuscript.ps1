@@ -172,6 +172,7 @@ function Build-ManuscriptContent {
     param(
         [int]$ChapterStart,
         [int]$ChapterEnd,
+        [switch]$IncludeCopyright,
         [switch]$IncludePrologue,
         [switch]$IncludeEpilogue,
         [switch]$IncludeAppendix,
@@ -185,6 +186,18 @@ function Build-ManuscriptContent {
 
     $sb = New-Object System.Text.StringBuilder
 
+    if ($IncludeCopyright) {
+        $copyrightFile = Join-Path (Join-Path $bookRoot 'About') 'copyright.md'
+        if (Test-Path $copyrightFile) {
+            $copyrightRaw = Get-Content $copyrightFile -Raw -Encoding UTF8
+            $copyrightConverted = Convert-Copyright -Content $copyrightRaw
+            $copyrightWords = ($copyrightConverted | Measure-Object -Word).Words
+            $TotalWords.Value += $copyrightWords
+            [void]$sb.Append($copyrightConverted.TrimEnd())
+            Write-Host "Included copyright: $copyrightFile ($copyrightWords words)"
+        }
+    }
+
     if ($IncludePrologue) {
         $prologueFile = Join-Path $chaptersDir "prologue.md"
         if (Test-Path $prologueFile) {
@@ -192,6 +205,9 @@ function Build-ManuscriptContent {
             $prologueConverted = Convert-Prologue -Content $prologueRaw
             $prologueWords = ($prologueConverted | Measure-Object -Word).Words
             $TotalWords.Value += $prologueWords
+            if ($sb.Length -gt 0) {
+                [void]$sb.Append("`n`n\newpage`n`n")
+            }
             [void]$sb.Append($prologueConverted.TrimEnd())
             Write-Host "Included prologue: $prologueFile ($prologueWords words)"
             Append-ArchiveInterludes -Builder $sb -AnchorKey 'prologue' -ArchiveMap $ArchiveMap -TotalWords $TotalWords -ArchiveStats $ArchiveStats
@@ -266,10 +282,11 @@ function Write-ActMarkdownFiles {
         [hashtable]$ArchiveMap
     )
 
+    $em = [char]0x2014
     $acts = @(
         @{
             File = 'Act_I_Routine_Patrol.md'
-            Subtitle = 'Act I — Routine Patrol'
+            Subtitle = "Act I $em Routine Patrol"
             ChapterStart = 1
             ChapterEnd = 4
             IncludePrologue = $true
@@ -277,7 +294,7 @@ function Write-ActMarkdownFiles {
         },
         @{
             File = 'Act_II_The_Kestrel_Veil_Incident.md'
-            Subtitle = 'Act II — The Kestrel Veil Incident'
+            Subtitle = "Act II $em The Kestrel Veil Incident"
             ChapterStart = 5
             ChapterEnd = 8
             IncludePrologue = $false
@@ -285,7 +302,7 @@ function Write-ActMarkdownFiles {
         },
         @{
             File = 'Act_III_Shadows_Beyond_the_Border.md'
-            Subtitle = 'Act III — Shadows Beyond the Border'
+            Subtitle = "Act III $em Shadows Beyond the Border"
             ChapterStart = 9
             ChapterEnd = 16
             IncludePrologue = $false
@@ -293,7 +310,7 @@ function Write-ActMarkdownFiles {
         },
         @{
             File = 'Act_IV_First_Doctrine.md'
-            Subtitle = 'Act IV — First Doctrine'
+            Subtitle = "Act IV $em First Doctrine"
             ChapterStart = 17
             ChapterEnd = 24
             IncludePrologue = $false
@@ -321,7 +338,7 @@ function Write-ActMarkdownFiles {
         $actYaml = @"
 ---
 title: "The Kestrel Veil Incident"
-subtitle: "Book One of The Solmare Cycle — $($act.Subtitle)"
+subtitle: "Book One of The Solmare Cycle $em $($act.Subtitle)"
 author: "K.W. Abbott"
 lang: en-US
 rights: "Copyright (c) K.W. Abbott. All rights reserved."
@@ -334,6 +351,72 @@ description: "Book One of The Solmare Cycle. $($act.Subtitle)."
         [System.IO.File]::WriteAllText($actPath, $actText, [System.Text.UTF8Encoding]::new($true))
         Write-Host "Created act markdown: $actPath ($actWords words)"
     }
+
+    Write-PrologueEpilogueMarkdownFiles -ArchiveMap $ArchiveMap
+}
+
+function Write-PrologueEpilogueMarkdownFiles {
+    param(
+        [hashtable]$ArchiveMap
+    )
+
+    $em = [char]0x2014
+
+    # Standalone Prologue (includes FSA-143-07 archive placed after prologue)
+    $prologueWords = 0
+    $prologueChapterStats = New-Object System.Collections.Generic.List[object]
+    $prologueArchiveStats = New-Object System.Collections.Generic.List[object]
+    $prologueCleanup = @()
+    $prologueSb = New-Object System.Text.StringBuilder
+    $prologueFile = Join-Path $chaptersDir "prologue.md"
+    if (Test-Path $prologueFile) {
+        $prologueRaw = Get-Content $prologueFile -Raw -Encoding UTF8
+        $prologueConverted = Convert-Prologue -Content $prologueRaw
+        $prologueWords = ($prologueConverted | Measure-Object -Word).Words
+        [void]$prologueSb.Append($prologueConverted.TrimEnd())
+        Append-ArchiveInterludes -Builder $prologueSb -AnchorKey 'prologue' -ArchiveMap $ArchiveMap -TotalWords ([ref]$prologueWords) -ArchiveStats $prologueArchiveStats
+    }
+    $prologueYaml = @"
+---
+title: "The Kestrel Veil Incident"
+subtitle: "Book One of The Solmare Cycle $em Prologue"
+author: "K.W. Abbott"
+lang: en-US
+rights: "Copyright (c) K.W. Abbott. All rights reserved."
+description: "Book One of The Solmare Cycle. Prologue."
+---
+
+"@
+    $prologueText = Fix-EmphasisApostrophes ($prologueYaml + $prologueSb.ToString())
+    $prologueOut = Join-Path $outDir "Prologue.md"
+    [System.IO.File]::WriteAllText($prologueOut, $prologueText, [System.Text.UTF8Encoding]::new($true))
+    Write-Host "Created prologue markdown: $prologueOut ($prologueWords words)"
+
+    # Standalone Epilogue
+    $epilogueWords = 0
+    $epilogueSb = New-Object System.Text.StringBuilder
+    $epilogueFile = Join-Path $chaptersDir "epilogue.md"
+    if (Test-Path $epilogueFile) {
+        $epilogueRaw = Get-Content $epilogueFile -Raw -Encoding UTF8
+        $epilogueConverted = Convert-Epilogue -Content $epilogueRaw
+        $epilogueWords = ($epilogueConverted | Measure-Object -Word).Words
+        [void]$epilogueSb.Append($epilogueConverted.TrimEnd())
+    }
+    $epilogueYaml = @"
+---
+title: "The Kestrel Veil Incident"
+subtitle: "Book One of The Solmare Cycle $em Epilogue"
+author: "K.W. Abbott"
+lang: en-US
+rights: "Copyright (c) K.W. Abbott. All rights reserved."
+description: "Book One of The Solmare Cycle. Epilogue."
+---
+
+"@
+    $epilogueText = Fix-EmphasisApostrophes ($epilogueYaml + $epilogueSb.ToString())
+    $epilogueOut = Join-Path $outDir "Epilogue.md"
+    [System.IO.File]::WriteAllText($epilogueOut, $epilogueText, [System.Text.UTF8Encoding]::new($true))
+    Write-Host "Created epilogue markdown: $epilogueOut ($epilogueWords words)"
 }
 
 function Export-PlainText {
@@ -405,8 +488,12 @@ function Test-PovMarkerLine {
 function Test-ProductionMarkerLine {
     param([string]$Line)
     $t = $Line.Trim()
-    return $t -match '^(?i)(\*\*)?END CHAPTER \d+(\*\*)?$' -or
-           $t -match '^(?i)(\*\*)?END BOOK ONE(\*\*)?$' -or
+    # Strip wrapping bold/italic so *END ACT III* and **END CHAPTER N** both match.
+    $bare = $t -replace '^(\*{1,3})(.+?)\1$', '$2'
+    return $bare -match '^(?i)END CHAPTER \d+$' -or
+           $bare -match '^(?i)END BOOK ONE$' -or
+           $bare -match '^(?i)END ACT ([IVX]+|\d+)$' -or
+           $bare -match '^(?i)END APPENDIX$' -or
            $t -match '^\*\*KESTREL VEIL\b' -or
            $t -match '^=== END OF .+ ===$'
 }
@@ -424,8 +511,8 @@ function Add-SceneBreak {
     if ($Out.Count -gt 0 -and -not [string]::IsNullOrWhiteSpace($Out[$Out.Count - 1])) {
         $Out.Add('')
     }
-    # Never use asterisks here — Pandoc parses them as nested lists inside HTML blocks.
-    $Out.Add('<p align="center" class="scene-break" markdown="0">&#183; &#183; &#183;</p>')
+    # Prefer the manuscript ornament over mid-dots — works in EPUB/DOCX and pandoc HTML.
+    $Out.Add('<p align="center" class="scene-break" markdown="0">&#10086;</p>')
     $Out.Add('')
 }
 
@@ -487,6 +574,9 @@ function Convert-PublicationBody {
         if (Test-EventHeadingLine -Line $line) { continue }
 
         if ($line -match '^---\s*$') {
+            if ($out.Count -gt 0) {
+                Add-SceneBreak -Out $out
+            }
             continue
         }
 
@@ -512,6 +602,17 @@ function Convert-PublicationBody {
     }
     while ($out.Count -gt 0 -and $out[$out.Count - 1] -match '^---\s*$') {
         $out.RemoveAt($out.Count - 1)
+    }
+    # Drop trailing scene-break ornaments left behind after stripped production markers
+    # (e.g. ❦ before *END ACT III*).
+    while ($out.Count -gt 0 -and (
+        $out[$out.Count - 1] -match '^\s*[❦✧◆●•·]\s*$' -or
+        $out[$out.Count - 1] -match 'scene-break'
+    )) {
+        $out.RemoveAt($out.Count - 1)
+        while ($out.Count -gt 0 -and [string]::IsNullOrWhiteSpace($out[$out.Count - 1])) {
+            $out.RemoveAt($out.Count - 1)
+        }
     }
     while ($out.Count -gt 0 -and [string]::IsNullOrWhiteSpace($out[$out.Count - 1])) {
         $out.RemoveAt($out.Count - 1)
@@ -729,6 +830,11 @@ function Convert-FrontMatterSection {
     return "$header`n`n$body"
 }
 
+function Convert-Copyright {
+    param([string]$Content)
+    return Convert-FrontMatterSection -Content $Content -Heading 'Copyright' -CssClass 'copyright'
+}
+
 function Convert-Prologue {
     param([string]$Content)
     return Convert-FrontMatterSection -Content $Content -Heading 'Prologue' -CssClass 'prologue'
@@ -769,10 +875,13 @@ function Convert-Appendix {
 
     $bodyLines = Convert-PublicationBody -Lines $lines[$bodyStart..($lines.Count - 1)]
 
-    # Each lettered appendix (A–G) starts on its own page.
+    # Letter appendices: one heading (letter + title), optional logo, then body on same page.
+    $logoLine = '<p align="center"><img src="assets/chapter_logo.png" alt="" width="160" /></p>'
     $paged = New-Object System.Collections.Generic.List[string]
-    foreach ($line in $bodyLines) {
-        if ($line -match '^#\s+APPENDIX\s+([A-G])\s*$') {
+    $i = 0
+    while ($i -lt $bodyLines.Count) {
+        $line = $bodyLines[$i]
+        if ($line -match '^#\s+APPENDIX\s+([A-F])\s*$') {
             $letter = $Matches[1]
             while ($paged.Count -gt 0 -and (
                 [string]::IsNullOrWhiteSpace($paged[$paged.Count - 1]) -or
@@ -785,10 +894,34 @@ function Convert-Appendix {
                 [void]$paged.Add('\newpage')
                 [void]$paged.Add('')
             }
-            [void]$paged.Add(("# APPENDIX $letter " + '{.appendix-letter}'))
+
+            $title = $null
+            $j = $i + 1
+            while ($j -lt $bodyLines.Count -and [string]::IsNullOrWhiteSpace($bodyLines[$j])) { $j++ }
+            if ($j -lt $bodyLines.Count -and $bodyLines[$j] -match '^#\s+(.+)$' -and $bodyLines[$j] -notmatch '^#\s+APPENDIX\b') {
+                $title = $Matches[1].Trim()
+                $i = $j
+            }
+
+            $em = [char]0x2014
+            if ($title) {
+                [void]$paged.Add(("# APPENDIX $letter $em $title " + '{.appendix-letter}'))
+            } else {
+                [void]$paged.Add(("# APPENDIX $letter " + '{.appendix-letter}'))
+            }
+            [void]$paged.Add('')
+            [void]$paged.Add($logoLine)
+            [void]$paged.Add('')
+            $i++
+            continue
+        }
+        # Drop legacy lone schematic appendix if any remnant appears
+        if ($line -match '^#\s+APPENDIX\s+G\b' -or $line -match '(?i)kestrel_veil_schematic\.png') {
+            $i++
             continue
         }
         [void]$paged.Add($line)
+        $i++
     }
     $bodyLines = $paged
 
@@ -1046,6 +1179,7 @@ $archiveMap = Get-ArchiveInterludesByAnchor
 $sb = Build-ManuscriptContent `
     -ChapterStart 1 `
     -ChapterEnd 24 `
+    -IncludeCopyright `
     -IncludePrologue `
     -IncludeEpilogue `
     -IncludeAppendix `

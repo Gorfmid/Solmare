@@ -426,7 +426,7 @@ In engineering, Brenner heard the orders on delay and said to Koss, "Fleet wants
 
 "Fleet wants miracles," Koss said.
 
-"They'll fauthenticated ready on the strip," Brenner said. "We're patched."
+"They'll be authenticated ready on the strip," Brenner said. "We're patched."
 
 Calder did not comment. Thessaly did not either.
 

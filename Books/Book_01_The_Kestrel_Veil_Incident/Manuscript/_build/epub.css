@@ -61,6 +61,7 @@ h1.chapter-opener {
   page-break-after: avoid;
 }
 
+h1.copyright,
 h1.prologue,
 h1.archive-interlude,
 h1.epilogue {
@@ -70,6 +71,14 @@ h1.epilogue {
   font-style: normal;
   margin: 2.5em 0 1em 0;
   page-break-before: always;
+}
+
+/* Copyright page — centered, no indent */
+h1.copyright + p,
+h1.copyright ~ p {
+  text-align: center;
+  text-indent: 0;
+  margin: 0 0 0.85em 0;
 }
 
 /* Prologue epigraph — centered, no indent */

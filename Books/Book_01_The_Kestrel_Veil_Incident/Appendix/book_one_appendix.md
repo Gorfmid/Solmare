@@ -414,17 +414,6 @@ No entry beyond this table is authorized in the Book One reference supplement.
 
 ---
 
-\newpage
-
-# APPENDIX G
-# Kestrel Veil Schematic
-
-<p align="center"><img src="../Manuscript/assets/kestrel_veil_schematic.png" alt="Kestrel Veil — scout-class reconnaissance vessel schematic" width="720" /></p>
-
-*Figure G-1 — Kestrel Veil scout-class reconnaissance schematic. Certified hull and systems layout reflect Fleet archive knowledge at Edition 144. Post-Incident patches and on-hull wear may diverge from plate notation.*
-
----
-
 **Fleet Historical Office**  
 **Operations Liaison — Book One Reference**  
 **Edition 144 cycle · Restricted internal**

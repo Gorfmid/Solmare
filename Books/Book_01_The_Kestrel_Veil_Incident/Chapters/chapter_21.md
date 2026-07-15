@@ -261,7 +261,7 @@ The strip carried the same language in shorter form:
 
 "I understand the posture," Calder said.
 
-Rowan studied him. "Posture is the language on a strip. The return is different. If Fleet sends you back into that corridor, you go knowing what hit may still be out there.  You go knowing that you are on your own, and you go knowing howclose you came the first time. Do you understand that?"
+Rowan studied him. "Posture is the language on a strip. The return is different. If Fleet sends you back into that corridor, you go knowing what hit may still be out there. You go knowing that you are on your own, and you go knowing how close you came the first time. Do you understand that?"
 
 Calder was quiet long enough that the yard clerk's argument with Koss became audible again.
 

@@ -1,0 +1,26 @@
+﻿{
+    "PdfPath":  "C:\\Users\\gorfm\\Documents\\projects\\solmare\\Books\\Book_01_The_Kestrel_Veil_Incident\\Manuscript\\The_Kestrel_Veil_Incident_Paperback_6x9.pdf",
+    "FileBytes":  4561295,
+    "PageCount":  301,
+    "MediaBoxSamples":  [
+                            "/MediaBox[0 0 432 648]",
+                            "/MediaBox[0 0 432 648]",
+                            "/MediaBox[0 0 432 648]",
+                            "/MediaBox[0 0 432 648]",
+                            "/MediaBox[0 0 432 648]"
+                        ],
+    "UniquePageSizesInches":  [
+                                  "6x9"
+                              ],
+    "ExactSixByNine":  true,
+    "LetterSizeDetected":  false,
+    "FontsEmbedded":  true,
+    "ImageXObjectCount":  3,
+    "PrinterMarksSuspected":  false,
+    "Notes":  [
+                  "MediaBox counts found: 301",
+                  "Validation is structural (PDF tokens). Visual proofing still recommended in Kindle Previewer / Acrobat.",
+                  "Target trim: 6.0 x 9.0 in. Margins applied in Typst: inside 0.75in, outside 0.5in, top 0.6in, bottom 0.7in."
+              ],
+    "GeneratedAt":  "2026-07-14T21:05:03.6958060-06:00"
+}

@@ -35,11 +35,12 @@ Remove-Item -LiteralPath $funcPath -Force -ErrorAction SilentlyContinue
 
 $archiveMap = Get-ArchiveInterludesByAnchor
 
+$em = [char]0x2014
 $acts = @(
     @{
         Id = 'I'
         File = 'Act_I_Routine_Patrol.md'
-        Subtitle = 'Act I — Routine Patrol'
+        Subtitle = "Act I $em Routine Patrol"
         ChapterStart = 1
         ChapterEnd = 4
         IncludePrologue = $true
@@ -48,7 +49,7 @@ $acts = @(
     @{
         Id = 'II'
         File = 'Act_II_The_Kestrel_Veil_Incident.md'
-        Subtitle = 'Act II — The Kestrel Veil Incident'
+        Subtitle = "Act II $em The Kestrel Veil Incident"
         ChapterStart = 5
         ChapterEnd = 8
         IncludePrologue = $false
@@ -57,7 +58,7 @@ $acts = @(
     @{
         Id = 'III'
         File = 'Act_III_Shadows_Beyond_the_Border.md'
-        Subtitle = 'Act III — Shadows Beyond the Border'
+        Subtitle = "Act III $em Shadows Beyond the Border"
         ChapterStart = 9
         ChapterEnd = 16
         IncludePrologue = $false
@@ -66,7 +67,7 @@ $acts = @(
     @{
         Id = 'IV'
         File = 'Act_IV_First_Doctrine.md'
-        Subtitle = "Act IV$([char]0x2014)First Doctrine"
+        Subtitle = "Act IV $em First Doctrine"
         ChapterStart = 17
         ChapterEnd = 24
         IncludePrologue = $false
@@ -93,7 +94,6 @@ foreach ($act in $selected) {
         -ArchiveStats $actArchiveStats `
         -ManualCleanup ([ref]$actCleanup)
 
-    $em = [char]0x2014
     $actYaml = @"
 ---
 title: "The Kestrel Veil Incident"
@@ -109,4 +109,8 @@ description: "Book One of The Solmare Cycle. $($act.Subtitle)."
     $actPath = Join-Path $outDir $act.File
     [System.IO.File]::WriteAllText($actPath, $actText, [System.Text.UTF8Encoding]::new($true))
     Write-Host "Created act markdown: $actPath ($actWords words)"
+}
+
+if ($ActId -eq 'All') {
+    Write-PrologueEpilogueMarkdownFiles -ArchiveMap $archiveMap
 }

@@ -1,10 +1,10 @@
 ﻿---
 title: "The Kestrel Veil Incident"
-subtitle: "Book One of The Solmare Cycle â€” Act III â€” Shadows Beyond the Border"
+subtitle: "Book One of The Solmare Cycle — Act III — Shadows Beyond the Border"
 author: "K.W. Abbott"
 lang: en-US
 rights: "Copyright (c) K.W. Abbott. All rights reserved."
-description: "Book One of The Solmare Cycle. Act III â€” Shadows Beyond the Border."
+description: "Book One of The Solmare Cycle. Act III — Shadows Beyond the Border."
 ---
 
 
@@ -170,6 +170,8 @@ Stratimirov set the cup down.
 
 Petrov: "Understood, sir."
 
+<p align="center" class="scene-break" markdown="0">&#10086;</p>
+
 
 **KESTREL VEIL — COMMAND DECK**
 
@@ -271,6 +273,8 @@ The stillness itself was new. Before the Incident, a false call would have earne
 
 The *Veil* moved forward into segment seven on correction thrust held at minimal fraction—Reing 5's low hum, scrubber cycle, the rattle of a panel Brenner had shimmed twelve years ago on a watch he still remembered.
 
+<p align="center" class="scene-break" markdown="0">&#10086;</p>
+
 
 **KESTREL VEIL — ENGINEERING**
 
@@ -343,6 +347,8 @@ Koss pulled him aside while Pell ran trace on the next junction. "You're changin
 Brenner looked at her. "Then we keep her alive long enough to tell Calder we were right."
 
 The *Veil* continued through the border, and Brenner kept listening.
+
+<p align="center" class="scene-break" markdown="0">&#10086;</p>
 
 
 **THE DOMINION — BORDER SURVEILLANCE NODE K-17**
@@ -426,6 +432,8 @@ Kovat watched the faint return hold on her board—professional, fragile, real.
 The report was filed. The track remained faint. Another station farther up the chain would decide what it meant.
 
 K-17 did not solve mysteries. K-17 ensured they were not missed.
+
+<p align="center" class="scene-break" markdown="0">&#10086;</p>
 
 
 **KESTREL VEIL — COMMAND DECK**
@@ -594,6 +602,8 @@ Volkova thought of four-seven's delay and accepted it the way she accepted weath
 
 Then she went to her desk and routed the world.
 
+<p align="center" class="scene-break" markdown="0">&#10086;</p>
+
 
 **KESTREL VEIL — COMMAND DECK**
 
@@ -665,6 +675,8 @@ Calder told him to note the anomaly and to ensure the Veil stays hidden.
 
 Brenner on intercom reported handshake lag trending up—not failure, environment load: whatever was moving out there, the traffic network was carrying it. Calder told him to note it; Brenner noted it and cut.
 
+<p align="center" class="scene-break" markdown="0">&#10086;</p>
+
 
 ***THE DOMINION — ORBITAL CONSTRUCTION YARD KESSIK-OUTER***  
 FABRICATION
@@ -735,6 +747,8 @@ He used *deadline*.
 
 On the transit ride he fell asleep against the window and missed his stop once. It happened often enough among the yard crews that no one laughed when they saw someone walking back from the next station.
 
+<p align="center" class="scene-break" markdown="0">&#10086;</p>
+
 
 **KESTREL VEIL — SENSOR ALCOVE**
 
@@ -800,6 +814,8 @@ Reyes, from the doorway: "Same transit windows, same correction pulses—we're i
 
 Ghosts in the dark, listening to other ghosts.
 
+<p align="center" class="scene-break" markdown="0">&#10086;</p>
+
 
 **THE DOMINION — K-17 / TRANSIT / HOME**
 
@@ -856,6 +872,8 @@ She washed the jar so the roots would have clean water.
 She went to sleep knowing the contact was still out there—quiet, unidentified, and still holding the same track.
 
 Kovat slept anyway.
+
+<p align="center" class="scene-break" markdown="0">&#10086;</p>
 
 
 **KESTREL VEIL — COMMAND DECK**
@@ -1008,6 +1026,8 @@ At her desk she reconciled Dusan's morning read against the reserve ledger—fif
 
 Outside, orbital traffic kept moving while the paperwork kept moving inside.
 
+<p align="center" class="scene-break" markdown="0">&#10086;</p>
+
 
 **KESTREL VEIL — SENSOR ALCOVE**
 
@@ -1089,6 +1109,8 @@ In the faint harmonics, something like a transport captain complained about dela
 
 Something like a controller answered with tired patience.
 
+<p align="center" class="scene-break" markdown="0">&#10086;</p>
+
 
 ***THE DOMINION — DISTRICT NINE / SCHOOL YARD***  
 FOUNDERS' WEEK
@@ -1151,6 +1173,8 @@ They walked home through banners that had grown bolder overnight—gold thread, 
 
 At the corner, Nika counted her allowance twice, bought sweets, and held the bag out to Kovat without quite meeting her eyes. Kovat took one.
 
+<p align="center" class="scene-break" markdown="0">&#10086;</p>
+
 
 **KESTREL VEIL — WARDROOM**
 
@@ -1205,6 +1229,8 @@ Brenner reported over the intercom. "Reing Three handshake nominal. Environmenta
 "Acknowledged," Calder said.
 
 
+<p align="center" class="scene-break" markdown="0">&#10086;</p>
+
 
 ***THE DOMINION — ORBITAL CONSTRUCTION YARD KESSIK-OUTER***  
 SHIFT CHANGE
@@ -1255,6 +1281,8 @@ On the upper catwalk, Petran was already coming down from Slip Seven—old enoug
 "And brought flowers a week late."
 
 "Good man." Petran kept walking.
+
+<p align="center" class="scene-break" markdown="0">&#10086;</p>
 
 
 ***KESTREL VEIL — COMMAND DECK***  
@@ -1394,6 +1422,8 @@ A separate line item referenced trial command— *review ongoing, contact withhe
 
 Stratimirov circled *withheld* and sent the packet on.
 
+<p align="center" class="scene-break" markdown="0">&#10086;</p>
+
 
 ***KESTREL VEIL — COMMAND DECK***  
 THE ECHO
@@ -1437,6 +1467,8 @@ Brenner on intercom reported handshake lag ticking up again—not failure, envir
 The *Veil* whispered.
 
 Somewhere in the lane traffic, a passive return answered— not words, not confirmation, only the measurable gap between an empty volume and one under observation.
+
+<p align="center" class="scene-break" markdown="0">&#10086;</p>
 
 
 ***THE DOMINION — REGIONAL TRANSPORTATION DIRECTORATE***  
@@ -1521,6 +1553,8 @@ By afternoon the variance ticked to 0.8%.
 Still not a story.
 
 Closer to one.
+
+<p align="center" class="scene-break" markdown="0">&#10086;</p>
 
 
 ***KESTREL VEIL — SENSOR ALCOVE***  
@@ -1610,6 +1644,8 @@ The transit band held its intervals.
 
 The confirms kept stacking.
 
+<p align="center" class="scene-break" markdown="0">&#10086;</p>
+
 
 ***THE DOMINION — BORDER SURVEILLANCE NODE K-17***  
 THE REVIEW
@@ -1675,6 +1711,8 @@ Kovat did not know what it was.
 She knew what she would do tomorrow.
 
 Watch.
+
+<p align="center" class="scene-break" markdown="0">&#10086;</p>
 
 
 ***KESTREL VEIL — COMMAND DECK***  
@@ -1760,6 +1798,8 @@ Changed in weight.
 
 The *Kestrel Veil* moved deeper through seven-alpha— damaged, professional, a ghost in a hallway that had begun, very quietly, to whisper back.
 
+<p align="center" class="scene-break" markdown="0">&#10086;</p>
+
 
 ***THE DOMINION — STRATEGIC SECURITY DIRECTORATE***  
 MARKER NINETEEN
@@ -1830,7 +1870,7 @@ Chernov looked at the plot one more time. "Then survive a third. Fleet has seen 
 
 Stratimirov did not choose between them. "Both of you document. Bring Commander Vex."
 
-<p align="center" class="scene-break" markdown="0">&#183; &#183; &#183;</p>
+<p align="center" class="scene-break" markdown="0">&#10086;</p>
 
 
 Commander Vex entered without ceremony.
@@ -1907,6 +1947,8 @@ The room returned to morning work—tea on the warmer, banners in the arcade, cl
 
 Stratimirov opened the next packet— stall permits for the district festival, variance reconciliation from Transportation, a polite reminder from Science Directorate that bench trials required funding signatures before rhetoric.
 
+<p align="center" class="scene-break" markdown="0">&#10086;</p>
+
 
 ***KESTREL VEIL — PASSIVE OBSERVATION***  
 THE YARDS
@@ -1970,6 +2012,8 @@ Calder looked at her. She did not elaborate. She did not need to.
 Calder nodded. He was no longer looking for enemy ships. He was mapping capacity.
 
 Down in Reing 3, Pell had a coupling panel open that could have waited until Fleet space. Elara Koss had told him to fix it now. Unfinished handshake lag became someone else's emergency at pickup. Pell worked with his mouth set, torque wrench counting between Ortega's passive returns.
+
+<p align="center" class="scene-break" markdown="0">&#10086;</p>
 
 
 ***THE DOMINION — DISTRICT FOURTEEN / SOROKIN HOME***  
@@ -2049,6 +2093,8 @@ He left with stew still warm in his bowl. Production adjustments were not emerge
 
 At Slip Three, Lina had already pulled the ventral-frame lattice specs and queued the overtime roster. Sorokin signed what he would sign. He drank Mara's thermos between weld passes. The yard hummed—cranes, mag crawlers, inspection sleds, weld teams moving to the next certified joint. No sirens. No scramble. Just another production adjustment, the kind that had been interrupting Thursday dinners longer than his children had been alive.
 
+<p align="center" class="scene-break" markdown="0">&#10086;</p>
+
 
 ***KESTREL VEIL — WARDROOM***  
 THE PATTERN
@@ -2097,6 +2143,8 @@ Thessaly gathered her notes. Park took the correlation strips. Reyes returned to
 
 Calder remained at the table one minute longer, then stood.
 
+<p align="center" class="scene-break" markdown="0">&#10086;</p>
+
 
 ***THE DOMINION — REGIONAL TRANSPORTATION DIRECTORATE***  
 THE ARCHIVE
@@ -2118,6 +2166,8 @@ Volkova wrote beside the variance chart: *long-horizon expansion; compare border
 Sten closed the folio. "If you need the originals before the digitization pass, they're in bay four. Don't take anything past the rope."
 
 Volkova almost smiled. She closed the file and climbed the stairs.
+
+<p align="center" class="scene-break" markdown="0">&#10086;</p>
 
 
 ***KESTREL VEIL — COMMAND DECK***  
@@ -2244,6 +2294,8 @@ Vex remained at the table a moment longer and looked at the overlay: convoy lane
 
 Outside, rain softened the quad. Cadets crossed with manuals under their arms. In the adjacent bay, benches rebuilt field coils on the schedule Science Directorate had filed.
 
+<p align="center" class="scene-break" markdown="0">&#10086;</p>
+
 
 ***KESTREL VEIL — WARDROOM***  
 LESSONS
@@ -2301,6 +2353,8 @@ Calder signed the waiver on her slate without slowing. "Forty-eight hours."
 "Thank you." Walsh did not smile. She never smiled when she won. "Kevin left stew in the galley. Someone should eat it."
 
 She left before he could answer.
+
+<p align="center" class="scene-break" markdown="0">&#10086;</p>
 
 
 ***THE DOMINION — DISTRICT NINE / K-17 TRANSIT SPINE***  
@@ -2381,6 +2435,8 @@ At home, Nika rehearsed the chorus line while Kovat warmed the saved portion. *P
 Somewhere at K-17, a faint return held position like a stone in a stream.
 
 Kovat would be back at K-17 before dawn.
+
+<p align="center" class="scene-break" markdown="0">&#10086;</p>
 
 
 ***KESTREL VEIL — CHART ROOM***  
@@ -2463,6 +2519,8 @@ The *Kestrel Veil* had crossed into history in segment seven.
 Thessaly would file the comparison packet in observation language. Halden would verify the relay bands twice. Reyes would redraw crossing windows until the border line looked as absurd on paper as it felt in the gut.
 
 None of that would erase the line from Fleet charts.
+
+<p align="center" class="scene-break" markdown="0">&#10086;</p>
 
 
 ***THE DOMINION — ORBITAL CONSTRUCTION YARD KESSIK-OUTER***  
@@ -2547,6 +2605,8 @@ Sorokin considered. Petran would have said *the ship*. Grandmother Ilya would ha
 "The habit," he said. "Certify it right. Teach the next one. That's what outlives the weld."
 
 Lina wrote it down.
+
+<p align="center" class="scene-break" markdown="0">&#10086;</p>
 
 
 ***KESTREL VEIL — COMMAND DECK***  
@@ -2671,6 +2731,8 @@ Stratimirov looked at the scatter plot one more time. Thirty-one points. No spik
 
 He opened the next packet— stall permits, Regional Transportation Directorate reconciliation, a polite reminder that harvest festival congestion models needed updating before the parade made math nervous.
 
+<p align="center" class="scene-break" markdown="0">&#10086;</p>
+
 
 ***KESTREL VEIL — WARDROOM***  
 THE DEBATE
@@ -2765,6 +2827,8 @@ Thessaly gathered her stacks. Ortega took the listen watch summary. Halden carri
 
 The wardroom emptied in professional sequence.
 
+<p align="center" class="scene-break" markdown="0">&#10086;</p>
+
 
 ***THE DOMINION — DISTRICT NINE / KOVAT HOME***  
 THE GARDEN
@@ -2841,6 +2905,8 @@ Kovat would be on watch before dawn.
 
 She rinsed her hands at the courtyard tap and followed Nika inside.
 
+<p align="center" class="scene-break" markdown="0">&#10086;</p>
+
 
 ***KESTREL VEIL — WARDROOM***  
 THE REPORT
@@ -2887,6 +2953,8 @@ Under it, the survey-assumption line and the correlation appendix. It would be d
 
 "Good," Calder said.
 
+<p align="center" class="scene-break" markdown="0">&#10086;</p>
+
 
 ***THE DOMINION — BORDER OBSERVATION CENTER KESSIK***  
 THE WATCH
@@ -2905,7 +2973,7 @@ Operational command remained suspended.
 
 Judgment did not.
 
-He was back at the frontier on observation duty. Command was still suspended. Petrov had asked for him—someone who was familaiar with the trial engagement and would not dismiss faint returns as weather.
+He was back at the frontier on observation duty. Command was still suspended. Petrov had asked for him—someone who was familiar with the trial engagement and would not dismiss faint returns as weather.
 
 Months of border data layered on the display— K-17, K-12, Kessik feeders, variance flags, faint returns, timing offsets that refused to die when watched correctly.
 
@@ -2962,6 +3030,8 @@ Petrov wrote it down for the morning comparison packet.
 Petrov added a note for the morning packet and left.
 
 Vex remained at the console and watched the gap move with the next maintenance window.
+
+<p align="center" class="scene-break" markdown="0">&#10086;</p>
 
 
 ***KESTREL VEIL — COMMAND DECK***  
@@ -3163,6 +3233,8 @@ Border warrants would file exactly.
 
 Stratimirov opened the next packet on his rail— Political Liaison normalization summary, post-festival residual traffic models.
 
+<p align="center" class="scene-break" markdown="0">&#10086;</p>
+
 
 ***KESTREL VEIL — DEPARTURE LEG***  
 THE COURSE
@@ -3255,6 +3327,8 @@ He did not look back again.
 
 The course was home.
 
+<p align="center" class="scene-break" markdown="0">&#10086;</p>
+
 
 ***THE DOMINION — DISTRICT NINE / FOUNDERS' WEEK***  
 FOUNDERS' WEEK
@@ -3344,6 +3418,8 @@ Kovat did not stop.
 She had stopped enough times to know remembrance was a habit, not an event.
 
 Nika ran ahead to the apartment door.
+
+<p align="center" class="scene-break" markdown="0">&#10086;</p>
 
 
 ***KESTREL VEIL — EXECUTIVE OFFICE***  
@@ -3461,6 +3537,8 @@ Outside the executive office, the corridor hummed.
 
 Homeward.
 
+<p align="center" class="scene-break" markdown="0">&#10086;</p>
+
 
 ***THE DOMINION — BORDER OBSERVATION CENTER KESSIK***  
 THE BORDER
@@ -3517,6 +3595,8 @@ He added a note for the morning packet— *observation limit reached; return per
 
 Vex remained at the plot until watch turnover.
 
+<p align="center" class="scene-break" markdown="0">&#10086;</p>
+
 
 ***KESTREL VEIL — COMMAND DECK***  
 HOMEWARD
@@ -3550,8 +3630,3 @@ Halden reported Fleet pickup beacon in range in fourteen hours if they held burn
 The *Kestrel Veil* crossed back into Fleet space without announcement.
 
 Park's archive still carried one separate lane Holt had not combined—checksum green, classification pending, waiting for Fleet to decide what the returns meant.
-
-<p align="center" class="scene-break" markdown="0">&#183; &#183; &#183;</p>
-
-
-END ACT III

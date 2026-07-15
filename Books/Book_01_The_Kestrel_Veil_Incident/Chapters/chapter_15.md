@@ -309,7 +309,7 @@ Operational command remained suspended.
 
 Judgment did not.
 
-He was back at the frontier on observation duty. Command was still suspended. Petrov had asked for him—someone who was familaiar with the trial engagement and would not dismiss faint returns as weather.
+He was back at the frontier on observation duty. Command was still suspended. Petrov had asked for him—someone who was familiar with the trial engagement and would not dismiss faint returns as weather.
 
 Months of border data layered on the display— K-17, K-12, Kessik feeders, variance flags, faint returns, timing offsets that refused to die when watched correctly.
 

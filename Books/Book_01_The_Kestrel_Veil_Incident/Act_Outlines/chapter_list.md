@@ -46,7 +46,7 @@ Full build sequence for `Manuscript/_build/build_manuscript.ps1` — see `Archiv
 | 4 | Routine Patrol | `chapter_4.md` | 2,960 | Act I ends · **LOCKED FINAL** |
 | 5 | Mission's End | `chapter_5.md` | 5,397 | Act II opens · **LOCKED FINAL** |
 | 6 | Witness | `chapter_6.md` | 3,829 | Act II · **LOCKED FINAL** |
-| — | **Kestrel Veil schematic** | `Manuscript/assets/kestrel_veil_schematic.png` | — | **Appendix G** — Fleet reconnaissance vessel blueprint |
+| — | **Kestrel Veil reference plate** | `Manuscript/assets/kestrel_veil_reference_plate.png` | — | **Appendix A** — Fleet reconnaissance vessel reference plate |
 | 7 | The Living Ship | `chapter_7.md` | 9,608 | Act II · **LOCKED FINAL** |
 | 8 | The Quiet Before the Silence | `chapter_8.md` | 3,820 | Act II ends · **LOCKED FINAL** |
 | — | **FCC-7712** | `Archive/archive_02_fleet_communications_passive_detection_review.md` | 89 | After Ch. 8 — Fleet Communications Command; Passive Detection Review |
@@ -68,7 +68,7 @@ Full build sequence for `Manuscript/_build/build_manuscript.ps1` — see `Archiv
 | 23 | Recognition | `chapter_23.md` | 2,105 | Act IV · **LOCKED FINAL** |
 | 24 | After Contact | `chapter_24.md` | 1,762 | Act IV ends · **LOCKED FINAL** · **END BOOK ONE** |
 | — | **Epilogue** | `Chapters/epilogue.md` | 1,704 | *First Day* · **LOCKED FINAL** — Academy / Ellis–Maris / Park–Holt dinner; history becomes routine |
-| — | **Appendix** | `Appendix/book_one_appendix.md` | 2,452 | Fleet Historical Office reference supplement (post–Book One); Appendices A–G |
+| — | **Appendix** | `Appendix/book_one_appendix.md` | 2,452 | Fleet Historical Office reference supplement (post–Book One); Appendices A–F |
 
 **Total (publication build):** **88,396 words** (source `Chapters/*.md` + `Archive/`; counts from markdown source files)  
 **Chapters only (1–24):** **86,345 words**  
@@ -80,7 +80,7 @@ Full build sequence for `Manuscript/_build/build_manuscript.ps1` — see `Archiv
 
 **Bookend symmetry:** Prologue (*Edition 143 · Required Reading*) + FSA-143-07 → narrative → Epilogue (*First Day* — Edition 144 as curriculum). FCC-7712 after Incident; FDB-144-DRAFT after *New Words*. Ch. 21–24: unified Contact Doctrine (`act4_chapters_21-24_generation.md`).
 
-**Illustration placement:** *Kestrel Veil* schematic in **Appendix G** — assets in `Manuscript/assets/` and `Ships/kestrel_veil_schematic.png`.
+**Illustration placement:** *Kestrel Veil* reference plate in **Appendix A** — assets in `Manuscript/assets/`.
 
 **Generation guides:**
 

@@ -9,14 +9,17 @@ Publication files only:
 | File | Purpose |
 |------|---------|
 | `The Kestrel Veil Incident.epub` | Kindle / e-reader |
+| `The Kestrel Veil Incident.kpf` | Kindle Package Format (via Kindle Previewer; also `KPF/`) |
 | `The Kestrel Veil Incident.docx` | Microsoft Word edition |
 | `The Kestrel Veil Incident.md` | Full book markdown |
 | `The Kestrel Veil Incident.txt` | Plain-text export |
 | `_build/The Kestrel Veil Incident.pdf` | Print PDF |
+| `Prologue.md` | Prologue + FSA-143-07 |
 | `Act_I_Routine_Patrol.md` | Act I (Prologue + Ch. 1–4 + FSA-143-07) |
 | `Act_II_The_Kestrel_Veil_Incident.md` | Act II (Ch. 5–8 + FCC-7712) |
 | `Act_III_Shadows_Beyond_the_Border.md` | Act III (Ch. 9–16) |
 | `Act_IV_First_Doctrine.md` | Act IV (Ch. 17–24 + FDB-144-DRAFT + Epilogue) |
+| `Epilogue.md` | Epilogue (*First Day*) |
 | `Appendix_Reference_Supplement.md` | Book One reference supplement (Appendices A–E) + About the Author |
 
 Build scripts, assets, and reports live in `_build/`.
