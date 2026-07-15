@@ -1,5 +1,3 @@
-<p align="center"><img src="../Manuscript/assets/kestrel_veil_schematic.png" alt="Kestrel Veil — scout-class reconnaissance vessel schematic" width="680" /></p>
-
 # Chapter 7
 
 <!-- LOCKED FINAL · 2026-07-10 · No further edits unless author explicitly unlocks. -->

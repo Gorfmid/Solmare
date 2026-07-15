@@ -46,7 +46,7 @@ Full build sequence for `Manuscript/_build/build_manuscript.ps1` — see `Archiv
 | 4 | Routine Patrol | `chapter_4.md` | 2,960 | Act I ends · **LOCKED FINAL** |
 | 5 | Mission's End | `chapter_5.md` | 5,397 | Act II opens · **LOCKED FINAL** |
 | 6 | Witness | `chapter_6.md` | 3,829 | Act II · **LOCKED FINAL** |
-| — | **Kestrel Veil schematic** | `Manuscript/assets/kestrel_veil_schematic.png` | — | **Before Ch. 7** — Fleet reconnaissance vessel blueprint; preamble in `chapter_7.md` |
+| — | **Kestrel Veil schematic** | `Manuscript/assets/kestrel_veil_schematic.png` | — | **Appendix G** — Fleet reconnaissance vessel blueprint |
 | 7 | The Living Ship | `chapter_7.md` | 9,608 | Act II · **LOCKED FINAL** |
 | 8 | The Quiet Before the Silence | `chapter_8.md` | 3,820 | Act II ends · **LOCKED FINAL** |
 | — | **FCC-7712** | `Archive/archive_02_fleet_communications_passive_detection_review.md` | 89 | After Ch. 8 — Fleet Communications Command; Passive Detection Review |
@@ -66,21 +66,21 @@ Full build sequence for `Manuscript/_build/build_manuscript.ps1` — see `Archiv
 | 21 | The First Doctrine | `chapter_21.md` | 3,088 | Act IV · **LOCKED FINAL** |
 | 22 | The Crossing | `chapter_22.md` | 2,308 | Act IV · **LOCKED FINAL** |
 | 23 | Recognition | `chapter_23.md` | 2,105 | Act IV · **LOCKED FINAL** |
-| 24 | After Contact | `chapter_24.md` | 1,606 | Act IV ends · **DRAFT** — post-contact aftermath; fringe relay + unresolved third source · **END BOOK ONE** |
-| — | **Epilogue** | `Chapters/epilogue.md` | 1,212 | *First Day* — Edition 144 + **Required Reading** bookend |
-| — | **Appendix** | `Appendix/book_one_appendix.md` | 2,452 | Fleet Historical Office reference supplement (post–Book One); Appendices A–E |
+| 24 | After Contact | `chapter_24.md` | 1,762 | Act IV ends · **LOCKED FINAL** · **END BOOK ONE** |
+| — | **Epilogue** | `Chapters/epilogue.md` | 1,704 | *First Day* · **LOCKED FINAL** — Academy / Ellis–Maris / Park–Holt dinner; history becomes routine |
+| — | **Appendix** | `Appendix/book_one_appendix.md` | 2,452 | Fleet Historical Office reference supplement (post–Book One); Appendices A–G |
 
-**Total (publication build):** **87,748 words** (source `Chapters/*.md` + `Archive/`; counts from markdown source files)  
-**Chapters only (1–24):** **86,189 words**  
-**Tracker:** `Notes/REWRITE_STATUS.md` · **Status:** Ch. 1–23 **LOCKED FINAL** (Ch. 23 **2026-07-14**) · Ch. 24 **DRAFT** (final edit pending) · archives / epilogue / appendix separate
+**Total (publication build):** **88,396 words** (source `Chapters/*.md` + `Archive/`; counts from markdown source files)  
+**Chapters only (1–24):** **86,345 words**  
+**Tracker:** `Notes/REWRITE_STATUS.md` · **Status:** Ch. 1–24 + Epilogue **LOCKED FINAL** (Epilogue **2026-07-14**) · **ACT IV COMPLETE** · archives / appendix separate
 
 **Source of truth:** `Chapters/*.md` (and `Archive/` interludes). Compiled `Manuscript/Act_*.md` and full-book exports are **not** auto-regenerated — rebuild only when author requests (`Manuscript/_build/rebuild_act.ps1` per act, or `build_manuscript.ps1` for publication outputs).
 
-**World map reference:** `Universe/Maps/ufa_galactic_reference_guide.md` — UFA seven-segment chart bible (text reference; chart image pending).
+**World map reference:** `Universe/Maps/ufa_galactic_reference_guide.md` — UFA seven-segment chart bible; plate asset: `Universe/Maps/ufa_navigation_chart.png` / `Manuscript/assets/ufa_navigation_chart.png` (Appendix F).
 
-**Bookend symmetry:** Prologue (*Edition 143 · Required Reading*) + FSA-143-07 → narrative → Epilogue (*Edition 144 · Required Reading*). FCC-7712 after Incident; FDB-144-DRAFT after *New Words*. Ch. 21–24: unified Contact Doctrine (`act4_chapters_21-24_generation.md`).
+**Bookend symmetry:** Prologue (*Edition 143 · Required Reading*) + FSA-143-07 → narrative → Epilogue (*First Day* — Edition 144 as curriculum). FCC-7712 after Incident; FDB-144-DRAFT after *New Words*. Ch. 21–24: unified Contact Doctrine (`act4_chapters_21-24_generation.md`).
 
-**Illustration placement:** *Kestrel Veil* schematic immediately before Ch. 7 (*The Living Ship*) — source preamble in `Chapters/chapter_7.md`; assets in `Manuscript/assets/` and `Ships/kestrel_veil_schematic.png`. Build emits preamble via `Get-ChapterPreamble` in `build_manuscript.ps1` (before chapter title + logo).
+**Illustration placement:** *Kestrel Veil* schematic in **Appendix G** — assets in `Manuscript/assets/` and `Ships/kestrel_veil_schematic.png`.
 
 **Generation guides:**
 
@@ -109,18 +109,17 @@ What begins as routine patrol becomes the **Kestrel Veil Incident** — then dis
 
 ## Current Manuscript Status
 
-**Acts I–III LOCKED FINAL.** Act IV underway — Ch. 17–23 **LOCKED FINAL**; Ch. 24 **DRAFT** (final edit pending).
+**Acts I–IV LOCKED FINAL.** Ch. 1–24 complete (Ch. 24 **2026-07-14**).
 
 | Status | Pieces |
 |--------|--------|
-| ✓ **LOCKED FINAL** | Ch. 1–23 (Acts I–III + Act IV through *Recognition*) |
-| **DRAFT** | Ch. 24 (Act IV — final edit pending) |
-| Separate | Prologue, FSA-143-07, FCC-7712, FDB-144-DRAFT, Epilogue, Appendix |
-| ✓ **Editorial** | Global terminology + system-behavior passes applied to `Chapters/` (see below) — not a substitute for remaining Act IV final edits |
-| ✓ **Illustration** | *Kestrel Veil* schematic — before Ch. 7 (see **Illustrations** below) |
+| ✓ **LOCKED FINAL** | Ch. 1–24 + Epilogue (Acts I–IV complete · **END BOOK ONE**) |
+| Separate | Prologue, FSA-143-07, FCC-7712, FDB-144-DRAFT, Appendix |
+| ✓ **Editorial** | Global terminology + system-behavior passes applied to `Chapters/` (see below) |
+| ✓ **Illustration** | *Kestrel Veil* schematic — Appendix G (see **Illustrations** below) |
 | Build (on request) | `Manuscript/_build/rebuild_act.ps1` · `Manuscript/_build/build_manuscript.ps1` — archives per `Archive/archive_placement.json` |
 
-**Written prose (full publication order):** **86,317 words**. See **Manuscript Reading Order** above.
+**Written prose (full publication order):** **86,965 words**. See **Manuscript Reading Order** above.
 
 **Act IV planning:** `Planning/Fleet_Authority_Briefing_Packet.md` · **Archive index:** `Archive/README.md`
 
@@ -149,11 +148,12 @@ Applied to **`Chapters/*.md`** only (plot, scene order, and dialogue intent unch
 
 | Asset | Placement | Source | Notes |
 |-------|-----------|--------|-------|
-| `Manuscript/assets/kestrel_veil_schematic.png` | Immediately **before Ch. 7** | Preamble in `Chapters/chapter_7.md` | Scout-class reconnaissance vessel schematic — profile, cutaway, Reing spires, photon engagement scar (bearing 214 mark 6). Copy also at `Ships/kestrel_veil_schematic.png`. |
+| `Manuscript/assets/kestrel_veil_schematic.png` | **Appendix G** | `Appendix/book_one_appendix.md` | Scout-class reconnaissance vessel schematic — profile, cutaway, Reing spires, photon engagement scar (bearing 214 mark 6). Copy also at `Ships/kestrel_veil_schematic.png`. |
+| `Manuscript/assets/ufa_navigation_chart.png` | **Appendix F** | `Appendix/book_one_appendix.md` | UFA operational navigation chart (Edition 144 survey boundaries). Copy also at `Universe/Maps/ufa_navigation_chart.png`. |
 
-**Authoring:** HTML `<img>` block precedes `# Chapter 7` in `chapter_7.md` (path `../Manuscript/assets/…` for chapter-source preview). `build_manuscript.ps1` → `Get-ChapterPreamble` rewrites to `assets/kestrel_veil_schematic.png` and inserts before chapter title + `chapter_logo.png` on publication build.
+**Authoring:** HTML `<img>` plates live in Appendix F–G (`Appendix/book_one_appendix.md`; preview paths `../Manuscript/assets/…`). Build rewrites to `assets/…` on publication.
 
-**Reading order:** Ch. 6 ends → schematic (full-width) → Ch. 7 title → chapter logo → *The Living Ship* prose.
+**Reading order:** Narrative chapters have no mid-book schematic insert. Ship plate appears in Appendix G after the UFA operational chart (Appendix F).
 
 ---
 
@@ -301,11 +301,11 @@ Dual POV same engagement — **KESTRAN VI-GAMMA WATCHPOST** (Holt/Lin procedural
 **Status:** **LOCKED FINAL** (9,608 words) — editorial pass complete **2026-07-10**; **no further edits**  
 **Character sheets:** Holt, Nand, Park, Rowan, Sato, Mercer  
 **State log:** `../State/chapter_7_state_log.md`  
-**Illustration:** `kestrel_veil_schematic.png` — placed immediately before this chapter (see **Illustrations**)
+**Illustration:** `kestrel_veil_schematic.png` — **Appendix G** (see **Illustrations**)
 
 ### Purpose
 
-Incomplete recovery — repair priority sequence; Fleet via VI-Gamma relay; destruction belief corrected; transit to VI-Gamma emergency berthing; seven-alpha mission amended. Opens on the ship as lived space — schematic precedes prose as reader orientation.
+Incomplete recovery — repair priority sequence; Fleet via VI-Gamma relay; destruction belief corrected; transit to VI-Gamma emergency berthing; seven-alpha mission amended. Opens on the ship as lived space.
 
 ### End state
 
@@ -772,7 +772,7 @@ Return without announcement. Fleet crosses back into known space with a sealed r
 
 # ACT IV — FIRST DOCTRINE (Chapters 17–24)
 
-**Status:** Ch. 17–23 **LOCKED FINAL** (Ch. 23 **2026-07-14**) · Ch. 24 **DRAFT** — final edit pending  
+**Status:** Ch. 17–24 **LOCKED FINAL** (Ch. 24 **2026-07-14**) · **ACT IV COMPLETE** · **END BOOK ONE**  
 **Generation doctrine:** `act4_chapters_17-24_generation.md` · **Ch. 21–24 detail:** `act4_chapters_21-24_generation.md`  
 **Opens from:** Ch. 16 — *Kestrel* in Fleet space; Thessaly report; `Planning/Fleet_Authority_Briefing_Packet.md`
 
@@ -791,11 +791,11 @@ Return without announcement. Fleet crosses back into known space with a sealed r
 | 21 | The First Doctrine | **LOCKED FINAL** | 3,088 | **First Doctrine adopted** (unified Contact Doctrine); Edition 144 framework authorized for training; department working group; Ellis disclosure deferred; Rowan signs; *Veil* named reference hull; Rowan/Calder; Lisette; contact-prep refit (signature reduction, comms partial) |
 | 22 | The Crossing | **LOCKED FINAL** | 2,308 | Calder briefing; departure; Alpha Seven crossing; Thessaly XO continuity book; command deck close; **Iron Harrow** / V17 coda (Vex — probable trial-scout match, cloak holds) |
 | 23 | Recognition | **LOCKED FINAL** | 2,105 | Behavior anomaly; corridor shaping; *Iron Harrow* reveals by choice; technical ID exchange; intent unresolved |
-| 24 | After Contact | **DRAFT** | 1,606 | Post-contact aftermath; Calder/Vex parallel reports; Fleet institutional response; Thessaly XO *the ship returned*; fringe relay + unresolved third source — **END BOOK ONE** |
+| 24 | After Contact | **LOCKED FINAL** | 1,762 | Parallel reports; two-way Alpha Seven relay seeded; scout egress; *Iron Harrow* struck by larger mass; *Pelligar* on relay; *Veil* logs weapons fire — **END BOOK ONE** |
 
 **FDB-144-DRAFT** (`../Archive/archive_03_doctrine_bureau_edition_144_terminology_draft.md`) inserts after Ch. 18 — Fleet Doctrine Bureau working draft; *Words determine thought. Choose carefully.*
 
-**Act IV ends:** First contact acknowledged; understanding deferred; Book One closes on *Kestrel* egress with unresolved third signal and energy event in Alpha Seven volume. Epilogue alignment pending editorial pass.
+**Act IV ends:** First contact acknowledged; understanding deferred; Book One closes on *Kestrel* egress with unresolved Alpha Seven events. Epilogue *First Day* **LOCKED FINAL** (2026-07-14).
 
 ---
 
@@ -909,25 +909,50 @@ First acknowledgment exchange. Doctrine under maximum pressure without battle. C
 
 ### End state
 
-Behavioral acknowledgment exchanged. Silhouette-scale contact visible by choice. Intent unresolved. Ch. 24 — After Contact.
+Behavioral acknowledgment exchanged. Silhouette-scale contact visible by choice. Intent unresolved. Ch. 24 *After Contact* **LOCKED FINAL**.
+
+---
+
+## Chapter 24 — After Contact
+
+**Prose title:** *After Contact*  
+**File:** `../Chapters/chapter_24.md`  
+**Status:** **LOCKED FINAL** (1,762 words) — editorial pass complete **2026-07-14**; **no further edits** unless author unlocks  
+**State log:** `../State/chapter_24_state_log.md`
+
+### Purpose
+
+Post-exchange institutional metabolization; reference hull completes contact-prep deliverable (two-way Alpha Seven relay); egress. Book One closes on weapons fire larger than the acknowledged silhouette and the one-word relay traffic *Pelligar*.
+
+### Scene order (on page)
+
+1. Posture hold — six hours after exchange; report / ingest / Rowan posture  
+2. Thessaly XO notebook; Dominion after-action (Standing Observation held)  
+3. Relay seeded → VI-Gamma → Validation Bay; *Veil* egress  
+4. *Iron Harrow* reads relay as corridor link, not invitation  
+5. Strike: *Iron Harrow* hit by larger hostile mass; send *Pelligar* on Fleet relay  
+6. Fringe: *Veil* receives *Pelligar*; logs weapons fire; continues egress — **END BOOK ONE**
+
+### End state
+
+Alpha Seven two-way relay live. First exchange archived. Larger unknown mass fired in occupied sector. *Pelligar* unresolved. *Kestrel Veil* inbound Helion.
 
 ---
 
 # BACK MATTER — EPILOGUE
 
-**Status:** **LOCKED**
+**Status:** **LOCKED FINAL** (2026-07-14)
 
 ## Epilogue — First Day
 
 **File:** `../Chapters/epilogue.md`  
-**Words:** 1,212  
+**Words:** 1,704  
+**Status:** **LOCKED FINAL** — continuity + final edit complete **2026-07-14**; **no further edits** unless author unlocks  
 **Placement:** After Ch. 24 (closes book)
 
-Fleet Academy first-year orientation. Edition 144 primer distributed. Closes with:
+Fleet Academy orientation (Ren Okada / Edition 144). Ellis reopens Maris Chen antecedent. Rowan routing. Park–Holt dinner on Helion. Closes: record, teach, continue.
 
-*Fleet Academy Strategic Studies · Edition 144 · Required Reading*
-
-**Symmetry:** Prologue (*Edition 143*) ↔ Epilogue (*Edition 144*). Verify epilogue against unified Contact Doctrine after Ch. 24 rewrite.
+**Symmetry:** Prologue (*Edition 143*) ↔ Epilogue (*Edition 144* as lived curriculum).
 
 ---
 
@@ -983,7 +1008,7 @@ All contact and border chapters must support:
 | `Planning/Fleet_Authority_Briefing_Packet.md` | Act IV Fleet knowledge / misunderstanding map |
 | `Ships/Kestrel_Veil.md` | Canonical ship bible |
 | `Ships/kestrel_veil_schematic.png` | Ship schematic (duplicate of manuscript asset) |
-| `Manuscript/assets/kestrel_veil_schematic.png` | Publication schematic — before Ch. 7 |
+| `Manuscript/assets/kestrel_veil_schematic.png` | Publication schematic — Appendix G |
 | `Universe/Fleet_Authority/` | Fleet institutional lore (Act IV) |
 | `Planning/Solmare_Directors_Brief_Template.md` | Author chapter commission format |
 | `chapter_5_generation_directive.md` | Ch. 5 Incident spec |

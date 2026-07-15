@@ -7,19 +7,17 @@
 ***KESTREL VEIL — COMMAND DECK***  
 *POSTURE HOLD*
 
-Six hours after the exchange, Alpha Seven looked the same on the plot and nothing else did.
+Six hours after the exchange, Alpha Seven looked the same on the plot. The record did not.
 
-On Ortega's composite lock, the silhouette-scale contact held bearing—stable, weapons bands dark, commuter traffic rerouted along the filed corridor. Calder had not ordered pursuit or withdrawal. The contact had maintained the same restraint.
-
-The plot looked unchanged. The record did not.
+On Ortega's composite lock, the silhouette-scale contact held bearing—stable, weapons bands dark, commuter traffic still rerouted along their corridor. Calder had not ordered pursuit or withdrawal. The contact had maintained the same restraint.
 
 Second watch had started on schedule.
 
-Brenner held the helm. His card still read *intermittent, not reliable*. Reing 3 coughed under load. Koss noted the variance. Halden filed it anyway.
+Brenner held the helm. His card still read *intermittent, not reliable*. Reing 3 coughed under load. Koss noted the variance. Halden logged it anyway.
 
 Ortega kept sensor watch.
 
-Park kept separate copies of the contact traffic—receive block, send block, Holt confirm tokens. Nothing went upstream without Calder's review.
+Park kept separate copies of the contact traffic: receive block, send block, Holt confirm tokens. Nothing went upstream without Calder's review.
 
 Holt's voice on the comm inset arrived eleven seconds late and held.
 
@@ -29,7 +27,7 @@ Holt's voice on the comm inset arrived eleven seconds late and held.
 
 Walsh's rest-cycle reminder hit four slates. Two officers actually rested. A third ate standing at his console and called it compliance.
 
-Kevin brought soup to the command deck—not celebration food, rotation food. Calder took the bowl without leaving the chair. Thessaly took hers and stayed at the secondary pane.
+Kevin brought soup to the command deck: not celebration food, rotation food. Calder took the bowl without leaving the chair. Thessaly took hers and stayed at the secondary pane.
 
 No one cheered. The command deck returned to work.
 
@@ -44,12 +42,12 @@ Thessaly read over his shoulder without commenting until he reached the inferenc
 
 **OBSERVED**
 
-- Composite lock dimensional estimate (Sensors): length and beam exceed Titan-class filing upper band; tolerance attachments on file; mass signature above all known platform taxonomy; profile consistent with Incident witness record
+- Composite lock dimensional estimate (Sensors): length and beam exceed Titan-class taxonomy upper band; tolerance attachments logged; mass signature above all known platform taxonomy; profile consistent with Incident witness record
 - Partial decloak; masking reduced, not absent; deliberate visibility on stable bearing
 - Structured message received: identification fields, navigation state, observation status flag; no weapons metadata; no pursuit metadata; no demand structure
-- Structured reply sent: equivalent acknowledgment under observation status; no illumination; no pursuit
+- Structured reply sent: equivalent acknowledgment under observation status; no weapons lit; no pursuit
 - No hostile action during contact window
-- Occupied sector traffic reorganized along filed corridor prior to visibility event; passive shift only; comms empty until structured exchange
+- Occupied sector traffic reorganized along their corridor prior to visibility event; listen-watch shift only; comms empty until structured exchange
 
 **INFERRED**
 
@@ -62,7 +60,7 @@ Thessaly read over his shoulder without commenting until he reached the inferenc
 
 - Origin
 - Political affiliation
-- Capability limits beyond observed mass and prior Incident discharge
+- Capability limits beyond observed mass and prior Incident directed-energy strike
 - Relationship to Incident contact—same entity unresolved
 - Intent beyond acknowledgment
 
@@ -72,7 +70,7 @@ Thessaly said, "You mixed header facts with inference."
 
 "What?"
 
-"Park received headers from the contact that match our own—that is observed. Familiarity with our systems is inference. You filed them together. Split them."
+"Park received headers from the contact that match our own—that is observed. Familiarity with our systems is inference. You put them together. Split them."
 
 He moved the protocol line to observed—header order, older variant, Park's parse—and rewrote inferred to familiarity only.
 
@@ -89,16 +87,16 @@ He signed the executive summary. Park would route it to the chain after Calder's
 ***FLEET COMMUNICATIONS COMMAND — VALIDATION BAY***  
 *INGEST*
 
-Dana Holt received the contact packet forty-one minutes after Park sent it—fringe lag, not error.
+Dana Holt received the contact packet forty-one minutes after Park sent it—fringe lag.
 
-Checksum valid. Chain intact. Park's raw archive attached separately from Calder's summary. 
+Checksum valid. Chain intact. Park's raw archive attached separately from Calder's summary.
 
 She routed copies without meeting:
 
 Operations — posture hold authorized; no mobilization flag  
 Intelligence — analysis queue, hostile classification absent  
-Cartography — Alpha Seven marked occupied; contact bearing on file  
-Doctrine Bureau — behavioral acknowledgment annex  
+Cartography — Alpha Seven marked occupied; contact bearing logged  
+Doctrine Bureau — Edition 144 contact-exchange annex  
 Historical Office — custody receipt only
 
 Amara Lin ran the lag metrics. "Twelve seconds average today."
@@ -111,7 +109,7 @@ Commander Vance called from Logistics. "Does contact mean I start placing orders
 
 Vance exhaled. "Copy."
 
-No emergency committee assembled as the observation posture was already active.
+No emergency committee assembled. Observation posture was already active.
 
 The departments were still catching up to what that meant.
 
@@ -122,13 +120,13 @@ The departments were still catching up to what that meant.
 
 Fleet Admiral Elias Rowan read Holt's executive digest at the glass.
 
-Contact acknowledged in Alpha Seven. Behavioral exchange complete. Intent unresolved. Hostile classification not assigned. *Kestrel Veil* still on station—Calder holds the chair.
+Contact exchange logged in Alpha Seven. Observation status held. Hostile classification not assigned. *Kestrel Veil* still on station—Calder holds the chair.
 
 Below, Helion approach traffic held lane discipline. Berth fourteen-C stood empty. The *Kestrel Veil* was not home.
 
 Rowan forwarded one instruction to Operations:
 
-`MAINTAIN CONTACT POSTURE — OBSERVATION FIRST — NO INITIATION WITHOUT OPERATIONS SIGNATURE`
+`MAINTAIN CONTACT POSTURE — OBSERVATION FIRST — NO INITIATION WITHOUT OPERATIONS AUTHORIZATION`
 
 Commander Mercer appeared with coffee and Doctrine's morning propagation receipt—training cores acknowledged, contact annex distributed, no ceremony flag.
 
@@ -136,7 +134,7 @@ Commander Mercer appeared with coffee and Doctrine's morning propagation receipt
 
 "Cartography?"
 
-"Okoye marked Alpha Seven occupied on the charts. Calder's bearing on file. Epoch revision can wait."
+"Okoye marked Alpha Seven occupied on the charts. Calder's bearing logged. Chart revision can wait."
 
 "Communications?"
 
@@ -153,7 +151,7 @@ Fleet did not mobilize. Operations tier held posture per Edition 144 contact gui
 
 After third watch turnover, Thessaly locked her cabin door and took the cloth-bound notebook from the recess in the bulkhead.
 
-Fleet would file Calder's report.
+Fleet would take Calder's report into custody.
 
 Executive officers recorded unofficial history for their ship.
 
@@ -169,7 +167,7 @@ She wrote:
 
 *Communication through headers and fields. Not speech.*
 
-*Raising new questions. No answers filed.*
+*Raising new questions. No answers recorded.*
 
 *We survived.*
 
@@ -190,21 +188,22 @@ Major Petrov received the draft on the inset. Senior Warrant Klimov stood at the
 
 **CONTACT**
 
-- Scout-class vessel; passive posture held through exchange window
-- Structured reply exchanged—identification, navigation state, observation status; weapons fields absent; pursuit fields absent
+- Scout-class vessel; observation posture held through exchange window
+- Structured reply received—identification, navigation state, observation status; weapons fields absent; pursuit fields absent
 - Trial record signature correlates with current contact; hull identity not confirmed
 
 **ACTION**
 
 - Partial visibility sequence executed on V17 command authority
-- Communication exchange completed; no discharge; no illumination in window
-- Corridor traffic rerouted along scout path before visibility event
+- Corridor traffic cleared along scout path before visibility
+- Exchange completed; no weapons fire in window
 
 **ASSESSMENT**
 
-- Conduct restrained; exchange disciplined
+- Conduct does not match border first-approach files
 - Reply header order matches outer-contact archive family; older variant; not Dominion speech; parses on command stack
-- Intent beyond acknowledgment: unresolved under current contact guidance
+- Standing Observation remains in force; intent stamp withheld
+- Archive kill record and current hull remain unreconciled
 
 Vex read the assessment lines twice.
 
@@ -222,7 +221,7 @@ Drevin said, too low for the rail, "We found them."
 
 Vex did not confirm it.
 
-"We do not know what we found," Vex said. "File contact under behavioral acknowledgment. Intent unresolved."
+"We showed ourselves," Vex said. "They answered. Hold Standing Observation. Do not close the file as discovery."
 
 ---
 
@@ -235,66 +234,81 @@ Kevin ran galley on shortened rotation because Walsh had threatened to certify h
 
 Walsh enforced rest cycles with the calm violence of a medic who had read too many collapse charts. Two officers slept. One pretended to.
 
-Ortega watched a quiet sensor return on the edge of composite lock—the silhouette stable, traffic reorganized, nothing requiring speech.
+Ortega watched a quiet sensor return on the edge of composite lock—the silhouette stable, traffic reorganized, nothing that needed a new order.
 
-Calder authorized withdrawal preparation on hour twenty-two—filed corridor egress, passive posture maintained, no initiation on departure. The contact did not illuminate. The contact did not close distance.
+Thessaly opened the amended mission pane beside Calder's chair. "Observation requirements are met. We traded headers, not a conversation. If we stay past that, it starts looking like initiation. If we leave without a relay behind us, Fleet has no link here after we are gone."
+
+Calder said, "Then we leave a relay. Park—"
+
+"Holt's chain," Park said from communications. "We can leave a two-way relay on the Alpha Seven approach, routed through VI-Gamma to Validation Bay. Fleet can receive traffic and answer from the Bay when Operations clears it. Not from this chair once we leave."
+
+Calder looked at the silhouette one more time. "No initiation from us. Leave the relay. When Holt confirms it is live, we go."
+
+Park and Koss took the relay package to the approach line. Eight hours of positioning, checksum, and VI-Gamma route tests. Holt's confirm returned on lag: *relay green, two-way, Validation Bay linked.*
+
+Calder authorized withdrawal on hour thirty: corridor egress, listen posture held, no initiation on departure. The contact did not fire. The contact did not close distance.
 
 Park sent the egress header to Holt. Holt confirmed receipt eleven seconds later.
 
-The *Kestrel Veil* and her crew were going home. They carried a record nobody had expected to write.
+The *Kestrel Veil* turned for home. The relay stayed.
+
+---
+
+***THE DOMINION — VOLUME V17***  
+*IRON HARROW — SCOUT EGRESS*
+
+Klimov tracked the scout past eighteen hours of mutual visibility into ordinary work, then into something else.
+
+"They have stopped holding station," he said. "Small craft or package on the approach line. Scout hull itself is preparing corridor egress."
+
+Petrov on the inset asked, "Withdrawal?"
+
+"Not flight. They are placing something before they leave."
+
+Elenko ran the package harmonics twice. "Relay geometry. Two-way. Outer-contact family again—older variant. Aimed back along their arrival corridor."
+
+Drevin said, "A listening post."
+
+"More than listen," Elenko said. "Receive and send path. They want a line after the hull is gone."
+
+Vex watched the scout clear and the new return hold steady on the approach.
+
+"They wondered what we would do if they left," he said. "Same as us. They answered with infrastructure."
+
+Petrov asked, "Action?"
+
+"Standing Observation. Do not touch the relay. Log it as their corridor link. We do not treat it as an invitation."
+
+---
+
+***THE DOMINION — VOLUME V17***  
+*IRON HARROW — STRIKE*
+
+The strike came without warning—large enough to damage the Iron Harrow. Not the scout. A separate contact. Hostile.
+
+"Send on their relay," Vex said. "One word."
+
+Elenko sent: *Pelligar.*
 
 ---
 
 ***KESTREL VEIL — FRINGE RELAY LEG***  
 *UNRESOLVED RETURN*
 
-Forty hours out of Alpha Seven, Ortega saw it on passive first—a single energy release in the sector behind them. Possible discharge. One event. No second mass lock. No pursuit signature.
+Forty hours out of Alpha Seven, Park looked up from the egress records.
 
-She called the chair.
+"The Alpha Seven relay has traffic. One word. I cannot map the origin. *Pelligar.*"
 
-"Report," Calder said.
+Ortega's hand stopped on the pad.
 
-"Flash in Alpha Seven. Bearing on the occupied corridor. I cannot classify it. Not on the acknowledged mass bearing."
+"Captain. Weapons fire. Behind us. Alpha Seven. Mass signature larger than the silhouette we exchanged with—I cannot classify the shooter."
 
-Calder said, "Them?"
+Calder said, "Log both. Continue egress."
 
-"Not matched. If it was discharge, I cannot tie it to the silhouette we exchanged with."
-
-Park looked up from egress filings. "Fringe relay has an incoming message."
-
-"Something on the relay. Not Validation Bay. Not the contact channel. Structured traffic. I cannot map it. Origin field empty."
-
-Calder said, "The contact again?"
-
-"No."
-
-"Them?"
-
-"No match on the comparison overlay."
-
-Holt's voice returned on lag from Validation Bay. "Same packet here. Unknown source. Do not reply. Hold it local until I can get Historical and Doctrine on the line."
-
-Calder said, "Ortega—bearing in the packet metadata."
-
-Ortega ran the sweep. "Nothing on passive at that bearing. Signal only."
-
-Calder said, "The flash?"
-
-"Not correlated. Different bearing. Same sector. I do not know who fired. I do not know why."
-
-Park said, "File it?"
-
-"Observed event. Source unresolved," Calder said. "Log both. Continue egress."
-
-Brenner held the filed corridor.
-
-Behind them, Alpha Seven receded on the plot.
+Brenner held the corridor.
 
 Ahead, Helion Prime.
 
-The first exchange had succeeded.
-
-Understanding had not begun.
 ❦
 
 **END BOOK ONE**
@@ -302,4 +316,6 @@ Understanding had not begun.
 ❦
 
 **END CHAPTER 24**
+
+<!-- LOCKED FINAL · 2026-07-14 -->
 

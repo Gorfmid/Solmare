@@ -269,7 +269,7 @@ Rowan nodded once. Not approval. Receipt.
 
 "What do you need?"
 
-Calder thought of the sixteen days coming home—emitters dark, The Veil limping around on correction thrusters, Park fighting delayed confirm tokens, Walsh dragging people off watch before they dropped. Thessaly eating standing up because sitting meant she might not stand again. Station bars for a crew that had earned better.
+Calder thought of the sixteen days out there—emitters dark, the *Veil* limping on correction thrusters, Park fighting delayed confirm tokens, Walsh dragging people off watch before they dropped. Thessaly eating standing up because sitting meant she might not stand again. Station bars for a crew that had earned better.
 
 "Cream-filled pastries," he said. "From the Lower Meridian—the cardamom glaze, not fleet ration. The Cardamom Oven, if material orders allow it. Lisette's. They deserve a treat."
 

@@ -1,8 +1,12 @@
-# ACT I - ROUTINE PATROL
-
-_The Kestrel Veil Incident -- Book One_
-
-# Prologue
+﻿---
+title: "The Kestrel Veil Incident"
+subtitle: "Book One of The Solmare Cycle â€” Act I â€” Routine Patrol"
+author: "K.W. Abbott"
+lang: en-US
+rights: "Copyright (c) K.W. Abbott. All rights reserved."
+description: "Book One of The Solmare Cycle. Act I â€” Routine Patrol."
+---
+# Prologue {.prologue}
 
 History creates civilizations.
 
@@ -24,13 +28,43 @@ Edition 143
 
 Required Reading
 
----
+\newpage
 
-# Chapter 1
+# Archive {.archive-interlude}
 
-<!-- LOCKED FINAL · 2026-07-09 · No further edits unless author explicitly unlocks. -->
+<div align="center">
 
-## The Empire
+**ARCHIVE**
+
+**FSA-143-07**
+
+Fleet Survey Authority
+
+</div>
+
+
+**Fleet Survey Manual**  
+**Edition 143**
+
+
+## Section 7.2 — Survey Boundary Notation
+
+> Regions beyond established survey boundaries should be treated as unoccupied unless direct evidence indicates otherwise.
+
+
+### Margin note (handwritten; instructor attribution unknown)
+
+> Remember:  
+> Maps describe what we know.  
+> Not necessarily what exists.
+
+\newpage
+
+
+
+# Chapter 1 — The Empire {.chapter-opener}
+
+<p align="center"><img src="assets/chapter_logo.png" alt="" width="160" /></p>
 
 The morning feed arrived at Meridian Gate before the station's artificial dawn cycle finished its slow climb from indigo to pearl.
 
@@ -98,7 +132,8 @@ Maris laughed and closed the frontier school packet. The promenade below her was
 
 She believed careful reconciliation still kept the public charts true to what ships actually crossed. That faith was the job. On a morning when every packet looked healthy, it was easy to trust it.
 
-❦
+<p align="center" class="scene-break" markdown="0">&#183; &#183; &#183;</p>
+
 
 Helion Prime never slept. It only changed shifts. Founders' Week began in bakeries and freight offices long before the parade terraces filled.
 
@@ -134,7 +169,8 @@ A dockworker short on credits this week hesitated at the rye display. Lisette ha
 
 He left with bread and the expression of someone who had not expected kindness to be so stubborn.
 
-❦
+<p align="center" class="scene-break" markdown="0">&#183; &#183; &#183;</p>
+
 
 Above the market street, the freight tiers were ending another night shift. In the civilian cargo office, Jun Park's mother Hye-Jin closed her ledger. She had counted containers until the numbers blurred and still caught the error a junior clerk missed—a mislabeled medical shipment bound for an ocean world's clinic. She corrected it, signed the form, and sent a message to her son Jun on a posting she understood only as *mid-rim, safe, call when you can*.
 
@@ -144,11 +180,13 @@ Hye-Jin bought rice cakes from a vendor who remembered her husband.  She ate sta
 
 No one in the terminal thought about border queues or Senate bulletins. They thought about overtime, schedules, the Founders' Week bonus, whether the parade would block the 0800 shuttle.
 
-❦
+<p align="center" class="scene-break" markdown="0">&#183; &#183; &#183;</p>
+
 
 In a park near the academy district, students sprawled on grass that was real and expensive to maintain. Children chased a dog someone should have leashed. An explorer on leave told exaggerated stories about a neutral enclave that traded in hydroponics manuals; his friend, a teacher, corrected the details gently and ruined the story's rhythm on purpose.
 
-❦
+<p align="center" class="scene-break" markdown="0">&#183; &#183; &#183;</p>
+
 
 By late afternoon, Lisette had left Priya on the morning batch long enough to cross the district. She delivered a tray of rolls to the park kiosk on credit she kept for the vendor because the woman had nursed Lisette through influenza one winter. In return, the vendor saved her a seat at the parade route.
 
@@ -172,7 +210,8 @@ As evening approached, the market street changed character: lanterns strung betw
 
 Helion Prime was not beautiful the way Selene was beautiful or Verdant Line was gentle. It was loud, functional, and full of people who sang anyway when the parade drums started.
 
-❦
+<p align="center" class="scene-break" markdown="0">&#183; &#183; &#183;</p>
+
 
 The Fleet Administrative Academy on Helion Prime occupied a terrace of stone and glass that overlooked the industrial aurora.
 
@@ -210,7 +249,8 @@ He thought about the checklist for graduation day, the message owed to Lisette b
 
 At the terrace rail, he watched the Second Sunrise pulse beyond the glass and felt, for half a breath, the childish awe he had trained himself to file under *industrial output*. Then he checked tomorrow's schedule again because checking twice was how you kept errors from becoming tragedies—and because Lisette deserved at least one person in her life who verified things before they went wrong.
 
-❦
+<p align="center" class="scene-break" markdown="0">&#183; &#183; &#183;</p>
+
 
 In the Lower Meridian District, Lisette closed the Oven after the blessing rehearsal and counted the day's receipts with Priya's help. She ran the tally twice without comment—the habit her younger sister had drilled into her when they were girls behind their grandmother's counter.  
 
@@ -226,9 +266,10 @@ Hye-Jin took two rolls for the message window and set a third aside for her son.
 
 Lisette paused long enough for the remark to land, then returned to the register. "Her son hates crowds. I'll be at the formal one." She did not say that she still heard her sister complain about parade spacing sometimes, as if the dead retained opinions about ceremony. She locked the door, checked the painted cardamom bun on the sign, and went home with yeast on her sleeves and tomorrow's graduation already in her calendar.
 
-❦
+<p align="center" class="scene-break" markdown="0">&#183; &#183; &#183;</p>
 
-Calder returned to his quarters, opened a draft to Lisette, deleted three sentences that sounded too formal, and wrote: *Graduation rehearsal complete. Pell says I must look like I'm enjoying the parade. I believe in your rolls. I will come to the bakery after the ceremony if you will feed me. Tell Priya fleet ration is still an insult.*
+
+Calder returned to his quarters, opened a draft to Lisette, deleted three sentences that sounded too formal, and wrote: _Graduation rehearsal complete. Pell says I must look like I'm enjoying the parade. I believe in your rolls. I will come to the bakery after the ceremony if you will feed me. Tell Priya fleet ration is still an insult._
 
 He sent it. He reviewed tomorrow's schedule a third time. He slept.
 
@@ -238,7 +279,8 @@ By afternoon on Meridian Gate, the public archive had given way to the cartograp
 
 The annex opened at 1400—the same recycled air and row of terminals as every other shift.
 
-❦
+<p align="center" class="scene-break" markdown="0">&#183; &#183; &#183;</p>
+
 
 Maris Chen had requested the Segment Seven reconciliation set three cycles ago—baselines, relay shading, survey returns along the outer Kestran arm, filed as routine cross-check. Three cycles in, it was still open on her screen.
 
@@ -262,7 +304,7 @@ The second packet made her pause.
 
 A scout return filed navigation baseline against posted frontier shading; corridor segment seven-alpha showed a persistent offset—small, within validation band, repeating across three independent observation windows. The analyst note attributed it to cumulative navigation error.
 
-*Within tolerance,* Maris thought. *But why does it repeat?*
+Within tolerance,* Maris thought. *But why does it repeat?
 
 She opened a side pane and pulled last cycle's seven-alpha summary. The offset had been present then, smaller, filed as relay timing lag.
 
@@ -338,13 +380,13 @@ Maris Chen had almost warned Fleet Cartography in time.
 
 She had not.
 
----
+\newpage
 
-# Chapter 2
 
-<!-- LOCKED FINAL · 2026-07-09 · No further edits unless author explicitly unlocks. -->
 
-## A Captain's Dream
+# Chapter 2 — A Captain's Dream {.chapter-opener}
+
+<p align="center"><img src="assets/chapter_logo.png" alt="" width="160" /></p>
 
 Founders' Week turned Helion Prime's academy terrace into something the manuals never described: a parade ground with music.
 
@@ -504,7 +546,8 @@ His quarters were quiet. He hung the dress uniform with the care Lisette had tau
 
 Outside, parade drums continued.
 
-❦
+<p align="center" class="scene-break" markdown="0">&#183; &#183; &#183;</p>
+
 
 The Cardamom Oven had been in Lisette Venn's family for two generations—first as a freight-worker lunch counter, later as the cardamom roll institution Calder had grown up believing was the correct shape of bread.
 
@@ -566,7 +609,7 @@ Calder considered lying. The room assumed excellence the way rooms assumed sunri
 
 "Independent command," Lisette repeated, pleased. "See? Stubborn and correct."
 
-An industrial sponsor had shaken his hand at the receiving line with the confidence of a man recruiting future administrators. A classmate's mother had said, *You'll be on a flagship by thirty*. Calder had not corrected her.
+An industrial sponsor had shaken his hand at the receiving line with the confidence of a man recruiting future administrators. A classmate's mother had said, _You'll be on a flagship by thirty_. Calder had not corrected her.
 
 He let the room's assumption settle around him like a blanket. Warm. Undeserved, maybe, but warm.
 
@@ -600,7 +643,8 @@ He kissed her cheek—the affection he allowed himself without translating it in
 
 On the transit ride back, Calder did not open the assignment preview he did not have permission to access. He slept.
 
-❦
+<p align="center" class="scene-break" markdown="0">&#183; &#183; &#183;</p>
+
 
 Assignment posting took place in Academy Hall the morning after graduation, while Founders' Week crowds moved through the lower districts and the Empire continued its week-long argument about which noodle stall was authentic.
 
@@ -670,7 +714,7 @@ He closed the packet and sat through the remaining postings with his hands flat 
 
 When the hall emptied, Pell was gone. A note waited in Calder's message queue instead:
 
-*The ship is older than the file makes her sound. The crew is competent. Come to my office if you need to argue. Do not argue in the bakery.*
+The ship is older than the file makes her sound. The crew is competent. Come to my office if you need to argue. Do not argue in the bakery.
 
 Calder read it twice. Deleted the reply he drafted. Wrote: *Understood. Thank you, sir.*
 
@@ -712,7 +756,8 @@ Calder ate. The disappointment did not vanish, but it made room for something el
 
 He spent an hour at the bakery, sent Adrian a message—*Assignment received. Drinks when you are back from mapping heaven*—and took the transit to the outer yards.
 
-❦
+<p align="center" class="scene-break" markdown="0">&#183; &#183; &#183;</p>
+
 
 On the ride he opened the assignment packet far enough to find a supplement clipped behind the acceptance forms—not Fleet issue, plain paper, Dennett's hand.
 
@@ -720,9 +765,9 @@ On the ride he opened the assignment packet far enough to find a supplement clip
 Outgoing Commanding Officer: Elias Dennett  
 Incoming Commanding Officer: Calder Venn  
 
-*Notes below are unofficial. Use judgment.*
+Notes below are unofficial. Use judgment.
 
-**Your officers:**
+*Your officers:*
 
 **Thessaly** — Executive Officer. Sixty-seven months on the *Veil*. Three captains before you, including me. Passed captain boards twice and stayed executive anyway. She will assess you before she advises you. Do not mistake silence for agreement.
 
@@ -740,11 +785,12 @@ One other crew member you need to be aware of.  **Kevin** — Environmental supp
 
 The *Veil* is an interesting ship. I cannot explain her. You will find out.
 
-*P.S. Watch the door. Habitation seven-C. Lower-left kick.*
+P.S. Watch the door. Habitation seven-C. Lower-left kick.
 
 Calder read it twice—the second pass for what Dennett had left out. The memo named people. It did not explain the scar. That, he supposed, was what the observation strip was for.
 
-❦
+<p align="center" class="scene-break" markdown="0">&#183; &#183; &#183;</p>
+
 
 Helion Prime's industrial berths smelled of solvent and hot metal even through the airlock filters. Founders' Week had reached the shipyards—fresh paint on parade-ready hulls, inspection crews working double shifts, destroyer escorts gleaming under floodlights as if they had been built yesterday.
 
@@ -840,13 +886,13 @@ Calder looked at the welded seam—a long pale ridge against darker hull.
 
 "Show me the gaps first," he said quietly. "Then the green boards."
 
----
+\newpage
 
-# Chapter 3
 
-<!-- LOCKED FINAL · 2026-07-09 · No further edits unless author explicitly unlocks. -->
 
-## The Ship That Refuses to Die
+# Chapter 3 — The Ship That Refuses to Die {.chapter-opener}
+
+<p align="center"><img src="assets/chapter_logo.png" alt="" width="160" /></p>
 
 Thessaly nodded once—not agreement, not disagreement. Assessment pending.
 
@@ -984,7 +1030,8 @@ Thessaly did not say *welcome to your command*. The crew had heard captains befo
 
 
 
-❦
+<p align="center" class="scene-break" markdown="0">&#183; &#183; &#183;</p>
+
 
 Engineering was down two decks and in, where the systems actually lived.
 
@@ -1050,7 +1097,8 @@ At the operations junction, Walsh stepped aside with a cargo strap over one shou
 
 The crew watched Calder the way experienced personnel watched new captains: not with hostility, with assessment. Could he listen. Would he pretend the ship was something she was not.
 
-❦
+<p align="center" class="scene-break" markdown="0">&#183; &#183; &#183;</p>
+
 
 The galley fit six at a table, not fourteen. Calder ducked through the hatch into recycled protein and stew Park had salted again—two tables, one nook, mugs in a rack that did not match. Off-watch, half the senior crew pretended not to watch the new captain eat.
 
@@ -1128,7 +1176,8 @@ Hale paused in the hatchway. "Port tactical systems responds faster than the man
 
 The galley laughed—not at Calder. At the door, which everyone in the room had kicked before.
 
-❦
+<p align="center" class="scene-break" markdown="0">&#183; &#183; &#183;</p>
+
 
 Afternoon on the *Veil* ran on overlapping schedules—Thessaly's watches, Koss's maintenance blocks, and the fact that scout crews did not get synchronized sleep.
 
@@ -1186,7 +1235,8 @@ Calder almost smiled. He did not, quite.
 
 The ship ran whether or not he had sat in the command chair. That should have unsettled him. It did not, quite.
 
-❦
+<p align="center" class="scene-break" markdown="0">&#183; &#183; &#183;</p>
+
 
 The first decision came on something small enough to miss.
 
@@ -1250,7 +1300,8 @@ Halden, from tactical watch: "First time today you asked Walsh before the Fleet 
 
 Calder did not look proud.
 
-❦
+<p align="center" class="scene-break" markdown="0">&#183; &#183; &#183;</p>
+
 
 Stories collected in the galley after night watch the way they always did—half memory, half routine, none of them complete.
 
@@ -1308,7 +1359,8 @@ Thessaly, in the hatchway: "Every time I've been aboard. Per record, recurring. 
 
 "Record never is," Halden muttered, and Park slid a fresh mug toward her without comment.
 
-❦
+<p align="center" class="scene-break" markdown="0">&#183; &#183; &#183;</p>
+
 
 Departure morning started with dispatch, then engines.
 
@@ -1422,13 +1474,13 @@ Outside, a yard tug crossed the cradle strip. Inside, Brenner swore at a door th
 
 The Veil held. For today, that was enough.
 
----
+\newpage
 
-# Chapter 4
 
-<!-- LOCKED FINAL · 2026-07-08 · No further edits unless author explicitly unlocks. -->
 
-## Routine Patrol
+# Chapter 4 — Routine Patrol {.chapter-opener}
+
+<p align="center"><img src="assets/chapter_logo.png" alt="" width="160" /></p>
 
 The environmental thrum changed pitch when the cradle released them—not enough for Koss to log, enough for Calder to feel through the command chair.
 
@@ -1446,7 +1498,7 @@ Calder did not stand for the departure. Dennett's logs said captains who stood l
 
 On the forward console ledge, a carton sat in grease paper—yard baked goods, unassigned provisioning from yard overflow. The side panel showed a cardamom bun and *The Cardamom Oven* in copper script. No entry in the manifest yet. That would come later, or not at all.
 
-Park had placed it there without announcement. Thessaly had not commented. Walsh had already added a line to his checklist that morning: *If provisioning appears, it's for everyone. Eat.*
+Park had placed it there without announcement. Thessaly had not commented. Walsh had already added a line to his checklist that morning: _If provisioning appears, it's for everyone. Eat._
 
 Brenner had taken the first piece on his way through the command deck hatch, as if it were part of procedure.
 
@@ -1514,7 +1566,8 @@ The word still did not feel like his.
 
 The environmental thrum settled into its patrol note—a half-tone lower than cradle, steady enough that Calder stopped listening for the change and started listening for when it changed again.
 
-❦
+<p align="center" class="scene-break" markdown="0">&#183; &#183; &#183;</p>
+
 
 Reyes brought them to patrol velocity with the same micro-corrections as was done with the undocking procedure. 
 
@@ -1564,7 +1617,8 @@ Tanaka went back to her colors.
 
 Bias. Compensation. Tanaka's table. He had the labels Reyes had given him—not one chart he trusted yet. He sat when the chair stopped protesting.
 
-❦
+<p align="center" class="scene-break" markdown="0">&#183; &#183; &#183;</p>
+
 
 The watch found its pace before patrol velocity finished settling.
 
@@ -1604,7 +1658,8 @@ Halden's mouth twitched. "Statistically, mostly debris." The line landed a beat 
 
 The watch had already settled into its own shorthand when he spoke. Calder felt like he had stepped into the middle of a conversation. Nobody paused to let him catch up—but they expected he would.
 
-❦
+<p align="center" class="scene-break" markdown="0">&#183; &#183; &#183;</p>
+
 
 Calder walked the habitation layer during the mid-cycle lull because Dennett's logs said captains who never left the command deck made the crew nervous. The deck plating had the same give under his boots as on the climb from engineering. Door seven-C stuck. He kicked lower-left. The door opened.
 
@@ -1644,7 +1699,8 @@ Walsh appeared with a stores strip and no apology for existing in a corridor. "M
 
 Calder did not intercept him.
 
-❦
+<p align="center" class="scene-break" markdown="0">&#183; &#183; &#183;</p>
+
 
 It happened during what the watch log would later call mid-cycle quiet.
 
@@ -1688,7 +1744,8 @@ Calder sat in the command chair. The chair complained again, this time with more
 
 Brenner's voice on engineering channel, already elsewhere: "Port panel secured. Moving to lift three manual check."
 
-❦
+<p align="center" class="scene-break" markdown="0">&#183; &#183; &#183;</p>
+
 
 The duplicate did not repeat. That was almost worse.
 
@@ -1704,7 +1761,8 @@ When Park transmitted the late-cycle status packet, one return line matched an e
 
 Calder did not ask. He was learning which questions changed posture and which ones only changed the room's temperature.
 
-❦
+<p align="center" class="scene-break" markdown="0">&#183; &#183; &#183;</p>
+
 
 The command deck entered its low-activity cycle for the final approach to relay point Kestran IV-Alpha.
 
@@ -1763,6 +1821,3 @@ Thessaly noted it on her slate. Reyes corrected vector four. The patrol clock ad
 Somewhere aft, Brenner cursed loudly and kicked a door.
 
 The environmental thrum held its patrol note. Calder listened for when it changed again. Park's secondary flag still hadn't cleared—separate, waiting for a relay window that hadn't opened.
-
----
-

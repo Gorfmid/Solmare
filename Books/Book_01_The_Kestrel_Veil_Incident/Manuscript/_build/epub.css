@@ -119,6 +119,21 @@ em, i {
   font-style: italic;
 }
 
+/* Appendix letter sections (A–E) */
+h1.appendix {
+  page-break-before: always;
+}
+
+h1.appendix-letter {
+  page-break-before: always;
+  page-break-after: avoid;
+  text-align: center;
+  font-size: 1.25em;
+  font-weight: bold;
+  font-style: normal;
+  margin: 2em 0 0.5em 0;
+}
+
 /* Table of contents */
 nav#toc,
 #toc {

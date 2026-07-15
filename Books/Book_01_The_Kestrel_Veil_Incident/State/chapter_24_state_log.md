@@ -1,103 +1,43 @@
 # Chapter 24 State Log — After Contact
 
-**Status:** DRAFT  
-**Act:** IV — First Doctrine (Book One close)  
-**Planning:** User outline 2026-07-07 · supersedes fork-publication montage in `act4_chapters_21-24_generation.md`
+**Status:** **LOCKED FINAL** — editorial pass complete **2026-07-14** (1,762 words)  
+**Act:** IV — First Doctrine · **END BOOK ONE**
 
 ---
 
-## Chapter purpose
+## Structure (on page)
 
-Book One aftermath — consequences of Ch. 23 first contact without new action climax.
-
-**Theme:** *The first contact succeeded. Understanding has not begun.*
-
-**Core question:** What does Fleet and Dominion do the day after acknowledgment?
-
----
-
-## Scenes (implemented)
-
-### 1 — Kestrel posture hold
-
-- Six hours post-exchange; passive hold; watch schedule continues
-- Brenner, Ortega, Park, Holt relay, Walsh rest cycles, Kevin soup
-- No celebration
-
-### 2 — Calder incident report
-
-- OBSERVED / INFERRED / UNKNOWN structure
-- Thessaly: keep protocol compatibility in observed; familiarity in inferred
-- Calder files uncertainty correctly — character arc close
-
-### 3 — Fleet institutional response
-
-- Holt ingest; segregated routing to Operations, Intelligence, Cartography, Doctrine, Historical
-- Rowan: maintain contact posture; no mobilization
-- Mercer propagation receipt — Edition 144 active, not fork annex
-
-### 4 — Thessaly XO book
-
-- *The ship returned.* — contact in unofficial history
-- *The answer created more questions.*
-
-### 5 — Dominion Vex report
-
-- Mirror OBSERVED / INFERRED / UNKNOWN structure
-- Trial scout possible, not confirmed; archive unreconciled
-- Intent unresolved
-
-### 6 — Ordinary ship life
-
-- Day two Alpha Seven; Kevin, Brenner, Koss, Walsh; withdrawal prep hour 22
-
-### 7 — Book One close / Book Two hook
-
-- Fringe relay unsolicited packet — not Holt path, not contact channel
-- Header order: identification-exchange family, older variant; origin empty
-- Ortega: structured passive return, no correlation to contact mass
-- Calder: file observed, inference withheld; continue egress
+| Scene | Beat |
+|-------|------|
+| Posture hold | Six hours after exchange; soup; Holt lag |
+| Ready room / Validation Bay / Rowan | Observed/Inferred split; Fleet metabolism; Edition 144 posture |
+| Thessaly XO notebook | Unofficial history of the exchange |
+| *Iron Harrow* after-action | Standing Observation held; not discovery |
+| Ordinary load | Two-way Alpha Seven relay seeded → VI-Gamma; egress |
+| Scout egress (Dominion) | Relay recognized; corridor link, not invitation |
+| Strike | *Iron Harrow* hit by larger hostile mass; send *Pelligar* |
+| Fringe | *Veil* receives *Pelligar*; weapons fire logged; Helion ahead |
 
 ---
 
-## Book One resolution
+## Canon Outcomes
 
-| Resolved | State |
-|----------|--------|
-| Kestrel survived | Witness hull; egress authorized |
-| Leviathan encounter reframed | Behavioral acknowledgment; hostile classification not assigned |
-| Fleet doctrine | Edition 144 active; observation-first posture |
-| First contact | Exchange completed both sides |
-| Calder responsibility | Report filed; uncertainty separated correctly |
-
-| Left open | State |
-|-----------|--------|
-| Protocol similarity | Hint only — older variant both sides |
-| Dominion identity (Fleet) | Unknown category / witness profile |
-| Trial archive reconciliation | Dominion — contact destroyed vs present |
-| Third signal | Fringe relay packet + passive return — origin unresolved |
-| Beyond Alpha Seven | Book Two question |
+- First technical exchange archived under Edition 144 (Fleet) / Standing Observation (Dominion)
+- Two-way Alpha Seven approach relay left live
+- *Iron Harrow* struck by mass larger than itself / larger than prior silhouette from Fleet POV
+- One-word relay traffic: **Pelligar** (unresolved)
+- Book One ends on egress + unresolved weapons fire—not a closed mystery answer
 
 ---
 
-## Retired manuscript (Ch. 24 prior draft)
+## Final Edit Notes (2026-07-14)
 
-- Edition 144 publication ceremony montage
-- Fork annex Branch A/B/C field adaptation
-- Tri-layer map room controversy normalization
-- Sorin *Morning Watch* patrol beat
-- Closing: frontier unchanged without contact aftermath
-
----
-
-## Epilogue alignment
-
-- Verify `epilogue.md` against unified Contact Doctrine (not fork framing) before LOCK
+- Differentiated Fleet vs Dominion institutional stamps (no twin "behavioral acknowledgment")
+- Withdrawal justified by seeding two-way relay (not listen-only)
+- Closing strike deliberately short; intent hostile; *Pelligar* only
 
 ---
 
 ## Next
 
-- Ch. 24 editorial pass
-- Epilogue alignment check
-- `chapter_list.md` word count update
+- Epilogue / appendix alignment as author directs; series Book Two open questions: *Pelligar*, larger shooter, relay diplomacy

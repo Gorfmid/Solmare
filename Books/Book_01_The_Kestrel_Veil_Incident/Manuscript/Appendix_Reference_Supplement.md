@@ -15,8 +15,9 @@ description: "Book One reference supplement. Fleet Historical Office operational
 
 This supplement records what Fleet institutions have **observed**, **certified**, and **routed** through the events of Book One. It does not resolve intent. It does not assign identity where observation did not support it.
 
+\newpage
 
-# APPENDIX A
+# APPENDIX A {.appendix-letter}
 # Fleet Vessel Reference
 
 ## Kestrel Veil
@@ -79,8 +80,9 @@ At completion of the segment seven reconnaissance leg and return to Fleet space:
 
 The *Kestrel Veil* is an ordinary long-service scout that remained operational because her crew treated imperfection as a working condition. No special platform designation applies. Significance attaches to **certified returns** and **command conduct under uncertainty**, not to hull legend.
 
+\newpage
 
-# APPENDIX B
+# APPENDIX B {.appendix-letter}
 # Personnel Reference
 
 Abbreviated assignment records. Not biographical files. Observed professional characteristics only.
@@ -195,8 +197,9 @@ Thessaly's notebook is not certified Fleet custody. It is noted as a command-wor
 
 Fleet does not classify this officer as enemy, ally, or third party. Fleet classifies **conduct observed** and **identity unknown**.
 
+\newpage
 
-# APPENDIX C
+# APPENDIX C {.appendix-letter}
 # Civilizations and Political Entities
 
 
@@ -257,8 +260,9 @@ Fleet does not assign villain classification. Fleet assigns **observation bands*
 
 No entry in this supplement asserts contact civilization's self-knowledge beyond what Fleet observed. Internal Dominion debates, directorate names, and trial programs are **not** Fleet custody at Book One close.
 
+\newpage
 
-# APPENDIX D
+# APPENDIX D {.appendix-letter}
 # Operational Terms
 
 Short definitions as used in certified Book One records. Not exhaustive.
@@ -348,8 +352,9 @@ Communications Command review node in the Kestran VI-Gamma relay chain. Validate
 
 Chart notation for contact volume used in Edition 144 crossing orders. Site of acknowledged technical exchange. Not equivalent to segment seven entire volume.
 
+\newpage
 
-# APPENDIX E
+# APPENDIX E {.appendix-letter}
 # Historical Timeline
 
 Abbreviated institutional chronology. Dates approximate where Fleet uses era notation rather than single calendar.

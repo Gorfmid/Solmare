@@ -37,7 +37,7 @@ powershell -ExecutionPolicy Bypass -File .\rebuild_act.ps1 -ActId III
 powershell -ExecutionPolicy Bypass -File .\rebuild_appendix.ps1
 ```
 
-**Acts I and II only:** `build_acts_1_2.ps1` → `Kestrel Incident Acts 1 and 2.md` (and `.epub`) — Prologue, FSA-143-07, Ch. 1–8, schematic (Ch. 7 preamble), FCC-7712, reference plates, table of contents.
+**Acts I and II only:** `build_acts_1_2.ps1` → `Kestrel Incident Acts 1 and 2.md` (and `.epub`) — Prologue, FSA-143-07, Ch. 1–8, FCC-7712, reference plates, table of contents.
 
 Requires Pandoc 3.x on PATH, or the portable copy under `_build/tools/pandoc/`.
 

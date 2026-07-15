@@ -20,7 +20,7 @@
 **Primary cross-references:**  
 `Universe/Fleet/unified_fleet_authority.md` · `Universe/Fleet/fleet_authority_governance_and_command_hierarchy.md` · `Universe/Cosmology/galaxy.md` · `Universe/Maps/solmare_quadrant.md` · `Universe/Maps/sector.md` · `Books/Book_01_The_Kestrel_Veil_Incident/Notes/book1_core_premise.md` · `Books/Book_01_The_Kestrel_Veil_Incident/Ships/Kestrel_Veil.md`
 
-**Chart image:** *Pending author asset.* When ready, place at `Universe/Maps/ufa_navigation_chart.png` and `Books/Book_01_The_Kestrel_Veil_Incident/Manuscript/assets/ufa_navigation_chart.png`.
+**Chart image:** `Universe/Maps/ufa_navigation_chart.png` (publication copy: `Books/Book_01_The_Kestrel_Veil_Incident/Manuscript/assets/ufa_navigation_chart.png` — Appendix F).
 
 ---
 

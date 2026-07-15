@@ -768,6 +768,30 @@ function Convert-Appendix {
     }
 
     $bodyLines = Convert-PublicationBody -Lines $lines[$bodyStart..($lines.Count - 1)]
+
+    # Each lettered appendix (A–G) starts on its own page.
+    $paged = New-Object System.Collections.Generic.List[string]
+    foreach ($line in $bodyLines) {
+        if ($line -match '^#\s+APPENDIX\s+([A-G])\s*$') {
+            $letter = $Matches[1]
+            while ($paged.Count -gt 0 -and (
+                [string]::IsNullOrWhiteSpace($paged[$paged.Count - 1]) -or
+                $paged[$paged.Count - 1] -match '^\\newpage\s*$'
+            )) {
+                $paged.RemoveAt($paged.Count - 1)
+            }
+            if ($paged.Count -gt 0) {
+                [void]$paged.Add('')
+                [void]$paged.Add('\newpage')
+                [void]$paged.Add('')
+            }
+            [void]$paged.Add(("# APPENDIX $letter " + '{.appendix-letter}'))
+            continue
+        }
+        [void]$paged.Add($line)
+    }
+    $bodyLines = $paged
+
     $em = [char]0x2014
     $header = "# Appendix $em Reference Supplement {.appendix}"
     $body = ($bodyLines -join "`n").TrimEnd()
