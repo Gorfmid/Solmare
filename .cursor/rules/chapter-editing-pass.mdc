@@ -1,40 +1,27 @@
 ﻿---
-description: Solmare chapter editing pass — apply when user says "apply editing pass to chapter X"
+description: Solmare Writing Pass 1 — complete chapter edit pass (editing + final checklist)
 globs: Books/**/Chapters/chapter_*.md
 alwaysApply: false
 ---
 
-# Chapter Editing Pass
+# Writing Pass 1 / Chapter Editing Pass
 
-When the user says **"apply editing pass to chapter X"** (or similar), load and follow:
+When the user says **"Writing Pass 1 on Chapter X"**, **"apply editing pass to chapter X"**, **"final edit pass on chapter X"**, or similar:
 
-`Writing_System/Style_Guide/chapter_editing_pass.md`
+1. Confirm **Final Candidate** stage per `Writing_System/Pipeline/solmare_writing_lifecycle.md` (or author override).
+2. Load and follow: `Writing_System/writing_pass_1.md`
 
-Also load for context:
-- `Writing_System/Style_Guide/act_iv_institutional_prose.md` (Ch 17–24)
-- `Universe/Fleet/fleet_dominion_frontier_history.md` (segment seven / Neutral Zone canon)
+Also load for context as needed:
+- `Writing_System/Style_Guide/act_iv_institutional_prose.md` (Fleet institutional scenes)
+- `Universe/cultural_touchstones.md` (tea/coffee)
+- Book `State/current_state.md` + prior chapter state log
 - `PROJECT_INSTRUCTIONS.md`
 
 ## Rules
 
-- **Not a rewrite.** No plot, pacing, scene order, reveal, or arc changes.
-- Polish prose only where objectively weaker than surrounding material.
-- Trust the reader. Observation → Comparison → Decision.
-- End scenes on work continuing, not thematic summary.
-- Check **plain language** (no unclear clever metaphors).
-- Check **deception/lying metaphor cluster** (reduce narrator repetition).
-- Check **concrete scene setup** (plain institutional work; scene logic holds).
-- Check **observation discipline** (traffic acoustics vs. individual operator patterns on listen watch testimony).
-- Check **segment seven terminology** (frontier volume/mission designation—not a ship, adversary, or actor).
-- Check **record medium** (certified custody chain vs. working hardcopy/ink—not ink as final authority).
-- Check **procedural vs. thematic lines** (state the work in plain terms when a theme phrase feels wrong—not a fixed replacement formula).
-- Check **global manuscript style tics** (Tuesday motif, grammar drift, lied metaphors, ink-as-final-record, "not yet earned," department-saw summaries, aphorisms).
-- After editing, provide the fourteen-point report from the template.
+- **Not a rewrite.** No plot, pacing, scene order, reveal, or arc changes unless unlocked.
+- Follow the full hard checklist + institutional polish in `writing_pass_1.md`.
+- Deliver the report checklist from that doc.
+- Respect **LOCKED FINAL** unless the author unlocks.
 
-## Locked chapters
-
-Respect which acts/chapters the user has declared locked. Edit only what the user requests.
-
-For the **Ch. 13+ hard checklist** (colon tags, *file* density, beverage clocks), use trigger **"final edit pass on chapter X"** → `Writing_System/Style_Guide/chapter_final_edit_pass.md` and `.cursor/rules/chapter-final-edit-pass.mdc`.
-
-**LOCKED FINAL (no further edits — remind author if edit suggested):** Ch. 1–24 + Epilogue (Acts I–IV complete · **END BOOK ONE**). Ch. 1–2 re-locked **2026-07-09** (Adrian Reyes rename); Ch. 16 editorial pass complete **2026-07-12** (*Homeward* — **END ACT III**); Ch. 17 editorial pass complete **2026-07-13** (*The Listening Post* — Act IV opens); Ch. 18 editorial pass complete **2026-07-13** (*New Words*); Ch. 19 editorial pass complete **2026-07-13** (*The Witnesses* — crew testimony certified; Calder First Witness); Ch. 20 editorial pass complete **2026-07-13** (*The Long Shadow* — Standing Observation; Edition 144 draft); Ch. 21 editorial pass complete **2026-07-14** (*The First Doctrine* — Edition 144 signed; reference hull); Ch. 22 editorial pass complete **2026-07-14** (*The Crossing* — Alpha Seven; XO notebook; *Iron Harrow* V17 coda); Ch. 23 editorial pass complete **2026-07-14** (*Recognition* — corridor shaping; *Iron Harrow* reveal; technical acknowledgment); Ch. 24 editorial pass complete **2026-07-14** (*After Contact* — two-way relay; *Pelligar*; weapons fire; **END BOOK ONE**); Epilogue editorial pass complete **2026-07-14** (*First Day* — Academy / Ellis–Maris / Park–Holt). Authoritative lock table: `Act_Outlines/chapter_list.md`.
+Authoritative lock table: book `Act_Outlines/chapter_list.md`.

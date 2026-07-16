@@ -1,0 +1,47 @@
+---
+description: Solmare writing lifecycle — route Draft / Revision / Writing Pass 1 / Lock to correct stage
+globs: Books/**/Chapters/**/*.md
+alwaysApply: false
+---
+
+# Solmare Writing Lifecycle — Stage Routing
+
+Canonical workflow: `Writing_System/Pipeline/solmare_writing_lifecycle.md`
+
+Do **not** rewrite style guides or skip stages unless the author explicitly overrides.
+
+## Draft Chapter X
+
+When the user says **"Draft Chapter X"** (or *Generate Chapter X* / *Write Chapter X*):
+
+- Use **Stage 1 — Draft**
+- Priority: story function, character, information flow, scene completeness
+- Allowed: rough prose, placeholders, exploratory dialogue
+- Do **not** optimize em dashes, repeated words, minor terminology, or sentence rhythm
+- Do **not** run Writing Pass 1
+
+## Revision Pass on Chapter X
+
+When the user says **"Revision Pass on Chapter X"** (or *Revise Chapter X* / *Structural revision on Chapter X*):
+
+- Use **Stage 2 — Revision Pass**
+- Review: story structure, character, canon, information discipline
+- Do **not** perform Writing Pass 1 / final prose polish until structure is stable
+
+## Writing Pass 1 on Chapter X
+
+When the user says **"Writing Pass 1 on Chapter X"** (or legacy *final edit pass* / *editing pass*):
+
+- Confirm the chapter is in **Final Candidate** stage (Stage 3), or the author overrides
+- If still Draft / early Revision, recommend completing Stage 2 first unless overridden
+- Load and apply: `Writing_System/writing_pass_1.md`
+- **Not a rewrite:** no plot, pacing, scene order, reveals, or arc changes unless authorized
+
+## Lock Chapter X
+
+When the user says **"Lock Chapter X"** (or *Final Lock Chapter X*):
+
+- Execute **Stage 4 — Final Lock** checklist from the lifecycle document
+- Add `<!-- LOCKED FINAL · YYYY-MM-DD -->`
+- Update state log, current_state, trackers, word count, open threads
+- After lock: spelling/grammar/formatting/production only — no rewrite, scene adds, dialogue changes, or lore changes unless unlocked
