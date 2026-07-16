@@ -61,13 +61,15 @@ Soren stared at the interlaced responsibility line the way people stared at a ro
 
 Brenner kept helm quiet. Hadd checked runner transfer protocol twice and did not joke about tea service. Ortega stacked the Peligar residual without forcing a class. Park kept the speech-structure flag visible and refused to let anyone decorate it with meaning.
 
-"They're talking," Park said, when someone on lag asked whether the residual had clarified. "Meaning none. Infrared markers present. Polarization markers present. Harmonic structure under the audible fraction. No translation. No destination targeting I can certify. Do not invent a dictionary because you are tired of weather."
+"They're talking," Park said, when someone on lag asked whether the residual had clarified. "Meaning none. Infrared markers present. Polarization markers present. Harmonic structure under the audible fraction. No translation. No destination targeting I can certify. Do not invent a dictionary because you are tired of waiting."
 
 Calder looked once at Thessaly. She was already watching him the way she watched rooms that needed a decision before the room finished arguing. People-reader work. She knew when two captains needed the same kill-zone of responsibility more than they needed another polite annex.
 
 "Mission geometry forces interdependence," she said. "Escort without outer watch leaves freight naked. Outer watch without escort leaves depth fishing accusations live. Ambiguous return without both doctrines leaves us late again. I put you and Vex in the same problem on purpose. Predict each other. Do not convert each other."
 
-"Understood," Calder said.
+"Understood," Calder said. Then, because trust that only lived in his own head was not trust anyone could use: "If the board splits again the way it did last package, and Vex and I are both too proud to move first, you lock it. Same authority I'd use myself. I want it on the record that you had it, not that you took it."
+
+Thessaly looked up from the watch bill for exactly as long as it took to breathe once. "Recorded," she said, and nothing else. It was the sentence she did not add that told Calder she had heard the whole thing, not just the order buried inside it.
 
 On *Iron Harrow*'s feed, Vex did not look pleased. Pleasure would have been a lie. He looked like a man who had accepted that Fleet improvisation and Dominion preparation would share a corridor whether Civil Government liked the adjacency or not.
 
@@ -116,7 +118,7 @@ On the Dominion feed, Kell already had the archive checklist open. Rada had the 
 
 Soren made a sound that was almost a protest. "If we hold every time they say archive, we are just their trailer."
 
-"If we override every time we feel brave, we are inventing weather," Thessaly said. "Schedule the disagreement. Do not perform it."
+"If we override every time we feel brave, we are inventing a threat that isn't there," Thessaly said. "Schedule the disagreement. Do not perform it."
 
 Calder watched Vex on the feed. He had spent eighteen months learning how Dominion captains spent certainty. He had spent package one watching Vex refuse pursuit when Fleet hunger wanted nouns. He had watched *Iron Harrow* hold outer watch while Fleet nearly illuminated a rescue over a wrong header. He did not need complete certainty now to know what preparation doctrine would choose under fire-adjacent geometry with civilian freight present and a residual that would not class clean.
 
@@ -197,7 +199,7 @@ Rada kept the lexicon board steady. "If we separate now, we reopen the political
 
 A Long Watch runner Calder did not know by name added the SSD line carefully. "Civil Government lag prefers we not let Fleet observation habits set the shared noun. Observation without inherited confirmation is how innovation invents wars."
 
-Vex watched Calder on the shared strip the way a man watched weather he had already priced.
+Vex watched Calder on the shared strip the way a man watched a forecast he had already priced.
 
 He had tested Fleet preparation discipline through package one. He had watched Calder refuse to invent readiness. He had watched Fleet kill its own intercept paint when the wrong header flashed. He had heard Calder predict Dominion archive refusal out loud and then align instead of dominate. Prediction was useful. Prediction of Fleet observation doctrine was now available too.
 
@@ -205,7 +207,7 @@ Calder would hold fire. Calder would preserve contradictory sensors rather than 
 
 Vex did not like it. Liking was irrelevant. He could use it.
 
-Hostility had been easy when Fleet was only an uninvited neighbor inventing weather. Competence recognition was harder. It required admitting that Fleet restraint could be doctrine rather than trick. Vex admitted it the only way Dominion captains admitted useful things: by allowing a move without converting it into affection.
+Hostility had been easy when Fleet was only an uninvited neighbor inventing threats. Competence recognition was harder. It required admitting that Fleet restraint could be doctrine rather than trick. Vex admitted it the only way Dominion captains admitted useful things: by allowing a move without converting it into affection.
 
 "Fleet will not pursue," Vex said on the joint channel. "Fleet will hold fire language. Fleet will keep contradictory sensors visible instead of baptizing a craft or an attack. Fleet will refuse a simple war story while the residual refuses to class. That is Calder's move. I am allowing it within agreed corridors. Dominion archive watch remains. Depth remains withheld. Interlaced responsibility remains because separation is a political comfort and a field hazard."
 
@@ -245,7 +247,7 @@ Park and Rada spoke the lock together, slow enough that both bridges could hear 
 
 "Dominion concurs," Kell said, reluctant and exact. "Archive still prefers hold. Pulse matches higher harmonic activity in prior fringe sets without craft. Refuse pursuit. Protect depth."
 
-For a moment, both hungers tried one last argument. Fleet hunger wanted the pulse to become a chaseable event because chaseable events were easier to report than weather. Dominion hunger wanted the pulse to become proof that interlaced responsibility had been a mistake because mistakes were easier to punish than shared risk. Thessaly cut both with the watch bill voice.
+For a moment, both hungers tried one last argument. Fleet hunger wanted the pulse to become a chaseable event because chaseable events were easier to report than noise. Dominion hunger wanted the pulse to become proof that interlaced responsibility had been a mistake because mistakes were easier to punish than shared risk. Thessaly cut both with the watch bill voice.
 
 "Neither hunger gets a vote," she said. "The board gets the board. Hold."
 
@@ -403,6 +405,24 @@ Partial fringe indicator updates. Orchard Compact contested geometry, still unna
 "Intelligence sharing politics," Thessaly said. "Not today. Soon enough to become someone's crisis."
 
 "Soon is already late," Ortega said from the doorway, then left them to it.
+
+Park's slate lit with a direct relay tag before he had finished reading the proposal flag over Calder's shoulder. Fleet Communications Command, validation desk. Holt.
+
+"You flagged the warning-net pilot section," Park said, stepping into the corridor to take it. "Before it left Helion."
+
+"I flagged it because the dropped-tag rate in your after-action didn't match what the pilot's own logs say it dropped," Holt said. "Either the hardware is lying to itself, or something upstream is trimming packets before they reach you. I can't tell which from here. I didn't want you finding out from a committee."
+
+"Ugly stack," Park said. "Sunset intel query landed in the same duty cycle as an Ellis archive push. Everyone wants field command to hold two crises at once and call it Tuesday."
+
+"Sounds like every duty cycle since I've known you." A pause, the kind she used to leave for exhaustion to answer honestly instead of professionally. "Eat something before the next one lands."
+
+"I will."
+
+"You won't. Route me the raw pilot logs when you can. I'd rather lose sleep confirming a hardware fault than let Doctrine invent a sabotage story out of missing packets."
+
+"Confirming a hardware fault is currently the best news anyone's offered me all week," Park said.
+
+"Low bar," Holt said. "Glad I clear it." She signed off before either of them could turn the moment into more than it was.
 
 Calder read the proposal flag twice. Expanded sharing would test whether operational trust could survive bureaucracy. Bureaucracy had a talent for turning provisional respect into either myth or indictment. He already knew the answer would not be pretty.
 

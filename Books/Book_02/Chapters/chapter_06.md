@@ -7,11 +7,11 @@
 ***HELION — FLEET COMMAND ANNEX***
 *FRINGE ADJUDICATION / FOUNDERS' REACH PRODUCT CLEAR*
 
-Admiral Elias Rowan had slept in the annex chair once in the last two days, and the chair had not forgiven him for it. The cushion remembered wrong angles. The slate stack on the side table remembered every argument he had not finished. Helion's command corridor outside the sealed door kept its ordinary pace: runners, coffee urns, staff officers who still believed ordinary pace was a kind of competence.
+Admiral Elias Rowan had slept in the annex chair once in the last two days, and the chair had not forgiven him for it. The cushion remembered wrong angles. The slate stack on the side table remembered every argument he had not finished. His wife's last message sat unanswered in his personal queue, three words long — *Are you eating* — and he had read it twice without finding thirty seconds to answer it. Helion's command corridor outside the sealed door kept its ordinary pace: runners, coffee urns, staff officers who still believed ordinary pace was a kind of competence.
 
 Rowan believed in competence. He no longer believed ordinary pace could keep up with a moving contour.
 
-He had spent eighteen months since the first contact crisis learning how to hold two civilizations in the same sentence without pretending they trusted each other. Contact Node Seven had given him provisional instruments, dual vetoes, and a lexicon that worked when people were careful. Founders' Reach had given him proof that careful could still arrive late. The sealed rooms wanted more time. The map did not.
+He had spent eighteen months since the first contact crisis learning how to hold two civilizations in the same sentence without pretending they trusted each other. Contact Node Seven had given him provisional instruments, dual vetoes, a lexicon that worked when people were careful. Founders' Reach had given him proof that careful could still arrive late. The sealed rooms wanted more time. The map did not.
 
 The Founders' Reach residual product sat open on the primary board: emptied system, processing signature, no survivors answering, no certified attack intent, contradictions preserved because Calder and Thessaly had refused to make Helion comfortable. Beside it, amber and unfinished, sat the second fringe alert from Segment 6's outer arc. Quiet label. Agricultural annex traffic. The kind of place boards ignored until silence became news.
 
@@ -80,17 +80,15 @@ Ellis attended by audio, Historical Office strip open, authorized for narrative 
 
 "Banners move votes," the liaison said.
 
-Neve put the panic markets on a secondary strip without decorating them. "Blame vectors already open. One cluster blames Dominion: *they lured us into a joint board and fed us theater until a colony died*. Second cluster blames Fleet Command: *warnings existed and we treated them as politics*. Third cluster blames scout and contact teams: *failed to stop it, failed to name it, failed to save anyone*. No cartoon traitor required. Ordinary institutions under grief invent ordinary villains."
+Neve put the blame patterns on a secondary strip without decorating them. "People need somewhere to put this. Some say Dominion baited us with a joint board and let a colony die for the lesson. Some say Command had warnings and called them politics instead of danger. Some say the scout and contact teams should have stopped it, or at least named it in time. Nobody needs a villain with a face. Grief invents its own."
 
-Hale rubbed the bridge of his nose. "If we disclose the full Founders' Reach residual strip in open gallery, we calm the people who need evidence and panic the people who need a simple enemy. If we withhold, we calm the classification culture and feed the rumor culture. Headers are failing either way."
+Hale rubbed the bridge of his nose. "Disclose the strip in open gallery, we calm the people who need evidence and panic the people who need a simple enemy. Withhold it, we feed the rumor culture instead. Headers are failing either way."
 
-"Sanitized products mislead," Ellis said. "I have already killed two draft statements that turned emptied habitats into a raid narrative because raids come with playbooks. Raids leave screaming. This left silence."
+"I have already killed two draft statements that turned emptied habitats into a raid narrative," Ellis said. "Raids come with playbooks. Raids leave screaming. This left silence."
 
-Rowan kept his hands still on the table edge. Security-first instinct wanted fewer nouns in public, tighter seals, time to build a response that did not hand Dominion a political win or hand Council a false war. The existential clock wanted the opposite: enough truth that ships moved before the next quiet label went dark.
+Rowan kept his hands still on the table edge. Every instinct he trusted said hold the nouns close, buy time, don't hand Dominion a win or Council a false war to fight. But holding on had a cost too: the next quiet label wouldn't wait for a tidy statement. He had built a career on caution that kept options open. Caution while systems emptied was just delay wearing better stationery, and he was tired of pretending otherwise.
 
-Ugly diplomacy arithmetic. What to say without collapsing order. What to withhold without teaching rumor to write doctrine instead. He had built a career on containment that preserved options. Containment that preserved options while systems emptied was only delay with better stationery.
-
-"Sealed rooms keep the contested sensor states and the processing frame," Rowan said. "Open gallery gets catastrophic loss confirmed at Founders' Reach, fringe alerts under review, observation posture elevated, no alliance language, no claim of certified Peligar intent beyond external behavior already on the joint board. We do not give Founders' Week committees a vengeance sermon. We do not give markets a clean villain. We give them work language and refuse to pretend certainty we do not have."
+"Sealed rooms keep the contested sensor states and the processing frame," he said. "Open gallery gets the truth in plain shape: catastrophic loss confirmed at Founders' Reach, fringe alerts under review, observation posture elevated, no alliance language, no claim that we understand why Peligar do what they do. We don't hand Founders' Week committees a vengeance sermon. We don't hand markets a clean villain. We give them what we can stand behind, and we say plainly what we don't know yet."
 
 "They will call that cowardice," the liaison said.
 
@@ -176,6 +174,22 @@ Morn stood with his sampling kits half-packed again, face set. "If they want me 
 
 Rell worked the logistics strip without checking leave schedules. Hadd watched the annex plot with his jaw set. The crew had learned, over one finished colony, what quiet labels could become. *Kestrel* herself sounded ordinary: old systems humming, a maintenance alert someone reset and ignored, the small imperfect noises of a scout that had outlived prettier ships by staying useful.
 
+Park opened a private line to Helion Communications between packet checks, low enough that it didn't carry past his own station. "Holt. Still there?"
+
+"Where else would I be." Dana Holt's voice came back thin with lag and something else underneath it. "I've watched three quiet labels go amber today. I keep waiting for one of them to go green again and none of them do."
+
+"This one might."
+
+"You don't believe that any more than I do." A pause, the kind she usually filled with a joke and didn't this time. "Eat something, Jun."
+
+"Working on it."
+
+"That's not an answer. I'll know if you lie to me, I can hear it in the relay."
+
+"I know you can." He almost smiled. "I'm here. Stay on."
+
+"Not going anywhere," Holt said, and went quiet again, the line open between them like a hand left on a shoulder.
+
 Calder mediated what he could. Rowan's order gave him posture. Lag gave him contradictions. Dominion watch product gave him a contour that still moved. Observation ethics still wanted more time. The annex did not promise to wait. His mediator role had expanded since Contact Node Seven from lexicon fights into map fights, and the incomplete maps were worse than incomplete nouns because maps made people believe they already understood the shape of the problem.
 
 "Local judgment," he said. "We hold observation. We do not illuminate. We do not write attack headers. We do not elevate Orchard Compact into a public name. Park, keep probable and contradictory visible. Thessaly, cut any soft synonym that turns watch into interdiction."
@@ -186,7 +200,17 @@ A Segment political observer on the patched net tried to be helpful. "If we phra
 
 "Threatened is a conclusion," Thessaly said. "We have probable pressure and contradictory returns. Say that. Funding that requires a lie arrives with interest."
 
-The observer went quiet. Calder did not thank Thessaly. Thanks were politics. Procedure was better.
+The observer went quiet.
+
+Thessaly caught Calder's eye across the plot for a moment that had nothing to do with procedure. "You didn't sleep either."
+
+"Neither did you."
+
+"No." She let that sit for exactly one breath, no longer. "You said it yourself at the brief. This is going to get lonelier. I meant to tell you — it doesn't have to get lonelier for both of us at once. Split it. I'll carry a shift of it."
+
+"You're already carrying the ship."
+
+"I can carry two things," Thessaly said. "That's the job I signed up for, whether I always believe I'm any good at it or not." She turned back to the plot before he could ask what that last part meant. "Eat something before the next alert. That's an order, not a courtesy."
 
 A Helion staff note arrived asking whether Orchard Compact should be pre-labeled *under attack* for Council briefings.
 
@@ -223,7 +247,7 @@ Vex did not look at Neve. He looked at Calder's feed strip, then at Rowan. "My g
 
 He paused long enough for the inherited sentences to finish their work, then returned to present tense. "We told you the contour moved. We will not say *we told you* as policy. Gloating helps no watch. Preparation does."
 
-Orlen spoke method, not politics. "We can authorize additional contour overlays under sunset language. Depth maps remain withheld. Missing-return correlation windows can widen. Expanding-pressure flags can carry tighter provenance. Dual veto remains. Spoken confirmation remains. No inventory reconstruction. No strategic depth claims treated as Fleet doctrine."
+Orlen spoke method, not politics. "We can widen the overlays under sunset language and give you tighter provenance on the pressure flags. Depth maps stay withheld either way. Dual veto stays. Spoken confirmation stays. Nothing here becomes Fleet doctrine on its own."
 
 "Sunset," Rowan said.
 
@@ -270,31 +294,29 @@ Perrin opened with First Doctrine as if reading a will. "Observation before judg
 
 The logistics captain did not wait for soft transition. "Founders' Reach did not wait for our method. Orchard Compact may not wait. If observation means we watch populations enter a processing contour while we certify intent that may never arrive in human grammar, then observation has become abandonment with better manners. My boards are holding freight and leave and school exchanges while Helion argues elegance."
 
-A younger Doctrine analyst tried for compromise and got caught between them. "Can we keep observation as required method and still authorize accelerated posture under multi-point fringe pressure."
+A younger Doctrine analyst tried for compromise. "Can we keep observation as required method and still authorize accelerated posture under multi-point fringe pressure?"
 
-"That is the only amendment worth drafting," Hale said. "The danger is converting amendment into a blank check for illumination and attack headers. The other danger is refusing amendment until another quiet label goes dark and the public decides doctrine is a suicide pact."
+"That is the only amendment worth drafting," Hale said. "Convert it into a blank check for illumination and attack headers, and we've abandoned the method. Refuse it until another quiet label goes dark, and the public decides doctrine is a suicide pact."
 
-A hawk from Council staff leaned forward. "Captain Venn's observation ethics are being used as a political football. Field caution is not civilizational strategy. We need mobilization language. Industrial tempo. Buffer posture. Stop pretending First Doctrine survives unchanged when systems are being emptied."
+A hawk from Council staff leaned forward. "Captain Venn's observation ethics are being used as a political football. Field caution is not civilizational strategy. Stop pretending First Doctrine survives unchanged when systems are being emptied."
 
-Rowan kept his voice dry. "Captain Venn's ethics kept us from declaring a false war on incomplete boards. That has value. It does not restore Founders' Reach. Do not turn a competent captain into either saint or scapegoat. The amendment question is institutional: how do we act before certainty without lying about what we know."
+Rowan kept his voice dry. "Venn's ethics kept us from declaring a false war on incomplete boards. That has value. It does not restore Founders' Reach. Do not turn a competent captain into either saint or scapegoat."
 
-Perrin flushed. "Acting before certainty is how empires invent enemies."
+"Acting before certainty is how empires invent enemies," Perrin said.
 
-"Failing to act under consumption tempo is how empires invent graves," the logistics captain said.
+"Failing to act is how empires invent graves," the logistics captain said.
 
-Someone in the hawk bloc muttered that Calder wanted unlimited time. Someone in the Academy bloc muttered that Rowan wanted wartime powers without saying wartime. Rowan let both mutters die without feeding them. Feeding them made them records.
-
-Ellis cut in, careful. "Historical Office asks that any amendment language refuse simple hatred frames. External behavior supports processing pressure. Certified motive remains unresolved. If you amend First Doctrine into a war sermon, you will trap Fleet into playbooks built for enemies who negotiate by fear. This pressure does not. I am already seeing Founders' Week rhetoric weaponized for vengeance in civilian channels. Official amendment text should not hand them a cleaner blade."
+Ellis cut in before the two sentences could keep trading blows. "Historical Office asks that any amendment language refuse simple hatred frames. External behavior supports processing pressure. Certified motive remains unresolved. Amend First Doctrine into a war sermon, and you trap Fleet into playbooks built for enemies who negotiate by fear. This pressure does not. Founders' Week rhetoric is already being weaponized for vengeance in civilian channels. Official text should not hand them a cleaner blade."
 
 "Then what do we mobilize against," the hawk asked. "A weather pattern."
 
 "A continuity frontier expressed as industrial dismantling," Neve said from the FIB seat. "Ugly phrase. Honest enough for sealed work. Public work can say *expanding destructive pressure* if it must. Do not require hatred to authorize ships."
 
-Hale projected draft language onto the wall display: observation remains method; local judgment under lag remains valid; multi-point fringe pressure authorizes elevated posture without converting probable into confirmed; attack headers still require certified standards; illumination still requires survival need or authorized sampling windows. The draft looked like a truce written by people who did not trust each other.
+Hale put draft language on the wall display: observation stays the method; local judgment under lag stays valid; fringe pressure on more than one point can authorize elevated posture without calling probable confirmed. It read like a truce between people who still did not trust each other.
 
-Perrin circled three clauses and called them doors to abuse. The logistics captain circled two others and called them delays wearing uniforms. The hawk wanted a fourth clause authorizing industrial mobilization language that Ellis immediately flagged as narrative capture.
+Perrin found three clauses he called doors to abuse. The logistics captain found two he called delay wearing a uniform. The hawk tried to slip mobilization language in through a fourth; Ellis killed it before he finished proposing it.
 
-Rowan let the fight run because the fight was the point. No clean amendment yet. Academy bleeding for old language. Hawks demanding tempo. Realists trying to keep instruments from becoming theater. Calder's name bouncing around the room as proof of caution or proof of delay, depending on who needed a handle.
+Rowan let the fight run because the fight was the point. No clean amendment yet. Calder's name kept bouncing around the room as proof of caution or proof of delay, depending on who needed a handle.
 
 "Session one records the split," Rowan said when the noise peaked without resolving. "No amendment vote today. Draft language authorized for wartime observation under contested multi-point fringe pressure, dual-track with sealed processing frame and public catastrophic-loss language. Observation remains required method. Local field judgment remains authorized under lag. Illumination and attack headers still require standards we have not lowered in this room. Next session after Orchard Compact confirmation improves or worsens."
 
@@ -411,7 +433,9 @@ Outside the annex, Helion kept moving. Inside, Rowan stood over a map that no lo
 
 The staffer moved.
 
-Rowan remained at the board a moment longer, security colliding with the existential clock, and chose the only posture left that was not theater.
+Rowan finally opened his wife's message and typed three words back — *Not really. Soon* — and sent it before he could talk himself out of the honesty. It was the only sentence all day that had cost him nothing to write.
+
+Then he put the slate down and chose the only posture left that was not theater.
 
 Work continuing. Trust absent. Necessity loud enough to drown both.
 

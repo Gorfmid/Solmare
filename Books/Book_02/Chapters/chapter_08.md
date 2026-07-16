@@ -11,7 +11,7 @@ Admiral Elias Rowan brought the casualty product into the Council chamber the wa
 
 Founders' Reach sat finished. Orchard Compact sat contested. The third fringe indicator sat degraded. Ellis's sealed seed frame sat in custody and not on the open gallery strip. Dual mourning notes from Contact Node Seven sat under sunset language that still had hours left on the clock. Coffee urns stood along the sideboard as work presence. Nobody used them as a timer.
 
-Council filled the long benches. Mobilization hawks sat where they could see the empty berth schedules from New Meridian. Isolation voices sat where they could see Dominion watch overlays and call them traps. Observation purists sat where they could still pretend Founders' Reach had been a tragic exception rather than a finished cell on someone else's graph. Doctrine Bureau held a side table. FIB held another. Historical Office held a chair Ellis had already claimed before Rowan arrived.
+Council filled the long benches. The mobilization hawks sat where they could see the empty berth schedules from New Meridian. The isolationists sat where they could watch the Dominion overlays and call them traps. The Academy loyalists sat where they could still tell themselves Founders' Reach had been a tragic exception, not one finished cell on someone else's graph. Doctrine Bureau held a side table. FIB held another. Historical Office held a chair Ellis had already claimed before Rowan arrived.
 
 Rowan had slept in annex chairs for two nights and still looked more awake than half the chamber. Security wanted hulls that could hold a contour. Diplomacy wanted nouns that could survive tomorrow's evidence. Grief wanted a simpler enemy. He had brought all three hungers into the same room on purpose. Separating them was how institutions invented comfortable lies.
 
@@ -19,7 +19,7 @@ Rowan had slept in annex chairs for two nights and still looked more awake than 
 
 He did not soften it. Softening taught rooms to expect miracles.
 
-"Survivor search at Founders' Reach is closed. No certified survivors. Recoverable names under Civilian Affairs custody. Memorial logistics active. Public language remains catastrophic civilian loss under contested operational description. No sole invasion lock. Mega-casualty estimates remain unfinished because unfinished is what honest arithmetic looks like today. Orchard Compact remains contested and unnamed in rhetoric channels. Third fringe indicator remains degraded. Observation-alone posture is politically dead. Trust with Dominion is not born. Necessity is about to write terms whether this chamber authorizes them or not."
+"The survivor search at Founders' Reach is closed. No certified survivors. Recoverable names are with Civilian Affairs. Memorial logistics are active. We are calling it catastrophic civilian loss, contested how it happened, no invasion lock. We still don't have a number, because an honest number doesn't exist yet. Orchard Compact stays contested and unnamed. The third fringe indicator stays degraded. Watching alone is no longer a posture this chamber can defend, and trust with Dominion has not been born. Necessity is about to write the terms, whether this chamber authorizes them or not."
 
 A mobilization hawk stood before the echo finished. Councilor Breck of the industrial bloc had the voice of a man who had already drafted banners in his head. "Then authorize war. Not terms. War against a simpler enemy. Dominion fed us maps and theater while a Fleet colony finished. That is enough for invasion language if we want it."
 
@@ -173,7 +173,7 @@ Orlen logged the change. Park mirrored it. The recorder stayed live under dual c
 
 Clause by clause, the ugly document grew.
 
-Joint patrol eligibility came first because hulls made politics honest. Only in agreed fringe watch geometry. No unilateral entry into withheld depth arcs. Escort protocol required when Fleet hulls crossed into Dominion traffic under review. Reverse escort when Dominion hulls crossed into Fleet Segment support arcs. Kell killed a Fleet phrase that said *coordinated command authority* and replaced it with *coordinated board presence under separate command*. Thessaly accepted the kill without ego. Shared command was how old wars restarted wearing new necessity.
+Joint patrol eligibility came first because hulls made politics honest. Only in agreed fringe watch geometry. No unilateral entry into withheld depth arcs. Escort protocol when Fleet crossed into Dominion traffic; reverse escort the other way. Kell killed a Fleet phrase that said *coordinated command authority* and replaced it with *coordinated board presence under separate command*. Thessaly accepted the kill without ego. Shared command was how old wars restarted wearing new necessity.
 
 "People next," Thessaly said. "If we write routes without watches, someone will invent heroics."
 
@@ -183,7 +183,7 @@ Shared warning prototypes came next. Alert grades mapped across lexicon lock. Co
 
 "Peligar remains Dominion exonym for external behavior," she said. "Not a self-name. Not a motive certificate. Not a hatred grammar you can mobilize with. Keep it off public prototype language unless both sides authorize the exact sentence."
 
-ROE collision rules took the longest because every phrase was a trust test. Non-pursuit lines. Illumination only under local survival need or dual-authorized sampling. No attack headers without certified standards both sides could survive tomorrow. Information sanitization mandatory before any product left sealed rooms. Kell killed three soft synonyms that turned observation into interdiction. Thessaly killed two Fleet soft synonyms that turned escort into command.
+ROE collision rules took the longest because every phrase was a trust test: non-pursuit lines, illumination only under local survival need, no attack headers without standards both sides could survive tomorrow. Kell killed three soft synonyms that turned observation into interdiction. Thessaly killed two that turned escort into command.
 
 Calder felt the room's posture change every time a clause landed. People did not argue like friends. They argued like professionals who knew a mistranslated phrase could restart bilateral war while the external contour kept moving.
 
@@ -198,6 +198,16 @@ Park and Rada spent twenty minutes on one ROE sentence because *may illuminate u
 "Dual board shows both clocks," she said. "If either side illuminates, both veto windows open for review within one lag cycle. No quiet illumination. No clever sampling dressed as accident. People on both bridges get the same ugly strip."
 
 Rada almost smiled and then did not. "That I can translate."
+
+Park pinged Holt on a side line before the next clause could swallow the room. "I need a plain-language check. If I write *illumination review under dual veto within one lag cycle*, does a tired watch officer at three in the morning understand what to do?"
+
+"No," Holt said, immediately. "It sounds like a customs form. Say what happens: if either side lights something up, both sides get to look at it before the next cycle closes. Then put your version underneath for the lawyers."
+
+"You're better at this than I am."
+
+"I read tired people's messages for a living, Jun. You read sensors." A pause, warmer. "Send me the whole lexicon when you're done. I'll tell you which parts a Fleet crew will actually use and which parts they'll ignore at 0300."
+
+"Deal."
 
 Ivers cleared his throat. "Freight and crew constraints. Do not write a joint patrol that Segment logistics cannot crew or Dominion reserve strain cannot escort. Paper that cannot sail is myth. Under current leave cancellations I can crew one joint watch package if the theater stays narrow and the sunset stays real. I cannot crew a floating alliance fantasy."
 
@@ -219,7 +229,7 @@ Senka authorized Civil Government language without decorating it. "Buffer strate
 
 Warning-net pilot language came last because everyone was tired enough to get sloppy. Park and Rada mapped three alert grades across the lexicon lock and forced spoken confirmation on each. Alert-grade one: contested pressure, observation only. Alert-grade two: elevated watch, dual board required. Alert-grade three: local survival window, illumination review under dual veto within one lag cycle. A single wrong header under live ops could restart bilateral war while the external pressure ignored both civilizations. Rada said that twice. Park did not argue the second time.
 
-By the time the provisional instrument existed, the annex smelled like recycled air and too many people who had refused to leave. The document was narrow, sunsetted, veto-rich. No in-world ceremonial name. No Helion cloth. No trust certificate. Proto instruments in miniature: rescue-adjacent language provisional, warning-net pilots under dual consent, joint observation drafts that refused to become shared command.
+By the time the draft existed, the annex smelled like recycled air and too many people who had refused to leave. It was narrow, sunsetted, veto-rich. No in-world ceremonial name. No Helion cloth. No trust certificate. Just the small working pieces: rescue-adjacent language provisional, warning-net pilots under dual consent, joint observation drafts that refused to become shared command.
 
 Calder read the closing line aloud because someone had to.
 
@@ -341,7 +351,7 @@ Vex stood. Calder stood. Neither offered a handshake theater. Neither needed one
 
 "Good," Vex said. "Knowing is cheaper than surprise."
 
-They left the small table as professional mirrors, not friends. The station kept pretending it was only bolts. The instrument on both boards disagreed.
+They left the small table as professional mirrors, not friends. The station kept pretending it was only bolts. The draft on both boards disagreed.
 
 ❦
 
@@ -374,7 +384,7 @@ He chose ugly diplomacy because Fleet populations sat inside the same graph as D
 
 The packet went out toward hulls that would have to learn each other's competence the hard way. Segment logistics acknowledged crew confirm. Contact Node Seven acknowledged dual board live. *Kestrel Veil* acknowledged receipt without ceremony. *Iron Harrow* acknowledged under Dominion custody language that still sounded like a warning even when it was agreement. No one mistook the acknowledgments for trust. Acknowledgments were only proof that paper had reached hands that could sail.
 
-Outside the annex, Helion kept moving. Memorial petitions still stacked. Gallery pools still hunted cleaner nouns. Inside, working joint instruments sat on paper while the fringe kept burning. Paper trust was about to meet route discipline, sensor philosophy, and incompatible training.
+Outside the annex, Helion kept moving. Memorial petitions still stacked. Gallery pools still hunted cleaner nouns. Inside, the joint terms sat on paper while the fringe kept burning. Paper trust was about to meet route discipline, sensor philosophy, and incompatible training.
 
 Crossing together would begin.
 

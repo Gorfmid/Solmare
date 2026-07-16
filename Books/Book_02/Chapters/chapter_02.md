@@ -233,6 +233,26 @@ Park had not wanted to be the one to open it. He opened it anyway. Shame did not
 
 The waveform had stayed in his head since the fringe intercept: overlapping registers, intensity that looked like group pain if you forced a human analogy, structure that refused the analogy once you stopped needing the analogy to feel better. Ortega's sensor package sat on one board. Petrov's Dominion analysis notes, sanitized by SSD for shared review, sat on the other. Vorin handled the Dominion side of the render. Park handled Fleet audio. Thessaly stood where she could see both faces. Calder sat at the end of the table with his arms folded, refusing to lean toward either conclusion before it earned itself.
 
+A third relay line ran open beside Rowan's: Fleet Communications Command, validation desk, a voice Park would have known blind after ten years.
+
+"Holt, you have the Ortega package?" Park asked.
+
+"I have it," Dana Holt said. "I've had it since last night. I was hoping you'd call before the Dominion side told you what it meant."
+
+"I'm calling now."
+
+"Barely." A pause, drier than the line needed. "You look terrible. I can hear it."
+
+"Long week."
+
+"Eat something after this," Holt said, and then her voice went flat and professional in the way Park recognized from watching her work a board for a decade. "I ran the infrared and polarization overlays against three independent Fleet archive events. They're not noise. They repeat. I can't tell you what they mean. I can tell you Fleet instruments see the same structure the *Kestrel* saw, on our own equipment, without anyone across the table telling us what to look for."
+
+Park felt something loosen that he hadn't known was tight. Not relief, exactly. Company.
+
+"Good," he said. "Stay on."
+
+"I'm not going anywhere," Holt said.
+
 "Play the audible fraction," Orlen said. "Low."
 
 Park opened it low.
@@ -261,6 +281,10 @@ Park stared at the waveform.
 
 Multi-channel. Separable bands. No destination-targeting. The instruments had captured a slice. Infrared and polarization markers sat in Ortega's supplemental as unresolved overlays Park had noted and not understood. Harmonic structure ran under the audible mess like a second conversation happening in a room with bad walls.
 
+"Park." Holt's voice, low, over the relay. "The overlays I flagged. Look at the timing against the audible spikes."
+
+He looked. The layers did not sit under the scream by accident. They moved with it, ahead of it in places, like a second voice keeping its own rhythm.
+
 He heard his own earlier sentence in memory. *If I had to give it a bin.*
 
 He had given it a bin. The bin had been a kindness to his own instruments.
@@ -270,6 +294,8 @@ He had given it a bin. The bin had been a kindness to his own instruments.
 The room held still.
 
 The recognition did not arrive as triumph. It arrived as a correction that made the archive heavier. If the scream was speech, then every prior intercept Fleet had treated as noise or panic had been a conversation happening past human ears. Park felt the scale of that without needing anyone to lecture him about it.
+
+"Confirmed independently on Fleet instruments," Holt said. "I'm not telling you what Orlen is about to tell you. I'm telling you our own boards already agreed with her before she said a word."
 
 "Yes," Orlen said. "They are talking. You are hearing a fraction. Infrared, polarization, harmonic layers travel with it. Your ears take the part that sounds like screaming because that is what human hearing can hold."
 
@@ -318,6 +344,20 @@ Calder stood. "Keep the recording under dual custody. No wider distribution with
 "Maps," Thessaly said.
 
 "Eventually," Calder said. "Not as a gift. As a next argument."
+
+"Holt, still with me?" Park asked.
+
+"Still here. I'll write up the Fleet-side confirmation tonight and route it to you before the morning session, not after, so you're not walking in blind again."
+
+"You didn't have to stay on the whole time."
+
+"I know," Holt said. "Eat something, Jun. That's not a request, it's a validation note." A beat, quieter. "Glad it wasn't distress. For what it's worth."
+
+"It's worse than distress."
+
+"I heard. Sleep anyway."
+
+The relay closed on her end first, the way it usually did.
 
 Park closed the waveform display. The thumbnail vanished. The corrected header remained.
 
@@ -410,7 +450,7 @@ Park walked the substitution table one more time with Vorin before they locked c
 
 "Visible is the only protection we have," Park said.
 
-"My instructor said the same about borders," Orlen said from the doorway. "What you hide becomes what kills you."
+Orlen had appeared in the doorway, notebook still open. "Then we keep it visible," she said. "Whatever that costs us with SSD."
 
 The room exhaled into work again. Suspicion did not leave. It simply put its hands back on the tools.
 

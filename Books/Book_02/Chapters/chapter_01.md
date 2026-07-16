@@ -13,7 +13,7 @@ Vex was reading damage assessments from V14 when Klimov's board lit in the orang
 
 The return on the passive board would not resolve.
 
-It had arrived on the eastern bearing with no identification structure, no navigation packet, no approach vector consistent with a ship making normal transit. The mass return was wrong — not in the sense of instrument error but in the shape of it, the way it occupied the bearing without committing to a size. Vex had watched passive boards for twenty years and knew what a return was supposed to do when you held lock on it: confirm itself. Settle into a class profile, hold a consistent curve, declare its geometry so the watching ship could categorize it and proceed accordingly.
+It had arrived on the eastern bearing with no identification structure, no navigation packet, no approach vector consistent with a ship making normal transit. The mass return was wrong. Not an instrument error — the shape itself was wrong, refusing to settle into a size. Vex had watched passive boards for twenty years. A return was supposed to confirm itself: settle into a class, hold a curve, declare its geometry so the watching ship could categorize it and move on.
 
 This one did not.
 
@@ -79,7 +79,7 @@ It was going somewhere.
 
 Iron Harrow was in the path.
 
-He held that understanding for a moment — held it the way he held anything that required its proper weight before he acted on it. The Peligar contact had not been looking for a fight. Had not, as far as his sensors could determine, looked at Iron Harrow at all. The hull contact had not been fire. It had been proximity.
+He let that sit for a moment before he acted on it. The contact had not been looking for a fight. Had not, as far as his sensors could determine, looked at Iron Harrow at all. The hull contact had not been fire. It had been proximity.
 
 He had fought Dominion ships and foreign registry vessels and once, early in his career, a piracy action off the fringe of V9 that had been brief and violent and thoroughly catalogued in his service record. He knew what it felt like when something was trying to destroy you. He knew the sensor signature of intent.
 
@@ -135,7 +135,7 @@ Twenty-three contacts across eleven years across three sectors.
 
 Eleven years of reports routed to V21 command and Strategic Security, and somewhere in the early entries someone had attributed the anomalous returns to instrument error or unknown vessel types and moved on, and somewhere around the seventh or eighth entry someone had started a pattern notation that grew slowly into a recognizable shape.
 
-He had read the full archive once, when he took command of Iron Harrow and asked to be briefed on outstanding V21 operational matters. He had read it and asked Petrov what the strategic guidance said and Petrov had told him: observation and documentation, avoid provocation, technical data collection, do not share outside authorized channels.
+He had read the full archive once, when he took command of Iron Harrow and asked to be briefed on the sector's unresolved contacts. Then he had asked Petrov what the strategic guidance said. Petrov told him: observation and documentation, avoid provocation, technical data collection, do not share outside authorized channels.
 
 He had accepted that guidance then.
 
@@ -158,7 +158,7 @@ Petrov had both hands flat on the table.
 
 That was the tell that preceded arithmetic that would not produce a clean outcome. Vex had been reading it for four years and had learned to adjust his expectations: when Petrov's hands went flat, the numbers were going to require honest engagement with what they meant.
 
-Lieutenant Sorova from Engineering gave the structural summary first — precise, without editorial. Sections Four and Seven: exterior deformation, hull plating, no penetration into the structural layer. Repair category three. Four days at transit speed with materials on hand. Section Seven's structural margin stood at fourteen percent below nominal, within operational parameters, with the caveat that further contact events before repair would reduce that margin further.
+Lieutenant Sorova from Engineering gave the structural summary first — precise, without editorial. Sections Four and Seven: exterior deformation, hull plating, no penetration into the structural layer. Repair category three. Four days at transit speed with materials on hand. Section Seven's structural margin stood fourteen percent below nominal, within operational parameters. Another contact before repair would cut it further.
 
 "What margin would require us to break observation posture?" Vex asked.
 
@@ -238,7 +238,7 @@ Petrov looked at his hands. "Yes."
 
 Drevin looked at Vex. Vex did not look back.
 
-It was not a decision that sat with V21 command. It was not a decision that sat with Iron Harrow. It was a political question routed through Strategic Security for three years, and the fact that it had been routed there for three years without producing an answer was itself information about how difficult the question was.
+It was not a decision that sat with V21 command, or with Iron Harrow. It was a political question, routed through Strategic Security for three years without an answer. That alone told him how hard the question was.
 
 "Secure the intercept," Vex said. "Full chain. V21 command and Strategic Security. No other routing."
 
@@ -516,7 +516,7 @@ He understood the political question. He did not understand the answer the quest
 
 He cleared the Fleet routing address from his recent lookup history.
 
-He was not the rank to force the political question. He was not the temperament to act outside authorization when authorization was theoretically forthcoming. He had documentation, he had routing, he had done the work the strategic guidance described.
+He was not the rank to force the political question, and it was not in him to act outside his authorization while authorization was still theoretically coming. He had documentation. He had routing. He had done the work the guidance described.
 
 He pulled the paper assessment sheet across the desk and wrote one additional line at the bottom in his own hand: *Contact behavior consistent with transit priority. Iron Harrow was not the objective of this engagement — it was an obstacle. V21 eastern reach falls within documented contact range. Recommend strategic review of current dissemination guidance in light of increasing contact density and today's close-range data.*
 
@@ -528,9 +528,9 @@ He picked up the audio intercept duration log.
 
 Thirty-one seconds of close-range recording, the longest and highest-fidelity intercept in the archive's twenty-three entries. Petrov had the analysis running. The initial results — multi-channel, separable spectral bands, no apparent destination-targeting — were consistent with every prior intercept in the archive, only clearer.
 
-It was communication. He did not know that the way he knew an operational fact. He knew it the way you knew something you could not yet prove, through the accumulated weight of things that did not add up any other way.
+It was communication. He couldn't prove it yet. But nothing else fit, and he had learned to trust that before the evidence caught up.
 
-Somewhere in V21 eastern reach, or past its edge into the fringe, or along the track that bearing had been heading, there were more of them. Moving. Continuing. Crossing borders that the border station charts described and the Peligar archive suggested meant nothing to the thing that was crossing them.
+Somewhere in V21 eastern reach, or past its edge into the fringe, there were more of them. Moving. Continuing. Crossing borders that meant nothing to whatever was crossing them.
 
 He turned off the desk lamp.
 
@@ -564,6 +564,20 @@ Calder came back to the command deck an hour into the second watch. He looked at
 Calder nodded. "Keep the fringe bearing flagged for priority passive on the next window."
 
 "Already listed."
+
+Thessaly came off the XO station and stood with him for a moment, neither of them saying anything, both watching the same clean bearing.
+
+"You logged it the way I would have logged it," Calder said. "Provisional. No invented category. I noticed."
+
+"Is that a compliment or a review?" she asked.
+
+"Both. Mostly the first one." He looked at her, not the plot. "If I'm not on the deck when the next one shows up, I want you calling it the same way. Not waiting for me to confirm your instinct first."
+
+Thessaly considered that longer than the sentence deserved. "You'd trust that."
+
+"I already do," Calder said. "I'm telling you so you stop checking."
+
+She didn't have an answer ready for that, which was itself an answer. She went back to the XO station a little straighter than she'd left it.
 
 Park was still at the communications station, which was not his watch but Calder did not send him off. He had the local archive open — the audio intercept waveform on the technical display, not playing, just visible. He had been looking at it on and off since the watch ended and he had not reached any conclusion that improved on provisional distress.
 

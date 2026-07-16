@@ -101,7 +101,7 @@ They ran one more live product before calling the drill complete: a joint status
 
 "Almost is why we stay in the room," Vorin said.
 
-Thessaly checked faces the way she checked crew lists. Calder was holding satisfaction at arm's length. Vex was holding vindication the same way. Senka looked like a woman calculating how many political knives the morning's success would draw. Rowan, on lag, had gone quiet in the particular way that meant Helion was already drafting objections to usefulness.
+Thessaly checked faces the way she checked crew lists. Calder was holding satisfaction at arm's length. Vex was holding vindication just as carefully. Senka looked like a woman calculating how many political knives the morning's success would draw. Rowan, on lag, had gone quiet in the particular way that meant Helion was already drafting objections to usefulness.
 
 "One more," Thessaly said. "Unresolved-mass header. Short. Live if we have one, drill if we do not."
 
@@ -319,7 +319,19 @@ Denial became expensive in the space between one breath and the next.
 
 Park kept the shared strip updating as New Meridian's contact attempts failed one after another: relay query, no answer; administrative ping, no answer; emergency override attempt, no answer. Each failure traveled under the missing-return header with spoken confirmation. The channel that had felt like success an hour earlier now felt like a clean pipe carrying bad news at useful speed.
 
-"I hate that this works," Park said.
+Holt's line was still open, quieter than the room around it. She was the one routing New Meridian's attempts on the Fleet side, watching the same silence Park was watching from the other end of the chain.
+
+"Jun." Just his name, low, not for the record. "Nothing. I've tried every path New Meridian has. I don't have anything left to try."
+
+"I know," he said.
+
+"There are people on that rock."
+
+"I know," he said again, because it was the only honest answer and because he needed her to stay on the line more than he needed a better one.
+
+She didn't say anything else for a moment. He could hear her working anyway, boards clicking somewhere behind her voice, refusing to let the silence be the last thing either of them did about it.
+
+"I hate that this works," Park said, to the room now, not to her.
 
 "Hate it later," Orlen said. "Keep it honest now."
 
@@ -340,7 +352,7 @@ Lieutenant Sera Kade had wanted a quiet divert.
 
 The passive board disagreed.
 
-Mass returns on the approach would not settle. Orbital fixtures that should have answered with navigation beacons answered with thinning geometry. The atmospheric envelope around the primary landmass showed gradients that weather did not write. Something was taking the system apart along useful lines: volatiles, metals, orbital stock, energy gradients. Not in a single dramatic strike. Over tempo. Methodical in the way industry was methodical.
+Mass returns on the approach would not settle. Orbital fixtures that should have answered with navigation beacons answered with thinning geometry. The atmospheric envelope around the primary landmass showed gradients that weather did not write. Something was taking the system apart along useful lines: volatiles, metals, orbital stock, energy gradients. Not in a single dramatic strike. Over tempo. Continuous. Methodical.
 
 "If this is a battle," her sensor officer said, "it is the worst-managed battle I have ever watched."
 
@@ -405,13 +417,13 @@ The work of witnessing continued.
 ***CONTACT NODE SEVEN — PROTOCOL ROOM / HELION RELAY***
 *INSTITUTIONAL RECEIPT*
 
-The proof arrived in layers, the way institutions preferred catastrophe to arrive when they could not stop it.
+The proof arrived in layers. That was how institutions preferred catastrophe to arrive when they could not stop it.
 
 First the joint board. Then New Meridian's failed contact attempts. Then *Harrow Line*'s observation package under the headers Session Three had made usable. Then the Segment status board in the Fleet operations annex, where Founders' Reach changed from quiet label to missing return while a clerk who had complained about paperwork batches that morning stood very still and stopped complaining.
 
 Calder stayed in the protocol room because leaving would have been theater. Thessaly kept procedure standing when categories fell over. Park kept the shared strip honest while people around him reached for nouns that would make Council feel less helpless. Vex stood with his hands behind his back and took the confirmation the way a professional takes a forecast that has come true on schedule and still feels like failure.
 
-Rowan's lag channel filled with other voices. Council panic markets opened in the bureaucratic sense: competing briefings, classification fights, demands for public language and demands for silence, First Doctrine officers insisting on confirmation standards that the colony no longer existed to satisfy.
+Rowan's lag channel filled with other voices. Council panic set in, in the bureaucratic sense: competing briefings, classification fights, demands for public language and demands for silence, First Doctrine officers insisting on confirmation standards that the colony no longer existed to satisfy.
 
 "Is the colony gone," a Council staffer asked, wanting a number, a map color, a sentence that could be read aloud.
 
@@ -562,7 +574,7 @@ Thessaly shut nothing down that still needed to run. The board stayed open. The 
 
 Inside, the first exchanges had become real.
 
-Act I had its ending condition.
+The venue had its answer.
 
 Trust had not begun.
 
