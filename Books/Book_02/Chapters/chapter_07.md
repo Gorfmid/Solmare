@@ -266,9 +266,9 @@ Calder's lag note arrived on Ellis's slate while she reviewed the public mournin
 
 *Field: Orchard Compact still contested. Third indicator still degraded. Crew holding. Do not send us martyr language. Send us whether Helion can mourn without inventing a war. — C*
 
-Ellis replied in the same register.
+Ellis replied in the same register, then broke it for one line at the end, because he was the only officer left who never made her explain herself twice.
 
-*Mourning without sole invasion lock is the current fight. Seed frame in sealed custody. Public text contested. Hold your board. — E*
+*Mourning without sole invasion lock is the current fight. Seed frame in sealed custody. Public text contested. Hold your board. You're one of maybe three people in this building who hasn't asked me to make it simpler. Don't start. — E*
 
 On the far side of the hall, two memorial techs argued about coffin inventory. One wanted full counts for ceremony optics. The other wanted honesty about empty ceremonies. Ellis settled it the only way that survived next week.
 
@@ -356,7 +356,7 @@ Ellis stood with Denara, Neve, a Council demography staffer, and a mobilization 
 
 "Proposal," the mobilization analyst said. "Publish a mega-casualty estimate for industrial mobilization politics. Civilizational shock language. Something large enough that freight and yards move without another hearing."
 
-Ellis did not let the number land as canon. "No. Founders' Reach is a named colony on Segment 6. Prefer colony and system scale grounded in census custody and residual survey. Fringe losses in view remain contested at Orchard Compact and degraded at the third indicator. Mega-figures remain `[Author decision pending — casualty figure calibration]`. I will not lock a speculative range into public mourning text or Command seal."
+Ellis did not let the number land as canon. "No. Founders' Reach is a named colony on Segment 6. Prefer colony and system scale grounded in census custody and residual survey. Fringe losses in view remain contested at Orchard Compact and degraded at the third indicator. Any civilization-scale figure stays unauthorized and uncalibrated until we have evidence to defend it. I will not lock a speculative range into public mourning text or Command seal."
 
 The demography staffer frowned. "If we suppress large estimates, cover-up narratives open."
 
@@ -364,7 +364,7 @@ The demography staffer frowned. "If we suppress large estimates, cover-up narrat
 
 "Committees are already floating older draft ranges in the hundreds of billions," the analyst said. "If Command stays silent, rumor certifies them."
 
-Denara set a colony-scale strip beside the analyst's speculative range without drama. "What we can defend today: Founders' Reach as a finished named colony. Household clusters under recovery where mirrors exist. Container school enrollment complete in custody. Agricultural trial teams nearly complete. Relay officer card complete. Adjacent quiet labels under review, not elevated. New Meridian's twelve thousand are living neighbors managing memorial logistics, not a substitute body count for a system that emptied."
+Denara set a colony-scale strip beside the analyst's speculative range without drama. "This is what we can defend today. Founders' Reach was a named colony, and it's finished. We're recovering household lists where the mirrors held. The school enrollment is complete. The relay officer's card is complete. Nearby quiet labels stay under review, not elevated into a second tragedy before we know what they are. New Meridian's twelve thousand are living neighbors doing memorial work. They are not a stand-in body count for a system that went silent."
 
 "That will not scare yards into overtime," the analyst said.
 
@@ -382,7 +382,7 @@ The analyst tried one last range, quieter. "Even as a working band. Not sealed. 
 
 Denara posted the custody product that could survive morning:
 
-*Founders' Reach: survivor search concluded. No certified survivors. Recoverable names under Civilian Affairs custody where prior census mirrors allow. Memorial logistics active at New Meridian. Operational description contested. Processing frame sealed. Public language: catastrophic civilian loss. No sole invasion lock. Mega-casualty estimates: `[Author decision pending — casualty figure calibration]`. Orchard Compact: contested, unnamed in rhetoric channels. Third fringe indicator: degraded, not confirmed.*
+*Founders' Reach: survivor search concluded. No certified survivors. Recoverable names under Civilian Affairs custody where prior census mirrors allow. Memorial logistics active at New Meridian. Operational description contested. Processing frame sealed. Public language: catastrophic civilian loss. No sole invasion lock. Civilization-scale casualty estimates: unauthorized, uncalibrated, not for release. Orchard Compact: contested, unnamed in rhetoric channels. Third fringe indicator: degraded, not confirmed.*
 
 The mobilization analyst looked cheated. The demography staffer looked relieved and unhappy in equal measure. Neve looked like someone who had kept a market from eating a truth.
 
@@ -425,7 +425,7 @@ Rowan looked at the map. Founders' Reach finished. Orchard Compact probable and 
 
 Neve nodded. "That will make everyone angry."
 
-"Good," Rowan said. "Anger that can still argue is better than consensus built on a lie."
+"Good," Rowan said. "Anger still arguing beats consensus built on a lie."
 
 Hale looked at the First Doctrine strip one more time. "Amendment hearing will receive this casualty product whether we like the optics or not. If cooperation talks open on the same day memorial readings begin, Academy will say you used empty berths as leverage."
 

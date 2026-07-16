@@ -11,7 +11,7 @@ The charts arrived in sealed sleeves, not as gifts.
 
 Morning traffic at Contact Node Seven still pretended the station was only bolts and packet handoff. Freighters held approved routes outside the viewports. A Dominion border watch kept station at a polite distance. A Fleet runner waited for clearance and broadcast nothing interesting. Inside the protocol room, the bolted tables and the second wall display with bright mounting screws made the pretense thinner. Someone had restocked the Dominion tea service overnight. Someone else had refilled the Fleet coffee urn Park had insisted on. Nobody discussed either.
 
-Thessaly counted the sleeves onto the Fleet table under dual custody rules: three Dominion watch products, sanitized, stamped with Strategic Security review marks that looked like bruises on paper. Park and Orlen confirmed the lexicon lock aloud before anyone touched an overlay. Sixty-three shared terms from Session One. Spoken confirmation still required. Dual-consent recorder dark until both sides keyed it live. Vorin watched the recorder the way a man watches a door that has already failed once.
+Thessaly counted the sleeves onto the Fleet table under dual custody rules: three Dominion watch products, sanitized, stamped with Strategic Security review marks that looked like bruises on paper. Park and Orlen confirmed the lexicon lock aloud before anyone touched an overlay. Sixty-three shared terms from Session One. Spoken confirmation still required. Dual-consent recorder dark until both sides keyed it live. Vorin kept his eyes on the recorder. It had already failed once.
 
 Calder stood where he could see both tables and both pedestals. Rowan was already on lag from Helion. Senka sat with her coat open and her hands still. Across from Calder, for the first time in this venue, Commander Vex of *Iron Harrow* held the Dominion military seat.
 
@@ -27,7 +27,7 @@ They did not shake hands. Thessaly had already decided neither man would offer f
 
 Vex inclined his head once. "Understood."
 
-Calder took the measure of him the way he took the measure of any officer who would matter under pressure: hands, posture, what he refused to perform. Vex refused performance. That was either discipline or a different kind of theater. Calder reserved judgment and kept the observation.
+Calder read him like any officer who might matter under pressure: hands, posture, what he refused to perform. Vex refused performance. That was either discipline or a different kind of theater. Calder reserved judgment and kept the observation.
 
 "Walk-out drill," Thessaly said.
 
@@ -39,7 +39,7 @@ Vorin keyed the Dominion sleeve. Orlen spoke the header aloud. Park confirmed th
 
 Calder felt the old hunger for certainty rise and made himself leave it alone.
 
-The contour did not look like a border drawn by diplomats. It looked like weather drawn by people who had stopped pretending weather asked permission. Year marks stepped across the display in a sequence that made Fleet survey habits feel suddenly provincial. Edition numbers assumed a line would hold still long enough to be printed. This line refused the courtesy.
+The contour did not look like a border drawn by diplomats. It looked like weather — something that moved on its own schedule, whether anyone approved or not. Year marks stepped across the display in a sequence that made Fleet survey habits feel suddenly provincial. Edition numbers assumed a line would hold still long enough to be printed. This line refused the courtesy.
 
 "This is eleven years of watch product," Vex said. His voice was even, without theater. "Sanitized for this room. The full depth stays off the table."
 
@@ -111,9 +111,9 @@ Ellis, on audio only, spoke once when a Fleet staff draft tried to call the abse
 
 Ellis signed off the interruption as quickly as she had entered it. Founders' Week stayed out of the room. Myth stayed off the map. The horror on the wall was enough without ancestry arguments. Calder noticed that Ellis sounded less like a historian protecting romance and more like an archivist protecting the difference between evidence and hope. He respected that even when it left the board colder.
 
-Calder felt the map change something in him that certainty usually protected. He was being asked to recommend action before the categories finished forming. That was command. It still felt like standing in a corridor with the lights only half installed.
+The map was asking something of Calder that certainty usually protected him from. He was being asked to recommend action before the categories finished forming. That was command. It felt like standing in a corridor with the lights only half installed.
 
-Vex watched him look at the absences. Not kindly. Not cruelly. Professionally, the way one officer watches another decide whether the board in front of him is real enough to move ships for.
+Vex watched him look at the absences. Not kindly. Not cruelly. Professionally — one officer watching another decide whether the board was real enough to move ships for.
 
 "Your survey editions treat borders as lines that wait," Vex said. "Ours treat some borders as pressure that advances whether we approve the metaphor or not."
 
@@ -224,7 +224,7 @@ Park asked one more language question before they closed the product. "If Fleet 
 
 "Ugly phrases it is," Park said.
 
-The conceptual gap stayed open on purpose. Ellis would want that gap later. Act I still preferred debate over proof. Proof was coming anyway, on a schedule nobody in the room owned.
+The conceptual gap stayed open on purpose. Ellis would want that gap later. For now, the room still preferred debate over proof. Proof was coming anyway, on a schedule nobody in the room owned.
 
 ❦
 
@@ -285,7 +285,7 @@ Thessaly watched Rowan the way she watched captains deciding whether a crew coul
 
 Calder felt the radioactive quality of the moment in his chest more than in the politics. If he recommended action, he would be recommending it under incomplete certainty. If he recommended delay, he would be recommending the comfort of categories that had already failed Park once on a scream mislabeled as distress.
 
-He glanced at Vex. Vex was not watching Senka. He was watching Calder, waiting for the field judgment the way a counterpart waits for a predicted move.
+He glanced at Vex. Vex was not watching Senka. He was watching Calder, waiting for the field judgment like a man watching for a move he had already predicted.
 
 "Field judgment," Rowan said.
 
@@ -451,7 +451,7 @@ Senka insisted on one last clarification before seals. "These instruments do not
 
 By late session they had a packet of provisional instruments that pleased no one and could be executed by people who still did not trust each other. That was the design goal. Thessaly said so without dressing it up.
 
-"Act I can proceed to productive exchanges under these limits," she said. "Productive does not mean safe. Productive means the channel can carry a warning."
+"We can proceed to productive exchanges under these limits," she said. "Productive does not mean safe. Productive means the channel can carry a warning."
 
 "And if the warning is wrong," Rowan said.
 
@@ -512,7 +512,17 @@ Thessaly followed his gaze and did not invent significance for it. She only said
 
 "Or where the traffic is densest," Thessaly said. "Either way, quiet places stay quiet on the board until they are not."
 
-He did not know what the Dominion resource graph would make of a label like that. He did not accept that frame as settled. He only knew the map session had left him with a contour that moved and a counterpart who would not open the depth behind it. The quiet label stayed quiet. That was all the annex could honestly show.
+"Then own the coverage review," Calder said. "Not just this board. All of Segment 6. If Council wants to argue about where to look first, I want you making that call before they do, not defending mine after the fact."
+
+Thessaly's expression didn't move much, but something behind it did. "That's a command decision. You're the one Rowan will ask."
+
+"I'm asking you to make it and I'll stand behind it. That's not the same as making it for you."
+
+"I know what it's not the same as," she said, and there was an edge in it she hadn't meant to show. She looked back at the board instead of at him. "I'll have a recommendation by the next session."
+
+She didn't say why the word *command* had cost her something to hear. Calder didn't ask. He filed the small flinch the way he filed everything he didn't understand yet — not forgotten, just not due.
+
+He did not know what the Dominion's resource graph would make of a label like that, and he was not ready to accept their frame as settled. He only knew the map session had left him with a contour that moved, and a counterpart who would not open what sat behind it. The quiet label stayed quiet. That was all the board could honestly show.
 
 "Captain," Thessaly said. "You should sleep before Council starts inventing questions."
 

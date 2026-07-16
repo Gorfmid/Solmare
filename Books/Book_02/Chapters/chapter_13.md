@@ -69,7 +69,7 @@ Runner Merek appeared at the threshold with a medical clearance tag still bright
 
 "Yes, Commander."
 
-Fleet liaison traffic waited in the holding strip like weather that refused to leave. Vex did not open it yet. Dominion morning under joint orders required one honest beat before neighbors entered: inhabit the civilization, then argue with it. He thought, briefly and without warmth, of Calder on the mirrored feed the night before, predicting him and being predicted, refusing friendship with the same discipline Vex used to refuse theater. Useful. Dangerous. Incomplete. A peer. Not a friend. The distinction mattered more now that teaching would put Dominion hesitation habits inside Fleet mouths.
+Fleet liaison traffic waited in the holding strip like a door that refused to close itself. Vex did not open it yet. Dominion morning under joint orders required one honest beat before neighbors entered: inhabit the civilization, then argue with it. He thought, briefly and without warmth, of Calder on the mirrored feed the night before, predicting him and being predicted, refusing friendship with the same discipline Vex used to refuse theater. Useful. Dangerous. Incomplete. A peer. Not a friend. The distinction mattered more now that teaching would put Dominion hesitation habits inside Fleet mouths.
 
 He lifted his tea, drank, and set the cup down.
 
@@ -118,11 +118,11 @@ An SSD handler attended by lag long enough to poison the room. The woman did not
 
 "Commander Vex," she said. "Teaching Fleet your pattern language teaches Fleet how to read Long Watch hesitation. Hesitation is depth protection. Depth protection is survival. Contaminating it with Fleet initiative habits is how preparation culture dies polite deaths. You remain the officer who lets Fleet in. That sentence is already traveling in Civil Government corridors and SSD minutes. Do not earn a louder version."
 
-Vex did not look at the lag strip as if it were weather he had not priced.
+Vex did not look at the lag strip as if it carried news he had not already priced.
 
 "My old commander used to say exhaustion is not a strategy," he said. "War exhaustion argues against new partners. The contour does not care that we are tired. Fleet hulls under protocol can fail us. Fleet hulls refused can leave our buffer thin while the graph advances. I am teaching what war requires. I am not teaching applause. Depth remains blank. I accept the cost of being named. Record your protest and leave the field room."
 
-The SSD handler did not leave immediately. Delay as doctrine. Delay as the part of government that still believed Fleet was the nearer danger even while residual weather talked in fractions.
+The SSD handler did not leave immediately. Delay as doctrine. Delay as the part of government that still believed Fleet was the nearer danger even while the residual talked on in fractions no one could parse.
 
 Senka's voice cut across lag, clipped. "Civil Government accepts field teaching under sanitization. Protest travels. Usefulness travels too. Do not convert Commander Vex into a traitor for teaching neighbors not to invent funerals in our corridors. Long Watch skepticism remains rational. Rational skepticism is not permission to leave the buffer thin for elegant blame."
 
@@ -173,7 +173,7 @@ That was enough for a buffer. It was not enough for a civilization.
 ***FORENSIC REVIEW — PELIGAR-ADJACENT RETURNS***
 *IRON HARROW SECONDARY PLOT / JOINT FEED*
 
-The forensic review began because residual weather did not apologize when morning watch wanted sleep.
+The forensic review began because the residual did not apologize when morning watch wanted sleep.
 
 Klimov stacked the night's returns beside three prior fringe sets from Dominion archive and two Fleet residual maps from the shared intelligence product. Ortega attended from *Kestrel* with Park. Calder stood where he could see both overlays. Thessaly held the people in the room from becoming a jury. Rada held the lexicon ceiling. Kell held inherited caution like a tool he refused to romanticize. Sava stood at the back with a slate, learning how seniors spent ugly sentences.
 
@@ -215,7 +215,7 @@ Vex looked at the infrared markers, then at the blank depth rectangles SSD still
 
 "They have no hatred," he said.
 
-Ortega laughed once without humor. "Isn't that better? No hatred means maybe they can stop. Maybe they can be talked into stopping. Maybe this is weather with a switch. Maybe Park's channel is a door if we lean hard enough."
+Ortega laughed once without humor. "Isn't that better? No hatred means maybe they can stop. Maybe they can be talked into stopping. Maybe there's a switch. Maybe Park's channel is a door if we lean hard enough."
 
 "No," Vex said. "Hatred can end. A people who hate you can tire, bargain, break, or bury their dead and choose a smaller fire. These will continue until there is nothing left because they do not know they should stop."
 
@@ -239,7 +239,7 @@ Calder watched him across the feed with the expression Vex had learned to read a
 
 "I do not give sermons," Vex said. "I give continuity logic. Fleet innovation will try to invent a switch. Dominion preparation will try to buy time with buffer and archive. Both may fail. Both remain necessary. Do not ask me to enjoy being early about Founders' Reach. Being early did not save it. Do not ask me to convert this into Helion moral victory language either. Moral victory language is how SSD proves Civil Government has already lost discipline."
 
-Thessaly cut the room before anyone could baptize the beat into Helion cloth.
+Thessaly cut the room before anyone could dress the beat up in Helion cloth.
 
 "Log the observation as Dominion field assessment," she said. "Not as Fleet moral doctrine. Not as gallery enmity. Pattern language only. They're worse than monsters because monsters can stop hating. Work continues. Ortega, keep your private hatred if it keeps you useful. Do not write it into the shared product."
 
@@ -289,6 +289,14 @@ Vex removed one glove to annotate a private note, then put it back on. Calder no
 Calder's mouth tightened in what might have been humor on a softer man. "Helion wants the face of trust without the thing. SSD wants the face of contamination without admitting the buffer needs Fleet hulls. Both want theater. I am out of theater budget."
 
 "Good," Vex said. "My instructors said a neighbor who performs friendship for galleries is already practicing entry. We will not practice entry. We will practice prediction."
+
+"Your archive prices residual behavior farther out than our sensors reach," Calder said. "Consistently. I have stopped assuming that is only discipline."
+
+Vex was quiet long enough that Calder understood the quiet was the answer before the words arrived.
+
+"Some of what Long Watch knows about staying unseen near a graph that is still watching did not come from discipline alone," Vex said. "It came from something recovered a long time ago and still not fully understood. Incomplete. Costly to run. Not something SSD will let travel to a Fleet hull this year, or next. I am telling you it exists so you stop inventing wrong reasons for things Dominion does near the frontier. That is the whole gift tonight. Do not ask for the rest of it."
+
+"I won't," Calder said, and meant it, and filed the shape of the thing away anyway, the way he filed every unfinished sentence Vex allowed him to hear.
 
 "You predicted me last night," Calder said.
 

@@ -11,7 +11,7 @@ Soraya Ellis arrived early enough that the archive annex still smelled like poli
 
 Outside the civic wing, Founders' Week committees were already fighting over copper-and-blue cloth for a season that had not yet opened. Inside, the wartime clock had opened a different kind of door.
 
-Denara Voss of Civilian Affairs waited with a custody strip and the expression of a clerk who had already been asked three times whether this was a good idea. "Rowan authorized a narrow research window under joint-cooperation necessity," she said. "FIB attaches a handler. Doctrine attaches a minder. Historical Office retains hygiene on anything that wants to climb into public caption. Sunset attached. Dual veto if Dominion product tries to baptize Fleet galleries."
+Denara Voss of Civilian Affairs waited with a custody strip and the expression of a clerk who had already been asked three times whether this was a good idea. "Rowan authorized a narrow research window under joint-cooperation necessity," she said. "FIB attaches a handler. Doctrine attaches a minder. Historical Office retains hygiene on anything that wants to climb into public caption. Sunset attached. Dual veto if Dominion product tries to turn this into gallery material."
 
 "I asked for questions," Ellis said. "Not baptism."
 
@@ -48,6 +48,16 @@ She remembered Calder's lag note from that cycle, relayed through Historical Off
 Ilen unlocked the second drawer and hesitated. "Some of these products have been requested before, ma'am. Quietly. Years back. Requests died in committee. Wartime headers reopen doors peacetime hygiene kept shut."
 
 "Then wartime is doing scholarship a favor it did not intend," Ellis said. "We will not waste the favor on theater."
+
+Ilen did not move away from the drawer right away. "My grandmother pressed programs in this building for thirty years before I did," he said, quieter, not quite a confession. "She used to say the drums always come back wrong the first rehearsal and right by the third. I used to think that was about music. Now I think she meant something else and never told me what."
+
+"What do you think she meant?"
+
+"That some things get truer the more times you're brave enough to try them." He shrugged, embarrassed by his own sentence. "I don't know. I press programs. I'm not supposed to have theories."
+
+"You're allowed one," Ellis said. "Keep it to yourself in committee rooms. Tell it to me whenever you want."
+
+He almost smiled, then went back to the drawer.
 
 She felt wonder and dread in the same breath and refused to decorate either feeling.
 
@@ -106,25 +116,7 @@ She pulled a current fringe watch overlay from the cartographic strip and set it
 
 "Same fear of asking," Ellis said.
 
-Denara brought coffee to the table and left it as presence. Nobody used it as a timer. Ellis kept her eyes on the fragment.
-
-She opened the third product: a dual liturgy calendar fossil from Academy comparative religion storage, mis-shelved for years under *fringe folk practice, incomplete*. Not a Fleet official product. Not Dominion custody. A partial seasonal table someone had once tried to reconcile and then abandoned when the reconciliation made no clean story.
-
-Two columns. One used Founders' Week procession language and grain blessing timing. The other used unnamed seasonal continuity language and leave-window marks that refused Fleet naming. Dates rhymed hard enough to make Ellis's throat tight. Names did not. The abandoned reconciling hand had written in the margin, then struck it:
-
-*Do not force kinship from timing.*
-
-Ellis left the strike visible. Strikes were evidence too. She wondered, briefly, how many other strikes lived in Academy storage under folk-practice labels because someone had been competent and afraid on the same afternoon.
-
-"What is that," Neve asked.
-
-"A failed attempt to make two calendars into one story," Ellis said. "Failed attempts are often more honest than successful editions."
-
-Hale frowned. "That object should not be in a wartime research window."
-
-"It is already here," Denara said. "Segment custody released it under the necessity header. If you want it back in the dark, say so for the log."
-
-"Leave it," Neve said. "And do not put it on a wall."
+Denara brought coffee to the table and left it as presence. Nobody used it as a timer. Ellis kept her eyes on the fragment and thought of something else buried in comparative-religion storage years ago, mis-shelved under *fringe folk practice, incomplete*: a partial dual calendar someone had once tried to reconcile into one seasonal story and then abandoned, a struck line in the margin where the reconciling hand had lost its nerve. *Do not force kinship from timing.* She had read it twice on an earlier visit and left it exactly where it sat. Strikes were evidence too. She did not need to reopen it today to remember what refusing to finish a thought looked like on paper.
 
 Ellis opened the sanitized Dominion campaign extract next, the one Rowan had approved for delivery into the same duty cycle as the sealed intel packet. Vex's sentence from Civil Government channels still sat at the top like a veto carved into courtesy:
 
@@ -431,7 +423,7 @@ Ellis set the concordance beside the convoy fragment and the deleted Edition 94 
 
 Seed only. Deniable. Dangerous because it was beginning to feel less deniable every time a room tried to kill it for morale.
 
-She thought of Founders' Reach empty berths and the invasion noun she had refused to baptize. She thought of copper-and-blue crates waiting for a holiday that still believed beginnings were only beginnings. She thought of gold-thread banners she had never touched, existing somewhere beyond the board on a seasonal clock that refused to stay foreign once named.
+She thought of Founders' Reach empty berths and the invasion noun she had refused to bless. She thought of copper-and-blue crates waiting for a holiday that still believed beginnings were only beginnings. She thought of gold-thread banners she had never touched, existing somewhere beyond the board on a seasonal clock that refused to stay foreign once named.
 
 She did not say the theme sentence forming in her head. Theme sentences were how historians got drafted into sermons.
 

@@ -9,7 +9,7 @@
 
 The approaches to Founders' Reach looked like a system that had finished being interesting to anyone who needed a fight.
 
-Calder stood at the primary plot and waited for the board to give him wreckage. Wreckage would have been honest in a way institutions understood. Burned hulls. Scattered orbital stock. Survivors on emergency bands. An enemy fleet still present, still choosing targets, still offering the grammar of war.
+Calder stood at the primary plot and waited for the board to give him wreckage. Wreckage would have been honest in a way institutions understood. Burned hulls. Scattered orbital stock. Survivors on emergency bands. An enemy fleet still present, still choosing targets.
 
 The board refused.
 
@@ -23,9 +23,9 @@ Park sat at sensors with his shoulders set the way they set when a return was go
 
 "None answering," Park said. "Relay mast signature absent. Administrative ping dead. Emergency override from New Meridian still unanswered since the first attempts."
 
-Calder felt the old observer hunger rise: hold longer, confirm harder, do not move nouns until the board finished arguing with itself. Founders' Reach had already answered that hunger with silence. Observation ethics still wanted time. The system in front of him no longer rewarded it.
+Calder felt the old observer hunger rise: hold longer, confirm harder, do not move nouns until the board finished arguing with itself. Founders' Reach had already answered that hunger with silence.
 
-He had built a career on watching longer than politics preferred. On Contact Node Seven he had argued for instruments, for careful headers, for the right to refuse soft synonyms that turned observation into interdiction. Those arguments had mattered. They had also arrived on the schedule of the living, not the dead. The productive exchange had worked. The colony that needed it first had already been inside the pattern.
+He had built a career on watching longer than politics preferred. On Contact Node Seven he had argued for careful headers, for the right to refuse soft synonyms that turned observation into interdiction. Those arguments had mattered. They had also arrived on the schedule of the living, not the dead. The colony that needed them first had already been inside the pattern.
 
 "Reframe the mission," Thessaly said, quiet enough for the bridge and firm enough to cut the rescue fantasy before it hardened. "We are not assessing an ongoing attack. We are documenting a finished process until sensors prove otherwise. Keep that distinction visible in every packet."
 
@@ -41,7 +41,7 @@ Hadd cleared his throat. "Permission to ask a stupid question."
 
 "Of teaching whatever did this that we are worth a second look while we are still counting scrap," Park said. "Standing orders hold. We go closer under passive preference. We illuminate only for sampling windows Thessaly authorizes. We do not turn documentation into a challenge."
 
-Vex was not aboard. A Dominion border watch held station at a respectful distance on a sanitized bearing, close enough for joint overlay exchange, far enough that nobody could call the arrangement a shared command. Senka had authorized the watch presence under protest notes SSD would love. Rowan had authorized Fleet acceptance under protest notes FIB would love. Necessity without trust, still the operating condition.
+Vex was not aboard. A Dominion border watch held station at a respectful distance on a sanitized bearing, close enough for joint overlay exchange, far enough that nobody could call the arrangement a shared command. Senka had authorized the watch presence under protest notes SSD would love. Rowan had authorized Fleet acceptance under protest notes FIB would love. Neither side was pretending this was friendship.
 
 "Contact Node Seven has the joint board open," Park said. "Orlen and Vorin standing by for spoken confirmation if we push product. Rowan on lag. Ellis available for header review if we ask."
 
@@ -59,7 +59,7 @@ He thought of Voss's morning packet from the institutional receipt: weather nomi
 
 Thessaly watched the crew absorb the refusal of the war story. Park was steady. Morn was already rewriting his sampling plan behind his eyes. Rell had gone still in a way that meant she would either hold or break cleanly later, not in the middle of a pass. Hadd looked angry, which Thessaly preferred to panic. Anger could be aimed at procedure. Panic invented nouns.
 
-"Any Peligar returns still present," Thessaly asked.
+"Any Peligar returns still present," Thessaly asked. It was Dominion's word, not Fleet's — a designation, not a name anyone had earned the right to give — but it had crossed the joint board often enough now that she used it the way she used any tool that worked.
 
 "Multi-vocal signal at residual intensity," Park said. "Speech structure, meaning none. Tempo lower than *Harrow Line*'s live package. Consistent with process complete or nearly complete on the primary node. No translation. No self-identification. External behavior only."
 
@@ -219,6 +219,22 @@ Beneath them, Founders' Reach continued being a finished node on a graph that di
 
 ***KESTREL VEIL — JOINT BRIEF COMPARTMENT***
 *DOMINION OVERLAY / SANITIZED PATTERN LIBRARY*
+
+Calder found Thessaly in the small ready room off the bridge before the Dominion shuttle could dock, going through Rell's and Hadd's post-mission notes with the particular care of someone checking that people were still whole under the paperwork. She had saved him coffee. It had gone lukewarm in the wait, and she did not mention the dust still on his boots.
+
+"Rell held," she said, not looking up. "Hadd wanted to hit something and settled for the plot instead. Morn is already talking about industrial ecology like the phrase will do the grieving for him."
+
+"And you?"
+
+She thought about the question longer than it should have taken. "I kept the ship pointed at the work. That's the job today." She looked up then. "You went back into the school rectangle in your notes. Twice. You didn't have to."
+
+"I wanted to be sure I wasn't inventing something to feel there."
+
+"Were you?"
+
+"No. Corner post and dirt. Nothing else." He drank the coffee anyway, cold as it was. "Thank you for this."
+
+"Don't thank me. Drink it and go meet Vex like you slept." A small, tired almost-smile. "I'll be right behind you."
 
 Vex came across by shuttle under dual-consent escort rules that made every courtesy look like a contract.
 

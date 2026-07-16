@@ -110,7 +110,11 @@ Thessaly watched faces on both sides of the dual board. Calder's jaw had set the
 
 On *Kestrel*, the hunger for initiative was almost physical. Fleet training wanted the update, the closer stack, the noun that stopped wobbling. On *Iron Harrow*, the hunger for preparation was equally physical. Dominion training wanted the inherited product, the prior watch, the refusal to invent weather. Both hungers were competence. Both hungers were about to make each other late.
 
-"Both of you are right," Thessaly said. "Both of you will be late if you treat the other as obstruction. Schedule the disagreement. Fleet takes a passive update at current range only. Dominion runs archive compare in parallel. Nobody closes. Nobody illuminates. Nobody paints an attack header. If either veto trips, we freeze."
+Nobody was going to break the tie in time. Thessaly felt that arrive the way she always felt it: as a stillness that climbed into her shoulders before her mouth caught up. She flattened her hand against the console edge instead of gripping it, because gripping showed, and set her voice a half register flatter than she felt.
+
+"Both of you are right," she said. "Both of you will be late if you treat the other as obstruction. Schedule the disagreement. Fleet takes a passive update at current range only. Dominion runs archive compare in parallel. Nobody closes. Nobody illuminates. Nobody paints an attack header. If either veto trips, we freeze."
+
+Nobody on the bridge saw the hand. That was the point of keeping it flat.
 
 "Accepted," Calder said.
 
