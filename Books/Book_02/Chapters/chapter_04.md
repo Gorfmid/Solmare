@@ -131,8 +131,7 @@ Calder looked at Vex and saw the same recognition he had seen in Session Two: co
 
 Nobody said the word *trust*.
 
-❦
-
+---
 ***FOUNDERS' REACH — ADMINISTRATIVE RELAY***
 *SEGMENT 6 / PATROL CYCLE WINDOW*
 
@@ -230,8 +229,7 @@ Late in the local afternoon he sent one more routine packet: weather nominal, pr
 
 The relay board held.
 
-❦
-
+---
 ***CONTACT NODE SEVEN — PROTOCOL ROOM***
 *LIVE TRAFFIC / JOINT BOARD OPEN*
 
@@ -341,8 +339,7 @@ Calder looked at Vex and found no victory there to resent. Only the same profess
 
 "No," Vex said.
 
-❦
-
+---
 ***SEGMENT 6 — PATROL CRAFT HARROW LINE***
 *PASSIVE OBSERVATION / FOUNDERS' REACH BEARING*
 
@@ -412,8 +409,7 @@ Somewhere behind them, New Meridian's ops channel filled with clerks who had que
 
 The work of witnessing continued.
 
-❦
-
+---
 ***CONTACT NODE SEVEN — PROTOCOL ROOM / HELION RELAY***
 *INSTITUTIONAL RECEIPT*
 
@@ -509,8 +505,7 @@ Proof had landed.
 
 Trust had not.
 
-❦
-
+---
 ***CONTACT NODE SEVEN — PROTOCOL ROOM***
 *AFTER*
 
@@ -582,6 +577,5 @@ Necessity had.
 
 The work continued.
 
-❦
-
+---
 **END CHAPTER 4**

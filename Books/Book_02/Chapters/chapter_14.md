@@ -27,8 +27,7 @@ Thessaly didn't flinch. She had stopped flinching at numbers weeks ago, the way 
 
 He followed her out, cup in hand, and did not tell her that he had started dreaming about maps. Blank sectors. Names disappearing off the corner of a display before he could read them. He had decided that was a normal thing for a man in his position to dream about and had not mentioned it to anyone, including himself, more than once.
 
-❦
-
+---
 ***CONTACT NODE SEVEN — JOINT BRIEFING***
 *ACT IV OPENS*
 
@@ -92,8 +91,7 @@ On the board, Founders' Reach stayed finished. Orchard Compact sat dark. The fri
 
 The work went on, because it had somewhere else to be.
 
-❦
-
+---
 ***WARNING CORRIDOR THREE — UNDER LOAD***
 *KESTREL VEIL / IRON HARROW*
 
@@ -153,8 +151,7 @@ Thessaly closed one watch bill and opened another with new names in the hard slo
 
 Crews moved. The corridor held station the way funerals held station — without asking whether anyone had wanted to be there.
 
-❦
-
+---
 ***HELION / CIVIL GOVERNMENT — THE REFRAME***
 *SURVIVAL CLOCK*
 
@@ -194,8 +191,7 @@ Calder looked at that shifted node and felt the shape of his own job change unde
 
 He carried it instead, and found it heavier than anything the board had shown him all morning.
 
-❦
-
+---
 ***HELION — HISTORICAL OFFICE***
 *A NARROW DOOR*
 
@@ -233,8 +229,7 @@ She wrote her receipt in plain language and sent it up the chain: a door opened,
 
 Outside the annex, the committee kept arguing copper-and-blue cloth for a season that hadn't started yet. Ellis kept both truths in view at once — the war that wouldn't wait, and the joy that refused to apologize for not waiting either — and went back to work.
 
-❦
-
+---
 ***CONTACT NODE SEVEN — END OF DAY***
 *A RATION, NOT A GIFT*
 

@@ -81,8 +81,7 @@ Council did not cheer. Council did not bless. A contested authorization passed w
 
 Outside the chamber, Helion kept moving. Runners carried memorial petitions. Civic wing banners waited for nouns. Inside, Founders' Reach remained finished, and necessity had a door.
 
-❦
-
+---
 ***CONTACT NODE SEVEN — PROTOCOL ROOM***
 *DOMINION COUNTER-TERMS*
 
@@ -146,8 +145,7 @@ Calder felt the role harden another notch. Observer had become mediator. Mediato
 
 "Then we draft," Calder said.
 
-❦
-
+---
 ***CONTACT NODE SEVEN — DRAFTING ANNEX***
 *JOINT POSTURE TEXT / UGLY DOCUMENT*
 
@@ -247,8 +245,7 @@ Thessaly stacked the executable pieces where speeches had wanted to live: watche
 
 "We have paper that can almost sail," Vex said. "Do not confuse the two."
 
-❦
-
+---
 ***HELION / CONTACT NODE SEVEN — SPLIT AUTHORIZATION***
 *AUTHORIZATION WITHOUT AFFECTION*
 
@@ -300,8 +297,7 @@ On both sides of the frontier, authorization landed without affection.
 
 That was the point.
 
-❦
-
+---
 ***CONTACT NODE SEVEN — SMALL TABLE***
 *QUIET AFTER THE PENS*
 
@@ -353,8 +349,7 @@ Vex stood. Calder stood. Neither offered a handshake theater. Neither needed one
 
 They left the small table as professional mirrors, not friends. The station kept pretending it was only bolts. The draft on both boards disagreed.
 
-❦
-
+---
 ***HELION — FLEET COMMAND ANNEX / CONTACT NODE SEVEN MIRROR***
 *FIRST JOINT PATROL ORDERS*
 
@@ -392,6 +387,5 @@ It would nearly fail for reasons that were not betrayal.
 
 The work continued.
 
-❦
-
+---
 **END CHAPTER 8**

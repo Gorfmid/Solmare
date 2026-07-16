@@ -57,8 +57,7 @@ Thessaly wrote one quiet-channel line few would read: *go order under constraine
 
 Hulls held station. The amber densification held. The work continued.
 
-❦
-
+---
 ***TAG TWELVE SECONDARY RING — JOINT ACTION***
 *EARLY SUCCESS / SHARED TRAP*
 
@@ -120,8 +119,7 @@ Thessaly wrote the true cost into the quiet channel few would read: Tag Twelve s
 
 Hulls held station on lag screens that already looked like funerals. The work continued because stopping would not restore what had finished.
 
-❦
-
+---
 ***IRON HARROW — LONG WATCH MEMORIAL DECK***
 *NO HATRED UNDER ASH*
 
@@ -159,8 +157,7 @@ He looked once toward the twin feed, where Calder would later stand with doctrin
 
 Tea remained at elbows. Gloves remained on. Public funerals would follow. Private promotions would wait. The work continued.
 
-❦
-
+---
 ***CONTACT NODE SEVEN — DOCTRINE ANNEX***
 *OBSERVATION AS METHOD / OBSERVATION AS EXCUSE*
 
@@ -218,8 +215,7 @@ Outside the annex glass, a Founders' Week runner hurried past with sample cloth.
 
 Doctrine doubt had landed. The work continued.
 
-❦
-
+---
 ***HELION — JOINT FRAMEWORK ANNEX***
 *ABANDON / RE-CHOOSE*
 
@@ -261,8 +257,7 @@ Rowan locked the mandate without parade language. "Negotiate Helion Accord instr
 
 Outside the annex glass, Helion's civic promenade kept hanging copper cloth. Blame markets remained open. Hulls were not the center of gravity anymore. Helion was — under ash.
 
-❦
-
+---
 ***HELION — MEMORIAL CORRIDOR / JOINT TRANSIT***
 *ROWAN'S QUESTION*
 
@@ -294,6 +289,5 @@ Cooperation had been re-chosen under loss. Not optimism. Not alliance. Not finis
 
 Trust remained harder than war. The next rooms waited under ash.
 
-❦
-
+---
 **END CHAPTER 22**

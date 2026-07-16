@@ -1,7 +1,7 @@
 # Prelude
 ## The Founding Exodus
 
-The harvest banners had been going up since midmorning. By the time Yeva reached the main promenade of Serath District, they were fully strung — gold thread on old cord, the same set she had helped carry down from storage four autumns running, the corners reinforced with neat stitching by hands she did not know.
+The harvest banners had been going up since midmorning. By the time Yeva reached the main promenade of Serath District, they were fully strung — gold thread on old cord, the same set she had helped carry down from storage four autumns running, the corners reinforced with neat stitching by hands she did not know. Two of the longest panels were older than the rest: denser weave, a border mark the storage inventory still filed as *pre-district pattern, retain*. No one in the hanging crew could say what the mark had meant. They hung those panels first anyway, because that was how it was done.
 
 She had walked this promenade her entire adult life. She knew which section of the north end had been poorly repaved and caught your toe if you weren't paying attention. She knew which vendors kept the best fermented root stock, which stall's dried fruit ran sweet rather than sharp, which of the music groups played the old autumn sequence with the correct slowing in the third movement. She knew all of it. She was walking through it for the last time, and she couldn't decide whether to pay more attention or less.
 
@@ -27,11 +27,11 @@ Autumn passage. She thought about that. She thought about tomorrow.
 
 ---
 
-She found Petra at the grain-bundle stalls, where Andris was arguing pleasantly with a vendor about whether the cord color was traditional or just what they had on hand. Their two boys were eating something fried and watching the percussion group settle in. The taller boy was already as tall as his father, which Yeva found alarming in the way of things that happened gradually until they didn't.
+She found Petra at the grain-bundle stalls, where Andris was arguing pleasantly with a vendor about whether the cord color was traditional or just what they had on hand. Their two boys were eating something fried and watching the percussion group settle in. The taller boy was already as tall as his father, which Yeva found alarming — the sort of change that takes years and somehow still arrives overnight.
 
-Petra saw her and came over. They had been friends since they were twelve, had lived two buildings apart for the past nine years, had helped each other through things Yeva wasn't thinking about now because this was not the time.
+Petra saw her and came over. They had been friends since they were twelve, had lived two buildings apart for the past nine years, had helped each other through hard years she was not going to unpack on the promenade.
 
-"You finished packing," Petra said.
+"You're done, then," Petra said.
 
 "This afternoon," Yeva said. "Torin's at the dock running numbers with Halcen. I wanted one more evening."
 
@@ -39,15 +39,15 @@ Petra saw her and came over. They had been friends since they were twelve, had l
 
 "Maren wanted to see the lanterns."
 
-"Yes." Petra was watching her boys. Andris had won the cord argument and was wrapping the grain bundle correctly now, the traditional crossed pattern, the way his father used to do it. "Andris keeps saying the three who came back from the Valdorn corridor. Every time. As if you haven't heard."
+"Yes." Petra was watching her boys. Andris had won the cord argument and was wrapping the grain bundle correctly now, the traditional crossed pattern, the way his father used to do it. "Andris keeps bringing up that Valdorn cohort — the three who came back. Every time. As if you haven't heard."
 
 "He means well."
 
 "He does. He also can't imagine going himself, so he talks about the ones who came back." She paused. "Three out of nine. He keeps forgetting the other six."
 
-Yeva nodded. She understood Andris, and all the people who were staying, the way you understand a language you grew up speaking, without having to think about it. History was not nothing. The plaque above the arch held the names of seven surveyors and would hold them for three hundred more years. There was something real in that. She just wanted more room ahead of her than the district had left to give.
+Yeva nodded. She understood Andris and everyone staying the way you understand a language you grew up speaking — without having to think about it. History still mattered. Seven surveyors' names sat on the plaque above the arch, and they would sit there long after Yeva was gone. That weight was real. She just wanted more room ahead of her than the district had left to give — and she wanted Maren farther from a harvest that had started to mean more than banners and grain.
 
-Petra asked about the route. Yeva told her about the survey continuation bearing, the forty-two-day estimate at convoy pace, what Halcen had said about the conditions beyond the catalogued edge. She tried to make it sound ordinary, which it was to her by now, and she could tell it was not ordinary to Petra at all by the way Petra's eyes stayed very still while she listened.
+Petra asked about the route. Yeva told her about the survey continuation bearing, the hundred-forty-two-year estimate at convoy pace, what Halcen had said about the conditions beyond the catalogued edge. She tried to make it sound ordinary, which it was to her by now, and she could tell it was not ordinary to Petra at all by the way Petra's eyes stayed very still while she listened.
 
 "Will you send word?" Petra asked. "When you arrive."
 
@@ -91,6 +91,8 @@ In the supplementary field — not required, used at the registrar's discretion 
 
 He had first written *consistent with historical colonial practice* and changed *practice* to *tradition,* because practice sounded temporary. The departure had happened. It was tradition now.
 
+Once, years earlier, he had pulled an older seasonal index while reconciling a damaged file and found harvest-remembrance entries dated before Serath's survey founding. The index did not explain them. He had closed it and gone back to work. The forms in front of him did not require that kind of curiosity.
+
 He stamped the forms, set them in the completed tray, poured more tea, and went back to work.
 
 ---
@@ -107,7 +109,7 @@ He was an unhurried man, which she had taken initially for slowness and recalibr
 
 She had asked him once why this cohort specifically.
 
-"The agricultural unit is carrying heritage grain varieties they won't identify," he had said. "That means they're serious about a stable colony, not a survey pass. And you've got children. I prefer serious."
+"The agricultural unit is carrying heritage grain varieties they won't identify," he had said. "That means they're serious about a stable colony, not a survey pass. And you've got children. I prefer serious." He had paused, then added, quieter: "The catalogued edge has been inconsistent for a while — returns that won't settle. Something is out there. I would rather put years between my watch and that."
 
 Maren woke up and demanded to be set down and immediately located another girl her age near a stack of cargo trunks. Within a few minutes they were sitting on the same trunk, discussing something with the seriousness of children who have not yet learned to be indirect about friendships.
 
@@ -143,7 +145,7 @@ Dunara Vel nodded and marked the list.
 
 When the last name was marked she faced the assembled cohort and read the departure acknowledgment. She read it clearly and without decoration, the voice of someone who had prepared for this and found it worth preparing for: "Serath District notes your voluntary departure and wishes your cohort success in your survey continuation. You carry with you the grain of the harvest in the year of your going. Whatever you build from here, you began here."
 
-It was the harvest season language, different words, same movement — the recognition that preparation and departure were connected, that what you carried into the future you had first grown in the ground behind you.
+It was the harvest season language, different words, same movement — the recognition that preparation and departure were connected, that what you carried into the future you had first grown in the ground behind you. One line in the older response still used a verb no one conjugated in ordinary speech anymore. Children learned it by ear. Adults said it without asking when the wording had last been current.
 
 Someone in the crowd began the harvest response and the others joined, the traditional completion, the words everyone knew from childhood. Yeva said them with the rest.
 
@@ -163,15 +165,15 @@ Maren came and stood beside her. She was carrying both grain figures now, her ow
 
 "When do we get there?" Maren asked.
 
-"About forty days."
+"A long time," Yeva said. "Longer than I'll see the end of. Halcen says about a hundred and forty years. Your children's children, if we're careful."
 
-"What's there when we get there?"
+Maren frowned at the number the way eight-year-olds frowned at anything that would not fit in a pocket. "What's there when we get there?"
 
-"We don't know yet," Yeva said. "We'll figure it out."
+"We don't know yet," Yeva said. "We'll figure it out. That's partly why we're going — so they have room to figure it out somewhere the harvest can't follow yet."
 
-Maren seemed to find this acceptable. She leaned against the viewport and watched the planet turn below them.
+Maren seemed to find the second answer more usable than the first. She leaned against the viewport and watched the planet turn below them.
 
-Yeva thought: *next year at this season we will do something to mark it. Not this, but something.* A shared meal. This bundle on a table somewhere that didn't exist yet, in a place without a name yet. Someone saying *this is the time of year we left*, and the children asking why. The answer would be honest: because we wanted something that wasn't behind us. Their children's children, who would never have left anything, would do the same thing without quite knowing why the season felt weighted. Eventually it would have a shape, and a name, and a story that got the facts approximately right and the feeling exactly right.
+Yeva thought: *each year at harvest we will do something to mark it. Not this, but something.* A shared meal in a corridor. This bundle on a table that moved with them. Someone saying *this is the time of year we left*, and the children asking why. The first answers would be honest and incomplete: because we wanted something that wasn't behind us. Because the harvest had started to mean more than the district would put on a form. Children born after Serath would do the same marking without quite knowing why that time of year felt weighted — or what they had been carried away from. Eventually it would have a shape, and a name, and a story that got the facts approximately right and the feeling exactly right — and forgot the danger under the banners.
 
 She did not know what it would look like. She thought it would probably start small, as everything does. She thought it would probably last.
 
@@ -207,49 +209,51 @@ He left it for her and started the new forms.
 
 ---
 
-On day forty-one the survey consortium found a system.
+In the one hundred forty-first year the survey consortium found a system.
 
-It was not dramatic in the way Yeva had half-expected. What happened was that Halcen, on first watch, said to the navigator quietly that the spectral return on the third body looked promising, and the navigator checked, and said yes, and sent the notation to the convoy coordinator, who woke Torin, who read it and said to call the leads.
+None of the people at the common table had stood on Serath's dock. Halcen's name was a watch rotation and a margin habit. Torin's bearing notes lived in copies of copies. Yeva's log hand was taught in the children's archive hour as *founding teacher, autumn cohort*, which was accurate and not enough.
 
-By the time Yeva came to the common table there were seven people standing around the display arguing calmly about what the readings meant. Maren appeared behind her and looked at the display with patient interest.
+What happened was that the duty surveyor on first watch — a woman named Kell who had Halcen's patience without having known his face — said to the navigator quietly that the spectral return on the third body looked promising, and the navigator checked, and said yes, and sent the notation to the convoy coordinator, who woke the leads.
 
-"Is that it?" Maren asked.
+By the time the leads gathered there were seven people standing around the display arguing calmly about what the readings meant. Sava came in late from the agricultural bay — Maren's great-granddaughter, forty-one years old, carrying a grain figure that had outlived everyone who remembered Serath firsthand. She looked at the display with the patience of a convoy that had stopped pretending the wait was temporary three generations ago.
 
-"Probably," Yeva said.
+"Is that it?" Sava asked.
+
+"Probably," Kell said.
 
 "It's small."
 
-"They all start small."
+"They all start small," someone said, and nobody could remember who had said it first in the family line.
 
-Maren considered this. She set her grain figure on the table beside the display — not a meaningful gesture, except that she was eight years old and it was what she had.
+Sava set the grain figure on the table beside the display — not a child's gesture, and still the same gesture. Kell looked at it and then at the display. "We'll need a name for the record," she said. She said it practically.
 
-Halcen looked at it and then at the display. "We'll need a name for the record," he said. He said it practically.
+"We'll figure it out," the coordinator said.
 
-"We'll figure it out," Torin said.
+"Now," Kell said. "Whatever we call it, the first notation sets it. You rename later if you need to, but the first notation stays in the record."
 
-"Now," Halcen said. "Whatever we call it, the first notation sets it. You rename later if you need to, but the first notation stays in the record."
+The people around the table were quiet for a moment. All of them had been born in corridors. Serath was a plaque story, a cedar smell nobody could verify, a third movement slowed on festival nights because the archive said that was how it went.
 
-The people around the table were quiet for a moment.
+Sava opened the sealed instruction Yeva had filed in year twelve and that Maren had made her swear to open only at first candidate system. The slate was worn. The hand was steady.
 
-Yeva thought about the autumn cohort entry that Arvos Kastal had written in Serath District, the harvest festival timing noted in the supplementary field, *consistent with established colonial tradition.* She thought about Petra's face behind the barrier rail and the grain bundle and *whatever you build from here, you began here,* which she had not been able to stop remembering.
+It named the district the earliest surveyors had come from, three centuries before Serath, the old name carved on plaques most people walked past without reading. Yeva had written: *So the record can say we came from somewhere. So they know we were getting our children past a harvest that had started to mean more than we could put on a form.*
 
-She said the name of the district the earliest surveyors had come from, three centuries back, before Serath was the name. The old name, the one still carved on the oldest plaques in the district corridors, that most people walked past without reading.
+Sava read the name aloud.
 
-She did not say it because it was sentimental. She said it because it would mean something in the record, a line that could be traced back if anyone ever wanted to, a way of saying *we came from somewhere.* And because she was forty-one days past the survey edge and beginning to understand that the things she had tried to memorize — the cedar smell, the lanterns, the third movement slowing — would not stay the way she had held them, and the record was the only part that might.
+She did not say it because she had smelled the cedar. She said it because the instruction said to, and because a hundred forty-one years past the survey edge the things the first generation had tried to memorize had not stayed, and the record was the only part that might — including the part about why the leaving had been timed to harvest at all.
 
-Halcen wrote it down.
+Kell wrote it down.
 
-He wrote: *Day 41 survey notation: candidate system, bearing as recorded. Designated provisional. Heritage grain stock intact. Full cohort present. Recommend formal assessment.*
+She wrote: *Year 141 survey notation: candidate system, bearing as recorded. Designated provisional. Heritage grain stock intact. Founding cohort descent present. Recommend formal assessment.*
 
-He did not write: *This is the beginning of something.* He did not need to. Outside the viewports, the new system hung in the dark — small, and already named.
+She did not write: *This is the beginning of something.* She did not need to. Outside the viewports, the new system hung in the dark — small, and already named.
 
 ---
 
-In Serath District, the autumn cohort's departure forms went into the seasonal records under the harvest festival notation, cross-referenced against three prior departures and the Valdorn corridor cohort. Accurate. Complete. And missing the one thing they couldn't record — that forty-three families had carried the season's grain into uncatalogued space, and would remember this as the season they began. What they'd left behind would remember it as the season they went.
+In Serath District, the autumn cohort's departure forms went into the seasonal records under the harvest festival notation, cross-referenced against three prior departures and the Valdorn corridor cohort. Accurate. Complete. And missing the one thing they couldn't record — that forty-three families had carried the harvest's grain into uncatalogued space to get their children past a harvest that was already becoming something else, and would remember this as the year they began. What they'd left behind would remember it as the year they went.
 
 The gold banners came down at the end of harvest week, folded carefully, stored with cedar oil, ready for next autumn.
 
-On the new world, forty-one days and one system away, Maren's grain figure sat on a shelf that did not exist yet, in a room that would one day be called the first permanent structure. The season would come again there, as it came everywhere. They would mark it, because people mark things.
+On the new world, a hundred forty-one years and one system away, Maren's grain figure sat on a shelf that did not exist yet, in a room that would one day be called the first permanent structure. Harvest would come again there, as it came everywhere. They would mark it, because people mark things — and because they had already been marking it for generations without a world under them, long enough for the leaving to become the story and the danger under the banners to thin into tradition.
 
 They would not know the banners were already going up again on the other side of the survey edge.
 

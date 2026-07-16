@@ -47,8 +47,7 @@ Rowan kept the corridor narrow, because narrow was what bitter competence could 
 
 Outside the draft glass, Helion's civic promenade kept hanging copper cloth for a season that had not paused for ash. Ordinary civilization kept practicing joy and mourning on the same calendar. The map had not paused for signatures either.
 
-❦
-
+---
 ***HELION — ACCORD INSTRUMENT ANNEX***
 *TEXT / SUNSETS*
 
@@ -88,8 +87,7 @@ Outside the annex glass, a Founders' Week committee clerk argued whether childre
 
 The work continued.
 
-❦
-
+---
 ***HELION — RATIFICATION CHAMBER***
 *SIGNING WITHOUT PARADE*
 
@@ -141,8 +139,7 @@ Outside the chamber glass, Helion kept hanging copper cloth. A memorial cart rol
 
 Not optimism. Not alliance. Not finished certainty. Trust remained harder than war.
 
-❦
-
+---
 ***HELION — HISTORICAL OFFICE / ELLIS CODA***
 *MEMORY UNDER SEAL*
 
@@ -170,6 +167,5 @@ Ellis closed the drawer without pretending the answer was comfort. Instruments e
 
 Outside the exhibit glass, Tag Twelve's amber densification still climbed. The map had not paused for signatures. Cooperation instruments existed. Not optimism. Not alliance. Not finished certainty. Trust remained harder than war. The next corridor waited toward the moving frontier.
 
-❦
-
+---
 **END CHAPTER 23**

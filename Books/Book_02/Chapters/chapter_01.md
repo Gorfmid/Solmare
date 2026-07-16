@@ -540,8 +540,7 @@ It would be there again the next time he accessed the V21 sector index.
 
 He left that alone and went to bed.
 
-❦
-
+---
 ***KESTREL VEIL — COMMAND DECK***
 *WATCH CHANGE*
 
@@ -615,6 +614,5 @@ Whether it knew the charts existed was not a question anyone on the ship could a
 
 The watch continued.
 
-❦
-
+---
 **END CHAPTER 1**

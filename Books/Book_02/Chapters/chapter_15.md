@@ -45,8 +45,7 @@ Outside the annex glass, ordinary life kept happening in the ordinary way it ins
 
 "Bring me the dual readings," she said. "Then we can argue nouns, where arguing costs less than inventing certainty."
 
-❦
-
+---
 ***CONTACT NODE SEVEN — SYNTHESIS TABLE***
 *THE FRAME*
 
@@ -102,8 +101,7 @@ Ellis wrote the note in plain language and sent it up sealed: a working frame, n
 
 "Council can have comfort once the evidence earns it," Ellis said. "Tonight it's earned a frame. A frame's not a motive. It's how a real proof becomes possible later, without lying first to get there."
 
-❦
-
+---
 ***CONTACT NODE SEVEN — SIGNAL BAY***
 *CHANNELS, NOT CONVERSATIONS*
 
@@ -159,8 +157,7 @@ Orlen posted the note under seal: structure confirmed, meaning impossible, warni
 
 The dictionary stayed exactly where it had always been: absent.
 
-❦
-
+---
 ***HELION — COUNCIL NUMBERS ROOM***
 *A THESIS SPENDING ITSELF*
 
@@ -196,8 +193,7 @@ Outside the numbers room, Helion kept moving the way cities always kept moving, 
 
 Ellis kept both truths visible, because someone had to, and went back to work.
 
-❦
-
+---
 ***CONTACT NODE SEVEN — NIGHT CYCLE***
 *HUNGER WITH A SHAPE*
 

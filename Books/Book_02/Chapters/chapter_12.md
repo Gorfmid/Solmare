@@ -81,8 +81,7 @@ Dependency had begun.
 
 Nobody clapped.
 
-❦
-
+---
 ***JOINT PLANNING ANNEX — CULTURE COLLISION***
 *CONTACT NODE SEVEN FEED / HYBRID PLAN*
 
@@ -171,8 +170,7 @@ The hybrid plan locked under protest notes.
 
 Coffee sat. Tea sat. Work continued.
 
-❦
-
+---
 ***FRINGE FREIGHT WINDOW — JOINT ACTION UNDER LOAD***
 *KESTREL VEIL / IRON HARROW*
 
@@ -288,8 +286,7 @@ The freight corridor cleared enough to breathe.
 
 The residual did not apologize.
 
-❦
-
+---
 ***AFTER-ACTION — COMPETING NARRATIVES***
 *CONTACT NODE SEVEN / HELION LAG / CIVIL GOVERNMENT LAG*
 
@@ -363,8 +360,7 @@ Joint instruments had survived.
 
 Barely.
 
-❦
-
+---
 ***LEXICON CLOSE — PARK'S CEILING***
 *KESTREL VEIL / IRON HARROW FEED*
 
@@ -414,8 +410,7 @@ Human channels had improved.
 
 The external pressure did not care.
 
-❦
-
+---
 ***HOLD STATION — ACT III ADVANCE***
 *KESTREL VEIL / IRON HARROW*
 
@@ -463,6 +458,5 @@ Hulls held station.
 
 The work continued.
 
-❦
-
+---
 **END CHAPTER 12**

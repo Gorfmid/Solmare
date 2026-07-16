@@ -99,8 +99,7 @@ The system did not answer like a battlefield.
 
 It answered like a quarry that had closed.
 
-❦
-
+---
 ***FOUNDERS' REACH — ORBITAL / PRIMARY LANDMASS CORRIDOR***
 *RESIDUAL FORENSICS*
 
@@ -215,8 +214,7 @@ They lifted.
 
 Beneath them, Founders' Reach continued being a finished node on a graph that did not care what Fleet called grief.
 
-❦
-
+---
 ***KESTREL VEIL — JOINT BRIEF COMPARTMENT***
 *DOMINION OVERLAY / SANITIZED PATTERN LIBRARY*
 
@@ -316,8 +314,7 @@ Necessity remained ugly.
 
 It also remained the condition they had.
 
-❦
-
+---
 ***KESTREL VEIL — COMMAND BRIEFING NOOK***
 *RECON PRODUCT FINALIZATION*
 
@@ -409,8 +406,7 @@ That was still not friendship.
 
 It was the work.
 
-❦
-
+---
 ***NEW MERIDIAN — CIVILIAN AFFAIRS ANNEX / KESTREL MESS OVERLAY***
 *ORDINARY LIFE FRACTURE*
 
@@ -452,8 +448,7 @@ Nobody underlined that.
 
 The feeling was enough.
 
-❦
-
+---
 ***KESTREL VEIL — BRIDGE***
 *CLASSIFICATION CLEAR / SECOND FRINGE ALERT*
 
@@ -519,6 +514,5 @@ He gave it a clean packet and a watch that stayed awake.
 
 The work continued toward the next node.
 
-❦
-
+---
 **END CHAPTER 5**

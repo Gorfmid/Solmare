@@ -79,8 +79,7 @@ The crew moved.
 
 Joint orders held station the way funerals held station: without asking whether anyone liked them.
 
-❦
-
+---
 ***BUFFER TEACHING ANNEX — PATTERN LANGUAGE ONLY***
 *IRON HARROW FEED / KESTREL VEIL ATTENDING*
 
@@ -168,8 +167,7 @@ Competence did.
 
 That was enough for a buffer. It was not enough for a civilization.
 
-❦
-
+---
 ***FORENSIC REVIEW — PELIGAR-ADJACENT RETURNS***
 *IRON HARROW SECONDARY PLOT / JOINT FEED*
 
@@ -255,8 +253,7 @@ Hatred would have been cleaner.
 
 Cleaner was not available.
 
-❦
-
+---
 ***PRIVATE CHANNEL — MIRROR WITHOUT HANDSHAKE***
 *COMMANDER TO CAPTAIN / NO GALLERY / NO MINDERS*
 
@@ -352,8 +349,7 @@ Friendship had not arrived.
 
 The space between those facts remained the only honest room left.
 
-❦
-
+---
 ***ACT III CLOSE — JOINT MAP PRODUCT***
 *CONTACT NODE SEVEN / IRON HARROW / KESTREL VEIL*
 
@@ -431,6 +427,5 @@ Hulls held station.
 
 The work continued.
 
-❦
-
+---
 **END CHAPTER 13**

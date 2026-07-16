@@ -65,8 +65,7 @@ She felt wonder and dread in the same breath and refused to decorate either feel
 
 Ellis began.
 
-❦
-
+---
 ***HELION — ARCHIVE READING ROOM THREE***
 *EDITION DISCREPANCY / CONVOY FRAGMENT*
 
@@ -182,8 +181,7 @@ Ellis looked again at Edition 94's deleted footnote and the convoy fragment's ha
 
 "Incomplete," she said. "Logged."
 
-❦
-
+---
 ***HELION — CIVIC WING FOUNDERS' WEEK PREP GALLERY***
 *CAPTION FIGHT / NARRATIVE HYGIENE AS PATRIOTISM*
 
@@ -271,8 +269,7 @@ Ellis took it as duty.
 
 She left the gallery before anyone could thank her for restraint she had not offered as a gift. Behind her, the choir tried the procession line again, careful and hopeful, as if hope were a rehearsal skill. Maybe it was. Ellis did not stay to decide.
 
-❦
-
+---
 ***CONTACT NODE SEVEN — SANCTIONED CROSS-CHANNEL ARCHIVE WINDOW***
 *SUNSET AND VETO / GUARDED EXCHANGE*
 
@@ -352,8 +349,7 @@ Hale sat back. "You have a rumor of a rumor and a deleted footnote. That is not 
 
 Neve stood. "Alive and classified are about to become the same sentence. Come with me."
 
-❦
-
+---
 ***HELION — HISTORICAL OFFICE SEALED ANNEX***
 *PARALLEL CATEGORY ERROR / HANDLER ESCALATION*
 
@@ -465,6 +461,5 @@ Ellis sat down, set the classified concordance out of easy reach, and began read
 
 Work continued.
 
-❦
-
+---
 **END CHAPTER 11**

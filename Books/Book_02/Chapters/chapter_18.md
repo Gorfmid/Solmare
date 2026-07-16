@@ -33,8 +33,7 @@ Hadd laid out the joint task list the way a man lays out tools he already suspec
 
 Hulls held station. The clock ran.
 
-❦
-
+---
 ***TAG TWELVE APPROACH ARC***
 *THE PRICE OF A NARROW WINDOW*
 
@@ -60,8 +59,7 @@ Calder honored it inside the same breath this time, the way he'd promised himsel
 
 The processing sequence slowed. It did not stop. It stuttered along one metal-rich band long enough for an evacuation screen to pull a medical packet and two haulers off the outer ring, and one assist crew stayed behind with a hold, because there was always, on every one of these nights, someone who stayed.
 
-❦
-
+---
 ***TAG TWELVE OUTER RING***
 *THE BILL*
 
@@ -89,8 +87,7 @@ They held. The medical packet cleared. The processing continued at a reduced rat
 
 "You predicted me," Vex said. "Don't ask either capital to celebrate that. Celebration is how institutions invent a readiness they haven't earned."
 
-❦
-
+---
 ***CONTACT NODE SEVEN — AFTER-ACTION***
 *THE QUESTION UNDERNEATH THE INVOICE*
 
@@ -112,8 +109,7 @@ The room went quiet in a way that had nothing to do with grief markets.
 
 "I'm asking for whatever it takes to see something before it's already a funeral," Calder said. "If that means recon, then yes."
 
-❦
-
+---
 ***CIVIL GOVERNMENT DEPTH — THE COST OF SEEING***
 *CLOAK*
 
@@ -153,8 +149,7 @@ Vex looked at him once across the table — not warmth, not friendship, the same
 
 "Sail toward it, then," Vex said. "Predict me. I'll predict you. That's still the entire available product too."
 
-❦
-
+---
 ***CONTACT NODE SEVEN — ACT IV CLOSES***
 *STILL CARRYING IT*
 

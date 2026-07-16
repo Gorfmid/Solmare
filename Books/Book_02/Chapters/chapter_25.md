@@ -49,8 +49,7 @@ Thessaly put the next rotation on the wall before anyone finished arranging triu
 
 Instruments proven real and narrow. Non-alliance reiterated the moment someone asked for more. Field officers still distrusted symbolism. The instruments kept working anyway.
 
-❦
-
+---
 ***HELION — SECURITY COUNCIL ANNEX***
 *POLITICAL REMAINDER / WEEK THREE*
 
@@ -86,8 +85,7 @@ Ellis secured the object set under seal, logging the Accord's meaning beside the
 
 Helion celebrated beginnings. The fringe kept answering in amber densification. That was the political remainder. Not despair. Not triumph. Dread that still intended to work.
 
-❦
-
+---
 ***KESTREL VEIL — THE SECOND OFFER***
 *NOT AT THIS TIME / THIS TIME*
 
@@ -127,8 +125,7 @@ It was not a speech. Neither of them tried to make it one. She took the slate ba
 
 She almost smiled at that — the closest either of them came to anything ceremonial — and then went back to the slate, because the rotation still needed writing and the Accord did not pause for departures any more than it had paused for signatures.
 
-❦
-
+---
 ***KESTREL VEIL — QUIET CHANNEL / CHARACTER CLOSURE***
 
 Calder stood on *Kestrel Veil*'s lower observation rail after the political remainder closed and priced the unfinished map the way he priced every corridor under load.
@@ -149,8 +146,7 @@ Calder looked at her the way he looked at every officer who'd become predictable
 
 She checked the joint task bill once more and moved one Long Watch runner off dual-feed duty, because he hadn't slept since Holdfast Three and still refused to invent hatred for convenience. Command weight sat on her shoulders with a ship's name attached to it now — not the same thing as needing a speech. Helion had asked twice, and the second time she'd let herself hear it as recognition instead of a wound reopening. She refused to convert either into comfort cloth, and kept the watch bill: one more for *Kestrel*, then a longer one, for a crew she hadn't met yet, on a ship that had already survived losing half its sister once.
 
-❦
-
+---
 ***IRON HARROW — LONG WATCH RAIL***
 
 Vex stood on *Iron Harrow*'s rail with gloves on and Holdfast Three's unfinished names under his slate. Tea sat at his elbow as continuity habit. He read names before boards the way Long Watch always read them — not theater, preparation identity that refused to invent hatred for convenience.
@@ -167,8 +163,7 @@ Calder attended on the twin long enough for one closing beat neither capital had
 
 He did not smile. He did not flinch. Respect locked, loss carried, never sentimentalized into friendship. That was Dominion closing weather. It was enough.
 
-❦
-
+---
 ***CONTACT NODE SEVEN — WHAT NEITHER OF THEM SAID***
 
 Fleet Communications Command finally admitted that a field liaison made more sense posted where the field actually was, and transferred Dana Holt to Contact Node Seven three days into Week Three — which meant Park no longer had to fly a supply hop and a promise just to see her.
@@ -197,8 +192,7 @@ Holt seemed to know exactly what he hadn't asked. She'd learned, across four mon
 
 "After the renewal review," she agreed, and that was as far as either of them took it — further than it had ever gone before, and nowhere near as far as it was eventually going.
 
-❦
-
+---
 ***HELION — HISTORICAL OFFICE CUSTODY***
 
 Ellis stood before a Founders' Week display that still told the wrong story to the public. Copper cloth. First-departure marks. Children's pageant props. Ordinary civilization practicing joy while sealed rooms kept unfinished truth live.
@@ -211,8 +205,7 @@ A junior clerk asked once, practical and hungry for cleaner minutes, whether Wee
 
 She secured the drawer. Dual custody. Sealed and live. No wall text. No finished myth. Partial archive survived. Series history stayed unfinished. Austere hope did not authorize erasure. Work continued.
 
-❦
-
+---
 ***CONTACT NODE SEVEN — JOINT PLOT***
 *THE MAP STILL MOVES*
 
@@ -250,8 +243,7 @@ The question traveled with the next schedule: if this is not alliance, what happ
 
 Hulls held station on lag screens. The frontier kept moving. The work continued under unfinished fear.
 
-❦
-
+---
 **END CHAPTER 25**
 
 **END OF BOOK TWO**

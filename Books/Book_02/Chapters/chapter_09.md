@@ -75,8 +75,7 @@ On *Iron Harrow*'s feed, Vex did not congratulate anyone for surviving courtesy.
 
 The patrol began.
 
-❦
-
+---
 ***JOINT WATCH — FRINGE TRAFFIC***
 *AMBIGUOUS CONTACT / DOCTRINE CLOCKS*
 
@@ -226,8 +225,7 @@ Near-failure had arrived for reasons that were not betrayal: incompatible clocks
 
 Trust arrived damaged and tested at the same time, which was the only way it seemed able to arrive at all.
 
-❦
-
+---
 ***KESTREL VEIL — JOINT PROCEDURE ANNEX***
 *THESSALY'S PATCH*
 
@@ -309,8 +307,7 @@ Calder saw it and did not resent it. Resentment was still a luxury the contour d
 
 Outside the annex, the freighter's emergency band went quiet as the tow secured. Inside, First Accord practice existed as a field patch with protest notes attached. No cloth. No blessing. Continuity anyway.
 
-❦
-
+---
 ***IRON HARROW / KESTREL VEIL — SECURE JOINT CHANNEL***
 *AFTER-ACTION WITHOUT ABSOLUTION*
 
@@ -368,8 +365,7 @@ Neither smiled. Prediction without affection was still prediction.
 
 The channel held. The work continued.
 
-❦
-
+---
 ***KESTREL VEIL — LEXICON ALCOVE***
 *PARK'S PROTOCOL SCAR*
 
@@ -411,8 +407,7 @@ On his way out of the alcove he passed the aft mess. A Dominion runner and a Fle
 
 The work continued.
 
-❦
-
+---
 ***FRINGE OBSERVATION ARC — JOINT PACKAGE ONE CLOSE***
 *SECOND EVOLUTION PENDING*
 
@@ -452,6 +447,5 @@ Operational trust remained embryonic.
 
 The second crossing was already on the board.
 
-❦
-
+---
 **END CHAPTER 9**

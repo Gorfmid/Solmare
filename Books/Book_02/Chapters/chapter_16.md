@@ -37,8 +37,7 @@ A logistics captain asked from the wall, plainly, without theater. "Which system
 
 He signed the order with coffee going cold at his elbow and no comfort attached to any of it.
 
-❦
-
+---
 ***CONTACT NODE SEVEN — ASSIST YARD NINE***
 *THE WINDOW*
 
@@ -100,8 +99,7 @@ The medical packet cleared. Family A cleared with what they could carry and what
 
 Hadd swore, mild and useless, when the hold went dark on the live net without any distress signal at all. Just an absence. Just a window that had closed on two named people while every instrument in the room had stayed competent and every capital involved had stayed hungry for a cleaner story than the one they were actually going to get.
 
-❦
-
+---
 ***KESTREL VEIL — AFTER***
 *WHAT HE COULD NOT WRITE*
 
@@ -141,8 +139,7 @@ She left him with the tray she'd brought and hadn't mentioned once, and he ate h
 
 He did not sleep that night. He told himself it was the report keeping him up, and knew, lying in the dark with his eyes open, that it wasn't.
 
-❦
-
+---
 ***CIVIL GOVERNMENT DEPTH — THE OTHER LEDGER***
 *WAR EXHAUSTION*
 
@@ -166,8 +163,7 @@ Outside the rain screen, a small funeral procession moved along the lower plaza 
 
 "No moral victory," she said, to nobody in particular, closing the packet. "Just freight, and a civilization still arguing whether preparation can survive a neighbor who invented weather nobody asked for."
 
-❦
-
+---
 ***CONTACT NODE SEVEN — THE COMMUNIQUÉ***
 *UNPAID NAMES*
 

@@ -63,8 +63,7 @@ Rowan stood. The chair complained. He ignored it.
 
 "Then we work both rooms," he said. "Sealed first. Gallery second. Do not let either write the other by accident."
 
-❦
-
+---
 ***HELION — FIB / DOCTRINE CLOSED BRIEF***
 *CLASSIFIED CONTAINMENT*
 
@@ -110,8 +109,7 @@ The liaison stood. "Gallery in twenty minutes. They already have questions."
 
 "They always do," Rowan said. "Answer with what we can certify. Refuse the rest out loud."
 
-❦
-
+---
 ***HELION — COUNCIL OPEN GALLERY***
 *PUBLIC PRESSURE / MEMORIAL POLITICS*
 
@@ -149,8 +147,7 @@ Rowan ended the statement the only way he could without lying.
 
 He left through the side door before the banners could turn the session into a wake with voting rights.
 
-❦
-
+---
 ***KESTREL VEIL — BRIDGE***
 *ORCHARD COMPACT WATCH / CONTRADICTORY GUIDANCE*
 
@@ -224,8 +221,7 @@ He thought of Voss's ordinary morning packet from a place that no longer answere
 
 Outside, Founders' Reach remained a finished node under a G-type sun that did not care about hearings. Farther along the arc, Orchard Compact flickered between weather and something worse. Calder stood between them and did the mediator's unglamorous work: keep the map from lying faster than the people could survive.
 
-❦
-
+---
 ***CONTACT NODE SEVEN — JOINT CHANNEL***
 *DOMINION WATCH EXCHANGE / DEPTH REQUEST*
 
@@ -281,8 +277,7 @@ Neither smiled. The conditions held because both sides expected the other to tes
 
 The channel closed on work, not consolation.
 
-❦
-
+---
 ***HELION — DOCTRINE BUREAU HEARING ROOM***
 *FIRST DOCTRINE WARTIME AMENDMENT / SESSION ONE*
 
@@ -326,8 +321,7 @@ Rowan stood. The room had already said the hard thing in plainer words than any 
 
 "Work continues," he said. "Keep the argument visible. Do not pretend consensus."
 
-❦
-
+---
 ***NEW MERIDIAN — FREIGHT TERMINAL / CIVILIAN AFFAIRS***
 *EVACUATION HOLDS / ORDINARY LIFE*
 
@@ -357,8 +351,7 @@ Nobody needed a lecture to feel the scale.
 
 Ordinary civilization continued scheduling itself around missing places, and the schedule was already smoking at the edges.
 
-❦
-
+---
 ***KESTREL VEIL — BRIDGE***
 *THIRD PRESSURE / LOCAL JUDGMENT*
 
@@ -394,8 +387,7 @@ Calder stood at the dual plot and did not give the burning a poem. He gave it a 
 
 Necessity louder. Trust still absent. The work did not pause for either condition.
 
-❦
-
+---
 ***HELION — FLEET COMMAND ANNEX***
 *CASUALTY PRODUCT DEMAND*
 
@@ -441,6 +433,5 @@ Work continuing. Trust absent. Necessity loud enough to drown both.
 
 The fringe kept burning.
 
-❦
-
+---
 **END CHAPTER 6**

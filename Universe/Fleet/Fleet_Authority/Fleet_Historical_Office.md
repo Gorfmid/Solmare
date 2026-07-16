@@ -45,7 +45,7 @@ Act IV may use Historical Office as **institutional denial** or **slow honest re
 ## 4. Likely Assumptions
 
 - Fleet expansion is the primary civilizing force in surveyed space.
-- Neutral Zone history is **buffer**, not shared inheritance — though the **name** survives from older cartographic vocabulary.
+- Neutral Zone history (post-contact) is **buffer politics**, not shared inheritance — do not treat the name as founding-era vocabulary.
 - Frontier campaigns were **edited down** in public curricula; Founders' Week emphasizes beginnings, not what was left behind.
 - Old infrastructure beyond the border is **unclaimed** until Fleet dates it.
 - Founders' Week is about Fleet origins, not maintenance schedules on foreign lanes.

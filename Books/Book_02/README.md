@@ -1,6 +1,6 @@
 # Book Two — The Solmare Cycle
 
-**Status:** Writing Pass complete — awaiting author read (not Final Lock)  
+**Status:** Prelude **Final Candidate** · Ch. 1–25 **Revision Pass** (not Final Lock)  
 **Working title:** TBD — folder remains `Book_02` until a title is locked  
 **Working theme:** **Trust is harder than war.**  
 **Time gap:** ~18 months after Book One
@@ -14,7 +14,22 @@ Book One was discovery — learning to observe before judging. Book Two asks whe
 ## Chapters (manuscript)
 
 Output: [`Chapters/`](Chapters/) — `prelude.md`, `chapter_01.md` … `chapter_25.md`  
-~141,900 words · Status: **WRITING PASS**
+~142,400 words · Stages: Prelude **Final Candidate**; Ch. 1–25 **Revision Pass**
+
+### Chapter formatting (match Book One)
+
+Same authoring conventions as Book One `Chapters/`:
+
+| Element | Form |
+|---------|------|
+| Title | `# Chapter N` then `## Title` |
+| Scene break | `---` on its own line (publication build converts to the ❦ ornament) |
+| Location header | `***LOCATION — DETAIL***` then optional `*STATUS LINE*` |
+| Chapter ornament image | `Manuscript/assets/chapter_logo.png` — injected at chapter open by manuscript build (same asset pattern as Book One) |
+
+Do **not** hand-place alternate break glyphs in source. Prefer `---` so Book Two can share Book One’s build pipeline.
+
+Publication assets: [`Manuscript/assets/`](Manuscript/assets/) (includes `chapter_logo.png`).
 
 ## Planning documents
 

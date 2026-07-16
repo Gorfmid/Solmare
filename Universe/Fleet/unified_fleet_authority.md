@@ -7,7 +7,7 @@
 
 **Strategic mirror:** `Universe/The_Dominion/dominion_worldview.md` — Fleet and Dominion interpret the same events through different security doctrines. Neither believes itself the aggressor.
 
-**Frontier history:** `Universe/Fleet/fleet_dominion_frontier_history.md` — Neutral Zone, breakaway founding, asymmetric memory, expansion collision (authoritative).
+**Frontier history:** `Universe/Fleet/fleet_dominion_frontier_history.md` — breakaway founding (~800 years), multi-wave convoys, colony absorption, asymmetric memory; **Neutral Zone = post-contact product** (authoritative).
 
 ## Ideology
 
@@ -20,7 +20,7 @@ Order through controlled expansion. Stability over autonomy.
 - Unclaimed space should be explored; borders move outward naturally
 - *The unknown exists to be explored.*
 
-Fleet Authority is **young in self-mythology** — Founders' Week, Relay Charter, prospective expansion — even though the polity is centuries old. The Dominion has watched this expansion for decades and interprets it as existential pressure on strategic depth. Dominion institutional memory retains the **breakaway founding**; Fleet public memory does not. See `fleet_dominion_frontier_history.md`.
+Fleet Authority is **young in self-mythology** — Founders' Week, Relay Charter, prospective expansion — even though the polity is ~**800 years** old. Pre-contact frontier is **uncharted / empty-on-the-chart** space, not a named Neutral Zone. After peer discovery, the Neutral Zone becomes an institutional buffer label. Dominion institutional memory retains the **breakaway founding**; Fleet public memory does not. See `fleet_dominion_frontier_history.md`.
 
 **Cultural memory:** Fleet characters think **prospectively** — exploration, recent discoveries, new colonies, current missions, living pioneers. Dominion characters think **historically**. Show the difference; never explain it. See `Writing_System/Series_Principles/cultural_identity_and_philosophical_foundation.md`.
 

@@ -39,8 +39,7 @@ He nodded, once, and didn't argue, which told her more about how tired he actual
 
 "Eat the rest of the tray," she said, on her way out. "I'm not carrying you through Tag Twelve on half a meal from two nights ago."
 
-❦
-
+---
 ***CONTACT NODE SEVEN — TAG TWELVE***
 *WHICH CONFIRMED*
 
@@ -84,8 +83,7 @@ Calder felt something that wasn't quite relief settle into him. He had moved in 
 
 "Next session," he said. "Wartime observation amendment. Bring Hale. Bring Vex. The procedures are already broken. The only question left is whether we admit it in writing before the next amber turns into a funeral."
 
-❦
-
+---
 ***HELION — DOCTRINE BUREAU***
 *A FIGHT, NOT A MEMO*
 
@@ -121,8 +119,7 @@ Thessaly cut through before the room could keep circling. "Issue it. Then give m
 
 Calder left the annex with doctrine doubt sitting fully awake in him now, and no cleaner enemy anywhere to lean against.
 
-❦
-
+---
 ***CONTACT NODE SEVEN — THE CHECKLIST***
 *WHO SPEAKS, WHO FIRES, WHO ABORTS*
 
@@ -156,8 +153,7 @@ The medical packet cleared. Vex watched the correction happen and didn't punish 
 
 "I'm not asking for friendship," Thessaly said. "I'm asking whether both bridges can predict an abort when scared. Today, they could."
 
-❦
-
+---
 ***KESTREL VEIL — THE OFFER***
 *WHAT SHE DECLINED*
 
@@ -191,8 +187,7 @@ It was the most she'd ever told him about it, and he understood, from the carefu
 
 She sent her decline that night, polite, brief, no explanation beyond *not at this time.* Fleet Personnel would ask again eventually — she knew that the way she knew most things about the machinery she worked inside — and she filed the knowledge of that future conversation next to the one she'd just had, and went back to the watch bill, because the watch bill, at least, was a kind of command she already trusted herself to hold.
 
-❦
-
+---
 ***HELION — AUTHORIZATION UNDER FAILURE***
 *NOT BECAUSE THE PLAN IS SOUND*
 

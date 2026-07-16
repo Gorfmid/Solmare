@@ -69,8 +69,7 @@ Rowan's reply came back dry and half-blind. *Hold under seal. Bring the Dominion
 
 Ellis closed the drawer without pretending the answer was comfort. The archive had stopped asking nicely.
 
-❦
-
+---
 ***HELION — JOINT CLASSIFIED CHANNEL / CIVIL GOVERNMENT TWIN***
 *PARTIAL CONFIRMATION*
 
@@ -128,8 +127,7 @@ Ellis logged the partial confirmation under dual seal. Departure root remained p
 
 Outside the twin glass, a Dominion junior clerk argued a leave conflict with a supervisor who kept pointing at sealed product as if seasons could be negotiated into silence. Ordinary life continued on both sides of the glass. That was the point of sealed rooms. They had to decide anyway.
 
-❦
-
+---
 ***HELION — COMMAND ANNEX / DISCLOSURE FIGHT***
 *WEAPONIZE OR BURY*
 
@@ -151,8 +149,7 @@ A junior clerk posted the annex summary while Founders' Week cloth argued copper
 
 It would not hold forever. And somewhere past the edge of every map in the annex, a Dominion corvette with no name on any Fleet manifest was still running dark toward the answer none of them had yet.
 
-❦
-
+---
 ***LONG FATHOM — BEYOND THE CONTOUR***
 *PASSIVE ONLY*
 
@@ -196,8 +193,7 @@ Vex looked at Calder once, gloves on, expression unreadable in the low light Dom
 
 *Long Fathom* went dark and quiet and kept moving, past every line anyone alive had verified, toward the shape ahead that had not yet decided it cared they were there.
 
-❦
-
+---
 ***LONG FATHOM — THE PROCESSING FRONT***
 *WHAT HE EXPECTED / WHAT WAS THERE*
 
@@ -233,8 +229,7 @@ They were talking to each other. Over the wreck of a system that used to have fo
 
 Nobody on *Long Fathom* answered. Nobody could. That silence was the entire mission.
 
-❦
-
+---
 ***LONG FATHOM — WHAT THE TWELVE MINUTES BOUGHT***
 *EGRESS*
 
@@ -258,8 +253,7 @@ Vex did not offer comfort. It was not in him to offer it, and Calder no longer w
 
 He did not sleep during the transit back. He told himself it was the field budget keeping him alert, watching Solan's slate the way he had once watched confirmation grades, and knew, lying in the dark berth with his eyes open, that it wasn't.
 
-❦
-
+---
 ***HELION — JOINT TABLE, NIGHT WATCH***
 *NO WORD YET*
 
@@ -275,6 +269,5 @@ She wrote one line into the quiet channel before the watch turned over: *Recon t
 
 Few would read it. That was why it mattered.
 
-❦
-
+---
 **END CHAPTER 20**

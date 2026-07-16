@@ -119,8 +119,7 @@ Park nodded. That was the instruction he needed, and the one he disliked.
 
 "My grandmother used to say readiness is what you bring when the room is already wrong," Orlen said. "So yes."
 
-❦
-
+---
 ***CONTACT NODE SEVEN — LANGUAGE SUITE***
 *HUMAN CHANNEL WORK*
 
@@ -222,8 +221,7 @@ Vorin keyed the dual-consent recorder off and packed the morning slate copies in
 
 Orlen poured tea for the afternoon session and set Park's coffee urn back within his reach without comment. Civilization texture, not friendship. He took it as the respect it was.
 
-❦
-
+---
 ***CONTACT NODE SEVEN — ANALYSIS COMPARTMENT***
 *INTERCEPT REVIEW*
 
@@ -367,8 +365,7 @@ He sat with that until the compartment emptied around the work that still needed
 
 On the way back to the language suite, Park stopped at the anteroom viewport and looked at the corridor traffic without seeing ship classes. He was listening for the absence of a category. The distress flag had been a place to put fear. Language-without-meaning was a place to put ignorance. Ignorance was heavier, and more honest, and it would not let him sleep any better.
 
-❦
-
+---
 ***CONTACT NODE SEVEN — OPERATIONS RELAY***
 *JOINT STATUS EXCHANGE*
 
@@ -454,8 +451,7 @@ Orlen had appeared in the doorway, notebook still open. "Then we keep it visible
 
 The room exhaled into work again. Suspicion did not leave. It simply put its hands back on the tools.
 
-❦
-
+---
 ***CONTACT NODE SEVEN — PROTOCOL ROOM***
 *DISCLOSURE LIMITS*
 
@@ -577,6 +573,5 @@ Park sealed his own custody copy last. He did not replay the scream. He did not 
 
 The work continued.
 
-❦
-
+---
 **END CHAPTER 2**

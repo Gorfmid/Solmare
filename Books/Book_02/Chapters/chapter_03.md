@@ -135,8 +135,7 @@ Park said, quietly enough for the language table only, "If the next product uses
 
 That was as close as the morning came to warmth.
 
-❦
-
+---
 ***CONTACT NODE SEVEN — PROTOCOL ROOM***
 *CONTINUITY LANGUAGE*
 
@@ -226,8 +225,7 @@ Park asked one more language question before they closed the product. "If Fleet 
 
 The conceptual gap stayed open on purpose. Ellis would want that gap later. For now, the room still preferred debate over proof. Proof was coming anyway, on a schedule nobody in the room owned.
 
-❦
-
+---
 ***CONTACT NODE SEVEN — PROTOCOL ROOM***
 *REQUEST FOR COOPERATIVE WARNING POSTURE*
 
@@ -313,8 +311,7 @@ During the brief reset before the counterpart exchange, Park remained at the lex
 
 Park nodded. He sealed the phrase into dual custody and left the board clean for Thessaly's return.
 
-❦
-
+---
 ***CONTACT NODE SEVEN — SIDE ROOM***
 *COUNTERPART EXCHANGE*
 
@@ -392,8 +389,7 @@ On the walk back to the protocol room, Calder matched Vex's pace without trying 
 
 That was enough. They entered together without looking like a faction.
 
-❦
-
+---
 ***CONTACT NODE SEVEN — PROTOCOL ROOM***
 *PROVISIONAL INSTRUMENTS*
 
@@ -477,8 +473,7 @@ The room smelled like tea and coffee and machine oil. Nobody used the drinks to 
 
 Those were not the same sentence. Both were true.
 
-❦
-
+---
 ***CONTACT NODE SEVEN — FLEET OPERATIONS ANNEX***
 *SEGMENT STATUS BOARD*
 
@@ -540,6 +535,5 @@ Outside, the runner finally received clearance and left the outer corridor witho
 
 The work continued.
 
-❦
-
+---
 **END CHAPTER 3**

@@ -37,8 +37,7 @@ Thessaly did not tell him he was wrong. She did not tell him he was right, eithe
 
 He did not thank her. He did not need to. He ate half of what she'd put in front of him, which was more than she had expected, and neither of them said anything else that night that would have sounded, later, like a turning point. It wasn't one yet. It was simply the first watch of a much longer one, and she intended to stand every hour of it whether he asked her to or not.
 
-❦
-
+---
 ***HELION — PROTOCOL ANNEX / DIPLOMATIC CALENDAR***
 *FOUNDERS' WEEK / HARVEST OBLIGATION*
 
@@ -76,8 +75,7 @@ Rowan kept the corridor narrow. "Comparative reading authorized under seal. Ritu
 
 Outside, a junior runner carried sample folds past a memorial cart and didn't look at either long enough to choose a sermon. The rhyme was no longer deniable in the rooms that mattered. It was not yet a public dump. Protocol had lost the cleaner disagreement.
 
-❦
-
+---
 ***HELION — COMMEMORATIVE OBSERVATORY / JOINT RITUAL WINDOW***
 *BODY PROOF*
 
@@ -137,8 +135,7 @@ A choir member missed a cue when the Dominion sequence leaked through a speaker 
 
 Outside the observatory, Helion's civic corridor kept hanging copper cloth. Archives from the prior day had fused with ritual proof. The dual-holiday thesis was no longer private certainty alone. It was still not public certainty.
 
-❦
-
+---
 ***HELION — HISTORICAL OFFICE, LATE***
 *THE HARVEST*
 
@@ -180,8 +177,7 @@ Calder looked at the transcript page in her hand — his own words, quoted back 
 
 She did not thank him for the transcript. He did not ask her to. It was, between the two of them, already understood as the only kind of exchange either had left to offer: her archive, his eyes, and a truth neither civilization had scheduled.
 
-❦
-
+---
 ***HELION — COMMAND ANNEX / COMMEMORATIVE LANGUAGE FIGHT***
 *MORALE / KINSHIP / CLASSIFICATION*
 
@@ -227,8 +223,7 @@ Calder said nothing for a long moment. "That's not an answer. That's a delay."
 
 "It's the only honest one I have today," Rowan said. "Ask me again in a week if you still believe it."
 
-❦
-
+---
 ***HELION — JOINT PERSONNEL DECK / PEOPLE AFTER THE MIRROR***
 *FAMILY / HATRED / PROCEDURE*
 
@@ -284,8 +279,7 @@ Outside the personnel glass, a Founders' Week runner hurried past with sample cl
 
 Operational continuity held. Emotional continuity did not. The stage for the next catastrophic trust invoice was already being set by people who still had to run warning corridors anyway.
 
-❦
-
+---
 ***HELION — CIVIC PROMENADE / FOUNDERS' WEEK DISPLAY***
 *WRONG STORY*
 
@@ -329,6 +323,5 @@ Then she picked up her slate, left the coffee untouched as presence, and walked 
 
 On the way she passed a Founders' Week crate stamped for Academy visitor hours — copper cloth, blue trim, a procession script draft tucked under the lid with the first line she had left standing and a blank where the soft second line had tried to live. Someone would try again tomorrow. Someone always did.
 
-❦
-
+---
 **END CHAPTER 21**

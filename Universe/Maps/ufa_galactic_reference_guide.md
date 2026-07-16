@@ -78,7 +78,7 @@ For navigation and administrative purposes, UFA space is divided into **seven su
 
 ## Beyond survey authority
 
-**Peripheral Survey Limit** (yellow dashed line on chart): uncharted and unverified volume beyond the UFA space boundary. Navigation data is incomplete and subject to change. Scout missions, explorer lanes, and fringe relay maintenance operate here under reduced certification confidence.
+**Peripheral Survey Limit** (yellow dashed line on chart): uncharted and unverified **sector** beyond the UFA space boundary. Navigation data is incomplete and subject to change. Scout missions, explorer lanes, and fringe relay maintenance operate here under reduced certification confidence.
 
 ---
 
@@ -385,8 +385,8 @@ Fleet Cartography divides **charted UFA space** into **seven survey segments** o
 |----------|------|
 | **Outer Kestran Spiral** | Calder's routine reconnaissance patrol loop (Ch. 4–5) |
 | **Kestran Spiral bearing 214 mark 6** | Incident geometry (Ch. 5) |
-| **Neutral Zone corridor seven-alpha** | Chart notation; ROE-limited observation corridor; approach to segment seven volume (Ch. 8+) |
-| **Alpha Seven** | Fleet designation for occupied volume (state logs — Ch. 23 context) |
+| **Neutral Zone corridor seven-alpha** | Chart notation; ROE-limited observation corridor; approach to segment seven (Ch. 8+) |
+| **Alpha Seven** | Fleet designation for occupied sector (state logs — Ch. 23 context) |
 | **Theta-7** | Boundary marker (`solmare_quadrant.md` — legacy interior route notation) |
 | **Korrath Expanse fringe** | Deep survey target; inconsistent readings (`systems.md`) |
 | **Eryx Null Zone** | RESTRICTED — navigation anomalies (`systems.md`) |
@@ -394,7 +394,7 @@ Fleet Cartography divides **charted UFA space** into **seven survey segments** o
 
 ### Kestrel Veil — chart position (Peripheral Survey Limit)
 
-The navigation chart marks ***Kestrel Veil*** beyond the UFA space boundary, on an **explorer lane** inside the **Peripheral Survey Limit** volume:
+The navigation chart marks ***Kestrel Veil*** beyond the UFA space boundary, on an **explorer lane** inside the **Peripheral Survey Limit**:
 
 | Chart annotation | Detail |
 |------------------|--------|
@@ -442,7 +442,7 @@ Chart position shows *Veil* at the **furthest certified explorer reach** on the 
 | Local cradle noise objects (Reyes baseline — 11 objects) | Consistent tertiary offset (Ortega — “wrong enough to remember”) |
 | Relay handshake windows | Structured contact classification pre-Incident |
 | Historical anchors (11-year frontier pass) | Capital-scale discharge profile (Incident) |
-| | **Dominion** volume — **not named by Fleet** until authorized discovery beats |
+| | **Dominion** sector — **not named by Fleet** until authorized discovery beats |
 
 ---
 
@@ -450,7 +450,7 @@ Chart position shows *Veil* at the **furthest certified explorer reach** on the 
 
 ## Core principle
 
-Control is **node-based**, not continuous territory (`galaxy.md`). Empires hold **corridors between systems**, not empty volume.
+Control is **node-based**, not continuous territory (`galaxy.md`). Empires hold **corridors between systems**, not empty space between stars.
 
 ## Primary travel lanes
 
@@ -620,7 +620,7 @@ Story Relevance:
 | **Unverified Volume** | Charted geometry with failing reconciliation (Segment Seven pre-Incident) |
 | **Unknown Contact Region** | Post-Incident structured presence — classification under Edition 144 debate |
 
-**Neutral Zone** — institutional term surviving from breakaway founding history; corridor notation on charts; **not** proof Fleet understands who occupies adjacent volume (`fleet_dominion_frontier_history.md`).
+**Neutral Zone** — **post-contact** institutional buffer label between Fleet and Dominion; not founding-era vocabulary. Pre-contact speech: uncharted / beyond survey / empty on the chart (`fleet_dominion_frontier_history.md`).
 
 **Deep Void** — galactic-scale; unstable navigation (`galaxy.md`).
 

@@ -59,8 +59,7 @@ Outside the annex glass, a café on the civic plaza served the morning traffic. 
 
 Hulls were not the center of gravity anymore. Helion was.
 
-❦
-
+---
 ***HELION — COUNCIL FACTION ANNEX***
 *THREE HUNGERS*
 
@@ -108,8 +107,7 @@ Outside, Helion kept moving. Memorial kits moved under civilian custody. A dockh
 
 Rowan did not ask the board for comfort. He asked it for the next honest header that would still cost people.
 
-❦
-
+---
 ***HELION — ACCORD PRE-NEGOTIATION DRAFT ROOMS***
 *LIMITED PERMISSIONS*
 
@@ -169,8 +167,7 @@ Outside the draft rooms, a café clerk laughed at a joke that wasn't funny and s
 
 Trust remained harder than war. Helion had proven it again without needing a battle.
 
-❦
-
+---
 ***HELION — FLEET COMMUNICATIONS COMMAND / VALIDATION DESK***
 *IN PERSON, FOR ONCE*
 
@@ -218,8 +215,7 @@ Near the end of it, she reached over and turned his slate face-up again without 
 
 Neither of them moved to end it first. The desk clock ran on, uncounted, the way it always did when the only thing left to measure was whether either of them would be the one to leave.
 
-❦
-
+---
 ***HELION — HISTORICAL OFFICE / FOUNDERS' WEEK EXHIBIT CORRIDOR***
 *ACCESS UNDER HYGIENE*
 
@@ -261,8 +257,7 @@ Ellis closed the drawer without pretending the answer was comfort.
 
 Helion celebrated beginnings. The fringe kept answering in amber densification. The archive kept threatening to tell a truth neither capital had scheduled.
 
-❦
-
+---
 ***HELION — COUNCIL SCHEDULING ANNEX / CLOSE***
 *ONE MORE DEMONSTRATION*
 
@@ -292,8 +287,7 @@ Outside the annex glass, Founders' Week cloth still argued copper on the civic c
 
 Helion had become the center of gravity. The next rooms waited.
 
-❦
-
+---
 ***CONTACT NODE SEVEN — BERTH SEVEN, DOMINION SIDE***
 *LONG FATHOM / TWO DAYS*
 
@@ -337,6 +331,5 @@ Then she turned, walked back toward the joint table Rowan had signed over to her
 
 She went to work.
 
-❦
-
+---
 **END CHAPTER 19**

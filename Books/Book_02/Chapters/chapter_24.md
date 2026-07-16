@@ -67,8 +67,7 @@ Rowan closed the mandate without parade language. "Explicit order: joint crossin
 
 Nobody cheered. Hulls moved.
 
-❦
-
+---
 ***TAG TWELVE OUTER RING — JOINT CROSSING***
 *PAIRED ELEMENTS / WARNING NET LIVE*
 
@@ -120,8 +119,7 @@ A survey tech with a burned glove and a dry joke about Founders' Week stationery
 
 Something was saved that neither side could have alone. Costs remained. Act V-scale catastrophe did not.
 
-❦
-
+---
 ***TAG TWELVE CONTESTED ZONE — OUTER OBSERVATION***
 *OPACITY HOLDS / NO DICTIONARY*
 
@@ -149,8 +147,7 @@ Vex didn't offer comfort. "We proved operational trust can sail under Accord aut
 
 Hulls turned for return bearing under unfinished fear.
 
-❦
-
+---
 ***CONTACT NODE SEVEN — RETURN ANNEX***
 *PROOF / INSUFFICIENT / FORWARD MOTION*
 
@@ -188,6 +185,5 @@ On the joint plot, the frontier line was still a moving wound. Tag Twelve still 
 
 Trust remained harder than war. The next corridor waited toward the moving frontier.
 
-❦
-
+---
 **END CHAPTER 24**

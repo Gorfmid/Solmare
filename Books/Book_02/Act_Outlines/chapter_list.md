@@ -39,49 +39,53 @@ Book Two is structured around **reluctant cooperation under existential pressure
 
 ## Manuscript Reading Order
 
-| # | Piece | File | Words | Status | Notes |
-|---|-------|------|------:|--------|-------|
-| — | **Prelude** | `prelude.md` | 3,688 | **WRITING PASS** | Harvest-season departure; dual-ignorance coda |
-| 1 | Silent Frequencies | `chapter_01.md` | 6,710 | **WRITING PASS** | Act I opens · *Iron Harrow* under Peligar fire |
-| 2 | Shared Words | `chapter_02.md` | 6,896 | **WRITING PASS** | Contact protocols; Dana Holt introduced; “they’re talking” |
-| 3 | Lines on a Map | `chapter_03.md` | 7,147 | **WRITING PASS** | Help request; Calder–Vex mirrors; Thessaly command flinch |
-| 4 | First Exchanges | `chapter_04.md` | 7,437 | **WRITING PASS** | Act I ends · Founders’ Reach consumed |
-| 5 | Glass Horizon | `chapter_05.md` | 6,746 | **WRITING PASS** | Act II opens · consumed-system forensics |
-| 6 | The Burning Fringe | `chapter_06.md` | 6,710 | **WRITING PASS** | Panic markets; doctrine amendment pressure |
-| 7 | No Survivors | `chapter_07.md` | 6,771 | **WRITING PASS** | Casualty reckoning; Ellis extraction seed |
-| 8 | Terms of Necessity | `chapter_08.md` | 6,630 | **WRITING PASS** | Act II ends · non-alliance cooperation posture |
-| 9 | Crossing Together | `chapter_09.md` | 6,680 | **WRITING PASS** | Act III opens · first joint patrol |
-| 10 | Operational Trust | `chapter_10.md` | 6,860 | **WRITING PASS** | Calder–Vex mutual prediction |
-| 11 | The Historian’s Question | `chapter_11.md` | 6,529 | **WRITING PASS** | Ellis Stage 1 — similarities (seed only) |
-| 12 | Joint Action | `chapter_12.md` | 6,783 | **WRITING PASS** | Shared intel; culture clash |
-| 13 | Vex | `chapter_13.md` | 6,736 | **WRITING PASS** | Act III · Vex POV; no-hatred; cloak hint |
-| 14 | The Expanding Frontier | `chapter_14.md` | 4,484 | **WRITING PASS** | Act IV opens · multi-system scale |
-| 15 | The Shape of Hunger | `chapter_15.md` | 3,795 | **WRITING PASS** | Extraction thesis |
-| 16 | The Cost | `chapter_16.md` | 3,577 | **WRITING PASS** | **PRIMARY FAILURE** · Assist Yard Nine · 12 minutes |
-| 17 | Broken Procedures | `chapter_17.md` | 3,647 | **WRITING PASS** | Aftermath; Thessaly declines *Halvorsen* |
-| 18 | Counterstroke | `chapter_18.md` | 3,053 | **WRITING PASS** | Act IV · costly strike; cloak-share greenlight |
-| 19 | Helion | `chapter_19.md` | 5,592 | **WRITING PASS** | Act V opens · Accord drafts; *Long Fathom* launch |
-| 20 | Revelations | `chapter_20.md` | 5,094 | **WRITING PASS** | Deep recon climax; Ellis Stage 2 (origin) |
-| 21 | The Old Departure | `chapter_21.md` | 6,055 | **WRITING PASS** | Dual holiday + Harvest/refugees; Calder collapse |
-| 22 | Trust | `chapter_22.md` | 5,148 | **WRITING PASS** | Act V · Thessaly pull-back; re-choose cooperation |
-| 23 | The Accord | `chapter_23.md` | 2,659 | **WRITING PASS** | Act VI opens · Helion Accord signed (non-alliance) |
-| 24 | The Crossing | `chapter_24.md` | 2,719 | **WRITING PASS** | First Accord-authorized joint crossing |
-| 25 | Aftermath | `chapter_25.md` | 3,785 | **WRITING PASS** | Act VI ends · Thessaly accepts *Halvorsen*; Book Three question |
+| # | Title | Summary | Words | Stage |
+|---|-------|---------|------:|-------|
+| — | **The Founding Exodus** | Harvest-week departure from Serath; multi-gen convoy; dual-ignorance coda. Reader holds shared-origin seed. | 4,115 | **Final Candidate** |
+| 1 | Silent Frequencies | *Iron Harrow* meets uncategorizable Peligar pressure; *Kestrel* intercepts multi-vocal contact. | 6,710 | **Revision Pass** |
+| 2 | Shared Words | Contact protocols at Contact Node Seven; Dana Holt introduced; “they’re talking.” | 6,896 | **Revision Pass** |
+| 3 | Lines on a Map | Dominion help request; Calder–Vex as counterparts; Thessaly command flinch; Founders’ Reach quiet. | 7,147 | **Revision Pass** |
+| 4 | First Exchanges | Shared work collapses as Founders’ Reach is processed on Fleet soil. Act I ends. | 7,437 | **Revision Pass** |
+| 5 | Glass Horizon | Consumed-system forensics; extraction vs attack language; personal ready-room beat. | 6,746 | **Revision Pass** |
+| 6 | The Burning Fringe | Panic markets; doctrine amendment pressure; lived stakes under expanding fringe. | 6,710 | **Revision Pass** |
+| 7 | No Survivors | Casualty reckoning; Ellis resists invasion propaganda; extraction seed. | 6,771 | **Revision Pass** |
+| 8 | Terms of Necessity | Limited cooperation posture locked; non-alliance; Calder–Vex small table. Act II ends. | 6,630 | **Revision Pass** |
+| 9 | Crossing Together | First joint patrol; doctrine collision near-fail; Thessaly sole-lock flinch seed. | 6,680 | **Revision Pass** |
+| 10 | Operational Trust | Calder–Vex mutual prediction under fire-adjacent geometry; Holt on warning-net. | 6,860 | **Revision Pass** |
+| 11 | The Historian’s Question | Ellis Stage 1 — historical similarities only; no breakaway lock. | 6,529 | **Revision Pass** |
+| 12 | Joint Action | Shared intel under load; culture clash; Park–Holt stress ladder. | 6,783 | **Revision Pass** |
+| 13 | Vex | Vex POV; no-hatred observation; cloak reverse-engineer hint. Act III closes. | 6,736 | **Revision Pass** |
+| 14 | The Expanding Frontier | Multi-system pattern; observation as ration; Orenna introduced. Act IV opens. | 4,484 | **Revision Pass** |
+| 15 | The Shape of Hunger | Ellis extraction thesis sharpened; Park meaning-none; hunger as structure. | 3,795 | **Revision Pass** |
+| 16 | The Cost | **PRIMARY FAILURE** — Assist Yard Nine; twelve-minute delay; Orenna and Petya unpaid. | 3,577 | **Revision Pass** |
+| 17 | Broken Procedures | Aftermath overcorrection; provisional wartime ROE; Thessaly declines *Halvorsen*. | 3,647 | **Revision Pass** |
+| 18 | Counterstroke | Costly joint strike; cloak-share greenlight; deep recon authorized. Act IV closes. | 3,053 | **Revision Pass** |
+| 19 | Helion | Accord drafts under ash; *Long Fathom* launches silent-running recon. Act V opens. | 5,592 | **Revision Pass** |
+| 20 | Revelations | Deep recon climax — processing front; Ellis Stage 2 (Fleet ← Dominion origin). | 5,094 | **Revision Pass** |
+| 21 | The Old Departure | Dual-holiday recognition; Harvest = Peligar harvest / refugees; Calder tries to surrender command. | 6,055 | **Revision Pass** |
+| 22 | Trust | Aftermath trust crisis; Thessaly pull-back; cooperation re-chosen under ash. Act V closes. | 5,148 | **Revision Pass** |
+| 23 | The Accord | Helion Accord signed: rescue, warning, observation, limited military — **not alliance**. | 2,659 | **Revision Pass** |
+| 24 | The Crossing | First Accord-authorized joint frontier crossing; instruments imperfect. | 2,719 | **Revision Pass** |
+| 25 | Aftermath | Thessaly accepts *Halvorsen*; Park–Holt unfinished; Book Three alliance question. | 3,785 | **Revision Pass** |
 
-**Total (Prelude + Ch. 1–25):** **~141,900 words** (markdown source word count)  
-**Status label:** **WRITING PASS** = structural revision + line polish complete; **not** Final Lock. Awaiting author read.
+**Total (Prelude + Ch. 1–25):** **~142,400 words** (markdown source word count)
+
+**Files:** `Chapters/prelude.md` · `Chapters/chapter_01.md` … `chapter_25.md`
 
 ---
 
 ## Current Manuscript Status
 
-| Status | Meaning |
-|--------|---------|
-| **WRITING PASS** | Ready for author read-through |
-| Not started | Final Candidate / Final Lock |
-| Open | Cover title; casualty mega-figures; supporting-cast time-gap edge cases |
+| Stage | Meaning |
+|-------|---------|
+| **Draft** | Story function first; prose may be rough |
+| **Revision Pass** | Structure, character, canon, information discipline in progress / author read |
+| **Final Candidate** | Structure stable; eligible for Writing Pass 1 / final prose polish |
+| **Final Lock** | Frozen — **no edits** without explicit, directed author unlock |
 
-**Do not treat as locked.** Author notes from the read will drive the Final Candidate pass.
+**Current board:** Prelude = **Final Candidate**. Chapters 1–25 = **Revision Pass**.
+
+**Final Lock rule:** Once a piece is Final Lock, do not rewrite, add scenes, change dialogue, or alter lore unless the author explicitly unlocks it and directs the change. Spelling/grammar/formatting/production-only fixes require the same explicit unlock if they touch locked prose.
 
 ---
 
@@ -138,8 +142,8 @@ Ellis, using Calder’s evidence, proves the founding holidays commemorate the s
 # PRELUDE — THE FOUNDING EXODUS
 
 **File:** `Chapters/prelude.md`  
-**Words:** ~3,688  
-**Status:** **WRITING PASS**
+**Words:** ~4,115  
+**Status:** **Final Candidate**
 
 Reader-only departure from Dominion space during harvest season. Yeva / Petra / Maren / dock ceremony / grain bundles. Dual-ignorance coda: neither future Fleet nor Dominion will remember the full connection.
 
@@ -156,7 +160,7 @@ Reader-only departure from Dominion space during harvest season. Yeva / Petra / 
 
 ## Chapter 1 — Silent Frequencies
 
-**File:** `chapter_01.md` · **Words:** ~6,710 · **Status:** **WRITING PASS**
+**File:** `chapter_01.md` · **Words:** ~6,710 · **Status:** **Revision Pass**
 
 *Iron Harrow* under opaque Peligar pressure (Vex). Fleet/*Kestrel* intercepts multi-vocal screaming misfiled as distress. Calder–Thessaly trust beat.
 
@@ -166,7 +170,7 @@ Reader-only departure from Dominion space during harvest season. Yeva / Petra / 
 
 ## Chapter 2 — Shared Words
 
-**File:** `chapter_02.md` · **Words:** ~6,896 · **Status:** **WRITING PASS**
+**File:** `chapter_02.md` · **Words:** ~6,896 · **Status:** **Revision Pass**
 
 Contact protocols. Park + Dominion linguists. **Dana Holt** enters (Fleet Communications). Screaming reclassified as structured language-without-meaning.
 
@@ -176,7 +180,7 @@ Contact protocols. Park + Dominion linguists. **Dana Holt** enters (Fleet Commun
 
 ## Chapter 3 — Lines on a Map
 
-**File:** `chapter_03.md` · **Words:** ~7,147 · **Status:** **WRITING PASS**
+**File:** `chapter_03.md` · **Words:** ~7,147 · **Status:** **Revision Pass**
 
 Expanding border; Dominion help request; Calder–Vex seated as counterparts. Thessaly flinches at “command.” Founders’ Reach quiet on the chart.
 
@@ -186,7 +190,7 @@ Expanding border; Dominion help request; Calder–Vex seated as counterparts. Th
 
 ## Chapter 4 — First Exchanges
 
-**File:** `chapter_04.md` · **Words:** ~7,437 · **Status:** **WRITING PASS**
+**File:** `chapter_04.md` · **Words:** ~7,437 · **Status:** **Revision Pass**
 
 Productive shared work *as* Founders’ Reach goes dark / is processed. Park–Holt fear on the silent channel. Calder moral vertigo.
 
@@ -203,7 +207,7 @@ Productive shared work *as* Founders’ Reach goes dark / is processed. Park–H
 
 ## Chapter 5 — Glass Horizon
 
-**File:** `chapter_05.md` · **Words:** ~6,746 · **Status:** **WRITING PASS**
+**File:** `chapter_05.md` · **Words:** ~6,746 · **Status:** **Revision Pass**
 
 Forensics of consumed Founders’ Reach. Extraction vs attack language. Personal ready-room beat. *Not* the deep cloaked recon.
 
@@ -211,7 +215,7 @@ Forensics of consumed Founders’ Reach. Extraction vs attack language. Personal
 
 ## Chapter 6 — The Burning Fringe
 
-**File:** `chapter_06.md` · **Words:** ~6,710 · **Status:** **WRITING PASS**
+**File:** `chapter_06.md` · **Words:** ~6,710 · **Status:** **Revision Pass**
 
 Border still expanding. Public vs classified panic. Rowan human fatigue. Park–Holt under pressure. First Doctrine wartime amendment debate opens.
 
@@ -219,7 +223,7 @@ Border still expanding. Public vs classified panic. Rowan human fatigue. Park–
 
 ## Chapter 7 — No Survivors
 
-**File:** `chapter_07.md` · **Words:** ~6,771 · **Status:** **WRITING PASS**
+**File:** `chapter_07.md` · **Words:** ~6,771 · **Status:** **Revision Pass**
 
 Casualty reckoning. Ellis resists invasion frame (extraction seed). Calder refuses propaganda conversion of the dead.
 
@@ -227,7 +231,7 @@ Casualty reckoning. Ellis resists invasion frame (extraction seed). Calder refus
 
 ## Chapter 8 — Terms of Necessity
 
-**File:** `chapter_08.md` · **Words:** ~6,630 · **Status:** **WRITING PASS**
+**File:** `chapter_08.md` · **Words:** ~6,630 · **Status:** **Revision Pass**
 
 Ugly provisional cooperation document. Non-alliance locked. **Preserve Calder–Vex small-table coda.** First joint package authorized.
 
@@ -241,7 +245,7 @@ Ugly provisional cooperation document. Non-alliance locked. **Preserve Calder–
 
 ## Chapter 9 — Crossing Together
 
-**File:** `chapter_09.md` · **Words:** ~6,680 · **Status:** **WRITING PASS**
+**File:** `chapter_09.md` · **Words:** ~6,680 · **Status:** **Revision Pass**
 
 First joint patrol nearly fails via doctrine collision, not betrayal. Calder certainty punished. Thessaly sole-lock flinch.
 
@@ -249,7 +253,7 @@ First joint patrol nearly fails via doctrine collision, not betrayal. Calder cer
 
 ## Chapter 10 — Operational Trust
 
-**File:** `chapter_10.md` · **Words:** ~6,860 · **Status:** **WRITING PASS**
+**File:** `chapter_10.md` · **Words:** ~6,860 · **Status:** **Revision Pass**
 
 Calder and Vex each predict the other’s professional move. Calder gives Thessaly stand-in authority. Holt on warning-net.
 
@@ -257,7 +261,7 @@ Calder and Vex each predict the other’s professional move. Calder gives Thessa
 
 ## Chapter 11 — The Historian’s Question
 
-**File:** `chapter_11.md` · **Words:** ~6,529 · **Status:** **WRITING PASS**
+**File:** `chapter_11.md` · **Words:** ~6,529 · **Status:** **Revision Pass**
 
 Ellis Stage 1 only — commemorative similarities / questions. No breakaway proof. No Harvest = Peligar yet.
 
@@ -265,7 +269,7 @@ Ellis Stage 1 only — commemorative similarities / questions. No breakaway proo
 
 ## Chapter 12 — Joint Action
 
-**File:** `chapter_12.md` · **Words:** ~6,783 · **Status:** **WRITING PASS**
+**File:** `chapter_12.md` · **Words:** ~6,783 · **Status:** **Revision Pass**
 
 Shared intel as political product. Larger joint action under culture clash. Park–Holt under stress. Thessaly command emergence.
 
@@ -273,7 +277,7 @@ Shared intel as political product. Larger joint action under culture clash. Park
 
 ## Chapter 13 — Vex
 
-**File:** `chapter_13.md` · **Words:** ~6,736 · **Status:** **WRITING PASS**
+**File:** `chapter_13.md` · **Words:** ~6,736 · **Status:** **Revision Pass**
 
 Vex POV. Earns “no hatred.” Peer-not-friend with Calder. Cloak as reverse-engineered protected asset (hint only). Act III closes; map widens.
 
@@ -287,7 +291,7 @@ Vex POV. Earns “no hatred.” Peer-not-friend with Calder. Cloak as reverse-en
 
 ## Chapter 14 — The Expanding Frontier
 
-**File:** `chapter_14.md` · **Words:** ~4,484 · **Status:** **WRITING PASS**
+**File:** `chapter_14.md` · **Words:** ~4,484 · **Status:** **Revision Pass**
 
 Multi-system pattern. Observation time as ration. Orenna introduced so Ch16 costs a known person.
 
@@ -295,7 +299,7 @@ Multi-system pattern. Observation time as ration. Orenna introduced so Ch16 cost
 
 ## Chapter 15 — The Shape of Hunger
 
-**File:** `chapter_15.md` · **Words:** ~3,795 · **Status:** **WRITING PASS**
+**File:** `chapter_15.md` · **Words:** ~3,795 · **Status:** **Revision Pass**
 
 Ellis extraction thesis hard enough to crack invasion grammar. Park: structured speech, meaning none.
 
@@ -303,7 +307,7 @@ Ellis extraction thesis hard enough to crack invasion grammar. Park: structured 
 
 ## Chapter 16 — The Cost
 
-**File:** `chapter_16.md` · **Words:** ~3,577 · **Status:** **WRITING PASS**
+**File:** `chapter_16.md` · **Words:** ~3,577 · **Status:** **Revision Pass**
 
 **PRIMARY FAILURE.** Calder waits twelve minutes for confirmation at Assist Yard Nine. Orenna Voss-Callan and Petya Ilanov die in the delay window. Defensible; wrong; unpaid names in his own hand.
 
@@ -311,7 +315,7 @@ Ellis extraction thesis hard enough to crack invasion grammar. Park: structured 
 
 ## Chapter 17 — Broken Procedures
 
-**File:** `chapter_17.md` · **Words:** ~3,647 · **Status:** **WRITING PASS**
+**File:** `chapter_17.md` · **Words:** ~3,647 · **Status:** **Revision Pass**
 
 Calder withdrawal / overcorrection. Doctrine fails under tempo. Thessaly declines independent command of *Halvorsen*. Counterstroke authorized under failure, not confidence.
 
@@ -319,7 +323,7 @@ Calder withdrawal / overcorrection. Doctrine fails under tempo. Thessaly decline
 
 ## Chapter 18 — Counterstroke
 
-**File:** `chapter_18.md` · **Words:** ~3,053 · **Status:** **WRITING PASS**
+**File:** `chapter_18.md` · **Words:** ~3,053 · **Status:** **Revision Pass**
 
 Limited costly joint strike. Operational trust survives; political trust does not. **Cloak share:** one-time inferior Peligar-derived field; Dominion keeps tech; deep recon greenlit.
 
@@ -333,7 +337,7 @@ Limited costly joint strike. Operational trust survives; political trust does no
 
 ## Chapter 19 — Helion
 
-**File:** `chapter_19.md` · **Words:** ~5,592 · **Status:** **WRITING PASS**
+**File:** `chapter_19.md` · **Words:** ~5,592 · **Status:** **Revision Pass**
 
 Capital politics; Accord pre-negotiation (non-alliance drafts). *Long Fathom* silent launch. Calder farewell carrying Ch16. Thessaly holds the joint table.
 
@@ -341,7 +345,7 @@ Capital politics; Accord pre-negotiation (non-alliance drafts). *Long Fathom* si
 
 ## Chapter 20 — Revelations
 
-**File:** `chapter_20.md` · **Words:** ~5,094 · **Status:** **WRITING PASS**
+**File:** `chapter_20.md` · **Words:** ~5,094 · **Status:** **Revision Pass**
 
 **Deep recon climax** (submarine tone; processing front; mobile-civilization capital; Ch16 invoice). Parallel: Ellis Stage 2 — Fleet originated from Dominion.
 
@@ -349,7 +353,7 @@ Capital politics; Accord pre-negotiation (non-alliance drafts). *Long Fathom* si
 
 ## Chapter 21 — The Old Departure
 
-**File:** `chapter_21.md` · **Words:** ~6,055 · **Status:** **WRITING PASS**
+**File:** `chapter_21.md` · **Words:** ~6,055 · **Status:** **Revision Pass**
 
 *Long Fathom* returns. Dual-holiday recognition. Ellis Stages 5–6: Harvest = Peligar harvest; founders were refugees. Calder tries to surrender command; Rowan refuses; Thessaly holds him.
 
@@ -357,7 +361,7 @@ Capital politics; Accord pre-negotiation (non-alliance drafts). *Long Fathom* si
 
 ## Chapter 22 — Trust
 
-**File:** `chapter_22.md` · **Words:** ~5,148 · **Status:** **WRITING PASS**
+**File:** `chapter_22.md` · **Words:** ~5,148 · **Status:** **Revision Pass**
 
 Aftermath crisis (not first failure). Thessaly pull-back: observation not worthless; he treated it as end of responsibility. Re-choose instruments under ash. Accord mandate. Hope unauthorized.
 
@@ -371,7 +375,7 @@ Aftermath crisis (not first failure). Thessaly pull-back: observation not worthl
 
 ## Chapter 23 — The Accord
 
-**File:** `chapter_23.md` · **Words:** ~2,659 · **Status:** **WRITING PASS**
+**File:** `chapter_23.md` · **Words:** ~2,659 · **Status:** **Revision Pass**
 
 Helion Accord signed: rescue rights, shared warning network, joint observation, limited military coordination. **Explicitly not a formal alliance.** Park–Holt header language in the annex. Ellis coda: dual-holiday/Harvest truth unsettled.
 
@@ -379,7 +383,7 @@ Helion Accord signed: rescue rights, shared warning network, joint observation, 
 
 ## Chapter 24 — The Crossing
 
-**File:** `chapter_24.md` · **Words:** ~2,719 · **Status:** **WRITING PASS**
+**File:** `chapter_24.md` · **Words:** ~2,719 · **Status:** **Revision Pass**
 
 First Accord-authorized joint frontier crossing. Instruments work imperfectly. Holt lag-fear / relief with Park. Combat secondary. No second deep recon.
 
@@ -387,7 +391,7 @@ First Accord-authorized joint frontier crossing. Instruments work imperfectly. H
 
 ## Chapter 25 — Aftermath
 
-**File:** `chapter_25.md` · **Words:** ~3,785 · **Status:** **WRITING PASS**
+**File:** `chapter_25.md` · **Words:** ~3,785 · **Status:** **Revision Pass**
 
 Implementation under ash. **Thessaly accepts *Halvorsen* command**; Calder supports quietly. Park–Holt unfinished personal truth. Book Three question: *If this is not alliance, what happens when necessity demands it become one?*
 

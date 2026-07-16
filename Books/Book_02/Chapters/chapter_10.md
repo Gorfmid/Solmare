@@ -85,8 +85,7 @@ Vex did not repeat the courtesy. He cut the channel the Dominion way: confirmati
 
 The second crossing began.
 
-❦
-
+---
 ***JOINT PACKAGE TWO — FIRE-ADJACENT GEOMETRY***
 *ESCORT / OUTER WATCH / AMBIGUOUS RETURN*
 
@@ -174,8 +173,7 @@ Calder held station and did not convert Vex into a Fleet captain. That was the f
 
 The residual kept climbing.
 
-❦
-
+---
 ***PREDICTION BEAT — VEX***
 *HOLD FIRE / CONTRADICTORY SENSORS / NO SIMPLE WAR STORY*
 
@@ -267,8 +265,7 @@ Park did not look up from the residual strip. "They're still talking. Quieter. M
 
 That was the work.
 
-❦
-
+---
 ***AFTER-ACTION — SHARED RISK, SEPARATE MYTHS***
 *FIELD TRUST / POLITICAL REFUSAL*
 
@@ -332,8 +329,7 @@ Field trust had exceeded political trust by a measurable, provisional inch.
 
 Act III's grinding condition advanced without anyone blessing it.
 
-❦
-
+---
 ***QUIET PROFESSIONAL MIRROR***
 *KESTREL VEIL / IRON HARROW — BRIEF*
 
@@ -387,8 +383,7 @@ Still not friendship.
 
 Crews on both hulls returned to ordinary stations with the same quiet suspicion they had carried into package one, only now the suspicion had a narrower target: not every move, only the unpredictable ones. Prediction had become a working tool. Tools were not affection.
 
-❦
-
+---
 ***SAME DUTY CYCLE — SEALED PACKET / ARCHIVAL QUERY***
 *CONTACT NODE SEVEN CLOSE*
 
@@ -478,6 +473,5 @@ Hulls held station.
 
 The work continued.
 
-❦
-
+---
 **END CHAPTER 10**

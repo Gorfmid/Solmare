@@ -83,8 +83,7 @@ Not a slogan.
 
 A status.
 
-❦
-
+---
 ***HELION — COUNCIL MEMORIAL DRAFTING ROOM***
 *CASUALTY BOARD / PUBLIC LANGUAGE*
 
@@ -158,8 +157,7 @@ She looked at the casualty board again. Names. Empty berths. A school enrollment
 
 Nobody underlined that either.
 
-❦
-
+---
 ***HELION — HISTORICAL OFFICE PRIVATE BAY***
 *RECON PRODUCT / PATTERN COMPARISON / FRAME NOTES*
 
@@ -237,8 +235,7 @@ Ellis looked at the cloth-covered boards. "Tell them no. Martyr panels invent a 
 
 After Rowan dropped, she sent the seed note under custody to Calder, Thessaly, Neve, and Rowan's annex. She marked it *analysis — contested — not public seal*. Then she stood, straightened the cloth on the Founders' Week boards, and went back to the rooms that wanted simpler words.
 
-❦
-
+---
 ***NEW MERIDIAN — MEMORIAL LOGISTICS HALL***
 *EMPTY BERTHS / NAME CUSTODY*
 
@@ -286,8 +283,7 @@ The print tech stared. "Committees will replace this by evening."
 
 "Then I will correct it again by morning," Ellis said. "That is the work."
 
-❦
-
+---
 ***CONTACT NODE SEVEN — JOINT OBSERVATION LOUNGE / DOMINION WATCH DETAIL***
 *DUAL MOURNING / SHARED LOSS WITHOUT TRUST*
 
@@ -345,8 +341,7 @@ They did not reconcile. They did not toast. They sat with tea and coffee as work
 
 Outside the lounge, Contact Node Seven kept running. Inside, dual empathy held for exactly as long as professional people could hold it without pretending it solved the contour.
 
-❦
-
+---
 ***HELION — CIVILIAN AFFAIRS / COUNCIL NUMBERS ROOM***
 *MEGA-ESTIMATE DEBATE / AUTHORITY FLAG*
 
@@ -394,8 +389,7 @@ Grief without a false handle.
 
 The fight remaining was not whether people had died. The fight was what Fleet would become by the nouns it chose next.
 
-❦
-
+---
 ***HELION — FLEET COMMAND ANNEX***
 *POLITICAL BILL / COOPERATION PRESSURE*
 
@@ -453,6 +447,5 @@ The fringe kept burning.
 
 Necessity had started writing the terms.
 
-❦
-
+---
 **END CHAPTER 7**
