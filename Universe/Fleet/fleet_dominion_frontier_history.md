@@ -17,16 +17,16 @@ Reference before writing or editing scenes involving frontier geometry, peer dis
 
 ## Core model (series canon)
 
-Fleet Authority and the Dominion are **not** strangers who met at a treaty line.
+Fleet Authority and the Dominion are **not** strangers with no shared deep history — breakaway founding may live in Dominion archives — but **living peer contact begins in Book One**.
 
-They are civilizations whose **histories diverged**, whose **maps eventually overlap**, and whose **institutional memory is asymmetric**.
+***Kestrel Veil* / *Iron Harrow* is first meeting** with modern UFA as a present neighbor. Dominion had **not** run a decades-long watch on Fleet Authority beforehand.
 
 | Civilization | Age (institutional) | Memory posture |
 |--------------|---------------------|----------------|
 | **The Dominion** | Ancient — substantially older than Fleet; deep institutions, campaign memory | Historical — campaigns, plaques, preparation doctrine |
 | **Fleet Authority** | ~**800 years** since breakaway seed; still young in **self-mythology** | Prospective — Founders' Week, Relay Charter, expansion celebrated; origin scrubbed |
 
-**Book One restraint:** Fleet characters do **not** know the name *Dominion* until authorized discovery beats. Dominion POV may know Fleet Authority by function and habit, not necessarily by Fleet's self-names on-page.
+**Book One restraint:** Fleet characters do **not** know the name *Dominion* until authorized discovery beats. Dominion POV learns living Fleet Authority through *Veil* contact and aftermath; short speech form is **Fleet** / **Fleet Authority**, not casual **UFA**.
 
 ---
 
@@ -94,6 +94,7 @@ It **is**:
 
 - Post-contact chart language, ROE framing, and later instruments (warning corridors, joint observation, Helion Accord–era products in Book Two)
 - A political map object both sides can argue about while still disagreeing on history
+- **Warship exclusion (Book Two lock):** early post-contact talks establish the Neutral Zone as a buffer where **warships are not allowed**. Freighters, packet runners, and border-watch craft may operate under agreed corridor rules; capital / warship hulls do not. Both sides will argue edge cases (what counts as a warship) without dissolving the rule on page one.
 
 ### Book One published text
 
@@ -131,7 +132,7 @@ Book One is **locked and published**. Do **not** reopen chapter prose for Neutra
 4. Introduce or lean on **Neutral Zone** as a **post-discovery institutional product** when the story has earned peer contact and buffer politics.
 5. Dominion POV may contrast Fleet's **edited memory** with Dominion **campaign memory** — show; do not lecture.
 6. The exodus origin is **series depth** — multi-wave, ~800-year Fleet age, absorption growth — reveal through Dominion scenes, Historical Office friction, and earned discovery; not Act I exposition dumps.
-7. Prefer **sector** (or corridor / approach / charted space) for geographic regions. Do **not** use **volume** for regions of space — it confuses.
+7. Spatial naming is POV-split: **Dominion = volume** (V## headers, volume index). **Fleet = sector** (chart language, Sector N). Do not mix inside one POV. Audio *volume* is fine for both.
 
 ---
 

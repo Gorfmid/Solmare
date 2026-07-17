@@ -257,6 +257,8 @@ Do not make the writing sound literary by inserting poetic metaphors, philosophi
 
 Avoid sentences that feel written to impress the reader.
 
+**Combat / crisis especially:** cut thesis openings (*doctrine had already failed*, *arithmetic was the only courage left*, *pride held longer than either*, *treated them as weather*). Prefer what happened: orders, fire, damage, lock, miss, hit.
+
 Meaning should emerge through:
 
 - character actions  
@@ -277,14 +279,38 @@ Vary with: *would not stay off the board*, *refuses to retract*, *compare harder
 
 ---
 
-### 4.9 *Passive* as modifier
+### 4.9 Scan modes: *passive* / *active* (not a habit prefix)
 
-**Sweep `\bpassive\b`.** Cut unless the word is doing specific work.
+Sensors have **two modes only** (submarine sonar / network listen vs ping):
 
-| Cut when method already clear | Keep when contrast needed |
-|------------------------------|---------------------------|
-| passive strips → correlation / listen strips | `passive lock` · `passive return` · emitters dark vs active |
-| observed through passive listening → observed in transit | formal doctrine: `passive posture maintained` |
+| Mode | Meaning | Cost |
+|------|---------|------|
+| **Passive** | Receive / listen only — no illumination, no ping, no paint | Weaker, muddier picture |
+| **Active** | Emit to measure — illumination, ranging, challenge, paint | Much clearer picture of **everything in the volume**, for **everyone** listening — including a clear picture of **the ship that went active** |
+
+Going active is not a private upgrade to your own board. It is like an active sonar ping: better data for you, and better data for every other platform in range, with the pinger among the brightest returns.
+
+Do **not** put *passive* in front of every board, plot, archive, threshold, display, array, or watch. That is a bad default tic. If the ship is already listening / dark / not illuminating, the method is already clear.
+
+**Sweep `\bpassive\b`.** Cut the prefix unless mode contrast is the point.
+
+| Weak (habit prefix) | Prefer |
+|---------------------|--------|
+| passive board / passive plot / passive display | board · plot · display · sensor board |
+| passive archive comparison | archive comparison |
+| passive threshold / passive sensor edge | threshold · sensor edge |
+| passive watch / priority passive | watch · listen watch · priority listen |
+| passive return (when already on listen) | return · mass return |
+
+| Keep when mode is the work |
+|----------------------------|
+| *passive vs active* contrast (*stay dark* / *no illumination* / *do not go active*) |
+| formal order that names the mode once (*passive only* · *active scan authorized*) |
+| doctrine line where the mode itself is the decision (painting the volume / revealing self) |
+
+**Rule of thumb:** Say *passive* or *active* when choosing or changing mode. Everywhere else, name the tool or the work (*board*, *return*, *listen*, *stay dark*).
+
+Canon detail: `Universe/Technology/Technology_Bible.md` → Passive vs active.
 
 ---
 
@@ -319,7 +345,9 @@ Prefer: *standing orders hold* · *keep listening* · explain **why** once (floo
 
 | Prefer | Avoid / note |
 |--------|----------------|
-| **sector** (spatial) | **volume** as space synonym (audio *volume* OK) |
+| **volume** (Dominion spatial / V## map headers) | Dominion POV saying **sector** for their own map units |
+| **sector** (Fleet spatial / chart language) | Fleet POV saying **volume** for regions of space (audio *volume* OK) |
+| **fringe / outer / approach bearing** | cardinal directions in open space (*eastern bearing*, *north of*) unless a local named frame is established |
 | **work slate** | pager |
 | **lattice** = structural pieces/joints | lattice = whole hull |
 | **hull** / hull sections | vague “the lattice” for ship |
@@ -413,14 +441,14 @@ Neither side should accidentally possess the other's knowledge.
 
 ## 6. Segment / corridor terminology (place ≠ actor)
 
-**Segment seven (and survey segments) are places / volumes — not ships or adversaries.**
+**Segment seven (and survey segments) are places / sectors — not ships or adversaries.** *(Fleet chart language; Dominion equivalent: volume.)*
 
 | Term | Meaning |
 |------|---------|
-| Segment seven | Geographic reconnaissance volume |
-| Corridor seven-alpha | Named corridor inside that volume |
+| Segment seven | Geographic reconnaissance sector |
+| Corridor seven-alpha | Named corridor inside that sector |
 | The Incident | Cloak failure / discharge / withdrawal — **distinct** from the crossing |
-| Segment seven crossing | Passive transit through that volume |
+| Segment seven crossing | Passive transit through that sector |
 
 Do not write as if the segment can act, emit, or be illuminated like a target. Prefer: the crossing · the record · the archive · occupancy in the segment.
 
@@ -510,9 +538,21 @@ State what people are **doing**, **where**, and **why** in normal professional l
 
 Reduce narrator/theme stacks of *lie / lied / lying / pretend / performance / false*. Keep in dialogue when concrete. Prefer specific behavior over institutional thesis.
 
+Treat *lying / lies* like *wrong* and *geometry*: a bad default word. Do **not** make plots, returns, or instruments "lie" (*finished lying about size*, *even if the return lies*). Prefer: *before the mass return settled*, *even if the lock will not hold*, *even if the profile keeps shifting*.
+
 ### Repeated habits (reduce unless earned)
 
-nodded once · almost smiled · quietly · without looking up · without ceremony · not because · for a moment · held/holding · nominal · within tolerance · drift-inside-tolerance brush-offs · Tuesday motifs · *grammar* metaphors (*Fleet grammar*) · *not yet earned* constructions · *[Department] saw…* summaries · abstract authorial aphorisms
+nodded once · almost smiled · quietly · without looking up · without ceremony · not because · for a moment · held/holding · nominal · within tolerance · drift-inside-tolerance brush-offs · Tuesday motifs · *grammar* metaphors (*Fleet grammar*) · *not yet earned* constructions · *[Department] saw…* summaries · abstract authorial aphorisms · **gloves on/off** as Dominion character tell or emotional semaphore · **meta grammar talk** (*the noun*, *the verb*, *without liking the verb*, *neither noun was large enough*, *hero noun*, *orphan noun*) · **geometry** as vague spatial filler (*inside their geometry*, *damage on their geometry*) — prefer concrete: *this close*, *return*, *leading edge*, *shape*, *profile*, *corridor*, *watch* · **wrong** as vague evaluative filler (*the return was wrong*, *wrong in the same way*, *less wrong*, *corridor went wrong*, *never learned to love*) — prefer concrete: *will not settle*, *does not match*, *inconsistent*, *unclassed* · **margin name / margin notation** for Peligar label — prefer *designation*, *comparison class*; keep engineering *structural margin* / *fuel margin*
+
+For gloves specifically: Book One already cut most of the choreography. Do not use gloves on/off/removed/put-back as Petrov/Vex/Senka/Kellin/Neve punctuation, as a "difficult numbers" tell, or as scene dressing that only signals Dominion formality. Keep gloves only when they are literal objects the plot needs.
+
+For noun/verb meta talk: say the actual thing (*word*, *name*, *call*, *wondered*) instead of labeling parts of speech. Exception: technical linguistic work on-page (Park/lexicon scenes) when the craft itself is the subject.
+
+For *wrong*: do not use it as atmosphere or cute judgment. Say what failed (*shape will not settle*, *profile does not match*, *class unavailable*). Keep rare concrete uses only when the error itself is the point (*wrong header*, *wrong bin*).
+
+For *lying / lies* on instruments and plots: same rule. Instruments do not lie; they fail to settle, refuse a lock, or keep shifting. Keep *lie* only for people actually deceiving.
+
+For *margin* as naming jargon: do not use *margin name*, *margin notation*, *outer-margin analysts* for the Peligar designation. Prefer: *designation*, *comparison class*, *Dominion label*, *frontier analysts*. Keep *margin* only for literal engineering (*structural margin*, *fuel margin*).
 
 ### Tuesday references
 
@@ -545,17 +585,20 @@ Replace *witness grammar / Fleet grammar / obligation grammar* with department v
 file|filed|filing
 —                      → em dashes (dedicated sweep; cut almost all)
 like|as if|as though   → analogy quality check (keep if clear + earned; improve or cut if foggy)
-lie|lied|lying         → narrator metaphor cluster?
+lie|lied|lying|\blies\b → instrument/plot anthropomorphism (prefer settle / lock / shift); keep only for people
 grammar|performance was|invited performance
 second pass|every pass|second-pass
 without drama|without ceremony|without applause
 \bDominion\b           → Fleet POV: unauthorized?
 tea.*cold|coffee.*cold|gone cold|too strong|bitter
 nodded once|almost smiled|quietly,
-\bvolume\b             → spatial misuse?
+\bvolume\b             → Dominion spatial OK (V##); Fleet POV: prefer **sector** (audio volume OK)
+SECTOR V / VOLUME V    → headers follow POV: Dominion **VOLUME V##**; Fleet **SECTOR** / Alpha names
+\bsector\b             → Fleet spatial OK; Dominion POV: prefer **volume** for own map units
 seven-alpha            → Dominion POV should be native naming
 pager
-\bpassive\b
+\bpassive\b             → habit prefix? Keep only for passive vs active mode contrast
+\bactive\b              → scan mode OK; do not invent a third mode family
 \bepoch\b
 frontier shading|public shading|shaded provisional
 \bhandshake\b
@@ -564,6 +607,11 @@ main engine|correction thrust
 \bsigning\b
 Tuesday|not yet earned
 traffic acoustics|named individuals|not observed faces
+glove|gloves              → Dominion tell choreography / emotional semaphore (cut unless literal object)
+\bnoun\b|\bverb\b          → meta grammar talk (prefer word/name/call; except real lexicon craft)
+\bgeometry\b              → vague spatial filler (prefer this close / return / shape / profile / leading edge)
+\bwrong\b                 → vague evaluative filler (prefer will not settle / does not match / inconsistent / unclassed)
+margin name|margin notation|outer-margin → naming jargon (prefer designation / comparison class / frontier analysts); keep structural/fuel margin
 ```
 
 ---

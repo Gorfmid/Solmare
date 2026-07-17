@@ -48,7 +48,7 @@ Exact absolute years are often **institutionally soft**. Prefer relative phrasin
 |-------|----------------------|-------------------------------|
 | Origin story | Fresh beginning; Founders' Week; Relay Charter prosperity | Breakaway retained; campaigns retained |
 | Neutral Zone | Buffer / provisional volume; named corridors survive | Strategic depth; inherited geometry |
-| Peer beyond border | Not known as civilization (pre–segment seven) | Watched for decades |
+| Peer beyond border | Not known as civilization (pre–segment seven) | First peer meeting via *Kestrel Veil*; not decades of prior UFA watch |
 | Frontier campaigns | Edited down to buffer language, footnotes, silence | Taught as ongoing pressure |
 
 Fleet historians are not cartoon propagandists. They are **curators**. Selection is the politics.

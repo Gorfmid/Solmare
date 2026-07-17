@@ -201,6 +201,8 @@ Calder had built, without meaning to, a picture in his head of what waited beyon
 
 There were no edges. There was only the front.
 
+He understood, then, why the old anomaly bins had never closed. This was not an empire arriving to declare war. This was work already in progress — assessment that had been running while Fleet still filed ghosts as dust and called a scout the cause of a pattern the scout had only walked into.
+
 The system ahead had no name on any chart *Long Fathom* carried, because no chart anyone alive had drawn extended this far. What had been a system — a star, at least four planets by the old gravitational math Kell ran twice to be certain — was in the act of stopping being one. A gas giant that should have shown storm bands and a hydrogen haze showed instead a skeletal lattice wrapped around what remained of it, atmosphere threading up through structures too regular to be anything but built, drawn off in strands that caught starlight and looked, for one terrible half second, like something exhaling. A rocky world closer in had lost its oceans to a shape Calder's mind kept trying and failing to file as a mining platform, because mining platforms did not extend past a planet's terminator and out the other side.
 
 "They are not taking anything from this system," Calder said, and heard how young his own voice sounded saying it. "They're taking the system."
@@ -242,6 +244,10 @@ He had watched a structure processing a gas giant's atmosphere at a rate Kell co
 Vex did not offer comfort. It was not in him to offer it, and Calder no longer wanted it from anyone who would.
 
 "Orenna Voss-Callan was alive for every one of your twelve minutes," Vex said. "So was the runner who stayed with her. You already knew that. You are only now learning what twelve minutes costs when measured against something that does not slow down to argue with you. That is not forgiveness. It is not condemnation either. It is simply the number, finally sized correctly."
+
+Calder watched the front keep working. "We kept asking when they would come back."
+
+"They did not come back," Vex said. "They never left. We have been watching preparation and calling it weather."
 
 "I don't know how to hold that number and still make the next call," Calder said.
 

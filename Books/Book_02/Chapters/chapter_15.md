@@ -75,6 +75,8 @@ Tonight the surveys had caught up to her nerve.
 
 "We keep asking why they invaded," she said. "They didn't. They began extraction. Cities aren't the prize. Cities are in the way. That's the behavioral frame. Not a self-name, not a cosmology, not a claim about whether we could ever talk to them. Just a category the survey already earned and our war language keeps refusing to spend."
 
+She kept her voice in the sealed register. "Before a board looks like this, something quieter sat in our anomaly bins for years. Partial signatures. Mass that would not settle. Sensor disagreement we treated as instrument weather. If the processing front has a front edge, that edge looks like assessment. Not a scout fleet. Not reconnaissance as we mean it. A long measure of whether a region is worth the work. Contested. Pattern-consistent with precursor assessment. No sole lock."
+
 The room split the way rooms always split around a sentence that arrived one week too early to be comfortable.
 
 "That excuses industrial murder by renaming it," a Fleet officer said, hot.

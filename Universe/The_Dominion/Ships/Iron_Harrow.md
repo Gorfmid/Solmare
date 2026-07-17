@@ -58,3 +58,22 @@
 ## 5. Fleet Knowledge
 
 **None** at Ch. 22. Fleet has silhouette-scale mass, no category, no hull name, no Leviathan class confirmation on the record.
+
+---
+
+## 6. Book Two Continuity — V17 Aftermath (author lock)
+
+Book One Ch. 24 ends at the strike. The gap into Book Two is Dominion institutional memory:
+
+| Field | State |
+|-------|--------|
+| **Approach** | Authentic Peligar **cloak** — stealthy; no warning on *Harrow* boards until decloak |
+| **Opening fire** | **Hard cloak rule (universal):** cannot fire and maintain cloak. Peligar **dropped field and fired everything** |
+| **Damage** | Catastrophic; many thousands dead of Leviathan complement (~60,000) |
+| **Outcome** | Dominion damaged the Peligar contact enough that it **did not pursue**; *Harrow* **re-cloaked** for withdrawal under shields |
+| **Asymmetry** | Peligar cloak superior; observed Peligar show **no human-style shield matrix** |
+| **Gap work** | Extensive **emergency refit** across ~18 months → Ch.1 “present” watch |
+| **Vex** | Public / yard **hero** for saving hull and remaining crew; refuses the theater |
+| **Fleet** | Book One night: one word (**Peligar**) on corridor relay → **VI-Gamma / Fleet HQ chain**. ***Kestrel Veil* may never have seen that traffic.** **~18 months:** workable Fleet–Dominion communication exists; Peligar **archive / meaning** still withheld pending SSD politics. Do not have *Veil* casually connect Ch.1 audio to the word. |
+
+Do not contradict locked Book One ending text; expand only in Book Two onward.

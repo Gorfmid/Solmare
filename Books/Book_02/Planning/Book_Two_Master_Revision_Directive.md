@@ -49,6 +49,8 @@ These items were redundant or contradictory across the Master Prompt, Revision A
 | **Harvest meaning timing** | Revealing Peligar harvest reason at the same moment as the breakaway discovery | **Staged:** breakaway first → dual holidays → **then** (after recon) Harvest = Peligar harvest / refugees. |
 | **Park/Holt romance** | Forced romance | Deepen into personally meaningful bond; romance only if existing characterization supports it; restrained; may remain unnamed. |
 | **Peligar slogan** | Reducing them to a single “continuity” slogan on the page | Defining observed behavior: **consumption, conversion, processing without recognizing peers.** Do not lecture a triangle. |
+| **Book One → Two *Iron Harrow* gap** | Leaving Alpha Seven strike unresolved / soft | **V17 (author lock):** After the B1 header exchange, a separate larger Peligar contact struck *Iron Harrow*. **Approach under authentic Peligar cloak (stealthy).** **Hard cloak rule (universal):** you cannot fire and maintain cloak — field finishes on weapons discharge. Peligar **dropped cloak and fired everything**. *Harrow* was under envelope; **detection path unknown** — how Peligar acquired a cloaked Leviathan is an open SSD question (do not solve in Ch.1; return in SSD rooms / cloak politics). Extensive battle on the page (Book Two Ch.1 open — bang and loss). Catastrophic damage; **many thousands dead**. Dominion **damaged the Peligar enough that it did not pursue**; *Harrow* re-cloaked for withdrawal under shields. Observed Peligar still show **no human-style shield matrix**. **Emergency refit** fills ~18 months into Ch.1 “present.” **Vex = unwilling hero.** **~18 months:** Fleet–Dominion **learn to communicate** (headers → workable speech). **Still withheld:** Peligar archive / meaning. Word ***Peligar*** went corridor relay → VI-Gamma / Fleet HQ; ***Kestrel Veil* may never have seen that traffic** — do not have Ch.1 *Veil* connect audio to the word. Do not rewrite locked Book One prose. |
+| **Fleet/Dominion systems kinship (early seed)** | “Someone expected neighbors” / designed-compat framing | **No one expected it.** Book One header exchange worked because stacks were compatible (older variant ↔ current) — not speech yet. **~18 months after:** workable Fleet–Dominion communication exists. Later drop (Act I–III, author place): *Iron Harrow* scans of the Fleet scout indicated **similar building / construction styles** to Dominion own — sealed observation only; does not prove origin on its own. Feeds Ellis Stage 1–2 without finishing it early. |
 | **Manuscript approach** | Restart / discard completed work | **Revise in place.** Integrate addenda into current files. |
 
 ---
@@ -230,9 +232,21 @@ No internal politics, emotions, hierarchy, philosophy, self-name, private motive
 
 Not conventional conquerors — **processors**. Everything can become resource. Fleet/Dominion are nuisances (anthill / construction metaphor as author understanding; on page use concrete observation, not lectures). Horror = indifference, not sadism.
 
+### Precursor assessment (Ch.2+ only — do not rewrite Ch.1)
+
+**Author lock.** Full directive: [`peligar_precursor_integration.md`](peligar_precursor_integration.md) · seed: `Universe/The_Dominion/peligar_planning_seed.md`.
+
+- Book One contact / anomalies around *Kestrel Veil* were **not** an attack fleet. Anomalies were caused **in part** by **Peligar precursor activity** (slow assessment of whether a region is worth consuming).
+- Expansion model: identify → long-term assess → evaluate conditions → decide processing viability. Not recon/war/diplomacy in their frame — **assessment**.
+- *Kestrel Veil* was the first identifiable **witness**, not the anomaly. Activity was already underway; the scout exposed the pattern.
+- Dominion implication (later, earned): they are not “returning”; they **never left**; they have been assessing.
+- **Reveal pacing:** connected anomalies (early) → pattern (middle) → precursor assessment (later) → watching preparation, not attacks (eventually). No Ch.1 dump.
+
 ### Fleet / tech scale
 
 Visible fleet smaller in count than combined human forces; vastly more advanced. Different scale, not upgraded human ships. Real warships exist — not “only construction equipment.” Some capitals = mobile civilizations (habitats, foundries, yards, processing, populations). Larger than Leviathans. Concrete comparisons only (Leviathan in a bay; “station” changes course; blocks stars). No gods/monsters/cosmic-horror metaphors.
+
+**Dominion knowledge lock:** ~1000 years of **defensive** contact; **one observed ship type / return family** in the archive. They hold their edge; they have not pushed into Peligar space. Interior scale/types are unknown until deep recon. See `Universe/The_Dominion/peligar_planning_seed.md`.
 
 ### Name adoption
 
@@ -244,17 +258,29 @@ Early: Dominion designation / temporary Fleet class. Later: Fleet uses “Peliga
 
 **Placement:** Late Act IV or early Act V — after Calder’s major delay; after enough trust to share cloak; before his crisis fully resolves. Absorb into existing chapters (do not auto-add chapters).
 
-**Profile:** Dominion cloak; silent running; passive only; emission control; minimal comms; Dominion expertise; possibly mixed crew. Submarine tension, not battle spectacle.
+**Hull (author lock):** ***Kestrel Veil*** — partially repaired (main engines and communications online; may still list / carry unfinished structural work). Comms capable; **TX sealed** deep in Peligar space so they do not paint position.
 
-**Calder expects:** bases, colonies, supply lines, conventional empire.  
-**Calder finds:** processing; mobile civilization scale; no peer recognition; short windows explained.  
-**Connects to failure:** understands people were alive while he kept observing; delay didn’t cause the Peligar — it reduced survival.
+**Cloak source (author lock):** Field unit taken from ***Long Fathom*** (Dominion donor hull / yard asset), fitted to *Veil* for one mission. **Fleet must return** the unit; not Fleet kit.
+
+**Crew (author lock):**
+- *Veil* command crew given an **opt-in** (on page: command circle only; all accept knowing the risks).
+- **Thessaly goes** with *Veil* (does not hold the joint table from Helion).
+- **Vex rides with Calder’s crew** — present, professional, **not happy about it** (SSD cost + living on a Fleet scout).
+- Farewell beats before launch: **Park ↔ Holt**; **Calder ↔ Lisette** (aunt / Cardamom Oven); other farewells optional and light.
+
+**Profile:** Dominion cloak on Fleet hull; silent running; passive only; emission control; minimal/no TX; Dominion expertise aboard via Vex. Submarine tension, not battle spectacle. Cloak **quirks:** mix of mechanical limits (heat / field budget / odd dropouts) and light comic glitches — never make the tech a joke that removes danger.
+
+**Calder expects:** bases, colonies, supply lines, conventional empire / attack logistics.  
+**Calder finds:** processing; mobile civilization scale; no peer recognition; short windows explained; evidence that **assessment / precursor work** was already running ahead of open processing (they were not “arriving to invade”).  
+**Connects to failure:** understands people were alive while he kept observing; delay didn’t cause the Peligar — it reduced survival against a process that had already been measuring the region.
 
 ---
 
 ## 11. Dominion Cloaking
 
-Based on recovered/reverse-engineered Peligar fragments. Inferior copies; incomplete science; major advantage over Fleet; authentic Peligar still far ahead. Sharing = enormous political cost. Limits: heat, speed, power, passive only, no TX/active scan, duration, focused-scan detection risk, no cloak after weapons, hard nav, crew strain. Not Fleet routine kit by book end. Not an easy later plot device.
+Based on recovered/reverse-engineered Peligar fragments. Inferior copies; incomplete science; major advantage over Fleet; authentic Peligar still far ahead. Sharing = enormous political cost. Limits: heat, speed, power, passive only, no TX/active scan, duration, focused-scan detection risk, **hard rule — cannot fire and maintain cloak** (field finishes on weapons discharge; same rule for Dominion copies and authentic Peligar), hard nav, crew strain. **Under fire:** holding cloak is not invulnerability — it can spoil enemy track / cause misses / soft hits; enough fire still lands. Dropping cloak is the price of returning fire. **Book Two share model:** one-mission loan of *Long Fathom*’s unit to *Kestrel Veil*; **must be returned**; not Fleet routine kit by book end. Not an easy later plot device. On *Veil*, the downsized/adapted fit is imperfect — quirks and failures at odd times are allowed (mechanical + light comic), provided detection risk stays real.
+
+**Process peek (author lock):** During the loan / install / recovery cycle, Fleet gets a **limited look at how Dominion builds cloak fields** (yards, materials, incomplete reverse-engineering steps — enough for engineers to understand the shape of the problem). That peek does **not** yield a Fleet-built cloak in Book Two. Fabrication timeline is long; any Fleet cloak is a later-book question. SSD will treat even the peek as contamination; keep it sealed and incomplete on page.
 
 ---
 

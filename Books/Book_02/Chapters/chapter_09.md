@@ -135,6 +135,8 @@ Archive compare came back at minute eleven with Dominion precision and Dominion 
 
 "Prior Long Watch product on this bearing from sixty-one days ago shows intermittent ghost returns associated with fringe dust and old survey scatter," Kell said. "No certified craft. Recommendation: hold station. Do not pursue. Do not illuminate. Treat as archive-consistent anomaly unless local survival need certifies otherwise."
 
+Ortega did not look away from her board. "Those ghosts sit next to residual markers we used to throw in the dust bin. If the bins are wrong, the dust story is wrong with them."
+
 "Fleet Segment compare still shows no dark freighter," Orlen added from Contact Node Seven. "But Segment cannot certify absence of unregistered craft. Absence is not a product we own."
 
 Calder wanted the initiative update. He wanted one closer pass, one better passive stack, one noun that stopped wobbling. Certainty addiction did not care that Vex had just given him a historically grounded reason to wait. Certainty addiction wanted the board finished.

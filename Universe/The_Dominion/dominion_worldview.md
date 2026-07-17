@@ -93,11 +93,11 @@ Both honestly believe they are protecting future generations. **This philosophic
 
 ### Historical relationship (series canon)
 
-Fleet Authority is not an unknown civilization to the Dominion. It is a **breakaway expansion polity** whose founding myth scrubbed shared history from public memory while **cartographic terms** (including *Neutral Zone* corridors) survived on both sides.
+Fleet Authority's deep origin (breakaway founding) may live in **Dominion institutional memory** without meaning Dominion had a running watch on modern UFA. **First peer meeting** with living Fleet Authority is Book One (*Kestrel Veil* / *Iron Harrow*).
 
 - **No border treaties** — collision is expansion meeting maintained strategic depth, not diplomatic parity.
-- **Dominion** retains campaign memory, border watch, and awareness of Fleet habits.
-- **Fleet** retains the Neutral Zone as institutional category but has **hollowed out** the referent — buffer doctrine, edited curricula, Founders' Week forward-facing memory.
+- **Dominion** retains campaign / founding memory where authorized; **does not** treat UFA as a neighbor watched for decades before *Veil*.
+- **Fleet** retains hollowed buffer vocabulary and Founders' Week forward-facing memory; does not know the name *Dominion* until authorized beats.
 
 Full model: `Universe/Fleet/fleet_dominion_frontier_history.md`
 
@@ -340,8 +340,8 @@ None of these individually prove anything. **Together** they reveal a civilizati
 
 ### Strategic posture (author canon)
 
-- The Dominion has **watched Fleet Authority for decades**
-- The Dominion understands Fleet Authority **better than Fleet Authority understands the Dominion**
+- ***Kestrel Veil* was first peer meeting** with Fleet Authority (Book One) — Dominion had **not** watched UFA for decades beforehand
+- After contact, Dominion may understand Fleet habits **faster** than Fleet understands Dominion (asymmetric archives, not long prior observation)
 - The Dominion does **not** want war today
 - The Dominion wants to ensure that, if war comes tomorrow, **it cannot lose**
 
@@ -401,9 +401,9 @@ If readers can empathize with **both** civilizations simultaneously, the series 
 
 Readers should slowly realize:
 
-- The Dominion has watched Fleet Authority for decades
-- The Dominion understands Fleet better than Fleet understands the Dominion
-- Preparation has been underway for years
+- ***Kestrel Veil* was first peer meeting** with living Fleet Authority — not decades of prior UFA watch
+- After contact, Dominion may still move faster on Fleet habits than Fleet does on Dominion (asymmetric archives)
+- Preparation doctrine is older than this neighbor; it was not built solely for UFA
 - War is not desired today — **unacceptable loss tomorrow** is what they fear
 
 That tension should become one of the defining strengths of The Solmare Cycle.

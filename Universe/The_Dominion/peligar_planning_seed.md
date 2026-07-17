@@ -31,6 +31,25 @@ Book One lock: Vex notes a hull was "not Peligar either—wrong mass curve for t
 
 ---
 
+## Dominion observational limit (author lock)
+
+**~1000 years of contact, one observed ship type.**
+
+| Layer | State |
+|--------|--------|
+| **Reality** | Multiple Peligar hull roles / scales exist (warships, processing, capital-scale mobile civilizations — see Book Two Master Revision Directive) |
+| **Dominion archive** | Effectively **one return family / yard signature** across the long fight — everything files under that comparison class |
+| **Strategic posture** | **Defensive.** Dominion holds its own volume edge; has **never** pushed a sustained offensive into Peligar space. They survive and document. They do not map the interior. |
+| **Consequence** | Long familiarity without depth. They know the enemy they meet on *their* side of the line. They do not know what waits further in. |
+
+**Book Two payoffs:**
+- Ch.1 “same family / comparison class” = honest Dominion knowledge, not laziness
+- Deep recon (*Veil* + cloak) is the first real look past that defensive line — scale/types beyond the one signature become available through observation
+
+Do not have Dominion officers casually describe a full Peligar order of battle they have never seen.
+
+---
+
 ## Civilization triangle
 
 | Civilization | Exists to preserve… |
@@ -186,6 +205,68 @@ This is a Dominion observation — preparation, history, continuity — not Flee
 
 ---
 
+## Precursor assessment (author lock — Book Two Ch.2+)
+
+**Status:** Authoritative. Integrate from **Chapter 2 onward only**. Do **not** rewrite Chapter 1 or dump this into the Ch.1 open.
+
+### Core model
+
+The Peligar presence that brushed Book One was **not** an attack fleet or active invasion force.
+
+Book One anomalies around *Kestrel Veil* were caused **in part** by **Peligar precursor activity**.
+
+Expansion is slow and process-driven:
+
+1. Identify potential resource-rich systems
+2. Perform long-term assessment
+3. Evaluate biological, industrial, and environmental conditions
+4. Establish whether future processing / deployment is viable
+
+They do **not** frame this as reconnaissance, warfare, or diplomacy. It is **assessment**.
+
+They are not “invading” when they arrive. They are evaluating whether a region is worth consuming.
+
+### What they are not (reinforce)
+
+- Not a traditional empire
+- Not conquerors seeking territory
+- Not carriers of human motives (anger, revenge, glory)
+
+A Fleet or Dominion hull is not an enemy. It is an **obstacle, variable, or environmental condition**.
+
+### *Kestrel Veil* role
+
+*Kestrel Veil* was **not** the anomaly.
+
+It was the first **identifiable witness** to an existing pattern.
+
+Dominion (and later Fleet) initially associated the anomaly pattern with the Fleet scout because the scout was visible, new, and the only confirmed vessel. Later understanding: Peligar activity was **already** occurring; *Veil* arrived during an **active assessment cycle**. *Veil* changed history by **exposing** the pattern.
+
+### Dominion implication
+
+Dominion doctrine = early warning, evacuation, preservation, survival, minimizing losses. They have **endured**, not defeated.
+
+Terrifying later realization (earn it; do not dump early):
+
+> The Peligar are not returning.  
+> They never left.  
+> They have been assessing.
+
+### Reveal pacing (mandatory stages)
+
+| Stage | When (approx.) | On-page shape |
+|-------|----------------|---------------|
+| **Early** | Ch.2–9 | “These anomalies may have been connected.” |
+| **Middle** | Ch.10–14 | “The anomalies show a pattern.” |
+| **Later** | Ch.15–18 | “The pattern is consistent with precursor assessment.” |
+| **Eventually** | Ch.19–20+ | “We have not been watching attacks. We have been watching preparation.” |
+
+Tone: institutional realism, careful discovery, competing interpretations. No villain speeches, cosmic horror, “ancient enemy awakening,” or dramatic cosmology dumps. Horror = **the evidence was always there; they asked the wrong question.**
+
+**Related directive:** `Books/Book_02/Planning/peligar_precursor_integration.md`
+
+---
+
 ## Book Two narrative jobs
 
 1. Make Peligar **felt** before they are understood (Iron Harrow fire; screaming intercepts; expanding border).
@@ -193,6 +274,7 @@ This is a Dominion observation — preparation, history, continuity — not Flee
 3. Prove the threat on a **Fleet colony** (Act I close) using ecology framing, not cartoon genocide language.
 4. Seed Ellis's extraction thesis; do not complete the series reveal if it belongs later.
 5. Keep Calder/Vex trust professional; keep Park on the speech misread → language recognition arc.
+6. Stage the **precursor assessment** reinterpretation of Book One / archive anomalies (Ch.2+ only; Ch.1 preserved).
 
 ---
 

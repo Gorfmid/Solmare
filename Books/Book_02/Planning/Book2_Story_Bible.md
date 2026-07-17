@@ -125,7 +125,7 @@ Book Two inherits a Fleet Authority that:
 
 Book Two inherits a Dominion that:
 
-- Has watched Fleet for decades
+- Met Fleet Authority first through *Kestrel Veil* (Book One) — no decades of prior UFA watch
 - Already knows "Peligar" as a civilizational / industrial comparison class
 - Remembers more of the breakaway history than Fleet does
 - Prefers preparation over glory; tea, gloves, plaques, historical memory

@@ -45,7 +45,7 @@ Klimov widened the map. Two more nodes along the border matched the interval. On
 
 "That's not a patrol problem," Ortega said. Same sentence as last night. Uglier now, because the map had grown around it.
 
-"No," Kell said. "That's a shape. My grandmother used to say a man who calls a cleared road a finished war teaches the next watch to die surprised." He said it without triumph, which was somehow worse than if he'd gloated.
+"No," Kell said. "That's a shape. My grandmother used to say a man who calls a cleared road a finished war teaches the next watch to die surprised." He said it without triumph, which was somehow worse than if he'd gloated. "Long Watch has anomaly bins older than this war language. Mass that would not lock. Emissions that would not class. Ghost returns we filed as dust because dust was cheaper than admitting a pattern we could not finish. Those bins may belong to this shape. We had the returns. We asked the wrong question."
 
 A Doctrine liaison on lag from Helion tried for the word everyone in the gallery kept reaching for. "If five systems show the same signature, we lock *invasion front* before Council invents worse language without us."
 

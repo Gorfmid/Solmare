@@ -9,11 +9,13 @@
 
 The room had two tables and one argument waiting to begin.
 
-Park sat on the Fleet side with his slate open to the draft header stack and a coffee mug he had brought from the *Kestrel* because the node pantry stocked only tea. Across from him, the Dominion side had tea already poured into cups that matched nothing in Fleet inventory. Between the tables sat a relay pedestal that would carry Admiral Rowan's voice from Helion when the session opened, and a second pedestal for whoever Dominion Civil Government had authorized to speak without being physically present.
+Park sat on the Fleet side with his slate open to the draft header stack and a coffee mug from the *Kestrel*. The mug was labeled BEST CAPTAIN EVER. He had verified three things about it. One: it was not his. Two: nobody in Communications had claimed it. Three: Captain Calder had spent six months quietly looking for it without formally reporting it missing. The third fact was the most interesting. Park had considered returning it. He had decided against it. The meeting was already complicated enough.
+
+The node pantry stocked only tea. Across from him, the Dominion side was still empty — tea already poured into cups, waiting for people who had not arrived yet. Between the tables: a relay pedestal for Admiral Rowan from Helion, and a second for a Civil Government voice joining remotely.
 
 The walls were painted in the dull institutional gray of a corridor station that had been built for packet handoff and emergency docking, not for politics. Someone had bolted the tables down. Someone else had added a second wall display the week before, the mounting screws still bright against older paneling. Contact Node Seven smelled like recycled air and machine oil and the faint resin of Dominion packing seals on crates stacked in the anteroom.
 
-Outside the sealed viewports, the Neutral Zone outer corridor held ordinary traffic: freighters on approved routes, a Dominion border watch holding station, a Fleet packet runner waiting for authorization to leave. None of that traffic knew the room existed in the way the people inside it did. The node was a temporary permission wearing permanent bolts.
+Outside the sealed viewports, the Neutral Zone outer corridor held ordinary traffic: freighters on approved routes, a Dominion border watch holding station, a Fleet packet runner waiting for authorization to leave. During the early talks after contact, Fleet and Dominion had drawn the zone as a buffer where warships were not allowed. What moved past the glass was what the rule still permitted. None of that traffic knew the room existed in the way the people inside it did. The node was a temporary permission wearing permanent bolts.
 
 Thessaly checked the seating chart one more time. Calder stood near the wall display, reading the agenda without looking comfortable about any line of it.
 
@@ -245,7 +247,7 @@ A third relay line ran open beside Rowan's: Fleet Communications Command, valida
 
 "Eat something after this," Holt said, and then her voice went flat and professional in the way Park recognized from watching her work a board for a decade. "I ran the infrared and polarization overlays against three independent Fleet archive events. They're not noise. They repeat. I can't tell you what they mean. I can tell you Fleet instruments see the same structure the *Kestrel* saw, on our own equipment, without anyone across the table telling us what to look for."
 
-Park felt something loosen that he hadn't known was tight. Not relief, exactly. Company.
+Park felt something loosen that he hadn't known was tight. Not relief, exactly. Company. And under it, a quieter wrongness: if those older events belonged with this recording, then the *Kestrel* had not invented the problem. It had walked into one already running.
 
 "Good," he said. "Stay on."
 

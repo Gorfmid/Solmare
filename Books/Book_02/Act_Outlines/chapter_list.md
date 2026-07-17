@@ -30,7 +30,7 @@ Book Two is structured around **reluctant cooperation under existential pressure
 **Canonical framing:**
 
 - Ch. **16** = Calder’s major hesitation failure (Assist Yard Nine) — *before* deep recon  
-- Ch. **18–20** = cloak share → *Long Fathom* silent-running recon → processing revelation  
+- Ch. **18–20** = cloak share (*Long Fathom* donor unit → *Kestrel Veil*) → *Veil* silent-running recon → processing revelation  
 - Ch. **21** = Ellis completes founding history (dual holiday + Harvest = Peligar harvest / refugees)  
 - Ch. **22** = aftermath trust crisis + Thessaly pull-back (not the first origin of Calder’s guilt)  
 - Ch. **23–25** = Helion Accord = limited cooperation, **explicitly not alliance**
@@ -42,7 +42,7 @@ Book Two is structured around **reluctant cooperation under existential pressure
 | # | Title | Summary | Words | Stage |
 |---|-------|---------|------:|-------|
 | — | **The Founding Exodus** | Harvest-week departure from Serath; multi-gen convoy; dual-ignorance coda. Reader holds shared-origin seed. | 4,115 | **Final Candidate** |
-| 1 | Silent Frequencies | *Iron Harrow* meets uncategorizable Peligar pressure; *Kestrel* intercepts multi-vocal contact. | 6,710 | **Revision Pass** |
+| 1 | Silent Frequencies | Opens on V17 *Harrow*/Peligar battle (bang and loss); hard cut to present; *Kestrel* intercepts multi-vocal contact. Calder certainty hunger seeded; Vex destination question seeded. | ~7,250 | **Final Candidate** |
 | 2 | Shared Words | Contact protocols at Contact Node Seven; Dana Holt introduced; “they’re talking.” | 6,896 | **Revision Pass** |
 | 3 | Lines on a Map | Dominion help request; Calder–Vex as counterparts; Thessaly command flinch; Founders’ Reach quiet. | 7,147 | **Revision Pass** |
 | 4 | First Exchanges | Shared work collapses as Founders’ Reach is processed on Fleet soil. Act I ends. | 7,437 | **Revision Pass** |
@@ -60,15 +60,15 @@ Book Two is structured around **reluctant cooperation under existential pressure
 | 16 | The Cost | **PRIMARY FAILURE** — Assist Yard Nine; twelve-minute delay; Orenna and Petya unpaid. | 3,577 | **Revision Pass** |
 | 17 | Broken Procedures | Aftermath overcorrection; provisional wartime ROE; Thessaly declines *Halvorsen*. | 3,647 | **Revision Pass** |
 | 18 | Counterstroke | Costly joint strike; cloak-share greenlight; deep recon authorized. Act IV closes. | 3,053 | **Revision Pass** |
-| 19 | Helion | Accord drafts under ash; *Long Fathom* launches silent-running recon. Act V opens. | 5,592 | **Revision Pass** |
-| 20 | Revelations | Deep recon climax — processing front; Ellis Stage 2 (Fleet ← Dominion origin). | 5,094 | **Revision Pass** |
-| 21 | The Old Departure | Dual-holiday recognition; Harvest = Peligar harvest / refugees; Calder tries to surrender command. | 6,055 | **Revision Pass** |
+| 19 | Helion | Accord drafts under ash; *Veil* launches silent-running recon (cloak from *Long Fathom*). Act V opens. | 5,592 | **Revision Pass** |
+| 20 | Revelations | Deep recon climax aboard *Veil* — processing front; Ellis Stage 2 (Fleet ← Dominion origin). | 5,094 | **Revision Pass** |
+| 21 | The Old Departure | *Veil* returns; dual-holiday recognition; Harvest = Peligar harvest / refugees; Calder tries to surrender command. | 6,055 | **Revision Pass** |
 | 22 | Trust | Aftermath trust crisis; Thessaly pull-back; cooperation re-chosen under ash. Act V closes. | 5,148 | **Revision Pass** |
 | 23 | The Accord | Helion Accord signed: rescue, warning, observation, limited military — **not alliance**. | 2,659 | **Revision Pass** |
 | 24 | The Crossing | First Accord-authorized joint frontier crossing; instruments imperfect. | 2,719 | **Revision Pass** |
 | 25 | Aftermath | Thessaly accepts *Halvorsen*; Park–Holt unfinished; Book Three alliance question. | 3,785 | **Revision Pass** |
 
-**Total (Prelude + Ch. 1–25):** **~142,400 words** (markdown source word count)
+**Total (Prelude + Ch. 1–25):** **~143,000 words** (markdown source word count; Ch. 1 grew ~500–700 from prior list entry)
 
 **Files:** `Chapters/prelude.md` · `Chapters/chapter_01.md` … `chapter_25.md`
 
@@ -83,7 +83,7 @@ Book Two is structured around **reluctant cooperation under existential pressure
 | **Final Candidate** | Structure stable; eligible for Writing Pass 1 / final prose polish |
 | **Final Lock** | Frozen — **no edits** without explicit, directed author unlock |
 
-**Current board:** Prelude = **Final Candidate**. Chapters 1–25 = **Revision Pass**.
+**Current board:** Prelude + Ch. 1 = **Final Candidate**. Chapters 2–25 = **Revision Pass**.
 
 **Final Lock rule:** Once a piece is Final Lock, do not rewrite, add scenes, change dialogue, or alter lore unless the author explicitly unlocks it and directs the change. Spelling/grammar/formatting/production-only fixes require the same explicit unlock if they touch locked prose.
 
@@ -91,9 +91,9 @@ Book Two is structured around **reluctant cooperation under existential pressure
 
 ## Book Overview (Summary)
 
-Eighteen months after the Kestrel Veil Incident, Fleet and Dominion know they are neighbors and still do not trust each other. When *Iron Harrow* meets a Peligar contact Fleet cannot categorize, fragile communications begin — and collapse into necessity when **Founders’ Reach** is processed on Fleet soil.
+Eighteen months after the Kestrel Veil Incident, Fleet and Dominion know they are neighbors, have learned to communicate, and still do not trust each other. When *Iron Harrow* meets a Peligar contact Fleet cannot categorize, fragile channels already exist — and still collapse into necessity when **Founders’ Reach** is processed on Fleet soil.
 
-Forced into limited joint work, Calder and Vex build operational trust without friendship. Ellis begins to suspect the civilizations share a departure history. Calder’s need for certainty costs lives at **Assist Yard Nine**. A one-time Dominion cloak mission on ***Long Fathom*** shows him what Peligar processing actually is — and what his delay bought against that tempo.
+Forced into limited joint work, Calder and Vex build operational trust without friendship. Ellis begins to suspect the civilizations share a departure history. Calder’s need for certainty costs lives at **Assist Yard Nine**. A one-time Dominion cloak — taken from ***Long Fathom*** and fitted to the partially repaired ***Kestrel Veil*** — carries Calder’s command crew (and a reluctant Vex) deep enough to show him what Peligar processing actually is — and what his delay bought against that tempo. Cloak returns to Dominion custody after.
 
 Ellis, using Calder’s evidence, proves the founding holidays commemorate the same flight from a Peligar harvest. Thessaly pulls Calder back from surrendering command, then accepts the ***Halvorsen*** herself. The book ends on the **Helion Accord**: rescue rights, shared warning, joint observation, limited military coordination — **explicitly not an alliance**.
 
@@ -104,19 +104,24 @@ Ellis, using Calder’s evidence, proves the founding holidays commemorate the s
 | Beat | Chapter | Notes |
 |------|---------|-------|
 | Dana Holt introduced | 2 | Park–Holt ladder begins |
+| Calder certainty hunger seed | 1 | Unfinished watches as debt; Yard Nine groundwork |
+| Vex destination question | 1 | *Where are they going?* / transit priority; Destination unknown on assessment |
 | Thessaly command flinch | 3, 9 | Guilt seed; not full dump |
 | Founders’ Reach consumed | 4 | Act I proof |
 | Ellis extraction seed | 7, 15 | Invasion language resisted |
+| **Peligar precursor assessment** | **2→20** | Ch.1 untouched. Early: anomalies may connect. Mid: pattern. Later: assessment. Eventually: watching preparation, not attacks. See `Planning/peligar_precursor_integration.md` |
 | Non-alliance posture | 8 | Terms of Necessity |
 | Calder–Vex operational trust | 10, 13 | Peer not friend |
 | Ellis Stage 1 (similarities) | 11 | Seed only |
 | Vex “no hatred” | 13 | Dominion observation |
 | Cloak reverse-engineer hint | 13 | Limits only |
+| *Harrow* scan: similar building styles | TBD (Act I–III) | Sealed Dominion observation of Fleet scout; origin seed only |
+| V17 detection path unknown | 1 (seed) → SSD later | How Peligar acquired cloaked *Harrow*; do not solve in Ch.1 |
 | **Calder major failure** | **16** | 12 minutes; Orenna / Petya |
 | Thessaly declines *Halvorsen* | 17 | First of two offers |
-| Cloak share / recon greenlight | 18 | One-time; Dominion keeps tech |
-| *Long Fathom* launch | 19 | Silent running begins |
-| Deep recon + processing | 20 | Mobile civilization scale |
+| Cloak share / recon greenlight | 18 | *Long Fathom* donor unit → *Veil*; Fleet must return; process peek only (no Fleet cloak in B2) |
+| *Veil* launch (opt-in command crew) | 19 | Silent running; Vex aboard unhappy; farewells |
+| Deep recon + processing | 20 | *Veil* + quirky cloak; mobile civilization scale |
 | Ellis Stage 2 (Fleet ← Dominion) | 20 | Parallel to recon |
 | Dual holiday + Harvest/refugees | 21 | Stages 3, 5, 6 |
 | Thessaly pull-back | 22 | Hard honesty; re-choose |
@@ -160,11 +165,17 @@ Reader-only departure from Dominion space during harvest season. Yeva / Petra / 
 
 ## Chapter 1 — Silent Frequencies
 
-**File:** `chapter_01.md` · **Words:** ~6,710 · **Status:** **Revision Pass**
+**File:** `chapter_01.md` · **Words:** ~7,250 · **Status:** **Final Candidate**
 
-*Iron Harrow* under opaque Peligar pressure (Vex). Fleet/*Kestrel* intercepts multi-vocal screaming misfiled as distress. Calder–Thessaly trust beat.
+*Iron Harrow* **V17 battle open** — Peligar cloaked approach, decloak, full salvo (can't fire while cloaked); bang and loss; scale (~60,000 complement); incomplete accountability; *Harrow* wounds them enough not to pursue; re-cloak withdrawal. Hard cut ~18 months → present **V21 Outer Reach**. By present: Fleet–Dominion can communicate; Peligar archive still withheld. Word *Peligar* went relay → VI-Gamma / HQ — ***Veil* may never have seen it**; Ch.1 *Veil* does not connect audio to the word.
 
-**Payoff:** Uncategorizable threat; drives contact protocols.
+**Canon locks lived on page:** Dominion **volume** / Fleet **sector** POV split; sensors = passive listen / active ping only; Peligar recognition immediate (comparison class / one observed ship family); Fleet restriction is the new political piece; *Veil* closest library match = Alpha Seven *Iron Harrow* (bigger); Park honest unknown — no Peligar word glue.
+
+**Character seeds:** Calder end-watch — certainty hunger / unfinished watches as debt (Yard Nine groundwork). Vex end-watch — *where are they going?* / destination unknown on paper assessment; Fleet routing cleared separately (political vs operational).
+
+**Do not:** dump precursor-assessment reveal here (starts Ch.2+ per `Planning/peligar_precursor_integration.md`).
+
+**Payoff:** Book opens on loss; uncategorizable threat drives contact protocols; B1→B2 gap lived on page.
 
 ---
 
@@ -325,7 +336,7 @@ Calder withdrawal / overcorrection. Doctrine fails under tempo. Thessaly decline
 
 **File:** `chapter_18.md` · **Words:** ~3,053 · **Status:** **Revision Pass**
 
-Limited costly joint strike. Operational trust survives; political trust does not. **Cloak share:** one-time inferior Peligar-derived field; Dominion keeps tech; deep recon greenlit.
+Limited costly joint strike. Operational trust survives; political trust does not. **Cloak share:** one-mission loan of *Long Fathom*’s field unit, fitted to *Kestrel Veil*; Fleet must return; deep recon greenlit. Fleet gets a **process peek** at cloak fabrication (incomplete) — not a working Fleet cloak this book.
 
 ---
 
@@ -339,7 +350,7 @@ Limited costly joint strike. Operational trust survives; political trust does no
 
 **File:** `chapter_19.md` · **Words:** ~5,592 · **Status:** **Revision Pass**
 
-Capital politics; Accord pre-negotiation (non-alliance drafts). *Long Fathom* silent launch. Calder farewell carrying Ch16. Thessaly holds the joint table.
+Capital politics; Accord pre-negotiation (non-alliance drafts). **Opt-in** for *Veil* command crew (shown: Calder, Thessaly, Park, etc. — all accept). Park–Holt beat; Calder–Lisette beat. Vex rides aboard *Veil*, not happy. Cloak transferred from *Long Fathom*; silent launch. Comms capable, TX sealed.
 
 ---
 
@@ -347,7 +358,7 @@ Capital politics; Accord pre-negotiation (non-alliance drafts). *Long Fathom* si
 
 **File:** `chapter_20.md` · **Words:** ~5,094 · **Status:** **Revision Pass**
 
-**Deep recon climax** (submarine tone; processing front; mobile-civilization capital; Ch16 invoice). Parallel: Ellis Stage 2 — Fleet originated from Dominion.
+**Deep recon climax** aboard *Kestrel Veil* (submarine tone; imperfect/quirky cloak — mechanical + light comic; processing front; mobile-civilization capital; Ch16 invoice). Parallel: Ellis Stage 2 — Fleet originated from Dominion.
 
 ---
 
@@ -355,7 +366,7 @@ Capital politics; Accord pre-negotiation (non-alliance drafts). *Long Fathom* si
 
 **File:** `chapter_21.md` · **Words:** ~6,055 · **Status:** **Revision Pass**
 
-*Long Fathom* returns. Dual-holiday recognition. Ellis Stages 5–6: Harvest = Peligar harvest; founders were refugees. Calder tries to surrender command; Rowan refuses; Thessaly holds him.
+*Veil* returns; cloak returned to Dominion custody. Dual-holiday recognition. Ellis Stages 5–6: Harvest = Peligar harvest; founders were refugees. Calder tries to surrender command; Rowan refuses; Thessaly holds him.
 
 ---
 

@@ -204,10 +204,10 @@ Detect, classify, and track environmental and vessel signatures sufficiently to 
 
 ## How it works (high level)
 
-Sensor suites combine passive and active modalities:
+Sensor suites combine **two modes only** (submarine sonar / network listen vs ping):
 
 - **Passive:** listen, spectral, optical, environmental mapping without illuminating the target volume
-- **Active:** emitters / interrogation pulses that improve resolution at the cost of revealing the emitting platform
+- **Active:** emitters / interrogation pulses that improve resolution — and light up the volume for **everyone** listening
 
 Scout design emphasizes long-range spectral analysis, environmental mapping, deep-space anomaly packages, and **redundant verification sensors**.
 
@@ -268,10 +268,14 @@ Multiple systems may produce conflicting "true" readings. Contradiction is prese
 
 ### Passive vs active (operational grammar)
 
+Think **sonar on a submarine**.
+
 | Mode | Benefit | Cost |
 |------|---------|------|
 | **Passive** | Lower self-revelation; listen watches; scout core craft | Lower resolution; saturation; ambiguous returns |
-| **Active / emitters** | Better track quality; ranging confidence | Announces presence; invites counter-detection and fire |
+| **Active / emitters** | Much clearer picture of everything in the volume | Paints the volume for **everyone** in range — including a sharp picture of **the ship that pinged** |
+
+Going active is not a quiet upgrade to your own board. It is a broadcast: better data for you, and better data for every other listening platform in the area, with your own position and emissions signature among the clearest returns.
 
 Book One Act III discipline — **emitters dark** — is a survival grammar, not a preference for ignorance. The *Kestrel* chooses witness integrity over picture quality.
 
