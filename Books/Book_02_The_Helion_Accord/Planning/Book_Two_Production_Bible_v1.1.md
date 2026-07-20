@@ -4,6 +4,8 @@
 **Status:** Internal production guide (working authority for Book Two development)  
 **Series:** The Solmare Cycle  
 **Book slot:** Book Two — Cooperation  
+**Title:** *The Helion Accord* (locked)  
+ 
 **Working theme:** Trust is harder than war.  
 **Supersedes:** Book Two Production Bible v1.0 (working draft)  
 **Revision execution brief:** [`Book_Two_Master_Revision_Directive.md`](Book_Two_Master_Revision_Directive.md) (reconciled; **last statement wins** on conflicts)

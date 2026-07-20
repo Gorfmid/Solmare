@@ -2,7 +2,8 @@
 
 **Status:** Authoritative planning bible + chapter outlines expanded (not locked for draft)  
 **Series:** The Solmare Cycle · Book Two  
-**Folder:** `Books/Book_02/` (title TBD)  
+**Title:** *The Helion Accord* (locked)  
+**Folder:** `Books/Book_02_The_Helion_Accord/`  
 **Outlines:** `Planning/Outline/` (Prelude + Ch. 1–25)  
 **Peligar seed:** `Universe/The_Dominion/peligar_planning_seed.md`  
 **Type:** Knowledge and planning only — not prose fiction  
@@ -41,13 +42,12 @@ This is the **production story bible** for Book Two. It governs:
 - Institutional development tracks (Fleet + Dominion)
 - Setup for Book Three
 - Continuity risks and open author decisions
-- Downstream production workflow under `Book_02/`
+- Downstream production workflow under `Book_02_The_Helion_Accord/`
 
 ## What this document is not
 
 - Not chapter prose
 - Not a locked chapter list
-- Not a locked title
 - Not a full Peligar lore encyclopedia
 - Not permission to contradict Book One locked manuscript or series faction foundations
 
@@ -1100,7 +1100,7 @@ Book Three series slot: **Alliance** — formalized partnership under strain. Bo
 
 ## Cursor workflow (expanded)
 
-| Step | Task | Primary destinations under `Books/Book_02/` |
+| Step | Task | Primary destinations under `Books/Book_02_The_Helion_Accord/` |
 |------|------|---------------------------------------------|
 | **1** | Finalize Story Bible | `Planning/Book2_Story_Bible.md` *(this file)* · `README.md` |
 | **2** | Build Act outlines | `Planning/Act_Outlines/` — `act0_prelude.md`, `act1_uneasy_neighbors.md` … `act6_helion_accord.md` |
@@ -1113,7 +1113,7 @@ Book Three series slot: **Alliance** — formalized partnership under strain. Bo
 ## Suggested folder scaffold (create as needed)
 
 ```
-Books/Book_02/
+Books/Book_02_The_Helion_Accord/
   README.md
   Planning/
     Book2_Story_Bible.md

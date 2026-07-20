@@ -13,7 +13,7 @@ Reference before outlining or drafting any Peligar beat, Dominion warning, or Fl
 
 **Do not** write a full Peligar encyclopedia in Book Two. Expand only what scenes require. Preserve mystery withholds (§ Mystery Boundaries).
 
-**Related:** `dominion_worldview.md` · `Books/Book_02/Planning/Book2_Story_Bible.md` · Book One Ch. 13 (yard-make comparison only)
+**Related:** `dominion_worldview.md` · `Books/Book_02_The_Helion_Accord/Planning/Book2_Story_Bible.md` · Book One Ch. 13 (yard-make comparison only)
 
 ---
 

@@ -18,7 +18,7 @@
 | Contradiction rule | Never contradict locked Book One manuscript or authoritative `Universe/` foundations |
 | Expansion rule | Expand conservatively; mark unknowns |
 | Companion timeline | `Universe/Timeline/post_book_one_history.md` (50-year institutional aftermath — **adoption for Book Two not automatic**) |
-| Book Two planning | `Books/Book_02/Planning/Book2_Story_Bible.md` |
+| Book Two planning | `Books/Book_02_The_Helion_Accord/Planning/Book2_Story_Bible.md` |
 
 ### Authority order (when documents conflict)
 
@@ -426,7 +426,7 @@ None alone proves war. Together they reveal pattern.
 | That something larger may be happening | Whether negotiation is possible |
 
 **Do not** write a Peligar world encyclopedia in this bible. Detail lives in Book Two+ planning when needed.  
-See: `Books/Book_02/Planning/Book2_Story_Bible.md` §11.
+See: `Books/Book_02_The_Helion_Accord/Planning/Book2_Story_Bible.md` §11.
 
 ---
 
@@ -1048,7 +1048,7 @@ Avoid: single-villain explanations; early final-origin reveals; closing all cosm
 | `Writing_System/Series_Principles/cultural_identity_and_philosophical_foundation.md` | Philosophy + cultural memory |
 | `Books/Book_01_.../Notes/book1_core_premise.md` | Book One locked frame |
 | `Books/Book_01_.../Notes/mystery_spine.md` | B1 operational spine |
-| `Books/Book_02/Planning/Book2_Story_Bible.md` | Cooperation / Peligar / Helion Accord planning |
+| `Books/Book_02_The_Helion_Accord/Planning/Book2_Story_Bible.md` | Cooperation / Peligar / Helion Accord planning |
 | `Characters/README.md` | Character library index |
 | `PROJECT_INSTRUCTIONS.md` | Project root instructions |
 

@@ -12,7 +12,7 @@ Calder followed.
 
 Sound came in layers as they climbed. The environmental thrum he had felt in his teeth on the gangway deepened, forty-seven years on the same note. Deck plating flexed where yard specs said it should not, within tolerance where the manual said it must. Hand marks on the bulkhead at every power-cycle junction: palms placed without looking, weight transferred, bodies that had made this climb in bad weather and good.
 
-Corridor B ran bright white into amber into a panel that flickered at the edge of regulation. A strip of yellow tape marked a dent in the port-side bulkhead—non-structural, documented, ignored. Calder's boot caught the edge of it anyway.
+Corridor B ran bright white into amber into a panel that flickered at the edge of regulation. Another strip of yellow tape marked a dent in the port-side bulkhead—non-structural, documented, ignored. Calder's boot caught the edge of it anyway.
 
 Thessaly did not comment. She had stepped around it without glancing down.
 
@@ -144,7 +144,7 @@ Thessaly did not say *welcome to your command*. The crew had heard captains befo
 
 Engineering was down two decks and in, where the systems actually lived.
 
-The access ladder rung spacing was wrong for Calder's academy training—wider at the bottom, narrow at the top, adjusted once by someone who had measured with a knee rather than a spec sheet. Heat increased in sensible degrees. Sound changed from environmental thrum to something more specific: a bearing that was not yet failing, a pump that was not yet complaint.
+The access ladder rung spacing was wrong for Calder's academy training—wider at the bottom, narrow at the top, adjusted once by someone who had measured with a knee rather than a spec sheet. Heat increased in sensible degrees. Sound changed from environmental thrum to something more specific: a bearing that was not yet failing, a pump that was not yet compliant.
 
 Elara Koss stood in front of an open regulator housing with her sleeves rolled and her diagnostic tablet dark. She listened to the machine.
 

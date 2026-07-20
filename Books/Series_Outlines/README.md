@@ -11,7 +11,7 @@ Book-level planning for the series progression beyond Book One. **Not** chapter 
 | Book | Arc | Notes |
 |------|-----|-------|
 | One — *The Kestrel Veil Incident* | Discovery | Complete / locked manuscript |
-| Two | Cooperation | Detail authority: `Books/Book_02/Planning/Book2_Story_Bible.md` |
+| Two — *The Helion Accord* | Cooperation | Detail authority: `Books/Book_02_The_Helion_Accord/Planning/Book2_Story_Bible.md` |
 | Three | Alliance | Formalized partnership under strain |
 | Four | Counteroffensive | Coordinated push; costly, doctrinally legible |
 | Five | **Resolution** | Settlement of the human–Dominion–Peligar collision arc |
@@ -24,7 +24,7 @@ Book-level planning for the series progression beyond Book One. **Not** chapter 
 1. Locked Book One manuscript / state  
 2. Universe foundations (`dominion_worldview.md`, frontier history, cultural touchstones, Fleet governance)  
 3. `Writing_System/Series_Principles/series_principles.md`  
-4. `Books/Book_02/Planning/Book2_Story_Bible.md` (Book Two detail)  
+4. `Books/Book_02_The_Helion_Accord/Planning/Book2_Story_Bible.md` (Book Two detail)  
 5. `Books_02_through_06.md` (this folder’s master outline)  
 6. Downstream per-book bibles and act outlines  
 
@@ -43,5 +43,5 @@ Book-level planning for the series progression beyond Book One. **Not** chapter 
 ## Next production steps
 
 1. Author decision pass on master-outline open items (time gap, titles, Peligar settlement form, Book Six length).  
-2. Finish Book Two act outlines under `Books/Book_02/Planning/`.  
+2. Finish Book Two act outlines under `Books/Book_02_The_Helion_Accord/Planning/`.  
 3. Create Book Three story bible when Book Two structure is stable.

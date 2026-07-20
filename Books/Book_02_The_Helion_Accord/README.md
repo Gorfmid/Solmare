@@ -1,7 +1,8 @@
-# Book Two — The Solmare Cycle
+# Book Two — *The Helion Accord*
 
 **Status:** Prelude **Final Candidate** · Ch. 1–25 **Revision Pass** (not Final Lock)  
-**Working title:** TBD — folder remains `Book_02` until a title is locked  
+**Title:** *The Helion Accord* (locked)  
+**Folder:** `Books/Book_02_The_Helion_Accord/`  
 **Working theme:** **Trust is harder than war.**  
 **Time gap:** ~18 months after Book One
 

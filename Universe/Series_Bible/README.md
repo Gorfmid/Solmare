@@ -14,7 +14,7 @@ Internal franchise production references for **The Solmare Cycle**.
 | Fleet | `Universe/Fleet/unified_fleet_authority.md` |
 | Frontier history | `Universe/Fleet/fleet_dominion_frontier_history.md` |
 | Post–Book One timeline | `Universe/Timeline/post_book_one_history.md` |
-| Book Two planning | `Books/Book_02/Planning/Book2_Story_Bible.md` |
+| Book Two planning | `Books/Book_02_The_Helion_Accord/Planning/Book2_Story_Bible.md` |
 | Series principles | `Writing_System/Series_Principles/` |
 | Characters | `Characters/README.md` |
 | Maps | `Universe/Maps/ufa_galactic_reference_guide.md` |

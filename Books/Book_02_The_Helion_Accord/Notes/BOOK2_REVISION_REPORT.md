@@ -2,7 +2,7 @@
 
 **Pass:** Master Revision Directive (Reconciled) — rough-draft revision  
 **Date:** 2026-07-15  
-**Manuscript:** `Books/Book_02/Chapters/` (Prelude + Ch. 1–25)  
+**Manuscript:** `Books/Book_02_The_Helion_Accord/Chapters/` (Prelude + Ch. 1–25)  
 **Authority:** [`Book_Two_Master_Revision_Directive.md`](Book_Two_Master_Revision_Directive.md)
 
 ---

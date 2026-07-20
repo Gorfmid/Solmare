@@ -2,7 +2,7 @@
 
 **Status:** Knowledge reference (not fiction)  
 **Master file:** [`Character_Encyclopedia.md`](Character_Encyclopedia.md)  
-**Authority:** Expand from `Characters/` profiles; do not contradict locked Book One or `Books/Book_02/Planning/Book2_Story_Bible.md`.  
+**Authority:** Expand from `Characters/` profiles; do not contradict locked Book One or `Books/Book_02_The_Helion_Accord/Planning/Book2_Story_Bible.md`.  
 **Inventions:** Marked `[Expanded for encyclopedia — review]` in the master file.
 
 ---
@@ -85,7 +85,7 @@
 | `Characters/Relationship_Matrix/relationship_matrix.md` | Senior-crew pairwise trust |
 | `Characters/Primary_Crew/ensemble_design.md` | Spectrum / interpretive models |
 | `Books/Book_01_.../Notes/book1_core_premise.md` | Book One locked framing |
-| `Books/Book_02/Planning/Book2_Story_Bible.md` | Book Two arcs (pending time-gap decisions) |
+| `Books/Book_02_The_Helion_Accord/Planning/Book2_Story_Bible.md` | Book Two arcs (pending time-gap decisions) |
 
 ---
 

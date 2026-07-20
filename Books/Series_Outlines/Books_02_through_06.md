@@ -5,7 +5,7 @@
 **Scope:** Books Two–Six — theme, conflict, arcs, politics, discoveries, endings, transitions  
 **Type:** Knowledge and planning only — not prose fiction; not chapter/scene outlines  
 **Authority order:** Locked Book One manuscript → Universe foundations → Series Principles → Book Two Story Bible → **this document** → downstream book bibles/outlines  
-**Companion:** `Books/Book_02/Planning/Book2_Story_Bible.md` (Book Two detail authority)  
+**Companion:** `Books/Book_02_The_Helion_Accord/Planning/Book2_Story_Bible.md` (Book Two detail authority)  
 **Continuity companion (optional adoption):** `Universe/Timeline/post_book_one_history.md`
 
 ---
@@ -29,7 +29,7 @@ Never write a battle before understanding the history that made it inevitable.
 | Book | Arc label | Core movement | Locked title? |
 |------|-----------|---------------|---------------|
 | One — *The Kestrel Veil Incident* | **Discovery** | Learn the neighbor exists; form doctrine under uncertainty | Yes |
-| Two | **Cooperation** | Reluctant joint action under existential external pressure | TBD (`Book_02`) |
+| Two — *The Helion Accord* | **Cooperation** | Reluctant joint action under existential external pressure | Yes (`Book_02_The_Helion_Accord`) |
 | Three | **Alliance** | Formalized partnership under strain | TBD |
 | Four | **Counteroffensive** | Coordinated military push against Peligar expansion logic | TBD |
 | Five | **Resolution** | Series settlement of the human–Dominion–Peligar collision arc | TBD |
@@ -100,11 +100,11 @@ Craft warning: Peligar are the **external pressure** forcing Fleet–Dominion pa
 
 # 3. Book Two — Cooperation
 
-**Working title:** TBD  
+**Title:** *The Helion Accord* (locked)  
 **Theme:** Trust is harder than war.  
 **Series slot:** Reluctant joint action under existential external pressure.  
 **Structure (bible lock):** Prelude + six acts · ~180,000 words · ~25 chapters (chapter work is downstream).  
-**Detail authority:** `Books/Book_02/Planning/Book2_Story_Bible.md` — this section summarizes and must not contradict.
+**Detail authority:** `Books/Book_02_The_Helion_Accord/Planning/Book2_Story_Bible.md` — this section summarizes and must not contradict.
 
 ## Central question
 

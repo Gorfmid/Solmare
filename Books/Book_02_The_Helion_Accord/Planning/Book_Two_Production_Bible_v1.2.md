@@ -5,6 +5,7 @@
 **Status:** Authoritative structural definition for Book Two before / during revision  
 **Source:** [`Book_Two_Production_Bible_v1.1.md`](Book_Two_Production_Bible_v1.1.md)  
 **Companions:** [`Book_Two_Production_Bible_v2.0.md`](Book_Two_Production_Bible_v2.0.md) (studio operating manual); `Planning/Outline/` (chapter outlines); `Chapters/` (rough draft)  
+**Title:** *The Helion Accord* (locked)  
 **Theme:** Trust is harder than war.  
 **Rule:** Document the intended structure. Do **not** rewrite the novel in this file.  
 **Revision execution brief:** [`Book_Two_Master_Revision_Directive.md`](Book_Two_Master_Revision_Directive.md) (reconciled; **last statement wins** on conflicts — especially: no Nathan Calder, no Calder ancestry, Ellis owns history, Calder owns recon observation).

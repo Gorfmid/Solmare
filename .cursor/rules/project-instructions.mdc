@@ -1,5 +1,5 @@
 ---
-description: Solmare project instructions and the Solmare Principle — applies to all work in this repository
+description: Solmare project instructions, Canon Philosophy, and the Solmare Principle — applies to all work in this repository
 alwaysApply: true
 ---
 
@@ -7,9 +7,25 @@ alwaysApply: true
 
 **Canonical source:** `PROJECT_INSTRUCTIONS.md`
 
-Load authoritative docs before generating or editing (`Writing_System/`, `Universe/`, `Characters/`, Book One `State/`).
+Load authoritative docs before generating or editing (`docs/canon/`, `Writing_System/`, `Universe/`, `Characters/`, Book One `State/`).
+
+## CANON PHILOSOPHY
+
+**Locked:** `docs/canon/canon_philosophy.md`
+
+When creative decisions conflict, apply these rules in order:
+
+1. Character wins over lore.
+2. Story wins over worldbuilding.
+3. Simplicity wins over complexity.
+4. Consistency wins over novelty.
+5. Mystery is preferable to premature explanation.
+
+Evaluate every future revision, outline, chapter, and worldbuilding decision against this Canon Philosophy before it becomes permanent canon.
 
 ## THE SOLMARE PRINCIPLE
+
+**Locked:** `docs/canon/solmare_principle.md`
 
 History creates civilizations.
 
@@ -19,6 +35,6 @@ Doctrine creates decisions.
 
 Decisions create conflict.
 
-The people living through those decisions are the story.
+The people living through those decisions become history.
 
 Never write a battle before understanding the history that made it inevitable.

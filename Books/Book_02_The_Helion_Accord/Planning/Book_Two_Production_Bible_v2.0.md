@@ -4,6 +4,7 @@
 **Status:** Authoritative Book Two development guide  
 **Series:** The Solmare Cycle  
 **Book slot:** Book Two — Cooperation  
+**Title:** *The Helion Accord* (locked)  
 **Working theme:** Trust is harder than war.  
 **Foundation:** Book Two Production Bible v1.1 (v1.2 file not present in repository; v1.1 treated as prior authority)  
 **Audience:** Author, editors, AI-assisted development (Cursor), continuity reviewers  
@@ -1326,7 +1327,7 @@ Increase relative to Book One: friendship, trust-in-behavior, humor, specific gr
 
 1. Load this Bible before major Book Two drafting or revision.
 2. Preserve usable existing scenes, dialogue, structure, and terminology.
-3. Revise in place in `Books/Book_02/Chapters/`.
+3. Revise in place in `Books/Book_02_The_Helion_Accord/Chapters/`.
 4. Strengthen character and relationship beats every major chapter.
 5. Simplify stiff institutional prose.
 6. Track Calder failure → recon → collapse → Thessaly pull-back across chapters.

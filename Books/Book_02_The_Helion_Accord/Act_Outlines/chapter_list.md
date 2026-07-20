@@ -1,7 +1,8 @@
 # BOOK TWO — CHAPTER LIST & ROADMAP
 
-Full novel structure for Book Two of The Solmare Cycle (working title TBD).
+Full novel structure for Book Two of The Solmare Cycle: ***The Helion Accord***.
 
+**Title:** *The Helion Accord* (locked)  
 **Theme:** Trust is harder than war.  
 **Series slot:** Cooperation (Book One = Discovery; Book Three = Alliance)  
 **Time gap:** ~18 months after Book One  

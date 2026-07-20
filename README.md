@@ -7,7 +7,7 @@ Solmare is the shared universe and production system for **The Solmare Cycle**.
 | Book | Title | Status |
 |------|-------|--------|
 | **Book One** | *The Kestrel Veil Incident* | Complete (Prologue · Ch. 1–24 · Epilogue) |
-| Book Two | TBA | — |
+| Book Two | *The Helion Accord* | Writing pass complete — awaiting author read |
 | Book Three | TBA | — |
 
 ## Local wiki
@@ -24,6 +24,7 @@ Then open **http://127.0.0.1:8765/Wiki/** — see `Wiki/README.md`.
 
 | Path | Purpose |
 |------|---------|
+| `docs/canon/` | Locked foundational canon (Canon Philosophy, Solmare Principle) |
 | `Wiki/` | Local browser wiki for canon, books, notes |
 | `Universe/` | Shared canon — Fleet Authority, Dominion, cosmology, technology |
 | `Characters/` | Crew profiles, antagonists, relationship matrix |
@@ -45,6 +46,16 @@ Then open **http://127.0.0.1:8765/Wiki/** — see `Wiki/README.md`.
 
 Tracker: `Books/Book_01_The_Kestrel_Veil_Incident/Notes/REWRITE_STATUS.md`
 
+## Book Two
+
+`Books/Book_02_The_Helion_Accord/`
+
+| Layer | Location |
+|-------|----------|
+| **Prose source** | `Chapters/` (prelude, ch. 1–25) |
+| **Chapter list** | `Act_Outlines/chapter_list.md` |
+| **Revision directive** | `Planning/Book_Two_Master_Revision_Directive.md` |
+
 ## Regenerating the manuscript
 
 ```powershell
@@ -60,4 +71,11 @@ powershell -ExecutionPolicy Bypass -File .\rebuild_act.ps1 -ActId III
 
 ## Project instructions
 
-`PROJECT_INSTRUCTIONS.md` — contributor and agent rules, including **The Solmare Principle**.
+`PROJECT_INSTRUCTIONS.md` — contributor and agent rules, including **Canon Philosophy** and **The Solmare Principle**.
+
+Locked foundations:
+
+| Document | Path |
+|----------|------|
+| Canon Philosophy | `docs/canon/canon_philosophy.md` |
+| Solmare Principle | `docs/canon/solmare_principle.md` |

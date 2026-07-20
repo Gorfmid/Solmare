@@ -1,9 +1,10 @@
-# Book Two — Master Revision Directive
+# Book Two — *The Helion Accord* — Master Revision Directive
 
 **Version:** 1.0 (Reconciled)  
 **Status:** Authoritative instruction set for the rough-draft revision pass  
+**Title:** *The Helion Accord* (locked)  
 **Rule for conflicts:** When prior prompts, addenda, or production bibles disagree, **the latest statement wins**. This document is the reconciled latest authority for revision execution.  
-**Manuscript:** Revise in place under `Books/Book_02/Chapters/` (Prelude + Ch. 1–25). Do not discard and restart.  
+**Manuscript:** Revise in place under `Books/Book_02_The_Helion_Accord/Chapters/` (Prelude + Ch. 1–25). Do not discard and restart.  
 **Pass type:** Rough-draft revision — not final polish, not final lock.
 
 **Companions (structure / ops — subordinate to this directive where they conflict):**

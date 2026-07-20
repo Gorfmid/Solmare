@@ -19,7 +19,7 @@
 - `Universe/The_Dominion/dominion_worldview.md`
 - `Universe/Fleet/fleet_dominion_frontier_history.md`
 - `Writing_System/Series_Principles/series_principles.md`
-- `Books/Book_02/Planning/Book2_Story_Bible.md` (planning intent only — not a lock on long-term history)
+- `Books/Book_02_The_Helion_Accord/Planning/Book2_Story_Bible.md` (planning intent only — not a lock on long-term history)
 
 ---
 
@@ -739,4 +739,4 @@ At both Y+100 and Y+200, the Solmare test remains: readers should understand why
 
 *All year markers relative to Y+0 (Rowan receives Thessaly's report).*  
 *Proper nouns consistent with established series tone; invented institutional nomenclature subject to revision at book-level commitment.*  
-*Cross-reference: `Universe/Timeline/post_book_one_history.md` · `Universe/The_Dominion/dominion_worldview.md` · `Universe/Fleet/fleet_dominion_frontier_history.md` · `Writing_System/Series_Principles/series_principles.md` · `Books/Book_02/Planning/Book2_Story_Bible.md`*
+*Cross-reference: `Universe/Timeline/post_book_one_history.md` · `Universe/The_Dominion/dominion_worldview.md` · `Universe/Fleet/fleet_dominion_frontier_history.md` · `Writing_System/Series_Principles/series_principles.md` · `Books/Book_02_The_Helion_Accord/Planning/Book2_Story_Bible.md`*
