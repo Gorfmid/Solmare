@@ -1623,9 +1623,9 @@ every power-cycle junction: palms placed without looking, weight
 transferred, bodies that had made this climb in bad weather and good.
 
 Corridor B ran bright white into amber into a panel that flickered at
-the edge of regulation. A strip of yellow tape marked a dent in the
-port-side bulkhead---non-structural, documented, ignored. Calder's boot
-caught the edge of it anyway.
+the edge of regulation. Another strip of yellow tape marked a dent in
+the port-side bulkhead---non-structural, documented, ignored. Calder's
+boot caught the edge of it anyway.
 
 Thessaly did not comment. She had stepped around it without glancing
 down.
@@ -1827,7 +1827,7 @@ training---wider at the bottom, narrow at the top, adjusted once by
 someone who had measured with a knee rather than a spec sheet. Heat
 increased in sensible degrees. Sound changed from environmental thrum to
 something more specific: a bearing that was not yet failing, a pump that
-was not yet complaint.
+was not yet compliant.
 
 Elara Koss stood in front of an open regulator housing with her sleeves
 rolled and her diagnostic tablet dark. She listened to the machine.
@@ -1907,7 +1907,7 @@ to occupy, past Nadia Cole's nest of cables on the relay deck---one ear
 tuned to a handshake rhythm Calder could not yet hear.
 
 "Quartermaster is not a formal billet on scout complement," Thessaly
-said quietly as they climbed. "Walsh is the closest we have. He knows
+said quietly as they climbed. "Walsh is the closest we have. She knows
 where every spare seal and half-depleted ration crate lives. Dennett
 stopped pretending Fleet templates matched this ship in month two."
 
@@ -2369,7 +2369,7 @@ Calder poured coffee and did not look at the carton.
 "Primary route locked," Reyes said from the command deck. "Tanaka,
 sequence staging." Tanaka acknowledged while Ortega took tertiary
 channel monitoring during jump prep---log dropouts, do not combine until
-Koss cleared hardware fault. Walsh moved through the ship with his
+Koss cleared hardware fault. Walsh moved through the ship with her
 checklist---new line at the bottom: #emph[If provisioning appears
 unexpectedly, assume correct until proven otherwise.] Mehta verified
 berth atmospheres; Cole ran handshake tests with Park; Hale stood at
@@ -2826,9 +2826,9 @@ Calder was still looking at the dice when Tanaka noticed.
 Calder nodded. Dennett, habit, luck---filed together, unexplained.
 
 Walsh appeared with a stores strip and no apology for existing in a
-corridor. "Mid-cycle reconciliation," she said to Thessaly. "Honest count
-matches manifest. Fleet pretty count still wrong by two thermal patch
-crates. Checklist addendum holds---unexpected provisioning pending
+corridor. "Mid-cycle reconciliation," she said to Thessaly. "Honest
+count matches manifest. Fleet pretty count still wrong by two thermal
+patch crates. Checklist addendum holds---unexpected provisioning pending
 variance review."
 
 "Log the variance," Thessaly said.
@@ -17653,7 +17653,8 @@ editorializing witness content.
     align: (auto,auto,),
     table.header([Field], [Record],),
     table.hline(),
-    [#strong[Assignment]], [General support / medical \& crew systems, #emph[Kestrel Veil]],
+    [#strong[Assignment]], [General support / medical & crew systems,
+    #emph[Kestrel Veil]],
     [#strong[Certified contribution]], [Crew endurance monitoring;
     rotation compliance; post-Incident treatment continuity],
   )]
