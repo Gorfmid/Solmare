@@ -195,11 +195,21 @@ Applies to signals and to secrets. Park will log Calder's withheld transmissions
 
 ---
 
+## SERIES CONTINUITY HABITS (LOCKED — BOOK TWO+)
+
+**Dominion tea (after Book Two Ch. 3):** Park no longer drinks Fleet coffee. After Orlen introduces him to duskleaf, he quietly abandons coffee. He carries his own tea tin; Fleet personnel provide hot water automatically; supply comes from Orlen / Dominion Science channels. He gradually learns different Dominion teas across the series. Never political — genuine enjoyment and curiosity about other cultures. Humor understated (*Hot water is fine.* / *No coffee?* / *I've made better decisions.*).
+
+Detail: `Books/Book_02_The_Helion_Accord/Notes/PARK_ORLEN_DOMINION_TEA.md` · `Notes/CHARACTER_CONTINUITY_HABITS.md`
+
+**Book One note:** Coffee / Halden refill gravity remains valid through Book One. Do not retcon Book One coffee habits.
+
+---
+
 ## NARRATIVE ARC — SERIES
 
 **Book One:** Transmission integrity model; relay strength decline reporter (Ch. 4).
 
-**Long-term:** Learning when to speak for the crew and when speaking becomes its own distortion.
+**Long-term:** Learning when to speak for the crew and when speaking becomes its own distortion. Cultural curiosity (tea plant with Orlen) becomes one quiet series through-line.
 
 **Unresolved flaw:** Once delayed reporting a crew conflict until it became formal. Still unsure where the line is.
 

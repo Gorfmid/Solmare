@@ -20,7 +20,7 @@ Calder did not stand for the departure. Dennett's logs said captains who stood l
 
 On the forward console ledge, a carton sat in grease paper—yard baked goods, unassigned provisioning from yard overflow. The side panel showed a cardamom bun and *The Cardamom Oven* in copper script. No entry in the manifest yet. That would come later, or not at all.
 
-Park had placed it there without announcement. Thessaly had not commented. Walsh had already added a line to his checklist that morning: *If provisioning appears, it's for everyone. Eat.*
+Park had placed it there without announcement. Thessaly had not commented. Walsh had already added a line to her checklist that morning: *If provisioning appears, it's for everyone. Eat.*
 
 Brenner had taken the first piece on his way through the command deck hatch, as if it were part of procedure.
 
@@ -194,7 +194,7 @@ Because nothing had broken loudly enough to require him yet.
 
 Through the open panel he could see Brenner's boots braced on a grating rung, Koss's slate propped on a housing, both of them working the same regulator line from different angles. Calder kept walking.
 
-On the stores deck, Walsh moved through the bins with a strip in his hand and his eyes on the shelves, not the manifest. He counted thermal patches by touch where Fleet's log said the bin was empty. He opened a crate marked *borrowed from Berth 12*, verified the seal count against his notebook, closed it. He scratched a correction on the strip and kept walking. Calder passed without speaking. Walsh nodded at the strip, not at him.
+On the stores deck, Walsh moved through the bins with a strip in her hand and her eyes on the shelves, not the manifest. She counted thermal patches by touch where Fleet's log said the bin was empty. She opened a crate marked *borrowed from Berth 12*, verified the seal count against her notebook, closed it. She scratched a correction on the strip and kept walking. Calder passed without speaking. Walsh nodded at the strip, not at him.
 
 Hale passed the other way toward the galley corridor nook, calibration kit under one arm, emitter readout on his slate. He ran a green check, frowned at one line, adjusted a coupling with two turns, ran it again. Satisfied. He wiped his hands on a rag that lived on the console lip and went back to the readout. No speech. No audience.
 
@@ -210,13 +210,13 @@ Calder was still looking at the dice when Tanaka noticed.
 
 Calder nodded. Dennett, habit, luck—filed together, unexplained.
 
-Walsh appeared with a stores strip and no apology for existing in a corridor. "Mid-cycle reconciliation," he said to Thessaly. "Honest count matches manifest. Fleet pretty count still wrong by two thermal patch crates. Checklist addendum holds—unexpected provisioning pending variance review."
+Walsh appeared with a stores strip and no apology for existing in a corridor. "Mid-cycle reconciliation," she said to Thessaly. "Honest count matches manifest. Fleet pretty count still wrong by two thermal patch crates. Checklist addendum holds—unexpected provisioning pending variance review."
 
 "Log the variance," Thessaly said.
 
-"Already logged." Walsh left the way he arrived—quiet, necessary, gone.
+"Already logged." Walsh left the way she arrived—quiet, necessary, gone.
 
-Calder did not intercept him.
+Calder did not intercept her.
 
 ❦
 

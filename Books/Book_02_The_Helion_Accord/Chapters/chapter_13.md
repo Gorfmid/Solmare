@@ -39,6 +39,8 @@ Beneath that, an SSD strip rode louder:
 
 Vex read both without flinching. He had been the officer who let Fleet in since the provisional instrument. Capitals needed a name for the risk. He had become that name. He had also been the officer who obeyed doctrine in an older failure and still carried institutional memory of what obedience did not forgive. Accountability did not expire because a new external pressure had arrived. It only learned to share a duty cycle with necessity.
 
+He thought, once, of Sections Nine through Fourteen on *Iron Harrow* — sealed in sequence during the V17 exchange, names that still lived behind doors that had not opened again that watch. Near sixty thousand souls under a Leviathan's keel was not metaphor. It was the size of the responsibility he still carried when Civil Government asked him to teach Fleet pattern language from a feed. Command identity did not shrink because the day's packet was about hesitation marks instead of batteries. Survivor responsibility did not expire into liaison work.
+
 Klimov updated the passive board without looking up. "Residual from package three remains present at range. Intensity uneven. Still talking in fractions. No craft solution. No destination vector I will certify."
 
 "Keep it painted," Vex said. "Do not class it clean because the night ended."

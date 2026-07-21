@@ -62,7 +62,7 @@ These are physical behaviors to **establish in prose** once, then let recur with
 
 ### Thessaly ↔ Walsh
 - Walsh's personal watch notebook matches Thessaly's adjustments before she sends them.
-- Thessaly never admitted she borrowed his notebook as reference. Walsh knows.
+- Thessaly never admitted she borrowed Walsh's notebook as reference. Walsh knows.
 
 ### Okwelu ↔ everyone
 - Okwelu appears in passageways during long watches without being summoned.
@@ -110,7 +110,7 @@ When revising or writing forward:
 
 1. Brenner/wrench + door 7-C kick (engineering texture)
 2. Thessaly/packets + Tanaka/Reyes sentences (command deck)
-3. Park/Halden coffee (off-watch or margin of crisis)
+3. Park/Halden coffee (off-watch or margin of crisis; Book One — Book Two+ Park drinks Dominion tea)
 4. Ortega/nod (briefing scene)
 5. Walsh/Thessaly notebook (background)
 

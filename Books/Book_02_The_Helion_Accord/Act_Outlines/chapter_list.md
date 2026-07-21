@@ -1,4 +1,4 @@
-# BOOK TWO — CHAPTER LIST & ROADMAP
+﻿# BOOK TWO — CHAPTER LIST & ROADMAP
 
 Full novel structure for Book Two of The Solmare Cycle: ***The Helion Accord***.
 
@@ -44,13 +44,13 @@ Book Two is structured around **reluctant cooperation under existential pressure
 |---|-------|---------|------:|-------|
 | — | **The Founding Exodus** | Harvest-week departure from Serath; multi-gen convoy; dual-ignorance coda. Reader holds shared-origin seed. | 4,115 | **Final Candidate** |
 | 1 | Silent Frequencies | Opens on V17 *Harrow*/Peligar battle (bang and loss); hard cut to present; *Kestrel* intercepts multi-vocal contact. Calder certainty hunger seeded; Vex destination question seeded. | ~7,250 | **Final Candidate** |
-| 2 | Shared Words | Contact protocols at Contact Node Seven; Dana Holt introduced; “they’re talking.” | 6,896 | **Revision Pass** |
-| 3 | Lines on a Map | Dominion help request; Calder–Vex as counterparts; Thessaly command flinch; Founders’ Reach quiet. | 7,147 | **Revision Pass** |
-| 4 | First Exchanges | Shared work collapses as Founders’ Reach is processed on Fleet soil. Act I ends. | 7,437 | **Revision Pass** |
+| 2 | Shared Words | Contact protocols at Contact Node Seven; Dana Holt introduced; “they’re talking.” | 7,805 | **Final Candidate** |
+| 3 | Lines on a Map | Character-driven expand: Calder-Vex, Brenner station, Walsh-Vex groundwork, Founders Reach coda. | ~7,170 | **2nd Revision Pass** |
+| 4 | First Exchanges | Shared work collapses as Founders’ Reach is processed on Fleet soil. Act I ends. | ~7,220 | **2nd Revision Pass** |
 | 5 | Glass Horizon | Consumed-system forensics; extraction vs attack language; personal ready-room beat. | 6,746 | **Revision Pass** |
 | 6 | The Burning Fringe | Panic markets; doctrine amendment pressure; lived stakes under expanding fringe. | 6,710 | **Revision Pass** |
 | 7 | No Survivors | Casualty reckoning; Ellis resists invasion propaganda; extraction seed. | 6,771 | **Revision Pass** |
-| 8 | Terms of Necessity | Limited cooperation posture locked; non-alliance; Calder–Vex small table. Act II ends. | 6,630 | **Revision Pass** |
+| 8 | Terms of Necessity | Limited cooperation posture locked; non-alliance; temporary NZ outpost live; Calder–Vex small table. Act II ends. | 6,630 | **Revision Pass** |
 | 9 | Crossing Together | First joint patrol; doctrine collision near-fail; Thessaly sole-lock flinch seed. | 6,680 | **Revision Pass** |
 | 10 | Operational Trust | Calder–Vex mutual prediction under fire-adjacent geometry; Holt on warning-net. | 6,860 | **Revision Pass** |
 | 11 | The Historian’s Question | Ellis Stage 1 — historical similarities only; no breakaway lock. | 6,529 | **Revision Pass** |
@@ -81,10 +81,12 @@ Book Two is structured around **reluctant cooperation under existential pressure
 |-------|---------|
 | **Draft** | Story function first; prose may be rough |
 | **Revision Pass** | Structure, character, canon, information discipline in progress / author read |
+| **2nd Revision Pass** | First revision pass complete; second structural/character pass in progress / author read |
 | **Final Candidate** | Structure stable; eligible for Writing Pass 1 / final prose polish |
+| **Final Lock Candidate** | Final polish complete; awaiting author lock — no free edits |
 | **Final Lock** | Frozen — **no edits** without explicit, directed author unlock |
 
-**Current board:** Prelude + Ch. 1 = **Final Candidate**. Chapters 2–25 = **Revision Pass**.
+**Current board:** Prelude + Ch. 1–2 = **Final Candidate**. Ch. 3 = **2nd Revision Pass**. Ch. 4–25 = **Revision Pass**.
 
 **Final Lock rule:** Once a piece is Final Lock, do not rewrite, add scenes, change dialogue, or alter lore unless the author explicitly unlocks it and directs the change. Spelling/grammar/formatting/production-only fixes require the same explicit unlock if they touch locked prose.
 
@@ -105,6 +107,12 @@ Ellis, using Calder’s evidence, proves the founding holidays commemorate the s
 | Beat | Chapter | Notes |
 |------|---------|-------|
 | Dana Holt introduced | 2 | Park–Holt ladder begins |
+| Park/Calder mug gag planted | 2 | BEST CAPTAIN EVER; Park hides label; Lisette origin — see `Notes/PARK_CALDER_MUG_GAG.md` |
+| First in-person sameness stun | 2 | Session One entrance; human in every detail; shared-ancestry allusion only (no kinship noun) |
+| Mug gag hide | 4, 8 | Label still turned away; silent notice |
+| Mug gag discovery | 12 | Calder sees BEST CAPTAIN EVER; amused + irritated; no dialogue |
+| Mug gag reply purchase | 19 | WORLD'S BEST COMMS OFFICER (Helion tourist stall) |
+| Mug gag reply + coda | 25 | Calder uses mug B in front of Park; both mugs visible at close |
 | Calder certainty hunger seed | 1 | Unfinished watches as debt; Yard Nine groundwork |
 | Vex destination question | 1 | *Where are they going?* / transit priority; Destination unknown on assessment |
 | Thessaly command flinch | 3, 9 | Guilt seed; not full dump |
@@ -112,7 +120,10 @@ Ellis, using Calder’s evidence, proves the founding holidays commemorate the s
 | Ellis extraction seed | 7, 15 | Invasion language resisted |
 | **Peligar precursor assessment** | **2→20** | Ch.1 untouched. Early: anomalies may connect. Mid: pattern. Later: assessment. Eventually: watching preparation, not attacks. See `Planning/peligar_precursor_integration.md` |
 | Non-alliance posture | 8 | Terms of Necessity |
+| Joint NZ station approved | 3 | Working name **Interface** (Brenner); shared construction/design; survey live |
+| Temporary NZ station spaces live | 8 | First operational rooms of Ch.3 permanent joint station (build continues 12–18 mo) |
 | Calder–Vex operational trust | 10, 13 | Peer not friend |
+| Vex/Calder wrong-role arc | 3, 8, 13, 18–21 | Demotion feel + mutual mismatch; cloak on *Veil*; unfinished recognition — see `Notes/VEX_CALDER_WRONG_ROLE_ARC.md` |
 | Ellis Stage 1 (similarities) | 11 | Seed only |
 | Vex “no hatred” | 13 | Dominion observation |
 | Cloak reverse-engineer hint | 13 | Limits only |
@@ -120,8 +131,8 @@ Ellis, using Calder’s evidence, proves the founding holidays commemorate the s
 | V17 detection path unknown | 1 (seed) → SSD later | How Peligar acquired cloaked *Harrow*; do not solve in Ch.1 |
 | **Calder major failure** | **16** | 12 minutes; Orenna / Petya |
 | Thessaly declines *Halvorsen* | 17 | First of two offers |
-| Cloak share / recon greenlight | 18 | *Long Fathom* donor unit → *Veil*; Fleet must return; process peek only (no Fleet cloak in B2) |
-| *Veil* launch (opt-in command crew) | 19 | Silent running; Vex aboard unhappy; farewells |
+| Cloak share / recon greenlight | 18 | *Long Fathom* donor unit → *Veil*; Vex field custody under Calder hull command; Fleet must return; process peek only (no Fleet cloak in B2) |
+| *Veil* launch (opt-in command crew) | 19 | Silent running; Vex aboard unhappy (demotion feel); farewells |
 | Deep recon + processing | 20 | *Veil* + quirky cloak; mobile civilization scale |
 | Ellis Stage 2 (Fleet ← Dominion) | 20 | Parallel to recon |
 | Dual holiday + Harvest/refugees | 21 | Stages 3, 5, 6 |
@@ -182,27 +193,27 @@ Reader-only departure from Dominion space during harvest season. Yeva / Petra / 
 
 ## Chapter 2 — Shared Words
 
-**File:** `chapter_02.md` · **Words:** ~6,896 · **Status:** **Revision Pass**
+**File:** `chapter_02.md` · **Words:** 7,805 · **Status:** **Final Candidate**
 
-Contact protocols. Park + Dominion linguists. **Dana Holt** enters (Fleet Communications). Screaming reclassified as structured language-without-meaning.
+Contact protocols at Contact Node Seven. Park + Dominion linguists (Orlen, Vorin); Senka / Rowan on scope. Interpreters and learned speakers already established — language work is lethal false friends, not basics. Ready-room assignment beat. **Dana Holt** on Fleet Communications relay for intercept review. Peligar named: Dominion recognizes channel shape; believes they are talking; never translated; Fleet may route the name as Fleet sees fit. Near-miss on *hold weapons* substitution (SSD overnight patch after clean morning test). Shared Neutral Zone outpost seed (Brenner → Vorin → Calder; 12–18 months). **Kevin** tray beat (Cardamom Oven buns; Vorin hates coffee). **Mug gag planted** (Park / BEST CAPTAIN EVER). Author revision + Final Candidate cleanup 2026-07-20.
 
-**Payoff:** Human–human channels possible; no trust yet.
+**Payoff:** Human–human channels possible; Peligar recognized without meaning; no trust yet.
 
 ---
 
 ## Chapter 3 — Lines on a Map
 
-**File:** `chapter_03.md` · **Words:** ~7,147 · **Status:** **Revision Pass**
+**File:** `chapter_03.md` · **Words:** ~7,170 · **Status:** **2nd Revision Pass**
 
-Expanding border; Dominion help request; Calder–Vex seated as counterparts. Thessaly flinches at “command.” Founders’ Reach quiet on the chart.
+Structural redesign expanded 2026-07-21: people-first; corridor break; Calder–Vex private work agreement; Walsh–Vex sketch + touch; Kevin bun; Founders’ Reach emotional coda.
 
-**Payoff:** Instruments provisional; colony already inside the graph.
+**Payoff:** Instruments provisional; joint station working name **Interface** locked; survey ordered; colony already inside the graph.
 
 ---
 
 ## Chapter 4 — First Exchanges
 
-**File:** `chapter_04.md` · **Words:** ~7,437 · **Status:** **Revision Pass**
+**File:** `chapter_04.md` · **Words:** ~7,220 · **Status:** **2nd Revision Pass**
 
 Productive shared work *as* Founders’ Reach goes dark / is processed. Park–Holt fear on the silent channel. Calder moral vertigo.
 
@@ -245,7 +256,7 @@ Casualty reckoning. Ellis resists invasion frame (extraction seed). Calder refus
 
 **File:** `chapter_08.md` · **Words:** ~6,630 · **Status:** **Revision Pass**
 
-Ugly provisional cooperation document. Non-alliance locked. **Preserve Calder–Vex small-table coda.** First joint package authorized.
+Ugly provisional cooperation document. Non-alliance locked. **Temporary NZ station spaces live** (first rooms of Ch.3 permanent joint station; permanent build continues). **Preserve Calder–Vex small-table coda.** First joint package authorized.
 
 ---
 
@@ -259,7 +270,7 @@ Ugly provisional cooperation document. Non-alliance locked. **Preserve Calder–
 
 **File:** `chapter_09.md` · **Words:** ~6,680 · **Status:** **Revision Pass**
 
-First joint patrol nearly fails via doctrine collision, not betrayal. Calder certainty punished. Thessaly sole-lock flinch.
+First joint patrol nearly fails via doctrine collision, not betrayal. Stages through joint NZ station spoken-confirmation floor. Calder certainty punished. Thessaly sole-lock flinch.
 
 ---
 
@@ -337,7 +348,7 @@ Calder withdrawal / overcorrection. Doctrine fails under tempo. Thessaly decline
 
 **File:** `chapter_18.md` · **Words:** ~3,053 · **Status:** **Revision Pass**
 
-Limited costly joint strike. Operational trust survives; political trust does not. **Cloak share:** one-mission loan of *Long Fathom*’s field unit, fitted to *Kestrel Veil*; Fleet must return; deep recon greenlit. Fleet gets a **process peek** at cloak fabrication (incomplete) — not a working Fleet cloak this book.
+Limited costly joint strike. Operational trust survives; political trust does not. **Cloak share:** one-mission loan of *Long Fathom*’s field unit, fitted to *Kestrel Veil*; Vex field custody under Calder hull command (demotion feel); Fleet must return; deep recon greenlit. Fleet gets a **process peek** at cloak fabrication (incomplete) — not a working Fleet cloak this book.
 
 ---
 
@@ -351,7 +362,7 @@ Limited costly joint strike. Operational trust survives; political trust does no
 
 **File:** `chapter_19.md` · **Words:** ~5,592 · **Status:** **Revision Pass**
 
-Capital politics; Accord pre-negotiation (non-alliance drafts). **Opt-in** for *Veil* command crew (shown: Calder, Thessaly, Park, etc. — all accept). Park–Holt beat; Calder–Lisette beat. Vex rides aboard *Veil*, not happy. Cloak transferred from *Long Fathom*; silent launch. Comms capable, TX sealed.
+Capital politics; Accord pre-negotiation (non-alliance drafts). **Opt-in** for *Veil* command crew (shown: Calder, Thessaly, Park, etc. — all accept). Park–Holt beat; Calder–Lisette beat. Vex rides aboard *Veil* as field custodian under Calder hull command — demotion feel, not childish anger. Cloak transferred from *Long Fathom*; silent launch. Comms capable, TX sealed.
 
 ---
 
@@ -441,5 +452,21 @@ Implementation under ash. **Thessaly accepts *Halvorsen* command**; Calder suppo
 | Date | Note |
 |------|------|
 | 2026-07-15 | Created Book Two chapter list & roadmap to match Book One’s useful format; status = Writing Pass complete, awaiting author read |
+| 2026-07-20 | Ch. 3 Writing Pass 1 applied; promoted to Final Candidate |
+| 2026-07-20 | Ch. 2 Revision Pass applied (setup + clarity + character); promoted to Final Candidate |
+| 2026-07-20 | Ch. 2 Final Candidate cleanup (3 directed edits); briefly Final Lock Candidate |
+| 2026-07-20 | Ch. 2 locked as **Final Candidate** (7,806 words); summary refreshed |
+| 2026-07-20 | Ch. 3 returned to **Revision Pass** (7,194 words) |
+| 2026-07-20 | Ch. 3 Writing Pass 1 reapplied (Ch.2 hygiene); **Final Candidate** (7,135 words) |
+| 2026-07-20 | Successive continuity (§3.3e): Ch.3 outpost pending carry; Ch.2 lexicon *suspend*; revision_pass.md updated |
+| 2026-07-20 | Ch. 3 returned to **Revision Pass** (author still working; 7,162 words) |
+| 2026-07-20 | Ch. 3 Session Two open compressed (cut Ch.2 rehash); **6,520** words |
+| 2026-07-20 | revision_pass §3.3f plain speech / less hyperbole; Ch.3 applied from absences down (**6,557**) |
+| 2026-07-20 | Park/Calder mug running gag locked — `Notes/PARK_CALDER_MUG_GAG.md` |
+| 2026-07-20 | Vex/Calder wrong-role arc planted; cloak logistics aligned to *Long Fathom* → *Kestrel Veil* — `Notes/VEX_CALDER_WRONG_ROLE_ARC.md` |
+| 2026-07-21 | Ch. 3 moved to **2nd Revision Pass** (~1,160 words); Session Two + station + Founders’ Reach coda revised |
+| 2026-07-21 | Ch. 3 structural redesign (~2,245 words): character-driven; Calder-Vex observation; Brenner interface; Walsh-Vex groundwork; Founders Reach coda |
+| 2026-07-21 | Ch. 4 moved to **2nd Revision Pass** (~7,220 words); caption cuts, contour fixed to Peligar advance, strategic charts fixed, stacked ending trimmed |
+| 2026-07-21 | revision_pass.md updated: section 0 people-first priority, section 3.3k plain vocabulary / no odd synonyms |
 
 *End of Book Two Chapter List & Roadmap*

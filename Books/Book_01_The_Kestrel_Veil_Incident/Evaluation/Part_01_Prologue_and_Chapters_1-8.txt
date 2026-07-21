@@ -1,4 +1,4 @@
-﻿THE KESTREL VEIL INCIDENT — BOOK ONE
+THE KESTREL VEIL INCIDENT — BOOK ONE
 K.W. Abbott
 
 Part 1 — Prologue, Archive, Chapters 1-8
@@ -933,7 +933,7 @@ Calder watched that exchange longer than he meant to.
 
 “Drive grinding at the halfway lock.” Brenner, under the adjacent panel. “Captain, authorize the addendum in the ship log. Saves Walsh retyping it every Fleet audit.”
 
-Calder looked at Devon Walsh, who had appeared with a cargo manifest slate and the expression of a man accustomed to being invisible until logistics failed.
+Calder looked at Lena Walsh, who had appeared with a cargo manifest slate and the expression of a woman accustomed to being invisible until logistics failed.
 
 “You’re logistics,” Calder said.
 
@@ -951,7 +951,7 @@ Koss was already moving to the next panel. The conversation was over because the
 
 Calder followed Thessaly back up through the ship’s vertical spine, past a life-support technician—Priya Sharma—who apologized for being in the corridor and then continued past with a toolkit and the speed of someone who had been told apology was unnecessary but could not stop offering it.
 
-“Quartermaster is not a formal billet on scout complement,” Thessaly said quietly as they climbed. “Walsh is the closest we have. He knows where every spare seal and half-depleted ration crate lives. Dennett stopped pretending Fleet templates matched this ship in month two.”
+“Quartermaster is not a formal billet on scout complement,” Thessaly said quietly as they climbed. “Walsh is the closest we have. She knows where every spare seal and half-depleted ration crate lives. Dennett stopped pretending Fleet templates matched this ship in month two.”
 
 “How long were you XO under Dennett?”
 
@@ -1132,11 +1132,11 @@ Evening watch. Founders’ Week fireworks over Helion Prime’s industrial distr
 
 Thessaly spread the watch rotation on Calder’s command slate: neat, defensible, Fleet-shaped.
 
-Walsh stood at the hatch with his personal notebook—not offered, not hidden.
+Walsh stood at the hatch with her personal notebook—not offered, not hidden.
 
 “Executive Officer,” Calder said. “Your rotation puts Brenner on maintenance overlap during jump prep. Walsh’s checklist puts Tanaka and Brenner in the same corridor during lift inspection.”
 
-Thessaly looked at Walsh. Walsh looked at his notebook. “Dennett ran Fleet rotation until jump minus six, then moved Brenner to post-jump recovery. Tanaka needs the lift for sequence staging. Brenner needs it for the lower port panel. They share the corridor or they collide.”
+Thessaly looked at Walsh. Walsh looked at her notebook. “Dennett ran Fleet rotation until jump minus six, then moved Brenner to post-jump recovery. Tanaka needs the lift for sequence staging. Brenner needs it for the lower port panel. They share the corridor or they collide.”
 
 “Recommendation?” Calder asked Thessaly.
 
@@ -1148,7 +1148,7 @@ Calder studied the slate. The Fleet template assumed interchangeable crew and fu
 
 Thessaly’s pause was one breath. “Aye, Captain.”
 
-Walsh closed his notebook. “I’ll update the master checklist.”
+Walsh closed her notebook. “I’ll update the master checklist.”
 
 Calder sent one line to Walsh’s queue—supplementary galley stores, yard baked goods, standard perishable morale category—and did not say it aloud.
 
@@ -1262,7 +1262,7 @@ Calder poured coffee and did not look at the carton.
 
 Ortega: “Wrong numbers logged separately. Got it.”
 
-Walsh moved through the ship with his checklist—new line at the bottom: If provisioning appears unexpectedly, assume correct until proven otherwise. Sharma verified berth atmospheres. Cole ran handshake tests with Park. Hale stood at defensive systems because Halden’s voice had shifted register half a degree—nothing wrong, simply preparation.
+Walsh moved through the ship with her checklist—new line at the bottom: If provisioning appears unexpectedly, assume correct until proven otherwise. Sharma verified berth atmospheres. Cole ran handshake tests with Park. Hale stood at defensive systems because Halden’s voice had shifted register half a degree—nothing wrong, simply preparation.
 
 Calder did not shout orders. He confirmed gates.
 
@@ -1376,7 +1376,7 @@ Calder did not stand for the departure. Dennett’s logs said captains who stood
 
 On the forward console ledge, a carton sat in grease paper—yard baked goods, unassigned provisioning from yard overflow. No entry in the manifest yet. That would come later, or not at all.
 
-Park had placed it there without announcement. Thessaly had not commented. Walsh had already added a line to his checklist that morning: If provisioning appears unexpectedly, assume correct until proven otherwise.
+Park had placed it there without announcement. Thessaly had not commented. Walsh had already added a line to her checklist that morning: If provisioning appears unexpectedly, assume correct until proven otherwise.
 
 Brenner had taken the first piece on his way through the command deck hatch, as if it were part of procedure.
 
@@ -1576,7 +1576,7 @@ Because nothing had broken loudly enough to require him yet.
 
 Through the open panel he could see Brenner’s boots braced on a grating rung, Koss’s slate propped on a housing, both of them working the same regulator line from different angles. Calder kept walking.
 
-On the stores deck, Walsh moved through the bins with a strip in his hand and his eyes on the shelves, not the manifest. He counted thermal patches by touch where Fleet’s log said the bin was empty. He opened a crate marked borrowed from Berth 12, verified the seal count against his notebook, closed it. He scratched a correction on the strip and kept walking. Calder passed without speaking. Walsh nodded at the strip, not at him.
+On the stores deck, Walsh moved through the bins with a strip in her hand and her eyes on the shelves, not the manifest. She counted thermal patches by touch where Fleet’s log said the bin was empty. She opened a crate marked borrowed from Berth 12, verified the seal count against her notebook, closed it. She scratched a correction on the strip and kept walking. Calder passed without speaking. Walsh nodded at the strip, not at him.
 
 Hale passed the other way toward the galley corridor nook, calibration kit under one arm, emitter readout on his slate. He ran a green check, frowned at one line, adjusted a coupling with two turns, ran it again. Satisfied. He wiped his hands on a rag that lived on the console lip and went back to the readout. No speech. No audience.
 
@@ -1602,9 +1602,9 @@ Walsh appeared on the command deck at hour nine with a stores strip and no apolo
 
 “Log the variance,” Thessaly said.
 
-“Already logged.” Walsh left the way he arrived—quiet, necessary, gone.
+“Already logged.” Walsh left the way she arrived—quiet, necessary, gone.
 
-Calder did not intercept him.
+Calder did not intercept her.
 
 · · ·
 It happened during what the watch log would later call mid-cycle quiet.
@@ -1767,7 +1767,7 @@ At hour two, Tanaka pushed the first mapping sequence batch to Reyes for chart o
 
 Cole covered comms while Park ate from the forward carton without leaving his chair. Sharma passed through Corridor C on a maintenance loop, stepped left around the dent without glancing down. Hale ran a defensive suite calibration in the nook off the galley corridor—green check, one adjustment, green again.
 
-Walsh came through at hour two-forty with a stores strip and a clipboard he did not need on the command deck. He checked the forward carton against his manifest line, nodded once, and left without breaking anyone’s concentration. Calder noticed the motion the way he noticed everything on this ship now—peripheral, filed, not yet sorted.
+Walsh came through at hour two-forty with a stores strip and a clipboard he did not need on the command deck. He checked the forward carton against her manifest line, nodded once, and left without breaking anyone’s concentration. Calder noticed the motion the way he noticed everything on this ship now—peripheral, filed, not yet sorted.
 
 Between hour two and hour three the mapping sweep settled into the rhythm Reyes had described at undock—corrections too small to announce, data too routine to interrupt meals. Tanaka staged arc eight while Reyes overlaid Fleet chart and margin marks in parallel. Ortega ran tertiary sweeps with the wrong offset logged in its own column, as always. Halden marked two ghost traces non-event and returned to empty overlays without comment.
 

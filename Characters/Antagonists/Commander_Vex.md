@@ -143,3 +143,38 @@ Do not soften either fact. Political and professional consequences persist even 
 - Retcon Ch. 5 to warning-pulse / non-destructive first contact
 - Humanize with backstory filler before author defines it
 - Imply *Kestrel Veil* crew learned Vex's name or hull class at Act I end
+
+---
+
+## SERIES CONTINUITY HABITS (LOCKED)
+
+- Evaluates **competence before personality**.
+- Notices discipline, preparation, professional habits.
+- Respects ability long before trust.
+- **Never** evaluates someone by appearance — only behavior, actions, professionalism.
+- Book Two Ch. 3 plant: notices Lena Walsh because she enters his space without hesitation, notebook already open, already moving toward useful work.
+
+Detail: `Books/Book_02_The_Helion_Accord/Notes/CHARACTER_CONTINUITY_HABITS.md`
+
+---
+
+## BOOK TWO ARC (HELION ACCORD) — LOCKED THREAD
+
+**Logistics lock:** One field unit transfers from ***Long Fathom*** → fitted to ***Kestrel Veil*** for a single deep-recon mission. Dominion custody holds the field. Schematics do not leave Dominion hands. Unit returns after. No Fleet cloak by book end.
+
+**Assignment (feels like demotion):** Vex oversees / secures / manages the field aboard *Kestrel Veil* under Fleet contact operations. Calder retains hull command. Vex’s frustration is professional identity, not childish anger: Leviathan command (*Iron Harrow*), Peligar survival cost, survivor responsibility → smallest hull he has stood watch on, answering to a scout captain with less than two years in the chair, SSD reading the assignment as sidelining.
+
+**Wrong-role irony (do not resolve mid-book):**
+- Calder: scout captain forced into diplomat
+- Vex: warship commander forced to babysit diplomacy / field custody on someone else’s tiny hull
+- Narrative gradually shows both are where they are needed
+
+**Mutual mismatch (neither fully correct):**
+- Calder reads Vex as threat-assessment officer prioritizing security over cooperation
+- Vex reads Calder as inexperienced scout whose Alpha Seven survival may owe partly to circumstance, now seated beyond his diplomatic depth
+
+**Recognition (unfinished in Book Two):** Vex begins to see Calder’s restraint as different command, not lesser command — file without warmth; refuse confession/praise. Peer-not-friend holds.
+
+**Planted:** Ch. 3 wrong-role seed; Ch. 8 mutual mismatch; Ch. 13 *Iron Harrow* sealed-sections identity; Ch. 18 Kaslova terms + demotion-voiced acceptance; Ch. 19 boarding split (hull vs field); Ch. 20 partial recognition under field budget; Ch. 21 unfinished recognition on return.
+
+See also: `Books/Book_02_The_Helion_Accord/Notes/VEX_CALDER_WRONG_ROLE_ARC.md`

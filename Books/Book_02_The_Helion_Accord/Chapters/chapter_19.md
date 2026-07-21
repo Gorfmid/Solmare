@@ -195,7 +195,7 @@ She didn't look up from the tray, but her mouth did something small at the corne
 
 "Eat something," she said. "You've had that same look since you walked in, like you're bracing for a channel to drop."
 
-"I might be." He turned his slate face-down on the desk, which she noticed, because she noticed everything. "Calder's shipping out on the deep recon inside two days. Dominion hull, Dominion crew, cloak I'm not allowed to look at even from the corridor outside the compartment. I'm not going. Neither is anyone who might talk about it afterward in a room with a window."
+"I might be." He turned his slate face-down on the desk, which she noticed, because she noticed everything. "Calder's shipping out on the deep recon inside two days. *Kestrel Veil*, cloak unit transferred from *Long Fathom*, Dominion custody team riding with it — field I'm not allowed to look at even from the corridor outside the compartment. I'm not going. Neither is anyone who might talk about it afterward in a room with a window."
 
 Holt was quiet for a second. "You wanted to go."
 
@@ -273,7 +273,7 @@ Denara added memorial logistics without looking at either strip. "Households won
 
 Rowan kept the promise ugly and honest.
 
-"Helion can promise limited draft instruments, dual veto, sunset, non-alliance, and a people-cost abort spoken aloud," he said. "It cannot promise belief. There is one demonstration this Council hasn't priced yet, because it isn't finished arguing about whether it's real. Captain Venn ships out inside two days on the joint deep reconnaissance. Dominion hull. Dominion custody. He won't be here to hold the table for a while. Thessaly holds it in his place."
+"Helion can promise limited draft instruments, dual veto, sunset, non-alliance, and a people-cost abort spoken aloud," he said. "It cannot promise belief. There is one demonstration this Council hasn't priced yet, because it isn't finished arguing about whether it's real. Captain Venn ships out inside two days on the joint deep reconnaissance — *Kestrel Veil*, Dominion cloak unit under custody, Commander Vex attached for the field. He won't be here to hold the table for a while. Thessaly holds it in his place."
 
 Breck's strip went quiet for the first time all session. Mirek's did not. "Recon returns evidence or it returns nothing. Don't let Council spend belief on a mission that hasn't sailed."
 
@@ -285,15 +285,17 @@ Thessaly wrote one quiet-channel line few would read: *recon inside two days; Ca
 
 Outside the annex glass, Founders' Week cloth still argued copper on the civic corridor. Tag Twelve's slowed densification still held on the fringe boards like a problem only annoyed, not solved.
 
+Between rooms, on that same corridor, Calder stopped at a tourist stall selling the same ridiculous prints Lisette had once meant sincerely. He bought a mug that said WORLD'S BEST COMMS OFFICER. He did not explain the purchase to anyone, including himself. He put it in his kit and did not use it.
+
 Helion had become the center of gravity. The next rooms waited.
 
 ---
-***CONTACT NODE SEVEN — BERTH SEVEN, DOMINION SIDE***
-*LONG FATHOM / TWO DAYS*
+***CONTACT NODE SEVEN — FLEET BERTH / KESTREL VEIL***
+*CLOAK FIT / TWO DAYS*
 
-The corvette waiting in Berth Seven did not look like anything. That was, Thessaly understood, the entire point of it.
+*Kestrel Veil* sat in her ordinary berth looking almost ordinary, which was, Thessaly understood, the entire point of the work that had been done overnight.
 
-*Long Fathom* sat low and dark against the berth lights, hull plating scored in a matte finish that seemed to eat illumination rather than reflect it, no running lights lit except the two required by dock safety and switched off the moment Dominion ground crew judged the inspection satisfied. Fleet techs on the far side of the berth kept glancing at it and then away, the way people glanced at things they had been told, plainly, not to photograph. Two Dominion crew moved cargo up the ramp with the unhurried economy of people who had done this before and expected to do it again exactly once and never speak of either time.
+Dominion ground crew had finished transferring the field unit from *Long Fathom* under sealed custody tags and protest notes. The donor corvette sat dark two berths over, already smaller without the thing that had made her special, already looking like a hull that had been asked to give up a secret and would not get it back until the mission ended. Fleet techs on the far side of *Veil*'s ramp kept glancing at the sealed compartment aft and then away, the way people glanced at things they had been told, plainly, not to photograph. Two Dominion specialists moved the last custody crate up the ramp with the unhurried economy of people who had done this before and expected to do it again exactly once and never speak of either time.
 
 Thessaly walked the last stretch of the berth beside Calder without offering him anything that would have sounded, later, like a speech.
 
@@ -305,7 +307,7 @@ Thessaly walked the last stretch of the berth beside Calder without offering him
 
 "Vex said the field doesn't buy back the twelve minutes."
 
-"He's right. It won't." She stopped at the base of the ramp, where Dominion deck lighting gave out and the corvette's own hull swallowed the rest of the shadow. "It might buy back the next twelve minutes, for someone else, on some board neither of us has seen yet. That's the whole product. Don't ask it for more than that, and don't come back trying to pay off a debt that isn't payable. Come back. That's the instruction, not the comfort."
+"He's right. It won't." She stopped at the base of the ramp, where Fleet deck lighting met the sealed Dominion work zone and the scout's own hull swallowed the rest of the shadow. "It might buy back the next twelve minutes, for someone else, on some board neither of us has seen yet. That's the whole product. Don't ask it for more than that, and don't come back trying to pay off a debt that isn't payable. Come back. That's the instruction, not the comfort."
 
 He looked at her for a moment the way he'd looked at boards under load for years — pricing what was actually in front of him instead of what he wished were there.
 
@@ -313,15 +315,17 @@ He looked at her for a moment the way he'd looked at boards under load for years
 
 "I know what I have," Thessaly said, and did not decorate it as triumph, because it wasn't one yet. It was simply true, and true was the only thing either of them had time to trade in.
 
-Vex met them at the top of the ramp, gloves already on, tea protocol nowhere in sight because there would be no tea aboard *Long Fathom* — nothing that generated heat the mission didn't already need to shed somewhere else.
+Vex met them at the top of the ramp, gloves already on, tea protocol nowhere in sight because there would be no tea aboard *Kestrel Veil* under field budget — nothing that generated heat the mission didn't already need to shed into plating somewhere else. He looked once at the scout's narrow corridor the way a man looked at the smallest vessel he had ever been ordered to stand watch on, and did not say the word demotion. He did not need to. The hull said it for him.
 
-"Observer only," Vex said to Calder, not unkindly, stating the rule rather than the insult buried inside it. "You will watch. You will not touch the field, the drive, or the shielding, and you will not ask me to explain either past what you need to survive the transit. I predicted you would come anyway. I did not predict you would look this tired doing it."
+"Hull command is yours," Vex said to Calder, not unkindly, stating the split rather than the insult buried inside it. "Field custody is mine. You will not touch the field, the drive, or the shielding, and you will not ask me to explain either past what you need to sail. I predicted you would take the mission anyway. I did not predict I would be the one reporting a cloaked unit to a scout captain with less than two years in the chair. SSD will call this sidelining. Civil Government will call it trust. I am calling it necessity. Do not ask me to like any of those nouns."
+
+Calder held the mirror without flinching. Scout captain forced into diplomat. Warship commander forced to babysit a field on someone else's tiny hull. Both wrong roles. Both already sailing.
 
 "I predicted you'd say that," Calder said. "Sail."
 
 Thessaly did not watch the ramp seal from a distance the way capitals watched things seal on lag screens, as summary, as headline. She stood close enough to feel the ramp's hydraulics through the deck plating, close enough that the last thing Calder saw of Contact Node Seven was her still standing there instead of already walking away.
 
-The running lights that had never really been running lights went dark. *Long Fathom* did not power up so much as it stopped announcing that it had ever been on at all — no drive flare, no beacon, no farewell strip on the joint channel, because a farewell strip was exactly the kind of transmission the whole mission existed to avoid.
+The running lights dimmed to silent-running discipline. *Kestrel Veil* did not power up so much as she stopped announcing that she had ever been on at all — no drive flare, no beacon, no farewell strip on the joint channel, because a farewell strip was exactly the kind of transmission the whole mission existed to avoid.
 
 It was simply, between one breath and the next, no longer where it had been.
 

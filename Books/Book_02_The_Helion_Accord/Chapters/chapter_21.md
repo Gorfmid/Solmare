@@ -4,10 +4,10 @@
 
 ---
 
-***CONTACT NODE SEVEN — BERTH SEVEN***
-*LONG FATHOM RETURNS*
+***CONTACT NODE SEVEN — FLEET BERTH / KESTREL VEIL***
+*RETURNS*
 
-*Long Fathom* came home the same way it had left: without a beacon, without a hail, simply present in Berth Seven where an hour before there had been empty dock lighting and nothing else.
+*Kestrel Veil* came home the same way she had left: without a beacon, without a hail, simply present in her berth where an hour before there had been empty dock lighting and nothing else. Two berths over, *Long Fathom* waited dark for the field unit's return to Dominion custody.
 
 Thessaly was already there when the ramp lowered, because she had stopped pretending she could work anywhere else once Solan's first-contact strip cleared Contact Node Seven's relay — three words, no more, the entire product of a mission that had cost a political fortune to authorize: *returned; report follows.*
 
@@ -17,7 +17,7 @@ Calder came down the ramp on his own feet, which she catalogued first, the way s
 
 "I'm back," he said, and did not offer anything after it, which was its own kind of answer.
 
-Vex came down behind him, gloves on, unreadable, and stopped only long enough to say one sentence to Thessaly directly. "He saw what he went to see. Give him a day before you ask him to be useful again. Not because he is broken. Because a hull that has seen the depth needs a day before it can pretend it only ever sailed the shallows."
+Vex came down behind him, gloves on, unreadable, and stopped only long enough to say one sentence to Thessaly directly. "He saw what he went to see. Give him a day before you ask him to be useful again. Not because he is broken. Because a hull that has seen the depth needs a day before it can pretend it only ever sailed the shallows." He almost added that Calder had held the ship quiet when initiative would have killed the field — that the restraint was not weakness — and refused the sentence. Recognition unfinished was still more honest than praise. "Field unit returns to *Long Fathom* under custody. Protest notes travel with it."
 
 "Understood," Thessaly said, and did not thank him for the warning, because thanking him would have made it about courtesy instead of about Calder.
 

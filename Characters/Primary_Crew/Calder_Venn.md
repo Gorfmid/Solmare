@@ -133,7 +133,7 @@ Nothing to do with the plot. Exists when the camera is off.
 - Terrible at remembering birthdays. Lisette stopped being surprised years ago.
 - Buys books faster than he reads them. Quarters shelf is aspirational.
 - Forgets to eat unless Thessaly's schedule forces a window.
-- Makes tea, drinks coffee. Owns four identical mugs, none clean at once.
+- Makes tea, drinks coffee. Owns four identical mugs, none clean at once — plus one that matters: **BEST CAPTAIN EVER**, from Lisette for first command (tourist-tacky, sincere). Missing aboard *Kestrel* for months in Book Two; Park has it.
 
 ---
 

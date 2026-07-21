@@ -30,7 +30,7 @@
 | **16 The Cost** | **PRIMARY FAILURE amplified** — 12-minute delay; Orenna/Petya unpaid | Thessaly outpaces Calder | Failure before recon locked | Emotional aftermath continues later (correct) |
 | **17 Broken Procedures** | Calder withdrawal/overcorrection; Thessaly declines *Halvorsen* | Checklist under tempo | Provisional wartime ROE | — |
 | **18 Counterstroke** | Combat secondary; **cloak-share greenlight** | Calder–Vex trust ≠ political trust | One-time inferior Peligar-derived cloak; Dominion keeps tech | — |
-| **19 Helion** | Recon launch (*Long Fathom*); Park–Holt validation | Calder farewell carrying Ch16 | Non-alliance drafts | Politics still dense |
+| **19 Helion** | Recon launch (*Veil* + *Long Fathom* cloak unit); Park–Holt validation | Calder farewell carrying Ch16; Vex demotion feel | Non-alliance drafts | Politics still dense |
 | **20 Revelations** | **Deep recon climax** + Ellis Stage 2 origin | Processing / mobile civilization; Ch16 invoice | No POV; concrete scale only | Parallel Helion/recon weaving can tighten |
 | **21 Old Departure** | Stages 3 + 5–6; Calder tries to surrender command | Ellis refugee/Harvest truth; Thessaly holds him | Founders as refugees from Peligar harvest | Civic scenes still long |
 | **22 Trust** | Reframed as aftermath; **Thessaly pull-back** | Reciprocal truth; re-choose under ash | Not first failure origin | Institutional refrains remain |

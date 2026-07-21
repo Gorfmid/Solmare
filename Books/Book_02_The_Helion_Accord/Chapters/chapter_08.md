@@ -153,7 +153,7 @@ The drafting annex was smaller than the protocol room and meaner about comfort. 
 
 Calder, Thessaly, and Park held Fleet side with a protocol clerk from Segment logistics named Ivers who knew freight constraints better than rhetoric. Orlen, Vorin, and a Dominion linguist named Rada held Dominion side with a border-watch officer named Kell who kept correcting every phrase that sounded like shared command. Vex attended for military geometry. Senka attended for Civil Government kill authority. Ellis attended by lag for noun hygiene. Rowan kept Helion's mute open and its patience thin.
 
-Coffee and tea sat as presence. Nobody used either as a clock. People worked.
+Coffee and tea sat as presence. Nobody used either as a clock. Park's *Kestrel* mug sat at his elbow with the label turned toward the wall. Calder saw the deliberate wrong side and felt the six-month itch climb one notch. Still said nothing. People worked.
 
 "Header first," Ellis said. "If the header lies, every clause becomes a myth engine."
 
@@ -210,6 +210,14 @@ Park pinged Holt on a side line before the next clause could swallow the room. "
 Ivers cleared his throat. "Freight and crew constraints. Do not write a joint patrol that Segment logistics cannot crew or Dominion reserve strain cannot escort. Paper that cannot sail is myth. Under current leave cancellations I can crew one joint watch package if the theater stays narrow and the sunset stays real. I cannot crew a floating alliance fantasy."
 
 "Narrow theater," Rowan said on lag, once. "No capital approaches. No depth fishing corridors. No Founders' Reach residual tourism dressed as patrol. If the instrument is useful, it will be useful in a small place first."
+
+Ivers glanced at Thessaly. "The joint Neutral Zone station has first rooms ready enough for spoken confirmation. Dual custody. Permanent frame continues on the twelve-to-eighteen-month schedule from Session Two. Route the first joint package through that site. Contact Node Seven keeps lexicon and political work."
+
+"Write it," Thessaly said. "Station spoken-confirmation floor live for dual-board handoff. Permanent construction continues. Do not call the station finished."
+
+Vorin mirrored without warmth. "Civil Government authorized the permanent station in Session Two. Temporary occupancy of completed rooms under dual consent is acceptable. Neither hull claims the site. SSD will protest learning risk. Protest notes travel."
+
+Park logged it. Rada checked the Dominion render and did not fight the wording.
 
 Thessaly wrote the theater limits in plain work language. Agreed fringe observation arcs adjacent to contested pressure. Sunset real. Protest notes attached. Classification headers rewritten in the awkward contested form both sides hated: former adversary / temporary parallel response under external pressure. No one liked seeing their civilization called former adversary on a live instrument. No one liked the alternative more.
 
@@ -275,9 +283,9 @@ Outside the protocol glass, a Dominion junior watch runner waited with a tea tra
 
 "Limited cooperation posture accepted as buffer strategy. Watch methods shared under sanitization. Depth withheld. Fleet hull presence under protocol only. Non-alliance explicit. Trust absent. Utility acknowledged."
 
-Calder spoke the Fleet receipt. "Limited cooperation posture accepted under Helion authorization. Joint patrol eligibility live under sunset. Shared warning prototypes live under dual veto. ROE collision rules live. Non-alliance explicit. Trust absent. Necessity operative."
+Calder spoke the Fleet receipt. "Limited cooperation posture accepted under Helion authorization. Joint patrol eligibility live under sunset. Shared warning prototypes live under dual veto. ROE collision rules live. Joint Neutral Zone station spoken-confirmation floor live. Non-alliance explicit. Trust absent. Necessity operative."
 
-Thessaly did not offer a speech. She posted the first joint watch bill draft onto both boards: names, relief windows, escort etiquette, non-pursuit lines, alert-grade map. People who would have to sail stared at schedules instead of myths. Park glanced at Rada. Rada glanced at Park. Human-to-human translation had worked hard enough to produce a document both sides hated for different honest reasons. That was success under this weather.
+Thessaly did not offer a speech. She posted the first joint watch bill draft onto both boards: names, relief windows, escort etiquette, non-pursuit lines, alert-grade map, and the station spoken-confirmation floor as the first package's handoff site. People who would have to sail stared at schedules instead of myths. Park glanced at Rada. Rada glanced at Park. Human-to-human translation had worked hard enough to produce a document both sides hated for different honest reasons. That was success under this weather.
 
 Private contempt and private fear still sat in the room like unpaid freight. A Fleet Segment officer on lag muttered that Dominion checklists would get people killed. Kell muttered that Fleet local judgment would get people killed. Neither man was wrong enough to stop the pens. Neither man was right enough to deserve a veto.
 
@@ -305,9 +313,15 @@ The protocol room emptied into ordinary station noise: runners, packet handoffs,
 
 Tea sat at Vex's elbow. Coffee sat at Calder's. Gloves stayed on Vex's hands. Calder did not ask him to remove them. Silence did useful work.
 
-Calder had spent a career watching longer than politics preferred. The watching had not saved Founders' Reach. The mediating might not save Orchard. He still preferred incomplete certainty to invented clarity. That preference was becoming a political role whether he liked it or not.
+Calder had spent a career watching longer than politics preferred. The watching had not saved Founders' Reach. The mediating might not save Orchard. He still preferred incomplete certainty to invented clarity. That preference was becoming a political role whether he liked it or not. Scout captain forced into diplomat. He did not like the fit. He was learning to sail it anyway.
 
 Vex sat like a man who had already accepted that professional respect and personal liking were different currencies. Calder recognized the posture. He had worn versions of it himself since Contact Node Seven taught him that instruments could work and still arrive late.
+
+Calder studied the gloves, the tea, the refusal to soften security into courtesy. He saw a dangerous military officer who treated every shared board as threat assessment first — someone who would prioritize envelope integrity over cooperation whenever the two disagreed. Not cartoon hostility. Doctrine that had kept a civilization alive long enough to arrive late with maps.
+
+Vex studied the coffee, the mediator's still-young command face, the hull that was a scout by any honest tonnage math. He saw an inexperienced captain whose survival in Alpha Seven may have owed as much to circumstance as to judgment, now seated in rooms that asked him to invent diplomacy from observation habit. Not contempt. A professional fear that Helion had put the wrong man in the wrong chair — and that Civil Government was putting Vex in the wrong chair too, asking a warship commander to babysit that invention.
+
+Neither read was completely correct. Both would have to sail under the incomplete versions anyway.
 
 "You will hate our sensor habits," Calder said.
 
@@ -329,7 +343,7 @@ Vex almost answered with warmth and then chose professionalism instead. "Fleet u
 
 "I can sail it," Vex said. "Liking is irrelevant. Prediction is useful. I can already predict you will hold observation longer than my Long Watch prefers. You can already predict I will refuse illumination longer than your Segment hawks prefer. That prediction is not trust. It is professional memory. Use it. Mirror work begins there, not in galleries."
 
-Thessaly passed through long enough to drop the joint patrol order draft on the table and keep walking. "Orders cut pending final crew confirm. Theater narrow. Sunset real. Non-pursuit live. Do not improvise affection into the watch bill."
+Thessaly passed through long enough to drop the joint patrol order draft on the table and keep walking. "Orders cut pending final crew confirm. Theater narrow. Sunset real. Non-pursuit live. Station spoken-confirmation floor holds package one. Do not improvise affection into the watch bill."
 
 She did not stay for acknowledgment. She had already moved from translating nouns into translating people, and the next rooms would need that more than this one needed her face.
 

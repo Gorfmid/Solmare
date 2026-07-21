@@ -101,6 +101,18 @@ She has not told anyone this, including Okoye.
 
 ---
 
+## SERIES CONTINUITY HABITS (LOCKED)
+
+- **Calm competence:** Carries enormous responsibility without advertising it.
+- **Dry humor:** Observations often sharper than anyone else's; never performs the joke.
+- **Reads Calder early:** Frequently understands what he is struggling with before he says it aloud.
+- **Does not decide for him:** Never rescues him by making the call. Asks the question that lets him reach the correct decision himself.
+- **Series arc:** Increasingly Calder's mentor in command, not only his executive officer.
+
+Detail: `Books/Book_02_The_Helion_Accord/Notes/CHARACTER_CONTINUITY_HABITS.md`
+
+---
+
 ## EMOTIONAL REALITY (NOT DYSFUNCTION)
 
 Thessaly is controlled, not cold. Grief and frustration route through **schedule tightening**—the crew feels her stress as shorter watches and earlier bed checks.

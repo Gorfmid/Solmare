@@ -1,539 +1,811 @@
-# Chapter 3
+﻿# Chapter 3
 
 ## Lines on a Map
 
 ---
 
 ***CONTACT NODE SEVEN — PROTOCOL ROOM***
-*SESSION TWO: MAP CONVERSATION*
+*SESSION TWO*
 
-The charts arrived in sealed sleeves, not as gifts.
+Calder arrived early on purpose and still felt late.
 
-Morning traffic at Contact Node Seven still pretended the station was only bolts and packet handoff. Freighters held approved routes outside the viewports. A Dominion border watch kept station at a polite distance. A Fleet runner waited for clearance and broadcast nothing interesting. Inside the protocol room, the bolted tables and the second wall display with bright mounting screws made the pretense thinner. Someone had restocked the Dominion tea service overnight. Someone else had refilled the Fleet coffee urn Park had insisted on. Nobody discussed either.
+The protocol room had not changed overnight — bolted tables, bright screws on the second display, Dominion tea already poured into cups that waited for people who had not yet arrived. What had changed was the chair across from him. Yesterday it had been empty geometry. Today it would hold the man who had fired on *Kestrel Veil* and lived to sit down afterward.
 
-Thessaly counted the sleeves onto the Fleet table under dual custody rules: three Dominion watch products, sanitized, stamped with Strategic Security review marks that looked like bruises on paper. Park and Orlen confirmed the lexicon lock aloud before anyone touched an overlay. Sixty-three shared terms from Session One. Spoken confirmation still required. Dual-consent recorder dark until both sides keyed it live. Vorin kept his eyes on the recorder. It had already failed once.
+Thessaly checked the seating chart one more time. "You are grinding your teeth."
 
-Calder stood where he could see both tables and both pedestals. Rowan was already on lag from Helion. Senka sat with her coat open and her hands still. Across from Calder, for the first time in this venue, Commander Vex of *Iron Harrow* held the Dominion military seat.
+"I am thinking."
 
-Vex was taller than the advance packet photographs suggested, and quieter. He did not fill the room with rank. He occupied it the way a watch officer occupies a plot: present, measuring, refusing to lean until the numbers required leaning. He had brought tea in a Dominion cup and set it aside without ceremony. Calder had brought coffee from the *Kestrel* and done the same.
+"Then think with the volume down," she said. "If Dominion hears that, they will assume Fleet command is powered by millstones."
 
-They did not shake hands. Thessaly had already decided neither man would offer first, and she had arranged the chairs so neither would look like a petitioner facing a tribunal. She had also placed Park where he could reach both lexicon boards without crossing Vex's sightline every time he stood. Small logistics. Large effects.
+Park was already at the lexicon board. The *Kestrel* mug sat beside him, lettering turned to the wall. He wrote with the careful speed of a man who believed a wrong word could kill someone before lunch.
 
-"Confirm authority," Rowan said.
+"Orlen messaged," Park said without looking up. "She wants the shared strip live before anyone makes a speech. I told her we do not make speeches. She said that was optimistic."
 
-"Fleet field judgment remains with Captain Venn," Calder said. "Procedure with Commander Thessaly. Lexicon with Park under joint custody."
+"She is learning us," Thessaly said.
 
-"Civil Government provisional authority remains with me," Senka said. "Science Directorate method with Orlen and Vorin. Strategic Security retains review on depth. Commander Vex is authorized for military border geometry relevant to current observation. He is not authorized to surrender strategic depth maps."
+"She is diagnosing us," Park said. "There is a difference."
 
-Vex inclined his head once. "Understood."
+Footsteps in the corridor. Dominion cadence — measured, unhurried, already decided. Calder stood. He did not want to be sitting when Vex entered. Sitting felt like surrender. Standing felt like pride. Neither was the right tool. He stood anyway.
 
-Calder read him like any officer who might matter under pressure: hands, posture, what he refused to perform. Vex refused performance. That was either discipline or a different kind of theater. Calder reserved judgment and kept the observation.
+Commander Vex of *Iron Harrow* took the Dominion military seat across from Calder.
 
-"Walk-out drill," Thessaly said.
+Neither man offered a hand.
 
-They ran it. Fleet suspend. Dominion acknowledge. Stop. Reverse. The room practiced ending itself before it practiced sharing anything that could kill people if mishandled. Vex performed the Dominion half without impatience. Calder noticed that. Men who hated the venue usually rushed the drill to get past humiliation. Vex treated the drill as load-bearing structure. Thessaly marked both completions and only then allowed the first sleeve onto the display path.
+Alpha Seven sat between them without being named: the warship that had left *Kestrel Veil* for dead, and the scout Dominion had logged as destroyed. The words were correct. The temperature was not.
 
-"Open the first overlay," Calder said.
+Calder had faced Dominion officers in compressed packets for eighteen months — stills, labels, distances that made people into categories. Standing across from Vex was different. The man had a scar at the edge of one eyebrow that Fleet Intelligence had never captioned. His uniform was clean without looking ceremonial. He did not perform presence. He occupied it.
 
-Vorin keyed the Dominion sleeve. Orlen spoke the header aloud. Park confirmed the Fleet render matched the spoken claim. The wall display showed a fringe pressure chart that had been emptied of names Fleet would use for inventory and left with Dominion pressure marks, missing check-ins, and a set of dated contour lines that did not stay still from year to year.
+Eighteen months ago, Calder had watched a Dominion warship come out of nothing and try to end his command. He had ordered returns, evasion, survival. He had hated the man on the other board without knowing his name. Now the name had a face, and the face refused to be a cartoon.
 
-Calder felt the old hunger for certainty rise and made himself leave it alone.
+Vex glanced once at Calder's hands — empty, open, no slate held like a shield — and then at the room's exits again. Calder caught himself doing the same inventory a second later. Same habit. Different navy. The recognition sat in his stomach like cold coffee.
 
-The contour did not look like a border drawn by diplomats. It looked like weather — something that moved on its own schedule, whether anyone approved or not. Year marks stepped across the display in a sequence that made Fleet survey habits feel suddenly provincial. Edition numbers assumed a line would hold still long enough to be printed. This line refused the courtesy.
+Thessaly seated them as counterparts anyway. She did it the way she did everything that mattered — as if the room had already agreed, and the rest of them were catching up.
 
-"This is eleven years of watch product," Vex said. His voice was even, without theater. "Sanitized for this room. The full depth stays off the table."
+"Commander Vex," she said. "Captain Venn. You will face each other for the work. Not the history."
 
-"What am I looking at," Calder asked.
+Vex's eyes flicked to her once. Assessment, not challenge. Then he sat.
 
-"A frontier that moves," Vex said.
+He sat the way a man sat who had spent years in a combat chair: weight forward, hands quiet, eyes already mapping exits and angles. He set a cup of Dominion tea at his elbow and did not touch it. Calder recognized the habit before he wanted to. Hold the drink. Keep the hands free. Watch the room.
 
-Park wrote the phrase into the session log under *shared description, provisional*. Orlen checked the Dominion equivalent and did not argue the wording. Thessaly watched faces instead of lines. Senka watched Rowan. Rowan watched the cost of every question Fleet would want answered before it moved a ship.
+Park's coffee mug sat with its lettering toward the wall. Calder almost caught the print. Park turned it another inch and kept writing.
 
-The first argument arrived on schedule.
+"You know he does that every time you walk in," Thessaly murmured, too low for Dominion ears.
 
-"Fleet First Doctrine requires confirmation standards," Rowan said. "Independent observation, correlated returns, certified intent where available. A contour drawn by your watch alone is not yet an order we can issue."
+"I have noticed," Calder said.
 
-"Then do not call it an order," Senka said. "Call it a warning geometry. We are not asking you to salute our archives. We are showing you that the edge does not hold still for your survey edition."
+"Good. I was beginning to wonder if command had ruined your peripheral vision."
 
-Calder stepped closer to the display. The pressure marks stepped inward across successive years, not in a straight invasion arrow, not in a parade of conquest banners. Systems blinked from regular check-in to delayed return to no return. Processing signatures sat in the notes as Dominion operational language: harvest density elevated, resource graph pressure increasing, continuity frontier advanced. The words were careful. They still made Fleet officers reach for war vocabulary like people reaching for a familiar tool in the dark.
+Calder almost smiled. Then he looked at Vex again. The smile died. He remembered the probes that had launched during the battle—both crews convinced the other had started something neither of them understood.
 
-"Looks like aggression," said a Fleet Intelligence note on Rowan's channel, audible enough that the room heard it.
+Rowan's image held from Helion — remote, sharp, already done waiting. Senka sat with her coat open and her attention on political seams the way a surgeon watched for bleeding. Orlen and Vorin held their boards without looking like they were holding weapons. They were. Language was just quieter than guns.
 
-Vex did not flinch. "Looks like expansion to people who need an enemy with a face. We have used that frame too. It fails under longer watch."
+"Then we're agreed," Rowan said.
 
-"Then give us the longer watch," Calder said.
+Senka inclined her head. "Limited warning exchange. No alliance. No shared fleet command."
 
-"No," Senka said, before Vex could. "Not the depth maps. Not the full archive. Enough geometry to show the pattern. Enough missing returns to stop you calling yesterday's quiet proof of tomorrow's safety."
+"Neither side shares deeper strategic information," Vex added.
 
-Thessaly marked the veto without raising her voice. "Depth maps remain out of scope. Proceed with sanitized product only."
+"We tell each other when approaches are unsafe," Calder said. "That is the work."
 
-Park kept the language rails up. "No one says *invasion* without certified intent. No one says *ally*. If we need a placeholder, *expanding pressure* stays on the board."
+"Good," Rowan said. "Stop negotiating. Start working."
 
-Orlen nodded. "Accepted."
+Park wrote the phrase both sides had hated into usefulness: *Request for cooperative warning posture.* SSD entered its objection on Senka's channel loud enough for the room to hear. Someone on that channel used the word *contamination* twice in one breath.
 
-They worked the first overlay for nearly an hour. Calder asked for dates. Vex gave dates. Calder asked which missing returns were civilian traffic and which were military watch. Vex separated them without apology and without ornament. He pointed to three clusters where civilian packets failed first and military watches failed later, and one cluster where the order reversed. He refused to narrate meaning into the reversal. He only marked it.
+Senka did not mute it. She let the room hear the fear, then answered it without raising her voice.
 
-"Your people prefer a single failure story," Vex said. "The board does not always give one."
+"Contamination risk is real," she said. "So is collision risk. We are choosing which one we can survive this week."
 
-"Fleet prefers a story that can be briefed," Calder said. "That is not the same as preferring a false one."
+Rowan authorized the agreement anyway.
 
-"Good," Vex said. "Then do not force a false one onto this contour to make Council comfortable."
+"Commander Vex," he said. He believed he was asking a simple question. "What are the Peligar, and what do they want?"
 
-When Fleet pushed for a system-by-system inventory that would have reconstructed Dominion strategic depth from the negative space, Vex stopped answering and looked at Senka.
+Vex did not look at Senka for permission. He looked at Calder first — measuring whether the man across the table would hear an answer, or only a threat.
 
-"Suspend that line," Senka said.
+Calder held the look. He did not soften it. Softening would have been dishonest, and Vex did not seem like a man who rewarded dishonesty.
 
-"Suspended," Thessaly said.
+"What they are, I cannot say," Vex said. "Not because the information is secured. We simply do not know. We have never seen one. Only their ships."
 
-Park logged the suspension with the spoken reason: *inventory reconstruction risk*. Vorin mirrored it. The room held. Nobody walked out. The veto had done its job: it had kept the conversation alive by refusing to let either side win it completely.
+Rowan waited. The remote channel carried the pause without filling it. Calder admired that. Most admirals filled silence the way some people filled empty rooms — with noise that proved they were still there.
 
-Calder studied the moving contour again. Categories were still incomplete. The pattern would not sit still. That was the point, and also the trap, because a pattern that refused to sit still was exactly the kind of thing Fleet Council would call theater until something burned.
+"As for what they want, I have little more. They find systems. They erase—" Vex stopped. His jaw worked once. "No. That is not the word. They consume."
 
-He thought of the *Kestrel*'s fringe bearing from weeks earlier, empty after the contact dropped below threshold, and of Park's corrected header still sitting in Fleet systems like a bruise you could read. Speech, not distress. Meaning none. Maps were starting to feel like the same problem at a larger scale: something present, structured, and still not answerable in the nouns Fleet trusted.
+"Everything?" Rowan asked.
 
-"Show the next product," he said.
+"Industry. Agriculture. Stone. Water." His voice lowered. "People."
 
-Vorin opened the second sleeve. Missing check-ins stacked into a list that looked bureaucratic until you read the gaps as absences of people. A Dominion freighter route that stopped reporting. A border watch that went overdue and never cleared. Two civilian stations whose last packets arrived normal and then never arrived again. No casualty figures. No speeches. Just absence made administrative.
+The room went silent.
 
-Thessaly asked the question Fleet procedure always asked when absences arrived without drama. "Were search assets tasked."
+Park's pen stopped. Orlen's hand rested flat on her board. Vorin looked at the wall map as if it might contradict the sentence. Thessaly did not move at all, which meant she was moving everything inside.
 
-"Yes," Vex said. "Results inconclusive or empty. Details remain under SSD review and will not be expanded in this venue."
+Calder looked across the table. Vex's face had not changed. That was worse than anger would have been. Anger meant the fight was still personal. Weariness meant the fight had already lasted too long.
 
-"So we get the gap without the recovery narrative," Rowan said.
+"How long," Calder asked.
 
-"You get the gap because the recovery narrative is where depth hides," Senka said. "We are not staging a tragedy for your sympathy. We are showing you that quiet endings already exist on our side of the fringe."
+Vex considered the question the way a professional considered a range estimate. "Longer than your Fleet has been a Fleet. Long enough that my grandmother's generation treated the edge as weather. This window is different. We are losing ground."
 
-Ellis, on audio only, spoke once when a Fleet staff draft tried to call the absences *shared frontier losses*.
+Park wrote without looking up. Calder saw his handwriting tighten — the small tell he got when the subject was living people, not abstract traffic.
 
-"Strike kinship language," Ellis said. "Loss is observed. Shared is not certified."
+"Losing ground how," Thessaly asked. Not challenge. Precision.
 
-"Struck," Thessaly said.
+"Systems that answered stop answering," Vex said. "Watches that return late return with less. The advance does not declare itself. It arrives as absence, then as work we cannot translate, then as a place that is no longer a place. Your First Doctrine wants a captain to blame. There is no captain. There is only appetite with ships."
 
-Ellis signed off the interruption as quickly as she had entered it. Founders' Week stayed out of the room. Myth stayed off the map. The horror on the wall was enough without ancestry arguments. Calder noticed that Ellis sounded less like a historian protecting romance and more like an archivist protecting the difference between evidence and hope. He respected that even when it left the board colder.
+Senka's fingers rested on the edge of the table. "We have said this to Fleet before. In quieter meetings. Quieter meetings preferred not to believe us. That costs less — until it does not."
 
-The map was asking something of Calder that certainty usually protected him from. He was being asked to recommend action before the categories finished forming. That was command. It felt like standing in a corridor with the lights only half installed.
+Calder heard the weariness under her politics. She was not performing cruelty. She was tired of Dominion systems paying the price while Fleet decided whether to believe her.
 
-Vex watched him look at the absences. Not kindly. Not cruelly. Professionally — one officer watching another decide whether the board was real enough to move ships for.
+"Your people will hear *consume* and turn it into a war they can understand," Senka said. She watched Fleet faces the way she watched cost sheets. "I assure you, what the Pelligar do is beyond comprehension. We have lived under it long enogh for the Peligar to stop making sense a lifetime ot wo ago."
 
-"Your survey editions treat borders as lines that wait," Vex said. "Ours treat some borders as pressure that advances whether we approve the metaphor or not."
+"Then we stop looking for a simpler story," Rowan said. "We treat the warnings as real for traffic we already run. That is the decision."
 
-"Fleet will hear trap," Calder said.
+"And if Council says the warnings are false," Thessaly said.
 
-"Dominion will hear reckless innovators who will overshare and under-prepare," Vex said. "Both hearings are already in the room. They do not cancel the contour."
+"Then Council can say that," Rowan said. "We still treat the warnings as real. Next."
 
-That was the first moment Calder recognized him as a counterpart rather than an opposing brief. Prediction without softness. Restraint without surrender. Respect offered as accuracy, not affection.
+Calder let the decision sit. Belief was the cheap half. Acting on it would cost more.
 
-Thessaly saw the recognition land and did not interrupt it. She only adjusted the seating note in her slate so that later sessions would keep the two of them able to see the same board without forcing either man into a subordinate angle. People-judgment as furniture again. Useful furniture.
+He looked at Vex again.
 
-"Continue," Calder said.
+"What about ships?" Calder asked.
 
-They took a short break before the third product, not for comfort, for custody. Park and Orlen resealed the first two sleeves, spoke the chain aloud, and only then allowed Vorin to open the next. Thessaly used the pause to watch who left the room and who stayed. Senka stayed. Vex stayed. Rowan stayed on lag with the mute open, which meant Helion was listening harder than it admitted.
+"If a ship interferes, they destroy it. If it is large enough to concern them, they destroy it." Vex looked past Calder at the wall map, where Segment approaches waited like ordinary traffic. "Otherwise, they ignore it."
 
-Park said, quietly enough for the language table only, "If the next product uses war nouns, I will stop the render."
+"So they take a world and just leave the freighters alone," Park said, then looked like he regretted speaking aloud.
 
-"If it uses war nouns without proof, I will help you stop it," Orlen said.
+"Yes," Orlen said. Not unkind. Exact. "If the freighters do not get in the way, they are not the point."
 
-That was as close as the morning came to warmth.
+Park exhaled once, quiet. Orlen heard it. She did not look up from her board.
+
+"Then we can begin," she said.
+
+"Work that keeps people alive," Park said. "I will take that."
+
+Orlen almost smiled. Almost. "Do not celebrate yet. Wait until it survives a few watches without breaking."
+
+"I am not celebrating," Park said. "I am noticing that my shoulders have stopped climbing into my ears."
+
+"Then notice quietly," Orlen said. "SSD is still listening."
+
+Park nodded once and went back to his board.
+
+A moment later, Dana Holt came through on the Fleet channel — low and practical, the way she always did when she was holding a real line open for people who needed it.
+
+"Node Seven, this is Holt. New Meridian is asking if today's warning work changes Segment packet timing. I told them not until you say so. Tell me if I am wrong."
+
+"You are not wrong," Thessaly said. "Hold the packets. We will send you language that does not get anyone killed."
+
+"Copy," Holt said. Then, after a breath that was not for the record: "For what it is worth — the corridor traffic out here still thinks this is an ordinary week. Freighters arguing about weather diversions. A packet runner complaining about tea. I would like them to keep thinking that as long as we can manage it."
+
+Calder felt the weight of that settle. Ordinary weeks were what quiet colonies lived on. Ordinary weeks were what got people killed if the board was lying.
+
+"Holt," he said.
+
+"Sir."
+
+"If anything on Segment 6 goes quiet early — anything — you bring it here first. Do not wait for New Meridian to finish arguing about it."
+
+A pause. Then, warmer: "Understood. I was going to do that anyway. Nice of you to authorize my bad manners."
+
+Thessaly's mouth twitched. "She has always had authorization. She just prefers to pretend she needs yours."
+
+Vex listened to the exchange without interrupting. Calder saw him file Holt the way a good officer filed assets: not as furniture, as a person who could keep other people alive.
+
+When the channel closed, Calder found himself watching Vex's hands again. Still. Exact. No wasted motion. The tea remained untouched. Condensation made a small ring on the table that Vex did not wipe away.
+
+If the man across the table had worn a Fleet uniform — if the first meeting had been a bridge watch instead of gunfire — Calder would have wanted him on *Kestrel Veil*. The thought arrived clean and ugly. He put it away unfinished, and it came back anyway, like a board return that refused to class.
+
+He hated that. Not because it was wrong. Because it was inconvenient. Enemies were easier when they stayed enemies.
+
+Vex saw the look and did not claim it. For a moment something almost like regret moved behind his eyes. Then it was gone.
+
+"Your disbelief has cost you time," Vex said, not unkindly. "Mine has cost me systems. I would rather we had met differently."
+
+"So would I," Calder said.
+
+Neither of them smiled.
+
+Senka stood. "We have enough agreement to work and enough suspicion to keep us honest. I am going to tell SSD that honesty is not the same as surrender. They will dislike the sentence. Dislike is not a veto."
+
+"Fleet Council will dislike the same sentence from the other direction," Rowan said. "Let them dislike it. We have work."
+
+Thessaly checked faces the way she checked crew lists. Calder was holding something ugly and useful. Vex was holding weariness like a tool he had learned not to put down. Park looked like a man who had finally been allowed to do his job. Orlen looked like she had expected that and refused to congratulate it.
+
+"Break," Thessaly said. "Fifteen minutes. Then we see what Brenner wants. He sent a request that sounded like a threat and a gift in the same sentence."
+
+"Brenner always sounds like that," Calder said.
+
+"Yes," Thessaly said. "That is why I trust him with machinery and almost never with diplomacy."
 
 ---
-***CONTACT NODE SEVEN — PROTOCOL ROOM***
-*CONTINUITY LANGUAGE*
+***CONTACT NODE SEVEN — CORRIDOR / TEA SERVICE***
+*FIFTEEN MINUTES*
 
-The third product was the one that broke Fleet's preferred nouns.
+The corridor outside the protocol room smelled like machine oil and someone else's tea. Ordinary traffic moved past the sealed viewports — freighters on approved routes, a Dominion border watch holding station, a Fleet runner waiting for clearance. None of that traffic knew what the room behind Calder was for.
 
-It was not a battle map. It was a processing summary, emptied of depth and left with operational texture: resource extraction signatures, densified traffic into systems that later went quiet, orbital rearrangement indicators that Dominion watchers had logged as industrial rather than martial. Harvest groups appeared only as classification tags in the margin, unexplained, unexpanded, present the way a tool name is present in a workshop without becoming a lecture.
+He stood at the glass and did not pretend he was watching ships.
 
-Park frowned at the margin tags. "Are those unit names."
+Thessaly joined him without asking permission. She never asked permission for the useful things.
 
-"Classification tags," Orlen said. "Not a gift of structure. Do not build a hierarchy out of labels we have not explained."
+"You keep looking at him like he is a problem you can solve with a better seating chart," she said.
 
-"Fleet will try anyway," Vorin said.
+"He almost killed us."
 
-"Then Fleet will be wrong in a documented way," Calder said. "Log the tags as unresolved category markers. No invention."
+"Yes."
 
-A Fleet staff officer on Rowan's channel said, "Aggression pattern."
+"I should have killed him where he stood," Calder said. "That smug look on his face. Like the shot was already finished business."
 
-Vex said, "Processing pattern."
+Thessaly did not flinch. "And then we would be in a different room with a different problem. Probably a much worse one."
 
-"That is semantics," the staff officer said.
+Calder waited for the comforting part. Thessaly did not offer one.
 
-"No," Orlen said, mild and exact. "Semantics is when two words mean the same action. These do not."
+"If he had been Fleet," Calder said, quieter, "I would have wanted him on my bridge."
 
-Park held the language line. "We can record both frames as contested. We cannot certify either as settled doctrine in this session."
+Thessaly considered that. "Then you are either growing up or having a very expensive week. Possibly both. Expensive as in: the kind of week that costs you the clean hatred you walked in with."
 
-Calder looked at the signatures and felt his mind reach for invasion because invasion was a story with a villain and an ending condition. Processing had no speech ready for it. Processing sounded like industry. Industry did not feel like a reason to move fleets until you remembered that people lived inside the material being rearranged.
+"That is not helpful."
 
-He walked the display slowly, the way he walked a sensor board when the return would not settle. Densified traffic in. Quiet after. Rearrangement indicators that looked like construction if you wanted them to, and like dismantling if you let the absences speak. Neither reading was certified. Both readings hurt.
+"It was not meant to be comforting," she said. "It was meant to be true. You do not have to like him. You have to decide whether you can work with him before we lose something."
 
-"What do they want," Rowan asked.
+He looked at her. "You already decided."
 
-Senka's mouth tightened. "Do not ask that question as if we have their answer. We have observation. We have history of pressure. We have a name that is ours, not theirs."
+"I decided the seating, but also, I have decided you are not like him." Thessaly said. "You decide the trust. Or the necessity. Don't confuse the two, sort them out privatly if you need."
 
-"Peligar," Vorin said, because the word had already been authorized for classified headers, and refusing to say it now would have been theater.
+Down the corridor, Park and Orlen had claimed a narrow ledge and were using it as a table. Park had brought the mug. The lettering still faced the wall. Orlen had brought a Dominion thermos.
 
-"Exonym," Orlen added. "Not self-name. Meaning incomplete. My grandmother used to say a borrowed name is a confession of ignorance dressed as knowledge. She was talking about neighbors. It applies."
+She poured a little into a spare cup and pushed it toward him. "Try that before you defend Fleet coffee again."
 
-Calder did not pretend the name comforted him. A label was not understanding. Park's corrected scream from the day before still sat in the lexicon like a warning about how badly humans wanted categories that felt clean.
+Park sniffed it, suspicious on principle, then drank. He went still.
 
-"Fleet hears war," Calder said. "You are telling us to hear something else without giving us the full something else."
+"That is not tea," he said. "That is a better life."
 
-"Yes," Vex said.
+"It is ordinary duskleaf," Orlen said. "Common as water where I grew up. Your people drink burnt grain water and call it tradition."
 
-"That is an expensive ask already," Calder said.
+Park took another sip. "How many kinds are there."
 
-"It gets more expensive," Senka said.
+"Hundreds," Orlen said. No bragging — just the facts. "Frostblossom — floral, light. Duskleaf — what you are drinking. Kilnleaf — roasted, savory. And that is only the ordinary shelf."
 
-Thessaly watched the way Vex did not seize the moral high ground. He could have. The Dominion products were older, denser, uglier with accumulated watch. He did not convert that into *we told you so*. He converted it into preparation language: what held, what failed, what must be assumed when proof arrives late.
+"Stop," Park said.
 
-"My first instructor said glory is what people invent after survival," Vex said. "We are not here for glory. We are here because the contour advances whether we admire it or not."
+Orlen looked at him. "Why."
 
-Calder almost answered with a Fleet Academy line about initiative under uncertainty. He did not. Matching quotation with quotation would have turned the room into a contest of ancestors. He needed a contest of next steps.
+"Because I already want to try them all."
 
-"Then say what the pattern does," he said. "In plain terms. No encyclopedia."
+"That will take years," Orlen said.
 
-Vex looked at the display. "It finds systems. It takes what it can use. It continues. Ships that stand in the path are terrain unless they become obstacles. Obstacles are removed. That is the operational summary we can stand behind without inventing their inner life."
+"I have years," Park said. "Do not let me go back to Fleet coffee."
 
-Silence held for a few seconds. Not reverence. Digestion.
+"I can send you a tin," Orlen said. "Through Science channels. When you want more, tell me. Start with duskleaf. Then kilnleaf."
 
-Park wrote *obstacle language contested* into the log and did not look proud of it. Orlen checked the Dominion phrasing and allowed it as provisional observation, not doctrine gift.
+"Deal," Park said. "Send the first tin."
 
-A younger Fleet officer on the lag channel, someone Calder did not recognize by voice alone, said, "If they remove obstacles, that is still an attack."
+"Good," Orlen said. "Coffee is a crime against chemistry."
 
-"It may be lethal without being an attack in the way your forms mean attack," Vex said. "Your forms assume intent aimed at you. This pattern often does not aim. That does not make the dead less dead. It makes your response doctrine wrong if you wait for a declaration that will not arrive."
+She snorted once — the smallest possible laugh — then returned to work. "Your correction work yesterday was good. Do not get soft about it. Good is the job."
 
-Calder kept that distinction under unfinished business rather than accepted truth. He could carry unfinished business. He could not carry a sermon pretending unfinished business was settled philosophy.
+"I know," Park said. Then, after a beat: "Thank you anyway. For the work. And for the tea."
 
-A Strategic Security note arrived on Senka's slate and made her pause long enough that everyone saw the pause. Delay as weapon. Delay as doctrine. Delay as the part of Dominion government that still believed Fleet was the nearer danger.
+"I did not thank you," Orlen said.
 
-"SSD requests additional sanitization before further release," Senka said.
+"I noticed," Park said. "I am thanking you for the not-thanking. It is somehow more honest."
 
-"How much further," Rowan asked.
+She looked at him sideways. Professionals noticing competence. No celebration. Just the quiet fact of it sitting between them like a tool neither of them needed to name.
 
-"Enough to make the warning less useful," Senka said, flat. "Civil Government declines the additional cut. The product on the board stands."
+"I still want to try them all," Park said.
 
-Vex did not smile. He did not need to. The institutional fight had just become visible without becoming a speech. Calder saw Senka spend political capital in public and understood that Dominion help would never arrive as a clean gift. It would arrive as a contested act, with enemies inside the same civilization that was asking.
+"I heard you the first time," Orlen said. "Do your board work. The leaf will wait."
 
-"Record the contested frames," Calder said. "Do not pretend we agree on the noun. Agree on the geometry long enough to talk about warning share."
+Lena Walsh came through with her notebook open, already mid-thought. She nearly walked into Vex, who had stopped at the tea service to pour a second cup he would also not drink.
 
-"Accepted," Thessaly said.
+"Sorry, sir," Walsh said.
 
-Park asked one more language question before they closed the product. "If Fleet ships start using *processing* in headers, Council will think we adopted Dominion theory."
+Vex looked up to correct the rank — and stopped.
 
-"Then use *unresolved industrial-pattern pressure* until Council catches up or the board forces a shorter word," Orlen said. "Ugly phrases keep people honest."
+She had walked into a Dominion commander's space without hesitation. Notebook already open. Apology already done. Mind already on the next useful thing. No armor. No performance. Just a person moving toward the work.
 
-"Ugly phrases it is," Park said.
+That was what caught him.
 
-The conceptual gap stayed open on purpose. Ellis would want that gap later. For now, the room still preferred debate over proof. Proof was coming anyway, on a schedule nobody in the room owned.
+"Commander," Vex corrected, without heat. Then, after a pause that might have been manners: "Or nothing. Rank is for more formal settings."
+
+Walsh blinked. Filed that. "Lena Walsh. Security. Captain brought me because Brenner asked for someone who could look at a drawing without causing a commotion."
+
+Vex held her gaze a second longer than the exchange required. Filed her somewhere that was more than a name on a sheet — competence first, everything else later.
+
+"Then you are already more useful than most of the people who cause one," he said.
+
+Walsh almost smiled, caught herself, and nodded instead. "The annex is this way, if you are going."
+
+"I am going," Vex said. He meant the annex. He also meant he wanted to see whether her competence held once the drawing was real.
+
+They started toward the same hatch, stopped, and let each other through with the stiff courtesy of strangers — except Vex let her pass first, and watched whether she checked the hatch the way he would.
+
+Behind them, Senka paused long enough to speak to Calder without an audience.
+
+"Captain," she said. "Do not mistake my concurrence for affection. I am buying time for people who already live and work on both sides of this border. If Fleet turns this into a speech, I will shut the talks down myself."
+
+"If Dominion turns this into a trap," Calder said, "I will end it first."
+
+Senka studied him. "Good. We understand each other. Understanding is not trust. It is the floor under trust."
+
+She left him with that.
+
+Calder watched Walsh and Vex disappear toward the annex. Vex did not walk like a man escorting a junior. He walked like a man who had noticed something and refused to look away from it yet.
+
+"That will be a problem later," Thessaly said.
+
+"What will."
+
+"Nothing," she said. "Or something. I have not decided which is yet."
+
+"She is one of ours," Calder said. "Fleet uniform. Fleet chain. Whatever Vex thinks he saw, she answers to this ship."
+
+"She is competent," Thessaly said. "And he noticed. Competence finds its own company. Try not to be shocked when it does."
+
+Park passed them with Orlen, mid-argument about whether *adjacent* could survive another watch without becoming *ours*.
+
+"It means near," Park said. "Near is not owned."
+
+"Near is how ownership starts," Orlen said. "Write the limit under it or someone will invent a border while you sleep."
+
+"I am not sleeping."
+
+"Then write it while you are awake," Orlen said. "Awake people make fewer disasters. Slightly fewer."
+
+Calder watched them go and felt, absurdly, something like hope. Not for empires. For two people who could argue without reaching for guns.
+
+Brenner appeared at the far end of the corridor with grease under one nail, a rolled sketch under his arm, and the expression of a man who had already solved the problem and was irritated that politics had not caught up.
+
+"Captain," he called. "I need you, a Dominion who can read a drawing, and anyone who will stop inventing reasons not to build things. Now. Ten minutes. Then you can go back to arguing."
+
+"We were not arguing," Calder said.
+
+"Good," Brenner said. "Then you have time. Come on."
 
 ---
-***CONTACT NODE SEVEN — PROTOCOL ROOM***
-*REQUEST FOR COOPERATIVE WARNING POSTURE*
+***CONTACT NODE SEVEN — DRAFTING ANNEX***
+*ONE STATION*
 
-Senka did not stand when she made the ask. Standing would have looked like theater. She kept her seat, opened a Civil Government authorization strip, and spoke as if she were placing a heavy object on a table carefully enough that it would not break the table.
+Brenner did not sit. He set the sketch on the table and left it closed, as if opening it too early would let the room talk it to death.
 
-"Under provisional contact rules, Civil Government requests Fleet cooperation," she said. "Scoped. Not vassalage. Not alliance language. Not public framing."
+He had Calder. He had Vorin. Walsh stood with her notebook. Vex stood where he could see both the sketch and the door. Rowan stayed remote. Senka stayed on the pedestal. Thessaly stood where in a position were she could scowl and deeter an argument before it happened.
 
-Rowan's lag made the silence after the sentence feel longer than it was. Park's pen stopped. Orlen looked at the authorization strip as if it might retract. Vorin sat very still. Thessaly watched Senka's shoulders for the tell of a person spending something she could not easily replace.
+"I was on the engines last night," Brenner said. "Old feed in Reing 2. New controller they hung in Reing 4 after the last yard pass. Same ship. Same power. They would not talk to each other. Different handshake. Different timing. Different everything."
 
-"State the scope," Rowan said.
+Vorin waited. Calder did not interrupt. Walsh watched Brenner's hands the way she watched hatch seals — for the truth under the talk.
 
-Senka did. Warning share on expanding pressure geometry relevant to both sides' current observation. Observational cooperation under dual veto. Fleet buffer posture along exposed Segment approaches where Fleet presence already existed and Dominion depth would not be opened. Shared warning formats for missing returns and unresolved mass contacts. No joint command. No mutual defense treaty. No demand that Fleet accept Dominion strategic theory as doctrine.
+"I spent three hours trying to make one of the damn things behave," Brenner said. "Tried to force Reing 4 to speak Reing 2. Tried to make Reing 2 pretend it was new. Both ideas were stupid. Then I stopped being stupid. Built a box in between. Takes what Reing 2 puts out. Hands Reing 4 what it can read. Neither system becomes the other. The information just moves."
 
-"In plain speech," Senka said, "we are asking you to help watch a frontier that does not respect our quarrel. We are asking you to treat certain warnings as actionable even when the full archive stays closed. We are asking you to be a buffer in places where your ships already travel, not a subordinate navy in places we will not show you."
+Calder nodded once. "An interface."
 
-Pride paid itself in the room like a tax. Calder could feel it on the Dominion side without needing a lecture. Asking Fleet for help was harder than returning fire. Returning fire had dignity. This had necessity.
+"Yes." Brenner almost smiled. "Kevin asked me about your aunt's cardamom buns while I was still holding the coupler. That helped the thought settle. Do not ask me how."
 
-An SSD channel opened on the Dominion pedestal with a voice that did not introduce itself by warmth.
+"Engines or buns?" Calder asked.
 
-"Strategic Security does not authorize depth disclosure attached to this request," the voice said. "Strategic Security notes that Fleet buffer language historically precedes Fleet inventory behavior. Delay recommended pending further review."
+"Engines," Brenner said. "The buns were only noise. Good noise. But noise."
 
-"Civil Government notes the recommendation and declines indefinite delay," Senka said. "The request stands under provisional authority. SSD retains depth veto. SSD does not retain veto on the existence of the ask."
+He unrolled the sketch and pinned it to the wall. Alpha Seven traffic on one side. Volume Seventeen on the other. A blank mark on the Neutral Zone line between them.
 
-The SSD voice returned immediately. "Civil Government is converting a security question into a political performance."
+"You people have been running one frontier through two boxes for days, with no solution in site, it could be weeks," Brenner said. "Maybe years, if I am being honest and you are being slow. Fleet and Dominion will not rebuild yourselves for each other. Put an interface on the line. One station. One common ops floor. Warning and traffic on the same board. Translators in the room. Shared construction. Dual custody of the yard. Neither side owns it. Neither side builds it alone."
 
-"Civil Government is converting a security question into a survival question before the fringe finishes the conversion for us," Senka said. "If that is performance, it is the only honest kind left."
+Silence held for three seconds.
 
-Vex spoke then, carefully inside his authorization. "Military observation supports the need for shared warning. Military observation does not support opening the depth maps. If Fleet requires total disclosure as the price of listening, we cannot pay it and remain who we are."
+Then Thessaly said, dry as a checklist, "Of course."
 
-Calder looked at him and saw the mirror again: a man who would rather lose an argument than pretend the argument was about friendship.
+Vorin frowned at the blank mark. "SSD will hate a permanent structure."
 
-Rowan did not accept. Rowan also did not reject. He did what institutional ceilings do when the floor is moving.
+"Then they can hate it while we build it," Brenner said. "Twelve to eighteen months if you stop arguing and start cutting metal. With the right people."
 
-"Fleet Council will hear trap," Rowan said. "Fleet Council will hear theater. Fleet Council will ask why a civilization that spent years watching this pressure now wants our ships in the path."
+Senka's eyes narrowed — not refusal. Calculation. "A station is a political fact. Permanent. Visible. Hard to walk back. SSD will ask who holds the keys when the next crisis arrives. Civil Government will ask who pays. Science will ask who speaks in the common room. Everyone will ask who is in charge when both sides disagree."
 
-"Because the pressure is widening faster than our depth can absorb alone," Senka said. "Because your Segment exposure already sits inside the geometry whether you believe our nouns or not. Because preparation that refuses useful neighbors is not preparation. It is pride rehearsing a funeral."
+"Good questions," Rowan said from Helion. "Ask them after you answer the only one that matters today. Can it work."
 
-Orlen's pen paused at that last line. Inherited speech, almost. Senka did not apologize for it.
+Calder studied the mark, then the traffic labels, then Brenner. He could feel Vex's attention on the same lines without looking. That irritated him. Shared attention felt too much like shared judgment.
 
-A Fleet Council advisory note arrived on Rowan's channel and was read into the room with visible reluctance. "Council minority position: any Dominion request for Fleet buffer posture constitutes legitimization of a rival and should be refused until independent Fleet confirmation exists."
+"Who builds it?" Calder asked.
 
-"Council majority has not voted," Rowan said. "I am not pretending a minority fear is irrelevant. I am refusing to let it freeze the venue before instruments exist."
+"Both of us," Brenner said. "Shared design. Shared construction. Dual custody from the first weld."
 
-Park kept the language rails from catching fire. "Working label remains *request for cooperative warning posture*. Not *help* as surrender. Not *petition* as shame theater. If either side needs a harder phrase for their own records, they can write it locally. Shared channel keeps the ugly clear version."
+"What keeps it from becoming two bases with one wall?"
 
-"Accepted," Vorin said.
+"One common ops floor," Brenner said. "One duty officer in the chair. Rotating watches — Fleet, then Dominion. Whoever holds the chair reports both ways. That unifies the floor. It does not give either navy a joint fleet."
 
-Thessaly watched Rowan the way she watched captains deciding whether a crew could carry an order. "Admiral, what can you authorize today without Council language that kills the venue?"
+"And when the duty officer is wrong," Vex said.
 
-"I can authorize provisional instruments for further talk and limited data share under dual veto," Rowan said. "I cannot authorize alliance posture. I cannot authorize Fleet acceptance of Dominion strategic depth claims as settled fact. I can authorize listening hard enough that if the contour is real, we are not caught arguing grammar while systems go quiet."
+Brenner shrugged. "Then the other side suspends the watch and you argue like adults. Or you build nothing and keep nearly killing each other with software. I know which one I can weld."
 
-"That is not acceptance," the SSD voice said.
+Calder looked at Vex.
 
-"It is not refusal," Rowan said. "Choose which incomplete outcome you can survive."
+Vex was already looking at the sketch the way a commander looked at a yard that might keep people alive. Not fondness. Recognition. The tired relief of a man who had been waiting for someone to stop talking long enough to build.
 
-Calder felt the radioactive quality of the moment in his chest more than in the politics. If he recommended action, he would be recommending it under incomplete certainty. If he recommended delay, he would be recommending the comfort of categories that had already failed Park once on a scream mislabeled as distress.
+"Then we start today," Calder said.
 
-He glanced at Vex. Vex was not watching Senka. He was watching Calder, waiting for the field judgment like a man watching for a move he had already predicted.
+Walsh stepped to the sketch before anyone invited her. She did not apologize for it. She marked the common floor first, then two national secure compartments off it, then a single response locker between them. Her handwriting was neat and orderly.
 
-"Field judgment," Rowan said.
+Vex watched her do it the way he watched an opposing bridge settle into a fight — reading hands, not speeches. Intrigued before he had permission to be.
 
-Calder did not look at the coffee. He looked at the moving contour and at Vex's still hands.
+"Shared security watch on the common areas," she said. "Separate secure rooms for each side — that is not distrust, that is hygiene. Joint response locker for station emergencies — both sides authorize to open it. No private master override on the whole station. You leave one side a master key, you have already built the next fight."
 
-"The ask should go on the record," Calder said. "Provisional. Scoped. No alliance language. We build instruments that let us share warnings without pretending we trust civilizational intent. If Council wants theater later, they can have theater. Today we need a channel that can carry a missing return before the missing return becomes a memorial."
+Vex was already at the page. "No private override," he said, almost with Walsh. The agreement landed in him harder than it should have. Same answer. Same cut. From a Fleet junior who had not asked his rank for permission to be right.
 
-Senka exhaled once through her nose. Not relief. Payment completed.
+They stood too close over the same drawing. Walsh reached past him for a pencil, then stopped, put two fingers lightly on Vex's forearm, and guided him half a step left so she could mark the locker.
 
-"Logged," Thessaly said.
+It was completely unconscious.
 
-The SSD channel did not congratulate anyone. It noted objection for the record and withdrew into review posture, which was how sabotage-by-delay survived inside lawful process.
+Vex froze for half a second — not only at the touch. At her. At the fact that his attention had already been on her before her fingers found his sleeve. His breath caught. The next word came out wrong — "Du—" — then he recovered as if nothing had happened.
 
-Trust had not been purchased. The ask was on the record anyway.
+"Dual authorization on the response locker," Vex said. "Both capitals get the access log. If either side invents a private path later, the station is already compromised."
 
-Calder understood the cost on their side then as parallel pressure, not sympathy. Fleet Council feared legitimizing a rival. Dominion Strategic Security feared teaching a rival how to read their border. Both fears were rational. Neither fear moved the contour back.
+Walsh adjusted the sketch without looking up. "Any flaw?"
 
-During the brief reset before the counterpart exchange, Park remained at the lexicon board with Orlen while Vorin carried protest language to Senka. Park did not celebrate the ask. He checked the shared phrase one more time and made sure *cooperative warning posture* still denied alliance meaning in the footnote.
+Vex checked the marks once more, then her hand still on the pencil, then the line of the common floor. "One. Put the translators where both duty officers can see them. Not in a side room. Side rooms become secrets."
 
-"You prepared the vocabulary for this yesterday," Orlen said.
+Walsh marked it. "Good catch."
 
-"I prepared for a costly sentence," Park said. "I did not prepare to like hearing it."
+"Operational," Vex said. "Not clever."
 
-"Liking is not required," Orlen said. "Accuracy is."
+"I like operational," Walsh said, and then seemed surprised she had said it aloud.
 
-Park nodded. He sealed the phrase into dual custody and left the board clean for Thessaly's return.
+Calder stepped in before the pencil moved again. "One more. Whoever holds the watch — Fleet or Dominion — the second in the chair is the other navy. Always. No same-side stack in the duty pair."
+
+Walsh wrote it without looking up. Vex nodded once, already treating it as settled.
+
+"Keeps the chair honest," Vex said.
+
+"Keeps the chair from becoming a private bridge," Calder said.
+
+Walsh kept going, pencil moving. "Traffic board here — both sides see the same plot or neither side is really watching. Sleep racks split by navy if you insist, but the galley shared. People who eat separately invent enemies over salt."
+
+Vex's mouth moved — not quite a smile. "Dominion border watches learned that the hard way."
+
+"Fleet learned it too," Walsh said. "Scouts. Couriers. Yard runners. Anyone who thinks a galley is optional. We just pretend we invented the lesson."
+
+Brenner spoke from the wall without leaving it. "Your warships beat ours in a straight fight. Our small ships beat yours at being somewhere else first. Different tools. Same salt problem if you eat alone."
+
+Vex did not argue the first half. He did not smile at the second.
+
+They bent over the same corner of the sketch. Their shoulders nearly touched. Neither adjusted away. Vorin noticed and said nothing. Senka noticed and filed it under costs that were not yet due. Calder noticed and hated that he noticed, because noticing meant the room was becoming human, and human rooms were harder to leave.
+
+"Fire suppression," Vex said.
+
+"Central, dual control," Walsh answered, already marking.
+
+"Medical."
+
+"Common bay. No locked drugs behind one navy's seal."
+
+"Armory."
+
+Walsh tapped the response locker. "This. Not a war chest. A station chest. If either side wants a private war chest, they can keep it on their own hulls and stay off my floor."
+
+"Your floor," Vex said.
+
+Walsh looked up. "Whoever holds the duty chair. Today I am only the person with the pencil."
+
+"Keep the pencil," Vex said. "Pencils are rarer than admirals."
+
+Neither of them acknowledged the touch.
+
+Everyone else was busy being relieved that the drawing finally looked like something a human could build.
+
+Senka watched Walsh and Vex the way she watched emerging costs. "Your security officer thinks like one of ours."
+
+"She thinks like someone who has locked too many hatches," Calder said. "That is a Fleet specialty."
+
+"Then keep her near the sketch," Senka said. "I prefer specialists to speeches."
+
+Rowan's voice cut clean. "Fleet authorizes survey and shared design. Classified. Neutral Zone only. Do not ask me for a parade. Do not ask me for a name that sounds like friendship. Build the thing."
+
+"Civil Government concurs," Senka said. "Neither civilization owns the whole station. Begin survey. And understand what you have just made: a place where both sides must keep showing up."
+
+"That is the point," Brenner said. He tapped the blank mark hard enough to leave a crease. "Call it Interface. Working name. Not friendship. Not a parade. An interface on the line. Give me a survey team and I can start tomorrow."
+
+Walsh wrote *INTERFACE* on the blank mark in letters neat enough for a yard stencil. Nobody argued the noun.
+
+"Interface it is," Thessaly said, already opening the survey order. "Done. Brenner owns the frame until a yard certifies otherwise. Walsh owns the access list draft. Park and Orlen own the common-room language when the walls exist. Calder and Senka own the vetoes. Rowan and Civil Government own the politics, which means the rest of us will ignore politics until politics tries to sit on a weld."
+
+"That last part is not in the order," Rowan said.
+
+"It is in the spirit of the order," Thessaly said. "Sir."
+
+Park, still watching the annex feed from the protocol room with Orlen, spoke only to her. "He walked in with grease under his nail and ended the argument."
+
+"Engineers," Orlen said. "They are inconvenient that way."
+
+"I like inconvenient."
+
+"You like things that work," Orlen said. "Do not romanticize grease. Grease is grease. Working is working. Today you got both. Tomorrow you may get neither."
+
+"A few watches without breaking," Park said.
+
+"A few watches without breaking," Orlen agreed.
+
+On the channel, Holt came back once more. "I heard survey. Tell Brenner if he needs corridor clearance for a team, I can hold a window. And tell him — quietly — that ordinary traffic still does not know why the window matters. I intend to keep it that way until somebody forces me not to."
+
+"I will tell him," Park said. "Holt — thank you. And when you have a second — let me tell you about tea."
+
+A short pause. "Tea," Holt said.
+
+"Dominion tea," Park looking at Orlen, winked, and said. "I have made a recen discovery.",
+
+"Do not thank me yet," she said. "Thank me when the window holds and nobody dies because a clerk wanted another signature first. Then you can tell me about tea."
+
+Walsh and Vex both reached for the rolled sketch at the same time. Walsh got it. Vex stepped back. They walked toward the same exit, stopped, and let each other through again — the same stiff courtesy, now with a fraction less stiffness.
+
+Calder watched them go, shaking his head, knowing that it was going to be a problem in te future.
+
+He was still busy trying to determine how he had felt about Vex.
+
+Vorin lingered by the wall mark. "Your Brenner is either very brave or very tired of rooms."
+
+"Both," Calder said. "That is our usual staffing plan."
+
+Vorin almost smiled. "Then perhaps we will survive each other long enough to build the box."
+
+Senka caught Vex at the annex threshold before the tea service. Calder was near enough to hear and far enough to pretend he was not listening.
+
+"You are spending attention on their security officer," Senka said.
+
+"I am spending attention on a design that will not kill us," Vex said.
+
+"That is not a denial."
+
+"It is not required to be one."
+
+Senka's gaze sharpened. "Do not give SSD a personal story to weaponize. Do not give Fleet one either. Work. Only work."
+
+Vex inclined his head. "Work is all I have offered anyone in this venue."
+
+"See that it remains so," Senka said. Then, quieter, almost human: "And if their captain keeps looking at you as if he regrets needing you — use that. Need is useful. Affection is not."
+
+Vex's eyes found Calder across the room for half a second. Calder did not look away in time.
+
+"He regrets needing me," Vex said. "I regret needing him. That is not affection. That is work."
+
+Senka left him with the sentence.
+
+Calder met Vex in the open space between annex and corridor. No audience. No pedestals. Just two men and the ghost of Alpha Seven.
+
+"Commander," Calder said.
+
+"Captain."
+
+"When we build this station — if we build it — I will not pretend Alpha Seven did not happen."
+
+"Good," Vex said. "I will not pretend your scout was not in my plot."
+
+"Can you work with me anyway."
+
+Vex considered him the way he had considered the sketch: for load, for failure points, for whether the structure would hold.
+
+"I can work with anyone who will not waste the time my dead already paid for," Vex said. "You do not waste time. You hesitate for the wrong reasons sometimes. Hesitation can be trained. Waste cannot."
+
+"That is not a compliment."
+
+"It is an assessment," Vex said. "Take it or leave it."
+
+Calder took it. He did not like how much he wanted to.
+
+"Then we work," Calder said.
+
+"Then we work," Vex said.
+
+They did not shake hands. Hands would have been a lie. They nodded once, the way bridge officers nodded when a maneuver was ugly and necessary, and stepped apart before either of them could ruin it with more words.
 
 ---
-***CONTACT NODE SEVEN — SIDE ROOM***
-*COUNTERPART EXCHANGE*
+***CONTACT NODE SEVEN — TEA SERVICE / ANNEX EDGE***
+*AFTER THE DRAWING*
 
-Thessaly cleared the side room herself. One table. Two chairs. No pedestals. Park stayed outside with Orlen and Vorin locking the contested noun list. Senka remained in the protocol room with Rowan on lag, arguing the difference between provisional instruments and political surrender.
+The tea service was a narrow alcove with two urns and the polite fiction that drinks made empires civil. Walsh answered a Dominion runner about survey escort timing while holding the rolled sketch under one arm. Vex stopped for tea he still did not drink. Condensation made another ring. He ignored that one too. He did not ignore her.
 
-Calder and Vex sat across from each other with the door half open to the corridor, which was Thessaly's compromise between privacy and the appearance of conspiracy.
+"Your access list," Vex said, as if continuing a sentence they had not started.
 
-For a moment neither spoke. The node corridor carried ordinary packet-station noise: boots, a cargo trolley, someone arguing about docking priority in a voice too tired for politics. The larger quarrel waited on the sealed overlays. This room held only the smaller one, which was somehow harder.
+Walsh glanced up. "Draft only. I want your people to hate the first version. Hate is useful. Hate finds the holes."
 
-"You predicted I would push for depth," Calder said.
+"That is a Dominion method," Vex said.
 
-"Yes," Vex said. "Your doctrine treats withheld maps as hostility. Mine treats withheld maps as survival. Both doctrines are honest. Both can kill the wrong people if applied without adjustment."
+"Then Dominion and Fleet security already agree on something," Walsh said. "Do not tell the capitals. They will ruin it."
 
-"You predicted I would still put the ask on the record."
+Vex looked at her for a heartbeat longer than professionalism required. Not warmth. Not strategy. The plain, inconvenient fact of being intrigued by someone he had no doctrine for.
 
-"Yes," Vex said. "You dislike incomplete categories, but you dislike lying to the board more. You will recommend action before the noun is finished because the contour will not wait for your comfort."
+"You think in doors," Vex said.
 
-Calder almost disliked being read that accurately. Almost. Accuracy was useful even when it arrived from the other navy.
+"I think in what happens when doors fail," Walsh said. "Same job. Worse day."
 
-"You will not open depth even if Council demands it as proof," Calder said.
+He almost asked something unwise — who trained her, what border had made her, why a Fleet security junior sounded like the people he trusted with airlocks. He did not ask. Questions like that got answered, or worse, remembered.
 
-"Correct," Vex said. "If I open it to buy temporary belief, Strategic Security will be right about contamination, and Civil Government will lose the only leverage that keeps our border from becoming your inventory. I will share warning geometry. I will not teach you how to dismantle us while we are asking you to stand near us."
+A cargo trolley forced them apart. Walsh did not look back first. Vex did — one clean glance, no excuse attached — then turned away as if he had only been checking the corridor.
 
-"Fleet will call that a trap shaped like caution."
+Brenner caught Walsh by the elbow at the hatch. "You. With me. If you are going to invent locks, invent them where I can argue with the welds."
 
-"Dominion will call your curiosity a weapon shaped like science," Vex said. "We can predict each other and still not trust the civilizations behind us. That is the working condition."
+"Yes, sir."
 
-Calder studied him. *Iron Harrow*'s commander did not perform hatred. He did not perform friendship either. He performed preparation. Eighteen months of contact had taught Fleet that Dominion officers could quote the dead into a live problem. Vex used fewer quotations than Orlen. When he did use one, it arrived as tool, not costume.
+"Do not *sir* me. I fix coffee urns. Bring the Dominion if he wants to argue welds too. Arguing welds is honest work."
 
-"You think we are reckless," Calder said.
+Vex heard that. He did not smile. He followed.
 
-"I think you innovate under pressure and call the improvisation virtue," Vex said. "Sometimes it is. Sometimes it leaves the next watch with no inherited method. My people prepare until the method is heavy. Sometimes the weight slows us when speed would save lives. Neither habit is stupid. Both habits fail against a frontier that does not negotiate our preferences."
+Kevin appeared from nowhere with a tray nobody had requested, the way Kevin always did. Two cardamom buns. One thermos. The expression of a man who had decided hunger was a security risk.
 
-Calder nodded once. "I need you to hear this without taking it as insult. If your contour is theater to force Fleet posture changes, I will be the officer who helped you do it."
+"For the annex," Kevin said. "Before someone invents a policy that forbids pastry."
 
-"If your cooperation is a route into our depth," Vex said, "I will be the officer who opened the door. We are both carrying that risk. Respecting your competence does not remove it."
+Brenner took a bun without slowing. "Kevin, you are a menace."
 
-Calder tapped the table once, a habit from long watches when he needed a physical edge for a thought. "On the *Kestrel*, we tagged a signal as distress because we lacked a better bin. Park corrected it yesterday. Speech. Meaning none. I keep thinking about how many wrong bins we still have open."
+"Yes," Kevin said, pleased. "Tell the captain his aunt still makes the better ones. I am only the thief."
 
-"Wrong bins are how watch cultures die prepared for the wrong emergency," Vex said. "Orlen told your linguist something like that. She was right. So was your refusal to invent a cleaner label before the room could hold it."
+Walsh took the other bun because she took what kept watches standing. Vex declined with a small shake of the head. Kevin did not take offense. Kevin never took offense at people who were busy surviving.
 
-"You were briefed on Session One."
+Calder watched the three of them disappear toward the yard-side corridor — Brenner talking welds, Walsh already opening the notebook, Vex listening like listening was a form of command — and felt something shift that was not policy. For the first time since Alpha Seven, the fight in front of him had a shape that was not only guns and disbelief. It had a building. Buildings were stubborn. Buildings made people keep showing up.
 
-"I read the summary," Vex said. "I do not need your friendship to recognize competent work."
+Thessaly appeared at his shoulder with two cups. She handed him one without asking whether he wanted it.
 
-That landed clean. No sermon. No moral victory lap. Just two professionals admitting they could foresee each other's moves and still not like the civilizations those moves served.
+"Coffee," she said. "Not a metaphor."
 
-Thessaly appeared in the doorway long enough to check that neither man had converted privacy into a side deal. She left again without comment. People-judgment disguised as logistics.
+"I know."
 
-Calder said, "When the next missing return hits a Fleet Segment label, Council will ask why we did not move sooner."
+"Drink it anyway. You look like a man who has been thinking expensive thoughts."
 
-"When the next pressure mark crosses a line we refused to show you," Vex said, "my people will ask why we taught you anything at all."
+He drank. It was terrible. It helped.
 
-"Then we build instruments that survive both accusations."
+"Brenner is going to make this real," Calder said.
 
-"Yes," Vex said.
+"Yes."
 
-They sat another minute without filling it. Outside, corridor traffic moved through Contact Node Seven as if the node were still only a packet handoff station with brighter mounting screws. Inside the half-open door, prediction had become a kind of narrow trust, and narrow trust was not enough. It was what they had.
+"And Vex is going to help him."
 
-Calder stood first. "Back to procedure."
+"Yes."
 
-Vex stood second. "Back to limits."
+"And Walsh is going to keep ending up in the same doorway."
 
-Neither man offered a hand. Neither needed to. The mirror was seated.
+Thessaly's eyes narrowed, amused and warning at once. "Do not narrate that in front of either of them. Let competence be competence until it becomes something else. Or nothing else. Most useful things stay unnamed longer than novels prefer."
 
-On the walk back to the protocol room, Calder matched Vex's pace without trying to. The corridor between side room and main tables was short enough that conversation had to be efficient or silent. They chose silence until the last meters.
+"I am not writing a novel."
 
-"Your Council will ask if I am the soft one," Vex said then.
+"You are living one," Thessaly said. "Try not to be the character who explains the theme in the corridor."
 
-"Your Strategic Security will ask if I am the useful fool," Calder said.
+He almost laughed. The sound surprised him. It felt disloyal to Alpha Seven and necessary anyway.
 
-"Both questions will be asked by people who were not in the room," Vex said.
+"I am going to have to live with wanting Vex on the work," Calder said.
 
-"Yes," Calder said.
+"Yes."
 
-That was enough. They entered together without looking like a faction.
+"That makes me uncomfortable."
 
----
-***CONTACT NODE SEVEN — PROTOCOL ROOM***
-*PROVISIONAL INSTRUMENTS*
+"Good," Thessaly said. "Comfortable captains get people killed. Uncomfortable captains ask better questions."
 
-Thessaly took the room back the way she took a watch that had gone soft: by converting dread into a list people could execute.
+She stared at the corridor where they had gone. "Welcome to command. It is mostly living with wanting the wrong useful things."
 
-"No alliance language in any instrument," she said. "No mutual defense phrasing. No shared command. Dual veto on every warning product. Dual custody on every chart image. Spoken confirmation behind every critical header. Lexicon owners remain Park, Orlen, Vorin. Field judgment remains Calder. Military geometry remains Vex within authorization. Political ceiling remains Rowan and Senka. SSD depth veto remains intact and visible."
+Park came out of the protocol room long enough to catch Calder's sleeve.
 
-"Visible is required," Park said. "If SSD delays a warning by review until the warning is archaeology, the delay has to show in the shared log."
+"Sir — Orlen and I can hold the shared strip overnight if Session Three slips. I wanted you to know before someone invents a reason to pull us apart for optics."
 
-Senka looked as if she disliked agreeing with him. She agreed anyway. "Civil Government will require timestamped review holds. Strategic Security may delay. It may not disappear the delay."
+"No one is pulling you apart for optics," Calder said.
 
-The SSD voice returned long enough to object to visibility as a contamination vector. Rowan cut across it with institutional patience that was not patience at all.
+Park looked skeptical in the specific way of a man who had watched optics win before. "Then put that in a sentence Rowan can throw at Council."
 
-"If your delay cannot survive being seen," Rowan said, "it is not review. It is concealment. Fleet will not build instruments around invisible vetoes."
+"I will," Calder said. "Park — the mug."
 
-Silence. Then a clipped Dominion acknowledgment that visibility of holds was accepted under protest.
+Park went still. "Sir."
 
-They wrote the warning format next. Fleet wanted urgency grades. Dominion wanted provenance and inheritance markers. Park and Orlen built a hybrid that looked ugly and worked: urgency on top, provenance underneath, expanding-pressure flag as a separate strip that could travel without forcing either side to accept the other's strategic theory. Missing return got its own header. Unresolved mass got its own header. Cooperative warning posture got a header that explicitly denied alliance meaning in a footnote both sides hated and both sides needed.
+"I still have not seen the print."
 
-"Every clause is a veto opportunity," Thessaly said. "So we write short clauses and test them."
-
-They tested. Fleet tried a phrase that implied Dominion acceptance of Fleet survey authority over Segment geometry. Dominion walked that phrase out. Dominion tried a phrase that implied Fleet acceptance of continuity doctrine as shared fact. Fleet walked that phrase out. Calder and Vex both predicted the walk-outs before they happened and said nothing, which Thessaly noticed and did not congratulate.
-
-"Again," Thessaly said, after the second walk-out. "If we cannot survive our own vetoes in rehearsal, we will not survive them under a live missing return."
-
-They ran the emergency path twice. Dual consent to open. Dual consent to close. No silent extensions. No unilateral escalation language. Park caught a soft synonym in the Fleet draft that turned *observe* into *interdict* under stress. Vorin caught a Dominion inheritance phrase that turned *buffer* into *forward watch under our direction*. Both died on the table.
-
-Liaison schedules came after format. Three sessions a week at the node for warning exchange. One technical session for signal science under Science Directorate and Fleet Intelligence dual review. One emergency path for missing returns that could not wait for the calendar, requiring dual consent to open and dual consent to close. No permanent liaison offices aboard each other's ships. No officers sleeping inside the other civilization's hull as proof of friendship. Friendship was not on offer. Schedules were.
-
-"Council will panic at the word *cooperation*," Rowan said.
-
-"SSD already panicked," Senka said. "Panic is not a veto unless someone with authority makes it one."
-
-Calder asked for ROE-adjacent caution language without calling it rules of engagement in a way that implied shared war. Thessaly drafted it: observe first, illuminate only when local survival requires it, do not treat unresolved mass as automatic hostiles, do not treat Dominion warning silence as consent, do not treat Fleet delay as Dominion abandonment. Vex read it twice and changed one line.
-
-"Do not assume a contact that ignores you is uninterested in you," he said. "Assume it may be busy. Busy can still kill you if you stand in the wrong place."
-
-Calder accepted the change. It sounded like experience, not poetry.
-
-Ellis returned by audio when a draft instrument used *joint frontier stewardship* as decorative language.
-
-"Strike stewardship," Ellis said. "That word smuggles ownership and kinship both. Use *adjacent warning exchange*."
-
-"Struck," Thessaly said.
-
-Park added one practical constraint from the lexicon work. "No header travels without spoken confirmation for the next five sessions. After that we revisit if the dual-consent tools hold. Yesterday's near-miss stays in the room as architecture, not as a story we tell for drama."
-
-"Accepted," Orlen said.
-
-Senka insisted on one last clarification before seals. "These instruments do not authorize Fleet ships to enter Dominion depth under warning pretext. Buffer posture means Fleet-side Segment approaches and Neutral Zone outer corridor only, unless a later dual-authorized product says otherwise."
-
-"Agreed," Rowan said. "And these instruments do not authorize Dominion political language on Fleet public channels. Classified headers only until Council revisits."
-
-"Agreed," Senka said.
-
-By late session they had a packet of provisional instruments that pleased no one and could be executed by people who still did not trust each other. That was the design goal. Thessaly said so without dressing it up.
-
-"We can proceed to productive exchanges under these limits," she said. "Productive does not mean safe. Productive means the channel can carry a warning."
-
-"And if the warning is wrong," Rowan said.
-
-"Then we will have spent suspicion on survival work instead of on silence," Calder said. "I can defend that to Council better than I can defend waiting for perfect nouns."
-
-Vex looked at him across the tables. "You will still be blamed if this is theater."
-
-"Yes," Calder said. "You will still be blamed if this teaches us your border."
-
-"Yes," Vex said.
-
-Senka sealed the Civil Government authorization strip for the ask and the instruments together. Rowan logged Fleet provisional acceptance of further talk and limited data share under the written limits. Park and Orlen locked the new headers into dual custody. Vorin wrote the Dominion protest notes in a hand neat enough for archives and angry enough to be honest.
-
-Communication had become possible.
-
-Trust had not.
-
-The room smelled like tea and coffee and machine oil. Nobody used the drinks to measure the hour. The work measured itself in clauses survived and vetoes spent without killing the venue.
-
-"Enough for today," Thessaly said.
-
-"Enough to continue," Senka said.
-
-Those were not the same sentence. Both were true.
+"That is the idea," Park said, and retreated before Calder could press it, almost smiling.
 
 ---
 ***CONTACT NODE SEVEN — FLEET OPERATIONS ANNEX***
 *SEGMENT STATUS BOARD*
 
-After the session closed, Calder walked the short corridor to the Fleet operations annex because he needed ordinary Fleet work in his eyes before he slept. Thessaly came with him. Park stayed behind to finish custody seals with Orlen and Vorin. Vex left with Senka without farewell speeches. Rowan dropped from lag with a final instruction to keep the instruments narrow and the adjectives fewer.
+Calder walked to the Fleet operations annex with Thessaly. The station sketch was already becoming tomorrow's problem. Today's problem was still a quiet board.
 
-The Segment status board in the annex was the kind of display that made frontier civilization look manageable: patrol rhythms, colony check-ins, petition queues, traffic notices, quiet labels for places that sent people into Fleet and asked for little back.
+Park stayed behind with Orlen, heads together over a shared strip that finally meant the same thing on both sides. Their voices were low. Professional. Almost comfortable. Calder left them to it. Comfort between specialists was rarer than agreement between empires, and somehow less fragile.
 
-A clerk at the near console was updating a New Meridian traffic notice and complaining, without malice, that Segment 6 paperwork always arrived in batches after the coffee urn ran dry. Thessaly told him to queue the batch and stop editorializing the urn. The clerk grinned, obeyed, and went back to being the empire in miniature: tired, competent, unaware that the protocol room had just spent political blood on a contour he would not see for weeks.
+He stopped in front of Segment 6.
 
-Calder stopped in front of Segment 6 without intending to make a moment of it. He was tired. He was full of contested nouns. He wanted a board that behaved.
+Founders' Reach sat where it always sat — civilian, ordinary, low strategic value. Patrol check-in due in the current eight-week cycle. A school petition still waiting on shipping-container classrooms that had become permanent by neglect.
 
-Founders' Reach sat where it always sat: low strategic value, charted, civilian, ordinary. Agricultural trials on the secondary landmass. Small processing industry. One administrative relay officer. Patrol check-in due in the current eight-week cycle. A school petition still waiting in the Senate queue, shipping-container classrooms noted in the colony summary as temporary infrastructure that had become permanent by neglect rather than design.
+Yesterday the quiet had looked like safety.
 
-Thessaly read the line the way she read crew lists. "Patrol packet is queued. Nothing elevated."
+Today it looked like a place that could disappear while both sides finished writing the right words.
 
-"Good," Calder said.
+Calder read the colony line the way he had not read it the night before. Agricultural trials on the secondary landmass. Small processing industry. One administrative relay. Children in containers that leaked when the wind came wrong. Two Academy volunteers last year who had written home that Segment 6 looked different from orbit than it felt underfoot.
 
-He read the colony note again because ordinary details were a relief after contested geometry. Second-generation settlers. Self-sufficient enough to be ignored. Proud enough to keep sending people into Fleet. The container school petition had been in queue for years. Children studied in it regardless. That was the Fleet frontier in one line: belief outrunning supply, and supply arriving as paperwork if it arrived at all.
+He did not know any of their names.
 
-A junior ops clerk updated a nearby traffic notice and asked if the new warning headers would change Segment 6 routine.
+That felt like a failure that did not fit in a packet.
 
-"Not yet," Thessaly said. "Provisional instruments first. Routine holds until a warning product says otherwise."
+"Patrol packet is queued," Thessaly said. "Nothing elevated."
 
-The clerk nodded and went back to ordinary work. Somewhere in the annex, someone laughed at a joke that had nothing to do with Peligar contours. Life continued in the small ways empires continue: petitions, patrols, coffee urns, status boards that still believed quiet labels meant quiet futures.
+"Good," Calder said. Then, after a breath: "Own the coverage review for all of Segment 6. If Council argues about where to look first, I want you making that call before they do."
 
-Calder looked at Founders' Reach one more time. Agricultural trials. Container school. Eight-week rhythm. A place that existed because people had believed a frontier could be lived in without becoming a speech.
+Thessaly looked at the board instead of at him. Her hand stopped above the slate, then settled without touching it.
 
-Thessaly followed his gaze and did not invent significance for it. She only said, "Segment 6 has three other quiet colonies on the same board. If Council asks where to put early warning coverage first, they will not start with the lowest strategic value label."
+"That's a command decision," she said. "You're the one Rowan will ask."
 
-"They will start where the politics are loudest," Calder said.
+"I'm asking you to make it, and I'll stand behind it."
 
-"Or where the traffic is densest," Thessaly said. "Either way, quiet places stay quiet on the board until they are not."
+She took a breath she did not need for the answer. "Your backing doesn't make it less of a command decision." The edge in her voice was slight, and gone almost as soon as it arrived. "I'll have a recommendation by the next session."
 
-"Then own the coverage review," Calder said. "Not just this board. All of Segment 6. If Council wants to argue about where to look first, I want you making that call before they do, not defending mine after the fact."
+Calder did not ask why it landed hard. He had watched her carry rooms for two years. He had not always watched what the carrying cost.
 
-Thessaly's expression didn't move much, but something behind it did. "That's a command decision. You're the one Rowan will ask."
+"Mira," he said, using her name because rank would have been a dodge.
 
-"I'm asking you to make it and I'll stand behind it. That's not the same as making it for you."
+She looked at him then. Brief. Honest.
 
-"I know what it's not the same as," she said, and there was an edge in it she hadn't meant to show. She looked back at the board instead of at him. "I'll have a recommendation by the next session."
+"I know what it is," she said. "I know what it is not. I will do it anyway."
 
-She didn't say why the word *command* had cost her something to hear. Calder didn't ask. He filed the small flinch the way he filed everything he didn't understand yet — not forgotten, just not due.
+"I know," he said.
 
-He did not know what the Dominion's resource graph would make of a label like that, and he was not ready to accept their frame as settled. He only knew the map session had left him with a contour that moved, and a counterpart who would not open what sat behind it. The quiet label stayed quiet. That was all the board could honestly show.
+She hesitated — rare for her — then added, "When Rowan asks why quiet places first, tell him I said loud places already have advocates. Quiet places only have the people who live there. And me. And you, if you mean what you just said."
 
-"Captain," Thessaly said. "You should sleep before Council starts inventing questions."
+"I mean it."
 
-"I will," Calder said.
+"Then do not take it back when Council makes meaning expensive."
 
-He logged the evening packet from the annex terminal: ask recorded, instruments provisional, suspicion intact, Session Three scheduled for warning-format drill. No friendship declared. No alliance language. Categories still incomplete. Calder and Vex could predict each other now. That still could not purchase trust between the civilizations behind them.
+On the side channel, Holt's voice returned one last time, softer. "Captain — New Meridian just forwarded a Founders' Reach school reminder. Automated acknowledgment only. No human reply again. I know it is not elevated. I am telling you because ordinary things are starting to feel loud."
 
-On the status board, Founders' Reach remained a quiet label among other quiet labels, the kind of place Fleet officers glanced at while thinking about harder sectors.
+"Keep telling me," Calder said.
 
-Outside the annex viewports, Contact Node Seven's corridor traffic kept moving. Inside the sealed protocol room, the dual-consent recorder was dark and the contested overlays were locked in sleeves again. Somewhere past both civilizations' preferred maps, the pressure that did not care about their quarrel continued on a heading neither table fully owned.
+"Copy. Also — Park asked me to hold a corridor window for Brenner's survey talk. I am holding it. If anyone from Helion calls that premature, tell them I said premature is how people stay alive."
 
-Calder shut the terminal.
+"I will tell them," Calder said.
 
-Outside, the runner finally received clearance and left the outer corridor without knowing the node had spent the day putting lines on a map and asking for help without sounding like a petitioner or a trap.
+"And Captain — if Commander Vex is still in the venue when the window opens, I can route escort timing through one channel instead of two. Less chance of a polite misunderstanding becoming an impolite one."
 
-The work continued.
+Calder glanced at Thessaly. She gave the smallest nod.
+
+"Do it," Calder said. "One channel. Spoken confirmation. No cleverness."
+
+"I do not do cleverness," Holt said. "I do routes. Cleverness is your department."
+
+The channel closed on something like warmth.
+
+Thessaly watched him. "She is going to keep that colony in your head whether Council likes it or not."
+
+"Good," Calder said. "Someone should."
+
+"She is also going to keep Vex on a practical line whether SSD likes it or not."
+
+"Also good," Calder said. Then, after a moment: "Also uncomfortable."
+
+"Then we are consistent," Thessaly said.
+
+He thought of Vex's untouched tea. Of a man who had watched systems vanish and still sat down across from the captain he had nearly killed. Of Brenner's blank mark on the Neutral Zone line. Of Vex noticing Walsh before either of them had a reason — and Walsh's hand on a Dominion forearm, and the half-second stutter nobody else had heard. Of Park noticing his shoulders. Of Orlen refusing praise. Of Senka choosing collision risk over contamination theater. Of Rowan cutting the room forward because admirals who waited for consensus waited for funerals.
+
+"Can we work with them," Thessaly asked quietly. Not as procedure. As the real question.
+
+Calder kept his eyes on Founders' Reach.
+
+He could still see Alpha Seven in the space between him and Vex. He could still feel the scout dying under fire that had not known his name. He could also feel the shape of a station that did not care what either navy wanted to believe about the other — only whether both sides kept showing up.
+
+"We have to," he said. "Whether we like the answer or not."
+
+Thessaly nodded once. "Then we start with coverage. And we do not wait for Council to find a prettier fear."
+
+He logged the day's decisions without turning them into a speech: warning work live, station survey ordered, Segment 6 on Thessaly's desk. He closed the file.
+
+He shut the terminal.
+
+On the status board, Founders' Reach remained quiet.
+
+Calder looked at it differently now.
+
+Not because the board had changed.
+
+Because he had.
+
+He pictured the container school. Children asking why they did not have a proper beacon array yet. A teacher saying *because we are still on the petition list* without enough bitterness to stop the lesson. An officer named in no brief Calder had bothered to learn, drinking Fleet coffee because it was one of the few reliable imports, measuring the day by a board that believed quiet labels meant quiet futures.
+
+Vex had said *consume* in a voice that had already paid for the word.
+
+Brenner had put a blank mark on a line and made it a tomorrow.
+
+Walsh had touched a Dominion forearm and neither empire had ended.
+
+Park had noticed his shoulders.
+
+Holt had asked to keep ordinary traffic ordinary for one more hour.
+
+And Calder — who had wanted enemies to stay simple — had wanted a man who once tried to kill him on the work that might keep Founders' Reach on the board.
+
+That was not trust.
+
+It was a beginning that might arrive too late.
+
+Outside the annex, corridor traffic kept moving. Ordinary freighters. Ordinary complaints. Ordinary weeks that still believed they were ordinary.
+
+Thessaly touched the Segment 6 line once with two fingers, the way she touched crew lists before a hard watch.
+
+"I will have the coverage recommendation by morning," she said. "If I put quiet places first, Council will call it sentiment."
+
+"Let them," Calder said.
+
+"If I put loud places first, quiet places die on schedule."
+
+"Then do not put loud places first."
+
+She nodded. The decision sat between them like a third person — heavy, useful, unnamed.
+
+Calder left the quiet label on the board and carried the unease with him.
+
+Something terrible did not need a narrator.
+
+It only needed a quiet place, and people who had finally started to believe the quiet could end.
 
 ---
 **END CHAPTER 3**

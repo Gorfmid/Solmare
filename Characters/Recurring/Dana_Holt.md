@@ -28,6 +28,18 @@ Human witness to the Ch. 5 engagement from outside the contact geometry. Represe
 
 ---
 
+## SERIES CONTINUITY HABITS (LOCKED — BOOK TWO+)
+
+- Quiet operational backbone connecting Fleet.
+- Remembers people, small colonies, and traffic.
+- Quietly routes around bureaucracy when lives depend on it.
+- Never calls attention to herself.
+- Readers should eventually realize she is one of Fleet's most valuable officers.
+
+Detail: `Books/Book_02_The_Helion_Accord/Notes/CHARACTER_CONTINUITY_HABITS.md`
+
+---
+
 ## PERSONALITY
 
 - Patient to the point of appearing stubborn; will not rush a label

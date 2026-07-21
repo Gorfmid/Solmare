@@ -1,7 +1,7 @@
 # Solmare Writing Lifecycle
 
 **Authority:** Production workflow for all future Solmare books and chapters.  
-**Companion:** Stage 3 editorial tool = `Writing_System/writing_pass_1.md`  
+**Companion:** Stage 2 editorial tool = `Writing_System/revision_pass.md` · Stage 3 editorial tool = `Writing_System/writing_pass_1.md`  
 **Does not replace:** Style guides, canon docs, craft doctrine, or terminology rules. Those remain authoritative for *how* to write; this document defines *which stage* you are in.
 
 ---
@@ -92,11 +92,16 @@ Complete the story.
 
 # Stage 2 — Revision Pass
 
-**Trigger phrases:** *Revision Pass on Chapter X* · *Revise Chapter X* · *Structural revision on Chapter X*
+**Trigger phrases:** *Revision Pass on Chapter X* · *Revise Chapter X* · *Structural revision on Chapter X* · *Apply revision pass to Chapter X*
 
 ## Purpose
 
-Make the chapter structurally correct before polishing.
+Make the chapter structurally correct, clear, and character-strong before polishing.
+
+## Required tool
+
+**Revision Pass — Stage 2 Editorial Runbook**  
+→ `Writing_System/revision_pass.md`
 
 ## Review
 
@@ -108,16 +113,25 @@ Make the chapter structurally correct before polishing.
 - tension
 - revelation timing
 - scene order
+- missing setup beats (why characters are in the room / job)
 
 ### Character
 
-Verify:
+Verify and **strengthen**:
 
 - motivations
 - decisions
 - voice
 - relationships
 - character arcs
+- one clearer beat per scene when the draft is thin (resistance, competence, humor, cost)
+
+### Clarity (author live practice)
+
+- Cut clever captions after work is already shown
+- Dumb down institutional jargon; expand the real dispute in plain speech
+- Replace odd defaults (*lag*, soft *holds*, vague *geometry*) with plain work language
+- Expand details when the fight or procedure is unnamed
 
 ### Canon
 
@@ -141,17 +155,19 @@ Check:
 
 ## Restrictions
 
-Do **not** perform final prose polishing until structure is stable.
+Do **not** perform full Writing Pass 1 until structure is stable and Stage 3 is declared.
 
-Allowed structural fixes: scene order, missing beats, clarification of decisions, continuity corrections.
+Allowed: scene order, missing beats, clarification of decisions, continuity corrections, plain-speech expansion, character micro-beats.
 
-Prefer demonstrable improvement; do not rewrite for variety.
+Prefer demonstrable improvement; do not rewrite for variety. Expand for clarity and character — not for padding.
 
 ## Load (typical)
 
+- **`Writing_System/revision_pass.md`** (required)
 - Stage 1 draft of the chapter
 - Act outline / chapter list purpose notes
-- Prior LOCKED FINAL chapters + state logs for continuity
+- Prior LOCKED FINAL / Final Candidate chapters + state logs for continuity
+- `Style_Guide/revision_philosophy.md`
 - Canon docs as needed
 
 **Do not** run Writing Pass 1 until Stage 3 is declared.

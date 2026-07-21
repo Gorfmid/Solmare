@@ -34,6 +34,7 @@ Family bakery, two generations in the Venn line—first a freight-worker lunch c
 
 **Family:** Calder's aunt (maternal line). Calder's mother was her younger sister; both grew up behind their grandmother's bakery counter. Raised Calder after parents' industrial transit death (classified systems error, corrected posthumously).
 - Founders' Week graduation party; sends Calder to *Kestrel Veil* with rolls and *eat before you undock*
+- First command gift: **BEST CAPTAIN EVER** mug (tourist print; meant it; also thought it was funny). Book Two: still the mug that matters to him; Park has custody of it as a quiet running gag.
 - Ch. 21: packs cream-filled pastries for crew; does not ask beyond seven-alpha clearance
 
 ---

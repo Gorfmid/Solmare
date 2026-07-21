@@ -1874,8 +1874,8 @@ sounds."
 "Captain---authorize the addendum in ship log. Lift three runs on muscle
 memory, not the Fleet manual. Saves Walsh retyping every audit."
 
-Calder looked at Devon Walsh, who had appeared with a cargo manifest
-slate and the expression of a man accustomed to being invisible until
+Calder looked at Lena Walsh, who had appeared with a cargo manifest
+slate and the expression of a woman accustomed to being invisible until
 logistics failed.
 
 "You're logistics," Calder said.
@@ -2047,7 +2047,7 @@ Afternoon on the #emph[Veil] ran on overlapping schedules---Thessaly's
 watches, Koss's maintenance blocks, and the fact that scout crews did
 not get synchronized sleep.
 
-Walsh had put his checklist on Calder's slate with arrows where Fleet's
+Walsh had put her checklist on Calder's slate with arrows where Fleet's
 template used boxes. Calder walked the route in Walsh's order and let
 crew pass without redirecting them. He was still matching hatch initials
 to names and margin notes to the people who had written #emph[postponed]
@@ -2158,14 +2158,14 @@ confirmation and Koss's regulator certification.
 Thessaly spread the watch rotation on Calder's command slate: neat,
 defensible, Fleet-shaped.
 
-Walsh stood at the hatch with his personal notebook---not offered, not
+Walsh stood at the hatch with her personal notebook---not offered, not
 hidden.
 
 "Executive Officer," Calder said. "Your rotation puts Brenner on
 maintenance overlap during jump prep. Walsh's checklist puts Tanaka and
 Brenner in the same corridor during lift inspection."
 
-Thessaly looked at Walsh. Walsh looked at his notebook. "Dennett ran
+Thessaly looked at Walsh. Walsh looked at her notebook. "Dennett ran
 Fleet rotation until jump minus six, then moved Brenner to post-jump
 recovery. Tanaka needs the lift for sequence staging. Brenner needs it
 for the lower port panel. They share the corridor or they collide."
@@ -2184,7 +2184,7 @@ hull-specific procedure, not personnel exception."
 
 Thessaly's pause was one breath. "Aye, Captain."
 
-Walsh closed his notebook. "I'll update the master checklist."
+Walsh closed her notebook. "I'll update the master checklist."
 
 Calder sent one line to Walsh's queue---supplementary galley stores,
 yard baked goods, standard perishable morale category---and did not say
@@ -2550,7 +2550,7 @@ a cardamom bun and #emph[The Cardamom Oven] in copper script. No entry
 in the manifest yet. That would come later, or not at all.
 
 Park had placed it there without announcement. Thessaly had not
-commented. Walsh had already added a line to his checklist that morning:
+commented. Walsh had already added a line to her checklist that morning:
 #emph[If provisioning appears, it's for everyone. Eat.]
 
 Brenner had taken the first piece on his way through the command deck
@@ -2791,11 +2791,11 @@ Through the open panel he could see Brenner's boots braced on a grating
 rung, Koss's slate propped on a housing, both of them working the same
 regulator line from different angles. Calder kept walking.
 
-On the stores deck, Walsh moved through the bins with a strip in his
-hand and his eyes on the shelves, not the manifest. He counted thermal
-patches by touch where Fleet's log said the bin was empty. He opened a
+On the stores deck, Walsh moved through the bins with a strip in her
+hand and her eyes on the shelves, not the manifest. She counted thermal
+patches by touch where Fleet's log said the bin was empty. She opened a
 crate marked #emph[borrowed from Berth 12], verified the seal count
-against his notebook, closed it. He scratched a correction on the strip
+against her notebook, closed it. She scratched a correction on the strip
 and kept walking. Calder passed without speaking. Walsh nodded at the
 strip, not at him.
 
@@ -2826,17 +2826,17 @@ Calder was still looking at the dice when Tanaka noticed.
 Calder nodded. Dennett, habit, luck---filed together, unexplained.
 
 Walsh appeared with a stores strip and no apology for existing in a
-corridor. "Mid-cycle reconciliation," he said to Thessaly. "Honest count
+corridor. "Mid-cycle reconciliation," she said to Thessaly. "Honest count
 matches manifest. Fleet pretty count still wrong by two thermal patch
 crates. Checklist addendum holds---unexpected provisioning pending
 variance review."
 
 "Log the variance," Thessaly said.
 
-"Already logged." Walsh left the way he arrived---quiet, necessary,
+"Already logged." Walsh left the way she arrived---quiet, necessary,
 gone.
 
-Calder did not intercept him.
+Calder did not intercept her.
 
 #align(center)[#block(above: 1.1em, below: 1.1em, breakable: false)[#text(size: 13pt, tracking: 0.28em)[\u{2766}]]]
 It happened during what the watch log would later call mid-cycle quiet.
@@ -3066,7 +3066,7 @@ forward carton without leaving his chair; Mehta stepped left around the
 Corridor C dent on a maintenance loop; Hale ran a tactical systems
 calibration in the galley corridor nook---green check, one adjustment,
 green again. Walsh came through at Mission +02:40 with a stores strip,
-checked the forward carton against his manifest line, nodded once, and
+checked the forward carton against her manifest line, nodded once, and
 left without breaking anyone's concentration.
 
 Park transmitted a mapping progress stub at Mission +02:50---mandate
@@ -3195,7 +3195,7 @@ failure.
 Walsh paused at the aft hatch long enough to read posture, not the
 board. Reyes had not rotated since the first fragment. Walsh set a
 hydration pouch on the lip of Ortega's board and marked the watch clock
-on his slate without interrupting.
+on her slate without interrupting.
 
 On the fifth extended pass---twelve minutes after the first
 fragment---Ortega got two lines that held long enough for Halden to call
@@ -17645,15 +17645,15 @@ packet order; correlation discipline; routes information without
 editorializing witness content.
 
 #align(center)[#block(above: 1.1em, below: 1.1em, breakable: false)[#text(size: 13pt, tracking: 0.28em)[\u{2766}]]]
-== Dr.~Marcus Walsh --- Medical / Crew Systems
-<dr.-marcus-walsh-medical-crew-systems>
+== Lena Walsh --- Medical / Crew Systems
+<lena-walsh-medical-crew-systems>
 #figure(
   align(center)[#table(
     columns: (46.67%, 53.33%),
     align: (auto,auto,),
     table.header([Field], [Record],),
     table.hline(),
-    [#strong[Assignment]], [Medical officer, #emph[Kestrel Veil]],
+    [#strong[Assignment]], [General support / medical \& crew systems, #emph[Kestrel Veil]],
     [#strong[Certified contribution]], [Crew endurance monitoring;
     rotation compliance; post-Incident treatment continuity],
   )]
@@ -17666,7 +17666,7 @@ on command staff when warranted.
 
 #strong[Professional characterization:] Practical; crew-facing realism;
 treats fatigue and injury as operational variables, not morale
-anecdotes.
+anecdotes. Notebook-first; quiet operational competence.
 
 #align(center)[#block(above: 1.1em, below: 1.1em, breakable: false)[#text(size: 13pt, tracking: 0.28em)[\u{2766}]]]
 == Contact Command Authority --- Vex (designation unresolved)

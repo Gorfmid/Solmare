@@ -1,0 +1,33 @@
+---
+description: Solmare Revision Pass — Stage 2 structural/clarity/character revision
+globs: Books/**/Chapters/chapter_*.md
+alwaysApply: false
+---
+
+# Revision Pass / Structural Revision
+
+When the user says **"Revision Pass on Chapter X"**, **"revise chapter X"**, **"structural revision on chapter X"**, **"apply revision pass to chapter X"**, or similar:
+
+1. Confirm **Revision Pass** stage (or author override) per `Writing_System/Pipeline/solmare_writing_lifecycle.md`.
+2. Load and follow: `Writing_System/revision_pass.md`
+3. Also load as needed: chapter list purpose notes, prior Final Candidate / LOCKED FINAL chapters, `Style_Guide/revision_philosophy.md`, relevant Characters/Universe docs.
+
+## Rules
+
+- **Not Writing Pass 1.** No full Stage 3 polish unless the habit blocks comprehension.
+- Cut clever captions after the work is shown.
+- Dumb down institutional jargon; expand the real dispute in plain speech.
+- Expand details and character when the beat is thin but important.
+- Prefer concrete custody/work language; avoid odd defaults (*lag*, vague *geometry*, soft *holds*, default *header*, *fringe*).
+- Ban soft-noun / *label* / invent-words / institutional-*gift* meta talk (§3.1b).
+- **Premature shared-origin (§3.3c):** search and cut `shared frontier history|Founders'|speculative kinship|shared-origin|commemorative language` in early Act I unless the dispute is already live. Do not invent a staff note + Ellis strike just to police kinship.
+- **Ch.2 live-edit categories (§3.3d):** distress/rescue loops after recognition; Peligar pacing (recognize ≠ translate); authority lanes (Dominion ≠ Fleet doctrine; Fleet owns Fleet comms; **Fleet does not brief Council votes/advisories to the joint table** — private channel stays private, like SSD slate); orphan intercept shame; kindergarten lexicon opens; ambiguous *border* vs Neutral Zone vs Peligar contact edge. Avoid default *buffer* / *buffer posture*.
+- **Successive continuity (§3.3e):** Chapters build forward. Prior-chapter spends must be acknowledged and advanced — not re-revealed, not dropped. **Do not re-teach spent facts** (exonym glosses, speech/meaning-none lectures, reinventing *cooperative warning posture*). Use spent facts as working equipment; spend the page on today’s fight.
+- **Plain speech / less hyperbole (§3.3f):** Plainer voice. Expand foggy clever compressions. **Hard-cut** empty linguist banter, early Ellis decorative word-strikes, caption endings after the beat, ritual custody shorthand — do not soften those; delete. Dialogue points at the board. No triadic Council rhetoric (*will hear trap… theater…*).
+- **Strategic charts / archive (§3.3g):** Product nouns locked — *strategic charts* (maps refused), *strategic archive* (broader withhold / SSD veto). Do **not** use *depth maps*, *depth archives*, *SSD depth veto*, *Depth stays closed*. Keep *strategic depth* only as philosophy/doctrine, not as a map label. Sync later-chapter leftovers on touch.
+- **Name the damn thing (§3.3h):** No cute synonym rotation for board facts. Prefer *Peligar advance*, *systems going quiet*, *missing returns*, *advance marks* — not *pressure*, *contour*, *the pattern*, *the line* as soft stand-ins. Exceptions: literal status-line fights, literal contour lines on a chart, ordinary *under pressure*, synonym buns.
+- **First-hearing preflight (§3.3i) — mandatory before handoff:** Expand staff shorthand (*Shared channel only*, *freeze the venue*, *Phrase stands*). No memo voice as dialogue. Private Fleet/Dominion channels stay private. If the author would ask *what does this mean?*, rewrite now. Report “First-hearing preflight: pass / fails fixed.”
+- **Trust the reader (§3.3j):** One memorable example beats five. Character over briefing. One scene, one purpose. Cut repeats that only reinforce. Favor momentum.
+- Deliver the report checklist from `revision_pass.md`.
+
+Authoritative status table: book `Act_Outlines/chapter_list.md`.

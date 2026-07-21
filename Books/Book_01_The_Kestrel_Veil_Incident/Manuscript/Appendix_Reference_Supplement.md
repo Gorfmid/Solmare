@@ -191,16 +191,16 @@ Thessaly's notebook is not certified Fleet custody. It is noted as a command-wor
 <p align="center" class="scene-break" markdown="0">&#10086;</p>
 
 
-## Dr. Marcus Walsh — Medical / Crew Systems
+## Lena Walsh — Medical / Crew Systems
 
 | Field | Record |
 |-------|--------|
-| **Assignment** | Medical officer, *Kestrel Veil* |
+| **Assignment** | General support / medical & crew systems, *Kestrel Veil* |
 | **Certified contribution** | Crew endurance monitoring; rotation compliance; post-Incident treatment continuity |
 
 **Operational significance:** Maintains human-system readiness across extended passive operations; enforces rest-cycle accountability on command staff when warranted.
 
-**Professional characterization:** Practical; crew-facing realism; treats fatigue and injury as operational variables, not morale anecdotes.
+**Professional characterization:** Practical; crew-facing realism; treats fatigue and injury as operational variables, not morale anecdotes. Notebook-first; quiet operational competence.
 
 <p align="center" class="scene-break" markdown="0">&#10086;</p>
 

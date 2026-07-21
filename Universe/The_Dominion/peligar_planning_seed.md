@@ -48,6 +48,8 @@ Book One lock: Vex notes a hull was "not Peligar either—wrong mass curve for t
 
 Do not have Dominion officers casually describe a full Peligar order of battle they have never seen.
 
+**Tech asymmetry (author lock):** Dominion edges on Peligar-facing communications listening and warfighting; Fleet edges on native stealth (not cloak), speed, colonization/expansion — flight/rebuild heritage. Seed locally; full scoreboard later. See `Books/Book_02_The_Helion_Accord/Notes/FLEET_DOMINION_TECH_ASYMMETRY.md`.
+
 ---
 
 ## Civilization triangle

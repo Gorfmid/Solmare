@@ -32,7 +32,7 @@ The command deck had the same rhythm as undock—small corrections, no one calli
 
 Halden cycled tactical overlays across empty volume—ghost traces that bloomed on first pass and vanished when she ran them again. The board stamped each one *non-event*; Halden left them filed that way. Calder stood from the command chair, watched the sweep for a minute, and sat back down. Nothing on the board needed his voice yet.
 
-Between Mission +02:00 and Mission +03:00 the mapping sweep settled into the rhythm Reyes had described at undock—corrections too small to announce, data too routine to interrupt meals. Tanaka staged arcs eight through eleven while Reyes overlaid Fleet chart and margin marks in parallel, running each batch twice and logging both when solutions matched within tolerance. Cole covered comms while Park ate from the forward carton without leaving his chair; Mehta stepped left around the Corridor C dent on a maintenance loop; Hale ran a tactical systems calibration in the galley corridor nook—green check, one adjustment, green again. Walsh came through at Mission +02:40 with a stores strip, checked the forward carton against his manifest line, nodded once, and left without breaking anyone's concentration.
+Between Mission +02:00 and Mission +03:00 the mapping sweep settled into the rhythm Reyes had described at undock—corrections too small to announce, data too routine to interrupt meals. Tanaka staged arcs eight through eleven while Reyes overlaid Fleet chart and margin marks in parallel, running each batch twice and logging both when solutions matched within tolerance. Cole covered comms while Park ate from the forward carton without leaving his chair; Mehta stepped left around the Corridor C dent on a maintenance loop; Hale ran a tactical systems calibration in the galley corridor nook—green check, one adjustment, green again. Walsh came through at Mission +02:40 with a stores strip, checked the forward carton against her manifest line, nodded once, and left without breaking anyone's concentration.
 
 Park transmitted a mapping progress stub at Mission +02:50—mandate data only, no contact, no variance—with Cole confirming relay buffer clearance before the packet left. Calder signed when the acknowledgment reached his chair. Okwelu sent a watch-rest summary to Thessaly; Thessaly sent Calder a single line on the medical channel: *Hydrate.* He found a cup somewhere aft and drank it without tasting it. Brenner reported a passive feed calibration on the port long-range array—green, one adjustment, green again—and Koss logged it against Dennett's pre-departure checklist. Nobody on the command deck reacted. That was the point of green checks.
 
@@ -99,7 +99,7 @@ Four extended passes followed—fragment, closer lines, broken coherence, stagge
 
 Calder watched each pass add a line to Ortega's columns without adding a track. Attempt, fragment, loss, adjust, attempt again. Iteration, not failure.
 
-Walsh paused at the aft hatch long enough to read posture, not the board. Reyes had not rotated since the first fragment. Walsh set a hydration pouch on the lip of Ortega's board and marked the watch clock on his slate without interrupting.
+Walsh paused at the aft hatch long enough to read posture, not the board. Reyes had not rotated since the first fragment. Walsh set a hydration pouch on the lip of Ortega's board and marked the watch clock on her slate without interrupting.
 
 On the fifth extended pass—twelve minutes after the first fragment—Ortega got two lines that held long enough for Halden to call formation.
 

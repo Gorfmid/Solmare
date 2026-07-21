@@ -249,6 +249,23 @@ Also cut: author winks, theme mottos where procedural speech belongs, and stacke
 
 **Prefer:** concrete work, concrete orders, concrete observation — plus occasional **strong**, clear comparison when it earns its place.
 
+#### Compressed institutional talk (plain speak)
+
+Do not pack three departments and a thesis into one clever sentence. Break it. Name the work.
+
+| Weak (compressed / staff poetry) | Prefer (plain) |
+|----------------------------------|----------------|
+| Eighteen months of contact bought Fleet Communications and Dominion Science a small pool of speakers who can… | Eighteen months was long enough for Fleet Communications and Dominion Science to train a few speakers each. Those people can… |
+| keep the nouns from killing people | make sure a bad word does not start a fight |
+| Who can walk. / walk-out rights | Who can end a session. / either side can still end the session |
+| temporary permission wearing permanent bolts | The bolts were permanent. The permission to use them for politics was not. |
+| Certainty would have felt like penance | A stronger word would have felt like making up for the mistake |
+| silence that functioned as permission | silence that meant they could keep planning |
+| mission-critical / not decorative | can kill people if we get it wrong / not optional |
+| like the noun / inventing shared terms | like the job / building a word list |
+
+**Test:** Can a reader get the fact on first pass without unpacking? If not, rewrite plainer — even if the idea is good.
+
 ---
 
 ### 4.7 Artificially profound prose
@@ -542,17 +559,19 @@ Treat *lying / lies* like *wrong* and *geometry*: a bad default word. Do **not**
 
 ### Repeated habits (reduce unless earned)
 
-nodded once · almost smiled · quietly · without looking up · without ceremony · not because · for a moment · held/holding · nominal · within tolerance · drift-inside-tolerance brush-offs · Tuesday motifs · *grammar* metaphors (*Fleet grammar*) · *not yet earned* constructions · *[Department] saw…* summaries · abstract authorial aphorisms · **gloves on/off** as Dominion character tell or emotional semaphore · **meta grammar talk** (*the noun*, *the verb*, *without liking the verb*, *neither noun was large enough*, *hero noun*, *orphan noun*) · **geometry** as vague spatial filler (*inside their geometry*, *damage on their geometry*) — prefer concrete: *this close*, *return*, *leading edge*, *shape*, *profile*, *corridor*, *watch* · **wrong** as vague evaluative filler (*the return was wrong*, *wrong in the same way*, *less wrong*, *corridor went wrong*, *never learned to love*) — prefer concrete: *will not settle*, *does not match*, *inconsistent*, *unclassed* · **margin name / margin notation** for Peligar label — prefer *designation*, *comparison class*; keep engineering *structural margin* / *fuel margin*
+nodded once · almost smiled · quietly · without looking up · without ceremony · not because · for a moment · held/holding · nominal · within tolerance · drift-inside-tolerance brush-offs · Tuesday motifs · *grammar* metaphors (*Fleet grammar*) · *not yet earned* constructions · *[Department] saw…* summaries · abstract authorial aphorisms · **gloves on/off** as Dominion character tell or emotional semaphore · **meta grammar talk** (*the noun*, *the verb*, *without liking the verb*, *neither noun was large enough*, *hero noun*, *orphan noun*) · **geometry** as vague spatial filler (*inside their geometry*, *damage on their geometry*) — prefer concrete: *this close*, *return*, *leading edge*, *shape*, *profile*, *corridor*, *watch* · **wrong** as vague evaluative filler (*the return was wrong*, *wrong in the same way*, *less wrong*, *corridor went wrong*, *never learned to love*) — prefer concrete: *will not settle*, *does not match*, *inconsistent*, *unclassed* · **margin name / margin notation** for Peligar label — prefer *designation*, *comparison class*; keep engineering *structural margin* / *fuel margin* · **lag** as default for remote presence / relay / Helion participation — prefer *relay*, *remote*, *from Helion*, *delay*, *pause*
 
 For gloves specifically: Book One already cut most of the choreography. Do not use gloves on/off/removed/put-back as Petrov/Vex/Senka/Kellin/Neve punctuation, as a "difficult numbers" tell, or as scene dressing that only signals Dominion formality. Keep gloves only when they are literal objects the plot needs.
 
-For noun/verb meta talk: say the actual thing (*word*, *name*, *call*, *wondered*) instead of labeling parts of speech. Exception: technical linguistic work on-page (Park/lexicon scenes) when the craft itself is the subject.
+For noun/verb meta talk: say the actual thing (*word*, *name*, *phrase*, *call*) instead of labeling parts of speech. **Never** use *soft nouns*, *soft language*, *soft term*, *clean noun*, *wrong nouns*, *finished/better/incomplete label*, or *invent words* — even in Park/lexicon scenes. Prefer *vague word*, *means two actions*, *bad word*, *category*, *classification*, *finished answer*. Exception only when someone is literally teaching grammar as the on-page subject (*noun* / *verb* as classroom terms). Keep *label* for mug/pedestal print only.
 
 For *wrong*: do not use it as atmosphere or cute judgment. Say what failed (*shape will not settle*, *profile does not match*, *class unavailable*). Keep rare concrete uses only when the error itself is the point (*wrong header*, *wrong bin*).
 
 For *lying / lies* on instruments and plots: same rule. Instruments do not lie; they fail to settle, refuse a lock, or keep shifting. Keep *lie* only for people actually deceiving.
 
 For *margin* as naming jargon: do not use *margin name*, *margin notation*, *outer-margin analysts* for the Peligar designation. Prefer: *designation*, *comparison class*, *Dominion label*, *frontier analysts*. Keep *margin* only for literal engineering (*structural margin*, *fuel margin*).
+
+For *lag*: do not use it as the default word for remote officers, pedestal channels, or “not in the room.” Prefer *relay*, *remote*, *from Helion*, *on the channel*. Keep *lag* / *delay* only when the actual time delay is the point of the beat (*the delay was long enough that interruption felt like rudeness*). *Pause* is fine for ordinary hesitation.
 
 ### Tuesday references
 
@@ -608,10 +627,14 @@ main engine|correction thrust
 Tuesday|not yet earned
 traffic acoustics|named individuals|not observed faces
 glove|gloves              → Dominion tell choreography / emotional semaphore (cut unless literal object)
-\bnoun\b|\bverb\b          → meta grammar talk (prefer word/name/call; except real lexicon craft)
+\bnoun\b|\bverb\b          → meta grammar talk (prefer word/name/phrase; never soft/clean/wrong nouns)
+soft nouns|soft language|soft term|soft synonym|clean noun|wrong nouns
+finished label|better label|incomplete label|working label|invent words|invent a phrase
 \bgeometry\b              → vague spatial filler (prefer this close / return / shape / profile / leading edge)
 \bwrong\b                 → vague evaluative filler (prefer will not settle / does not match / inconsistent / unclassed)
 margin name|margin notation|outer-margin → naming jargon (prefer designation / comparison class / frontier analysts); keep structural/fuel margin
+\blag\b                  → remote/relay habit (prefer relay / remote / from Helion / delay / pause); keep only when actual time delay is the beat
+bought .* a small pool|nouns from killing|wearing permanent|felt like penance|functioned as permission|mission-critical|not decorative|like the noun
 ```
 
 ---

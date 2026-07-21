@@ -131,7 +131,7 @@ Outside the twin glass, a Dominion junior clerk argued a leave conflict with a s
 ***HELION — COMMAND ANNEX / DISCLOSURE FIGHT***
 *WEAPONIZE OR BURY*
 
-Fleet Admiral Elias Rowan stood where he could see all three hungers in the room without giving any of them the comfort of owning him. Thessaly sat where she could see people, holding the joint table in Calder's chair for the first time since the ramp had sealed at Contact Node Seven. No word from *Long Fathom* yet. There would be none until the mission was over, one way or another, and she had already stopped checking the empty channel every few minutes, because checking it did nothing but remind the room she was doing it.
+Fleet Admiral Elias Rowan stood where he could see all three hungers in the room without giving any of them the comfort of owning him. Thessaly sat where she could see people, holding the joint table in Calder's chair for the first time since the ramp had sealed at Contact Node Seven. No word from *Kestrel Veil* yet. There would be none until the mission was over, one way or another, and she had already stopped checking the empty channel every few minutes, because checking it did nothing but remind the room she was doing it.
 
 Breck struck first. "Use it. Kinship cloth forces Accord language. If we share a leaving, Dominion owes depth."
 
@@ -147,23 +147,23 @@ Rowan kept the promise ugly and honest. "Provisional classification. Scheduled r
 
 A junior clerk posted the annex summary while Founders' Week cloth argued copper in the corridor. Provisional classification, live. Origin evidence politically live without public certainty. Accord pre-negotiation still incomplete.
 
-It would not hold forever. And somewhere past the edge of every map in the annex, a Dominion corvette with no name on any Fleet manifest was still running dark toward the answer none of them had yet.
+It would not hold forever. And somewhere past the edge of every map in the annex, a Fleet scout carrying a Dominion field under sealed custody was still running dark toward the answer none of them had yet.
 
 ---
-***LONG FATHOM — BEYOND THE CONTOUR***
+***KESTREL VEIL — BEYOND THE CONTOUR***
 *PASSIVE ONLY*
 
-There was no clock aboard *Long Fathom* that Calder was allowed to read as a clock.
+There was no clock aboard *Kestrel Veil* that Calder was allowed to spend as a clock.
 
-Dominion crew called it the field budget instead, and they watched it the way Fleet crews watched fuel margins, except fuel margins had never once meant the difference between existing and not existing to anyone watching them. Heat did not vent here the way it vented on a Fleet hull, in visible plumes an enemy sensor could read from a system away. It had nowhere to go at all. It sat in the plating, in the crawlspaces, in the air Calder breathed, climbing by careful fractions that a technician named Solan tracked on a slate she never let out of arm's reach, murmuring numbers to Vex in a voice pitched just above silence.
+Dominion custody called it the field budget instead, and they watched it the way Fleet crews watched fuel margins, except fuel margins had never once meant the difference between existing and not existing to anyone watching them. Heat did not vent here the way it ordinarily vented on a Fleet hull, in visible plumes an enemy sensor could read from a system away. Under the borrowed field it had nowhere to go at all. It sat in the plating, in the crawlspaces, in the air Calder breathed, climbing by careful fractions that a technician named Solan tracked on a slate she never let out of arm's reach, murmuring numbers to Vex in a voice pitched just above silence.
 
-Calder had spent a career learning to wait for one more compare. He had never once had to wait like this, where waiting was not a choice he was making but the entire physics of the hull around him.
+Calder had hull command. Vex had the field. The split sat between them like every other unfinished instrument they had ever sailed under: necessary, ugly, and nobody's preferred chair. Calder had spent a career learning to wait for one more compare. He had never once had to wait like this, where waiting was not only a choice he was making but the entire physics of the borrowed envelope around his own ship.
 
 "Passive only," Vex said, for what might have been the fourth time since transit began. "No active scan. No transmission, not to Helion, not to Contact Node Seven, not to each other past a hand and a slate. If we send one signal, the field does not fail quietly. It fails by telling whatever is out there exactly where we are standing when it happens."
 
 "Understood," Calder said, because it was the only word left that did not require heat he could not spare.
 
-He had expected, riding in, to feel like an observer doing familiar work in unfamiliar clothes. He had not expected how different it felt to do that work with no ability to move at all — no soft update, no local override, no dual-key lock to spend if the moment demanded it. Here he was cargo with eyes. The Dominion crew did the watching that mattered. He simply watched them do it.
+He had expected, riding out under his own keel with a Dominion field bolted into it, to feel like a captain doing familiar work with unfamiliar constraints. He had not expected how different it felt to hold hull command with no soft update, no local override, no dual-key lock he could spend if the moment demanded it — not without killing the envelope Vex was there to keep alive. The Dominion specialists did the watching that kept them invisible. Calder did the watching that decided whether they turned for home. Both hungers were real. Neither man liked the other's chair.
 
 Kell sat the sensor board with his gloves off for the first time Calder had ever seen, hands bare against the controls because gloves cost a half-second he could not afford to lose. "Contour crossing in four minutes," he said. "Last confirmed Dominion presence was two years ago, unmanned, one pass, no return signal after. We are past what anyone alive has verified."
 
@@ -177,7 +177,7 @@ Solan's voice, when it came, had no drama in it at all, which was somehow worse 
 
 Three separate passive sensors painted the same distortion inside the same ninety seconds, each one confirming what the others already suspected and none of them willing to be first to name it. Calder had spent Assist Yard Nine's worst hour wanting exactly this — a second reading, a third, agreement instead of contradiction. He had it now, and it did not feel like relief. It felt like a door opening onto a room larger than the one he had spent his whole career learning to be careful inside.
 
-A proximity ping chimed once on the auxiliary board, faint, automated — the corvette's own docking transponder, dormant, supposedly dead, wired for a dockyard a hundred systems behind them, waking on its own schedule, one heartbeat from announcing itself to anything listening.
+A proximity ping chimed once on the auxiliary board, faint, automated — the scout's own docking transponder, dormant, supposedly dead, wired for a dockyard a hundred systems behind them, waking on its own schedule, one heartbeat from announcing itself to anything listening.
 
 Solan's hand was already moving before the tone finished. She killed the circuit with two fingers and did not look up from the board.
 
@@ -187,14 +187,14 @@ Solan's hand was already moving before the tone finished. She killed the circuit
 
 "Close enough that I am now going to sit with my hand on that panel for the remainder of the transit," Solan said. "Do not ask me again. Asking costs a breath we may need later."
 
-Vex looked at Calder once, gloves on, expression unreadable in the low light Dominion crews preferred for heat discipline as much as habit.
+Vex looked at Calder once, gloves on, expression unreadable in the low light Dominion crews preferred for heat discipline as much as habit. He had expected the scout captain to reach for an override the way Fleet initiative always reached — soft update, local spend, proof hungrier than silence. Calder did not. He held the hull quiet and let the field keep them alive. Vex filed that without warmth and without finishing the sentence it wanted to become: not lesser command. Different vessel. Different spend. Unfinished recognition. Still useful.
 
 "Welcome to the part of the war Fleet has never had to fight," he said. "Nothing is shooting at you. Everything is listening."
 
-*Long Fathom* went dark and quiet and kept moving, past every line anyone alive had verified, toward the shape ahead that had not yet decided it cared they were there.
+*Kestrel Veil* went dark and quiet and kept moving, past every line anyone alive had verified, toward the shape ahead that had not yet decided it cared they were there.
 
 ---
-***LONG FATHOM — THE PROCESSING FRONT***
+***KESTREL VEIL — THE PROCESSING FRONT***
 *WHAT HE EXPECTED / WHAT WAS THERE*
 
 Calder had built, without meaning to, a picture in his head of what waited beyond the contour. Bases. Colonies. Supply lines running between them like the arteries of any empire he had ever studied at Academy — order, hierarchy, a shape a mediator could learn to read the way he had learned to read Dominion depth philosophy and Fleet council panic. Something with edges. Something a man trained to observe could eventually classify.
@@ -203,7 +203,7 @@ There were no edges. There was only the front.
 
 He understood, then, why the old anomaly bins had never closed. This was not an empire arriving to declare war. This was work already in progress — assessment that had been running while Fleet still filed ghosts as dust and called a scout the cause of a pattern the scout had only walked into.
 
-The system ahead had no name on any chart *Long Fathom* carried, because no chart anyone alive had drawn extended this far. What had been a system — a star, at least four planets by the old gravitational math Kell ran twice to be certain — was in the act of stopping being one. A gas giant that should have shown storm bands and a hydrogen haze showed instead a skeletal lattice wrapped around what remained of it, atmosphere threading up through structures too regular to be anything but built, drawn off in strands that caught starlight and looked, for one terrible half second, like something exhaling. A rocky world closer in had lost its oceans to a shape Calder's mind kept trying and failing to file as a mining platform, because mining platforms did not extend past a planet's terminator and out the other side.
+The system ahead had no name on any chart *Kestrel Veil* carried, because no chart anyone alive had drawn extended this far. What had been a system — a star, at least four planets by the old gravitational math Kell ran twice to be certain — was in the act of stopping being one. A gas giant that should have shown storm bands and a hydrogen haze showed instead a skeletal lattice wrapped around what remained of it, atmosphere threading up through structures too regular to be anything but built, drawn off in strands that caught starlight and looked, for one terrible half second, like something exhaling. A rocky world closer in had lost its oceans to a shape Calder's mind kept trying and failing to file as a mining platform, because mining platforms did not extend past a planet's terminator and out the other side.
 
 "They are not taking anything from this system," Calder said, and heard how young his own voice sounded saying it. "They're taking the system."
 
@@ -211,13 +211,13 @@ The system ahead had no name on any chart *Long Fathom* carried, because no char
 
 Then the first capital shape crossed the gap between them and the dimmer background stars, and Calder understood, in the wordless way a body understands a threat before a mind finishes the math, that he had never actually seen a large ship before in his life.
 
-It did not look like a warship. It looked like a city that had learned to move. Lights — if they were lights, and not simply heat bleeding through a hull that size — ran along its flank in patterns too vast and too regular to read as decoration, structures nested inside structures the way a shipyard nested inside a harbor, foundries and refineries and processing lines Calder could only infer from the way smaller, faster shapes streamed in and out of ports along its length like traffic entering a city he had no name for. *Long Fathom*'s whole hull, Calder understood without needing Kell to confirm the number, could have vanished inside a single one of those ports and never been found again.
+It did not look like a warship. It looked like a city that had learned to move. Lights — if they were lights, and not simply heat bleeding through a hull that size — ran along its flank in patterns too vast and too regular to read as decoration, structures nested inside structures the way a shipyard nested inside a harbor, foundries and refineries and processing lines Calder could only infer from the way smaller, faster shapes streamed in and out of ports along its length like traffic entering a city he had no name for. *Kestrel Veil*'s whole hull, Calder understood without needing Kell to confirm the number, could have vanished inside a single one of those ports and never been found again.
 
 "A Leviathan could dock in one of its bays," Vex said, flat, the closest thing to wonder Calder had ever heard in his voice. "Not the ship. One bay."
 
 The shape changed heading.
 
-It did not maneuver the way any vessel Calder had ever served aboard maneuvered — no visible thrust plume commensurate with the mass involved, no correction burn a Fleet helm officer would have recognized as physics doing its ordinary work. It simply, over the span of several minutes, was pointed somewhere else than it had been, the way a building might be pointed somewhere else if a building could decide to be. For those minutes it crossed directly between *Long Fathom* and the star behind it, and the star went out.
+It did not maneuver the way any vessel Calder had ever served aboard maneuvered — no visible thrust plume commensurate with the mass involved, no correction burn a Fleet helm officer would have recognized as physics doing its ordinary work. It simply, over the span of several minutes, was pointed somewhere else than it had been, the way a building might be pointed somewhere else if a building could decide to be. For those minutes it crossed directly between *Kestrel Veil* and the star behind it, and the star went out.
 
 Not dimmed. Out. A held breath's worth of true dark, filled edge to edge by something that was, Calder made himself understand, only one vessel among however many the front actually required.
 
@@ -229,10 +229,10 @@ Underneath everything, faint on a passive audio channel someone had left open ou
 
 They were talking to each other. Over the wreck of a system that used to have four planets and, at some point no chart would ever recover, people.
 
-Nobody on *Long Fathom* answered. Nobody could. That silence was the entire mission.
+Nobody on *Kestrel Veil* answered. Nobody could. That silence was the entire mission.
 
 ---
-***LONG FATHOM — WHAT THE TWELVE MINUTES BOUGHT***
+***KESTREL VEIL — WHAT THE TWELVE MINUTES BOUGHT***
 *EGRESS*
 
 Calder did the arithmetic the same way he did every arithmetic that mattered, which was too slowly, and too late to change anything it touched.
@@ -255,7 +255,7 @@ Calder watched the front keep working. "We kept asking when they would come back
 
 "Eleven minutes before we cross back past detection risk for the heat we've already banked," Solan said. "We should not have stayed this long. I am glad we did. Both things are true. Egress now, or the field starts making decisions for us instead of the other way around."
 
-*Long Fathom* turned for home the way it had done everything else on this transit — without flare, without triumph, without any signal to mark that it had been anywhere at all. Calder watched the processing front recede behind them, still working, still indifferent, still not aware they had ever been close enough to see it clearly.
+*Kestrel Veil* turned for home the way she had done everything else on this transit — without flare, without triumph, without any signal to mark that she had been anywhere at all. Calder watched the processing front recede behind them, still working, still indifferent, still not aware they had ever been close enough to see it clearly.
 
 He did not sleep during the transit back. He told himself it was the field budget keeping him alert, watching Solan's slate the way he had once watched confirmation grades, and knew, lying in the dark berth with his eyes open, that it wasn't.
 
@@ -265,11 +265,11 @@ He did not sleep during the transit back. He told himself it was the field budge
 
 Thessaly held the joint table through the hours nobody scheduled, because someone had to, and the schedule she had inherited did not include a line for waiting.
 
-The channel to *Long Fathom* stayed exactly as empty as it had been the day the ramp sealed. No confirmed. No probable. No degraded. Just absence, which was its own category now, one she had learned to read without flinching at it in front of the councilors who kept asking, politely, when the demonstration Rowan had promised them might actually arrive.
+The channel to *Kestrel Veil* stayed exactly as empty as it had been the day the ramp sealed. No confirmed. No probable. No degraded. Just absence, which was its own category now, one she had learned to read without flinching at it in front of the councilors who kept asking, politely, when the demonstration Rowan had promised them might actually arrive.
 
 "Nothing," she told Rowan, when he asked, because that was the honest word and she had promised the room honest words before she had promised it anything else. "Nothing is not the same as bad news. I need everyone in this building to understand that before they invent a funeral out of a silence that was designed on purpose."
 
-Outside the annex glass, Helion kept practicing joy on schedule, the way it always did, indifferent to what the sealed rooms had decided to fear tonight. Somewhere past every chart in the building, a corvette with no name on any manifest was either coming home or it wasn't, and the only thing left that was actually hers to do was hold the table steady until she found out which.
+Outside the annex glass, Helion kept practicing joy on schedule, the way it always did, indifferent to what the sealed rooms had decided to fear tonight. Somewhere past every chart in the building, a Fleet scout under a borrowed Dominion field was either coming home or it wasn't, and the only thing left that was actually hers to do was hold the table steady until she found out which.
 
 She wrote one line into the quiet channel before the watch turned over: *Recon transit ongoing. No confirmation either direction. Holding command as instructed. Waiting is not the same as doing nothing. It only looks that way from outside the room.*
 

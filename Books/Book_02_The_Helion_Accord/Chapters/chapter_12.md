@@ -411,6 +411,24 @@ Human channels had improved.
 The external pressure did not care.
 
 ---
+***KESTREL VEIL — LEXICON ALCOVE***
+*AFTER CLOSE*
+
+Calder found Park still at the bolted bench with the boards dark and the residual strip unfinished. The coffee urn in the corridor hissed once and went quiet.
+
+Park's *Kestrel* mug sat at his elbow. Label out. BEST CAPTAIN EVER.
+
+Park had forgotten to turn it — or had stopped caring for one exhausted minute. Calder saw the print. Tourist-tacky. Lisette's joke and Lisette's sincerity in the same breath. Six months of looking. Park's custody by theft.
+
+Amusement arrived first. Irritation arrived half a second later. Both stayed.
+
+Park looked up. Saw Calder looking at the mug. Said nothing.
+
+Calder said nothing.
+
+He left the alcove without taking it. Behind him, after a pause long enough to be deliberate, he heard ceramic turn against the bench — label to the bulkhead again.
+
+---
 ***HOLD STATION — ACT III ADVANCE***
 *KESTREL VEIL / IRON HARROW*
 

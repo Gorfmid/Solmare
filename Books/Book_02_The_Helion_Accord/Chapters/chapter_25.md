@@ -11,6 +11,10 @@ The instruments didn't wait for belief to finish arguing.
 
 Three weeks after the joint crossing returned under Helion Accord authority, Contact Node Seven's field cell smelled like printer heat and the recycled air of rooms that had stopped pretending signatures could invent finished weather. Coffee sat on the Fleet sideboard as work presence. Tea sat on the Dominion twin. Hands worked.
 
+Calder's mug sat among the Fleet cups. WORLD'S BEST COMMS OFFICER. Tourist-tacky. Deliberate.
+
+Park saw it when he came in for the brief. He looked once. He did not comment. Calder drank from it and did not look at him.
+
 Tag Twelve's amber densification still climbed in fractions nobody fully understood. Holdfast Three's unfinished names still sat on the side board. The Accord had already begun operating in the narrow way Accords operated when capitals wanted captions and field officers wanted schedules.
 
 "Field implementation brief," Orlen said. "Three live instruments, plus limited military permissions already scoped. Rescue rights on Assist Ring Secondary. Shared alert on the Node Fourteen corridor. Joint observation Edition published to both stacks this watch. No permanent combined command, no alliance nouns, no dictionary invented from residual. Begin."
@@ -217,7 +221,9 @@ Calder stood with Thessaly at the Fleet rail. Vex stood on the Dominion twin. No
 
 "Field proof received and implemented," Rowan said. "Rescue rights real. Warning network real and imperfect. Joint observation real under wartime amendment. Explicitly not alliance. Instruments validated. Instruments insufficient for what Tag Twelve still answers. Work continues."
 
-Park stuck his head in from a lexicon alcove. "Human speech worked. They're still talking on Tag Twelve. Meaning none. Week Three didn't invent a translator either. That's the available bridge. It isn't mastery. It's refusal that keeps people alive."
+Park stuck his head in from a lexicon alcove, BEST CAPTAIN EVER mug in hand, label no longer hidden. Calder still had WORLD'S BEST COMMS OFFICER on the rail. Neither man mentioned either object.
+
+"Human speech worked," Park said. "They're still talking on Tag Twelve. Meaning none. Week Three didn't invent a translator either. That's the available bridge. It isn't mastery. It's refusal that keeps people alive."
 
 Calder priced the room one last time. "Professional prediction held under Accord authority. We crossed together. We implemented together. We didn't invent friendship. We didn't invent mastery. Austere hope remains available only if the ash stays visible."
 

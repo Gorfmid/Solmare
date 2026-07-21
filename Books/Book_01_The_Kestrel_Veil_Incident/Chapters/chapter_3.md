@@ -176,7 +176,7 @@ Calder watched that exchange longer than he meant to.
 
 "Drive grinding at the halfway lock." Brenner, under the adjacent panel. "Captain—authorize the addendum in ship log. Lift three runs on muscle memory, not the Fleet manual. Saves Walsh retyping every audit."
 
-Calder looked at Devon Walsh, who had appeared with a cargo manifest slate and the expression of a man accustomed to being invisible until logistics failed.
+Calder looked at Lena Walsh, who had appeared with a cargo manifest slate and the expression of a woman accustomed to being invisible until logistics failed.
 
 "You're logistics," Calder said.
 
@@ -194,7 +194,7 @@ Koss was already moving to the next panel. The conversation was over because the
 
 Calder followed Thessaly back up through the ship's vertical spine, past Sana Mehta apologizing unnecessarily in a corridor she had every right to occupy, past Nadia Cole's nest of cables on the relay deck—one ear tuned to a handshake rhythm Calder could not yet hear.
 
-"Quartermaster is not a formal billet on scout complement," Thessaly said quietly as they climbed. "Walsh is the closest we have. He knows where every spare seal and half-depleted ration crate lives. Dennett stopped pretending Fleet templates matched this ship in month two."
+"Quartermaster is not a formal billet on scout complement," Thessaly said quietly as they climbed. "Walsh is the closest we have. She knows where every spare seal and half-depleted ration crate lives. Dennett stopped pretending Fleet templates matched this ship in month two."
 
 "How long were you XO under Dennett?"
 
@@ -288,7 +288,7 @@ The galley laughed—not at Calder. At the door, which everyone in the room had 
 
 Afternoon on the *Veil* ran on overlapping schedules—Thessaly's watches, Koss's maintenance blocks, and the fact that scout crews did not get synchronized sleep.
 
-Walsh had put his checklist on Calder's slate with arrows where Fleet's template used boxes. Calder walked the route in Walsh's order and let crew pass without redirecting them. He was still matching hatch initials to names and margin notes to the people who had written *postponed* instead of *fixed*.
+Walsh had put her checklist on Calder's slate with arrows where Fleet's template used boxes. Calder walked the route in Walsh's order and let crew pass without redirecting them. He was still matching hatch initials to names and margin notes to the people who had written *postponed* instead of *fixed*.
 
 Corridor C dent: step left. Door seven-C: panel first, because procedure existed; kick second, because the *Veil* existed. Brenner passed aft and kicked the door without breaking stride. Calder went through.
 
@@ -350,11 +350,11 @@ Evening watch. Founders' Week fireworks over Helion Prime's industrial districts
 
 Thessaly spread the watch rotation on Calder's command slate: neat, defensible, Fleet-shaped.
 
-Walsh stood at the hatch with his personal notebook—not offered, not hidden.
+Walsh stood at the hatch with her personal notebook—not offered, not hidden.
 
 "Executive Officer," Calder said. "Your rotation puts Brenner on maintenance overlap during jump prep. Walsh's checklist puts Tanaka and Brenner in the same corridor during lift inspection."
 
-Thessaly looked at Walsh. Walsh looked at his notebook. "Dennett ran Fleet rotation until jump minus six, then moved Brenner to post-jump recovery. Tanaka needs the lift for sequence staging. Brenner needs it for the lower port panel. They share the corridor or they collide."
+Thessaly looked at Walsh. Walsh looked at her notebook. "Dennett ran Fleet rotation until jump minus six, then moved Brenner to post-jump recovery. Tanaka needs the lift for sequence staging. Brenner needs it for the lower port panel. They share the corridor or they collide."
 
 "Recommendation?" Calder asked Thessaly.
 
@@ -366,7 +366,7 @@ Calder studied the slate. The Fleet template assumed interchangeable crew and fu
 
 Thessaly's pause was one breath. "Aye, Captain."
 
-Walsh closed his notebook. "I'll update the master checklist."
+Walsh closed her notebook. "I'll update the master checklist."
 
 Calder sent one line to Walsh's queue—supplementary galley stores, yard baked goods, standard perishable morale category—and did not say it aloud.
 
@@ -476,7 +476,7 @@ The crew moved through a routine they had run before—Park with coffee ready fo
 
 Calder poured coffee and did not look at the carton.
 
-"Primary route locked," Reyes said from the command deck. "Tanaka, sequence staging." Tanaka acknowledged while Ortega took tertiary channel monitoring during jump prep—log dropouts, do not combine until Koss cleared hardware fault. Walsh moved through the ship with his checklist—new line at the bottom: *If provisioning appears unexpectedly, assume correct until proven otherwise.* Mehta verified berth atmospheres; Cole ran handshake tests with Park; Hale stood at tactical systems because Halden's voice had shifted register half a degree—nothing wrong, simply preparation.
+"Primary route locked," Reyes said from the command deck. "Tanaka, sequence staging." Tanaka acknowledged while Ortega took tertiary channel monitoring during jump prep—log dropouts, do not combine until Koss cleared hardware fault. Walsh moved through the ship with her checklist—new line at the bottom: *If provisioning appears unexpectedly, assume correct until proven otherwise.* Mehta verified berth atmospheres; Cole ran handshake tests with Park; Hale stood at tactical systems because Halden's voice had shifted register half a degree—nothing wrong, simply preparation.
 
 Calder did not shout orders. He called gates.
 

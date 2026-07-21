@@ -22,10 +22,12 @@ When the user says **"Draft Chapter X"** (or *Generate Chapter X* / *Write Chapt
 
 ## Revision Pass on Chapter X
 
-When the user says **"Revision Pass on Chapter X"** (or *Revise Chapter X* / *Structural revision on Chapter X*):
+When the user says **"Revision Pass on Chapter X"** (or *Revise Chapter X* / *Structural revision on Chapter X* / *Apply revision pass to Chapter X*):
 
 - Use **Stage 2 — Revision Pass**
-- Review: story structure, character, canon, information discipline
+- Load and follow: `Writing_System/revision_pass.md`
+- Review: story structure, clarity (plain disputes, cut captions), character building/expansion, canon, information discipline
+- Expand details and character when beats are thin but important
 - Do **not** perform Writing Pass 1 / final prose polish until structure is stable
 
 ## Writing Pass 1 on Chapter X

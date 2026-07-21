@@ -39,7 +39,7 @@
 | [Nadia Cole](Character_Encyclopedia.md#nadia-cole) | Relay Technician | `Support_Crew/support_crew.md` | Master |
 | [Marcus Hale](Character_Encyclopedia.md#marcus-hale) | Defensive Systems | `Support_Crew/support_crew.md` | Master |
 | [Sana Mehta](Character_Encyclopedia.md#sana-mehta) | Life-Support | `Support_Crew/Sana_Mehta.md` | Master |
-| [Devon Walsh](Character_Encyclopedia.md#devon-walsh) | General Support | `Support_Crew/support_crew.md` | Master |
+| [Lena Walsh](Character_Encyclopedia.md#lena-walsh) | General Support / Security | `Support_Crew/support_crew.md` | Master |
 | [Kevin](Character_Encyclopedia.md#kevin) | Environmental / Deck Welfare Liaison | `Recurring/Kevin.md` | Master |
 
 ### Fleet Authority — recurring (shore / command / cartography)

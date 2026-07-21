@@ -1,4 +1,4 @@
-# Character Encyclopedia — The Solmare Cycle
+﻿# Character Encyclopedia — The Solmare Cycle
 
 **Type:** Knowledge only — no fiction scenes  
 **Scope:** Recurring characters across Book One (*The Kestrel Veil Incident*) and Book Two planning  
@@ -196,7 +196,7 @@ Doctrine references, watch terminology, precise status nouns. SVO declaratives; 
 
 ### Habits
 
-Straightens Calder's mission packet stack while talking about something else (crew gravity). Enforces rest cycles; sits with Koss when she skips meals. Competitive strategy games by correspondence (three active). Consults Okwelu before rest enforcement.
+Straightens Calder's mission packet stack while talking about something else (crew gravity). Enforces rest cycles; sits with Koss when she skips meals. Competitive strategy games by correspondence (three active). Consults Okwelu before rest enforcement. **Series continuity:** calm competence without advertising it; dry sharp humor; reads Calder's struggle before he speaks; asks the question that lets him decide (never decides for him); increasingly mentor in command across the series.
 
 ### Skills
 
@@ -428,7 +428,7 @@ Handshake terminology, buffer states on-watch; plain language and questions off-
 
 ### Habits
 
-Notices who stopped joking/eating. Refills Halden's coffee until humor stops—then stops refilling (crew gravity). Remembers names Calder forgets. Private log of crew food preferences. Plays poker badly on purpose to keep conversation going.
+Notices who stopped joking/eating. Refills Halden's coffee until humor stops—then stops refilling (crew gravity; Book One). Remembers names Calder forgets. Private log of crew food preferences. Plays poker badly on purpose to keep conversation going. **Book Two+:** After Orlen introduces Dominion tea (Ch. 3), abandons Fleet coffee; carries own tea tin; Fleet provides hot water; supply via Orlen/Science channels; gradual tea education across series — curiosity, not politics.
 
 ### Skills
 
@@ -581,7 +581,7 @@ Leads maintenance team (two unnamed junior techs). Propulsion subsystems, life-s
 
 ### Personality / Speech / Habits
 
-Gruff, competent, loyal to engineer not rank. Can reproduce ship sounds to mess with juniors. Leaves tools in "wrong" places on purpose ("optimizing retrieval paths"). Verbs-first shipyard cadence. Oaths: *damn*, *bastard* (tools/machinery only); invented **"shear"**. Hands Koss correct wrench before she asks. Kicks stuck door 7-C; senior crew step aside. Park knows his birthday; Calder does not.
+Gruff, competent, loyal to engineer not rank. Can reproduce ship sounds to mess with juniors. Leaves tools in "wrong" places on purpose ("optimizing retrieval paths"). Verbs-first shipyard cadence. Oaths: *damn*, *bastard* (tools/machinery only); invented **"shear"**. Hands Koss correct wrench before she asks. Kicks stuck door 7-C; senior crew step aside. Park knows his birthday; Calder does not. **Series continuity:** solves problems before meetings finish arguing; arrives from actual work (grease/dust/welds/logs); thinks with hands; politics bore him; humor from practicality only.
 
 ### Skills / Weaknesses / Motivations
 
@@ -625,7 +625,7 @@ Youngest recurring crew member. Sensor arrays, sweep ingestion, spectral prep, a
 
 ### Skills / Weaknesses / Motivations
 
-Flags raw anomalies first; aesthetic wonder at data. Weakness: speed/enthusiasm under briefing pressure. Motivation: see what the numbers are doing. Waits for Reyes's nod before speaking in briefings. Book Two: `[pending]`.
+Flags raw anomalies first; aesthetic wonder at data. Weakness: speed/enthusiasm under briefing pressure. Motivation: see what the numbers are doing. Waits for Reyes's nod before speaking in briefings. Book Two Ch. 3: security/access design; professional fascination with Commander Vex planted (not romance on the page yet).
 
 ---
 
@@ -643,7 +643,7 @@ Relay subsystem maintenance, buffer support, handshake during high traffic. Park
 
 ### Skills / Weaknesses / Motivations
 
-Sound-before-display congestion sense; Park rhythm without social layer. Weakness: mug borrowing. Motivation: keep handshakes honest. Book Two: `[pending]`.
+Sound-before-display congestion sense; Park rhythm without social layer. Weakness: mug borrowing. Motivation: keep handshakes honest. Book Two Ch. 3: security/access design; professional fascination with Commander Vex planted (not romance on the page yet).
 
 ---
 
@@ -661,7 +661,7 @@ Defensive pulse emitters, evasive thrusters, tactical display calibration. Appea
 
 ### Skills / Weaknesses / Motivations
 
-Hardware readiness for Halden's scenarios. Weakness: chair-sleep. Motivation: keep emitters named and functional. Already at panel when Halden's voice changes. Book Two: `[pending]`.
+Hardware readiness for Halden's scenarios. Weakness: chair-sleep. Motivation: keep emitters named and functional. Already at panel when Halden's voice changes.
 
 ---
 
@@ -679,25 +679,25 @@ Atmosphere processing, water reclamation, berth environmental systems. Junior bu
 
 ### Skills / Weaknesses / Motivations
 
-Certification tablets ready before Koss asks. Weakness: over-apology. Motivation: keep air and water honest; stay connected to grandmother. Book Two: `[pending]`.
+Certification tablets ready before Koss asks. Weakness: over-apology. Motivation: keep air and water honest; stay connected to grandmother.
 
 ---
 
-## Devon Walsh
+## Lena Walsh
 
 | Field | Value |
 |-------|-------|
-| Rank / role | Crewman Second Class; General Support / Secondary Monitoring |
+| Rank / role | Crewman Second Class; General Support / Secondary Monitoring / Security (Book Two Contact Node) |
 | Age | 24 |
 | Reports to | Thessaly (rotating watch assignments) |
 
 ### Biography
 
-Secondary monitoring, cargo checks, shipkeeping, overflow—flexible slot. Perfect personal watch notebook Thessaly once borrowed as scheduling reference without telling him; he knows. Cannot whistle despite trying in maintenance corridors. Act II spotlight Ch. 9. Plain, helpful, slightly formal. Straight; no partner Book One.
+Secondary monitoring, cargo checks, shipkeeping, overflow—flexible slot. Perfect personal watch notebook Thessaly once borrowed as scheduling reference without telling her; she knows. Cannot whistle despite trying in maintenance corridors. Act II spotlight Ch. 9. Plain, helpful, slightly formal. Straight; no partner Book One. Book Two Ch. 3: security/access design at Contact Node; Vex notices her professionalism (notebook open, already working); mutual professional fascination planted (not romance on the page yet).
 
 ### Skills / Weaknesses / Motivations
 
-Utility competence across gaps. Weakness: easy to overlook until absent; failed whistling. Motivation: fill the schedule hole correctly. Notebook matches Thessaly's adjustments. Book Two: `[pending]`.
+Utility competence across gaps; steps into operational security when the work finds her. **Series continuity:** notebook already open / already thinking / already solving; rarely wastes words; security is how she reads the world; competence earns Fleet and Dominion respect. Weakness: easy to overlook until absent; failed whistling. Motivation: fill the schedule hole correctly. Notebook matches Thessaly's adjustments.
 
 ---
 
@@ -855,7 +855,7 @@ Patient to stubbornness; checklist as emotional regulation; dry humor when tired
 
 ### Family / Habits / Skills / Weaknesses / Motivations
 
-Park friendship (not romantic); unsent messages both directions Ch. 8. Habit: hold and log over call and explain; personal patrol overlay kept out of Fleet packet. Skills: pattern patience; relay operator under grief. Weakness: cannot know full engagement context from station instruments; early-career false positive left lasting caution. Motivation: data integrity over institutional comfort. Canon: Ch. 6–8, 17–24. Profile: `Recurring/Dana_Holt.md`. Future: Story Bible does not give Holt a named arc; validation/comms competence may support Act I protocols `[pending]`.
+Park friendship (not romantic); unsent messages both directions Ch. 8. Habit: hold and log over call and explain; personal patrol overlay kept out of Fleet packet. Skills: pattern patience; relay operator under grief. Weakness: cannot know full engagement context from station instruments; early-career false positive left lasting caution. Motivation: data integrity over institutional comfort. **Series continuity (Book Two+):** quiet operational backbone connecting Fleet; remembers people/colonies/traffic; routes around bureaucracy when lives depend on it; never advertises herself — readers should eventually realize she is among Fleet's most valuable officers. Canon: Ch. 6–8, 17–24. Profile: `Recurring/Dana_Holt.md`. Future: Story Bible does not give Holt a named arc; validation/comms competence may support Act I protocols `[pending]`.
 
 ---
 
@@ -997,7 +997,7 @@ Military command pillar; Leviathan cloaking prototype sole installation. Minimal
 
 ### Habits / Skills / Weaknesses / Motivations
 
-Gloves / tea / historical quotation habits (Dominion cultural texture; Story Bible POV guidance). Skill: honest assessment without scapegoating theater. Weakness: obeyed doctrine and still failed—political/professional consequences persist. Motivation: rebuild field; maintain readiness; protect strategic depth philosophy.
+Gloves / tea / historical quotation habits (Dominion cultural texture; Story Bible POV guidance). **Series continuity:** evaluates competence before personality; notices discipline/preparation/professional habits; respects ability long before trust; never evaluates by appearance — only behavior and professionalism (Book Two Ch. 3 Walsh plant). Skill: honest assessment without scapegoating. Weakness: obeyed doctrine and still failed—political/professional consequences persist. Motivation: rebuild field; maintain readiness; protect strategic depth philosophy.
 
 ### Relationships / Timeline / Canon
 

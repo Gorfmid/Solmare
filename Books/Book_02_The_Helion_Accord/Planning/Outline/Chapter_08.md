@@ -22,6 +22,7 @@ Dominion: **Vex** and/or Civil Government / SSD principals — depth-map fear vs
 
 1. Formalize Fleet recognition that Dominion warnings were genuine (institutional, not personal apology tour).
 2. Negotiate first **limited military cooperation posture**: joint patrol eligibility, shared warning prototypes, ROE collision rules — with sunsets/vetoes.
+2b. Bring the **temporary Neutral Zone outpost** online for spoken confirmation and dual-board handoff (Ch.3 authorization → Act II necessity). Permanent build continues on the twelve-to-eighteen-month schedule. Contact Node Seven remains lexicon/political venue.
 3. Keep explicit **non-alliance**: language must reserve Book Three's binding partnership work.
 4. Surface both sides' factional resistance (Council hawks/isolationists; Dominion SSD asymmetry guardians; war-exhaustion voices).
 5. Hand off to Act III with working joint instruments authorized on paper — trust still absent.
@@ -75,7 +76,7 @@ Calder/Thessaly/Park-adjacent protocol staff + Dominion linguists/officers draft
 Every clause is a trust test. Mistranslation of a single ROE phrase could restart bilateral war. Human–human translation stress; Peligar still impossible and irrelevant to the treaty table.
 
 ### Outcome
-A provisional cooperation instrument exists — narrow, sunsetted, veto-rich. Named later by historians or capitals as early "First Accord" material (`[Author decision pending]` whether in-world name exists yet).
+A provisional cooperation instrument exists — narrow, sunsetted, veto-rich. Temporary NZ outpost written in as spoken-confirmation / dual-board site for first joint package. Named later by historians or capitals as early "First Accord" material (`[Author decision pending]` whether in-world name exists yet).
 
 ## Scene 4 — Authorization Without Affection
 

@@ -50,6 +50,8 @@ Senior officers know them by name. Park definitely knows them by name.
 
 **Ordinary imperfection:** Leaves tools in exactly the wrong places on purpose (he calls it "optimizing retrieval paths"; Koss calls it something she saves for the engineering bay).
 
+**Series continuity habits (locked):** Solves problems before meetings finish discussing them. Almost always arrives from actual work — grease, dust, weld burns, open maintenance logs. Thinks with his hands. Politics bore him; engineering fascinates him. Humor from practicality, never from trying to be funny.
+
 **Running note:** Park knows Brenner's birthday. Calder does not.
 
 **Authentic voice:** Gruff, economical, verbs first; shipyard cadence; dry teasing of juniors. **Blind-read:** sounds like metal and habit, not bridge officers. **Oaths:** **"damn"**, **"bastard"** (tool/machinery only, not people); invented **"shear"** (one syllable, "shear it"). **Romance:** straight; married shore-side (unnamed spouse, mentioned once). **Never like:** Calder, Reyes, Okwelu.
@@ -154,21 +156,23 @@ Senior officers know them by name. Park definitely knows them by name.
 
 ---
 
-### Devon Walsh — General Support / Secondary Monitoring
+### Lena Walsh — General Support / Secondary Monitoring / Security
 
 **Rank:** Crewman Second Class  
 **Age:** 24  
 **Reports to:** Executive Officer Thessaly (watch assignments rotate)
 
-**Role:** Fills secondary monitoring stations, cargo bay checks, general shipkeeping, overflow tasks. The flexible slot—competent at many things, specialist in none.
+**Role:** Fills secondary monitoring stations, cargo bay checks, general shipkeeping, overflow tasks. In Book Two Contact Node work she steps into security/access design. The flexible slot—competent at many things, specialist in none until the work finds her.
 
 **Presence:** Thessaly's utility player. Shows up wherever the schedule has a gap. Easy to overlook until absent.
 
-**Signature detail:** Keeps a perfect personal watch notebook Thessaly once borrowed as a scheduling reference without telling him.
+**Signature detail:** Keeps a perfect personal watch notebook Thessaly once borrowed as a scheduling reference without telling her.
 
 **Ordinary imperfection:** Cannot whistle despite trying constantly in maintenance corridors.
 
-**Authentic voice:** Plain, helpful, slightly formal; notebook precision; Edda Walsh uses rank-appropriate fleet speech. **Blind-read:** the reliable extra hand—not flashy. **Oaths:** **"damn"** under breath logging; no invented oaths yet. **Romance:** straight; no partner Book One. **Never like:** Park, Halden, Ortega.
+**Series continuity habits (locked):** Quiet operational competence — notebook already open, already thinking, already solving. Rarely wastes words. Security is how she understands the world. Increasingly respected by Fleet and Dominion professionals because competence recognizes competence. Book Two Ch. 3: Vex notices her professionalism first (not appearance); mutual professional fascination planted, not romance on the page yet.
+
+**Authentic voice:** Plain, helpful, slightly formal; notebook precision; rank-appropriate fleet speech. **Blind-read:** the reliable extra hand—not flashy. **Oaths:** **"damn"** under breath logging; no invented oaths yet. **Romance:** straight; no partner Book One; Book Two plants professional fascination with Commander Vex (not romance on the page yet). **Never like:** Park, Halden, Ortega.
 
 ---
 
