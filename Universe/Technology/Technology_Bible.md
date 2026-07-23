@@ -561,7 +561,7 @@ Internal geography is layered (hull → buffer → functional core → command �
 
 | Class | Crew |
 |-------|------|
-| Scout | 20 |
+| Scout | 14 |
 | Corvette | 40 |
 | Destroyer | 80 |
 | Frigate | 150 |

@@ -43,21 +43,29 @@ Every design decision favors:
 
 ### Standard Crew Complement
 
-20 personnel (Fleet standard — see `Universe/Fleet/fleet_crew_and_officer_canon.md`)
+**14 billets** (Fleet standard — see `Universe/Fleet/fleet_crew_and_officer_canon.md`)
+
+Smaller than a corvette (40). No spare mass for combat departments.
 
 ### Required Positions
 
 * Commanding Officer
 * Executive Officer
 * Navigator / Astrometrics Officer
-* Tactical Systems Officer
+* Tactical / defensive systems (light)
 * Chief Engineer
 * Communications / Relay Officer
-* Technical Support Personnel
+* Remaining billets: dual-hat technical, medical, sensor, and watch support
 
 ---
 
 # CORE CAPABILITY PROFILE
+
+## Size and speed (locked)
+
+* Smaller than corvette-class
+* **Fastest hull class in Unified Fleet Authority inventory** — faster than corvettes, frigates, and all heavier combat rungs
+* Speed and evasion are the primary survival tools
 
 ## Sensor Systems
 
@@ -72,7 +80,7 @@ Sensor performance degrades in regions exhibiting significant informational or s
 
 ## Propulsion
 
-* Single jump-drive architecture
+* Single jump-drive architecture optimized for sprint and withdrawal
 * Limited redundancy systems
 * Reduced jump precision in unstable sectors
 
@@ -90,14 +98,13 @@ Designed to survive withdrawal—not sustained combat.
 
 ## Offensive Systems
 
-Scout-class vessels carry only defensive armament.
+Scout-class vessels have **no offensive weapons to speak of**.
 
-Typical loadout includes:
+Typical loadout:
 
-* Defensive pulse emitters
-* Point-defense interception systems
+* One small laser / light defensive emitter — enough to discourage a boarding attempt or clear debris, not enough to fight a warship
 
-These systems exist solely to create opportunities for escape.
+No missile magazines. No capital emitters. No anti-ship battery. If a scout is shooting to win, doctrine has already failed.
 
 ---
 

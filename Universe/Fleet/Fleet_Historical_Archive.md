@@ -723,7 +723,7 @@ Fleet prefers **living or recent pioneers** over ancient conquerors. "Legendary"
 ### SHIP-03 — ISV *Kestrel Veil* (ISV-44)
 
 **Date / era marker:** Book One  
-**Summary:** Aging scout-class; Helion Prime Berth 14-C home yards; outer Kestran Spiral reconnaissance; Incident; segment seven witness platform; crew cohesion over prestige. Standard complement 20; narrative foregrounds principal personnel.  
+**Summary:** Aging scout-class; Helion Prime Berth 14-C home yards; outer Kestran Spiral reconnaissance; Incident; segment seven witness platform; crew cohesion over prestige. Standard complement 14.  
 **Institutional significance:** The vessel that forces Fleet to change how it categorizes uncertainty.  
 **Narrative reuse notes:** Scout-class is mission designation, not combat hierarchy class. Survival via speed, evasion, environment, crew ingenuity — not hidden battleship capability. Name retirement is series-sensitive.  
 **Canon:** Scout class docs; crew canon; Book One

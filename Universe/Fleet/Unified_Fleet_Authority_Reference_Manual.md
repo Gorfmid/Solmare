@@ -392,7 +392,7 @@ Instructors serve 2–4 year posting rotations; career resident faculty are trac
 | Chief Petty Officer | Rate authority; department backbone |
 | Senior Chief / Master Chief | Command master chief on large hulls; regional rate advisors |
 
-On scout-class hulls (crew 20), enlisted and junior officer roles **dual-hat** extensively. Narrative may foreground principal personnel without listing full complement. See `fleet_crew_and_officer_canon.md` §8 (*Kestrel Veil* note).
+On scout-class hulls (crew 14), enlisted and junior officer roles **dual-hat** extensively. Narrative may foreground principal personnel without listing full complement. See `fleet_crew_and_officer_canon.md` §8 (*Kestrel Veil* note).
 
 ## 6.4 Enlisted commissioning
 
@@ -488,7 +488,7 @@ Scout-Class is a **mission designation**, not a rung in the combat hierarchy of 
 
 **Engagement rules (summary):** Do not engage unknown vessels unless fired upon; withdraw when practical; force only to preserve crew or enable escape; pursuit prohibited; deviations require Fleet authorization or immediate survival necessity.
 
-**Crew:** Fleet standard **20**. See `fleet_crew_and_officer_canon.md`.
+**Crew:** Fleet standard **14**. See `fleet_crew_and_officer_canon.md`.
 
 ## 8.3 Cultural personality
 

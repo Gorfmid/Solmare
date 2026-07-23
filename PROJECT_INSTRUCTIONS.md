@@ -85,6 +85,7 @@ The goal is to create a believable one whose characters, stories, and history re
 - **Neither civilization is the villain** — Fleet Authority and the Dominion are rational; history drives the collision.
 - **Cultural recursion** — touchstones recur; never explain them on first introduction.
 - **Civilization scene test** — every chapter deepens understanding of a civilization (family, tradition, duty, food, history) — not technology alone.
+- **Unique character names** — when introducing a new character, both given name and surname must be unique across the Cycle unless the characters are directly related (search cast before naming). See `Writing_System/Style_Guide/global_writing_principles.md` → *Unique names*.
 - **Book One Ch. 5–8** — Incident arc is locked; do not regenerate without explicit author request.
 
 ---

@@ -567,7 +567,7 @@ For noun/verb meta talk: say the actual thing (*word*, *name*, *phrase*, *call*)
 
 For *wrong*: do not use it as atmosphere or cute judgment. Say what failed (*shape will not settle*, *profile does not match*, *class unavailable*). Keep rare concrete uses only when the error itself is the point (*wrong header*, *wrong bin*).
 
-For *lying / lies* on instruments and plots: same rule. Instruments do not lie; they fail to settle, refuse a lock, or keep shifting. Keep *lie* only for people actually deceiving.
+For *lying / lies* on instruments and plots: same rule. Instruments do not lie; they fail to settle, refuse a lock, or keep shifting. Do **not** use *lying / honest* as capacity metaphor either (*without lying to somebody*). Keep *lie* only for people actually deceiving. (Also Revision Pass 3 §3.2c.)
 
 For *margin* as naming jargon: do not use *margin name*, *margin notation*, *outer-margin analysts* for the Peligar designation. Prefer: *designation*, *comparison class*, *Dominion label*, *frontier analysts*. Keep *margin* only for literal engineering (*structural margin*, *fuel margin*).
 

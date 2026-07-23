@@ -25,9 +25,9 @@ When the user says **"Draft Chapter X"** (or *Generate Chapter X* / *Write Chapt
 When the user says **"Revision Pass on Chapter X"** (or *Revise Chapter X* / *Structural revision on Chapter X* / *Apply revision pass to Chapter X*):
 
 - Use **Stage 2 — Revision Pass**
-- Load and follow: `Writing_System/revision_pass.md`
-- Review: story structure, clarity (plain disputes, cut captions), character building/expansion, canon, information discipline
-- Expand details and character when beats are thin but important
+- Load router: `Writing_System/revision_pass.md`
+- Run numbered passes in order, one file at a time: `Revision_Pass/01_people.md` → `02_story_structure.md` → `03_clarity_language.md` → `04_continuity_preflight.md`
+- Deliver the combined report from the router
 - Do **not** perform Writing Pass 1 / final prose polish until structure is stable
 
 ## Writing Pass 1 on Chapter X

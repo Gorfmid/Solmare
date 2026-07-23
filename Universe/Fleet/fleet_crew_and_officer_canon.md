@@ -48,7 +48,7 @@ Even the largest vessels must remain narratively trackable and character-relevan
 
 | Class | Total crew | Notes |
 |-------|------------|-------|
-| **Scout** | 20 | Reconnaissance / observation mission designation |
+| **Scout** | 14 | Reconnaissance / observation mission designation; smaller than corvette; fastest Fleet hull class; minimal laser only |
 | **Corvette** | 40 | |
 | **Destroyer** | 80 | Light combat hull — crew scale only until full combat-class entry |
 | **Frigate** | 150 | |
@@ -81,7 +81,7 @@ Officer scaling reflects reduced total crew. Narrative focus stays on command te
 
 ## Scout–Frigate
 
-**Total crew:** 20–150
+**Total crew:** 14–150
 
 **Command model:** Small centralized command teams
 
@@ -183,10 +183,24 @@ Any deviation must be explicitly justified in-story (understaffed deployment, em
 
 # 8. Book One — Kestrel Veil Instance Note
 
-Fleet standard Scout complement: **20**.
+Fleet standard Scout complement: **14**.
 
-Book One narrative foregrounds **fourteen principal personnel** (six senior officers + eight named support crew). Remaining complement slots may be watch-standers, rotating specialists, or unfilled billets — not required in every scene.
+Book One's "fourteen people" **is** the scout billet count (six senior officers + eight named support crew / dual-hats). Narrative may still foreground principals without listing every watch rotation.
 
-See: `Characters/Support_Crew/support_crew.md` · `Books/Book_01_The_Kestrel_Veil_Incident/Notes/kestrel_veil.md`
+See: `Characters/Support_Crew/support_crew.md` · `Books/Book_01_The_Kestrel_Veil_Incident/Notes/kestrel_veil.md` · `Universe/Technology/scout_class.md`
 
-Chapter prose references to "fourteen people" describe the **dramatis crew family**, not the Fleet maximum complement.
+# 8b. Book Two+ — Kestrel Veil Reorganization (Locked)
+
+Fleet standard Scout complement remains **14**.
+
+Book Two reduces named cast bloat through **career progression**, not silent deletion:
+
+- **Brenner** → Chief Engineer (*Veil*)
+- **Koss** → LCDR → CDR; Chief Construction & Integration (Interface Station)
+- **Halden** → LCDR → CDR; Interface security / defensive architecture
+- **Marcus Hale** → *Veil* Tactical & Defensive Systems
+- **Cole** → ship Communications / Relay as **Park** moves into diplomatic/linguistic work
+- **Mehta / Tanaka / Okwelu / Reyes** → protected recurring department / bridge leads
+
+Authority: `Characters/Primary_Crew/KESTREL_VEIL_CREW_REORGANIZATION.md`  
+Roster detail: `Characters/Support_Crew/support_crew.md`

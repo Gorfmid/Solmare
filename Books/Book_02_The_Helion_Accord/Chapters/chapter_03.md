@@ -1,4 +1,4 @@
-﻿# Chapter 3
+# Chapter 3
 
 ## Lines on a Map
 
@@ -19,7 +19,7 @@ Thessaly checked the seating chart one more time. "You are grinding your teeth."
 
 Park was already at the lexicon board. The *Kestrel* mug sat beside him, lettering turned to the wall. He wrote with the careful speed of a man who believed a wrong word could kill someone before lunch.
 
-"Orlen messaged," Park said without looking up. "She wants the shared strip live before anyone makes a speech. I told her we do not make speeches. She said that was optimistic."
+"Orlen messaged," Park said without looking up. "She wants the shared lexicon live before anyone makes a speech. I told her we do not make speeches. She said that was optimistic."
 
 "She is learning us," Thessaly said.
 
@@ -549,11 +549,11 @@ Calder met Vex in the open space between annex and corridor. No audience. No ped
 
 "When we build this station — if we build it — I will not pretend Alpha Seven did not happen."
 
-"Good," Vex said. "I will not pretend your scout was not in my plot."
+"Good," Vex said. "I will not pretend I did not fire on your scout."
 
 "Can you work with me anyway."
 
-Vex considered him the way he had considered the sketch: for load, for failure points, for whether the structure would hold.
+Vex considered him the way he had considered the sketch — what worked, what would break, whether he could trust it under pressure.
 
 "I can work with anyone who will not waste the time my dead already paid for," Vex said. "You do not waste time. You hesitate for the wrong reasons sometimes. Hesitation can be trained. Waste cannot."
 
@@ -567,13 +567,21 @@ Calder took it. He did not like how much he wanted to.
 
 "Then we work," Vex said.
 
-They did not shake hands. Hands would have been a lie. They nodded once, the way bridge officers nodded when a maneuver was ugly and necessary, and stepped apart before either of them could ruin it with more words.
+Calder almost left it there. The next thought arrived anyway. "If they build it — they will not put us on it."
+
+"No," Vex said. "Capitals are not that honest. Or that foolish."
+
+"Good," Calder said. He meant it. He also felt the other shape of the sentence sit down beside him: *if they do.* Unlikely. Wrong for both careers. Still enough to matter.
+
+Vex said nothing about that. He did not need to. The same unlikely *if* had already landed in him, filed under costs that were not due and would probably never come due.
+
+They did not shake hands. That would have looked like agreement, or respect. They nodded once — and stepped apart before either of them could ruin it with more words.
 
 ---
 ***CONTACT NODE SEVEN — TEA SERVICE / ANNEX EDGE***
 *AFTER THE DRAWING*
 
-The tea service was a narrow alcove with two urns and the polite fiction that drinks made empires civil. Walsh answered a Dominion runner about survey escort timing while holding the rolled sketch under one arm. Vex stopped for tea he still did not drink. Condensation made another ring. He ignored that one too. He did not ignore her.
+The tea service was a narrow alcove with two urns. Nobody believed hot water fixed empires. Walsh answered a Dominion runner about survey escort timing while holding the rolled sketch under one arm. Vex stopped for tea he still did not drink. Condensation made another ring. He ignored that one too. He did not ignore her.
 
 "Your access list," Vex said, as if continuing a sentence they had not started.
 
@@ -581,19 +589,19 @@ Walsh glanced up. "Draft only. I want your people to hate the first version. Hat
 
 "That is a Dominion method," Vex said.
 
-"Then Dominion and Fleet security already agree on something," Walsh said. "Do not tell the capitals. They will ruin it."
+"Then Dominion and Fleet security already agree on something," Walsh said. "Keep that off the evening packet. Someone will turn it into a speech."
 
 Vex looked at her for a heartbeat longer than professionalism required. Not warmth. Not strategy. The plain, inconvenient fact of being intrigued by someone he had no doctrine for.
 
-"You think in doors," Vex said.
+"Your access list reads the way mine would," Vex said.
 
-"I think in what happens when doors fail," Walsh said. "Same job. Worse day."
+"It reads the way people break it," Walsh said. "Same list. Worse day."
 
-He almost asked something unwise — who trained her, what border had made her, why a Fleet security junior sounded like the people he trusted with airlocks. He did not ask. Questions like that got answered, or worse, remembered.
+He almost asked something unwise — who trained her, what border had made her, why a Fleet junior already sounded like someone who had run a real watch. He did not ask. The answers would not help him. He would not know the trainer or the border, and questions like that got remembered.
 
 A cargo trolley forced them apart. Walsh did not look back first. Vex did — one clean glance, no excuse attached — then turned away as if he had only been checking the corridor.
 
-Brenner caught Walsh by the elbow at the hatch. "You. With me. If you are going to invent locks, invent them where I can argue with the welds."
+Brenner caught Walsh by the elbow at the hatch. "You. With me. If you are going to put locks on my sketch, do it where I can argue with the welds."
 
 "Yes, sir."
 
@@ -603,13 +611,13 @@ Vex heard that. He did not smile. He followed.
 
 Kevin appeared from nowhere with a tray nobody had requested, the way Kevin always did. Two cardamom buns. One thermos. The expression of a man who had decided hunger was a security risk.
 
-"For the annex," Kevin said. "Before someone invents a policy that forbids pastry."
+"For the annex," Kevin said. "Before someone decides there should be a policy that forbids pastries."
 
 Brenner took a bun without slowing. "Kevin, you are a menace."
 
-"Yes," Kevin said, pleased. "Tell the captain his aunt still makes the better ones. I am only the thief."
+"Yes," Kevin said, pleased.
 
-Walsh took the other bun because she took what kept watches standing. Vex declined with a small shake of the head. Kevin did not take offense. Kevin never took offense at people who were busy surviving.
+Walsh took the other bun because she took what kept watches standing. Vex declined with a small shake of the head. Kevin did not take offense.
 
 Calder watched the three of them disappear toward the yard-side corridor — Brenner talking welds, Walsh already opening the notebook, Vex listening like listening was a form of command — and felt something shift that was not policy. For the first time since Alpha Seven, the fight in front of him had a shape that was not only guns and disbelief. It had a building. Buildings were stubborn. Buildings made people keep showing up.
 
@@ -651,57 +659,65 @@ He almost laughed. The sound surprised him. It felt disloyal to Alpha Seven and 
 
 She stared at the corridor where they had gone. "Welcome to command. It is mostly living with wanting the wrong useful things."
 
-Park came out of the protocol room long enough to catch Calder's sleeve.
+Without pause, Calder asked, "Have you ever wondered where Kevin manages to store all of the pastries?"
 
-"Sir — Orlen and I can hold the shared strip overnight if Session Three slips. I wanted you to know before someone invents a reason to pull us apart for optics."
+Before Thessaly could answer, Park came out of the protocol room and caught Calder's sleeve.
 
-"No one is pulling you apart for optics," Calder said.
+"Sir — Orlen and I can keep the shared lexicon going overnight if Session Three slips. I wanted you on record first. Someone is going to say a Fleet officer and a Dominion linguist should not sit alone all night. They will call it contamination risk, or appearance, or whatever word gets us separated. The lexicon does not care about the word."
 
-Park looked skeptical in the specific way of a man who had watched optics win before. "Then put that in a sentence Rowan can throw at Council."
+"No one is separating you for appearance," Calder said.
 
-"I will," Calder said. "Park — the mug."
+Park looked skeptical in the specific way of a man who had watched appearance win before. "Then put that in a sentence Rowan can throw at Council."
 
-Park went still. "Sir."
+"I will," Calder said.
 
-"I still have not seen the print."
-
-"That is the idea," Park said, and retreated before Calder could press it, almost smiling.
+Park nodded once and went back to Orlen before anyone could invent a better objection.
 
 ---
 ***CONTACT NODE SEVEN — FLEET OPERATIONS ANNEX***
 *SEGMENT STATUS BOARD*
 
-Calder walked to the Fleet operations annex with Thessaly. The station sketch was already becoming tomorrow's problem. Today's problem was still a quiet board.
+Calder walked to the Fleet operations annex with Thessaly. The station sketch was already becoming tomorrow's problem. Today's board was still ordinary.
 
-Park stayed behind with Orlen, heads together over a shared strip that finally meant the same thing on both sides. Their voices were low. Professional. Almost comfortable. Calder left them to it. Comfort between specialists was rarer than agreement between empires, and somehow less fragile.
+Park stayed behind with Orlen, heads together over the shared lexicon that finally meant the same thing on both sides. Their voices were low. Professional. Almost comfortable. Calder left them to it. Comfort between specialists was rarer than agreement between empires, and somehow less fragile.
 
-He stopped in front of Segment 6.
+He stopped in front of Segment 6 and keyed Founders' Reach open — not as an alert. As a place.
 
-Founders' Reach sat where it always sat — civilian, ordinary, low strategic value. Patrol check-in due in the current eight-week cycle. A school petition still waiting on shipping-container classrooms that had become permanent by neglect.
+"When the talks settle," he said, "I want to take a small Dominion party there. Not Helion. Not a parade. A colony. Let them see how Fleet people actually live out here."
 
-Yesterday the quiet had looked like safety.
+Thessaly studied the line. "Council will ask what we get for showing them a colony. Dominion security will ask why we are walking their people through an undefended settlement."
 
-Today it looked like a place that could disappear while both sides finished writing the right words.
+"Then we answer both," Calder said. "It is an introduction. Ordinary Segment culture. If we are going to work with them, they should meet more than our protocol rooms."
 
-Calder read the colony line the way he had not read it the night before. Agricultural trials on the secondary landmass. Small processing industry. One administrative relay. Children in containers that leaked when the wind came wrong. Two Academy volunteers last year who had written home that Segment 6 looked different from orbit than it felt underfoot.
+Vex arrived a minute later with Walsh still holding the rolled sketch and Orlen a step behind, as if the annex had pulled useful people by gravity. Park followed with the lexicon slate under his arm.
 
-He did not know any of their names.
+Calder did not make a speech. He pointed at the colony line and gave them the facts the way a captain briefed a visit, not a warning.
 
-That felt like a failure that did not fit in a packet.
+"Founders' Reach. Segment 6. Civilian. Low strategic value. Agricultural trials on the secondary landmass. Small processing industry. One administrative relay.  Container school still waiting on a permanent building — the petition has been in queue long enough that the temporary rooms became the school. Two Academy volunteers last year wrote home that Segment 6 looked different from orbit than it felt underfoot."
 
-"Patrol packet is queued," Thessaly said. "Nothing elevated."
+Orlen tilted her head. "You are offering us a visit."
 
-"Good," Calder said. Then, after a breath: "Own the coverage review for all of Segment 6. If Council argues about where to look first, I want you making that call before they do."
+"If Civil Government and Rowan allow it," Calder said. "After Session Three. Small party. No weapons. No digging for strategic charts while you are there. Walk the settlement. Eat whatever the galley is serving. See the school. Hear what ordinary Fleet sounds like when nobody is trying to impress Helion."
+
+Vex looked at the quiet label the way he looked at any place he might someday have to defend or abandon. "Why that colony."
+
+"Because it is not a showcase," Thessaly said. "Founders' Reach is work, weather, and people who petition for walls and keep teaching while they wait."
+
+Walsh nodded once, already thinking in escorts and access. "I can draft a visit list that keeps both sides inside the rules."
+
+"Do that," Calder said. "Draft only. Nobody files it upstairs until the talks finish the next session.  We don't need to create another fight."
+
+"Patrol packet is queued," Thessaly said. "Nothing elevated. If we take Dominion people to Founders' Reach, someone has to own the Segment watch while they are on the ground — escorts, check-ins, who answers if something goes wrong. I want that written before Council starts arguing whether we can go."
+
+"Write it," Calder said. "Your recommendation. I will stand behind it when Rowan asks."
 
 Thessaly looked at the board instead of at him. Her hand stopped above the slate, then settled without touching it.
 
 "That's a command decision," she said. "You're the one Rowan will ask."
 
-"I'm asking you to make it, and I'll stand behind it."
+"I'm asking you to make it anyway."
 
-She took a breath she did not need for the answer. "Your backing doesn't make it less of a command decision." The edge in her voice was slight, and gone almost as soon as it arrived. "I'll have a recommendation by the next session."
-
-Calder did not ask why it landed hard. He had watched her carry rooms for two years. He had not always watched what the carrying cost.
+She took a breath she did not need for the answer. "Your backing doesn't make it less of a command decision." The edge in her voice was slight, and gone almost as soon as it arrived. "I'll have it by the next session."
 
 "Mira," he said, using her name because rank would have been a dodge.
 
@@ -711,101 +727,33 @@ She looked at him then. Brief. Honest.
 
 "I know," he said.
 
-She hesitated — rare for her — then added, "When Rowan asks why quiet places first, tell him I said loud places already have advocates. Quiet places only have the people who live there. And me. And you, if you mean what you just said."
+On the side channel, Holt's voice returned once more. "Captain — New Meridian forwarded the Founders' Reach school petition packet again. Automated acknowledgment only. No human reply. Forwarding because it is Segment 6. Also — Park asked me to hold a corridor window for Brenner's survey talk. I am holding it."
 
-"I mean it."
+"Keep holding both," Calder said. "And if Commander Vex is still in the venue when the survey window opens, route escort timing through one channel instead of two."
 
-"Then do not take it back when Council makes meaning expensive."
-
-On the side channel, Holt's voice returned one last time, softer. "Captain — New Meridian just forwarded a Founders' Reach school reminder. Automated acknowledgment only. No human reply again. I know it is not elevated. I am telling you because ordinary things are starting to feel loud."
-
-"Keep telling me," Calder said.
-
-"Copy. Also — Park asked me to hold a corridor window for Brenner's survey talk. I am holding it. If anyone from Helion calls that premature, tell them I said premature is how people stay alive."
-
-"I will tell them," Calder said.
-
-"And Captain — if Commander Vex is still in the venue when the window opens, I can route escort timing through one channel instead of two. Less chance of a polite misunderstanding becoming an impolite one."
-
-Calder glanced at Thessaly. She gave the smallest nod.
-
-"Do it," Calder said. "One channel. Spoken confirmation. No cleverness."
-
-"I do not do cleverness," Holt said. "I do routes. Cleverness is your department."
+"One channel," Holt said. "Spoken confirmation. I do routes. Cleverness is your department."
 
 The channel closed on something like warmth.
 
-Thessaly watched him. "She is going to keep that colony in your head whether Council likes it or not."
+Vex said, "If your Council allows the visit, Civil Government will want to choose who goes."
 
-"Good," Calder said. "Someone should."
+"They can want," Calder said. "Only a few from this table. People already in the talks. No extras from either capital."
 
-"She is also going to keep Vex on a practical line whether SSD likes it or not."
+"Can we work with them," Thessaly asked quietly, after the others had room to breathe. Not as procedure. As the real question.
 
-"Also good," Calder said. Then, after a moment: "Also uncomfortable."
-
-"Then we are consistent," Thessaly said.
-
-He thought of Vex's untouched tea. Of a man who had watched systems vanish and still sat down across from the captain he had nearly killed. Of Brenner's blank mark on the Neutral Zone line. Of Vex noticing Walsh before either of them had a reason — and Walsh's hand on a Dominion forearm, and the half-second stutter nobody else had heard. Of Park noticing his shoulders. Of Orlen refusing praise. Of Senka choosing collision risk over contamination theater. Of Rowan cutting the room forward because admirals who waited for consensus waited for funerals.
-
-"Can we work with them," Thessaly asked quietly. Not as procedure. As the real question.
-
-Calder kept his eyes on Founders' Reach.
-
-He could still see Alpha Seven in the space between him and Vex. He could still feel the scout dying under fire that had not known his name. He could also feel the shape of a station that did not care what either navy wanted to believe about the other — only whether both sides kept showing up.
+Calder looked from Founders' Reach to Vex and back.
 
 "We have to," he said. "Whether we like the answer or not."
 
-Thessaly nodded once. "Then we start with coverage. And we do not wait for Council to find a prettier fear."
+Thessaly nodded once. "We finish the next session. Then we ask for the visit before Council creates an event or reason to not allow a visit."
 
-He logged the day's decisions without turning them into a speech: warning work live, station survey ordered, Segment 6 on Thessaly's desk. He closed the file.
+He logged the day's decisions without turning them into a speech: warning work live, station survey ordered, Segment 6 coverage on Thessaly's desk, Founders' Reach visit draft pending Session Three. He closed the file.
 
-He shut the terminal.
+On the status board, Founders' Reach remained quiet — ordinary, scheduled, still a place you could point at and say *come see how we live*.
 
-On the status board, Founders' Reach remained quiet.
+Outside the annex, corridor traffic kept moving. Ordinary freighters. Ordinary complaints. Ordinary weeks.
 
-Calder looked at it differently now.
-
-Not because the board had changed.
-
-Because he had.
-
-He pictured the container school. Children asking why they did not have a proper beacon array yet. A teacher saying *because we are still on the petition list* without enough bitterness to stop the lesson. An officer named in no brief Calder had bothered to learn, drinking Fleet coffee because it was one of the few reliable imports, measuring the day by a board that believed quiet labels meant quiet futures.
-
-Vex had said *consume* in a voice that had already paid for the word.
-
-Brenner had put a blank mark on a line and made it a tomorrow.
-
-Walsh had touched a Dominion forearm and neither empire had ended.
-
-Park had noticed his shoulders.
-
-Holt had asked to keep ordinary traffic ordinary for one more hour.
-
-And Calder — who had wanted enemies to stay simple — had wanted a man who once tried to kill him on the work that might keep Founders' Reach on the board.
-
-That was not trust.
-
-It was a beginning that might arrive too late.
-
-Outside the annex, corridor traffic kept moving. Ordinary freighters. Ordinary complaints. Ordinary weeks that still believed they were ordinary.
-
-Thessaly touched the Segment 6 line once with two fingers, the way she touched crew lists before a hard watch.
-
-"I will have the coverage recommendation by morning," she said. "If I put quiet places first, Council will call it sentiment."
-
-"Let them," Calder said.
-
-"If I put loud places first, quiet places die on schedule."
-
-"Then do not put loud places first."
-
-She nodded. The decision sat between them like a third person — heavy, useful, unnamed.
-
-Calder left the quiet label on the board and carried the unease with him.
-
-Something terrible did not need a narrator.
-
-It only needed a quiet place, and people who had finally started to believe the quiet could end.
+Calder left the quiet label on the board and carried the plan with him. Not dread. Not prophecy. Just the next useful thing — if the talks held long enough to let them take it.
 
 ---
 **END CHAPTER 3**

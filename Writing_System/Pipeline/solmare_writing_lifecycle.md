@@ -1,7 +1,7 @@
 # Solmare Writing Lifecycle
 
 **Authority:** Production workflow for all future Solmare books and chapters.  
-**Companion:** Stage 2 editorial tool = `Writing_System/revision_pass.md` · Stage 3 editorial tool = `Writing_System/writing_pass_1.md`  
+**Companion:** Stage 2 = `Writing_System/revision_pass.md` (router) + `Writing_System/Revision_Pass/01–05` · Stage 3 = `Writing_System/writing_pass_1.md`  
 **Does not replace:** Style guides, canon docs, craft doctrine, or terminology rules. Those remain authoritative for *how* to write; this document defines *which stage* you are in.
 
 ---
@@ -92,7 +92,7 @@ Complete the story.
 
 # Stage 2 — Revision Pass
 
-**Trigger phrases:** *Revision Pass on Chapter X* · *Revise Chapter X* · *Structural revision on Chapter X* · *Apply revision pass to Chapter X*
+**Trigger phrases:** *Revision Pass on Chapter X* · *Revise Chapter X* · *Structural revision on Chapter X* · *Apply revision pass to Chapter X* · *Character Pass on Chapter X* (Pass 5 only, after structure)
 
 ## Purpose
 
@@ -100,8 +100,11 @@ Make the chapter structurally correct, clear, and character-strong before polish
 
 ## Required tool
 
-**Revision Pass — Stage 2 Editorial Runbook**  
-→ `Writing_System/revision_pass.md`
+**Revision Pass — Stage 2 Router**  
+→ `Writing_System/revision_pass.md`  
+
+Numbered passes (load one at a time, in order):  
+`Writing_System/Revision_Pass/01_people.md` → `02_story_structure.md` → `03_clarity_language.md` → `04_continuity_preflight.md` → **`05_character.md`** (after structure is stable; no plot/scene changes)
 
 ## Review
 
@@ -117,14 +120,17 @@ Make the chapter structurally correct, clear, and character-strong before polish
 
 ### Character
 
-Verify and **strengthen**:
+Verify and **strengthen** (Pass 1 during structure; **Pass 5 Character Pass** after structure):
 
 - motivations
 - decisions
-- voice
-- relationships
+- voice (unmistakable; not interchangeable)
+- perspective (each person notices different things)
+- relationships (behavior, not explanation)
 - character arcs
 - one clearer beat per scene when the draft is thin (resistance, competence, humor, cost)
+
+Full Character Pass doctrine: `Revision_Pass/05_character.md`
 
 ### Clarity (author live practice)
 
@@ -163,7 +169,8 @@ Prefer demonstrable improvement; do not rewrite for variety. Expand for clarity 
 
 ## Load (typical)
 
-- **`Writing_System/revision_pass.md`** (required)
+- **`Writing_System/revision_pass.md`** (required router — pass order + combined report)
+- Then each numbered pass file **in sequence only** (do not preload all four)
 - Stage 1 draft of the chapter
 - Act outline / chapter list purpose notes
 - Prior LOCKED FINAL / Final Candidate chapters + state logs for continuity

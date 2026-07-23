@@ -1,6 +1,7 @@
-﻿# Book One — The Kestrel Veil Incident
+# Book One — The Kestrel Veil Incident
 
 **Series:** The Solmare Cycle  
+**Edition:** See [`VERSION.md`](VERSION.md) — **1.1** live (Walsh/typo fix; **1.0** superseded)  
 **Status:** Ch. 1–24 + Epilogue **LOCKED FINAL** · **ACT IV COMPLETE** · **END BOOK ONE** · **4-act architecture**
 
 See `Notes/book1_core_premise.md` and `Notes/REWRITE_STATUS.md`.

@@ -153,6 +153,7 @@ Do not soften either fact. Political and professional consequences persist even 
 - Respects ability long before trust.
 - **Never** evaluates someone by appearance — only behavior, actions, professionalism.
 - Book Two Ch. 3 plant: notices Lena Walsh because she enters his space without hesitation, notebook already open, already moving toward useful work.
+- Series relationship rule: `Writing_System/Revision_Pass/competence_before_attraction.md` (Vex–Walsh application).
 
 Detail: `Books/Book_02_The_Helion_Accord/Notes/CHARACTER_CONTINUITY_HABITS.md`
 

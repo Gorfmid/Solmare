@@ -93,11 +93,9 @@ She tells herself it was the correct trade. She has not stopped doing the math o
 
 ## HOPE AFTER THE MISSION
 
-Retire from active duty into **small-ship operational consultancy**—helping captains who are not natural schedulers.
+**Book One emotional state (kept):** Privately she has wanted to stop being the person who decides what everyone else loses. She has not told anyone this, including Okoye. Consultancy fantasy (small-ship operational help for captains who are not natural schedulers) remains a private escape hatch — not a locked career ending.
 
-Contrary to her private ambition: she does **not** want a command of her own anymore. She wants to stop being the person who decides what everyone else loses.
-
-She has not told anyone this, including Okoye.
+**Series destination (locked):** Thessaly is fully capable of command and **should eventually receive her own command** — late series / final book / epilogue / post-crisis recognition. See **Long-term command arc** below.
 
 ---
 
@@ -107,7 +105,7 @@ She has not told anyone this, including Okoye.
 - **Dry humor:** Observations often sharper than anyone else's; never performs the joke.
 - **Reads Calder early:** Frequently understands what he is struggling with before he says it aloud.
 - **Does not decide for him:** Never rescues him by making the call. Asks the question that lets him reach the correct decision himself.
-- **Series arc:** Increasingly Calder's mentor in command, not only his executive officer.
+- **Series arc:** Increasingly Calder's mentor in command, not only his executive officer. Readiness for her own command plants gradually (see Long-term command arc).
 
 Detail: `Books/Book_02_The_Helion_Accord/Notes/CHARACTER_CONTINUITY_HABITS.md`
 
@@ -213,9 +211,51 @@ Thessaly will recommend abort before Calder asks. She will not countermand witho
 
 **Book One:** Procedural stability model under contradiction; first officer to Calder's epistemological arc.
 
-**Long-term:** Learning when decisiveness requires acting without defensible record—and when that is courage vs. recklessness.
+**Long-term:** Learning when decisiveness requires acting without defensible record—and when that is courage vs. recklessness. Mentorship of Calder deepens; command readiness becomes visible to others before she claims it.
 
-**Unresolved flaw:** Believes she could command this ship. Unsure whether she wants to.
+**Unresolved flaw (early):** Believes she could command this ship. Unsure whether she wants to. Series resolves toward earned command — not early separation from Calder.
+
+---
+
+## LONG-TERM COMMAND ARC (LOCKED)
+
+**Canonical note for series planning and Revision Pass continuity.**
+
+Thessaly is fully capable of command. She should eventually receive her own command.
+
+**Do not** promote her early merely because it is logical. Calder and Thessaly are a central working relationship; separating them too soon removes an important source of character strength.
+
+**Preferred timing:** late series · final book · series epilogue · post-crisis recognition and promotion.
+
+**She does not:**
+
+- aggressively campaign for command  
+- network for promotion  
+- repeatedly complain about remaining XO  
+
+**Readiness should become obvious through action:**
+
+- she makes command-level decisions  
+- Calder trusts her with real authority  
+- junior officers rely on her  
+- senior officers recognize she is already performing beyond her rank  
+- she accepts responsibility without needing public credit  
+- she understands command cost, not merely command status  
+
+Her eventual promotion should feel inevitable.
+
+**Preferred final outcome:** Thessaly receives **her own ship** rather than automatically inheriting *Kestrel Veil*. *Kestrel Veil* remains strongly associated with Calder unless later plot events require otherwise.
+
+**Emotional payoff may be simple:**
+
+> “Captain.”  
+> “Captain.”
+
+No long promotion speech is required if the series has already earned the moment.
+
+**Do not force this payoff into Book Two.** Plant readiness gradually.
+
+**Revision Pass report item:** *Thessaly command arc continuity* — readiness planted through action; no premature separation or campaign-for-command dialogue.
 
 ---
 

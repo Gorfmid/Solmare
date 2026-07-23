@@ -1,8 +1,10 @@
 # GLOBAL WRITING PRINCIPLES
 
-These rules apply to every chapter, scene, and revision in **The Kestrel Veil Incident**.
+These rules apply to every chapter, scene, and revision in **The Solmare Cycle**.
 
-**Authority:** Load and obey this document for all Book One generation, refinement, and revision. It takes precedence over technical exposition defaults in other engine docs when they conflict.
+**Authority:** Load and obey this document for all generation, refinement, and revision across every book in the series. It takes precedence over technical exposition defaults in other engine docs when they conflict.
+
+**Series philosophy (load first):** `people_before_process.md` — the foundational reason these principles exist. Reader Memory Test and Revision Test live there.
 
 **Craft doctrine:** Also load `solmare_craft_doctrine.md` — POV information flow, professional competence, scene test, Solmare Rule (people first).
 
@@ -335,6 +337,12 @@ Readers should be able to remember characters without relying on rank or title.
 
 Whenever a new recurring character is introduced, give the reader at least one memorable trait, behavior, or interaction that makes them immediately recognizable.
 
+### Unique names (locked)
+
+When introducing a **new** character, make **both** the given name and the surname unique across the Solmare Cycle — unless the characters are **directly related** (or an intentional shared-name beat is explicitly authored and tagged).
+
+Do **not** reuse a first name or a last name already in use by an unrelated character (example failure: multiple unrelated Vosses). Before naming someone, search the cast / encyclopedia / manuscript for both name parts.
+
 ---
 
 ## Authentic Voice and Characterization
@@ -511,6 +519,7 @@ It is to create a universe that readers will want to revisit across many books.
 
 ## Related Documents
 
+* `people_before_process.md` — **series-level governing philosophy**; Reader Memory Test; Emotion Through Behavior; Sensory Anchoring; Revision Test
 * `solmare_craft_doctrine.md` — POV information flow, competence, dialogue, pacing, scene test, Solmare Rule
 * `Universe/cultural_touchstones.md` — recurring civilization texture; recognition before naming
 * `Universe/The_Dominion/dominion_visual_language.md` — Dominion visual motifs; recognition before naming

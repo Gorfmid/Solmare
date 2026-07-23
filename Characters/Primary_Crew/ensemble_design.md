@@ -1,4 +1,4 @@
-﻿# KESTREL VEIL — ENSEMBLE DESIGN
+# KESTREL VEIL — ENSEMBLE DESIGN
 
 ## Design Intent
 
@@ -9,6 +9,25 @@ Calder Venn is the variable. Everyone else has shared ship time.
 Conflict arises from **differing philosophies, priorities, experiences, and methods**—not from manufactured interpersonal drama.
 
 **Humanization:** Each senior officer has an **AUTHENTIC VOICE & HUMANIZATION** section in their character sheet. Load `Writing_System/Style_Guide/global_writing_principles.md` before writing dialogue. No two officers should pass for each other in a blind-read test.
+
+**Book Two+ reorganization (locked):** `KESTREL_VEIL_CREW_REORGANIZATION.md` — Koss, Halden, Walsh, and Cole transfer to Interface; Brenner becomes Chief Engineer; Marcus Hale takes ship tactical; Park stays *Veil* communications/relay. Book One tenure and spectrum tables below remain true for Book One.
+
+---
+
+## Book Two+ Ensemble (quick map)
+
+| Person | Book Two+ locus | Function |
+|--------|-----------------|----------|
+| Calder / Thessaly | *Veil* command | Decision + operational caution |
+| Brenner | *Veil* CE + Interface welds | Hands-on engineering; Koss’s construction partner |
+| Reyes | *Veil* senior bridge | Navigation + ops continuity |
+| Marcus Hale | *Veil* tactical | Survival geometry; different angle from Thessaly |
+| Tanaka / Mehta / Okwelu | *Veil* departments | Protected recurring voices |
+| Park | *Veil* relay/comms | Lexicon support when needed; crew mood; stays ship-side |
+| Cole | Interface station relay | Holt’s Fleet counterpart on station/node side |
+| Walsh | Interface security with Halden | Access design; competence plant with Vex |
+| Koss | Interface Construction & Integration | Yard, contractors, schedule, systems integration |
+| Halden | Interface security architecture | Station defense, sensors, emergency response |
 
 ---
 

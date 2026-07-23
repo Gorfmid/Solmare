@@ -44,7 +44,7 @@ Ship captains set local drill calendars; shore audits exist. Typical recurring c
 - Custody and reporting standards brief before extended deployments  
 - Watch qualification renewals for dual-hatted small-hull crews  
 
-Scout hulls (crew ~20) dual-hat extensively. Qualification boards are oral and practical. See [Ships](Ships.md) · [Scout Operations](Scout_Operations.md)
+Scout hulls (crew 14) dual-hat extensively. Qualification boards are oral and practical. See [Ships](Ships.md) · [Scout Operations](Scout_Operations.md)
 
 ---
 

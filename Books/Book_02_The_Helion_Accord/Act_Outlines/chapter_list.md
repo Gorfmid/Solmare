@@ -45,9 +45,9 @@ Book Two is structured around **reluctant cooperation under existential pressure
 | — | **The Founding Exodus** | Harvest-week departure from Serath; multi-gen convoy; dual-ignorance coda. Reader holds shared-origin seed. | 4,115 | **Final Candidate** |
 | 1 | Silent Frequencies | Opens on V17 *Harrow*/Peligar battle (bang and loss); hard cut to present; *Kestrel* intercepts multi-vocal contact. Calder certainty hunger seeded; Vex destination question seeded. | ~7,250 | **Final Candidate** |
 | 2 | Shared Words | Contact protocols at Contact Node Seven; Dana Holt introduced; “they’re talking.” | 7,805 | **Final Candidate** |
-| 3 | Lines on a Map | Character-driven expand: Calder-Vex, Brenner station, Walsh-Vex groundwork, Founders Reach coda. | ~7,170 | **2nd Revision Pass** |
-| 4 | First Exchanges | Shared work collapses as Founders’ Reach is processed on Fleet soil. Act I ends. | ~7,220 | **2nd Revision Pass** |
-| 5 | Glass Horizon | Consumed-system forensics; extraction vs attack language; personal ready-room beat. | 6,746 | **Revision Pass** |
+| 3 | Lines on a Map | Session Two: Calder–Vex work pact; Park tea; Interface named; Walsh–Vex groundwork; FR visit coda (quiet). | 7,767 | **Final Candidate** |
+| 4 | First Exchanges | Interface greenlit + Koss/Halden/Brenner promoted; FR ordinary day (Cade) then consumed; Calder marks visit *superseded*; Vex/Orlen/Vorin assigned jobs aboard; *Veil* departs. Act I ends. | 7,170 | **Final Candidate** |
+| 5 | Glass Horizon | First live Peligar consumption observed; industrial indifference; delayed landing; Calder school walk; Vex forced to watch not fight; second outer-corridor alert. | 8,060 | **2nd Revision Pass** |
 | 6 | The Burning Fringe | Panic markets; doctrine amendment pressure; lived stakes under expanding fringe. | 6,710 | **Revision Pass** |
 | 7 | No Survivors | Casualty reckoning; Ellis resists invasion propaganda; extraction seed. | 6,771 | **Revision Pass** |
 | 8 | Terms of Necessity | Limited cooperation posture locked; non-alliance; temporary NZ outpost live; Calder–Vex small table. Act II ends. | 6,630 | **Revision Pass** |
@@ -69,7 +69,7 @@ Book Two is structured around **reluctant cooperation under existential pressure
 | 24 | The Crossing | First Accord-authorized joint frontier crossing; instruments imperfect. | 2,719 | **Revision Pass** |
 | 25 | Aftermath | Thessaly accepts *Halvorsen*; Park–Holt unfinished; Book Three alliance question. | 3,785 | **Revision Pass** |
 
-**Total (Prelude + Ch. 1–25):** **~143,000 words** (markdown source word count; Ch. 1 grew ~500–700 from prior list entry)
+**Total (Prelude + Ch. 1–25):** **~144,470 words** (markdown source word count; Ch. 4 Final Candidate at 7,170)
 
 **Files:** `Chapters/prelude.md` · `Chapters/chapter_01.md` … `chapter_25.md`
 
@@ -82,11 +82,12 @@ Book Two is structured around **reluctant cooperation under existential pressure
 | **Draft** | Story function first; prose may be rough |
 | **Revision Pass** | Structure, character, canon, information discipline in progress / author read |
 | **2nd Revision Pass** | First revision pass complete; second structural/character pass in progress / author read |
-| **Final Candidate** | Structure stable; eligible for Writing Pass 1 / final prose polish |
+| **Character Pass** | Structure stable; voice/perspective/behavior checked against character sheets (`Revision_Pass/05_character.md`) — no plot changes |
+| **Final Candidate** | Structure + character stable; eligible for Writing Pass 1 / final prose polish |
 | **Final Lock Candidate** | Final polish complete; awaiting author lock — no free edits |
 | **Final Lock** | Frozen — **no edits** without explicit, directed author unlock |
 
-**Current board:** Prelude + Ch. 1–2 = **Final Candidate**. Ch. 3 = **2nd Revision Pass**. Ch. 4–25 = **Revision Pass**.
+**Current board:** Prelude + Ch. 1–4 = **Final Candidate**. Ch. 5 = **2nd Revision Pass**. Ch. 6–25 = **Revision Pass**.
 
 **Final Lock rule:** Once a piece is Final Lock, do not rewrite, add scenes, change dialogue, or alter lore unless the author explicitly unlocks it and directs the change. Spelling/grammar/formatting/production-only fixes require the same explicit unlock if they touch locked prose.
 
@@ -120,8 +121,9 @@ Ellis, using Calder’s evidence, proves the founding holidays commemorate the s
 | Ellis extraction seed | 7, 15 | Invasion language resisted |
 | **Peligar precursor assessment** | **2→20** | Ch.1 untouched. Early: anomalies may connect. Mid: pattern. Later: assessment. Eventually: watching preparation, not attacks. See `Planning/peligar_precursor_integration.md` |
 | Non-alliance posture | 8 | Terms of Necessity |
-| Joint NZ station approved | 3 | Working name **Interface** (Brenner); shared construction/design; survey live |
-| Temporary NZ station spaces live | 8 | First operational rooms of Ch.3 permanent joint station (build continues 12–18 mo) |
+| Joint NZ station seeded | 3 | Working name **Interface** (Brenner); shared construction/design; survey live |
+| Joint NZ station greenlit + crew reorg | **4 (pre-incident)** | Rowan/Civil Government approve build; **Koss** → Construction & Integration; **Halden** → Interface security; **Brenner** confirmed *Veil* CE; protected crew voice restored — see `Characters/Primary_Crew/KESTREL_VEIL_CREW_REORGANIZATION.md` |
+| Temporary NZ station spaces live | 8 | First operational rooms of permanent joint station (build continues 12–18 mo) |
 | Calder–Vex operational trust | 10, 13 | Peer not friend |
 | Vex/Calder wrong-role arc | 3, 8, 13, 18–21 | Demotion feel + mutual mismatch; cloak on *Veil*; unfinished recognition — see `Notes/VEX_CALDER_WRONG_ROLE_ARC.md` |
 | Ellis Stage 1 (similarities) | 11 | Seed only |
@@ -203,21 +205,21 @@ Contact protocols at Contact Node Seven. Park + Dominion linguists (Orlen, Vorin
 
 ## Chapter 3 — Lines on a Map
 
-**File:** `chapter_03.md` · **Words:** ~7,170 · **Status:** **2nd Revision Pass**
+**File:** `chapter_03.md` · **Words:** 7,767 · **Status:** **Final Candidate**
 
-Structural redesign expanded 2026-07-21: people-first; corridor break; Calder–Vex private work agreement; Walsh–Vex sketch + touch; Kevin bun; Founders’ Reach emotional coda.
+Session Two at Contact Node Seven. People-first: Calder–Vex counterparts without handshake; corridor break (Park Dominion tea / Orlen; Walsh–Vex professionalism plant); Brenner names **Interface** and owns survey frame with Walsh access draft; private Calder–Vex work agreement (need, not affection); Founders’ Reach coda as proposed post-talks colony visit for a small negotiation-table party — colony remains quiet/ordinary (no doom foreshadow). Ch.4 owns processing and Interface personnel greenlight.
 
-**Payoff:** Instruments provisional; joint station working name **Interface** locked; survey ordered; colony already inside the graph.
+**Payoff:** Provisional warning instruments; Interface survey live; visit draft pending Session Three; Thessaly holds Segment 6 watch plan; FR still a place you could show someone how Fleet lives.
 
 ---
 
 ## Chapter 4 — First Exchanges
 
-**File:** `chapter_04.md` · **Words:** ~7,220 · **Status:** **2nd Revision Pass**
+**File:** `chapter_04.md` · **Words:** 7,170 · **Status:** **Final Candidate**
 
-Productive shared work *as* Founders’ Reach goes dark / is processed. Park–Holt fear on the silent channel. Calder moral vertigo.
+Session Three proves warning path (Park/Vorin/Vex); Interface greenlit — Koss/Halden/Brenner promoted, Walsh to Interface, Cole to Interface relay, Solis aboard; FR ordinary day (Merrin Cade) then consumed; *Graylane* passive observation; Park keeps channel open; Calder marks visit *superseded*; structural rewrite of Act I final scene — Calder walks ship, Vex/Orlen/Vorin assigned jobs aboard, *Veil* departs. Act I ends.
 
-**Payoff:** Act I close — warnings were never theater.
+**Payoff:** Warnings never theater; Interface assigned before the crisis; necessity without trust; story moves from protocol room to direct observation (Ch.5).
 
 ---
 
@@ -230,9 +232,9 @@ Productive shared work *as* Founders’ Reach goes dark / is processed. Park–H
 
 ## Chapter 5 — Glass Horizon
 
-**File:** `chapter_05.md` · **Words:** ~6,746 · **Status:** **Revision Pass**
+**File:** `chapter_05.md` · **Words:** 8,060 · **Status:** **2nd Revision Pass**
 
-Forensics of consumed Founders’ Reach. Extraction vs attack language. Personal ready-room beat. *Not* the deep cloaked recon.
+Canon correction (2026-07-22): Founders’ Reach is **active consumption** on arrival — Fleet’s first direct observation; Dominion rarely watches without fighting. Industrial process (not battle); no pursuit; landing only after active band leaves primary settlement; Calder school walk after watching it leave; Vex shorter, burdened by recognition; second outer-corridor alert lands harder. *Not* the deep cloaked recon.
 
 ---
 
@@ -468,5 +470,15 @@ Implementation under ash. **Thessaly accepts *Halvorsen* command**; Calder suppo
 | 2026-07-21 | Ch. 3 structural redesign (~2,245 words): character-driven; Calder-Vex observation; Brenner interface; Walsh-Vex groundwork; Founders Reach coda |
 | 2026-07-21 | Ch. 4 moved to **2nd Revision Pass** (~7,220 words); caption cuts, contour fixed to Peligar advance, strategic charts fixed, stacked ending trimmed |
 | 2026-07-21 | revision_pass.md updated: section 0 people-first priority, section 3.3k plain vocabulary / no odd synonyms |
+| 2026-07-21 | Series canon: *Veil* crew reorg — Interface greenlight + Koss/Halden assignment staged Ch.4 pre-incident — `Characters/Primary_Crew/KESTREL_VEIL_CREW_REORGANIZATION.md` |
+| 2026-07-21 | Ch. 3 promoted to **Final Candidate** (7,767 words); reading-order summary + board refreshed |
+| 2026-07-21 | People-first rewrite playbook — `Notes/PEOPLE_FIRST_REWRITE_PLAYBOOK.md`; revision_pass §3.3l |
+| 2026-07-21 | Revision Pass split: router `revision_pass.md` + `Writing_System/Revision_Pass/01–04` |
+| 2026-07-21 | Editorial canon: people-create-story; protected cast; competence-before-attraction; Thessaly command arc; *Veil*/Interface roster links |
+| 2026-07-21 | Ch. 4 Revision Pass: Interface greenlight + personnel; FR preserved; *Veil* mission end (~7,850 words) |
+| 2026-07-21 | Ch. 4 people-first rebuild after policy-sludge read (~6,300 words); Ch.3 FC voice target |
+| 2026-07-22 | Ch. 4 structural rewrite of Act I final scene (Calder walks ship; Vex/Orlen/Vorin assigned jobs; Walsh removed from departure; Interface continuity corrected); final polish pass (typos, pronoun, Vex POV); promoted to **Final Candidate** (7,170 words) |
+| 2026-07-22 | Ch. 5 people-first rewrite → **2nd Revision Pass** (7,484 words): silence arrival; school walk; Vex as witness; short report; Ch.4 boarding continuity fixed |
+| 2026-07-22 | Ch. 5 canon fix: active Peligar consumption on arrival (8,060 words); delayed landing; industrial indifference; Vex watch-not-fight burden |
 
 *End of Book Two Chapter List & Roadmap*

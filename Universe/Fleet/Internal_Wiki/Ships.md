@@ -12,7 +12,7 @@ Crew complements (authoritative): `Universe/Fleet/fleet_crew_and_officer_canon.m
 
 | Class | Typical crew |
 |-------|--------------|
-| Scout | 20 |
+| Scout | 14 |
 | Corvette | 40 |
 | Destroyer | 80 |
 | Frigate | 150 |
@@ -70,7 +70,7 @@ Coffee is default institutional drink shipboard. Wardrooms, engineering nooks, a
 
 ## Scout hulls as data couriers
 
-Scout-class vessels are **mission designations** (reconnaissance / observation), not a rung on the combat hierarchy. They consume little fuel and operate farthest from Grade-A infrastructure. A scout that cannot return is a data-delivery failure as much as a life-safety failure.
+Scout-class vessels are **mission designations** (reconnaissance / observation), not a rung on the combat hierarchy. **14 billets**, smaller than corvette, **fastest hull in Fleet**, small laser only. They consume little fuel and operate farthest from Grade-A infrastructure. A scout that cannot return is a data-delivery failure as much as a life-safety failure.
 
 See [Scout Operations](Scout_Operations.md) and [Ship Classes](Ship_Classes.md).
 
@@ -78,4 +78,4 @@ See [Scout Operations](Scout_Operations.md) and [Ship Classes](Ship_Classes.md).
 
 ## Representative public reference
 
-*Kestrel Veil*-class scout profile is the teaching example for Extended Deployment Protocol (EDP). Public fact: standard scout complement **20**; extended frontier ops under Form [LC-7](Forms.md). Specific incident logs are routed through classification — do not paste restricted after-actions into this wiki.
+*Kestrel Veil*-class scout profile is the teaching example for Extended Deployment Protocol (EDP). Public fact: standard scout complement **14**; extended frontier ops under Form [LC-7](Forms.md). Specific incident logs are routed through classification — do not paste restricted after-actions into this wiki.

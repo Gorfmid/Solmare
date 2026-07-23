@@ -5,567 +5,823 @@
 ---
 
 ***CONTACT NODE SEVEN — PROTOCOL ROOM***
-*SESSION THREE: WARNING-FORMAT DRILL*
+*SESSION THREE*
 
-The dual-consent recorder came live on the first try.
+"—because *overnight hold* still means boarding prep in our manuals," Orlen was saying when Calder came through the hatch. "In yours it means the courier sleeps. Change it before someone has an interesting night."
 
-That alone would have been enough to make Park sit a fraction straighter. Session Two had left the instruments provisional and the suspicion intact. Session Three was supposed to prove they could carry a real warning without getting anyone killed by a word that meant the wrong thing. Thessaly had scheduled it like a load test: short clauses, spoken confirmation, walk-out drills before live product, nothing that could be mistaken for something it was not.
+"Delayed until daylight," Park said, already writing. His *Kestrel* mug sat with the lettering turned to the bulkhead. He turned it another inch without looking up. "Boring. I like boring."
 
-Morning traffic at Contact Node Seven still pretended the station was only bolts and packet handoff. Freighters held approved routes outside the viewports. A Dominion border watch kept station at a polite distance. A Fleet runner waited for clearance and broadcast nothing interesting. Inside the protocol room, the bolted tables and the second wall display with bright mounting screws made the pretense thinner. Someone had restocked the Dominion tea service overnight. Someone else had refilled the Fleet coffee urn. Nobody discussed either.
+Vorin flicked a packet into the confirmed pile. Walsh's notebook scratched. Senka had her coat open and half an ear on SSD. Rowan was a hard face on the Helion channel, already mid-sentence about a schedule slip nobody in the room had finished hearing. Vex sat in yesterday's chair with yesterday's untouched tea. The traffic wall was lit and ugly and moving.
 
-Park had brought a *Kestrel* mug anyway. He set it beside the lexicon board and turned it so the label faced the bulkhead, away from Calder.
+Calder sat. Thessaly did not greet him. She slid a slate under his hand.
 
-Calder noticed. Again. The deliberate wrong side. He did not ask.
+"You are grinding your teeth," she said.
 
-Calder stood where he could see both tables. Vex sat across from him with a Dominion cup of tea set aside and untouched. Senka kept her coat open and her attention on the political seams. Orlen and Vorin held the lexicon boards. Rowan was remote from Helion, present enough to veto and distant enough that every pause carried extra weight..
+"I am listening."
 
-"Confirm authority," Rowan said.
+"Listen quieter."
 
-"Fleet field judgment remains with Captain Venn," Calder said. "Procedure with Commander Thessaly. Lexicon with Park under joint custody."
+On the traffic wall, amber blinked — a Fleet survey craft had tagged a Dominion border watch as *unresolved mass*. Park and Vorin were already on it before Calder finished reading. Park spoke the reclassification. Vorin confirmed. The line went quiet. Nobody announced success. The next packet was already waiting.
 
-"Civil Government provisional authority remains with me," Senka said. "Science Directorate method with Orlen and Vorin. Commander Vex is authorized for military border geometry relevant to current observation. Strategic Security retains review on depth."
+Kevin came through with a tray, set warm cheese rolls and dried apricots between Park and Orlen's slate war, refilled a thermos Calder did not remember asking for, and was gone before anyone thanked him. Walsh took an apricot without looking up. Vex did not touch the tray.
 
-Vex inclined his head once. "Understood."
+Brenner's head appeared in the hatch. Grease on one knuckle.
 
-They ran the walk-out drill first. Fleet suspend. Dominion acknowledge. Stop. Reverse. Vex performed his half without impatience. Calder noticed again that the man treated drills as structure, not humiliation. Thessaly marked both completions and only then allowed the first live product onto the shared path.
+"Am I needed."
 
-"Open the joint status board," she said.
+"No," Thessaly said.
 
-Park keyed the Fleet render. Vorin keyed the Dominion mirror. The wall display showed a hybrid that looked ugly and worked: urgency on top, provenance underneath, expanding-pressure flag as a separate strip, missing-return and unresolved-mass headers waiting like unused tools. Cooperative warning posture sat at the bottom with the footnote both sides hated: *does not constitute alliance, mutual defense, or shared command*.
+"Good."
 
-"Ugly is fine," Orlen said. "Ugly that means the same thing on both sides is better."
+He left. Came back two seconds later, stared at the tray.
 
-They started with a corrected signal classification. A Fleet survey craft on the outer corridor had tagged a Dominion border watch return as *unresolved mass* the night before because the craft's software still preferred that noun when identification packets arrived late. Park and Vorin walked the correction aloud, term by term, the way they had rebuilt the substitution table after Session One's near-miss.
+"Kevin — are we really out of buns."
 
-"Spoken confirmation," Park said. "Fleet survey *Ardent Measure* reclassifies contact D-Watch Seven as identified Dominion border watch. Posture: standard watch. Header: routine. Expanding-pressure flag: off."
+Kevin's voice answered from the corridor, already distant. "Oven. Or Helion. Unclear."
 
-Vorin answered in Dominion, then in the shared strip. "Confirmed. Provenance: Science Directorate method, SSD review hold none. Spoken match accepted."
+"First time," Brenner muttered, took a cheese roll anyway, and was gone again.
 
-The board updated. No software invention. No soft synonym. The correction stuck.
+Rowan cut through the channel. "If you are finished eating, the missing-return path is still on my list from yesterday."
 
-A Fleet Intelligence note on Rowan's channel arrived fast enough to be irritation rather than analysis. "That is a usable shared product. Usable means portable. Portable means political."
+"Running it," Thessaly said. She killed one bad phrase mid-draft. Park cut a synonym that turned *observe* into *interdict*. The amber line lit, carried the source, closed. Calder watched freighters stay on their routes outside and felt the traffic settle under his hands like a tool, not a speech. He did not confuse that for trusting the people across the table.
 
-"Everything useful is radioactive," Rowan said. "Continue."
+"Leave it open," Thessaly said. "Live traffic. Next."
 
-They ran a corridor discipline note next. Not ownership language. Not survey authority. A practical notice both sides could post without claiming the Neutral Zone as anyone's yard: two freighters had drifted inside each other's approved separation windows after a weather diversion. Fleet wanted the notice labeled *traffic correction*. Dominion wanted *inherited route discipline*. Park and Orlen built a compromise that named the action and refused the ownership claim.
+Vex had pulled the afternoon itinerary onto his secondary while the missing-return ran. He tapped a line with one finger.
 
-"Shared notice," Thessaly said. "Restore approved separation. No escalation. No illumination. Confirm spoken."
+"Founders' Reach?"
 
-Calder spoke the Fleet line. Vex spoke the Dominion line. Both matched. The notice went live on the joint board and out to the two watch vessels already holding station outside the viewports.
+"Quiet farming colony. Segment 6. Two days out. We planned to take a small delegation once the talks settled." Calder kept his eyes on the shared display. "If today stays quiet, we still clear the departure."
 
-Park felt something in his shoulders loosen that had not loosened since the Session One near-miss. The channel was carrying work. Real work. The kind that kept freighters from becoming incidents and incidents from becoming speeches.
+"Next packet," Thessaly said.
 
-"It functions," he said, quieter than he meant to.
+A late courier cleared. Park and Vorin walked a separation notice through both sides without raising their voices. Senka let an SSD objection die unanswered. Rowan said something about capitals and schedules that nobody fully answered. Walsh scratched one note and kept writing. Kevin's thermos cooled on the table. Nobody returned to the itinerary.
 
-Orlen did not smile. "Function is not safety. It is only function."
+Park spoke without looking up, almost to the lexicon.
 
-"I know," Park said. "I am allowed to notice when the board stops lying by accident."
+"Reachroot."
 
-Senka watched the notice travel and did not look pleased. "SSD will call this overshare."
+Orlen glanced over. "What."
 
-"FIB will call it under-control," Rowan said. "Both will be wrong in useful ways. The question is whether the product survives their dislike."
+"Best stew in Segment Six," Park said. Still writing. "Roast it with salt. School kitchen."
 
-An SSD voice arrived on Senka's channel long enough to object that usable shared vocabulary created contamination risk. Senka did not mute it. She let the room hear the objection and then answered it in the open.
+Vorin did not stop sorting. "Freighter crew mentioned it. Not a brief."
 
-"Contamination risk is real," she said. "So is collision risk. We are choosing which risk we can survive this week."
+"One of our agricultural analysts told me to try it if I ever got the chance," Vex said. He confirmed a packet and moved to the next. "Personal recommendation. Not doctrine."
 
-Thessaly marked the objection without elevating it into a veto. "Objection logged. Product remains live. Next item."
+Park's ears went slightly pink. He turned the mug another inch and said nothing else.
 
-Vex looked at Calder across the tables. "Your people will ask what else we can share now that the first share worked."
+"We are not scheduling a colony tour while traffic is live," Thessaly said. "Park — keep the packets moving."
 
-"Yours will ask what Fleet will invent from the success," Calder said.
+"Moving," Park said.
 
-"Yes," Vex said.
+Holt chimed on his private line, low. "Survey window still open. New Meridian bounced the Founders' Reach school building request. Automated. No human."
 
-They tested the missing-return header with a drill packet: a fictional Dominion freighter overdue by six hours on a sanitized route that did not reveal depth. Fleet practiced receiving it without converting absence into invasion language. Dominion practiced sending it without converting Fleet questions into inventory reconstruction. Thessaly killed two phrases before they hardened. Park killed one soft synonym that turned *observe* into *interdict* under stress. Vorin killed a Dominion inheritance clause that turned *adjacent warning* into *forward watch under our direction*.
+Park answered without asking Calder. "Hold both."
 
-"Again," Thessaly said.
+"Holding," Holt said, and left them to it.
 
-They ran it clean on the third try. The missing-return header lit amber, carried provenance, denied alliance meaning in the footnote, and closed under dual consent without anyone walking out.
-
-Rowan's voice from Helion was dry. "Council will not like how quickly this became useful."
-
-"Council prefers theater they can dismiss," Calder said. "Useful products are harder to call theater."
-
-"That is why they are dangerous," Senka said. "Dangerous and necessary are not opposite."
-
-Calder felt the brief satisfaction arrive and refused to trust it. He had always wanted more confirmation before moving ships. The joint board on the wall was the first proof that a warning could still travel before certainty arrived. That was progress. It was also a tempo problem he had not yet named.
-
-He thought of the Segment status board in the annex from the night before, quiet labels sitting where quiet labels always sat, and of Thessaly saying Council would not start early warning coverage with the lowest strategic value. Productive instruments still had to choose where to look. Looking was politics dressed as logistics.
-
-Vex did not celebrate. He watched the board the way a watch officer watches a plot that has finally begun to behave. "Your survey editions will still want the Peligar advance to sit still while they chart it."
-
-"They will," Calder said. "This room does not get to grant them that."
-
-"Good," Vex said.
-
-They ran one more live product before calling the drill complete: a joint status exchange between the Dominion border watch outside and a Fleet packet runner waiting for clearance. Position, posture, no threat language, spoken confirmation on both sides. The runner's junior officer nearly used *neighbor* out of habit. Park caught it before it traveled and substituted *contacting party*. Orlen nodded once. The exchange closed clean.
-
-"That almost became yesterday," Park said.
-
-"Almost is why we stay in the room," Vorin said.
-
-Thessaly checked faces the way she checked crew lists. Calder was holding satisfaction at arm's length. Vex was holding vindication just as carefully. Senka looked like a woman calculating how many political knives the morning's success would draw. Rowan, remote, had gone quiet in the particular way that meant Helion was already drafting objections to usefulness.
-
-"One more," Thessaly said. "Unresolved-mass header. Short. Live if we have one, drill if we do not."
-
-They had one. A Fleet fringe return from the night watch that had refused ship class and then gone below threshold. Park and Vorin walked it onto the shared strip without inventing hostility. Urgency routine. Provenance Fleet passive. Expanding-pressure flag off pending pattern correlation. Spoken confirmation both sides. The header stuck without anyone converting uncertainty into a gun.
-
-"That is four usable products in one morning," Thessaly said. "Corrected classification, corridor discipline notice, joint status exchange, unresolved-mass handling. Missing-return path proven under drill. Hold the board open for live traffic."
-
-Park logged the session products under dual custody: spoken confirmation chain intact, lexicon drift none, SSD and FIB objections visible in the shared log. Orlen mirrored the Dominion copy. Vorin wrote the protest notes SSD would demand even for success. Thessaly marked Session Three as productive under provisional instruments.
-
-Calder allowed himself one private admission and kept it off the record. The room worked. Not as friendship. As procedure under pressure. For the first time since Contact Node Seven had bolted tables down for politics, he could imagine a warning traveling fast enough to matter.
-
-Outside the sealed viewports, Contact Node Seven's corridor traffic kept moving. Inside, tea and coffee stayed on the tables. The dual-consent recorder held the first exchanges that professionals on both sides could actually use.
-
-Calder looked at Vex and saw the same recognition he had seen in Session Two: counterpart competence without civilizational trust. The channel worked. That still could not purchase belief between the empires behind them.
-
-"If a real missing return arrives," Thessaly said, "we use the path we just proved."
-
-"Accepted," Senka said.
-
-"Accepted," Rowan said.
-
-Nobody said the word *trust*.
-
----
-***FOUNDERS' REACH — ADMINISTRATIVE RELAY***
-*SEGMENT 6 / PATROL CYCLE WINDOW*
-
-Relay Officer Den Voss had learned to treat quiet as a job, not a blessing.
-
-Founders' Reach did not generate the kind of traffic that made careers. It generated the kind that made empires continue: agricultural trial updates, processing-shed maintenance notices, birth registrations, petition reminders, and the eight-week patrol check-in that arrived like weather and left the same way. Voss sat in the administrative relay hut on the primary landmass and watched the status board do what quiet boards did. It stayed quiet.
-
-Outside his narrow viewport, the G-type sun put ordinary light on ordinary ground. Second-generation settlers had turned belief into soil management and soil management into pride. The secondary landmass held the agricultural trials: drought-resistant grain lines, root crops that disliked the local mineral profile and were being argued into liking it anyway. Near the settlement core, the shipping-container school still stood where temporary infrastructure had become permanent by neglect. Children went in every morning. The Senate petition for proper classrooms had been in queue long enough that local jokes had stopped being funny and become inventory.
-
-Voss's morning packet was ordinary.
-
-Agricultural trial lead: germination rates acceptable on plot three, plot five still stubborn.
-
-Processing shed: conveyor bearing replaced; output unchanged.
-
-School petition: reminder sent to Senate queue; acknowledgment automated; no human reply.
-
-Patrol packet: due inside the current cycle; *Ardent Measure* still listed as the Segment 6 rotating check-in, ETA not yet tight enough to worry anyone who liked worrying.
-
-Voss drank his coffee because it was there and because Fleet coffee was one of the few reliable imports the colony received without a petition. He did not measure the day by the cup. He measured it by the board and by the sound of the settlement waking: a ground hauler complaining on the east road, a teacher calling roll from the container doorway, someone arguing good-naturedly about irrigation timers.
-
-He sent the daily administrative summary up the relay chain to New Meridian with the same headers he always used. Routine. Civilian. Low strategic value. The last label was Fleet institutional language. Locals never said it aloud about themselves. They said *self-sufficient* and meant it as pride and complaint both.
-
-A message came back from New Meridian ops within the hour, the kind of tired competence empires ran on.
-
-*Segment 6 batch received. Petition reminder logged. Patrol packet still queued. Nothing elevated.*
-
-Voss acknowledged and went back to being the empire in miniature: one officer, one hut, one board that believed quiet labels meant quiet futures.
-
-At midmorning the school lead came by with a printed reminder she did not need to deliver in person and delivered anyway because people on Founders' Reach still believed face-to-face mattered.
-
-"Tell them the containers leak when the wind comes wrong," she said. "Tell them the children already know which seams fail. Tell them we are not asking for marble. We are asking for walls that hold weather."
-
-"I tell them every cycle," Voss said. "They send the automated acknowledgment every cycle."
-
-"Then tell them again," she said. "Belief outruns supply out here. That is not poetry. That is the maintenance schedule."
-
-She left. Voss put the reminder into the next packet because that was his job, and because he liked the school lead's refusal to become cynical in a useful way. Cynicism was easy on the frontier. Keeping the petition alive was work.
-
-A junior tech from the processing shed called in to report a vibration anomaly on the outer conveyor. Not dangerous. Just wrong enough to log. Voss logged it. The colony's small industry made fertilizer precursors and simple structural stock for local builds. Nothing strategic. Nothing that would make a Council map change color. Useful to the people who lived there. That had always been enough for Founders' Reach.
-
-Near midday, the agricultural trial lead sent a short note with a photograph of plot three: green in a way that made Voss briefly proud of a place that did not ask him for pride. He forwarded the note to New Meridian under *civilian texture / non-elevated*, which was Fleet's way of saying *people live here* without admitting that category should matter more than strategic value.
-
-The trial lead followed the note with a voice call, because some people still preferred hearing another person breathe on the line.
-
-"Plot five is sulking," she said. "We may need a different amendment mix. If the next supply run brings the wrong mineral package again, I will write a complaint with adjectives."
-
-"Write it anyway," Voss said. "Adjectives are free. Mineral packages are not."
-
-She laughed once and signed off. Voss put a supply note into the queue behind the school petition and tried not to notice how long both had been waiting for a human reply.
-
-In the afternoon a settler came by to register a birth. Second child. Local midwife. No complications. Voss took the registration with the care he gave every civil act that proved the colony was still making a future instead of only maintaining one. He stamped the packet, sent the copy up-chain, and told the father the child would be on the colony roll by evening.
-
-"Will Fleet notice," the father asked, half joking.
-
-"Fleet will notice the number," Voss said. "Whether anyone reads past the number is a different question."
-
-The father left with the kind of shrug frontiers taught people early.
-
-Later, Voss walked the short path from the hut to the processing shed because the junior tech had asked him to look at the conveyor with his own eyes. The shed smelled like metal and fertilizer precursor. Output boards showed steady numbers. The repaired bearing hummed in a way that meant someone had done competent work with limited parts. A woman on the line waved without stopping her station. Voss waved back. That was the whole conversation, and it was enough.
-
-On the way back he passed the container school during afternoon lessons. Through an open seam he heard a teacher explaining orbital mechanics with a chalk diagram on a recycled panel. The children asked better questions than most Senate clerks. One of them wanted to know why Founders' Reach did not have a proper beacon array yet. The teacher said, "Because we are still on the petition list," without bitterness sharp enough to cut the lesson, and moved on to the next equation.
-
-Voss returned to the hut and added a note to the next administrative summary: *beacon array petition remains active; school infrastructure petition remains active; colony continues local instruction under temporary structures.* He knew New Meridian would queue it. He knew Helion would not read it today. He sent it anyway.
-
-The status board remained quiet.
-
-Patrol check-in still due.
-
-School petition still waiting.
-
-Founders' Reach continued being what it had been for twenty years: charted, civilian, ordinary, self-sufficient enough to be ignored, proud enough to keep sending people into Fleet. Two of last year's volunteers were already in Academy training. One had written home that Segment 6 looked different from orbit than it felt underfoot. Voss had pinned the letter to the hut wall because ordinary letters were better wallpaper than strategic-value summaries.
-
-He updated the colony summary line the way he always did, with the details that made the place real to anyone who bothered to read past the label.
-
-Agricultural trials on the secondary landmass.
-
-Small processing industry.
-
-One administrative relay officer.
-
-Eight-week patrol rhythm.
-
-Shipping-container classrooms still temporary by paperwork and permanent by weather.
-
-He sent the update.
-
-Somewhere up the chain, a clerk would queue it with other Segment 6 paperwork and complain about batch timing. Somewhere farther up, an officer would glance at Founders' Reach while thinking about denser traffic and louder politics. That was how quiet places stayed quiet on boards until they were not.
-
-Voss did not invent significance for the quiet. He only kept the watch.
-
-Outside the hut, children left the container school for midday break. Someone laughed. A ground hauler turned toward the processing shed. The G-type sun kept doing what G-type suns did.
-
-Late in the local afternoon he sent one more routine packet: weather nominal, processing output steady, no elevated medical, no missing persons, no traffic incidents. The kind of sentence that meant a civilization was working.
-
-The relay board held.
+Calder looked across at Vex once. Vex was watching traffic, not Calder. The next packet arrived anyway.
 
 ---
 ***CONTACT NODE SEVEN — PROTOCOL ROOM***
-*LIVE TRAFFIC / JOINT BOARD OPEN*
+*INTERFACE*
 
-The first real missing return did not arrive as a drill.
+They were midway through another status exchange when Rowan came back hard.
 
-Park saw it land on the joint board while Orlen was mid-sentence about provenance markers for a routine border watch update. The header came up amber under the format they had proven an hour earlier: *missing return*, urgency elevated, provenance Dominion watch product sanitized for shared exchange, expanding-pressure flag on.
+"Helion and Civil Government have reached a decision," he said.
 
-Vorin's hand stopped over his board.
+Senka's slate lit. She read it once, then again, and for half a second her face opened — almost pleasure, almost relief. "Civil Government concurs. SSD protest attached." She did not mute the protest channel. The room heard enough to know it was loud. "Dislike is not a veto. We proceed."
 
-"Spoken confirmation," Thessaly said at once. "No software render alone."
+"Fleet concurs," Rowan said. "Interface is approved. Fast-tracked. One construction yard both sides can work in — neither side owns it alone. One operations floor where both navies see the same traffic and take turns in the chair. Survey stays live."
 
-Vex read the Dominion line aloud. His voice did not change. The content did. "Dominion border watch reports loss of scheduled packet from Fleet-side Segment approach corridor adjacent to our current observation. System label on Fleet charts: Founders' Reach. Last routine administrative summary received on schedule. Subsequent check-in overdue inside the current patrol window. Processing signature indicators elevated on Dominion long-watch returns. Sanitized. Strategic charts withheld."
+Park's hands went still on the lexicon. Orlen looked at him and almost smiled. Calder let himself be glad for one breath. The station was real.
 
-Calder felt the room tilt without moving.
+Vex picked up his tea and drank. One swallow. He looked at the authorization on the wall for a second longer than traffic required.
 
-Founders' Reach.
+"I did not think they would actually do it," he said.
 
-The place from the Segment status board the night before. Agricultural trials. Container school. The place Thessaly had said Council would not cover first.
+"Neither did I," Calder said.
 
-"Fleet confirmation," Rowan said, sharper now. "Do we have independent return."
+Then the room moved again.
 
-Park was already pulling Segment 6 traffic. "New Meridian relay shows Founders' Reach daily summary received this morning local. After that: silence. Patrol packet still queued. No distress header. No kinetic alarm. No battle declaration. Just absence."
+Brenner was already in the hatch, grease on one knuckle, grinning like a man who had been handed a coupler instead of a speech. Koss behind him with her tablet. Halden from the corridor with Walsh — notebook open before anyone said her name.
 
-"Absence is not proof," a Fleet Intelligence voice said on Rowan's channel. "Dominion could be staging a demonstration against our quiet colony to force the instruments."
+"About damn time," Brenner said.
 
-Senka's face went hard. "We do not burn civilian systems to win arguments in rooms."
+"Language," Thessaly said — but she was smiling too, brief and real. Then the smile went away. She looked at Rowan and waited.
 
-"You have burned systems for continuity before," the Intelligence voice said.
+"I spoke with two of your officers before we opened this morning," Rowan said. "Both accepted new billets. Effective now."
 
-"Not this way," Vex said, and for the first time that session his restraint sounded expensive. "Look at the signature class before you invent a false flag that flatters your suspicion."
+He let the pause sit.
 
-Thessaly put both palms on the table. "Separate the questions. One: is Founders' Reach answering. Two: what do sensors show. Three: what language we are allowed to use before we have certified intent. Park, open Fleet passive returns if any Segment asset has line."
+"Lieutenant Commander Koss is promoted to Commander. She runs Construction and Integration for Interface. The yard is hers to build."
 
-Park worked. Orlen worked beside him without needing to be asked. The joint board held the Dominion warning and waited for Fleet to either corroborate or contest.
+Koss nodded once. "I need access on both sides of the yard to do that."
 
-A Segment 6 patrol craft on a different bearing, not yet tasked for Founders' Reach, had been running a long passive sweep for traffic densification near New Meridian. Its overflow package contained a fringe anomaly on the Founders' Reach bearing: mass returns that would not settle into ship profiles, atmospheric gradient changes inconsistent with weather, orbital infrastructure returns thinning in a pattern that did not match battle debris.
+"You have it from Fleet," Rowan said.
 
-Park put the package on the wall under dual custody rules and spoke the header before anyone could decorate it.
+"And from Civil Government," Senka said. "I will name Dominion construction and security leads before the day ends. Same keys. Same floor. Different navy."
 
-"Fleet passive overflow from patrol craft *Harrow Line*," he said. "Founders' Reach bearing. Returns will not class as standard engagement. Atmospheric volatiles shifting. Orbital fixtures diminishing over tempo. No challenge traffic. No weapons illumination in Fleet spectra. Multi-vocal signal present at the audible fraction. Corrected category from prior work: speech structure, not distress. Meaning none."
+"Lieutenant Commander Halden is promoted to Commander. Security station is hers.  Walsh moves to Interface with her."
 
-The room heard the screaming fraction for three seconds before Orlen cut it.
+Halden almost smiled. "Good. Walsh already plans for how people break the rules. I need that."
 
-It was the same wrong intensity Park had lived with since the fringe intercept: layered, dissonant, structured. Work-speech if you refused the human analogy. Horror if you kept it.
+Walsh did not look up. "I draft the access list. Both sides will hate parts of it. That means it's working."
 
-"They're talking," Park said, not as discovery this time. As recognition that had arrived too late to help anyone on the ground.
+"Transfers start today," Senka said. "Fleet and Dominion both."
 
-"Translation," Rowan asked, because institutions asked even when science had already answered.
+A private note hit Calder's slate while the room was still moving — Rowan's channel, text only, no drama:
 
-"Impossible," Orlen said. "Still. Pattern only."
+*Sorry for pilfering your crew. They were already on-site, they know the situation, and that fits the criteria for expediency. It leaves you with holes. You are captain of the Veil — your call. Promote from within if you want; we will backfill. If you need external officers, tell me.*
 
-Vorin nodded once. "Work cadence in the harmonics. Not petition. Not pain broadcast as we understand pain. Continuity process language, if our older watches are right. We cannot prove the nouns. We can prove the behavior."
+Calder read it once. Did not answer yet. The holes were real. So was the apology.
 
-Calder stared at the joint board and felt productive success collapse into moral vertigo. The instruments worked. The warning path opened. The colony that needed the warning first was already inside the Peligar advance.
+Halden leaned over Walsh's sketch without touching it. "Choke points are right. Evacuation path needs a second route — people do not follow the painted lines when they panic."
 
-"Is it an attack," Thessaly asked, flat, forcing the word onto the table so it could be tested rather than assumed.
+Walsh changed a line. "Done."
 
-Ellis came on audio only, as if she had been waiting for that noun. "Do not lock *attack* without certified intent. Sensors are not giving you a battle narrative. They are giving you dismantling over tempo. Atmospheres, orbitals, infrastructure as feedstock. If you need a placeholder before doctrine finishes panicking, use *processing signature* and keep the argument visible."
+Park poured hot water. Orlen watched the steam.
 
-"Invasion language is what Council will hear," Rowan said.
+"Lexicon room when the walls exist," Park said.
 
-"Council can hear wrong," Ellis said. "Log the disagreement. Do not pretend the board agrees with the headline."
+"When the walls exist," Orlen said.
 
-A Fleet staff draft tried to put *hostile action against Fleet soil* into the shared strip. Park blocked it before it traveled.
+Koss was already leaving. "Brenner. With me. Before the yard sketch gets stupid."
 
-"Not certified," he said. "Shared strip takes observed behavior. People can argue theory on their own channels."
+They went. Halden marked Walsh's revision and headed for the survey corridor. Walsh stayed for the packet queue.
 
-Senka looked at Vex. "Confirm for Civil Government. Is Founders' Reach inside the continuity frontier your watches have been mapping."
+The shared display stayed open. Packets kept moving. Traffic did not care about promotions.
 
-Vex did not gloat. He did not soften it either. "Yes. The Peligar advance reached that system. Your quiet label did not move the resource graph. The graph does not read strategic value the way Fleet boards do."
+Calder met Vex's eyes across the table.
 
-Calder heard the industrial frame without accepting it as settled doctrine. He accepted the board in front of him. Founders' Reach had stopped answering. Dominion had warned. Fleet sensors were showing the wrong kind of confirmation.
+"If they put us on it," Calder said, low, "I will refuse."
 
-"Accident," a Council staffer tried on Rowan's secondary. "Industrial mishap. Local process failure. We have seen colonies go quiet for less."
+"Good," Vex said. "I will refuse first."
 
-"Show me a local process that dismantles orbitals on this gradient," Thessaly said. "Until then, accident is comfort, not analysis."
-
-"Task assets," Rowan said. "New Meridian to attempt contact. Nearest patrol to divert for observation only. No illumination unless local survival requires it. No entry language that implies we are opening a war we have not named."
-
-"And the joint board," Thessaly said.
-
-"Keeps carrying the warning," Rowan said. "If this is real, the instruments just stopped being optional."
-
-Park kept the shared strip updating as New Meridian's contact attempts failed one after another: relay query, no answer; administrative ping, no answer; emergency override attempt, no answer. Each failure traveled under the missing-return header with spoken confirmation. The channel that had felt like success an hour earlier now felt like a clean pipe carrying bad news at useful speed.
-
-Holt's line was still open, quieter than the room around it. She was the one routing New Meridian's attempts on the Fleet side, watching the same silence Park was watching from the other end of the chain.
-
-"Jun." Just his name, low, not for the record. "Nothing. I've tried every path New Meridian has. I don't have anything left to try."
-
-"I know," he said.
-
-"There are people on that rock."
-
-"I know," he said again, because it was the only honest answer and because he needed her to stay on the line more than he needed a better one.
-
-She didn't say anything else for a moment. He could hear her working anyway, boards clicking somewhere behind her voice, refusing to let the silence be the last thing either of them did about it.
-
-"I hate that this works," Park said, to the room now, not to her.
-
-"Hate it later," Orlen said. "Keep it honest now."
-
-Calder looked at Vex and found no victory there to resent. Only the same professional gravity he had measured in Session Two, now weighted with Fleet soil. Founders' Reach had answered by going silent.
-
-"Session Three is no longer a drill," Calder said.
-
-"No," Vex said.
+Thessaly did not comment. She put a new packet into the queue and they went back to work.
 
 ---
-***SEGMENT 6 — PATROL CRAFT HARROW LINE***
-*PASSIVE OBSERVATION / FOUNDERS' REACH BEARING*
+***KESTREL VEIL — CAPTAIN'S OFFICE***
+*LATER THAT MORNING*
 
-Lieutenant Sera Kade had wanted a quiet divert.
+The office had one visitor's chair. Calder had added nothing to it since he took command.
 
-*Harrow Line* was a small patrol craft with a crew that knew each other's sleep debts and coffee preferences and did not need speeches. When New Meridian ordered them onto the Founders' Reach bearing for observation only, Kade took the order as annoyance first and dread second. Founders' Reach was the kind of colony you checked because the schedule said so, not because anyone expected trouble.
+Thessaly had put vacancy billets on his desk before breakfast. He had looked at them for a while before he understood they were not going to fill themselves.
 
-The passive board disagreed.
+He told her he would talk to people. She had not said anything to that, which was its own kind of answer.
 
-Mass returns on the approach would not settle. Orbital fixtures that should have answered with navigation beacons answered with thinning geometry. The atmospheric envelope around the primary landmass showed gradients that weather did not write. Something was taking the system apart along useful lines: volatiles, metals, orbital stock, energy gradients. Not in a single dramatic strike. Over tempo. Continuous. Methodical.
+Brenner came through first — not as a candidate. The secondary coolant relay was reading thirty degrees warmer than its neighbor, and he wanted Calder to know it was the relay's problem, not the system's. He said this from the doorway. He also leaned across the desk without asking and adjusted the lid on the coffee urn, which had been sitting slightly crooked for three days.
 
-"If this is a battle," her sensor officer said, "it is the worst-managed battle I have ever watched."
+Calder had not noticed the lid. He filed that away.
 
-"It is not a battle," Kade said, and hated how sure she sounded before doctrine allowed surety. "Keep passive. No challenge. Log every return class that refuses to class."
+"The relay," Calder said.
 
-They held far enough out that *Harrow Line* was a witness, not a participant. That was the order. It was also the only honest posture available. The craft could not stop what the board was showing. It could only refuse to lie about it.
+"I'll have it pulled by 1600. Just telling you because Mehta flagged it first and I want her to know I saw it." Brenner glanced at the billets. He did not comment. "Anything you need from engineering before your afternoon?"
 
-On the audible fraction, the multi-vocal signal rose and fell in layered registers. The crew flinched the first time. The second time they listened harder, which was worse. It sounded like screaming if you needed it to be pain. It sounded like coordinated labor if you had been warned that human ears took the wrong slice of a wider channel.
+"No."
 
-"People," the helm officer said. "There are people down there."
-
-"Yes," Kade said.
-
-"Then what is this."
-
-Kade watched infrastructure diminish on the plot: a relay mast signature failing, an orbital shed return collapsing into feedstock geometry, atmospheric scrape increasing along a curve that made her stomach go cold. The system was being processed. The word arrived from the joint warning headers already circulating through New Meridian and Contact Node Seven. She did not like it. She could not find a better one that matched the sensors.
-
-"They are not hunting the colony," the sensor officer said slowly. "They are taking the system. The colony is in the way."
-
-Nobody answered that for a long time.
-
-A secondary landmass return that had matched agricultural settlement density an hour earlier began to lose structure in the same gradient pattern. Not fire. Not cratering. Removal. The board made people into a category problem: present, then obstacle-shaped, then absent from the useful graph.
-
-"Do not put that in poetry," Kade said when the sensor officer started drafting the packet. "Put the gradients. Put the missing beacons. Put the speech structure without claiming meaning."
-
-"Aye."
-
-The multi-vocal signal shifted register. Not louder in a human sense. Denser. As if more speakers had entered a work channel humans could only hear as overlapping strain. The sensor officer marked latency clusters and refused to call them casualties. Kade approved the refusal. The moment they named pain they would stop seeing process, and process was what the board was insisting on.
-
-"Any weapons signature," the helm officer asked.
-
-"None that Fleet tables recognize," the sensor officer said. "If this is war, it is war that skipped the part where anyone announces a war."
-
-Kade thought of First Doctrine briefs she had sat through at Academy: confirmed intent, correlated returns, certified hostility. The plot in front of her had correlated returns. It did not have intent in any language a human court would accept. It had resource behavior. Atmospheres scraped. Orbitals dismantled. Infrastructure sorted into feedstock. A G-type system being read as inventory.
-
-She sent the observation package up the chain under the new shared headers because the order said to use them, and because the old Fleet headers wanted *attack* the way a hand wants a familiar tool. She spoke the confirmation aloud into the packet so no software could invent kindness or war.
-
-"Founders' Reach bearing. Processing signature elevated. No Fleet challenge response from colony relay. No battle illumination. Orbital and atmospheric dismantling over tempo. Multi-vocal signal present. Category: speech structure, meaning unresolved. People remain obstacles in the observed behavior. End."
-
-She stopped recording and sat with her hands still on the console.
-
-On the board, Founders' Reach continued ceasing to be a place in the ordinary sense. Not all at once. Not as spectacle. As industrial ecology written across a G-type system that had believed, for twenty years, that self-sufficiency was a kind of safety.
-
-Kade thought of the school petition joke she had heard once from a New Meridian clerk: *containers forever, marble never*. She did not put the joke in the packet. She put the absence there instead.
-
-The helm officer asked, quietly, whether they should illuminate one active scan for a clearer count of what remained.
-
-"No," Kade said. "Standing orders hold. We are not lighting a corridor for something that is already working. Watch and report. If anyone asks what we saw, we say exactly what the board says. No more."
-
-*Harrow Line* held.
-
-The signal continued.
-
-The colony did not answer.
-
-Somewhere behind them, New Meridian's ops channel filled with clerks who had queued Founders' Reach paperwork that morning and did not yet know the queue had become archaeology. Kade did not listen long. She kept her eyes on the plot and her craft on the observation line.
-
-The work of witnessing continued.
+Brenner left. The lid sat correctly.
 
 ---
-***CONTACT NODE SEVEN — PROTOCOL ROOM / HELION RELAY***
-*INSTITUTIONAL RECEIPT*
 
-The proof arrived in layers.
+Lieutenant JG Solis arrived from Survey Detachment Seven on a Fleet recommendation — Rowan's. Twenty minutes of regulation answers. He used *initiative* once and *proactive* once. Calder marked both and wrote: *Qualified. Answers the question asked.*
 
-First the joint board. Then New Meridian's failed contact attempts. Then *Harrow Line*'s observation package under the headers Session Three had made usable. Then the Segment status board in the Fleet operations annex, where Founders' Reach changed from quiet label to missing return while a clerk who had complained about paperwork batches that morning stood very still and stopped complaining.
+He set the file aside. He was not finished with it.
 
-Calder stayed in the protocol room because leaving would have been theater. Thessaly kept procedure standing when categories fell over. Park kept the shared strip honest while people around him reached for nouns that would make Council feel less helpless. Vex stood with his hands behind his back and took the confirmation the way a professional takes a forecast that has come true on schedule and still feels like failure.
+Marcus Hale arrived at the exact scheduled time. He stopped outside the hatchway for about fifteen seconds before coming in.
 
-Rowan's channel from Helion filled with other voices. Council panic set in, in the bureaucratic sense: competing briefings, classification fights, demands for public language and demands for silence, First Doctrine officers insisting on confirmation standards that the colony no longer existed to satisfy.
+Calder had left the hatch open deliberately. He watched Hale's eyes move through the corridor angle, settle on both ends, and then come to rest on Calder before his body crossed the threshold. It was the same pattern Hale ran in every new room — Calder had seen it for two years without putting a name to it until now.
 
-"Is the colony gone," a Council staffer asked, wanting a number, a map color, a sentence that could be read aloud.
+Hale sat down, said nothing, and waited.
 
-"The colony has stopped answering," Rowan said. "Sensors show processing in progress. Do not lock casualty figures you do not have. Do not invent a battle count to make the horror measurable."
+"Walk me through the approach plot at Segment 4," Calder said. "Reyes calls one bearing. You read it differently. What do you do?"
 
-"Public will demand a number."
+Hale considered this with appropriate speed. "Log my reading. Tell you. Tell you I told you."
 
-"Public can demand. We will not invent."
+"You don't push back."
 
-Senka listened to Fleet panic with a Dominion expression that was not triumph. "Your warnings-were-theater faction just lost its cheapest argument."
+"I push back if the gap is large enough to matter. If it isn't, the log is the record." He paused. "Reyes is usually right about the geometry."
 
-"And gained a more expensive one," Rowan said. "That cooperation means dependence. Half my table will reject the instruments harder now because accepting them admits we needed you."
+"Usually."
 
-"That is stupid," Senka said.
+"Nobody's always right. That's why there's a log."
 
-"It is institutional," Rowan said. "Often the same thing under pressure."
+Calder wrote one word on the file. *Practical.*
 
-Vex looked at Calder. "You asked whether the Peligar advance was real enough to move ships for. It is real enough to erase a colony while we finished writing the warning format."
+During the conversation, Hale's eyes had moved twice to the corner of the desk — a scan, not a stare. He was tracking the urn, the coffee ring on the surface beneath it, the way the billet sheets were sorted. When he stood to leave, he turned the chair back to its exact original angle without looking at it.
 
-Calder did not look away. "I know."
+Calder wrote a second word. *Good.*
 
-"Do not apologize to me," Vex said. "Apologies are not the currency. Necessity is. Your soil is inside the pattern. Ours has been for years. The graph does not care which table feels insulted."
+Cole he did not interview. He already knew what she sounded like at a relay console at 0400. That conversation could wait until he had something real to offer.
 
-Park's hands were steady on the lexicon board and his voice was not quite. "The channel worked. We corrected headers. We posted a usable notice. We drilled the missing-return path. And the place that needed the product first was already being taken apart while we congratulated function."
+---
 
-Orlen set her pen down. "My instructor used to say that a corrected instrument arrives on the schedule of the living, not the dead. He was talking about flood gauges. It applies."
+He spent a while alone after that. The ship ran underneath him — low-frequency, familiar. He had stopped noticing it two months into command. He noticed it again now.
 
-Vorin wrote the Dominion institutional receipt in a hand neat enough for archives: Fleet colony Founders' Reach inside continuity pressure; processing signature corroborated by Fleet passive observation; shared warning path exercised under live conditions; translation of Peligar channel still impossible; strategic charts still withheld; Civil Government notes necessity without granting Fleet kinship language.
+The urn had a serial number on the bottom. Below the number, in permanent marker, someone had written: *STILL WORKS.*
 
-Senka read it and did not soften a line. "We will not gloat. We will also not pretend this makes us friends. It makes us adjacent under the same pressure."
+He had no idea whose handwriting that was.
 
-Ellis returned long enough to kill one more headline.
+He put it down and called Thessaly in.
 
-"Strike *genocide* from the Fleet draft circulating on Rowan's secondary," she said. "The word may become accurate later in the moral sense. Right now it smuggles intent you have not certified and turns industrial behavior into a cartoon. Prefer *system processing* and *civilian loss under extraction tempo* until the survey of what remains can speak."
+---
 
-"Struck," Thessaly said.
+She closed the hatch behind her and took the visitor's chair. Outside, traffic kept moving. In here, for a few minutes, it did not.
 
-A Fleet Intelligence voice tried one last false-flag theory. Rowan shut it down with institutional patience that had finally run out of patience.
+He set the billets between them.
 
-"Theories that require Dominion to destroy a Fleet colony to win a protocol argument are now more expensive than the data," Rowan said. "We can hate dependence and still read a board. Founders' Reach is proof. Treat it as proof."
-
-A Council logistics voice asked whether Segment 6 patrols should be pulled inward to denser traffic hubs. Another asked whether Founders' Reach should be listed as lost before survey confirmed residual structure. Rowan killed both.
-
-"We do not abandon coverage to protect our feelings," Rowan said. "We do not declare final loss to satisfy a briefing clock. Survey first. Language second. Panic last, and only in rooms that can be sealed."
-
-Thessaly cut the remaining arguments into executable remainder.
-
-"Depth maps remain out of scope unless dual-authorized later," she said. "Public framing remains classified until Council revisits. Shared warning instruments remain active. Observation assets hold. No alliance language. No mutual defense phrasing. Necessity does not equal trust. Say that plainly so nobody smuggles friendship into the panic."
-
-Park looked at Orlen across the lexicon boards. "Peligar still untranslatable."
-
-"Yes," Orlen said.
-
-"And the channel between us works."
+"Brenner for Koss," she said. "Obvious."
 
 "Yes."
 
-"That combination is going to sit in my head for a long time."
+"Engineering will open seats under him. Temporary gaps while people step up. Fleet will send bodies. That is ordinary."
 
-"It should," Orlen said. "Survivor's guilt for successful meetings is still guilt. Do the work anyway."
+"Noted."
 
-Calder heard his own observation ethics confront a tempo that would not wait. He had wanted more time to confirm, more editions, more careful nouns. Founders' Reach had not been a placeholder on a map. It had been agricultural trials and a container school and an officer named Voss whose morning packet had been ordinary. The productive exchange had arrived as the colony died. That was not irony for speeches. That was the Act ending condition in the only language institutions understood: proof.
+"Hale for Halden."
 
-"Admiral," Calder said. "Field recommendation. Treat Dominion expanding-pressure warnings as operationally genuine under dual veto. Keep suspicion on depth and motive. Remove theater as an allowable dismissal for Segment exposure. Start coverage where quiet labels live, not only where politics are loud."
+"Yes."
 
-Rowan was silent long enough for lag to feel like judgment. Then he answered.
+"Halden was Lieutenant Commander. Hale is Petty Officer Second Class. That is a long jump."
 
-"Accepted as provisional doctrine guidance for my channel. Council will fight it. Let them fight it with Founders' Reach on the board. Trust has not begun. Necessity has."
+"Noted," Calder said. "We move him up one. Petty Officer First Class. He can earn more."
 
-Senka exhaled once. "Civil Government concurs on necessity. SSD will concur under protest. That is as close as we come to agreement today."
+She accepted that without further comment.
 
-Vex did not smile. "No hatred is required for this," he said, almost to himself, then louder for the room. "That is the part your people will resist longest. Hatred would be easier. Hatred ends. This continues because it does not know it should stop."
+"Cole goes to Interface. Park stays. Her seat stays open."
 
-He did not expand it into a sermon. Calder heard the seed and left it as seed. The room could not hold more theology than the board already held.
+"Park can carry it," Calder said. "For now."
 
-On the joint status display, the Founders' Reach missing-return header stayed amber. The expanding-pressure strip stayed on. The alliance-denial footnote remained in place like a guardrail nobody loved and everybody needed.
-
-Outside, Contact Node Seven's traffic continued. Freighters on approved routes. A Dominion border watch holding station. A Fleet runner waiting for clearance. Ordinary civilization beside a board that had just stopped allowing ordinary comfort.
-
-Thessaly sealed the institutional receipt packet for dual custody. Park and Orlen locked the live products. Vorin finished the protest notes. Rowan dropped from lag with orders to keep adjectives fewer and facts harder. Senka remained standing because sitting would have looked like rest.
-
-Proof had landed.
-
-Trust had not.
-
----
-***CONTACT NODE SEVEN — PROTOCOL ROOM***
-*AFTER*
-
-The room went quiet.
-
-Someone had left tea on the Dominion table and coffee on the Fleet side. Nobody finished either. Nobody used the cups to measure anything. The dual-consent recorder was still live because closing it required dual consent, and for a stretch of minutes neither side could find a sentence worth sealing.
-
-Calder stood at the wall display and looked at the joint board they had built to carry warnings between civilizations that did not trust each other. It had carried one. The warning had been real. The colony had not been saved by the success.
-
-Thessaly stayed at the procedure end of the table, holding the room together by refusing to let it become a wake. "We keep the board open. We keep spoken confirmation. We do not invent comfort language for Council. When survey assets can see what remains of Founders' Reach, we will argue about names for what was done. Not before."
-
-Park sat with his slate dark under his hand. "I keep thinking about the drill. How clean it ran. How proud I was for about twenty minutes that the headers finally meant the same thing."
-
-"You should have been," Orlen said. "The instrument worked. The dead are not a verdict against the instrument. They are a verdict against time."
-
-Vorin packed nothing. He only watched the amber header as if staring could restore a check-in. "Old Commander Petran told my class that useful enemies are still enemies. He did not tell us what to call the thing that makes enemies stand in the same room and still fail the people outside it."
-
-Senka said, "Call it history. Then get back to work before history finishes the rest of the list."
-
-Vex came to stand near Calder without crossing into Fleet space. Counterpart distance. Professional gravity. No friendship comedy left in the air to spend.
-
-"Your colony," Vex said.
-
-"Yes," Calder said.
-
-"We did not want this proof."
+"Fleet will start assigning people to this hull," Thessaly said. "Once the holes show on a roster, someone in Rowan's office fills them for you. If you wait too long, you inherit their choices."
 
 "I know."
 
-"You will be asked whether you trust us now."
+She picked up Walsh's sheet. "You are not looking for another Walsh."
 
-Calder shook his head once. "I will be asked whether we need you now. Those are different questions. I can answer the second."
+"No."
 
-Vex accepted that the way he accepted hard plots. "Necessity without trust is an ugly operating condition."
+"Good. Build the crew this ship needs now. Not the one it had yesterday."
 
-"It is the one we have," Calder said.
+Calder looked at Solis's file. Regulation answers. Clean hands. He would never straighten the urn lid.
 
-They stood with nothing useful left to say.
+"I don't want him."
 
-Thessaly watched them from the procedure end of the table and did not interrupt. She made a short note for the next session agenda: survey authorization, residual assessment language, Segment coverage review. No memorial phrasing. That belonged to other rooms.
+"I do," Thessaly said. "He reports to me. Cargo, access, crew systems with Okwelu — the work Walsh actually did. He answers the question asked. That is a starting point. If he cannot learn the ship, I send him back."
 
-Park keyed a final spoken line into the open board because silence alone could become invention if left unsupervised.
+A pause.
 
-"Contact Node Seven joint status. Founders' Reach missing return remains open. Processing signature corroborated. Shared warning instruments remain active under provisional limits. No alliance language. No trust declared. Necessity noted. Awaiting survey authorization for residual assessment."
+"I trust my officers," Calder said. "This is your department. Your call."
 
-Orlen confirmed the Dominion mirror. Thessaly marked the line complete.
+Thessaly nodded once. "Solis it is."
 
-Rowan's channel stayed dark. Helion was already fighting other rooms.
+They sat with that for a moment. The coffee ring under the urn. The billets. The quiet.
 
-Calder looked once more at the amber header that had been a quiet label on a Segment board the night before. Agricultural trials. Container school. Eight-week rhythm. A place that existed because people had believed a frontier could be lived in without becoming a speech.
+"Have you ever wanted your own command?" Calder asked.
 
-He did not underline the name. He did not need to.
+Thessaly did not look surprised. "Once."
 
-"Commander," he said to Vex.
+A pause.
 
-"Captain," Vex said.
+"Not anymore."
 
-That was all.
+He waited.
 
-Thessaly shut nothing down that still needed to run. The board stayed open. The recorder waited for a closing consent neither side offered yet. Outside the viewports, corridor traffic kept moving.
+"Some people command ships," she said. "Some people make captains. I already know which one I am."
 
-Trust had not begun.
+Calder looked at the open billets. Missing people. Then, slowly, rooms that still needed the right ones.
 
-Necessity had.
+"Don't replace people," Thessaly said. "Build the crew you need now."
+
+He closed the files.
+
+"Then we go to work," he said.
+
+---
+
+Brenner came in first. He sat down without being asked — unusual for him — and waited.
+
+Calder did not rush it. Brenner had kept the *Veil* running through work nobody wrote up: quiet failures caught early, systems that stayed alive because someone had already been there. He had earned the chair before the paperwork caught up.
+
+"I'm making it official," Calder said. "Chief Engineer. Your name on the billet, full authority, effective today. I am glad it is you. I am looking forward to what you do with it."
+
+Brenner looked at the billet sheet on the desk. He did not pick it up. "Mehta needs a raise."
+
+"That's a separate conversation."
+
+"I'm telling you now so you remember it was the first thing I said."
+
+"I'll remember."
+
+Brenner picked up the sheet, looked at it for about three seconds, and set it back down. "She flagged that relay this morning before I had coffee. I want her to have a title that matches what she actually does."
+
+"Write the request. I'll sign it."
+
+Brenner nodded once. He had no further questions about the promotion.
+
+On the way out he straightened the urn lid again, which had gone crooked sometime in the last hour. Calder watched him do it. He was reasonably sure Brenner did not know he was doing it.
+
+---
+
+Hale came in at the exact same time he had come in before — stopping outside the frame for a moment, eyes moving before his body did. Then he sat.
+
+Calder did not rush it. He had watched Hale work for two years: rooms read before they were entered, emitters checked when nobody had asked, workarounds named before they became permanent. Not Halden's habit of walking every worst case out loud. Quieter. Closer to the hardware.
+
+"Tactical and defensive systems lead," Calder said. "Principal advisor. Your name on the billet. I am glad it is you. I am looking forward to what you do with it."
+
+"Rank moves one step. Petty Officer First Class, effective today. Halden's billet was Lieutenant Commander. You are not jumping that gap in one morning. You can earn more."
+
+Hale nodded once. "Thank you, Captain. I won't let you down."
+
+"Anything you need from me before you take it?"
+
+"Maintenance window on the starboard sensor array. It's been running on a workaround since Segment 3. I want it clean before we go anywhere interesting."
+
+Calder made a note. "You'll have it."
+
+"Then I'm good," Hale said.
+
+---
+
+Solis arrived exactly on time. Sat straight. Hands still. Thessaly was already in the second chair.
+
+"Commander Thessaly will speak first," Calder said.
+
+Thessaly did not soften it. "Walsh handled ship security and access on this hull — cargo checks, hatch authority, overflow work nobody else had time for. She is gone to Interface. I need that seat filled by someone who can learn the ship fast and take an order without decorating it."
+
+Solis listened. He did not nod until she was finished.
+
+"There is more," Thessaly said. "Walsh also ran crew systems with Dr. Seru Okwelu — our Chief Medical Officer. Sleep schedules. Meal compliance. Exercise. Anything Okwelu puts on your duty roster, you enforce. You will work with her directly." A glance at Calder. "We have stubborn people on this ship. You will learn when to push and when to back off."
+
+Solis nodded once. "I have some stubborn people in my life too."
+
+Thessaly almost smiled. "One more thing. We are down crew. You will be asked to work outside your lane — communications, engineering overflow, whatever the watch needs. You take orders from me, from the doctor, and from Captain Venn, unless otherwise assigned."
+
+"I asked for you," she said. "You are qualified. Your record is clean. You answer the question asked. That is a starting point, not a finished officer. You report to me. You learn the corridors before you police them. If you cannot do the work, I send you back to Survey. Clear?"
+
+"Clear, Commander."
+
+Calder took the billet sheet. "Ship Security and Access. Lieutenant Junior Grade. Effective today, if you accept. You report to Commander Thessaly. On a hatch dispute between her and me, you take my order — and you tell her immediately after."
+
+"I accept, sir."
+
+No pause. No question about the yard that had just taken four people.
+
+"Anything you need before you start?" Calder asked.
+
+Solis considered this the way he considered every question — completely, and inside the boundaries of the question. "A current access map."
+
+"You'll have it," Thessaly said.
+
+"Yes, Commander."
+
+After they left, Calder sat with the file a moment longer. *Qualified. Answers the question asked.* Her department. Her call. That was the bargain.
+
+---
+
+Cole arrived without ceremony and sat like someone who had already decided to say yes and was waiting for the question.
+
+"Interface," Calder said. "Station relay. Primary Fleet side once the walls exist. Park stays on *Veil*."
+
+She was quiet for a moment. Not surprise — the kind of quiet that comes after a person has already been listening for the next job.
+
+"Park knows?" she asked.
+
+"Not yet. You can tell him if you want, before I do."
+
+She thought about this. "He's going to hate losing the second console," she said. "Then he's going to pretend he doesn't."
+
+"I know."
+
+"He'll want a handoff list."
+
+"I'd expect nothing less."
+
+Cole looked at the transfer sheet. "I can do this," she said. A fact she was sure of.
+
+"I know you can," Calder said. "That's why you're going."
+
+He paused.
+
+"We're keeping your seat open."
+
+She looked at him.
+
+"If Interface isn't where you belong — if you decide you want to come home —" A small shrug. "Say the word."
+
+No promises. No politics. Just a captain making it clear she was still part of the ship.
+
+Cole folded the sheet once and put it in her jacket pocket. "I'll remember that."
+
+"Good. Talk to Park tonight."
+
+"Yes, Captain."
+
+After she left, Calder sat for a minute with the empty office. People stepped up. One seat left open on purpose. One officer Thessaly had chosen. Engineering still had holes to fill later. The ship was the same ship. The crew had changed anyway.
+
+He thought about the handwriting on the urn.
+
+Then he went back to work.
+
+---
+***FOUNDERS' REACH — ADMINISTRATIVE RELAY***
+*SEGMENT 6*
+
+Relay Officer Merrin Cade treated quiet as a job, not a blessing.
+
+Founders' Reach made ordinary traffic: trial updates, shed notices, birth registrations, request reminders, the eight-week patrol check-in. Cade sat in the relay hut and watched the status display stay quiet. Outside, ordinary sun on ordinary ground. Agricultural trials on the secondary landmass. Near the settlement core, the container school still temporary on paper and permanent by weather. Children went in every morning.
+
+His morning packet was ordinary.
+
+Agricultural trial — plot three: germinating. Plot five: still stubborn, same mineral complaint as last cycle. Conveyor bearing replaced at the processing shed. School building request: automated acknowledgment, no human reply. Patrol still due inside the cycle.
+
+He drank Fleet coffee. He measured the day by the status display and by the settlement waking — hauler on the east road, roll call from a container doorway, someone loud about irrigation timers on the secondary landmass where the trial fields sat.
+
+He sent the summary to New Meridian. Routine. Locals said *self-sufficient* and meant pride and complaint both.
+
+Founders' Reach had one settlement core and one working bet. The core was containers, dust, and people who had stopped calling the school temporary. The bet was across the short causeway: trial plots cut into soil that did not forgive lazy mineral mixes. If the plots produced, the colony fed itself without waiting on New Meridian's adjectives. If they failed, the next winter got thin.
+
+*Segment 6 batch received. Nothing elevated.*
+
+The school lead came by in person anyway. She had dust on her boots and the patience of someone who had been asking for a proper school building for two years.
+
+"Tell them the containers leak when the wind comes too hard," she said. "Tell them we are not asking for marble. We are asking for walls that withstand weather."
+
+"I tell them every cycle," Cade said.
+
+"Then tell them again."
+
+He wrote it again. He had written it enough times that the sentence had worn a groove in his fingers. That did not make the walls withstand weather. It made the request accurate.
+
+He logged a conveyor vibration that was not dangerous, only irregular enough to note. A father registered a second child. Cade stamped it and told him Fleet would notice the number — whether anyone read past the number was another question.
+
+On break he walked to the shed, waved at a woman on the line, passed the school and heard a child ask why they still had no proper beacon array. *On the request list,* the teacher said, and moved on to fractions.
+
+Near the temporary school, two Academy volunteers from last year had left a chalk message on the container seam that weather had half erased: *SEGMENT 6 FEELS DIFFERENT UNDERFOOT.* Cade had never met them. He liked the line anyway. Orbit looked quiet. Ground told the truth.
+
+He stood a moment in the sun and watched the secondary landmass stay green. He liked this place. It needed walls that withstood weather and a patrol that showed up on schedule.
+
+At midday the galley served Reachroot stew — salt-roasted root from the school kitchen, the same crop the trial fields were trying to make reliable on open ground. Cade ate it standing, slate on the counter, answering a shed request for a spare bearing that did not exist in inventory. He promised to escalate. Escalation was a word that meant *I will write it again*.
+
+He sent the afternoon packet: weather nominal, processing steady, no elevated medical. The kind of sentence that meant a place was working.
+
+Outside, children laughed on break. A hauler turned toward the shed.
+
+Late afternoon, the trial lead came by with dirt under her nails and a grin she tried not to trust.
+
+"Plot three," she said. "Come see it."
+
+Plot three was the third trial strip on the secondary landmass — east of the irrigation ditch, west of the windbreak the settlers had planted two seasons back and still complained about. Reachroot, open soil, no greenhouse. Last cycle nothing came up. This cycle the mineral mix finally matched the dirt, or close enough — green shoots, and they stayed.
+
+Cade went. The walk took eight minutes across the causeway. Irrigation timers clicked. Someone shouted about a hose. The windbreak leaned the way tired trees lean. Plot three was a narrow rectangle of dark soil and a thin line of shoots — real leaves, not a hopeful stain on a report photo. He crouched without being asked. The trial lead crouched with him. Dirt under both their nails now.
+
+"Not a report," she said. "Real. Tell New Meridian before they decide we imagined it."
+
+He took a photo for the next packet even though he already had one from morning. Some days deserved two proofs.
+
+"Tell them," she said.
+
+"I tell them," Cade said.
+
+"Tell them we grow food here. Not footnotes."
+
+"I tell them that too."
+
+He walked back past the school as the afternoon class let out. A child ran into his hip, apologized without stopping, and kept running toward the east road as if the road owed her a race. Cade smiled despite himself. He sent one more note before the evening watch: *settlement active, school in session, plot three Reachroot confirmed above soil.*
+
+Contact Node came through on the Segment channel — Communications Officer Park, voice easy, working the visit for a party still two days out. Arrival window. School tour. Trial fields. Who walked where. Escort list. Cade had the school lead's name ready and the causeway timing halfway written when the channel held for his reply.
+
+---
+***CONTACT NODE SEVEN — PROTOCOL ROOM***
+*LIVE*
+
+Park was on the Segment channel with their Relay Officer, Merrin Cade — visit logistics for a party two days out, school tour, trial field walk, who walked where. The feed was tracking. Cade had been mid-answer on the school lead's name.
+
+Then nothing.
+
+Park waited. Ordinary lag. Two breaths.
+
+"Cade, Node Seven. Confirm arrival window."
+
+No reply.
+
+He checked the link. Status still green. No drop flag. No error cascade. No distress stamp.
+
+"Cade, Node Seven. Repeat — school tour, trial fields, escort list. Confirm."
+
+Nothing.
+
+He opened a fresh path to the same address. Same bearing. Same silence.
+
+Park's hand stopped on the console.
+
+Founders' Reach stopped answering.
+
+Nobody spoke.
+
+Park pulled Segment traffic and ran the path again. The shared display updated and showed nothing useful where the colony should have been. Calder watched it cycle once, twice, as if ordinary failure would explain itself if they gave it time. Thessaly's hands stayed flat on the table. Someone at the secondary console tried a relay bounce and got the same blank. No one wanted the sentence that made it real.
+
+"I was on with Cade," Park said. Quiet. Professional. "Visit logistics. Two days out. We were in the middle of scheduling the school visit."
+
+Calder felt the room tilt.
+
+Founders' Reach. Container school. Reachroot stew. The visit still sitting in his day log. Departure in two days.
+
+Vex looked at the Dominion feed once. "We do not watch your colonies. Give us the bearing. We will see if our long watch caught anything."
+
+Thessaly put her hands on the table. "Is it answering. What do sensors show. Park — anyone on Fleet with a line."
+
+Park already had a hand on the Segment feed. The nearest scout answered first — *Graylane*, Founders' Reach bearing, observation only. Their package hit the shared display without waiting for anyone to invite it.
+
+Fleet side and Dominion side updated together. Same picture. Neither navy got a private first look.
+
+Calder looked for the colony and found nothing useful. No traffic. No answer. Settlement beacons gone. Ordinary orbital clutter gone. The quiet noise of a place that was alive — gone.
+
+Park spoke it for the room.
+
+"Scout *Graylane*. Founders' Reach bearing. Colony not answering. Settlement beacons gone. No challenge traffic. No weapons illumination. Multi-band screech present. No readable content."
+
+He hesitated once, then opened the audio.
+
+Three seconds of screeching hit the room — the same ugly intensity as the outer-corridor intercept from weeks ago. Layered. Loud. Not words anyone could hold. He cut it himself.
+
+Park stopped moving. Calder had seen him handle some pretty bad reports without that look.
+
+"Same screech as the outer-corridor intercept," Park said. "Nothing in it I can read."
+
+"Is this an attack?" Thessaly asked.
+
+"We do not know," Rowan said. "No answer is what we have. We need eyes on that bearing."
+
+Vex met Senka's look. "This is the warning. Send someone. Learn what the Peligar are."
+
+"Then someone goes and finds out," Thessaly said.
+
+"New Meridian is trying contact," Rowan said. "*Graylane* stays on observation only — no active scan. Keep the warning up where both sides can see it."
+
+Park ran the contact attempts again. Relay. Ping. Override. No answer. His face stayed still. His hands did not.
+
+Holt came through on his private line, low.
+
+"Jun. Nothing from my side."
+
+"I know."
+
+That was all. He left the line open and kept working.
+
+Thessaly's voice did not rise. "There were children there."
+
+Nobody answered her.
+
+Vex did not soften it. "Do not mourn the fallen. More will come. Prepare for the next colony that stops answering — or go learn what happened to this one."
+
+Calder looked at him and did not argue.
+
+Senka's fingers rested on the table edge. "SSD will blame the joint warning channel."
+
+"Later," Rowan said. "Colony first. Next."
+
+Park ran it again.
+
+Relay. Nothing.
+
+Ping. Nothing.
+
+Override. Nothing.
+
+Status: link active.
+
+Cade had been there. Cade had been halfway through the escort schedule. There was no one left to answer. Park left the channel open anyway.
+
+---
+***SEGMENT 6 — GRAYLANE***
+*FOUNDERS' REACH BEARING*
+
+Lieutenant Nessa Quell had wanted a quiet divert.
+
+*Graylane* was scout-class — same designation as *Kestrel Veil*: fourteen billets, small laser, nothing that could do much damage other than the occasional space whale, and the fastest hull Fleet built. Quieter weeks than the stories. Fourteen people who had worked the same watches long enough that nobody needed a briefing to find their station. Segment 6 work was the same most cycles: ride the outer edge of New Meridian's coverage, check the quiet systems, log that they were still quiet, move on. Founders' Reach sat on that list the way a dozen other farming colonies sat on it — scheduled, boring, easy to skip when a louder system screamed. Nothing ever happened here. That was the point of the posting. The interesting fights, if they existed, happened closer to the Neutral Zone, or in rooms with admirals, not on a scout that measured its days in beacon checks and shift handovers.
+
+Today the interesting fight was supposed to be somewhere else. Contact Node Seven had been running joint sessions for days — Fleet and Dominion in one room, warning formats, traffic schedules, the kind of work that made Helion nervous and made Segment officers glad they were not invited. Quell's crew treated it as background noise. Helmsman ran the same corridor sweep he always ran. Sensor watch walked the passive board through its ordinary cycle: mass, beacons, traffic, atmosphere, nothing elevated, nothing worth a second look. In engineering, someone was halfway through a filter swap that had been on the board since last cycle. Quell signed the maintenance note without reading it twice. She had already decided this divert would be short. Check Founders' Reach when the schedule said so. Log quiet. Point the nose toward the next name on the list.
+
+They were not due at Founders' Reach until later in the cycle. Contact Node Seven called first.
+
+Park's voice — Fleet, calm, needing something fast. Founders' Reach bearing. Observation only. Confirm the colony is answering. Confirm beacons. Send what the plot showed. No active scan unless ordered.
+
+Quell put the coffee down.
+
+"Founders' Reach," she said. "Passive only. Listen first. Open their channel."
+
+Her sensor officer ran settlement beacons, traffic, colony relay. No active sweep. No ping that would light the corridor.
+
+He waited for the ordinary green that meant a farming rock was still farming.
+
+The green did not come.
+
+He ran the passive pass again. Same bearing. Same addresses. Same silence.
+
+"Colony channel," Quell said.
+
+"No answer."
+
+"Beacons."
+
+"Gone."
+
+Quell looked at the plot herself. No traffic where a living system should have been. No strike she could name. No debris she could count. The morning packet from Founders' Reach was still in the queue — weather nominal, school in session, processing shed boring. The plot in front of her did not match the packet.
+
+The sensor officer's hand hovered over the active control. "Active sweep would fill the gaps. It will also light everything in this corridor — us included."
+
+Quell did not look at the control. "No. Node said observation only. Log what passive shows. No guesses."
+
+The audio rose on the passive feed — screeching, layered, the same noise the outer corridor had carried weeks ago. She let several seconds through, then cut it.
+
+"People down there," her sensor officer said.
+
+"The morning packet said so," Quell said. "They are not answering now."
+
+Nobody filled the silence after that.
+
+She sent the package to Contact Node Seven — same words for Fleet and Dominion, the way Park had asked.
+
+"Founders' Reach bearing. No colony answer. Settlement beacons gone. Passive product only. No active sweep. Multi-band screech present. No readable content. End."
+
+*Graylane* stayed on station. Dark. Listening.
+
+Quell kept her hands flat on the console. Last cycle she had skipped the school tour. She had told herself next time. Next time was already late.
+
+"Log my recommendation," she said. "Nearest Segment assets stay passive unless New Meridian orders otherwise. If something cleared this bearing, an active sweep only tells it where we are."
+
+"Aye."
+
+She ran the colony channel once more. No answer. She left it open anyway.
+
+---
+***CONTACT NODE SEVEN***
+*RECEIPT*
+
+*Graylane*'s package sat on the shared display. On the Segment status list, Founders' Reach flipped from quiet to distress. Park kept working the contact queue without looking up.
+
+"It has stopped answering," Rowan said. "That is all we have."
+
+Vex looked at Calder across the table. No victory in it. "This is what we warned you about."
+
+"I know," Calder said.
+
+He opened his day log.
+
+The Founders' Reach visit was still there, drafted that morning for a departure two days out:
+
+Small party. No weapons. School tour — container classrooms, school lead on escort. Trial field walk — plot three, Reachroot, causeway timing. Galley note — eat what they serve. Escort list half filled. Arrival window locked. Departure: as scheduled.
+
+Calder did not delete it.
+
+He cleared the school-tour line. Cleared the meal note. Changed *walk the settlement* to *observe residual geometry*. Left the departure time alone. Left the destination alone: Founders' Reach.
+
+Purpose field: *visit — civil courtesy*.
+
+He typed over it: *residual assessment — observation only*.
+
+Status: *superseded — residual assessment*.
+
+He saved and closed the file.
+
+Thessaly was already watching him.
+
+"What do you need," she said.
+
+"Admiral," Calder said. "*Kestrel Veil* to Founders' Reach under observation rules. Assess what remains. Not a strike. Not a rescue. Commander Vex and a small Dominion contingent aboard — both sides witness the same evidence, both sides authenticate the same data."
+
+Silence on the remote channel. Then Rowan:
+
+"Accepted. *Veil* authorized. Observation rules. Limited Dominion contingent. Move."
+
+"I will come," Vex said. "Your ship. Our eyes."
+
+"Orlen. Vorin," Senka said. "No one else unless I say so."
+
+Thessaly nodded once. "I'll have her ready."
+
+Calder opened the day log one more time. Departure time unchanged. Destination unchanged. Purpose: residual assessment.
+
+He closed it and stood.
+
+---
+***CONTACT NODE SEVEN — APPROACH TO BERTH***
+*BEFORE UNDOCK*
+
+They walked the berth corridor without a convoy. Thessaly set the pace. Calder matched it. Park peeled off with Orlen to lock the Founders' Reach report before Council started rewriting it.
+
+"Berths aft when you're off station," Thessaly said without slowing. "Engineering is Brenner's. He does not give tours. Follow ship procedure. Ask before you act."
+
+Vex said nothing. Vorin matched the pace.
+
+The berth hatch opened. The *Veil* smelled like home.
+
+---
+***KESTREL VEIL***
+*PREP*
+
+The *Veil* was already working when Calder came through the hatch. Recycled air. Hot metal from a drive spool that had not finished cooling. A mug on a console, still warm, belonging to no one. Hatches open. Voices down two corridors at once. The sounds of a ship that did not need to be told.
+
+He went to engineering first.
+
+Brenner had the power margins open on the board, pencil behind one ear, grease on the other hand. He did not look up. "Power is where you need it. Koss sent the coupler revisions before she cleared the yard."
+
+Calder looked at the empty workstation against the far bulkhead. Koss's personal kit was gone. The surface was clean.
+
+"She left anything behind?"
+
+"Nothing she needed." Brenner sealed a panel. "She took the site sketch and the schematics. I keep the hull."
+
+That was all. Calder walked aft.
+
+Outside tactical, Halden had Hale against the bulkhead with a slate in his hands. Calder stopped short of the hatch and watched without interrupting.
+
+"Defensive systems are yours," Halden said. "Emitters, shields, the rest. Thessaly has the watch. You take her orders. If something will not settle, you call her. Do not invent a fix to look busy."
+
+Hale read the slate once. "Understood."
+
+"Walsh rebuilt the secondary evacuation route," Halden said. "Leave it alone unless it fails." A pause. "Keep this hull alive."
+
+Hale nodded. "I will."
+
+That was it. Halden handed back nothing — the slate was already Hale's — and left for the Node corridor without looking back.
+
+Hale stood a moment in the corridor before stepping inside. He moved to the tactical chair the way a man sits in a coat that still smells like its owner: carefully, without trying to fill it all at once. Halden's margin notes were still in the board display. He did not erase them.
+
+Calder moved on.
+
+Medical was fast. Okwelu had Mehta's kit laid out and half sorted. Neither of them spoke when Calder appeared in the hatch. Mehta was sealing a filter crate, writing the open time on the lid in block letters. Okwelu held a checklist that looked like it had been revised twice this morning.
+
+"Atmosphere unknown," Mehta said without looking up. "Filters go first."
+
+"That is the job," Okwelu said. She did not look up either.
+
+Calder moved on.
+
+The bridge was already alive when he reached it.
+
+Reyes had the approach plot up, Founders' Reach at center, two passive approach lanes marked in yellow, one abort corridor flagged in orange. Tanaka stood at his shoulder with her personal color checklist — the one she refused to explain to anyone — and was quietly marking drone release points with a stylus.
+
+"Lanes may be dead," Reyes said, to the plot as much as to anyone. "Two passive entries. One clean abort. No parking orbit until we know something is still there to park over."
+
+"Shuttles docked until we have an air reading," Tanaka said. "Drones first. People last. If someone wants boots on the ground before I have data, I will say no."
+
+"Say it," Thessaly said from the command position, not looking up from her own slate.
+
+Reyes tapped one coordinate string, locked it. "If the secondary landmass still holds its shape, we use it as a passive reference. If it does not, we chart the absence."
+
+"Absence is still a chart," Tanaka said. "Ugly. Still useful."
+
+Park was at the secondary relay console, three channels open, routing them into one clean feed before any of them could drift into separate stories. Cole's station was empty — her chair pushed in, her personal items gone, her setup replaced by the blank look of a console waiting for reassignment. Park glanced at it once, the way you glance at a space where something usually sits. Then he went back to work.
+
+"Shipboard is mine," he said, more to the console than to the room. "Cole takes the station side. I keep this hull talking."
+
+Vex boarded with Orlen and Vorin. No ceremony. Calder was at the lock.
+
+"On this ship," Calder said, "everyone works."
+
+"If you're aboard, you're part of the mission."
+
+He looked at each of them once.
+
+"Vex — bridge rail, secondary plot. Your long-watch data against ours. Tell me where they diverge. Orlen — lexicon station, Park's channel. Anything in Peligar range, you flag it. Vorin — dual-custody feed. Both navies sign the same record."
+
+Vex nodded once. "Understood."
+
+He moved through the hatch and the ship closed around him. It was smaller than anything he had walked in years. Fourteen people. No room for distance between rank and work. Labels everywhere — equipment, lockers, junction boxes, the mug on the secondary console with a name that was not Calder's. Fleet labeled things the way Dominion logged them: so the next person knew. He recognized the logic without recognizing the style.
+
+The *Kestrel Veil* could have fit inside the *Iron Harrow*'s command section. Yet she had survived a direct pass from his own photon cannons anyway. He filed that without comment and moved to his station.
+
+Orlen found the lexicon cart without being shown. Park's tea tin was still on top of it.
+
+"Work first," she said.
+
+"Work first," Park said.
+
+Vorin went to the bridge rail and pulled up the dual-custody feed without asking. He looked at the approach plot, read the abort corridor, said nothing. He already understood the plan.
+
+Calder moved to the captain's chair.
+
+The plot showed Founders' Reach as a distress marker on a line that used to say quiet. He looked at it for a moment — the altered day log, the school tour that became a residual assessment, the departure time unchanged — and then he looked away. The chair was the chair. The ship was the ship.
+
+He sat.
+
+Brenner's voice came over ship comms, flat and professional. "Power margins nominal. Jump drive ready. Interface can wait one coupler. Founders' Reach cannot."
+
+On secondary relay, Park locked the three-channel feed. Reyes sealed the approach plot. Tanaka confirmed drone sequencing. Mehta wrote the last number on the filter crate lid. Okwelu went to medical. Hale sat in the tactical chair with Halden's notes still in the margins and did not erase them.
+
+Vex stood at the bridge rail that was not his, looking at a ship preparing to go somewhere his navy could not go alone. He read the berth brief. He did not speak.
+
+"Commander," Calder said.
+
+"Captain," Thessaly said.
+
+"Undock when New Meridian clears the lane."
+
+"Aye."
+
+The *Kestrel Veil* cleared the berth and pointed toward Founders' Reach.
 
 ---
 **END CHAPTER 4**

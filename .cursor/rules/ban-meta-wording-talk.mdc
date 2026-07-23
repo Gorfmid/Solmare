@@ -14,11 +14,20 @@ When writing or editing Solmare chapters, **do not** reintroduce:
 - *fringe* as default border noun (prefer *outer corridor* / *border* / *Neutral Zone edge*)
 - *admit weather they cannot command* and similar elevated empire-aphorisms — say the real political problem
 - *temporary politeness* — name the real ask
+- *polite fiction* / *polite X* / *polite Y* as default irony (*polite misunderstanding*, *polite desks*) — say the real thing
 - Distress/rescue hammering after the room has moved on — operational rules only
 - *header cascade* / *Fleet's forms* as default mismatch language
+- *argue* / *arguing* as default politics/process talk (*finished arguing*, *arguing about nouns*) — **Brenner only**, sparingly, usually hardware; see `Writing_System/Revision_Pass/03_clarity_language.md` §3.2a
+- *lie / lying / lies / honest* as default metaphor for overcommitment, dual roles, bad readings, or institutional mismatch (*without lying to somebody*, *which panel lies*, *urn was honest*) — keep only for people actually deceiving; instruments fail to settle / look fine and are not; see Pass 3 §3.2c
+- *the board* as vague catch-all — name the instrument (*shared traffic display*, *status display*, *packet queue*, *relay console*, *approach plot*); keep *board* for the verb or a literal named object; do **not** spam *traffic wall* / *status wall* every glance — name once, then *display* / *plot* / *queue*; see Pass 3 §3.2d
+- *petition* as vague catch-all — name the actual ask (*school building*, *leak-proof walls*, *beacon array*); keep *petition* only when the form itself is the point; see Pass 3 §3.2e
+- *hold / holds / held* as vague endurance or custody filler (*walls that hold weather*, *if today holds*, *window still held*) — prefer *withstand*, *stay quiet*, *stay open*, *stay on station*, *in custody*; see Pass 3 §3.2f
+- unnecessary analogies and synonym rotation for style (*clean pipe for bad news*, *mourning with the volume down*, *honesty as a person*, rotating *silence/absence/emptiness* for the same fact) — use the first plain word; see Pass 3 §3.3k
+- *empty* / *went dark* / *returns stopped* (or *expected returns missing*) as default loss shorthand for a colony, channel, or bearing — prefer *no answer*, *stopped answering*, *missing colony*, *settlement beacons gone*; keep *empty* only for literal containers/rooms/seats; see Pass 3 §3.2g
+- *shared warning format* / *warning format* / *shared format* / *joint format* as default packet-path jargon — say where it went and that both sides get the same words (*sent to Contact Node Seven — same words for Fleet and Dominion*); see Pass 3 §3.2h
 
-**Prefer:** the concrete failure or ask — *means two actions*, *guess under pressure*, *finished answer*, *category*, *classification*, *fake readiness*, *not a full brief*, name the real term (*distress*, *hold weapons*).
+**Prefer:** the concrete failure or ask — *means two actions*, *guess under pressure*, *finished answer*, *category*, *classification*, *fake readiness*, *not a full brief*, name the real term (*distress*, *hold weapons* only when that is the real order).
 
 **Keep *label* only** for literal print (mug label, pedestal labeled for Rowan).
 
-Canonical detail: `Writing_System/revision_pass.md` §3.1b.
+Canonical detail: `Writing_System/Revision_Pass/03_clarity_language.md` §3.1b · §3.2c · §3.2d · §3.2e · §3.2f · §3.2g · §3.2h · §3.3k.

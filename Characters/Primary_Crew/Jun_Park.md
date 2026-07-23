@@ -1,7 +1,12 @@
 # CREW: JUN PARK — COMMUNICATIONS / RELAY OFFICER
 
 ## ROLE
-Communications and Relay Officer, UFA Scout Vessel Kestrel Veil.
+
+**Book One:** Communications and Relay Officer, UFA Scout Vessel *Kestrel Veil*.
+
+**Book Two+ (locked):** Communications and Relay Officer, *Kestrel Veil*. Park stays ship-side. He also supports Contact Node lexicon / diplomatic channel work when the mission needs him — that does **not** remove him from day-to-day ship relay. **Nadia Cole** transfers to Interface (station relay); she becomes Dana Holt’s primary Fleet counterpart on the station/node side.
+
+**Canon:** `KESTREL_VEIL_CREW_REORGANIZATION.md`
 
 Fleet relay contact, transmission buffering, signal integrity monitoring, timestamp and packet-order logging.
 

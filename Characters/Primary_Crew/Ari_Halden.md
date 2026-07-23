@@ -1,9 +1,15 @@
-# CREW: ARI HALDEN — TACTICAL SYSTEMS OFFICER
+# CREW: ARI HALDEN — INTERFACE SECURITY SYSTEMS
 
 ## ROLE
-Tactical Systems Officer, UFA Scout Vessel Kestrel Veil.
 
-Manages threat assessment, engagement-rule interpretation, evasive protocol, and tactical systems readiness. On scout-class vessels, tactical work is **survival geometry**, not combat dominance.
+**Book One:** Lieutenant Commander; Tactical Systems Officer, UFA Scout Vessel *Kestrel Veil*.  
+Threat assessment, engagement-rule interpretation, evasive protocol, and tactical systems readiness. On scout-class vessels, tactical work is **survival geometry**, not combat dominance.
+
+**Book Two+ (locked):** Commander; Interface Project — station security systems, defensive architecture, sensor network, emergency response systems, internal security design. Works closely with **Lena Walsh** throughout construction. Ship tactical billet on *Veil* passes to **Marcus Hale**.
+
+**Canon:** `KESTREL_VEIL_CREW_REORGANIZATION.md`  
+**Name collision:** Not Commander Hale (Doctrine Bureau).  
+**Rank lock:** Book One / early Book Two = **Lieutenant Commander**. Promoted to **Commander** at Interface greenlight (Book Two Ch. 4).
 
 ---
 
@@ -197,7 +203,9 @@ Halden will recommend abort, hold, or evasive action even when mission completio
 
 **Book One:** Threat model vs. curiosity model (Halden vs. Reyes) under contradiction.
 
-**Long-term:** Learning when recurrence is noise and when novelty is the pattern—without losing the crew's trust in her downside framing.
+**Book Two:** Transfers from *Veil* tactical to Interface security architecture (on-page assignment target: Ch. 4, before Founders’ Reach). Career advance, not disappearance. Remains Park’s friendship and the crew’s institutional memory when paths cross; downside framing now applied to a station that must not become a soft target.
+
+**Long-term:** Learning when recurrence is noise and when novelty is the pattern—without losing trust in her downside framing.
 
 **Unresolved flaw:** Believes she failed her escort convoy by trusting a pattern one iteration too long. Has not confirmed this in any report.
 

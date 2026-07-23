@@ -54,7 +54,15 @@ Capital ships require fighter screen, sensors, and coordination. Fighters multip
 
 ## Mission designation: Scout
 
-**Scout-class is not a combat rung.** It is a reconnaissance / observation designation. Scouts survive by speed, evasion, environment, crew ingenuity, and enemy miscalculation — not by pretending to be battleships.
+**Scout-class is not a combat rung.** It is a reconnaissance / observation designation. Place it **below corvette** in size and armament; **above every combat class in speed**.
+
+| Lock | Value |
+|------|--------|
+| Typical crew | **14** |
+| Size | Smaller than corvette |
+| Speed | **Fastest hull class in Fleet** |
+| Weapons | Minimal — small laser / light defensive emitter only; no offensive battery |
+| Survival | Speed, evasion, environment, crew ingenuity — not firepower |
 
 See [Scout Operations](Scout_Operations.md) · `Universe/Technology/scout_class.md`
 

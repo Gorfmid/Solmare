@@ -38,7 +38,7 @@ Fleet coffee culture on the mug gag. Separate running beat: Park switches to Dom
 | Chapter | Beat |
 |---------|------|
 | **2** | Ready room hide + Lisette flicker. Session One: BEST CAPTAIN EVER = Lisette gift + six months quiet search. |
-| **3** | Protocol room: Calder nearly reads label; Park rotates away. Corridor: Orlen introduces Dominion tea (separate beat). |
+| **3** | Protocol room: Calder nearly reads label; Park rotates away. **No dialogue about the mug.** Corridor: Orlen introduces Dominion tea (separate beat). |
 | **4** | Session Three open: Park turns label away; Calder notices again; does not ask. |
 | **8** | Drafting annex: label to wall; six-month itch climbs one notch; still silent. |
 | **12** | **Discovery.** Lexicon alcove after close: label out by accident. Amused + irritated. Neither speaks. Park turns it away again after Calder leaves. |

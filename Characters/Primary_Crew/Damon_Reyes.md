@@ -197,6 +197,8 @@ Reyes will not falsify a sweep. He will argue for completing one.
 
 **Book One:** Spatial coherence model; advocates sweep completion at Korrath (Ch. 4).
 
+**Book Two+ (locked):** Senior Navigator / Bridge Operations — Calder’s senior bridge officer. Navigation, tactical positioning, operational planning, command continuity. Works closely with Tanaka (flight ops). Protected recurring voice; must not vanish from the manuscript. See `KESTREL_VEIL_CREW_REORGANIZATION.md`.
+
 **Long-term:** Learning when curiosity serves truth and when it serves anxiety about incomplete records.
 
 **Unresolved flaw:** Still angry at a partial survey on *Meridian Echo* that preceded an incident he believes mapping would have clarified. Unconfirmed.

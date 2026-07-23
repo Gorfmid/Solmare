@@ -1,9 +1,16 @@
-# CREW: ELARA KOSS — CHIEF ENGINEER
+# CREW: ELARA KOSS — CHIEF CONSTRUCTION & INTEGRATION (INTERFACE)
 
 ## ROLE
-Chief Engineer, UFA Scout Vessel Kestrel Veil.
 
+**Book One:** Lieutenant Commander; Chief Engineer, UFA Scout Vessel *Kestrel Veil*.  
 Ship systems integrity, diagnostics, hardware fault isolation, log reconciliation authority for engineering-correlated entries.
+
+**Book Two+ (locked):** Commander; Chief Construction & Integration Officer, **Interface Station** project.  
+Fleet construction oversight, yard coordination, contractor management, systems integration, schedule execution, engineering logistics. Works directly with Brenner (*Veil* Chief Engineer) during construction; later one of Interface’s senior permanent officers.
+
+**Rank lock:** Book One / early Book Two = **Lieutenant Commander**. Promoted to **Commander** at Interface greenlight (Book Two Ch. 4).
+
+**Canon:** `KESTREL_VEIL_CREW_REORGANIZATION.md`
 
 ---
 
@@ -193,9 +200,11 @@ Koss will delay captain's action if ship-dependent systems lack reconciliation�
 
 **Book One:** Physical continuity model; log separation architect; ghost recalibration flag (Ch. 3).
 
-**Long-term:** Learning when hardware truth is sufficient and when it is a comforting subset of a larger problem.
+**Book Two:** Leaves day-to-day *Veil* CE billet for Interface Construction & Integration (on-page greenlight target: Ch. 4, before Founders’ Reach). Career advance, not disappearance. Crosses paths with Brenner, Walsh, Halden, and the joint yard throughout the build.
 
-**Unresolved flaw:** Believes she missed an early warning on *Meridian Echo* because she trusted a green board. Has run every ship since harder.
+**Long-term:** Learning when hardware truth is sufficient and when it is a comforting subset of a larger problem — now at station scale.
+
+**Unresolved flaw:** Believes she missed an early warning on *Meridian Echo* because she trusted a green board. Has run every ship (and now every weld schedule) harder.
 
 ---
 

@@ -1,0 +1,21 @@
+---
+description: Character Pass — voice/perspective/behavior after structural revision
+globs:
+  - Books/**/Chapters/**/*.md
+alwaysApply: false
+---
+
+# Character Pass
+
+When the user triggers **Character Pass on Chapter X** (or *Apply character pass*):
+
+1. Load `Writing_System/Revision_Pass/05_character.md`
+2. Load character sheets for every named person in the chapter
+3. Do **not** change plot, scene order, or invent subplots
+4. Keep approximate chapter length
+5. Improve voice, perspective, behavior, interchangeability, quiet habits, relationships through behavior
+6. Deliver the short Pass 5 report from that file
+
+This pass runs **after** structural revision (Passes 1–4). It is not a substitute for a people-first structural rewrite.
+
+Router: `Writing_System/revision_pass.md`

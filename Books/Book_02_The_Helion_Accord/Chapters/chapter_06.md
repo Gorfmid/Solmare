@@ -165,11 +165,11 @@ Park kept Orchard Compact honest on the secondary plot. "Probable approach press
 
 "No windows yet," Thessaly said. "Interest is not free."
 
-Morn stood with his sampling kits half-packed again, face set. "If they want me on another emptied system today, say so. I would rather prepare than pretend we are done."
+Okwelu stood with her sampling kits half-packed again, face set. "If they want us on another emptied system today, say so. I would rather prepare than pretend we are done."
 
-"You prepare," Thessaly said. "You do not invent a second Founders' Reach until the board forces it."
+"You prepare," Thessaly said. "You do not invent a second Founders' Reach until the plot forces it."
 
-Rell worked the logistics strip without checking leave schedules. Hadd watched the annex plot with his jaw set. The crew had learned, over one finished colony, what quiet labels could become. *Kestrel* herself sounded ordinary: old systems humming, a maintenance alert someone reset and ignored, the small imperfect noises of a scout that had outlived prettier ships by staying useful.
+Mehta checked filter stock without looking for comfort in the numbers. Hale watched the annex plot with his jaw set. The crew had learned, over one finished colony, what quiet labels could become. *Kestrel* herself sounded ordinary: old systems humming, a maintenance alert someone reset and ignored, the small imperfect noises of a scout that had outlived prettier ships by staying useful.
 
 Park opened a private line to Helion Communications between packet checks, low enough that it didn't carry past his own station. "Holt. Still there?"
 
@@ -191,7 +191,7 @@ Calder mediated what he could. Rowan's order gave him posture. Lag gave him cont
 
 "Local judgment," he said. "We hold observation. We do not illuminate. We do not write attack headers. We do not elevate Orchard Compact into a public name. Park, keep probable and contradictory visible. Thessaly, cut any soft synonym that turns watch into interdiction."
 
-"Already watching for it," Thessaly said. She walked the bridge once, people-check more than inspection. Park was steady. Morn was usefully grim. Rell was holding. Hadd wanted a target and was accepting a plot instead. That would last as long as procedure kept giving his hands work.
+"Already watching for it," Thessaly said. She walked the bridge once, people-check more than inspection. Park was steady. Okwelu was usefully grim. Mehta was holding. Hale wanted a target and was accepting a plot instead. That would last as long as procedure kept giving his hands work.
 
 A Segment political observer on the patched net tried to be helpful. "If we phrase the annex as *threatened colony*, Council will fund faster."
 
@@ -217,7 +217,7 @@ Thessaly looked at him. "They will hate that."
 
 "They hated the last honest answer too," Calder said. "Send it anyway."
 
-He thought of Voss's ordinary morning packet from a place that no longer answered, and of how many Orchard Compacts might still be writing weather as if weather were safety. The thought did not become a speech. It became a tighter hold on the plot.
+He thought of Cade's ordinary morning packet from a place that no longer answered, and of how many Orchard Compacts might still be writing weather as if weather were safety. The thought did not become a speech. It became a tighter hold on the plot.
 
 Outside, Founders' Reach remained a finished node under a G-type sun that did not care about hearings. Farther along the arc, Orchard Compact flickered between weather and something worse. Calder stood between them and did the mediator's unglamorous work: keep the map from lying faster than the people could survive.
 
@@ -379,7 +379,7 @@ Thessaly checked faces. Exhausted crew. Political passengers on the Segment net 
 
 "Eat in rotation," she said. "Watch stays honest. No speeches on open channels. If Helion asks for war language, they get contested confirmation until the board changes."
 
-Hadd exhaled hard. "How many quiet places are there."
+Hale exhaled hard. "How many quiet places are there."
 
 "Enough," Park said. "That is why the map looks like it is burning at the edge."
 

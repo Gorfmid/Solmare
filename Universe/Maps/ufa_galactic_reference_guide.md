@@ -419,7 +419,7 @@ Chart position shows *Veil* at the **furthest certified explorer reach** on the 
 | **Incident geometry** | Kestran Spiral bearing 214 mark 6 (Ch. 5) |
 | **Post-Incident** | VI-Gamma repair → independent transit **seven-alpha** → return / doctrine arc |
 | **Chart snapshot** | Peripheral Survey Limit; explorer lane; last survey point 2384.91 |
-| **Crew** | 14 named + support; complement ~20 standard scout (`scout_class.md`; *Veil* runs understaffed/overworked in practice) |
+| **Crew** | 14 billets (Fleet standard scout; `scout_class.md`) |
 
 **Ship reference:** `Books/Book_01_The_Kestrel_Veil_Incident/Ships/Kestrel_Veil.md` · Appendix A vessel plate
 
@@ -678,7 +678,7 @@ Story Relevance:
 | **Fighters → Leviathans** | Combat hierarchy | See `canon_and_world_rules.md` |
 | **Leviathan-class** | Strategic asset | Incident contact scale (Vex POV) |
 
-**Scout limitations:** Minimal shields; defensive emitters only; degraded comms outside relays; sensor integrity mission-critical (`scout_class.md`).
+**Scout limitations:** Fastest Fleet hull; minimal shields; small laser only (no offensive battery); degraded comms outside relays; sensor integrity mission-critical (`scout_class.md`).
 
 ## Communications
 

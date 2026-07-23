@@ -68,7 +68,7 @@ It prioritizes:
 
 ## COMMAND STRUCTURE ONBOARD
 
-**Fleet standard complement:** 20 (see `Universe/Fleet/fleet_crew_and_officer_canon.md`)
+**Fleet standard complement:** 14 (see `Universe/Fleet/fleet_crew_and_officer_canon.md`)
 
 **Book One principal crew (14):**
 

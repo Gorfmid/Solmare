@@ -13,7 +13,7 @@ Civilian Affairs had already opened three screens. One held residual survey rece
 
 "Window status," Ellis said.
 
-Clerk Denara Voss of Civilian Affairs — no relation to the colony's last administrative packet author, she had already said twice that morning, and would say it again if asked — tapped the hope strip without looking at Ellis. "Rescue bands closed at New Meridian ops. Emergency override unanswered through final cycle. Segment craft report no life returns on passive. Calder's field product remains: emptied, processing signature, no survivors answering. Thessaly's addendum: do not reopen rescue language without residual life confirmation."
+Clerk Denara Voss of Civilian Affairs tapped the hope strip without looking at Ellis. "Rescue bands closed at New Meridian ops. Emergency override unanswered through final cycle. Segment craft report no life returns on passive. Calder's field product remains: emptied, processing signature, no survivors answering. Thessaly's addendum: do not reopen rescue language without residual life confirmation."
 
 "Then close the window," Ellis said.
 
@@ -39,7 +39,7 @@ Ellis opened the empty manifest herself. Founders' Reach prior census sat in ord
 
 The residual survey had returned those columns as silence.
 
-No distress bands. No challenge traffic. No names answering from habitats that no longer held the shape of habitats. Orbital stock sorted along usefulness rather than impact. Atmospheric gradients weather did not write. Calder and Thessaly and Park and Morn had already said all of that in language that survived sealed rooms. Ellis's job was to keep that language from being eaten by banners.
+No distress bands. No challenge traffic. No names answering from habitats that no longer held the shape of habitats. Orbital stock sorted along usefulness rather than impact. Atmospheric gradients weather did not write. Calder and Thessaly and Park had already said all of that in language that survived sealed rooms. Ellis's job was to keep that language from being eaten by banners.
 
 She loved Fleet beginnings. She had spent a career protecting Founders' Week from becoming a weapon or a fairy tale. The colony named for belief had finished under a G-type sun that did not care about commemorative cloth. She refused to underline the irony. The absence did that work without her help.
 
@@ -71,7 +71,7 @@ A courier from the annex stuck his head in. "Admiral Rowan wants Historical Offi
 
 The courier left.
 
-Ellis looked once more at the empty manifest. The last ordinary morning packet from the colony's administrative relay still sat in Segment mirrors under the author name Voss: weather nominal, processing output steady, no elevated medical. Ordinary civilization written in sentences that meant a place was working. The residual survey was the same place after someone else finished the working. Ellis kept both products visible on her slate because institutions forgot ordinary life faster than they forgot catastrophe, and forgetting ordinary life was how banners turned people into symbols.
+Ellis looked once more at the empty manifest. The last ordinary morning packet from the colony's administrative relay still sat in Segment mirrors under the author name Cade: weather nominal, processing output steady, no elevated medical. Ordinary civilization written in sentences that meant a place was working. The residual survey was the same place after someone else finished the working. Ellis kept both products visible on her slate because institutions forgot ordinary life faster than they forgot catastrophe, and forgetting ordinary life was how banners turned people into symbols.
 
 Hope protocols had done their job as long as sensors allowed them. Sensors had finished arguing. Grief had to change jobs.
 
@@ -167,7 +167,7 @@ She loved those boards. She had argued for years that commemorative myth was not
 
 She opened three products side by side.
 
-First: *Kestrel*'s Founders' Reach residual. Emptied system. Processing signature. No survivors answering. No certified attack intent. Debris geometries sorted. Atmospheric scrape curves. Container school footprint as absence. Calder's refusal of war language. Thessaly's procedural cuts. Park's speech-structure residual without meaning. Morn's sampling notes that had rewritten themselves from raid forensics into industrial ecology because the tools demanded honesty.
+First: *Kestrel*'s Founders' Reach residual. Emptied system. Processing signature. No survivors answering. No certified attack intent. Debris geometries sorted. Atmospheric scrape curves. Container school footprint as absence. Calder's refusal of war language. Thessaly's procedural cuts. Park's speech-structure residual without meaning. Okwelu and Mehta's sampling notes that had rewritten themselves from raid assumptions into industrial ecology because the tools demanded honesty.
 
 Second: Dominion pattern library excerpts under sunset and veto from Contact Node Seven. Tempo signatures. Missing-return cascades. Continuity frontier advance. Resource graph pressure. Vex's professional line, still sitting in the joint log like a stone: a flood does not hate the valley; the valley still drowns. No gloating. No *we told you*. Shared loss posture without superiority, which Fleet rooms kept misreading as indifference because Fleet rooms expected grief to speak.
 
@@ -241,7 +241,7 @@ After Rowan dropped, she sent the seed note under custody to Calder, Thessaly, N
 
 New Meridian smelled like frontier coffee, packing foam, and the particular soap Civilian Affairs used on memorial cloth. The hall had been a freight overflow bay two weeks earlier. Now it held rows of empty berths marked for Founders' Reach households, a custody desk for recoverable names, and a scheduling board for readings that would never have bodies to match.
 
-Ellis had come down the Segment corridor on Rowan's authority because public mourning text needed a historian in the room where families first met the empty spaces. Denara Voss met her at the door with a slate and the face of a woman who had stopped explaining she was not the other Voss.
+Ellis had come down the Segment corridor on Rowan's authority because public mourning text needed a historian in the room where families first met the empty spaces. Denara Voss met her at the door with a slate and the face of a woman who had already been asked twice whether this was a good idea.
 
 "Reading schedule is draft only," Denara said. "We have recoverable names from off-world census mirrors for most household clusters. Agricultural trial teams are nearly complete. Container school enrollment is complete. Relay officer card is complete. Individual final disposition remains *accounted absent*. Families are arriving for first viewing of the berth map."
 

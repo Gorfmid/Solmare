@@ -23,7 +23,7 @@ This file defines strict world rules. It overrides any contradictory earlier dra
 | `Universe/Fleet/boarding_combat_and_internal_ship_geography.md` | **Internal geography** and boarding combat logic |
 | `Universe/Fleet/fleet_communication_sensor_and_information_warfare_doctrine.md` | **Communication tiers**, sensor reliability, information warfare |
 | `Universe/Fleet/fleet_authority_governance_and_command_hierarchy.md` | **Governance** — political structure, command hierarchy, field authority |
-| `Universe/Technology/scout_class.md` | **Mission designation** (reconnaissance / observation). Not part of the combat class hierarchy below. |
+| `Universe/Technology/scout_class.md` | **Mission designation** (reconnaissance / observation). Not a combat rung — see Scout locks below. |
 | `Universe/Fleet/unified_fleet_authority.md` | UFA overview — ideology, strengths, weaknesses |
 | `Universe/The_Dominion/dominion_worldview.md` | **Dominion** — strategic philosophy, society, doctrine, series foundation |
 | `Writing_System/Generation_Rules/continuity_rules.md` | Chapter-level continuity enforcement |
@@ -33,6 +33,19 @@ This file defines strict world rules. It overrides any contradictory earlier dra
 # 1. Fleet Vessel Class System (Canon)
 
 All ship classes follow this hierarchy:
+
+---
+
+## Scout (mission designation — not a combat rung)
+
+- Reconnaissance / observation hull
+- Typical crew: **14**
+- **Smaller than corvette**
+- **Fastest hull class in Fleet** (faster than corvettes and all heavier classes)
+- Weapon: small laser / light defensive emitter only — **no offensive battery**
+- Role: observe, report, withdraw; Segment and frontier quiet-system work; deep recon when tasked
+- Survive by speed and evasion, not firepower
+- Detail: `Universe/Technology/scout_class.md`
 
 ---
 
@@ -59,7 +72,8 @@ All ship classes follow this hierarchy:
 ## Corvettes
 
 - Light warship
-- Faster than frigates
+- Faster than frigates; **slower than scout-class**
+- Typical crew: 40
 - Weapon: Laser systems
 - Role:
   - Anti-frigate combat

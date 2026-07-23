@@ -1,5 +1,6 @@
 # Book Two — *The Helion Accord*
 
+**Edition:** See [`VERSION.md`](VERSION.md) — **0.x** pre-publication (not 1.0 until retail)  
 **Status:** Prelude **Final Candidate** · Ch. 1–25 **Revision Pass** (not Final Lock)  
 **Title:** *The Helion Accord* (locked)  
 **Folder:** `Books/Book_02_The_Helion_Accord/`  

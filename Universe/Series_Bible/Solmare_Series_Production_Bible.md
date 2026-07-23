@@ -185,7 +185,7 @@ Show through behavior, ritual, and consequence. Recognition before naming.
 7. **Cultural memory habits:** Fleet thinks **prospectively**; Dominion thinks **historically**. Dominion quotes inheritance; Fleet almost never does. Show; never lecture.  
 8. **Vessel class hierarchy** in `Universe/canon_and_world_rules.md` — do not blur roles without in-story justification.  
 9. **Scout-class** = mission designation, not a combat class in the fighter→leviathan hierarchy.  
-10. **Kestrel Veil** crew complement standard: **20**; narrative foregrounds principal personnel (see crew canon).  
+10. **Kestrel Veil** crew complement standard: **14**; narrative foregrounds principal personnel (see crew canon).  
 11. **Peligar** = Dominion exonym already known in Dominion industrial/civilization comparison (Book One Ch. 13). Self-name unknown. Do not invent a full Peligar encyclopedia in production docs without outline need.  
 12. **Epistemological rule:** Do not explain everything. Operational clarity + structural ambiguity.  
 13. **Romantic interests:** Principal/significant characters are straight (series craft rule).  
@@ -574,7 +574,7 @@ Full tables: `Universe/canon_and_world_rules.md`.
 | Sana Mehta | Support | Watercolor grandmother; Helion texture |
 | Additional support | See support_crew.md | Walsh, Cole, Pell, Cho, etc. as present in manuscript |
 
-Standard complement: **20**. Narrative foregrounds principal personnel — not every billet needs a named POV.
+Standard complement: **14**. Narrative foregrounds principal personnel — not every billet needs a named POV.
 
 ## Fleet — Book One principals & recurring (command / civilian)
 

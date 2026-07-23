@@ -3,6 +3,8 @@
 **Status:** Locked series canon (2026-07-21)  
 **Type:** Quiet recognizable behaviors — not gimmicks, not running jokes.
 
+**Crew structure (locked):** `Characters/Primary_Crew/KESTREL_VEIL_CREW_REORGANIZATION.md` — Koss/Halden → Interface; Brenner → *Veil* CE; Marcus Hale → ship tactical; Cole → ship comms; Park → diplomatic/linguistic. Characters advance; they are never silently forgotten.
+
 ## General rules
 
 - Behaviors emerge naturally when appropriate.
@@ -36,6 +38,7 @@ Detail: `Notes/PARK_ORLEN_DOMINION_TEA.md` · `Characters/Primary_Crew/Jun_Park.
 - Frequently understands what Calder is struggling with before he says it.
 - Never rescues him by deciding for him — asks the question that lets him reach the correct decision.
 - Series arc: increasingly Calder's mentor in command, not only his XO.
+- **Long-term:** eventual own command (late series / epilogue) — plant readiness through action; do not force in Book Two. Canon: `Characters/Primary_Crew/Mira_Thessaly.md` → Long-term command arc.
 
 Detail: `Characters/Primary_Crew/Mira_Thessaly.md`
 
@@ -43,12 +46,45 @@ Detail: `Characters/Primary_Crew/Mira_Thessaly.md`
 
 ## Brenner
 
+- Book Two+: **Chief Engineer**, *Kestrel Veil*; construction partner to Koss on Interface.
 - Solves problems before meetings finish discussing them.
 - Almost always arrives from actual work (grease, dust, weld burns, open maintenance logs).
 - Thinks with his hands. Politics bore him. Engineering fascinates him.
 - Humor from practicality — never from trying to be funny.
 
 Detail: `Characters/Support_Crew/support_crew.md` · encyclopedia Brenner entry
+
+---
+
+## Koss
+
+- Book Two+: Interface **Chief Construction & Integration** (not day-to-day *Veil* CE).
+- Flat certification language; arrives in person when remote is not enough.
+- Schedule and yard truth over speeches.
+- Crosses paths with Brenner, Halden, Walsh throughout the build.
+
+Detail: `Characters/Primary_Crew/Elara_Koss.md`
+
+---
+
+## Halden
+
+- Book Two+: Interface security / defensive architecture (not *Veil* tactical billet).
+- Works closely with Walsh.
+- Dry downside framing; gallows humor when safe; silence when not.
+- Remains Park’s primary aboard-ship friendship when paths cross.
+
+Detail: `Characters/Primary_Crew/Ari_Halden.md`
+
+---
+
+## Cole
+
+- Book Two+: Ship **Communications / Relay Operations** as Park moves into diplomatic/linguistic work.
+- Sound-before-display congestion read.
+- Gradual series path: Holt’s primary Fleet counterpart on the ship/node side.
+
+Detail: `Characters/Support_Crew/support_crew.md`
 
 ---
 

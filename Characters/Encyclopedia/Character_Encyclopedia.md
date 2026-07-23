@@ -1,4 +1,4 @@
-﻿# Character Encyclopedia — The Solmare Cycle
+# Character Encyclopedia — The Solmare Cycle
 
 **Type:** Knowledge only — no fiction scenes  
 **Scope:** Recurring characters across Book One (*The Kestrel Veil Incident*) and Book Two planning  
@@ -322,7 +322,7 @@ Ensemble continuity where time gap allows; ship may be decommissioned `[Author d
 | Field | Value |
 |-------|-------|
 | Faction | Fleet Authority |
-| Rank / role | Chief Engineer, *Kestrel Veil* |
+| Rank / role | Lieutenant Commander; Chief Engineer, *Kestrel Veil* (Book One). Promoted to Commander at Interface greenlight (Book Two Ch. 4). |
 | Age (Book One) | ~36 |
 | Status | Active; *Meridian Echo* transfer cohort |
 
@@ -465,7 +465,7 @@ Per Story Bible: **language / protocol bridge**; human–human translation break
 | Field | Value |
 |-------|-------|
 | Faction | Fleet Authority |
-| Rank / role | Tactical Systems Officer, *Kestrel Veil* |
+| Rank / role | Lieutenant Commander; Tactical Systems Officer, *Kestrel Veil* (Book One). Promoted to Commander at Interface greenlight (Book Two Ch. 4). |
 | Age (Book One) | ~34 |
 | Status | Active; 11 months aboard (joined post-refit) |
 
