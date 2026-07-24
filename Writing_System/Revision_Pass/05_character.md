@@ -1,7 +1,7 @@
 # Character Pass
 
 **Router:** `Writing_System/revision_pass.md`  
-**Lifecycle:** Stage 2 — runs **after** structural revision (Passes 1–4), before Final Candidate / Writing Pass 1  
+**Lifecycle:** Stage 2 — runs **after** structural revision (Passes 1–4), **before** Pass 6 (AI Signature Removal) and Final Candidate / Writing Pass 1  
 **Trigger phrases:**  
 - *Character Pass on Chapter X*  
 - *Apply character pass to Chapter X*  
@@ -163,6 +163,8 @@ Every scene should feel as though **only these specific people** could have live
 4. Quiet moments / relationship beats strengthened  
 5. Left unchanged because already on-voice  
 
+**Next:** Load `06_ai_signature.md` (Pass 6 — AI Signature Removal).
+
 ---
 
-*Locked series methodology — 2026-07-22*
+*Locked series methodology — 2026-07-22 · Next-pass pointer 2026-07-23*

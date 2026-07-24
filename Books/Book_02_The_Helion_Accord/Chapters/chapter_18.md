@@ -1,176 +1,192 @@
 # Chapter 18
 
-## Counterstroke
+## The Cost
 
 ---
 
-***CONTACT NODE SEVEN — GO CONDITIONS***
-*NOT CONFIDENCE*
+***HELION — FLEET COUNCIL, OPEN GALLERY***
+*GRIEF MARKETS*
 
-The Counterstroke clock did not wait for anyone to feel ready.
+Fleet Admiral Elias Rowan walked into the open gallery the way he walked into every room that wanted certainty more than it wanted survivors: without ceremony, and without the comfort of believing the hour belonged to him.
 
-Coffee sat on the Fleet sideboard. Tea sat on the Dominion twin. Neither cup was a clock; hands worked near them anyway, the way hands always did when there was nothing else honest left to hold. On the dual board, Tag Twelve's amber densification kept climbing in fractions nobody could translate. The provisional rules from two days before still carried their sunsets and their abort criteria and the particular smell of paper that had been authorized under failure rather than confidence.
+Founders' Week cloth hung along the upper rail in copper and blue, holiday fabric pressed into wartime service, because institutions did not stop practicing joy just because sealed rooms had started pricing funerals. Memorial petitions for Founders' Reach stacked on the civilian affairs table in the kind of paper height that meant grief had already become logistics. A freight block sat near the floor with manifests and the specific anger of people whose schedules had become casualties without anyone shooting at them.
 
-"Final brief," Orlen said. "Scopes: delay the processing advance, open a window, deny one specific path. Non-goals: no pursuit into unknown depth, no headers that pretend we're going to defeat a civilization. Calder and Vex paired. Thessaly holds people judgment. No confidence required. Begin."
+A war-hawk councilor struck first, voice pitched for the recorders that weren't supposed to be in a sealed annex and somehow always were. "Founders' Reach is finished. Orchard Compact went dark under joint instruments. If the enemy has no hatred, tell the yards courage can't finish the work either. Lock invasion grammar. Cancel leave into readiness. Cut Dominion loose before contamination finishes what processing started."
 
-A war-hawk strip tried, one more time, for a finish line the yards could hang something on. "Give us a face."
+An isolationist answered from the other hunger. "Cooperation imported the wrong categories to begin with. Trust never existed. Pull back. Protect what vocabulary we have left."
 
-"You get delay, a window, and one path denied," Thessaly said, before Calder could find a softer way to say the same thing. "You don't get a civilization defeated because this room needs a cleaner story."
+"Contested language is what the sensors actually allow," Rowan said. "False certainty is how institutions lose the next week after they calm this one. I won't give this gallery a precision number to make the banners feel useful."
 
-Vex attended from *Iron Harrow*, gloves on, present in the specific way he always was — measuring, not leaning until the numbers required it. "Geometry now, blame later. Pair me with Calder. Predict me. Don't invent hatred to make the invoice feel cleaner."
+A service widow stood without waiting to be recognized, voice steady in the specific way people got steady when steady was the only tool they had left. "My husband sailed out of New Meridian. His leave was cancelled into readiness the week before Founders' Reach went quiet. Now it's cancelled into mourning, and I still don't have a name I can put on a plaque without lying about what finished him. Don't tell me partnership is sacred. Tell me who decides which families wait."
 
-Calder looked at the board the way he'd learned, in the worst possible classroom, to look at every board now — for the twelve minutes it might be hiding somewhere inside it. "Composition. Plain. Role first. Nobody needs a speech about tonnage."
+"People before systems," Rowan said, and hated how it sounded like a slogan the moment it left his mouth. "Which is why I won't spend your husband's absence as proof for anyone's theater. Civilian Affairs keeps household recovery moving. Field command keeps the corridors moving. Neither restores what's already finished."
 
-Hadd laid out the joint task list the way a man lays out tools he already suspects won't be enough: a thin screen of corvettes and light escorts for harassment and false-path denial, a line of missile-capable hulls to slow the processing escorts, *Kestrel* held back at outer watch for observation and soft update only. No capital anchors. No hero-ship exceptions. Fuel margins ugly and honestly reported.
+Calder attended from Contact Node Seven with Thessaly beside him, and looked, even across the lag, like a man being asked to mediate public grief with a map that would not finish in time to help him do it.
 
-"Professional prediction," Calder said to Vex, once, across the feed. "If the warning net falsely confirms a clear path, I abort the chase even if a Fleet escort flinches. If people cost exceeds the scope, Thessaly aborts and I honor it late if I have to. What do you abort?"
+"The joint instruments cleared freight and held a corridor," he said. "They didn't restore Founders' Reach. They didn't hold Orchard Compact. If this gallery converts grief into abandoning the buffer, the fringe pays first while we argue purity here."
 
-"If your escort spends fuel chasing a ghost, I abort elevation and hold branch. If your glory metrics try to convert delay into a finish line mid-fire, I veto and log it," Vex said. "I predict you'll hesitate where Thessaly locks, and that you'll honor the abort anyway, because you learned that twelve days ago at a cost I know you're still carrying. Sail."
+A press voice from the upper rail tried to spend him directly. "Captain Venn, should Fleet keep trusting Dominion after Orchard Compact went dark under joint watch?"
 
-"I can predict you too," Calder said. "You'll accept a loss Fleet reads as coldness, because the loss keeps the window honest. You won't invent hatred because it would feel cleaner."
+"Trust isn't the instrument," Calder said. "Work is. If you need a name to put on that sentence, use mine. Don't use it to build a cleaner enemy for tonight's feed."
 
-"Correct," Vex said. "Sail."
+Rowan authorized what he couldn't emotionally celebrate, because celebration was how institutions invented a readiness they hadn't earned. "Limited wartime measures," he said. "Elevated mobilization under sunset. Memorial priority for Founders' Reach households. The joint framework survives as necessity, not as anyone's applause line. Calder and Thessaly will make inadequate instruments look like policy, because inadequate instruments are what we actually have."
 
-Hulls held station. The clock ran.
+A logistics captain asked from the wall, plainly, without theater. "Which systems get warning priority? Segment boards can't hold every fringe label at once."
 
----
-***TAG TWELVE APPROACH ARC***
-*THE PRICE OF A NARROW WINDOW*
+"Calder and Thessaly hold that ration under an incomplete map," Rowan said. "I don't get to invent a prettier schedule from this gallery. If we withhold anything to protect our own comfort, we say so in the sealed room and we live with the cost in the open one."
 
-Contact arrived as geometry before it arrived as courage, the way it always did now.
-
-*Kestrel* held outer watch, soft-update rights painted and unspent, no chase headers anywhere on the board. The screen elements — light, fast, expendable in the specific sense that nobody wanted to say out loud — spread along the outer traffic shell to deny one feeding path and catch dropped tags before they became false confirmations. *Ash Meridian* and a Segment frigate held the line, missile-capable, harassing rather than hunting. *Iron Harrow* held mid-range plasma under a dual-key lock that required both bridges to speak before anything fired.
-
-Tag Twelve's densifying core answered instruments the way it always did now: present, climbing, refusing to show a face. Processing elements moved with the sequence rather than against the people caught inside it. Park kept the residual strip honest through all of it. "They're talking. Loud. Meaning's still none. If you want a villain in this, you'll have to invent it yourself — the board won't hand you one."
-
-A Helion strip arrived late and confident, ordering pursuit if the escorts broke. A local logistics officer answered it directly, unimpressed. "If you chase, the population window closes while we're spending thrusters on ghosts. Which confirmed do you want me to die under?"
-
-"Local supersedes the outdated order," Calder said, without the half-second of hunger that would have cost him something two weeks ago. "No pursuit. Soft elevation only. Hold scope."
-
-The corvettes and light escorts bought minutes, not victories — a path denied for now, not made safe, and everyone running it said so plainly over the joint channel instead of dressing it up. A processing escort took damage and continued the sequence anyway, because whatever was on the other end of that geometry did not hate back and did not stop to negotiate. It simply kept working, the way water keeps finding the lowest point in a room regardless of how the room feels about it.
-
-"They continue," Vex said, flat, on the open channel. "Don't ask the board for hatred. Hatred would end. This doesn't."
-
-The warning net lied once, the way it always did under load, and a Fleet escort flinched toward the false clear path before fear could win the argument entirely.
-
-"Abort," Thessaly said, immediately, both bridges. "No chase. Re-route. Log the false confirmation as a known condition."
-
-Calder honored it inside the same breath this time, the way he'd promised himself he would. "Abort holds. Don't invent a traitor for a prosthesis that lied. Don't invent courage for a flinch that almost cost people."
-
-The processing sequence slowed. It did not stop. It stuttered along one metal-rich band long enough for an evacuation screen to pull a medical packet and two haulers off the outer ring, and one assist crew stayed behind with a hold, because there was always, on every one of these nights, someone who stayed.
+He signed the order with coffee going cold at his elbow and no comfort attached to any of it.
 
 ---
-***TAG TWELVE OUTER RING***
-*THE BILL*
+***CONTACT NODE SEVEN — ASSIST YARD NINE***
+*THE WINDOW*
 
-The bill came in before anyone had finished pretending the stroke had been clean.
+Thessaly had learned, months ago, to trust the particular quiet that settled over a room right before it lost something. It settled over the joint annex now.
 
-A Dominion light escort took a hull breach and sealed two compartments rather than convert the damage into a chase. One Long Watch runner died under that decision, and Vex accepted it the way Dominion command accepted every inherited cost — present, measured, refusing to perform grief for an audience.
+The dual board held Assist Yard Nine in the ugly middle of a decision that would not sit still long enough to be made comfortably. A residual density reading had been climbing on the approach corridor for six hours — slow, then faster, the kind of build that had twice before turned out to be nothing and once, at Founders' Reach, had turned out to be everything. Two contract families were still on the yard. A medical packet carried a pediatric tag that nobody in the room had said out loud yet, because saying it out loud made it a fact you had to act on immediately or admit you weren't going to.
 
-A Fleet officer read the acceptance as coldness before he'd finished reading the rest of the board. "They took that hit and kept branch hold. If that were a Fleet crew, we'd be screaming for reinforcement."
+Orenna Voss-Callan had run that yard's freight board for nine years. Her last message sat on the secondary wall in her own plain hand: *residual intensity no longer weather. Requesting full clear, not partial. We are not going to get a second window.*
 
-"No," Thessaly said. "They spent a life to keep the window honest. Screaming for reinforcement would have turned delay into a chase and closed the packet behind it. Coldness is what Fleet calls preparation when Fleet wants somebody to blame."
+Hadd read it twice before he spoke. "Fuel margins say we can pull the medical packet and one family clean if we go now. Full clear on both families and the assist crew needs the second tug, and the second tug's on observation support two bearings out. If we divert it, that provisional node goes unwatched for the length of the burn."
 
-Losses stacked on both sides without needing treachery to explain any of it. Fleet's light hulls sat closer to the residual interference and took more medical tags. Dominion's compartment discipline meant fewer wounded and one more named dead. Both costs were real. Both were already, somewhere in a capital neither of them could see from here, being spent as proof for opposite arguments.
+Calder felt the shape of the decision before he let himself look at it directly. Two choices, and no honest way to make either one without giving something up. He had been trained, exhaustively, to prefer the version of himself that waited one more minute for one more number. He reached for that version now, the way a man reaches for a coat he's worn every winter of his life.
 
-"Send the name once," Thessaly told a junior who'd asked whether they should send condolence language across the joint channel. "Don't send theater. The losses weren't shared evenly. Log that honestly and keep working."
+"Get me a second compare," he said. "Fleet's slope has been wrong twice this month. I want Dominion's archive against it before I spend a second escort's fuel chasing a reading that might be an echo."
 
-Calder felt the old hunger for one more confirmation rise as the processing sequence began recovering along a second band, and this time caught it before it could cost him anything.
+"Captain—" Thessaly started.
 
-"Hold soft update," he said. "Abort further kinetic. We have a partial window and a delay. We don't have a civilization defeated, and I'm not going to pretend otherwise to make this feel finished."
+"One compare," Calder said. "Then we move."
 
-Vex accepted the call immediately. "We have delay. We have a partial window. We don't have more than that. Don't ask me to convert this into Fleet's disappointment theater."
+Park relayed it across the joint channel. Rada answered inside a minute, careful the way she always was when the answer might cost someone something. "Dominion partial concurs. Densification consistent with prior fringe sets. Not identical. I can't certify it as a genuine build versus feedback echo without a second reading in eight minutes."
 
-They held. The medical packet cleared. The processing continued at a reduced rate that nobody could honestly call stopped.
+"Eight minutes," Calder said, and something in him eased slightly, the way it always eased when the world agreed to hand him more time to be careful in.
 
-"You predicted me," Calder said to Vex, once, quietly, on a channel that wasn't quite as open as the rest.
+Thessaly did not let it ease in her. "Captain, if we wait eight minutes for a compare and then decide, we won't have the fuel left to run the full clear no matter what the compare says. The window doesn't care whose archive is right. It's closing on its own schedule."
 
-"You predicted me," Vex said. "Don't ask either capital to celebrate that. Celebration is how institutions invent a readiness they haven't earned."
+"If I divert the second tug on a reading that turns out to be nothing, that's fuel and coverage we don't get back either," Calder said. "I got burned on this exact math three weeks ago and Rowan is still hearing about it from Council."
 
----
-***CONTACT NODE SEVEN — AFTER-ACTION***
-*THE QUESTION UNDERNEATH THE INVOICE*
+"Then let Rowan hear about it again," Thessaly said. "Orenna's not going to get a second window either."
 
-The after-action didn't arrive as triumph. It arrived as printers and protest notes and the particular smell of a room that had spent people and still couldn't agree what the spending had bought.
+He looked at her, and for one full second wanted, more than he had wanted almost anything since the war started, to simply hand her the decision and let her be right without him. He didn't do it. He told himself later that the difference between what he did next and cowardice was very small, and he was never afterward entirely sure that was true.
 
-"Narrow objective achieved at an unacceptable price," Calder told Rowan, plainly. "Processing delayed, not stopped. One path denied and still compromised. Operational trust between Vex and me held. Political trust didn't. The pattern's undeniable now — Founders' Reach, Orchard Compact, Assist Yard Nine, Tag Twelve. This border hasn't retreated once. It's only been annoyed."
+"Get me Helion authorization for the diversion," he said. "If we're going to spend coverage on this, I want it on the record as an authorized call, not a local guess that Council gets to second-guess for a month."
 
-A war-hawk strip blamed cooperation for the losses. An isolationist strip blamed insufficient cooperation for the same losses, in the same hour, with the same certainty. Ellis logged both without letting either finish the sentence for her. "This didn't disprove the extraction frame. It made the pattern harder to deny."
+"That's another four minutes," Park said, flat, already sending the request.
 
-Rowan let the noise run itself out before he spoke again. "Field product first. Not gallery product."
+"Four minutes," Calder said.
 
-Calder gave it to him plainly, the way he'd learned, at cost, that plain was the only version worth giving anymore. And then, because the plain version wasn't finished yet, he said the part that had been sitting in him since before the Counterstroke clock had even started.
+Thessaly watched him do the math wrong in real time and did not stop watching, because looking away wouldn't have made it slower. She had seen this in him before, in smaller rooms, where the cost of waiting had been a delayed report or a wasted watch. She had never seen it cost this much, this fast, in front of her.
 
-"We're fighting this blind," he said. "Every fight we've had, we've had after the fact — after a colony's gone dark, after a window's closed, after two people are already names in a channel nobody reads. I keep asking the board to tell me something it doesn't have. It doesn't have it because none of our instruments have ever been past the border. We know what the Peligar do to a system once they've started. We don't know anything about what's happening before that, deep enough to warn anyone in time. I was twelve minutes late at Assist Yard Nine because I didn't trust the one number I had. I want to stop being twelve minutes late because we don't have any numbers at all."
+The eight minutes and the four minutes did not run separately. They ran on top of each other, the way disasters always seemed to arrange themselves, and by the time Rada's second compare confirmed the build as genuine and Helion's authorization strip finally cleared, the burn window had narrowed to exactly what Hadd had said it would narrow to at the start: one family, the medical packet, and nothing else.
 
-The room went quiet in a way that had nothing to do with grief markets.
+"Captain," Hadd said, and his voice had gone very level, the way voices go level right before they have to deliver something nobody wants. "We have the original number. Not more."
 
-"You're asking for deep reconnaissance," Senka said, finally, from the Dominion twin, her voice giving away nothing.
+Calder stood very still at the overlay. Twelve minutes. That was the whole of it. He had spent twelve minutes buying certainty a freight-yard lead had already handed him for free — a woman who knew her own yard better than any archive compare ever would, and who he had chosen not to believe until a second instrument agreed with her.
 
-"I'm asking for whatever it takes to see something before it's already a funeral," Calder said. "If that means recon, then yes."
+"Execute the original clear," he said. His voice did not shake. He was almost sorry it didn't. "Medical packet and Family A. Full priority. Move."
 
----
-***CIVIL GOVERNMENT DEPTH — THE COST OF SEEING***
-*CLOAK*
+Thessaly didn't say *I told you so.* She had never once said it in six years and she was not going to start now, with the stakes this high and the clock this unkind. She simply moved, the way she always moved when the only thing left to do was minimize what remained to be lost.
 
-The room that convened two days later was smaller than any of the ones Calder had sat in since Founders' Reach, and he understood within the first minute why: what was about to be discussed was not meant to travel.
+"Reassign," she said, on the open channel. "Hadd, cut the provisional node to observation support only, tug's needed here. Family B's cargo hold does not clear. Log it as people cost, not as anyone's failure theater — we don't have time for theater. Park, dual-key stays spoken."
 
-Senka sat with gloves on. An SSD director he hadn't met before, a woman named Kaslova with a voice pitched permanently for bad news, sat across from her. Vex attended in person this time, not on a feed, standing rather than sitting, the way he stood when a decision hadn't finished costing him yet. Rowan attended for Fleet. Thessaly sat beside Calder and said nothing for the first several minutes, which he understood as her way of letting him carry a request that was, in the end, his to make.
+"Confirmed," Park said.
 
-"You are asking the Dominion to share cloak technology," Kaslova said, without preamble. "I want to be certain everyone in this room understands what that sentence actually costs before anyone answers it."
+Vex came on from *Iron Harrow*, gloves on, no triumph anywhere in his voice, which somehow made it worse. "Your observation method honors proof over instinct. That's not wrong. Proof arrived twelve minutes late to Assist Yard Nine tonight. I won't call that wisdom. I'll confirm the density read and sail the people you can still schedule."
 
-"I understand it costs you something enormous," Calder said. "I'm still asking."
+They ran the window.
 
-"The field is not Peligar technology," Kaslova said. "It's our best guess at it — built from fragments we've spent two generations trying to understand and still haven't. It's inferior. Unstable past close range. It draws more power than it should and sheds more heat than it should, and one of those two facts will eventually get someone killed if a crew trusts it the way Fleet trusts its own instruments.
+The medical packet cleared. Family A cleared with what they could carry and what they had to leave behind on a dock they would probably never see again. Family B's cargo hold did not clear the burn. Orenna Voss-Callan stayed with it, because someone had to certify what didn't sail, and a young runner named Petya Ilanov — nineteen years old, six months on the yard, the kind of quiet competent kid every yard collects and nobody ever writes up for a commendation — stayed with her rather than leave her alone with it.
 
-"It can't run active scans while hidden. It can't fire and stay hidden either — the moment a weapon discharges, the field is finished, and whatever's out there sees you exactly as clearly as it would have if you'd never had it at all. And if something that actually understands the technology we copied ever takes a hard look at you, it will find you. We don't know how long that takes. We've never had the chance to test the number against the original, and I hope we never do."
-
-"And you're telling me this because you're going to say no," Calder said.
-
-"I'm telling you this because I am going to say yes, and I need you to understand exactly how much I hate saying it," Kaslova said. "One field unit will transfer from *Long Fathom* to *Kestrel Veil* for a single mission. Dominion personnel will hold the field at all times aboard that hull. No schematics leave Dominion custody. No Fleet officer touches the drive, the shielding, or the control architecture at any point, under any circumstance, for any reason, including if every Dominion crew member aboard is dead. Commander Vex will oversee the unit, secure it, and manage it under Fleet contact operations for the duration. Captain Venn retains hull command. Fleet gets whatever the mission actually sees. Fleet does not keep the field. The unit returns to Dominion custody after. Not this time as a program. Possibly not ever as a gift."
-
-Vex spoke for the first time since he'd entered the room. He kept his voice flat. The cost was already visible in how long he had stood.
-
-"I will not pretend this is a gift," he said. "SSD is going to spend the rest of this war calling me the officer who put a cloaked field on a Fleet scout and reported to its captain, and they will not be wrong to. I commanded *Iron Harrow*. I survived threats most commanders never faced. I lost people under that keel. I am being assigned to the smallest vessel I have ever stood watch on, to babysit a field and a diplomatic clock, because Civil Government trusts me not to gift schematics and SSD wants a name to blame if the field fails in Fleet hands. That feels like demotion. I am agreeing anyway — because Assist Yard Nine happened on my watch too, in the sense that matters. I watched it happen from a feed and could not do anything faster than Calder could. I am tired of watching things happen twelve minutes too late from either side of a border. That is the whole of my reasoning, and I don't expect it to satisfy anyone in this room who isn't already tired in the same way."
-
-Senka didn't soften anything on her way into the record. "Civil Government authorizes one mission. One. Under review after completion, regardless of outcome. This does not open a program. This does not become Fleet's next request. If Fleet treats this as a door instead of a single unlocked window, the door closes and stays closed for longer than anyone currently in this room will be alive to regret."
-
-"Understood," Rowan said.
-
-Kaslova looked at Calder a long moment, the way a person looks at someone they've decided to trust against their better judgment. "You'll want to go yourself."
-
-"Yes," Calder said, and didn't pretend otherwise.
-
-"Then understand this too," she said. "The field doesn't fix what happened at your yard. It doesn't buy back twelve minutes. It buys you the chance to be right about something before it costs someone their name in a channel nobody reads. That's the entire product. Don't ask it for more than that, and don't let your own guilt turn it into a debt you think you can finally pay off. You can't. Nobody can. You go, you look, you come home, and the twelve minutes are still gone. All of them. Forever."
-
-Calder held her gaze and didn't argue, because she was right, and because he'd already decided that going anyway was the only honest thing left available to him.
-
-"Understood," he said.
-
-Vex looked at him once across the table — not warmth, not friendship, the same professional mirror it had always been between them, sharpened now by something neither man had a word for yet.
-
-"Sail toward it, then," Vex said. "Predict me. I'll predict you. That's still the entire available product too."
+Hadd swore, mild and useless, when the hold went dark on the live net without any distress signal at all. Just an absence. Just a window that had closed on two named people while every instrument in the room had stayed competent and every capital involved had stayed hungry for a cleaner story than the one they were actually going to get.
 
 ---
-***CONTACT NODE SEVEN — ACT IV CLOSES***
-*STILL CARRYING IT*
+***KESTREL VEIL — AFTER***
+*WHAT HE COULD NOT WRITE*
 
-Rowan did not decorate the summons to Helion that followed. "Joint principals," he said. "Counterstroke will be rewritten by politics whether we attend the argument or not. Better to carry honest headers into the room than let the room invent them without us."
+Calder went to his quarters an hour later and tried three times to start the incident report, and three times found himself staring at the blank field where the reason belonged.
 
-Thessaly wrote the last line into the quiet channel before they broke for the transit: *Counterstroke complete. Operational trust survived. Political trust didn't. Deep reconnaissance authorized, one mission, cloak unit from Long Fathom fitted to Kestrel Veil under Dominion custody. Calder hull command. Vex field custody. He is not doing this to feel better. I have watched him try to feel better for two weeks and it has not worked once. He is doing it because it is the next honest thing available to him, and that is, for now, enough for me to trust.*
+*Reason for delayed elevation:* he typed, and then sat with his hands still on the console edge, because every honest answer he could put in that field made him sound either careless or exactly as careful as he had always believed he was supposed to be, and he no longer knew which version frightened him more.
 
-Outside the annex glass, Contact Node Seven's ordinary traffic kept moving the way ordinary traffic always did, indifferent to what the sealed rooms had just decided: freight clerks arguing tags, a runner carrying bread to a watch that had forgotten breakfast, Founders' Week cloth glowing copper on a lag screen for a season that still hadn't opened.
+He thought about writing *acted on standard verification protocol* and deleted it, because it was true and it felt like a lie anyway. He thought about writing *I was wrong* and left that in for almost a minute before he deleted it too, not because it wasn't accurate but because it wasn't specific enough to be useful to whoever read this file next, and specificity was the only thing he still knew how to offer anyone.
 
-Calder looked at the provisional sheet one last time, sunsets and abort criteria and all, and then at Vex on the feed, gloves on, no affection, the map's frontier not retreated so much as briefly, expensively annoyed.
+Thessaly found him there without knocking first, which was how he knew she'd already decided this wasn't a conversation that could wait for the courtesy of a door.
 
-"I'll hold the joint table into Helion," he said. "I'll carry what I'm carrying. Both capitals are about to spend the same crews arguing over what today meant. We don't get a win out of this. The pattern's confirmed. The border hasn't moved back an inch. And in a few weeks, for the first time since this started, we're finally going to see something before it's already too late to matter."
+"You haven't eaten," she said.
 
-Vex answered without flinching. "Sail toward Helion. Predict each other. Don't invent hatred to make the invoice feel cleaner. Don't invent alliance to make it feel shared, either."
+"I'm working on the report."
 
-Hulls held station. The amber densification held on Tag Twelve's core, slower, still present.
+"You've been working on the report for forty minutes and it's four sentences long." She didn't sit. She stood the way she stood on watch, hands loose at her sides, ready to move if he needed her to. "Say it to me instead of the file. The file doesn't need it as badly as you think it does."
 
-Act IV closed without comfort, and without, for the first time in weeks, quite as much dread as it had opened with.
+He looked at the screen instead of her. "I asked for a compare I already had the answer to. I asked for an authorization I could have taken as a local call and defended later. I did both things because they were the correct procedure and because doing them meant I didn't have to be the only name on the decision. Twelve minutes. That's the whole report, if I'm honest, and I don't know how to write twelve minutes in a form that has boxes for coordinates and casualty counts and doesn't have a box for that."
 
-Rowan's shuttle was already spinning up for Helion. Calder went to find Thessaly before it left.
+"Write the twelve minutes," Thessaly said. "Not because the file needs it. Because you do."
+
+"Two people," he said. "Orenna Voss-Callan. Petya Ilanov. Family B loses everything they own and keeps their lives, and I don't get to feel good about that arithmetic just because it could have been worse."
+
+"No," Thessaly said. "You don't. It could have been all of them, if the read had been real and you'd moved on Fleet's slope alone and been wrong. It could have been none of them, if you'd trusted the one number you already had. You don't get a clean answer out of this. You get the honest one, which is that more of them would have made it out if you'd moved twelve minutes sooner, and that Peligar processing was always going to cost this yard something, and both of those sentences are true on the same page."
+
+He was quiet a long time.
+
+"I keep thinking I did the responsible thing," he said finally. "That's what scares me. I can walk myself through it again right now and every single step still looks reasonable. Verify before you spend an asset. Get authorization before you make a call Council can second-guess. I did the things I was trained to do exactly because I was trained to do them, and two people are dead, and I still can't find the moment where I did anything a review board would call negligent."
+
+"That's because there isn't one," Thessaly said. "That's what makes it worse, not better. If you'd been careless, you could fix carelessness. You weren't careless. You were exactly as careful as you've always been, in a war that doesn't give careful the twelve minutes it used to get for free."
+
+"Then what do I fix?"
+
+"I don't know yet," she said. "Neither do you. Eat something. Write the report honestly. Do the next one differently, and I mean that as an instruction, not a comfort — the next one will come, probably tomorrow, and I need you to be the version of yourself that can still make a call inside twelve minutes if that's what it costs."
+
+She left him with the tray she'd brought and hadn't mentioned once, and he ate half of it before he went back to the file and wrote, plainly, without a single word he'd have needed to explain to anyone: *I asked for confirmation I did not need. The delay cost two lives that a faster decision could likely have saved. I accept the finding.*
+
+He did not sleep that night. He told himself it was the report keeping him up, and knew, lying in the dark with his eyes open, that it wasn't.
+
+---
+***CIVIL GOVERNMENT DEPTH — THE OTHER LEDGER***
+*WAR EXHAUSTION*
+
+Irina Volkova took her gloves off before she opened the morning packet, because her family had always taken gloves off before serious paper, and war exhaustion hadn't managed to cancel the habit yet.
+
+Tea sat on the sideboard as work, not as comfort. Sector Nine's transportation room smelled like ink and recycled air. Outside the rain screen, shipyard lights pulsed in a rhythm that had stopped feeling like virtue and started feeling like debt.
+
+"Corridor delays on the outer spines," she said. "Fleet's share demands more dual-custody freight windows than our yards can spare without cutting civilian medical and school packets. Helion wants deeper share because their grief markets are hungry. Begin."
+
+Jasko tapped the board. "The geometry doesn't care whose grief is louder. It costs the same fuel either way."
+
+An SSD handler didn't soften. "Fleet's new extraction language is useful and radioactive at once. Useful because it matches what we already knew. Radioactive because Fleet will treat agreeing with us as a receipt for our depth maps."
+
+Vex, attending because capitals needed a military name when logistics told a truth politics preferred buried, didn't flinch. "I'll keep teaching what the war requires. I won't gift what the applause requires. Assist Yard Nine cost two names because Fleet's observation method arrived at proof twelve minutes after the yard needed it. I won't call that contamination. I'll call it the price of a doctrine built for a slower war."
+
+Dusan cleared his throat. "Ma'am. Leave codes. Three families asked for harvest-festival travel before the next contour move. Two can clear if we hold the medical window. One can't if we divert the tug to Fleet's dual-custody escort. The form wants a yes or a no."
+
+Volkova looked at the leave stack the way she looked at every human cost that arrived dressed as paper, and executed the choice without pretending to enjoy it. "Hold the medical window. Divert the tug. Document the penalty against Fleet's share demand. Tell the third family the truth, plainly: preparation is still a virtue, and virtue is currently expensive."
+
+Outside the rain screen, a small funeral procession moved along the lower plaza in quiet, practiced rhythm — copper bands, no speeches loud enough to become anyone's gallery product. Volkova watched it once and went back to the freight board, because empathy had never once excused a person from the work still in front of them.
+
+"No moral victory," she said, to nobody in particular, closing the packet. "Just freight, and a civilization still arguing whether preparation can survive a neighbor who invented weather nobody asked for."
+
+---
+***CONTACT NODE SEVEN — THE COMMUNIQUÉ***
+*UNPAID NAMES*
+
+The joint communiqué went out that evening in careful language that Ellis, reading it from Helion, called false to the forensics the moment she saw it: *hostile fringe pressure, elevated wartime measures, populations to remain calm.* No extraction. No resource graph. No admission that two people had died waiting for a captain to be sure of something he'd already been told.
+
+Rowan signed it anyway, because the alternative — no communiqué at all — would have let the grief markets invent something worse without his name attached to any of it.
+
+Thessaly wrote the true cost into the quiet channel that almost nobody would ever read, because that was exactly why it mattered.
+
+*Orenna Voss-Callan, nine years on Assist Yard Nine's freight board. Petya Ilanov, nineteen, six months on the yard, stayed rather than leave her alone with the hold. Family B, name withheld at their request, lost everything they owned and nothing else. Calder's delay: twelve minutes, on the record, in his own hand. More would have cleared if the call had come sooner. Not all would have. Both of those things are true.*
+
+She did not add anything about fault. Fault had already been written, honestly, by the one person who owed it, and repeating it in her own channel would have made it about her instead of about the two names at the top of the page.
+
+On the fringe strip, farther along the same arc, a quieter provisional label went amber for the first time. Nobody in the room mistook it for good news.
+
+Hale saw it and didn't pretend doctrine written for a slower war would survive this one without breaking somewhere new. "Next session," he said. "Wartime observation amendment, under fire, whether anyone's ready to write it or not."
+
+Rowan didn't ask the board for comfort.
+
+"Hold the joint framework," he said. "Hold the cost. Sail anyway. This is not going to be the last window that closes twelve minutes too late."
+
+Hulls held station. The amber light held with them.
+
+The work went on, because two names were not going to be the last ones the war asked for, and everyone in the room already knew it.
 
 **END CHAPTER 18**

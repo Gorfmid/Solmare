@@ -1,236 +1,433 @@
 # Chapter 15
 
-## The Shape of Hunger
+## Vex
 
 ---
 
-***CONTACT NODE SEVEN — FORENSICS ANNEX***
-*A HISTORIAN'S STYLUS*
+***IRON HARROW — MORNING WATCH UNDER JOINT ORDERS***
+*ESCORT STATION / CONTACT NODE SEVEN ADJACENCY*
 
-Ellis came in person this time, by shuttle, because Contact Node Seven had finally admitted a historian's presence mattered more than another sealed mirror relay. The bay smelled like oil and wet seals. A clerk stamped her wartime support receipt without looking up, the way clerks stamped everything that had stopped being optional and hadn't yet become theater.
+Vex woke to joint orders the way Dominion captains woke to weather they had already priced: without surprise, without welcome, and without the luxury of pretending the day belonged to them alone.
 
-Coffee sat on the Fleet sideboard. Tea sat on the Dominion twin. Neither cup was a clock; people simply worked near them.
+The command compartment aboard *Iron Harrow* carried the same inherited quiet it always carried at morning watch. Copper plaques along the CIC wall held campaign names in old script. The rail along the secondary plot still showed the worn place where officers rested a left hand during difficult arithmetic. Tea service sat on the side board as work presence. Gloves stayed on until the first serious packet required more than courtesy. A rain screen beyond the outer viewport turned Contact Node Seven's docking lights into soft geometry, engineered weather over old metal, the ship looking like what it was: layered, revised, still sailing.
 
-The forensics annex ran a dual board along the long wall. Founders' Reach sat finished in one corner, the way an old wound sits once you've stopped expecting it to close. Orchard Compact sat dark. Along the fringe, a system nobody had wanted to schedule as a funeral was glowing unclean and honest in real time.
+Kell was already at the Long Watch board with archive compare open and Fleet liaison traffic stacked in a holding strip like unanswered doors.
 
-Calder stood at the joint table. Thessaly kept where she could watch faces. Ortega stacked returns. Park held the residual strip and refused to decorate it. On *Iron Harrow*'s side, Vex stood with Kell and Rada; Klimov drove the Dominion overlay.
+"Morning packet from Contact Node Seven," Kell said. "Joint follow-on. Teaching evolution scheduled. Fleet wants pattern language for buffer watch. SSD wants depth silence. Civil Government wants both without saying both."
 
-"Show me the staged product," Ellis said. "Not the caption."
+"Of course," Vex said.
 
-Ortega opened the system in sequence — outer first, then inward, the way a survey officer opens a hull breach. No sermon in it.
+He poured tea for himself and for Kell because morning watch under joint orders still began like morning watch under ordinary pressure. Nobody used the cups as timers. People worked. A junior runner set bread and fruit on the side board without announcing it. Breakfast under pressure looked like every other Dominion breakfast: food present, conversation rationed, history louder than appetite.
 
-Asteroid belt first. Metal-rich bands stripped in order. Not mining claims — too clean, too patient for that. Moons next, partial and unclean. Orbital infrastructure taken apart along energy gradients rather than population centers. A planetary atmosphere thinning where the industrial returns thickened. Cities still visible in the older mirrors, and entirely irrelevant to whatever geometry was actually eating the system.
+Rada entered with the lexicon slate and the omission scar still painted beside the wrong-header scar from the night before. She looked tired in the useful way linguists looked tired after refusing a dictionary to three capitals at once.
 
-Ellis leaned in despite herself. She had spent years correcting Founders' Week captions, and she knew exactly what conquest was supposed to look like in a schoolbook: flags, chases, demands, a hatred you could hang on cloth. This board offered none of that. It offered stages, the way a freight schedule offered stages — useful first, outer first, people somewhere in the middle of the arithmetic and never at the center of it.
+"Public demand returned at dawn," she said. "Segment presses want Peligar meaning. Helion galleries want Peligar hatred. SSD wants Peligar proof that Fleet contamination made the pocket. I answered none of them."
 
-"No occupation logic," Ortega said. "No demand. No hatred signature. People show up in the old census records and nowhere in the processing sequence as targets."
+"Good," Vex said. "Keep answering none."
 
-Kell spoke without triumph, which by now Ellis had come to recognize as his only register. "A watch that needs occupation to recognize hunger will invent occupation the moment the board refuses to give it one."
+He removed one glove to annotate the joint follow-on, then put it back on before the annotation finished. Habit. Courtesy to the task. The crew read it the way they always had: serious work had begun.
 
-A Fleet officer on lag reached for the word the open galleries kept demanding. "Five systems, same signature — lock *invasion front* before Council does it for us and gets it wrong."
+The follow-on was narrow and rude in the way Helion preferred necessity to arrive. Teaching evolution under interlaced responsibility. Fleet junior watches to attend by secure feed. Dominion pattern library open only to sanitized branches. Depth marks remain blank. Dual-key alerts remain law. Protest notes travel. No alliance nouns. No friendship theater. Sunset clock continues.
 
-"Invasion wants a face," Thessaly said. "This wants matter."
+Beneath the header, a quieter Civil Government strip from Senka rode lag:
 
-Vex didn't flinch. "The staging's consistent with prior fringe sets. Asteroids to moons to atmosphere to planetary matter. That's not Fleet theater. That's arithmetic. I'll confirm the stages are inconsistent with what your people call conquest. I won't hand you the archive that would let you finish the thought yourselves."
+*FIELD COMMAND WILL TEACH WHAT WAR REQUIRES. SSD MAY DRAFT CONTAMINATION LANGUAGE. CIVIL GOVERNMENT WILL NOT CONVERT UTILITY INTO SURRENDER. HOLD THE BUFFER. DO NOT GIFT THE ARCHIVE.*
 
-Calder felt the old hunger for one more compare rise in him and let it pass through without acting on it, because the board wasn't going to finish arguing before more of it went dark. Watching a system get eaten in real time did something to a person's patience that no amount of training quite prepared for.
+Beneath that, an SSD strip rode louder:
 
-"Hold the working label," he said. "Processing signature. Contested. No invasion lock, no complete ecology lecture. Ellis, it's yours to synthesize."
+*COMMANDER VEX REMAINS THE OFFICER WHO LETS FLEET IN. PREPARATION DISCIPLINE IS NOT A SHARED LANGUAGE. TEACHING FLEET PATTERN HABITS IS CONTAMINATION WITH BETTER MANNERS. RECORD PROTEST.*
 
-A junior survey tech at Ortega's elbow found his voice. "Sir, if we call it processing, the galleries say we're making murder sound like industry. If we call it invasion, the board keeps lying every time we paint it."
+Vex read both without flinching. He had been the officer who let Fleet in since the provisional instrument. Capitals needed a name for the risk. He had become that name. He had also been the officer who obeyed doctrine in an older failure and still carried institutional memory of what obedience did not forgive. Accountability did not expire because a new external pressure had arrived. It only learned to share a duty cycle with necessity.
 
-"Both sentences are true," Calder said. "That's why the label stays contested. Contested isn't weakness. It's how we keep either side from finishing the sentence for us."
+He thought, once, of Sections Nine through Fourteen on *Iron Harrow* — sealed in sequence during the V17 exchange, names that still lived behind doors that had not opened again that watch. Near sixty thousand souls under a Leviathan's keel was not metaphor. It was the size of the responsibility he still carried when Civil Government asked him to teach Fleet pattern language from a feed. Command identity did not shrink because the day's packet was about hesitation marks instead of batteries. Survivor responsibility did not expire into liaison work.
 
-Outside the annex glass, ordinary life kept happening in the ordinary way it insisted on happening everywhere, always, no matter what the sealed rooms were pricing: freight clerks arguing tags, a runner carrying bread to a watch that had forgotten breakfast, a Founders' Week banner glowing copper on a side screen for a holiday that hadn't opened yet. Ellis watched a child's pageant rehearsal schedule scroll past on the same board that was tracking a dying star system, and did not find that absurd. She found it, in a way she couldn't quite name, the only thing keeping her upright.
+Klimov updated the passive board without looking up. "Residual from package three remains present at range. Intensity uneven. Still talking in fractions. No craft solution. No destination vector I will certify."
 
-"Bring me the dual readings," she said. "Then we can argue nouns, where arguing costs less than inventing certainty."
+"Keep it painted," Vex said. "Do not class it clean because the night ended."
 
----
-***CONTACT NODE SEVEN — SYNTHESIS TABLE***
-*THE FRAME*
+A Long Watch junior named Sava stood at the plaque wall where morning crews sometimes stood when they needed inherited language before they could admit fear. She did not look at Vex when she spoke.
 
-The readings arrived the way wartime scholarship always arrived: ugly, incomplete, and already being fought over by people who hadn't read past the header.
+"Commander. Some of the watch thinks teaching Fleet is how we finish ourselves. Some of the watch thinks refusing to teach is how we finish alone. Both sentences are circulating."
 
-Fleet's language wanted *enemy offensive*. Dominion's wanted *continuity pressure*. Neither side had handed the other a complete model, but both had handed Ellis enough to make her dangerous.
+"Both sentences are correct," Vex said. "That is the problem. Sail the work anyway."
 
-She lined the pages the way she always lined contested evidence — carefully, as though the paper itself might try to rewrite what it said if she looked away. Founders' Reach: finished, no demand, no hatred signature, people recoverable as names and not as objectives. Orchard Compact: the same silence grammar. The mid-process system: staged and visible, cities present in old mirrors and absent from the sequence as targets. The provisional nodes: matching intervals, structured speech, no meaning she or anyone else could reach.
+Drevin, at weapons readiness with fire held as standing law, added the practical fear without dressing it. "If we teach them our hesitation marks, they will learn when we are about to refuse a chase. If we do not teach them, they will invent a chase in our geometry and call it initiative."
 
-She thought of the copper cloth in the corridor outside and set the thought down carefully, the way you'd set down something that might crack.
+"Yes," Kell said. "That is why SSD drafts and Civil Government authorizes in the same hour. Neither is stupid. Both are incomplete."
 
-"You get synthesis under seal," Colonel Neve said, gloves on. "Not gallery climb. Not Founders' Week wall text."
+Vex walked the compartment once, the way he always did when the ship needed to see that command had not become Helion theater. Tea at elbows. Gloves on. Plaques unread because everyone already knew what they said. Family photographs on a damage-control locker from a prior campaign, edges soft from years of elbows. Ordinary Dominion life continuing under joint orders: preparation first, affection absent, continuity louder than comfort. Public grief habits stayed public and brief. Private grief stayed off the board unless medical required it. Runner Merek's medical tag from the night's escort adjust was already being treated as arithmetic, not sermon, which was how Iron Harrow preferred to keep its dead-adjacent costs from becoming capital weapons.
 
-"I love Fleet's beginnings," Ellis said. "Loving them doesn't mean I lie about what the map's doing."
+"My instructors said a people who gift their whole archive to a neighbor teach the neighbor how to finish them," Vex said. "My grandmother said a neighbor who arrives late with empty hands is still a neighbor if the fire is already in both houses. We will teach pattern language. We will not open depth. Anyone who cannot hold both sentences can request transfer after the buffer holds."
 
-Denara set a smaller, honest strip beside the bigger, dangerous one. "Household recovery still needs names, not cosmology. If you hand Council a category that sounds like excusing the enemy, markets will invent a cover-up story before morning."
+Kell almost smiled and did not. "SSD will call that contamination."
 
-"I'm not excusing anyone," Ellis said. "I'm refusing to charge the wrong crime."
+"SSD may draft," Vex said. "I am sailing."
 
-On *Iron Harrow*, Vex poured tea for himself, because even an ugly packet started with an inherited habit. "A people who need hatred to fight will invent hatred the moment the board refuses to supply it," he said. "Your colony wasn't a trophy. It was on a list. Metals, volatiles, orbits, energy gradients. A system is a resource graph wearing stars. I won't complete their motive for you. I don't have it. What I have is continuity logic made geographic."
+Runner Merek appeared at the threshold with a medical clearance tag still bright on his sleeve. Not a funeral. Still a cost. He stood as if standing were proof he had not been spent as rhetoric.
 
-Park kept his eyes on the residual strip. "Structure's densifying where processing densifies. Correlation, not conversation. Don't let anyone spend that as a peace plan."
+"Cleared for outer board," Merek said. "I can take watch."
 
-Ellis felt wonder and dread arrive in the same breath and refused to dress up either one. The horror wasn't only the number of dead. The horror was the distinction. Invasion wanted enemies. This wanted matter. People were obstacles inside the second story, not objectives inside the first. She had carried that thought in sealed rooms since Founders' Reach and never once had the nerve to say it plainly to a room that could still unhear it.
+"Take it," Vex said. "Do not let anyone spend your injury as proof of either navy's virtue. Do not let yourself spend it that way either."
 
-Tonight the surveys had caught up to her nerve.
+"Yes, Commander."
 
-"We keep asking why they invaded," she said. "They didn't. They began extraction. Cities aren't the prize. Cities are in the way. That's the behavioral frame. Not a self-name, not a cosmology, not a claim about whether we could ever talk to them. Just a category the survey already earned and our war language keeps refusing to spend."
+Fleet liaison traffic waited in the holding strip like a door that refused to close itself. Vex did not open it yet. Dominion morning under joint orders required one honest beat before neighbors entered: inhabit the civilization, then argue with it. He thought, briefly and without warmth, of Calder on the mirrored feed the night before, predicting him and being predicted, refusing friendship with the same discipline Vex used to refuse theater. Useful. Dangerous. Incomplete. A peer. Not a friend. The distinction mattered more now that teaching would put Dominion hesitation habits inside Fleet mouths.
 
-She kept her voice in the sealed register. "Before a board looks like this, something quieter sat in our anomaly bins for years. Partial signatures. Mass that would not settle. Sensor disagreement we treated as instrument weather. If the processing front has a front edge, that edge looks like assessment. Not a scout fleet. Not reconnaissance as we mean it. A long measure of whether a region is worth the work. Contested. Pattern-consistent with precursor assessment. No sole lock."
+He lifted his tea, drank, and set the cup down.
 
-The room split the way rooms always split around a sentence that arrived one week too early to be comfortable.
+"Begin teaching evolution," he said. "Sanitized branches only. Depth remains withheld. Utility first. Applause forbidden. If Fleet asks for certainty, give them preparation branches. If Fleet asks for meaning, refuse. If SSD asks for a confession, tell them I am still the officer who lets Fleet in, and I am still sailing."
 
-"That excuses industrial murder by renaming it," a Fleet officer said, hot.
+The crew moved.
 
-"Invasion grammar invents a chase the board doesn't show," Thessaly said. "If the yards need overtime, authorize overtime honestly. Don't forge a cleaner enemy because fear's easier to schedule than the truth."
-
-A colleague of Ellis's from Historical Office's civic wing spoke carefully, the way people spoke when they wanted her loyalty more than her honesty. "Soraya. If this goes in a sealed packet, someone leaks it. They'll say you explained away Founders' Reach."
-
-"Then let them say it," Ellis said. "I won't invent hatred to make mourning easier. I won't invent kinship to make cooperation prettier. I'll write down what the board shows."
-
-Hale rubbed his temple. "Observation can absorb the frame if we refuse to let it become delay. War can absorb the urgency if we refuse to let urgency invent false certainty. Both are in this room tonight. Both can spend the same crews."
-
-Calder looked at Ellis across the table, and felt the mediator's job change shape under him again, the way it kept doing lately without asking his permission first. Holding the table had meant keeping two doctrines from turning lag into a funeral. It was starting to mean deciding which language institutions were allowed to use while people were still dying inside it.
-
-"I'll carry the frame," he said. "I won't invent readiness and I won't invent hatred. I'll put our little observation time where people are still answering. Capitals want a survival clock. The field wants survivors and an honest header. Both are about to spend the same crews arguing over a noun."
-
-Vex nodded once, without warmth. "Continuity logic sits closer to our own preparation memory than your invasion cartoons. That's not agreement. Don't ask me to become your translator for an alien's morals. I won't. Work anyway."
-
-Ellis wrote the note in plain language and sent it up sealed: a working frame, not a proof; a distinction, not a moral; a thesis that would be politically radioactive the moment anyone outside this room read it honestly.
-
-"Obstacles and invaders are different stories," she said, once more, because a room that had heard a hard sentence still needed to know she wasn't going to take it back. "I'll hold the difference. Don't let the map bury it. Don't let a good freight day invent kinship either."
-
-"That won't comfort Council," Denara said.
-
-"Council can have comfort once the evidence earns it," Ellis said. "Tonight it's earned a frame. A frame's not a motive. It's how a real proof becomes possible later, without lying first to get there."
+Joint orders held station the way funerals held station: without asking whether anyone liked them.
 
 ---
-***CONTACT NODE SEVEN — SIGNAL BAY***
-*CHANNELS, NOT CONVERSATIONS*
+***BUFFER TEACHING ANNEX — PATTERN LANGUAGE ONLY***
+*IRON HARROW FEED / KESTREL VEIL ATTENDING*
 
-Park liked rooms that refused theater, and the signal bay was the best one on the node for that: narrow benches, stacked receivers, no gallery cloth, nothing but instruments that made politicians angry by telling the truth slowly. Someone had taped a scrap of paper above one receiver — *Structure ≠ dictionary.* Someone Dominion had answered underneath, in a smaller hand: *Dictionary ≠ survival.* Park had left both notes up. They were already doing more honest work than most capital briefings.
+The teaching annex was a bolted room with a dual board, a tea service tray at the Dominion edge of frame, and Fleet coffee present on the mirrored feed as work presence only. Nobody shared a table. Nobody needed to. Behind Vex, one copper plaque caught the camera strip: an old campaign name in script Fleet would not recognize and Dominion juniors recited without tourism. Recognition before naming. The room did not explain itself.
 
-He'd said *they're talking* once, back when the first intercepts had still sounded like distress. Capitals had been trying to spend that sentence as hope ever since. Hope wasn't his job. Structure was his job, and structure without meaning was already enough to redesign every warning net on the border, if anyone would stop asking him for a conversation that wasn't there.
+Vex stood. Calder attended from *Kestrel Veil* with Thessaly, Ortega, and Park. A Fleet junior watch pair sat behind Ortega with soft pencils and erase marks already ready, looking hungry for certainty in the way Fleet innovation always looked hungry. Kell held archive branches. Rada held lexicon locks. Orlen kept Contact Node Seven's ear open and its patience thin.
 
-Rada stood at the Dominion twin, gloves on. Klimov held the infrared and polarization overlays. Ortega sat where Fleet's compare could disagree with Dominion's without inventing weather to explain the gap.
+"This is not friendship school," Vex said. "This is buffer survival under incomplete products. Fleet will learn enough pattern language not to die in our watch geometry. Fleet will not receive depth maps. SSD is watching. Helion is watching. Both will try to convert this hour into opposite minutes. Ignore both."
 
-"Politicians want a conversation," Orlen said from the doorway. "Show them structure without meaning. Then get out before someone turns it into a peace plan nobody's earned."
+Ortega leaned forward the way Fleet operators leaned when they wanted certainty more than they wanted manners. "Then give us the pattern that nearly killed hauler two. If your redaction made the pocket, teach us how to see the pocket without asking for your whole archive."
 
-Park opened the multi-channel product plainly. Sound first — layered, dissonant, the fraction human ears could hold, once mislogged as pain because it sounded like pain and nobody had known better yet. Infrared next: pulses that thickened when the processing thickened and thinned when it paused. Polarization on hulls where hulls existed. Harmonics through anything dense enough to carry them. Four channels, one family, no dictionary anywhere in it.
+"That is the correct hunger," Vex said. "Do not confuse it with entitlement."
 
-"They're talking," Park said. Same line as always, uglier now that the map had grown around it. "Structure's confirmed across every system we've checked. Meaning's still impossible. Anyone who tells you otherwise is selling comfort."
+He put three sanitized branches on the dual board.
 
-A Council science liaison on lag tried anyway. "If they have language, we can open talks."
+Branch one: residual intensity climbing without craft solution. Prefer hold. Prefer preparation posture. Soft update is a signature. Signatures are remembered.
 
-"You hear a fraction and call it screaming," Rada said, not unkindly. "They may hear your whole civilization as a single hum. An inadequate channel isn't hostility. It's also not a treaty instrument."
+Branch two: infrared and polarization markers denser than prior fringe sets, harmonic burst under audible fraction, mass unclean. Prefer archive compare before soft update. Soft update without compare invents weather.
 
-"Hatred-ending logic doesn't apply here," Vex said, gloves still on. "You want a villain who can be talked out of his appetite. Continuity doesn't register your cities as anything worth arguing with. Build the warning net. Don't wait on a dictionary that isn't coming."
+Branch three: local survival need only when freight or hull risk is certified spoken and dual-key. Not when fear wants a chase. Not when galleries want a noun.
 
-Park's slate buzzed with a private line mid-sentence. He glanced at it without breaking rhythm.
+"Your prospective slopes teach people to move before they know which door is theirs," Kell said. "Our branches teach people which doors already finished houses. Learn the doors. Do not demand the street map behind them."
 
-*Heard you had a bad one on Corridor Three,* Holt had written. *You still owe me the eating thing.*
+One of the Fleet juniors raised a hand, then lowered it when Thessaly glanced. "If the archive compare takes longer than the hauler's thruster stutter, what do we do with the time gap?"
 
-*Working,* he sent back. Then, because the room needed him and she'd wait anyway, *Later. Promise.*
+"You hold the screen and you speak the gap into the record," Vex said. "You do not fill the gap with a chase because empty time frightens you. Empty time is cheaper than a wrong header. Package one already taught you that. Do not unlearn it because teaching makes you feel invited."
 
-*I'll hold you to it,* she wrote. *I always do.*
+Park nodded once. "Lexicon rule holds. Pattern recognition is not meaning. Latency is not motive. Exonym is not self-name. They're talking. We do not know what they mean. Do not ask this evolution for a dictionary."
 
-He put the slate face-down and went back to the strip, and felt — briefly, absurdly, in the middle of a room arguing about an unknowable civilization — something almost like being tethered to the ground.
+"Confirmed," Rada said. "If anyone floats meaning hypotheses for Doctrine, I will kill them on the board. Public demand is not a science method."
 
-"Joint doctrine note," he said. "Translation's impossible this window. Warning-net design goes up in priority. We're mapping latency and intervals, not conversation. Not kinship. Not a switch that turns the whole thing off."
+Thessaly watched faces the way she watched rooms that wanted to become sermons. "Fleet will take the branches as executable geometry. We will not convert blank rectangles into insults during this hour. Insults can wait until freight is clear. Juniors will write what they can sail, not what Helion can quote."
 
-Klimov stacked two residual strips side by side. "Same speech family as Founders' Reach's last transmission and Orchard Compact's pre-silence buildup. Same refusal to mean anything. Wonder's allowed. A full explanation isn't."
+An SSD handler attended by lag long enough to poison the room. The woman did not give a name for the open recorder. Stratimirov-line caution still traveled in voices even when old seats had changed. Kovat-line assessments still held in the way inherited fear held: Fleet innovates under panic and calls the panic progress.
 
-Ellis watched without trying to own the science; she needed the civilization in it, not the receiver specs. Fleet wanted a talk that could end in a victory speech. Dominion wanted preparation that didn't require liking anyone. Neither hunger had turned into trust between civilizations yet, and she suspected, privately, that it might take longer than the war would allow.
+"Commander Vex," she said. "Teaching Fleet your pattern language teaches Fleet how to read Long Watch hesitation. Hesitation is depth protection. Depth protection is survival. Contaminating it with Fleet initiative habits is how preparation culture dies polite deaths. You remain the officer who lets Fleet in. That sentence is already traveling in Civil Government corridors and SSD minutes. Do not earn a louder version."
 
-"They're talking is not we can talk back," she said. "If Council forces conversation theater into a public brief, Historical Office dissents on record."
+Vex did not look at the lag strip as if it carried news he had not already priced.
 
-Thessaly kept it a schedule. "Corridor watches reassigned under spoken lock. Residual strips held as structure flags, not meaning claims. Anyone who needs a moral about this can go find it somewhere that isn't my watch bill."
+"My old commander used to say exhaustion is not a strategy," he said. "War exhaustion argues against new partners. The contour does not care that we are tired. Fleet hulls under protocol can fail us. Fleet hulls refused can leave our buffer thin while the graph advances. I am teaching what war requires. I am not teaching applause. Depth remains blank. I accept the cost of being named. Record your protest and leave the field room."
 
-Calder priced the consequence without dressing it up. "If talk won't save anyone, our little observation time is the only thing we can actually spend on them. I'll mediate across theaters. I won't invent a conversation to make Helion comfortable. Sail the work."
+The SSD handler did not leave immediately. Delay as doctrine. Delay as the part of government that still believed Fleet was the nearer danger even while the residual talked on in fractions no one could parse.
 
-A young tech near the back muttered, "So we just listen while they eat systems."
+Senka's voice cut across lag, clipped. "Civil Government accepts field teaching under sanitization. Protest travels. Usefulness travels too. Do not convert Commander Vex into a traitor for teaching neighbors not to invent funerals in our corridors. Long Watch skepticism remains rational. Rational skepticism is not permission to leave the buffer thin for elegant blame."
 
-Park didn't look up. "We listen so we know which system's next. That's not surrender. Inventing a talk is surrender to a prettier lie."
+The SSD strip finally closed.
 
-Vex almost smiled and didn't. "The tech wants a moral ending. The board offers a schedule. Keep the schedule honest."
+Calder spoke the way he spoke when he was pricing a partner instead of performing for a gallery.
 
-Orlen posted the note under seal: structure confirmed, meaning impossible, warning-net priority up. Politicians on lag looked cheated. Scientists looked relieved and unhappy in equal measure.
+"We accept blank rectangles," he said. "We do not like them. Liking is not required. Show us how Dominion prices an unclean residual when freight is in the pocket and initiative wants a chase."
 
-"They're still talking," Park said, once more, to nobody in particular. "Meaning's still none. Keep refusing."
+Vex put the package-three residual replay on the board without decorating it. Infrared denser. Polarization flipping. Harmonic burst. Mass unclean. Hauler two near a pocket dual sanitization had refused to paint. Omission scar visible. Wrong-header scar still beside it like a paired burn.
 
-The dictionary stayed exactly where it had always been: absent.
+"You want a chaseable event," he said. "Chaseable events are easier to report than weather. Weather is what this is until local survival need is certified. Your First Doctrine residue still wants observation before baptism. Good. Keep it. Do not invent bravery to fill a blank. Bravery that fills blanks finishes other people's houses."
 
----
-***HELION — COUNCIL NUMBERS ROOM***
-*A THESIS SPENDING ITSELF*
+Ortega grimaced. "And if waiting finishes the hauler?"
 
-The extraction frame leaked the way every useful sentence leaked in wartime: through necessity first, through rumor second, and through rooms that wanted a cleaner enemy and were furious to be refused one.
+"Then we certify survival need spoken and dual-key and move the screen," Kell said. "We do not pursue the residual into depth because a civilian screamed on open band. Screaming is not a map. My father said a chase without shared permission is how neighbors become enemies again. Keep that sentence even when the thrusters stutter."
 
-Ellis stood in the numbers room with Rowan on the primary board and Hale and Neve minding the edges. Calder attended on lag with Thessaly and Park. Senka sat in on the Dominion twin. Vex attended because SSD wanted a military name to blame if Fleet's new vocabulary contaminated preparation culture.
+Park looked at Rada. "Human channels improved last night. Dual-key held. Omission spoken. That is teaching too."
 
-Outside Rowan's sealed glass, a committee clerk argued whether pageant props could keep the old first-departure mark if the commemorative editions stayed contested. Ordinary civilization went on practicing joy on schedule, one room over from where sealed rooms priced resource graphs. Ellis had stopped finding the gap strange. She had started finding it, on her better days, almost dignified.
+"Yes," Rada said. "Fleet can learn refusal. Dominion can learn to speak an omission before it kills a hauler. Both lessons remain cheaper than funerals. Neither lesson opens depth. Neither lesson invents affection."
 
-A war-hawk councilor struck first. "Ecology talk weakens will. Lock invasion grammar. Mobilize. Stop importing Dominion categories that make murder sound like weather."
+Vex ran them through one watch evolution on the replay. Hold. Archive compare. Soft update denied. Intensity pulse. Grade two spoken. Escort adjust under separate command. Residual decay uneven. No pursuit. No illumination. Cost shared. Runner Merek's medical tag remained visible in the record like a scar nobody was allowed to polish. The Fleet juniors wrote. Erased. Wrote again. Dominion juniors watched the erase marks the way Long Watch watched soft updates: as signatures that would be remembered.
 
-An isolationist answered from the opposite hunger. "Cooperation imported the wrong categories to begin with. Pull back. Protect what's left of our own vocabulary."
+"Predict me," Vex said to Calder, not as theater, as work.
 
-"That's how captions become weapons," Neve said, flat. "One contested product under seal. One honest public product that doesn't lock a sole invasion story. No dual theater."
+Calder did not smile. "You refuse pursuit. You protect depth. You treat the residual as weather until both of us certify local survival need. You grant Fleet observation at current range because observation is predictable and cheaper than contamination fantasy. You will not convert prediction into friendship. You will keep testing whether Fleet can hold preparation discipline when initiative feels like virtue."
 
-Senka's voice, dry as always. "Civil Government accepts the widened pattern as fact. If Fleet treats agreement on categories as a receipt for depth maps, SSD will call that annexation by other means, and they won't be entirely wrong to."
+"Correct," Vex said. "Predict yourself."
 
-Vex didn't flinch. "Partial agreement without Fleet's moral vocabulary attached. I'll keep teaching what the war requires. Don't ask me for civilizational trust because a historian told the truth in a sealed room. Trust doesn't scale that way. Work does."
+"I hold fire language," Calder said. "I preserve contradictory sensors. I refuse a simple war story while the residual refuses to class. I align with your preparation posture when forcing you to be Fleet would spend civilian freight on proof. I will keep testing your freight imagination. You will keep testing my preparation discipline. I will not ask you to like the tests."
 
-Ellis felt the bury pressure the way she always felt it now — like a caption waiting to become a weapon the moment she looked away from it. She thought of Ilen pressing program copies for a season that still believed beginnings were the largest clock anyone needed. She didn't soften the sentence, and she didn't finish a cosmology she didn't have.
+"Also correct," Vex said. "That is operational respect. Do not call it more. Respect is not trust of civilizations. Respect is prediction under shared risk."
 
-"They didn't invade," she said. "They began extraction. That distinction is the horror, not a sermon, not a kinship claim, and not a finished argument about where either of our civilizations actually came from. If you bury this to protect morale cloth, you'll mobilize against the wrong story while the border keeps its schedule. If you baptize it as complete understanding, you'll invent a mastery none of us have earned. Hold the category. Authorize the work. Don't let either hunger finish my sentence for me."
+Thessaly closed the teaching bill line by line. "Branches accepted for field use. Depth remains withheld. Protest notes attached. No affection required. Next package will try to drown this in opposite narratives. Hold the narrow true sentence. Juniors, if you leave this room wanting a finished map, you failed the evolution."
 
-Rowan looked at the map a long moment before he answered, at the two systems already lost and the third one dying in real time where everyone could still see it.
+Orlen exhaled. "Contact Node Seven will log teaching evolution complete. Capitals will still hate it. That is not a field problem until they try to rewrite the branches mid-watch."
 
-"Authorize the next step," he said. "Limited deeper cooperation. Warning-net priority up, because talk won't save anyone. The frame stays sealed and contested. No sole invasion lock tonight. Resistance starts either way. Ellis keeps the nouns from finishing us. Calder mediates. Vex teaches what the war needs and keeps what the applause would cost him."
+Vex left the sanitized branches live on the dual board and the blank rectangles blank. He felt, without performing the feeling, the old Dominion fear in both directions: that Fleet innovation would get everyone killed by inventing doors nobody had inherited, and that without Fleet the continuity frontier would consume the buffer while SSD drafted elegant blame about contamination that never had to sail.
 
-A second war-hawk tried one more time for a cleaner enemy. "If we can't have hatred, give us monsters. Markets need a face."
+Affection did not arrive.
 
-"Markets can have catastrophic loss and an honest map," Thessaly said from lag. "They don't get a face the board refuses to show."
+Competence did.
 
-Outside the numbers room, Helion kept moving the way cities always kept moving, indifferent to the sealed rooms above them: freight schedules posted, memorial logistics argued empty berths, and somewhere a committee clerk was still fighting for the right length of copper cloth.
-
-Ellis kept both truths visible, because someone had to, and went back to work.
+That was enough for a buffer. It was not enough for a civilization.
 
 ---
-***CONTACT NODE SEVEN — NIGHT CYCLE***
-*HUNGER WITH A SHAPE*
+***FORENSIC REVIEW — PELIGAR-ADJACENT RETURNS***
+*IRON HARROW SECONDARY PLOT / JOINT FEED*
 
-Night changed the lighting at Contact Node Seven and nothing else. The arguments stayed awake with everybody else.
+The forensic review began because the residual did not apologize when morning watch wanted sleep.
 
-Calder stood at the dual board with Thessaly, Park at the residual strip, Ortega marking the day's newest increment without dressing it up. On *Iron Harrow*, Vex stood with Kell and Rada. Ellis's sealed note sat on the table like a tool nobody had found a drawer for yet.
+Klimov stacked the night's returns beside three prior fringe sets from Dominion archive and two Fleet residual maps from the shared intelligence product. Ortega attended from *Kestrel* with Park. Calder stood where he could see both overlays. Thessaly held the people in the room from becoming a jury. Rada held the lexicon ceiling. Kell held inherited caution like a tool he refused to romanticize. Sava stood at the back with a slate, learning how seniors spent ugly sentences.
 
-Another system's resource graph updated in real time while they watched — not a speech, not a caption, just an increment. Asteroid stripping thickening along the metal bands. A moon's envelope starting to go unclean.
+"Mass still unclean," Klimov said. "Infrared denser across all five sets. Polarization flipping in the same ugly intervals. Harmonic structure under audible fraction stronger than package one, weaker than the Founders' Reach finish signature, still climbing on the long slope. No craft solution. No destination vector. Processing geometry at range remains the honest class if anyone will accept honesty."
 
-Ortega didn't force a class onto it. "Same staged order. People still answering in the old census echoes. Still absent from the sequence as anything anyone's aiming at."
+He put a second strip beside the first: residual after-action from the assist yard's near pocket, civilian thruster stutter logged without ideology, medical packet clear, hauler two alive by screen geometry and ordinary civilian courage. Cost shared. Runner Merek's strain injury stamped once. No sermon.
 
-"Paint it," Thessaly said. "Plain language. Observation support where people still answer."
+Ortega pointed at a Fleet slope spike the shared product had delayed the night before. "That delay nearly wrote a civilian loss. Your blank made the pocket. Our delay made it deeper. Shared cost. Fine. What I want now is a noun I can hate. Markets want a face. Crews want a monster. If this is war, give me an enemy."
 
-Calder read Ellis's note without hunting for comfort in it. Holding the table under an incomplete map had always meant keeping the nouns honest. It was starting to mean something harder: the next fight wasn't only on the frontier. It was over which words institutions were allowed to use while people kept dying inside the argument.
+Vex looked at the stacked returns the way Long Watch captains looked at unfinished houses: for doors, not for sermons. He had watched Dominion archives price this comparison class for years before Fleet borrowed the exonym and tried to turn it into a caption. Peligar was not a self-name. It was ignorance with institutional manners. The returns did not care what humans called them.
 
-"I won't invent readiness," he said. "I'll carry the extraction language under seal without letting it become an excuse to wait longer than I should. I'll refuse invasion grammar without letting the refusal become paralysis. Both capitals want their own kind of clock. The field wants survivors, and both sides are about to spend the same crews arguing over a noun."
+"You want hatred," he said.
 
-Vex looked across the feed without warmth, which had become, between the two of them, its own strange form of honesty. "Complete model withheld. Partial agreement stands. Hatred would be easier, because hatred can end. This doesn't. I'll keep the instruments running. Don't ask me for civilizational trust because a sealed note told the truth tonight."
+"I want clarity," Ortega said. "Hatred is clarity when something is finishing systems and talking in channels we cannot answer. Evil I can schedule. Monsters I can brief. This unclean weather is finishing colonies without giving me either, and my people are starting to invent faces so they can sleep."
 
-"I'm not asking for trust," Calder said. "I'm asking you to keep answering when I call."
+Park kept his voice flat. "They're talking. Meaning none. Do not invent clarity from fractions. Infrared. Polarization. Harmonic. Audible fraction. Speech structure. Motive absent. Dictionary absent. Keep the ceiling."
 
-"I will," Vex said. "Sail."
+"Clarity is how people sleep," Ortega said. "I am not asking for a bedtime story. I am asking whether we are allowed to name this as hostility so the watch does not break itself inventing softer nouns."
 
-Thessaly closed one watch bill and opened another. "People will want monsters again. Keep the sealed language honest. The next corridor's going to ask for the same discipline with less time and uglier words."
+A Helion science liaison on lag tried the soft blade. "If crews require moral framing for endurance, limited enmity language could be authorized for sealed briefings. Doctrine Bureau notes that hatred grammar improves unit cohesion under prolonged residual exposure."
 
-Park added the only line that mattered. "They're still talking. Meaning's still none. Keep refusing."
+"No," Thessaly said. "Sealed enmity becomes open caption by dinner. Cohesion bought with false nouns is how package one nearly wrote a funeral. Hold."
 
-Ellis spoke last, plain. "I'll hold the question. Don't let the map bury it. Doors are open. Proofs aren't finished. That's enough for tonight, and it's not enough for the border."
+Vex removed one glove, annotated a comparison mark on the secondary plot, and put the glove back on. The mark was not a motive certificate. It was a preparation note: pattern-consistent, continuity-adjacent, refuse monster grammar, refuse dictionary demand.
 
-"Anger that can still argue beats consensus built on a lie," Rowan said from lag. "Keep arguing. Keep recording. Keep refusing the sole invasion lock."
+"No," he said. "They are not monsters."
 
-The residual strips kept talking in fractions nobody could translate. The frontier advanced another increment. Somebody had said the true sentence out loud, and no institution in the room knew quite what to do with it yet.
+Ortega stared. "How is that not the wrong sentence after Founders' Reach?"
 
-Calder looked at the finished worlds, then at the ones still answering, and filed the difference where he'd have to find it again tomorrow. Language was a battlefield now too. That didn't buy anyone more observation time. It just meant he had to fight for it on one more front than he'd trained for.
+"They are worse," Vex said.
 
-"Begin follow-on," he said, and let Ortega take the board so he could go find Thessaly before the next thing started.
+The room went quiet in the useful way rooms went quiet when a captain spent a sentence he did not spend lightly. Sava's slate stylus stopped. Kell did not look surprised. Rada looked like a linguist hearing a distinction she had been waiting for someone with command authority to spend in front of Fleet.
 
+Calder did not fill the silence. Calder priced it.
+
+"How?" Calder asked.
+
+Vex looked at the infrared markers, then at the blank depth rectangles SSD still required, then at the Fleet faces that wanted a comforting war. He spoke as Dominion observation, not as Fleet moral language. Preparation. History. Continuity. The sentences his instructors had used when border watches first stacked unclean returns and juniors asked for enemies with faces.
+
+"They have no hatred," he said.
+
+Ortega laughed once without humor. "Isn't that better? No hatred means maybe they can stop. Maybe they can be talked into stopping. Maybe there's a switch. Maybe Park's channel is a door if we lean hard enough."
+
+"No," Vex said. "Hatred can end. A people who hate you can tire, bargain, break, or bury their dead and choose a smaller fire. These will continue until there is nothing left because they do not know they should stop."
+
+Rada's eyes flicked to the Peligar strip and away. "Dominion comparison class already priced that. Continuity pressure. Industrial ecology. People register as obstacles in the graph, not as enemies in a war story. Do not ask me to decorate that for galleries. Do not ask Science for a self-name. Do not ask me whether negotiation is possible. Withheld. Unknown. Keep it that way until honesty changes."
+
+Park swallowed. "Obstacles."
+
+"Yes," Vex said. "Not objectives. Not trophies. Not revenge. Matter, volatiles, orbits, energy gradients. A system is a resource list wearing stars. Your colony was on the list. So were the people inside it. If your historians ever earn the extraction sentence without turning it into theater, they will say the graph removed obstacles, not that an army invaded for glory. I will not complete their motive stack for you. I do not have it. Translation remains impossible. Negotiability remains unknown. What I have is preparation memory: they do not stop for moral grammar because moral grammar is not in their continuity doctrine."
+
+Kell spoke like a man repeating an instructor because the instructor had been right too often.
+
+"My teachers said a fire that hates you can be reasoned with after enough ash. A fire that does not know you exist as a subject will take the house for fuel and not understand the complaint. That is why Long Watch prefers branches over bravery. Bravery assumes an enemy who can be shamed. Branches assume weather that keeps moving."
+
+Ortega's hands had gone still on the console edge. "So we cannot hate them usefully."
+
+"You can hate them if it helps you stand watch," Vex said. "Do not confuse that private comfort with operational truth. Hatred would be better because hatred can end. This does not end when your grief is complete. This ends when the graph has no useful matter left, or when something stronger interrupts the graph. Preparation is for the second case. Fantasy enmity is for markets and Founders' Week committees that need a face to hang cloth on."
+
+Calder watched him across the feed with the expression Vex had learned to read as Fleet peer recognition without warmth.
+
+"You are not giving us a sermon," Calder said.
+
+"I do not give sermons," Vex said. "I give continuity logic. Fleet innovation will try to invent a switch. Dominion preparation will try to buy time with buffer and archive. Both may fail. Both remain necessary. Do not ask me to enjoy being early about Founders' Reach. Being early did not save it. Do not ask me to convert this into Helion moral victory language either. Moral victory language is how SSD proves Civil Government has already lost discipline."
+
+Thessaly cut the room before anyone could dress the beat up in Helion cloth.
+
+"Log the observation as Dominion field assessment," she said. "Not as Fleet moral doctrine. Not as gallery enmity. Pattern language only. They're worse than monsters because monsters can stop hating. Work continues. Ortega, keep your private hatred if it keeps you useful. Do not write it into the shared product."
+
+"Understood," Ortega said, rough and quieter. "Private only."
+
+Klimov left the stacked returns visible and unfinished. Sava wrote the no-hatred lines carefully, then looked at Vex once as if checking whether she was allowed to find the sentence frightening. Vex gave her nothing theatrical. Frightening was correct. Theater was not.
+
+Outside the forensic annex, ordinary ship life continued: tea poured, gloves adjusted, a junior runner arguing leave codes for a harvest festival window that might not survive the next contour move. Gold-thread banners somewhere in a district far from the fringe were probably already being debated by people who still believed seasons were the largest clock. Civilizations did not pause for sealed rooms. That was the point of sealed rooms. They had to decide anyway.
+
+Vex stood at the secondary plot until the room emptied enough to breathe.
+
+Hatred would have been cleaner.
+
+Cleaner was not available.
+
+---
+***PRIVATE CHANNEL — MIRROR WITHOUT HANDSHAKE***
+*COMMANDER TO CAPTAIN / NO GALLERY / NO MINDERS*
+
+The private channel opened because political minders had asked for a photo-op trust statement and both captains had refused in the same duty cycle without consulting each other first.
+
+Orlen delivered the request like a man ashamed of the paper.
+
+"Helion gallery liaison and a Civil Government optics clerk want a short joint statement," Orlen said. "Language: operational trust proven, cooperation deepening, buffer secure. They want faces. They want gloves off on camera. They want tea and coffee in the same frame as if beverages invent kinship. I already told them no. They asked me to ask you anyway because refusal looks better if field command spends it."
+
+"No," Vex said.
+
+"No," Calder said, on the same beat.
+
+Orlen almost looked relieved. "Then I will log dual refusal and leave you a sealed channel for five minutes because Capitals will invent a friendship myth if you do not spend one honest sentence at each other first. Also, a map product is coming. Ugly. I am not supposed to preview it. I am previewing the tone: small-accord competence is about to look insufficient."
+
+"Understood," Vex said.
+
+The sealed channel opened. No Rowan. No Senka. No SSD. No FIB. No Thessaly managing people into survival. Just two command feeds and the residual strip still painted at range like unfinished weather.
+
+Tea sat near Vex. Coffee sat near Calder. Presence only.
+
+Vex removed one glove to annotate a private note, then put it back on. Calder noticed. Vex noticed him noticing. Neither commented.
+
+"You refused the photo-op," Vex said.
+
+"You refused the photo-op," Calder said.
+
+"That is still operational trust," Vex said. "Do not call it more."
+
+Calder's mouth tightened in what might have been humor on a softer man. "Helion wants the face of trust without the thing. SSD wants the face of contamination without admitting the buffer needs Fleet hulls. Both want theater. I am out of theater budget."
+
+"Good," Vex said. "My instructors said a neighbor who performs friendship for galleries is already practicing entry. We will not practice entry. We will practice prediction."
+
+"Your archive prices residual behavior farther out than our sensors reach," Calder said. "Consistently. I have stopped assuming that is only discipline."
+
+Vex was quiet long enough that Calder understood the quiet was the answer before the words arrived.
+
+"Some of what Long Watch knows about staying unseen near a graph that is still watching did not come from discipline alone," Vex said. "It came from something recovered a long time ago and still not fully understood. Incomplete. Costly to run. Not something SSD will let travel to a Fleet hull this year, or next. I am telling you it exists so you stop inventing wrong reasons for things Dominion does near the frontier. That is the whole gift tonight. Do not ask for the rest of it."
+
+"I won't," Calder said, and meant it, and filed the shape of the thing away anyway, the way he filed every unfinished sentence Vex allowed him to hear.
+
+"You predicted me last night," Calder said.
+
+"You predicted me," Vex said. "Under shared risk. That is the prize Act III can afford. Civilizational trust remains absent. Depth remains withheld. Sanitization remains survival ethic. Dependency has begun. Do not baptize dependency as kinship. Teaching today put Dominion hesitation habits in Fleet mouths. That is contamination risk and survival arithmetic in the same hour. I accepted both. I will not smile about either."
+
+Calder looked once toward a place off-camera that Vex had learned meant Thessaly was nearby and choosing not to enter. People-readers knew when not to force a confession that would ruin a useful mirror.
+
+"I will continue testing Dominion freight imagination," Calder said.
+
+"I will continue testing Fleet preparation discipline," Vex said.
+
+"Both tests remain cheaper than funerals."
+
+"Agreed."
+
+Silence held. Not empty. Priced.
+
+Vex almost spent a longer sentence: that Fleet innovation still frightened him because innovation under panic invented doors nobody had inherited; that Dominion preparation still frightened him because preparation alone could not hold a contour that did not care about plaques; that without Fleet hulls the continuity frontier would consume the buffer while SSD drafted elegant blame; that with Fleet hulls the archive risked becoming a gift wrapped as necessity; that he respected Calder's refusal of simple war stories more than he respected most Helion minutes. He refused the sentence. Confession was not respect. Respect was prediction spoken without warmth.
+
+Calder almost spent a sentence of his own. Vex saw the almost land and leave. Mutual refusal. Mutual prediction confirmed. Mutual refusal of the friendship myth capitals needed for cloth.
+
+"You are useful," Vex said. "You are dangerous. You are incomplete. That is what a peer looks like under this pressure."
+
+"Same," Calder said. "I will not ask you to like me. I will not ask you to become Fleet. Do not ask me to become Dominion. Your no-hatred assessment is already circulating on my bridge as private comfort and private terror. I will keep it out of gallery language."
+
+"Keep it out," Vex said. "Hatred grammar sells. Continuity logic does not. Capitals will try to steal both."
+
+"I know."
+
+The residual strip pulsed once, thinner, still present, still talking in fractions.
+
+"They have no hatred," Calder said, quieter. "I keep wanting that to be comfort."
+
+"It is not comfort," Vex said. "It is why preparation never finishes. Hatred would let us schedule an ending. Continuity does not schedule endings for our convenience. That is Dominion fear spoken plain. It is also Dominion work."
+
+Calder nodded once. "Operational trust affirmed. Civilizational trust denied. Joint instruments remain working. That is the Act III sentence I will certify. If Orlen's ugly map is what I think it is, the next act will ask whether that sentence scales."
+
+"It will not scale automatically," Vex said. "Trust between professionals is not a product you can stamp across systems. Certify what we have. Then prepare for the map to widen. Small-accord competence will not be enough. Capitals are about to discover what Long Watch already feared: the graph is larger than one colony's funeral."
+
+"I know," Calder said.
+
+He did not. Not yet in the bones. Knowing as language and knowing as geography were different hungers. Vex did not correct him. Correction would arrive with the product.
+
+"Channel close," Vex said.
+
+"Channel close," Calder said.
+
+The sealed feed ended because neither man needed theater.
+
+Hostility had moved.
+
+Friendship had not arrived.
+
+The space between those facts remained the only honest room left.
+
+---
+***ACT III CLOSE — JOINT MAP PRODUCT***
+*CONTACT NODE SEVEN / IRON HARROW / KESTREL VEIL*
+
+Contact Node Seven called both hulls to the joint annex before either captain had finished standing down from private refusal.
+
+The dual board carried a new product under dual custody and sunset. Shared intelligence headers. FIB contamination caution. SSD preparation-discipline caution. Dual-language appendices. Protest notes attached like jewelry nobody could remove. Rowan on lag from Helion. Senka on lag from Civil Government. Ellis present long enough for classification hygiene and then silent like a tool left on the table. Tea service language visible on Dominion side. Coffee present on Fleet side. Presence only. Nobody used either as a clock.
+
+Vex attended with gloves on, Kell and Rada at his shoulders, Klimov driving the Dominion overlay. Calder attended with Thessaly, Ortega, and Park. Orlen looked like a man who had hoped the day would stay small and had been refused.
+
+"New joint cartography product," Orlen said. "Not a victory map. Not an alliance cloth. Pattern product under load. Capitals ordered it after package three cleared freight and both sides certified operational trust as provisional only. They wanted proof the buffer was working. The product refused to be that kind."
+
+The map came up.
+
+Founders' Reach sat finished in the Fleet prospective layer like a burned out coordinate nobody could restore with nouns. Orchard Compact sat contested. Contact Node Seven sat as a bolt holding two doctrines in the same duty cycle. The fringe arc sunward carried residual intensity slopes Fleet liked and historical pattern stamps Dominion liked, incomplete on purpose, better than silence. Warning-net pilot stress tags glittered along subcontract routes like a prosthesis admitting load.
+
+Then the product widened.
+
+Three additional systems along the continuity border showed the same processing signature geometry at different stages. One missing from live net. One mid-process with unclean mass returns and multi-vocal fractions. One still painted as provisional fringe and already carrying the same infrared and polarization intervals Klimov had stacked that morning. A devouring geometry, not a single-colony aftermath. The border moved because expansion was how the pressure survived. Small escort stations and dual-key scars looked suddenly like tools built for a narrower fire.
+
+Ortega swore under his breath, mild and useless. "That's not a patrol problem."
+
+"No," Kell said. "That is why Long Watch skepticism remains rational. Small joint instruments can clear a hauler. They cannot hold a graph that eats systems like schedule. My grandmother said a man who mistakes a cleared corridor for a finished war teaches the next watch to die surprised."
+
+Park kept the Peligar strip visible beside the widened map. "They're talking in more than one place. Meaning none in all of them. Do not ask for a dictionary because the map got larger. Speech structure. Motive absent. Keep refusing."
+
+Rowan's lag face did not soften. "Helion will try to reframe this as civilizational survival clock before dinner. Correct. Also dangerous. Survival clocks invent wartime powers and alliance myths in the same hour. Field command will keep the nouns honest while honesty is still cheaper than funerals. Calder, you will be asked to mediate across theaters before certainty arrives. Answer with procedure, not comfort."
+
+Senka's voice came clipped. "Civil Government accepts the widened pattern as operational fact. Political trust remains denied. SSD will call every shared mark a depth hook. Record protest. Do not stop sailing. Buffer strategy without trust remains the available instrument. Commander Vex remains authorized to teach what war requires and forbidden to gift what applause requires."
+
+An SSD strip arrived anyway and called the map contamination proof: Fleet prospective hunger had forced Dominion archive marks into a shared product and taught neighbors how to read continuity border memory. Vex read it and did not flinch. He had already accepted the name. Names were cheaper than thin buffers.
+
+"Sanitization remains," he said on the joint channel. "Depth marks in this product are still incomplete by design. Utility accepted. Affection absent. The map widening does not authorize applause sharing. It authorizes harder work. I will not convert early warning into moral victory. Being early did not save Founders' Reach. Being early will not save the next system if we spend the hour on blame."
+
+Calder stood at the Fleet overlay the way he stood when certainty addiction met a board that refused a single incident.
+
+"Working joint instruments exist," he said. "Operational trust between *Kestrel Veil* and *Iron Harrow* command is scarce, professional, and real enough to clear freight, teach branches, refuse theater, and hold a no-hatred assessment without turning it into gallery cloth. Civilizational trust is absent. This product says small-accord competence will not be enough. I will not invent readiness to make Helion comfortable. I will hold the joint table while capitals escalate."
+
+Thessaly looked from map to crews and back. "People will want monsters again. Markets will want hatred. Keep Vex's assessment in the sealed field language. Hatred can end. This does not. Schedule the work, not the comfort. Reassign watches for widened geometry without inventing alliance nouns to make the billets prettier."
+
+Ellis spoke once, plain, without opening her classified query.
+
+"Extraction frame remains live under higher seal," she said. "Widened geography does not answer founding questions. It only makes false war nouns more expensive. Obstacles and invaders are different stories. I will hold the question. Do not let the map bury it as wartime inconvenience. Do not let freight success invent kinship either."
+
+"Good," Rowan said. "Mediator protection remains requested and not guaranteed. Calder, lag note follows."
+
+Vex looked at Calder across the feed. Mutual prediction still held. Mutual refusal of friendship myth still held. The prize of Act III sat between them like a tool neither man would decorate: operational trust earned under shared risk, scarce and usable, not civilizational, not enough for the shadow now drawn across multiple systems. Professional respect without sentimentality. Continuity fear without Fleet sermon. Joint instruments working at a scale the map had already outgrown.
+
+"My grandmother said preparation honors those who come after us," Vex said. "This map says those who come after us will inherit a larger fire than one escort station can hold. I will continue joint instruments. I will continue withholding depth. I will continue testing Fleet preparation discipline. Do not ask Dominion command for a wedding because the graph got hungry."
+
+"I am not asking," Calder said. "I will continue testing Dominion freight imagination. I will continue refusing gallery friendship. Next demand still comes due on both capitals whether they like the adjacency or not."
+
+Orlen summarized without blessing anyone.
+
+"Act III closing posture locked. Joint instruments working at small scale. Operational trust between key professionals exceeds civilizational trust and remains smaller than myth. Continuity border now reads as multi-system devouring geometry. Hook to expanded frontier work is live. Protest notes travel. Sunset clock continues. Dual veto continues. Hulls hold station for follow-on tasking."
+
+On *Iron Harrow*, tea remained at elbows. Gloves remained on. Plaques remained unread because everyone already knew the inherited sentences and still had to sail past them into a map that did not care about inheritance. Sava stood at the secondary plot with the no-hatred lines still on her slate and the widened systems glowing beyond anything a junior watch had been trained to hold. Merek took outer board with a medical tag and no speech. Kell closed archive compare for the hour without pretending the blanks were shame. Rada left the Peligar strip unfinished on purpose.
+
+On *Kestrel*, coffee remained present as work. Improvisation boards still carried erase marks. Fleet still wanted switches. Dominion still wanted time. Neither hunger would be enough alone. Neither hunger had become trust of civilizations.
+
+The residual strips on three systems talked in fractions humans could measure and not understand.
+
+Vex stood at the secondary plot and did not remove his gloves again. He had taught what war required. He had refused what applause required. He had spent the no-hatred sentence as continuity logic. He had mirrored Calder without handshake. He had watched the shadow expand across a joint product capitals had ordered as proof and received as warning.
+
+Operational trust had been earned as mutual prediction under shared risk.
+
+Not friendship.
+
+Not civilizational trust.
+
+Working instruments existed.
+
+The shadow expanded.
+
+Hulls held station.
+
+The work continued.
+
+---
 **END CHAPTER 15**

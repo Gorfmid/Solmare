@@ -23,11 +23,15 @@ When writing or editing Solmare chapters, **do not** reintroduce:
 - *petition* as vague catch-all — name the actual ask (*school building*, *leak-proof walls*, *beacon array*); keep *petition* only when the form itself is the point; see Pass 3 §3.2e
 - *hold / holds / held* as vague endurance or custody filler (*walls that hold weather*, *if today holds*, *window still held*) — prefer *withstand*, *stay quiet*, *stay open*, *stay on station*, *in custody*; see Pass 3 §3.2f
 - unnecessary analogies and synonym rotation for style (*clean pipe for bad news*, *mourning with the volume down*, *honesty as a person*, rotating *silence/absence/emptiness* for the same fact) — use the first plain word; see Pass 3 §3.3k
-- *empty* / *went dark* / *returns stopped* (or *expected returns missing*) as default loss shorthand for a colony, channel, or bearing — prefer *no answer*, *stopped answering*, *missing colony*, *settlement beacons gone*; keep *empty* only for literal containers/rooms/seats; see Pass 3 §3.2g
+- *empty* / *went dark* / *returns stopped* (or *expected returns missing*) as default loss shorthand for a colony, channel, or bearing — prefer *missing colony*, *settlement beacons gone*, *attacked* / *taken apart* once known; keep *empty* only for literal containers/rooms/seats; see Pass 3 §3.2g
 - *shared warning format* / *warning format* / *shared format* / *joint format* as default packet-path jargon — say where it went and that both sides get the same words (*sent to Contact Node Seven — same words for Fleet and Dominion*); see Pass 3 §3.2h
+- *lag* / *lag voice* / *on lag* as default for remote speakers, Helion patches, or pedestals — prefer *on the channel*, *came through*, *from Helion*, *relay*; keep *lag* / *delay* only when time delay itself is the beat; see Pass 3 §3.2i
+- *went silent* / *stopped answering* as default for a colony once the attack is known (especially Founders' Reach after live observation) — prefer *attacked* / *taken apart* / *watched it leave*; keep silence vocabulary only for the early unknown; see Pass 3 §3.2j
+- *do not invent what you have not seen* / *contradictory orders* / *when orders and sensors disagree* as Helion/watch sermons — prefer the real order (*stay on watch*, *confirm before you name it*); see Pass 3 §3.2k
+- *war story* / *war words* as default Helion/gallery catchphrase — prefer *someone to blame*, *invasion talk*, *fighting before we confirm*; see Pass 3 §3.2l
 
 **Prefer:** the concrete failure or ask — *means two actions*, *guess under pressure*, *finished answer*, *category*, *classification*, *fake readiness*, *not a full brief*, name the real term (*distress*, *hold weapons* only when that is the real order).
 
 **Keep *label* only** for literal print (mug label, pedestal labeled for Rowan).
 
-Canonical detail: `Writing_System/Revision_Pass/03_clarity_language.md` §3.1b · §3.2c · §3.2d · §3.2e · §3.2f · §3.2g · §3.2h · §3.3k.
+Canonical detail: `Writing_System/Revision_Pass/03_clarity_language.md` §3.1b · §3.2c · §3.2d · §3.2e · §3.2f · §3.2g · §3.2h · §3.2i · §3.2j · §3.2k · §3.2l · §3.3k.

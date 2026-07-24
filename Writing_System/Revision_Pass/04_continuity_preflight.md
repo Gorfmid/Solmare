@@ -255,7 +255,10 @@ stop rules and|shared nouns|who can walk
 arguing with the|argue with the coffee|argue with its|\barguing\b|\bargue\b|\bargued\b|finished arguing|without arguing
 \bpretended\b|\bpretending\b|traffic .*pretend|board .*pretend|room .*pretend|quiet .*pretend
 invent certainty|clean story when the board|instruments had not earned
-\blag\b
+\blag\b|lag voice|on lag|stayed on lag
+went silent|gone silent|stopped answering|stops answering
+invent what you|do not invent|contradictory orders|orders and .*sensors disagree
+war story|war words
 holds the|hold the recording|hold the packet
 geometry|grammar|without ceremony|without drama
 People-reading|People-judgment
@@ -307,7 +310,7 @@ Also confirm earlier passes still hold: people-first (Pass 1), trust the reader 
 | Cut aphorisms that caption shown work | Full hard checklist |
 | May add missing setup scenes | Usually no new scenes |
 
-If a Stage 2 fix is also a Stage 3 habit (lag, gloves, geometry), fix it now so Final Candidate starts cleaner.
+If a Stage 2 fix is also a Stage 3 habit (*lag* / *lag voice* §3.2i, gloves, geometry), fix it now so Final Candidate starts cleaner.
 
 ---
 

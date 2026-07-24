@@ -57,6 +57,8 @@
 | [Maris Chen](Character_Encyclopedia.md#maris-chen) | Cartography analyst (deceased) | `Recurring/Maris_Chen.md` | Master |
 | [Adrian Reyes](Character_Encyclopedia.md#adrian-reyes) | Academy classmate | `Recurring/Adrian_Reyes.md` | Master |
 | [Soraya Ellis](Character_Encyclopedia.md#soraya-ellis) | Historical Office liaison | Book One Ch. 17–24; Book2 bible | Master |
+| [Brann Kelso](Character_Encyclopedia.md#brann-kelso) | Captain, *Ardent Measure* | `Recurring/Brann_Kelso.md` | Master |
+| [Iren Kade](Character_Encyclopedia.md#iren-kade) | PO2 engineering, *Ardent Measure* | `Recurring/Iren_Kade.md` | Master |
 
 ### The Dominion — recurring pillars
 

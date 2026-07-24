@@ -313,7 +313,7 @@ Retain six-act structure:
 
 **Intended beat placement (from structure bible; adjust to draft without inventing extra chapters):**
 
-- Calder major failure: Act IV (esp. Ch.16–18)  
+- Calder major failure: Act IV (esp. Ch.18–20; was Ch.16–18 pre-split)  
 - Deep recon: late IV / early V (Ch.18–20 hinge)  
 - Collapse + Thessaly pull-back: Act V  
 - Ellis stages 1–3: mid-book through Ch.20–21  

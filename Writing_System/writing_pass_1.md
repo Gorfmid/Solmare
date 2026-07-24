@@ -571,7 +571,7 @@ For *lying / lies* on instruments and plots: same rule. Instruments do not lie; 
 
 For *margin* as naming jargon: do not use *margin name*, *margin notation*, *outer-margin analysts* for the Peligar designation. Prefer: *designation*, *comparison class*, *Dominion label*, *frontier analysts*. Keep *margin* only for literal engineering (*structural margin*, *fuel margin*).
 
-For *lag*: do not use it as the default word for remote officers, pedestal channels, or “not in the room.” Prefer *relay*, *remote*, *from Helion*, *on the channel*. Keep *lag* / *delay* only when the actual time delay is the point of the beat (*the delay was long enough that interruption felt like rudeness*). *Pause* is fine for ordinary hesitation.
+For *lag* / *lag voice*: do not use as the default for remote officers, pedestal channels, or “not in the room.” Prefer *relay*, *remote*, *from Helion*, *on the channel*, *came through*. Keep *lag* / *delay* only when the actual time delay is the point of the beat (*the delay was long enough that interruption felt like rudeness*). *Pause* is fine for ordinary hesitation. Full ban detail: Revision Pass 3 §3.2i.
 
 ### Tuesday references
 
@@ -633,7 +633,7 @@ finished label|better label|incomplete label|working label|invent words|invent a
 \bgeometry\b              → vague spatial filler (prefer this close / return / shape / profile / leading edge)
 \bwrong\b                 → vague evaluative filler (prefer will not settle / does not match / inconsistent / unclassed)
 margin name|margin notation|outer-margin → naming jargon (prefer designation / comparison class / frontier analysts); keep structural/fuel margin
-\blag\b                  → remote/relay habit (prefer relay / remote / from Helion / delay / pause); keep only when actual time delay is the beat
+\blag\b|lag voice|on lag → remote/relay habit (prefer channel / came through / from Helion / delay / pause); keep only when actual time delay is the beat (Pass 3 §3.2i)
 bought .* a small pool|nouns from killing|wearing permanent|felt like penance|functioned as permission|mission-critical|not decorative|like the noun
 ```
 

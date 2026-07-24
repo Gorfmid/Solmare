@@ -1,0 +1,50 @@
+---
+description: Scene immersion, Clancy scale, Solmare scale, crisis escalation, dialogue, information delivery — draft doctrine (not Revision Pass)
+globs: Books/**/Chapters/**/*.md
+alwaysApply: false
+---
+
+# Scene immersion and scale
+
+**Canonical:** `Writing_System/Style_Guide/scene_immersion_and_scale.md`
+
+**Not Revision Pass.** Do not run these as Pass 1–6 unless the author explicitly asks to apply scene-immersion / Clancy-scale / Solmare-scale rules to a chapter.
+
+When drafting or rebuilding major crisis / military / political scenes:
+
+## Scene immersion
+
+- Lived experience over explanation.
+- Major events do not happen primarily through briefings, reports, summaries, or policy talk.
+- Civilization-scale event: show **impact before response**.
+- Include: first human reaction → machinery responding → emotional scale → personal cost.
+- A meeting is the **consequence** of an event, not the event.
+
+## Clancy scale
+
+- Do not summarize the machinery.
+- Show enough ops detail: people involved, systems that must work, preparation required, what failure means.
+- Detail creates **tension**, not a knowledge demo.
+
+## Crisis escalation
+
+- Before debate about meaning: alarms, alerts, movement, reactions, orders, uncertainty.
+- Reader feels *what is happening?* before *here is what it means.*
+
+## Dialogue
+
+- Not everyone speaks institutional.
+- Officials / operators / scientists / civilians / soldiers keep distinct speech jobs.
+- Spare the *X is not Y. X is Z.* pattern.
+
+## Information delivery
+
+Prefer **scene → reaction → interpretation** over **interpretation → explanation → scene**.
+
+## Solmare scale
+
+The Fleet is a living institution, not a cast discussing events.
+
+When something unprecedented occurs, show: command centers waking · ships changing status · crews reacting · maintenance preparing · families receiving notices · civilians adapting.
+
+The reader should feel the event is **larger than any one character**.

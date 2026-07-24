@@ -92,11 +92,11 @@ Complete the story.
 
 # Stage 2 — Revision Pass
 
-**Trigger phrases:** *Revision Pass on Chapter X* · *Revise Chapter X* · *Structural revision on Chapter X* · *Apply revision pass to Chapter X* · *Character Pass on Chapter X* (Pass 5 only, after structure)
+**Trigger phrases:** *Revision Pass on Chapter X* · *Revise Chapter X* · *Structural revision on Chapter X* · *Apply revision pass to Chapter X* · *Character Pass on Chapter X* (Pass 5 only, after structure) · *AI Signature Removal Pass on Chapter X* (Pass 6 only, after Character Pass)
 
 ## Purpose
 
-Make the chapter structurally correct, clear, and character-strong before polishing.
+Make the chapter structurally correct, clear, and character-strong before polishing — then strip AI over-explanation.
 
 ## Required tool
 
@@ -104,7 +104,7 @@ Make the chapter structurally correct, clear, and character-strong before polish
 → `Writing_System/revision_pass.md`  
 
 Numbered passes (load one at a time, in order):  
-`Writing_System/Revision_Pass/01_people.md` → `02_story_structure.md` → `03_clarity_language.md` → `04_continuity_preflight.md` → **`05_character.md`** (after structure is stable; no plot/scene changes)
+`Writing_System/Revision_Pass/01_people.md` → `02_story_structure.md` → `03_clarity_language.md` → `04_continuity_preflight.md` → **`05_character.md`** (after structure; no plot/scene changes) → **`06_ai_signature.md`** (after character voice; cut meaning-after-image / over-articulate speech / excess certainty)
 
 ## Review
 
@@ -132,11 +132,21 @@ Verify and **strengthen** (Pass 1 during structure; **Pass 5 Character Pass** af
 
 Full Character Pass doctrine: `Revision_Pass/05_character.md`
 
+### AI Signature Removal (after Character Pass)
+
+- Cut meaning sentences after strong images (the image already did the work)
+- Shorten over-articulate professional dialogue (ops voices say less)
+- Hedge excess narrative certainty (*knew exactly* → *had a theory / hoped it was wrong*)
+- Lived body, not furniture: prefer stiff neck / unread queue over chairs that “forgive”; no recycled Book One *Are you eating* check-ins (Pass 6 §6.4)
+- No new scenes; no emotional expansion; no added drama
+
+Full doctrine: `Revision_Pass/06_ai_signature.md`
+
 ### Clarity (author live practice)
 
 - Cut clever captions after work is already shown
 - Dumb down institutional jargon; expand the real dispute in plain speech
-- Replace odd defaults (*lag*, soft *holds*, vague *geometry*) with plain work language
+- Replace odd defaults (soft *holds*, vague *geometry*) with plain work language; cut default *lag* / *lag voice* (Pass 3 §3.2i); cut default *went silent* / *stopped answering* once attack is known (Pass 3 §3.2j); cut invent-what-you-have-not-seen / contradictory-orders sermons (Pass 3 §3.2k); cut default *war story* (Pass 3 §3.2l)
 - Expand details when the fight or procedure is unnamed
 
 ### Canon

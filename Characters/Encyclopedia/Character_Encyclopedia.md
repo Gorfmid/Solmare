@@ -923,6 +923,64 @@ Fleet Administrative Academy classmate of Calder. Cartography/exploration geomet
 
 ---
 
+## Brann Kelso
+
+| Field | Value |
+|-------|-------|
+| Rank / role | Captain, *Ardent Measure* (scout-class) |
+| Age | 41 *[working — review]* |
+| First appearance | Book Two Ch. 7 |
+| Profile | `Characters/Recurring/Brann_Kelso.md` |
+
+### Biography
+
+Segment scout captain on a newer hull than *Kestrel Veil*. Ordinary patrol weeks until Ch. 6 elevated observation divert; Ch. 7 Orchard Compact watch under Calder's sector field judgment (Rowan order). Reads Calder's careful passive posture; orders quiet approach; does not claim to understand the threat that destroyed Founders' Reach.
+
+### Skills / Weaknesses / Motivations
+
+Quiet Segment competence; field execution under incomplete Helion orders. Weakness: not a Helion political player. Motivation: keep his people unnoticed by something that already took a colony.
+
+---
+
+## Iren Kade
+
+| Field | Value |
+|-------|-------|
+| Rank / role | Petty Officer Second Class; engineering maintenance, *Ardent Measure* |
+| Age | 27 *[working — review]* |
+| First appearance | Book Two Ch. 6 |
+| Profile | `Characters/Recurring/Iren_Kade.md` |
+
+### Biography
+
+Coupler / checklist work at Yard Three when elevated observation hits. Brother on New Meridian (visit deferred by leave cancellation; unnamed). Grease-print signature underway; steady hands, dry mouth. Shipboard human texture for Solmare Scale — not Command annex.
+
+### Skills / Weaknesses / Motivations
+
+Maintenance discipline under abnormal orders. Weakness: no sealed-brief access at alert. Motivation: make the ship ready; do not circulate unverified system names; do not dump fear on her brother by slate.
+
+---
+
+## Lysa Torren
+
+| Field | Value |
+|-------|-------|
+| Rank / role | Captain, *Cold Assay* (scout-class) |
+| Age | 38 *[working — review]* |
+| First appearance | Book Two Ch. 7 |
+| Status | Lost with *Cold Assay* (Ch. 7) |
+| Profile | `Characters/Recurring/Lysa_Torren.md` |
+
+### Biography
+
+Third scout diverted to Orchard Compact watch under Calder's temporary sector coordination. Prefers sensor packages to speeches; treats Segment silence as success until the watch changes that. Confirms live processing match to Founders' Reach; launches passive package; environment answers; lost with *Cold Assay* (Ch. 7). Distinct from Kelso and Calder — survey-first, ceremony-last.
+
+### Skills / Weaknesses / Motivations
+
+Passive survey discipline; clean abort corridors. Weakness: not a Helion political reader. Motivation: confirm without illumination; withdraw when observation itself becomes a stimulus.
+
+---
+
 ## Soraya Ellis
 
 | Field | Value |

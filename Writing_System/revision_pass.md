@@ -9,7 +9,8 @@
 - *Revise Chapter X*  
 - *Structural revision on Chapter X*  
 - *Apply revision pass to Chapter X*  
-- *Character Pass on Chapter X* → run **Pass 5 only** (after structural work is done)
+- *Character Pass on Chapter X* → run **Pass 5 only** (after structural work is done)  
+- *AI Signature Removal Pass on Chapter X* / *AI Signature Pass on Chapter X* → run **Pass 6 only** (after Character Pass, or on Final Candidate)
 
 **Companion (not a substitute):** `Style_Guide/revision_philosophy.md`  
 **Does not replace Stage 3:** Do **not** run full Writing Pass 1 polish here. That belongs to Final Candidate.
@@ -62,7 +63,11 @@ Revision Pass makes the chapter **structurally and narratively correct** before 
 
 5. **Character Pass** → Pass 5 — voice, perspective, behavior, interchangeability; **no plot/scene changes**
 
-Pass 5 may be run alone when the author triggers *Character Pass on Chapter X*. Do not use Pass 5 as a substitute for Passes 1–4.
+**AI polish strip (after character voice is locked):**
+
+6. **AI Signature Removal** → Pass 6 — cut meaning-after-image, over-articulate speech, excess narrative certainty; **no new scenes / no drama expansion**
+
+Pass 5 may be run alone when the author triggers *Character Pass on Chapter X*. Pass 6 may be run alone when the author triggers *AI Signature Removal Pass on Chapter X*. Neither replaces Passes 1–4.
 
 This is **not** Writing Pass 1. Em-dash sweeps, habit-cluster polish, and micro rhythm are Stage 3 unless they block comprehension now.
 
@@ -100,8 +105,9 @@ This is **not** Writing Pass 1. Em-dash sweeps, habit-cluster polish, and micro 
 4. For each pass: **load only that pass file**, apply it scene by scene, complete its exit check, then load the next.  
 5. Prefer surgical fixes. Full people-first rewrite only when Pass 1’s working test fails.  
 6. When structure is stable: run **Pass 5 — Character Pass** (`Revision_Pass/05_character.md`). Load character sheets. Do not change plot or scene order.  
-7. After Pass 5 (or after Pass 4 if Character Pass is deferred), deliver **one** combined report (below).  
-8. When structure + character are stable and author is ready: promote to **Final Candidate**, then Writing Pass 1.
+7. After Pass 5: run **Pass 6 — AI Signature Removal** (`Revision_Pass/06_ai_signature.md`). Strip over-explanation; do not add scenes or drama.  
+8. After Pass 6 (or after Pass 4/5 if later passes are deferred), deliver **one** combined report (below).  
+9. When structure + character + AI-signature strip are stable and author is ready: promote to **Final Candidate**, then Writing Pass 1.
 
 **Author mid-read rule:** If the author asks *what does this mean?* or *this is weird*, treat that line as a **hard fail** — rewrite in plain speech immediately (Pass 3 rules), then check neighbors. Do not defend the shorthand.
 
@@ -116,6 +122,7 @@ This is **not** Writing Pass 1. Em-dash sweeps, habit-cluster polish, and micro 
 | **3** | [`Revision_Pass/03_clarity_language.md`](Revision_Pass/03_clarity_language.md) | Captions, soft-noun ban, jargon, plain speech, name the damn thing |
 | **4** | [`Revision_Pass/04_continuity_preflight.md`](Revision_Pass/04_continuity_preflight.md) | Continuity; protected cast / career; personnel roster; search; **first-hearing preflight** |
 | **5** | [`Revision_Pass/05_character.md`](Revision_Pass/05_character.md) | **Character Pass** — voice, perspective, behavior, interchangeability; after structure; no plot changes |
+| **6** | [`Revision_Pass/06_ai_signature.md`](Revision_Pass/06_ai_signature.md) | **AI Signature Removal** — meaning-after-image; over-articulate dialogue; excess certainty; after Pass 5 |
 
 Shareable external copy of Pass 1 method: `Books/Book_02_The_Helion_Accord/Notes/PEOPLE_FIRST_REWRITE_PLAYBOOK.md`.
 
@@ -141,9 +148,9 @@ Deliver one report covering all four passes:
 9. Self-denying analogies cut — show the beat, do not compare-and-deny  
 10. Soft-noun / *label* / invent-words / institutional-*gift* meta talk cut  
 11. Jargon dumbed down / disputes expanded  
-12. Odd defaults replaced (*lag*, soft *holds*, *fringe*, etc.)  
+12. Odd defaults replaced (soft *holds*, *fringe*, etc.); default *lag* / *lag voice* cut (Pass 3 §3.2i)  
 13. Soft *wrong* talk / bin metaphors cut from narration  
-13b. Inanimate *pretend* / object personification cut (Pass 3 §3.2a–b); *argue/arguing* habit — Brenner only, sparingly (Pass 3 §3.2a); *lie/lying/honest* metaphor cut — keep only real deception (Pass 3 §3.2c); vague *the board* → name the instrument; no *traffic wall* spam (Pass 3 §3.2d); vague *petition* → name the actual ask (Pass 3 §3.2e); vague *hold/holds/held* → name the action (*withstand*, *stay open*, etc.) (Pass 3 §3.2f); default *empty* / *went dark* / *returns stopped* loss shorthand cut (Pass 3 §3.2g); *shared warning format* / *warning format* jargon → where it went + same words for both sides (Pass 3 §3.2h)  
+13b. Inanimate *pretend* / object personification cut (Pass 3 §3.2a–b); *argue/arguing* habit — Brenner only, sparingly (Pass 3 §3.2a); *lie/lying/honest* metaphor cut — keep only real deception (Pass 3 §3.2c); vague *the board* → name the instrument; no *traffic wall* spam (Pass 3 §3.2d); vague *petition* → name the actual ask (Pass 3 §3.2e); vague *hold/holds/held* → name the action (*withstand*, *stay open*, etc.) (Pass 3 §3.2f); default *empty* / *went dark* / *returns stopped* loss shorthand cut (Pass 3 §3.2g); *shared warning format* / *warning format* jargon → where it went + same words for both sides (Pass 3 §3.2h); default *lag* / *lag voice* / *on lag* → *channel* / *came through* / *from Helion* (Pass 3 §3.2i); default *went silent* / *stopped answering* for known attack → *attacked* / *taken apart* (Pass 3 §3.2j); *do not invent what you have not seen* / *contradictory orders* sermons cut (Pass 3 §3.2k); default *war story* → *someone to blame* / *invasion talk* (Pass 3 §3.2l)  
 14. Plain speech / less hyperbole  
 15. Name the damn thing: no cute synonym rotation  
 16. Plain vocabulary: odd synonyms / **unnecessary analogies** / substitute language fixed (Pass 3 §3.3k)  
@@ -167,13 +174,20 @@ Deliver one report covering all four passes:
 30. Quiet moments / relationship beats (behavior, not explanation)  
 31. Plot and scene order preserved  
 
+### Pass 6 — AI Signature Removal
+32. Meaning sentences after strong images cut  
+33. Over-articulate professional dialogue shortened  
+34. Excess narrative certainty hedged or cut  
+35. Lived-body fatigue; no furniture personification; no recycled Book One check-ins (§6.4)  
+36. No new scenes / no emotional expansion / no added drama  
+
 ---
 
 ## Related
 
 | Doc | Role |
 |-----|------|
-| `Revision_Pass/01_people.md` … `05_character.md` | Numbered pass doctrine |
+| `Revision_Pass/01_people.md` … `06_ai_signature.md` | Numbered pass doctrine |
 | `Revision_Pass/competence_before_attraction.md` | Competence-first relationships |
 | `Characters/Primary_Crew/PROTECTED_RECURRING_CAST.md` | Protected cast + career check |
 | `Characters/Primary_Crew/KESTREL_VEIL_CREW_REORGANIZATION.md` | *Veil* / Interface roster |
@@ -185,4 +199,4 @@ Deliver one report covering all four passes:
 
 ---
 
-*Revision Pass router · Solmare · Numbered passes 1–5 · Character Pass added 2026-07-22*
+*Revision Pass router · Solmare · Numbered passes 1–6 · Character Pass 2026-07-22 · AI Signature Removal 2026-07-23*

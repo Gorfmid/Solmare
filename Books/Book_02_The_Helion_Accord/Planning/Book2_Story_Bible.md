@@ -1157,7 +1157,7 @@ Books/Book_02_The_Helion_Accord/
 |-------|-------|
 | Version | 1.1 — expanded production checklist (emotional arc, storylines, timeline, scene/emotional objectives, tech, doctrine, reveals, B3 setup) |
 | Word target for novel | ~180,000 |
-| Structure | Prelude + six acts · ~25 chapters |
+| Structure | Prelude + six acts · ~27 chapters |
 | Theme | Trust is harder than war |
 | Series arc position | Cooperation |
 | Title | TBD |

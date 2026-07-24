@@ -19,6 +19,8 @@ Plain speech on first hearing. Cut captions, soft-noun meta, staff poetry, cute 
 
 If action, seating, procedure, or dialogue already carries the beat, cut the narrator wink that explains it.
 
+**Also later:** Pass 6 (`06_ai_signature.md`) strips the same habit as **AI Signature Removal** after Character Pass — meaning sentences after strong images, over-articulate speech, excess narrative certainty. Apply §3.1 whenever you hit it; Pass 6 is the dedicated full strip.
+
 | Weak | Prefer |
 |------|--------|
 | People-reading disguised as furniture. | Cut. Keep the chair move. |
@@ -246,16 +248,16 @@ Name the concrete failure.
 
 | Weak | Prefer |
 |------|--------|
-| On that bearing — empty | No answer on that bearing / Founders' Reach is not answering |
+| On that bearing — empty | No answer on that bearing / Founders' Reach is missing |
 | Colony channel empty | Colony channel: no answer |
 | Expected returns missing | Settlement beacons gone / no traffic where the colony should be |
 | long watch went empty | long watch lost the colony / long watch has no answer |
-| the place went dark | the colony stopped answering |
-| Prepare for the next empty bearing | Prepare for the next colony that stops answering |
+| the place went dark | the colony was attacked / taken apart — see §3.2j |
+| Prepare for the next empty bearing | Prepare for the next colony on the path |
 
 **Keep *empty*** only for literal containers, rooms, hands, cups, or a seat left open on purpose — not as loss shorthand for a missing world.
 
-**Test:** Can you say *no answer* / *stopped answering* / *missing colony* instead? Do that.
+**Test:** Name the concrete failure. Do **not** default to *went silent* / *stopped answering* once the attack is known — see §3.2j.
 
 **Search:** `\bempty\b|went dark|gone dark|returns (stopped|missing)|Expected returns`
 
@@ -283,15 +285,108 @@ Say where the package went and what “shared” means in plain speech.
 
 **Search:** `shared warning format|warning format|shared format|joint format`
 
+### 3.2i Ban default *lag* / *lag voice*
+
+Do **not** use *lag* as the default word for remote officers, pedestal channels, Helion patches, or “not in the room.”
+
+Especially kill:
+
+- *lag voice* / *on lag* / *stayed on lag* / *orders on lag* / *came on lag*
+- *when lag and sensors disagree* (name Helion’s guidance / the channel / delayed orders)
+
+| Weak | Prefer |
+|------|--------|
+| Rowan's lag voice arrived thinner than usual | Rowan came through thinner than usual |
+| A younger Fleet officer on lag said | A younger Fleet officer on the channel said |
+| Rowan stayed on lag | Rowan stayed on the channel / stayed patched in |
+| contradictory orders on lag | contradictory orders from Helion / over the channel |
+| when lag and sensors disagree | when Helion's guidance and our sensors disagree |
+
+**Keep** *lag* / *delay* only when **time delay itself** is the beat (*the delay was long enough that interruption felt like rudeness*). Ordinary hesitation is *pause* / *moment*. For *hold/holds/held*, see §3.2f.
+
+**Test:** If *lag* only means “remote person speaking,” rewrite. If the sentence is about delay as the operational problem, *delay* is allowed; *lag voice* is not.
+
+**Search:** `\blag\b|lag voice|on lag|stayed on lag`
+
+### 3.2j Ban default *went silent* / *stopped answering* for a known attack
+
+Do **not** keep saying a colony *went silent* or *stopped answering* once the crew (and the reader) know it was attacked — especially Founders' Reach after live observation.
+
+Especially kill as habit:
+
+- *the colony went silent* / *when the colony went silent*
+- *a colony stopped answering* / *until it stops answering* (as soft substitute for *attacked*)
+- rotating *silent* / *no answer* / *stopped answering* for the same spent fact
+
+| Weak | Prefer |
+|------|--------|
+| We were not ready when the colony went silent | We were not ready when the colony was attacked |
+| That a colony stopped answering | That a colony was attacked |
+| places people ignore until it stops answering | places people ignore until the hulls arrive / until it is taken apart |
+| the colony went silent; then we watched it leave | the colony was attacked; then we watched it leave |
+
+**Keep** *no answer* / *stopped answering* only for the early unknown — before anyone has watched the attack, or for a channel that literally will not reply and attack is not yet the point.
+
+**Test:** If they saw the Peligar take it apart, say *attacked* / *taken apart* / *watched it leave*. Do not hide behind silence vocabulary.
+
+**Search:** `went silent|gone silent|stopped answering|stops answering`
+
+### 3.2k Ban *do not invent what you have not seen* sermons
+
+Do **not** write preachy observation morals that sound like staff poetry:
+
+- *do not invent what you have not seen*
+- *do not invent what you cannot certify*
+- *do not invent certainty* (as dialogue sermon — already banned as style meta in §3.1b)
+- *contradictory orders* / *when orders and sensors disagree* as default Helion fog
+
+Characters may refuse Helion’s hunger for blame. They do it in plain work speech — see §3.2l for *war story*.
+
+| Weak | Prefer |
+|------|--------|
+| Hold your watch. Do not invent what you have not seen. | Stay on watch. / Confirm before you name it. |
+| Expect contradictory orders within the day | They will want ships, answers, and someone to blame |
+| Local judgment still stands when their orders and our sensors disagree | If Helion wants us fighting a fight we have not confirmed, we stay with the plot |
+
+**Test:** If the line is a moral about inventing / certifying / earning observation, cut it to the real order.
+
+**Search:** `invent what you|do not invent|contradictory orders|orders and (our )?sensors disagree`
+
+### 3.2l Ban default *war story*
+
+Do **not** use *war story* as the default catchphrase for Helion / Council / gallery hunger.
+
+Especially kill as habit:
+
+- *Helion wanted a war story*
+- *they will want … a war story*
+- *ask you for a war story*
+- *cut war words* / *private war words* (when it only means invasion talk)
+
+Name the real ask: *someone to blame*, *invasion language*, *fighting before we confirm*, *an enemy with a face*.
+
+| Weak | Prefer |
+|------|--------|
+| Helion wanted a war story | Helion wanted someone to blame |
+| They will want ships, answers, and a war story | They will want ships, answers, and someone to blame |
+| They will ask you for a war story before you know what is happening on the next one | Helion will want you fighting before you know what this new alert is |
+| Thessaly cut war words before they stuck | Thessaly kept invasion talk out of the first lines |
+
+**Keep** *war* only when the character is literally talking about war, fighting, or a declared conflict — not as a cute noun for bad institutional narrative.
+
+**Test:** If *war story* can be replaced by *someone to blame* / *invasion talk* / *fighting before we confirm*, do that. Do not stack the phrase three times in one chapter.
+
+**Search:** `war story|war words`
+
 ### 3.3 Ban odd default words when a plain one exists
 
 | Avoid as habit | Prefer |
 |----------------|--------|
-| *lag* for remote people / pedestals / Helion | *relay*, *remote*, *from Helion*, *on the channel* |
-| *lag* when delay is not the point | *pause*, *moment*, or cut |
+| *lag* / *lag voice* (remote speakers, Helion, pedestals) | see §3.2i — *channel*, *came through*, *from Helion*, *relay* |
+| *went silent* / *stopped answering* (known attack) | see §3.2j — *attacked* / *taken apart* |
+| *do not invent what you have not seen* sermons | see §3.2k — *stay on watch* / *confirm first* |
+| *war story* as Helion/gallery catchphrase | see §3.2l — *someone to blame* / *invasion talk* |
 | *geometry* as vague filler | *map*, *contour*, *chart*, *display*, *corridor*, *this close* |
-
-Keep *lag* / *delay* only when **time delay itself** is the beat. For *hold/holds/held*, see §3.2f.
 
 ### 3.3b Cut soft *wrong* talk and bin metaphors in narration
 
@@ -463,7 +558,7 @@ Institutions act through packets, custody, seals, status lines, classification s
 - [ ] Captions / self-denying analogies / soft-noun meta cut
 - [ ] Disputes named in plain speech before labels
 - [ ] Board facts named (no pressure/contour rotation)
-- [ ] Odd defaults (*lag*, soft *holds*, default *fringe*) replaced where unearned
+- [ ] Odd defaults (soft *holds*, default *fringe*) replaced where unearned; default *lag* / *lag voice* cut (§3.2i); default *went silent* / *stopped answering* for known attack cut (§3.2j); invent-what-you-have-not-seen sermons cut (§3.2k); default *war story* cut (§3.2l)
 - [ ] No inanimate *pretend* / gear “argue” personification (§3.2a–b)
 
 **Next:** Load `04_continuity_preflight.md` (Pass 4).

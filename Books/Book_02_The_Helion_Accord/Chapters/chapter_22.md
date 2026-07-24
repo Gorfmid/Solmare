@@ -1,293 +1,279 @@
 # Chapter 22
 
-## Trust
+## Revelations
 
 ---
 
-***CONTACT NODE SEVEN — JOINT WARNING ANNEX***
-*SECOND LIMITED ACTION*
+***HELION — HISTORICAL OFFICE / WARTIME SUPPORT ANNEX***
+*OBJECTS UNDER HYGIENE*
 
-The next bill did not wait for holiday fracture to finish arguing.
+Soraya Ellis arrived before the handlers had finished arguing whether the annex lights should stay on for Founders' Week rehearsal traffic.
 
-Calder saw that first, the way he saw every problem that arrived as schedule before it arrived as courage. On the dual board, Tag Twelve's amber densification still climbed in fractions humans could measure and not understand. Dual-holiday recognition had finished landing without becoming comfort. Capitals still wanted cleaner enemies. Fringe processing did not wait for belief to be funded.
+Coffee sat on the Fleet sideboard. A Dominion tea tray waited on the twin table for a contact not yet authorized to enter. The wartime support annex smelled like the exhibit corridor next door — cloth dye, printer heat, the particular dust of drawers peacetime hygiene preferred kept shut.
 
-Calder had not asked to be relieved again since Rowan turned him down in the Command annex, but the request had not gone anywhere either. It sat in him the way the field budget had sat in *Kestrel Veil*'s plating — banked, unspent, waiting for a moment that would force the question whether he wanted it forced or not. He had not slept a full night since the transit home. Thessaly had stopped asking him if he had. She had simply started making sure food reached his hands whether he asked for it or not, which was, she had decided, the only intervention available to her that did not require his permission.
+Ilen Maras hovered near the commemorative drawers like a man who'd already learned the season would not wait for him. "Handlers want usable courage cloth," he said. "You want editions and convoy fossils. Do not invent kinship for either hunger."
 
-"Joint action brief," Orlen said. "Warning-corridor defense and rescue screen on Tag Twelve's secondary assist ring. A densifying advance has reopened a population window capitals preferred finished. Hold corridor integrity long enough to clear households and contract crews. Deny one feeding path. No pursuit into unknown depth. No cousins baptism mid-fire. Provisional wartime ROE live. Begin."
+Ellis did not invent kinship. She compared.
 
-Park put the Fleet package on the wall. Confirmed densification climbing again on the secondary ring. Probable processing escorts on two bearings. Degraded warning-net tags along a route that had already lied during Counterstroke. Contradictory residual life paint between *Kestrel Veil*'s stack and *Ash Meridian*'s older mirror.
+She laid four incomplete objects on the long table, carefully, the way she always laid contested products, as if the surface itself might try to rewrite them. First: the convoy log fragment, half its marks still quiet where Neutral Zone map fossils had kept route vocabulary nobody had wanted to name. Second: the commemorative liturgy for first-departure blessing, in two edition variants that disagreed on a single seasonal mark. Third: the cartographic fossil carrying harvest-festival continuity language without becoming proof. Fourth: Kellin's partial calendar concordance from the earlier contact — Founders' Week's six-day window mapped against Dominion harvest-festival leave codes across three border districts, with gaps where local festivals refused to synchronize.
 
-Klimov put the Dominion package beside it. Partial depth share. Historical stamps that made two of Fleet's "probable" readings look late. One approach corridor Fleet still treated as usable that Dominion preparation memory already marked as thinning after Counterstroke.
+Four incomplete objects. One question she had refused to finish early, and refused to let committees finish falsely: *What if we are not strangers who met at a treaty line?*
 
-A war-hawk strip tried one last caption. "At least give yards a finish line they can hang. Rescue without defeat is how courage dies polite deaths."
+She opened Edition 92 beside Edition 94 and watched the soft second line die between them. The older liturgy kept an autumn mark; the cleaned variant had sanded it into a more comfortable pioneer sentence. Last week, in the prep gallery, Ilen had tried to keep that line through afternoon rehearsal and been told beginnings remained intact. Ellis remembered the blank where it had tried to live. She felt the same blank now, but as evidence instead of etiquette.
 
-"Yards get a population window and one path denied," Thessaly said before Calder could arrange a softer sentence. "They do not get a civilization defeated because this room needed a cleaner story after holidays stopped meaning only one thing. Scopes hold or we do not sail."
+The Dominion harvest-festival strip, accepted under protest and veto, carried a continuity phrase that shouldn't have rhymed with Fleet first-departure language if the two civilizations had never shared weather. She set the cartographic fossil beside it — route vocabulary that freight people had kept longer than museums kept honest, seasonal marks that conquest maps never needed, a leaving place implied by logistics and never named by any gallery caption.
 
-An isolationist strip answered from the opposite hunger. "If Dominion will not share depth, this is Counterstroke receipt theater with new names. Kinship intensifies blame. Pull back."
+She did not baptize the rhyme. She recorded the mismatch.
 
-"No," Kell said, without heat. "Treat an incomplete map as betrayal again and you'll invent a traitor to replace a tempo problem. Partial share under sunset is the available instrument. Protest recorded. Sail anyway."
+Then she set the convoy fragment against the concordance's freight annotations, and the private certainty arrived the way certainty arrives when evidence stops asking permission.
 
-On *Iron Harrow*'s feed, Vex attended with gloves on. "Blame later. Geometry now. Processing advances during argument. I will not celebrate this. I will not invent cousins because archive rhyme made arithmetic rude. Pair me with Calder as professional mirrors. Predict each other."
+The convoy half-marks were not conquest language. They were departure logistics — seasonal timing, cohort language without passenger romance, berth allocation notes that assumed families already packed. A survey-continuation bearing, written the way registrars wrote destinations when there was no registered colony yet and everyone pretended that was ordinary. A voluntary departure vocabulary that Fleet's educational products had gradually rewritten into a beginning that needed no leaving place, while Dominion campaign memory kept it, unevenly, as continuity and loss.
 
-Calder priced the room the way he priced a corridor under load — this room now required acting before maps finished, and before holiday fracture finished eating the break rooms. He wanted one more confirmation grade. He wanted First Doctrine to feel like ethics instead of abandonment math. Tag Twelve's amber densification did not allow that luxury.
+She flipped the concordance once more. Founders' Week's six-day window. Harvest-festival leave codes. District gaps where neighborhoods had never synchronized. No names of who left. No who stayed. No why. Useful. Incomplete. Politically live.
 
-He looked at Thessaly once. She did not decorate the look. She waited to see whether he would choose method or funeral manners.
+The departure had stopped being metaphor. Not complete history. Not a passenger manifest. Enough for a historian who loved Fleet's beginnings to know those beginnings were incomplete on purpose.
 
-"Composition. Plain," Calder said. "Role first. No tonnage sermons."
+She thought of the empty berths at Founders' Reach and refused to spend them as proof for a sermon she hadn't earned. Extraction had already taught sealed rooms to see people as obstacles on a resource graph. Origin now threatened to teach those same rooms that the people arguing the graph might once have packed under the same season's banners.
 
-Hadd put the joint task list on both walls. Three Fleet corvettes and two Dominion light escorts for harassment. *Ash Meridian* and a Segment frigate for missile harassment. *Iron Harrow* for mid-range plasma, with Long Watch formation *Holdfast Three* as the outer rescue screen under Vex's command. *Kestrel Veil* at outer watch, soft-update rights only, no chase headers. No battleship anchors. No hero-ship exceptions.
+"Soraya," Ilen said, quieter than the room wanted. "Climb that into open gallery and committee cloth will outrun you before breakfast."
 
-"Screen is thin. Line is thin," Hadd said, checking fuel margins twice and looking offended by the honesty of the numbers. "If anyone in Helion thinks *Kestrel* is going to invent battleship manners under scout paint, tell them logistics already refused. We sail ugly or we invent purity and stay docked."
+"Then I keep it sealed and live," Ellis said. "I won't stay silent archive because beginnings are prettier than evidence."
 
-"We sail ugly," Thessaly said. "People judgment stays live. If convenience argues for delay, convenience loses. If fear argues for chase, abort holds. Work the board."
+A wartime handler from Civilian Affairs entered without waiting for recognition. "Keep the wall text clean. If you climb extraction language or departure rhyme into open captions, Founders' Week morale fractures while the fringe still answers."
 
-Near the side aisle, a Fleet ops tech who had offered a fortune roll across the commons the watch before stood with his jaw locked, like a man who had decided cousins and still had to report for corridor duty. A Long Watch runner on the twin feed did not look at him.
+"Courage that lies becomes betrayal the first time sealed product leaks," Ellis said. "I'm not asking this annex to explain the cosmos. I'm asking for comparative liturgy under hygiene."
 
-Calder turned to the dual feed where Vex waited. "Professional prediction. If warning-net falsely confirms clear, I abort chase. If people cost exceeds the scoped window, Thessaly aborts and I honor it late. What do you abort?"
+Colonel Neve arrived on lag, classification card glowing. "Comparative access under higher seal. No open-gallery climb. Origin pressure is noted. Origin proof is not authorized."
 
-"If Fleet soft update spends fuel into a ghost, I abort elevation and re-route," Vex said. "If kinship rumor tries to convert my dead into cousins mid-fire, I refuse the noun and keep sailing. Your checklist held under Counterstroke. I will test whether it holds when loss arrives larger. Do not ask me to like you for that. Ask me to predict you."
+"Proof is becoming politically live whether this corridor authorizes it or not," Ellis said.
 
-"I can predict you," Calder said. "You will accept a loss Fleet reads as coldness. You will not invent hatred."
+A colleague from the civic wing tried loyalty dressed as caution. "Soraya. Coincidence. Forgery. Shared freight weather is not shared blood. If you put that adjacency in a sealed packet, someone will leak it, and Academy will say you imported Dominion weather into Fleet mourning."
 
-"Correct," Vex said. "And you will hesitate where Thessaly locks. Sail."
+The access-window light on Ilen's slate flipped amber — wartime support closing early for exhibit photo rehearsal. A schedule excuse, and both of them knew it.
 
-Thessaly wrote one quiet-channel line few would read: *go order under constrained legitimacy; necessity, not confidence.* Few would read it. That was why it mattered.
+"They're trying to shut the drawer as inconvenience," Ilen said.
 
-"Hold abort," she said to both bridges. "Hold people cost. Sail."
+Ellis did not hurry in a way that looked like panic. She photographed the edition mismatch under custody light, stamped the convoy fragment against the concordance, and forced the cartographic fossil into the dual-custody set before amber turned to red.
 
-Hulls held station. The amber densification held. The work continued.
+"Then galleries and handlers can argue with the objects," she said. "Edition mismatch is not coincidence. Convoy logistics are not forgery theater. I won't invent kinship to make cooperation prettier. I also won't pretend commemorations never rhyme. If it's forgery, the forger also forged Edition 92's footnote before Dominion contact existed in this annex. If it's coincidence, coincidence has very patient handwriting."
 
----
-***TAG TWELVE SECONDARY RING — JOINT ACTION***
-*EARLY SUCCESS / SHARED TRAP*
+Ilen watched her hands and did not ask her to stop. That was as much courage as Historical Office could afford under Founders' Week cloth.
 
-Contact began the way professionals preferred contact to begin: useful, incomplete, and already arguing with itself.
+She secured the object set under seal, cross-noted against Contact Node Seven's earlier query trail, and logged the breakthrough beside the sealed extraction frame without converting either into theater. Private certainty. Not public. Not comfort.
 
-*Ash Meridian* took the outer assist traffic while Fleet corvettes and Dominion light escorts harassed two processing escorts into answering screen pressure instead of feeding the densifying core. Household packets cleared in ugly batches. A pediatric medical tag made nobody on either bridge feel clever. Early success arrived like a lie wearing good manners.
+She loved Fleet's beginnings. She feared what honest beginnings might require the living to admit.
 
-"Warning-net pilot confirms Corridor Four clear for Holdfast Three's advance," Ortega said. "Confirmed on our stack. *Ash Meridian*'s mirror says probable. Dominion package says contradictory."
+Outside the glass, a junior runner carried sample folds past a memorial cart and didn't look at either long enough to choose a sermon. Ellis sent one quiet strip to Rowan: *Comparative liturgy breakthrough under hygiene. Edition mismatch no longer deniable as coincidence. Convoy fossil reads as departure logistics, not conquest language. Departure root partial. Origin pressure politically live. Historical Office will not stay silent archive.*
 
-"Do not baptize either," Calder said. "Keep both visible."
+Rowan's reply came back dry and half-blind. *Hold under seal. Bring the Dominion counterpart under sunset if Civil Government will answer. Draft rooms need myth police more than kinship cloth. Work continues.*
 
-On *Iron Harrow*, Vex held prepared branch Hold and did not punish the early clear with purity theater. Holdfast Three moved into the outer rescue screen the way Long Watch always moved — inherited checklist first, improvisation second.
-
-Klimov painted residual intensity climbing in uneven pulses. "Speech residual climbing behind the clear confirmation. Warning-net single point may be lying again."
-
-"Lag," Kell said. "Trust prosthesis breaking on schedule. My grandmother said a tool that makes you brave before it makes you honest will spend the next watch as a funeral."
-
-Then the trap closed without villain convenience. Warning-net pilot confirmed Corridor Four clear a second time. Fleet's stack called it confirmed. Dominion's package called it contradictory and thinning. Helion's lag strip arrived late and hungry with pursuit language dressed as rescue courage.
-
-Calder hesitated.
-
-He wanted one more confirmation grade. He watched Holdfast Three commit into Corridor Four and felt the old hunger for certainty rise like a hand reaching for a switch that was not there.
-
-"Hold soft update," he said. "Do not elevate chase. Give me one more compare on Corridor Four before we commit *Ash Meridian* into the same geometry."
-
-"Captain," the *Ash Meridian* voice said. "Holdfast Three is already in. If I wait for your compare, I abandon their screen while they still answer."
-
-Thessaly watched faces instead of slogans. She saw Calder freeze the way he had frozen at Assist Yard Nine and Counterstroke — method becoming excuse while people still answered. She saw Holdfast Three's medical tags begin climbing before anyone in Helion finished arranging a cleaner caption. She locked.
-
-"People judgment," she said, hard enough for both bridges. "Abort Corridor Four advance. *Ash Meridian*, elevate assisted screen on the secondary ring now. Do not invent a chase. Calder, honor the abort late if you have to. Holdfast Three is already paying for our confirmation hunger."
-
-Calder felt the override land like a moral injury he had earned. He wanted to argue for one more compare. He did not.
-
-"*Ash Meridian*, elevate," he said. "Honor Thessaly's lock. Park, keep contradictory states visible. Local supersedes outdated capital pursuit strip."
-
-"Captain," *Ash Meridian* said. "Helion will call this insubordination."
-
-"Helion can invent purity after we finish counting who still answers," Calder said.
-
-On *Iron Harrow*, Vex did not wait for Fleet comfort to arrive. Holdfast Three was already inside false-clear geometry. Processing escorts answered screen harassment on one bearing and continued feeding the densifying core on another. A missile string spent itself into empty geometry while a real escort continued processing one band over. Opacity spent minutes nobody could buy back, because Dominion would not gift full depth and Fleet would not stop inventing futures from prospective slopes.
-
-"Prepared branch Hold," Vex said. "Seal compartments. Continue the branch. Do not invent hatred because the invoice is arriving. Holdfast Three, report windows, not sermons."
-
-Holdfast Three answered in dry institutional marks. Outer screen compromised. Two light escorts incomplete. Named medical tags climbing. Named dead arriving faster than plaques could invent comfort. Preparation doctrine sealed compartments and continued the branch instead of retreating, which kept the scoped window honest and spent Dominion lives at catastrophic scale while Fleet read the moment as coldness.
-
-A Fleet junior ops voice saw Holdfast Three take the outer load while *Kestrel* held soft update and *Ash Meridian* arrived late to the false clear. "Dominion spent Holdfast Three while Fleet hesitated," the voice said. "If we share a leaving, that is family choosing which children drown. Pull Fleet screen."
-
-A Dominion voice answered from the twin without standing. "Fleet's soft update spent fuel into a ghost confirmation while Long Watch paid the window. If we share a leaving, that is Fleet improvisation teaching the next watch to die surprised. Close conditions harder."
-
-"No," Ortega said, flat. "Do not baptize this as Dominion betrayal. Do not baptize this as Fleet abandonment. Baptize it as doctrine failure under tempo. Warning-net false confirmation loop. Incomplete depth share. Calder hesitation. Thessaly override. Shared causes. Shared invoice. Keep contradictory states visible while people still answer."
-
-Narrow survivors cleared. Unacceptable dead did not. Holdfast Three's outer screen finished as a catastrophic Dominion loss under a doctrine that had done everything inheritance taught and still could not stop a resource graph from treating people as obstacles. Fleet corvette medical tags climbed because screen harassment put light hulls closer to residual interference. Dominion dead outnumbered Fleet dead because Long Watch had taken the outer rescue load and sealed compartments instead of retreating. Both costs were real. Both costs were available as blame.
-
-Vex accepted the loss Fleet would spend as coldness. He did not invent hatred to make it cleaner. He predicted Calder under fire and found the prediction held: Calder hesitated, Thessaly locked, Calder honored the abort late, depth remained incomplete, micro-trust among professionals survived as prediction and not as comfort.
-
-"Abort held," Vex said. "Window incomplete. Holdfast Three incomplete. Processing delayed, not defeated. Politicians will rewrite this as blame. Do not help them invent a traitor. Sail the survivors home."
-
-Thessaly wrote the true cost into the quiet channel few would read: Tag Twelve secondary ring partial; Holdfast Three catastrophic; false confirmation loop; Calder hesitation logged; override logged; capitals desynced; micro-trust held; civilizational trust absent. Few would read it. That was why it mattered.
-
-Hulls held station on lag screens that already looked like funerals. The work continued because stopping would not restore what had finished.
+Ellis closed the drawer without pretending the answer was comfort. The archive had stopped asking nicely.
 
 ---
-***IRON HARROW — LONG WATCH MEMORIAL DECK***
-*NO HATRED UNDER ASH*
+***HELION — JOINT CLASSIFIED CHANNEL / CIVIL GOVERNMENT TWIN***
+*PARTIAL CONFIRMATION*
 
-Funeral logistics replaced briefing culture the way winter replaced rehearsal weather: without asking permission and without offering a cleaner season.
+Calder Venn entered with the posture of a field mind forced into myth management. Here the incomplete maps were commemorative editions, and editions didn't stamp confirmation grades. Thessaly entered beside him already counting who would treat kinship as bridge and who would treat it as betrayal.
 
-On *Iron Harrow*, tea sat before the casualty boards as continuity habit. Plaques waited in trays that still smelled like polish and the particular dust of rooms that preferred inherited sentences to unfinished names.
+The Dominion contact arrived in gloves and institutional calm: Torva Kellin, Civil Government archive authority, with Rada as linguist shadow and an SSD historical-cell officer named Orvan, a man who kept his hands still the way people kept their hands still when campaign memory was a profession, not a slogan. Behind Kellin, a partial wall plaque caught the camera's edge — old metal, campaign memory, no sermon visible from this angle. Dominion rooms did not decorate themselves for Fleet comfort.
 
-Vex stood with gloves on before Holdfast Three's incomplete list. He did not remove them. He did not perform grief for Fleet galleries that would later spend his face as contamination or courage depending on the hour. He read dry institutional marks the way Long Watch always read them: names, windows, unfinished inventory, an invoice that had grown a larger sibling.
+"You requested commemorative language again," Kellin said. "My instructors said a question asked twice is still a question. Ask."
 
-An SSD contamination strip arrived and called the losses proof — Fleet soft update hesitation had spent Dominion people while kinship rumor made the spending feel like family theater. Vex read it and did not flinch. He had already accepted the name. Names were cheaper than thin buffers.
+"Edition mismatch. Convoy departure logistics. Concordance freight clocks," Ellis said. "Your harvest-festival continuity products keep a rhyme we shouldn't share if we never shared weather. I'm not asking for breakaway-guilt theater. I'm asking whether Dominion institutional memory recognizes a voluntary departure root during harvest-festival timing. Partial answer only. I'd rather have an incomplete archive than an invented whole one."
 
-A Long Watch junior officer stood without waiting for recognition, voice steady in the way people got steady when steadiness was the only tool left. "Commander. Factions already argue. One says Fleet cooperation caused Holdfast Three. One says insufficient share caused it. Both want a villain. My grandmother said preparation honors those who come after us. Tell me what we honor when the people who come after us inherit a false clear and a board that still talks in fractions."
+Orvan spoke before Kellin could decide the question was depth-fishing. "Some districts keep departure commemorations as ordinary season. Some archives keep older marks and don't put them in school pageants. Campaign after-action language sometimes calls the season *the year they went*. Classroom history sometimes calls it *the year we kept the banners*. Same season. Different subject. We are not one uniform civilian memory wearing a single slogan."
 
-Vex did not offer comfort. Comfort was how rooms invented readiness they had not earned.
+He set a sanitized campaign strip on the twin without opening deeper custody — a seasonal registrar notation, redacted names, harvest-festival period marked *intentional per cohort preference* in language dry enough to refuse drama. Ellis felt the shape of a fuller story pressing against what the room would permit, and stopped herself from completing it. Voluntary departure. Harvest timing. Incomplete. Enough. Not whole.
 
-"We honor the next watch by refusing a cleaner enemy," he said. "Shared causes. Warning-net lag. Incomplete depth. Fleet confirmation hunger. Our preparation doctrine meeting a tempo that does not encode our plaques as moral subjects. That is the invoice. Not cousins. Not monsters. Not betrayal as default."
+Rada's eyes flicked once, then back. "Holiday names first. Your Founders' Week is origin myth with copper and blue. Our harvest festival is continuity season with gold-thread banners and freight windows. Neither civilization owes the other a glossary."
 
-A Fleet liaison strip from Contact Node Seven tried monster language, because monster language sold. "They're monsters. Holdfast Three proves it. Give yards hatred they can hang."
+A denial strip arrived from an SSD minder Ellis couldn't see. *Coincidence preferred. Shared autumn is freight weather. Do not gift Fleet a leaving story they will spend as a depth claim.*
 
-"No," Vex said. "They are worse."
+Orvan didn't look at it when he answered. "Some recognition is available. Some denial is available. That is uneven memory, not theater. My old commander said a truth spent early is not honesty. It is ammunition with better manners."
 
-The liaison flinched the way Fleet often flinched when Dominion refused the cleaner noun. "How?"
+Kellin nodded once. "Share enough to stabilize joint talks. If Fleet galleries convert timing into blood, Civil Government vetoes the next window."
 
-"They have no hatred." Vex kept the sentence plain. He had spent it before under Contact Node glass. He spent it again under loss, because loss was when capitals tried to steal it back into gallery enmity. "Hatred can end. They will continue until there is nothing left because they do not know they should stop. Holdfast Three did not die because Peligar hated them. Holdfast Three died because a resource graph does not schedule endings for our convenience. That is Dominion fear spoken plain. It is also Dominion work. I will not deliver you a sermon you can spend as comfort."
+Vex didn't soften it for Fleet ears. "If Fleet converts timing into blood language, SSD will call it alliance grammar wearing archive boots. If Fleet converts incomplete memory into betrayal theater, Long Watch will treat kinship claims as depth-fishing. Predict each other. Don't invent cousins to make the invoice feel shared."
 
-Kell spoke without heat. "My grandmother said a man who mistakes a cleared corridor for a finished war teaches the next watch to die surprised. Warning-net confirmed clear. Geometry was not clear. That is prosthesis failure, not Fleet theater as sole cause and not Dominion purity as sole cure."
+Calder priced the room the way he priced a corridor under load. Mediating a map disagreement had been ugly on Contact Node Seven. This was uglier, because the product threatened both civilizations' stories about themselves.
 
-A Dominion voice tried abandonment theater without standing. "If we keep sailing limited instruments with Fleet, Holdfast Three becomes receipt for contamination. Close the framework. Protect depth."
+"Operational trust survived Counterstroke," he said. "Political trust did not. If this room converts origin evidence into abandonment or alliance theater, the fringe pays first. I'll hold controlled truth. I won't choose a side."
 
-"No," Vex said. "If we invent purity and face the fringe alone, the map keeps moving anyway and Long Watch still pays first. I will not kneel because Fleet galleries need kinship or courage cloth. I will not invent Fleet monsters because SSD needs contamination jewelry. I will pour tea before boards. I will read names. I will keep gloves on. I will predict Calder under ash. I will not pretend a shared funeral created an alliance."
+Thessaly put the people cost in front of the slogans. "Named medical tags. Named dead. Capitals will spend kinship as proof for opposite sermons — cousins mean we must bind deeper, cousins mean we were betrayed twice. Neither sermon restores anything. Keep judgment under combat tempo. Don't ask crews for comfort."
 
-He looked once toward the twin feed, where Calder would later stand with doctrine doubt unfinished and Thessaly would already be writing the next watch bill around the holes.
+Kellin looked at Ellis for a long moment — Dominion historical posture and Fleet prospective hunger, two competent people failing to become friends on purpose.
 
-"They have no hatred," he said again, quieter, for the room that needed the sentence under loss more than it had needed it under Contact Node glass. "That is why preparation never finishes. That is why Holdfast Three is incomplete. That is why trust is harder than war. Hatred would let us schedule an ending. Continuity does not."
+"Both," Kellin said. "Hygiene and fear often wear the same gloves. My Civil Government won't accept a framing that turns breakaway guilt into your parade. Your Historical Office won't accept one that turns your pioneers into thieves of our depth. Mutual partial recognition is available. Reconciliation is not on this channel."
 
-Tea remained at elbows. Gloves remained on. Public funerals would follow. Private promotions would wait. The work continued.
+Ellis didn't ask for reconciliation. "Partial confirmation," she said. "Voluntary departure root. Harvest-festival timing intentional in some district records. No passenger manifests, no complete history. Enough to enter joint classified channels. Not enough for a press release. Not enough for Founders' Week wall text."
 
----
-***CONTACT NODE SEVEN — DOCTRINE ANNEX***
-*OBSERVATION AS METHOD / OBSERVATION AS EXCUSE*
+Senka spoke clipped and dry. "Civil Government accepts partial confirmation under sunset and veto. Do not convert this into alliance theater because Helion galleries need a caption."
 
-Calder confronted First Doctrine under massacre tempo the way a man confronted a tool that had cut the wrong hand: without theater, and without the comfort of believing he could put it back unused.
+Orvan added a last note. "My grandmother said preparation honors those who come after us. Your wall text says someone has to go first. Both can be true about different hungers. Both can also be true about one leaving that neither side tells whole."
 
-Commander Hale of Doctrine Bureau entered with the expression of a man who had stopped hoping Editions would survive contact with funerals and was still offended by the acceptance. An Academy doctrine instructor sat with revision drafts and the particular anger of people whose textbooks were being asked to survive Holdfast Three. Rowan attended on lag. Thessaly attended where she could see faces. Ellis sat with sealed extraction and sealed origin still live under her stylus.
+Neve's classification card brightened. "Partial confirmation enters joint classified channels. Not a press release. Not reconciliation."
 
-Hale did not arrange comfort.
+Ellis felt wonder and dread in the same breath and refused to decorate either. The horror wasn't only that the civilizations shared a leaving. It was that sharing a leaving didn't make Peligar negotiable, didn't restore Founders' Reach, and didn't teach either capital how to trust.
 
-"Amendment brief under failure," he said. "Peacetime observation windows equal abandoned populations under current tempo. Calder hesitated for a confirmation grade while Holdfast Three committed into a false clear. Thessaly locked people judgment and outpaced mediator delay. Joint ROE still cannot agree on engagement thresholds for a processor civilization that does not hate. Holdfast Three and Counterstroke are already being spent as argument. Begin."
+Kellin lifted her tea without making a speech of it. "Ask better questions next time. Or stop asking until your committees can hear an incomplete answer without calling it treason."
 
-A war-hawk strip tried one last caption. "Observation is how we arrive late with clean consciences. Give yards kill criteria. If they have no hatred, invent operational hatred."
+"Committees already call curiosity treason," Ellis said.
 
-The Academy instructor answered from the opposite hunger. "If we convert First Doctrine into wartime chase grammar because confirmation hunger feels like guilt, we teach the next Edition that observation was always theater. Delay theater is not method. Massacre tempo does not authorize abandoning method for gallery courage."
+"I know," Kellin said. "That's why Civil Government answered at all. Curiosity that survives veto is rarer than courage."
 
-Calder felt doctrine doubt finish into crisis the way fatigue finishes into collapse: not as a speech, as a posture that no longer trusted the old comfort.
+Rada added a last linguist's note. "If you hear *the year they went* on open traffic later, do not invent a treaty from grammar. Story is not custody."
 
-He had argued for observation his whole career. He had watched observation become excuse in other officers' hands at Assist Yard Nine, Tag Twelve, and Counterstroke. He had feared his own hands doing the same. Holdfast Three proved the fear had been geography, not metaphor. And underneath all of it, unspoken until now, sat the front he had watched with his own eyes three weeks ago — the number, finally sized correctly, that made every delay before it look smaller and every delay after it look unforgivable.
+Ellis logged the partial confirmation under dual seal. Departure root remained partial. Holiday-recognition pressure kept rising. Full confirmation was not this hour. Peligar remained not negotiable.
 
-"I was wrong," he said, plain. "Not just about the compare. I've been telling myself since Assist Yard Nine that if I just observed carefully enough, honestly enough, I'd have done my part — that the watching itself was the job, and whatever happened after belonged to the tempo, not to me. I saw the tempo up close now. It doesn't care what I intended. I think I've been using observation as the finish line instead of the start of one. And I think the honest end of that sentence is that I don't trust myself to hold the next chair. Thessaly should hold it. Not as a formality. For real."
-
-Hale put provisional wartime rules on the wall without claiming they were beautiful, and did not yet answer the second half of what Calder had said, because the room had not yet decided whose turn it was to answer it.
-
-"No clean edition," Hale said. "Unstable foundation. Necessary foundation. Wartime amendment is moral injury field command must carry, not a gallery product."
-
-Ellis spoke once, plain. "Do not spend Holdfast Three as proof that kinship is betrayal or that kinship is family. Incomplete history does not authorize either sermon."
-
-Denara added memorial logistics without decoration, and Rowan's lag face did not soften, and none of it was the answer Calder was actually waiting for.
-
-Thessaly waited until the institutional voices had said what they needed to say, and then she did not let the room absorb his sentence the way it absorbed everything else — filed, logged, converted into policy language before anyone had to feel it.
-
-"No," she said.
-
-The single word landed harder than any paragraph would have.
-
-"You're not handing me the chair," she said, "and I am not going to let this room pretend that's the same thing as courage. Observation isn't worthless, Calder. It never was. You didn't fail because you watched. You failed because somewhere in the watching you started treating the watching itself as the end of your responsibility — as if once you'd observed carefully enough, you'd done your part and whatever came after belonged to someone else's clock. That's the actual mistake. Not caution. The belief that caution discharges the debt."
-
-"I don't know how else to carry this," Calder said.
-
-"You carry it by fixing what's actually broken, which is the doctrine, not by removing yourself from the chair it's supposed to sit in," Thessaly said. "Hale's right that Editions have to change. You're right that observation can become an excuse. Both of those things are true and neither one of them means the person who learned it the hard way is disqualified from making the next call. A failed commander still has to decide. That's not a punishment. It's the job. It was the job the day you took it and it's still the job now that you understand what it costs."
-
-She stopped. Something in her own sentence had caught, the way a hook catches on cloth it wasn't aimed at.
-
-"You told me that once," she said, quieter now, for him rather than for the annex. "Not those words. But you told me, more than once, that one failure doesn't erase a command — that I was still someone crews could trust with a chair even after people died on my watch. I never fully believed you when you said it. I said the right things back to you and I kept believing it about you and not about myself, and I have been doing that so long I stopped noticing I was doing it. I am telling you the same thing now because you need to hear it, and because saying it to you out loud might be the only way I ever actually hear it myself."
-
-Calder looked at her for a long moment. Nobody in the annex spoke.
-
-"That's not comfort," he said finally.
-
-"No," Thessaly said. "It's the same truth, coming back to you from the other direction. I'm not telling you the dead don't matter, and I'm not telling you that you were secretly right to wait. I'm telling you that the chair doesn't stop needing someone in it just because the last person in it made a mistake that cost lives. Mine didn't. Yours doesn't either."
-
-"I will not discard observation ethics," Calder said, slower now, testing each piece of the sentence before he set it down. "I will carry wartime amendment as injury, not as an exit. I will act without finished maps when people still answer. I will honor Thessaly's lock when I freeze, and I will stop mistaking that lock for permission to leave the chair. Mediator work continues as necessity. Not as comfort. Not as penance, either."
-
-Outside the annex glass, a Founders' Week runner hurried past with sample cloth. Somewhere a clerk still used Founders' Week stationery for memorial notices, because storage had run out of prettier paper.
-
-Doctrine doubt had landed. The work continued.
+Outside the twin glass, a Dominion junior clerk argued a leave conflict with a supervisor who kept pointing at sealed product as if seasons could be negotiated into silence. Ordinary life continued on both sides of the glass. That was the point of sealed rooms. They had to decide anyway.
 
 ---
-***HELION — JOINT FRAMEWORK ANNEX***
-*ABANDON / RE-CHOOSE*
+***HELION — COMMAND ANNEX / DISCLOSURE FIGHT***
+*WEAPONIZE OR BURY*
 
-Helion moved to abandon the joint framework the way capitals always moved when funerals arrived faster than belief: loudly, in opposite directions, with sermons already printed.
+Fleet Admiral Elias Rowan stood where he could see all three hungers in the room without giving any of them the comfort of owning him. Thessaly sat where she could see people, holding the joint table in Calder's chair for the first time since the ramp had sealed at Contact Node Seven. No word from *Kestrel Veil* yet. There would be none until the mission was over, one way or another, and she had already stopped checking the empty channel every few minutes, because checking it did nothing but remind the room she was doing it.
 
-Rowan met the joint principals early, without ceremony, and without the comfort of believing Helion would listen before it rewrote them. Calder entered with doctrine doubt unfinished and still intended to make mediation work. Thessaly entered looking at people, not slogans. Vex entered with gloves on, Holdfast Three's ash still in the dry marks under his slate.
+Breck struck first. "Use it. Kinship cloth forces Accord language. If we share a leaving, Dominion owes depth."
 
-"Holdfast Three's after-action has already been rewritten twice on the open gallery feeds," Rowan said. "Once as Fleet hesitation, once as Dominion coldness. Neither matches the sealed invoice. Shared causes: warning-net lag, incomplete depth, doctrine collision, Calder's confirmation hunger, Thessaly's override, preparation doctrine meeting an industrial tempo. Politicians will spend opposite sermons anyway. Factions move to abandon the framework. You are here to answer whether limited instruments survive the divorce appetite. Begin."
+Mirek answered from the opposite hunger. "Bury it. Protect Founders' Week morale before panic outruns the plaques."
 
-Breck struck first. "You annoyed them again and came home with Dominion funerals and Fleet medical tags. Pull the framework. Protect Helion. Cooperation caused Holdfast Three."
+"That is how captions become weapons," Neve said, flat. "One contested product under seal. One honest public product. No dual theater."
 
-Mirek answered from the opposite hunger. "If Dominion will not share depth, corridor defense was receipt theater. Close the framework before Accords become receipts."
+Ellis raised her stylus once. "I won't stay silent archive because beginnings are prettier than evidence. I also won't hand galleries a cousins sermon before the record can survive one."
 
-A Dominion voice answered from the twin. "If we keep sailing with Fleet's soft-update habits, Long Watch pays first. Abandon the joint framework. Protect depth."
+Thessaly put the people cost on the table before either hunger could finish eating it. "Named medical tags. Named dead. Neither sermon restores anything. I'll hold this table exactly as long as it needs holding, and not one clause longer than the mandate Rowan signed."
 
-A war-hawk strip tried pursuit cloth one more time. "If you will not divorce, give us chase headers. Holdfast Three proves observation is late manners."
+Rowan kept the promise ugly and honest. "Provisional classification. Scheduled review after the next joint demonstration and before Founders' Week's open-gallery climb. Dual seal. No wall text. No press release. No kinship baptism. No burial as convenience. Capitals will hate this. Capitals will also spend it. That's the weather."
 
-Vex looked at Calder, not at the councilors. "We will not kneel because your galleries need kinship or courage cloth. We will not invent hatred because hatred would feel cleaner after Holdfast Three. Predict each other. Do not invent divorce as purity while the map keeps moving."
+A junior clerk posted the annex summary while Founders' Week cloth argued copper in the corridor. Provisional classification, live. Origin evidence politically live without public certainty. Accord pre-negotiation still incomplete.
 
-Calder priced the room the way he priced a corridor under load. Capital rooms wanted maps that finished. His never had. "Operational trust survived Holdfast Three as prediction. Political trust did not. Convert that into abandonment or alliance theater, and the fringe pays first while you argue purity. I will hold the joint table."
-
-Thessaly put the human cost in front of the slogans. "Named medical tags. Named dead. I locked the abort when Calder hesitated. That is not triumph. That is judgment under combat tempo. Do not ask crews for hope while Holdfast Three is unfinished."
-
-A service widow stood without waiting for recognition. "My brother sailed Long Watch support under Holdfast Three's twin logistics. His name is incomplete and I am hearing divorce language in this annex while holiday lights still sell beginnings outside. Tell me who decides which families wait while capitals invent cleaner enemies."
-
-"People before systems," Rowan said, and hated how the sentence sounded like a slogan the moment it left his mouth. "Civilian Affairs keeps household recovery moving. Field command keeps the corridors moving. Neither restores what's finished."
-
-Rowan kept the corridor narrow, because narrow was what bitter competence could still defend. "Ugly tradeoff: keep limited instruments alive when politics wants a divorce, or face the fringe alone. Calder. Thessaly. Vex. Senka. Ellis. Re-choose under ash, or invent purity and spend the next Holdfast Three with cleaner consciences and worse maps."
-
-Senka spoke clipped and dry. "Political trust remains denied. We will not gift a complete model. We will also not pretend divorce restores plaques. Limited instruments under protest remain available."
-
-Thessaly checked Calder once, without asking him to perform confidence for the annex. "Re-choose," she said. "Not optimism. Necessity. Limited cooperation, hardened by grief. No alliance nouns. No unauthorized hope. Calder will mediate without finished certainty. Vex will predict without friendship myth. Ask this annex for the next watch. Not for belief."
-
-Calder answered before galleries could invent a softer sentence for him. "Cooperation, re-chosen under loss," he said. "Not optimism restored. Not cousins. Not hatred. If we do not hold limited instruments, the map keeps moving anyway."
-
-Vex nodded once, gloves on, no warmth. "Limited instruments under protest. They have no hatred. That sentence remains field assessment, not gallery cloth. I will sail Accord draft rooms under ash. I will not invent friendship because Helion needs a caption after funerals."
-
-Rowan locked the mandate without parade language. "Negotiate Helion Accord instruments. Limited military treaty scopes. Rescue rights. Shared warning network. Joint observation in amended wartime form. Explicitly not alliance. Holdfast Three remains unfinished and honest. Cooperation re-chosen under loss, not optimism. Work continues."
-
-Outside the annex glass, Helion's civic promenade kept hanging copper cloth. Blame markets remained open. Hulls were not the center of gravity anymore. Helion was — under ash.
+It would not hold forever. And somewhere past the edge of every map in the annex, a Fleet scout carrying a Dominion field under sealed custody was still running dark toward the answer none of them had yet.
 
 ---
-***HELION — MEMORIAL CORRIDOR / JOINT TRANSIT***
-*ROWAN'S QUESTION*
+***KESTREL VEIL — BEYOND THE CONTOUR***
+*PASSIVE ONLY*
 
-Thessaly walked Calder through a corridor of funeral notices because people leadership meant putting faces where slogans preferred abstracts.
+There was no clock aboard *Kestrel Veil* that Calder was allowed to spend as a clock.
 
-Funeral notices lined both walls in dry institutional marks. Fleet medical tags. Dominion Long Watch names. Holdfast Three incomplete. Counterstroke's absences still unpaid. Assist Yard Nine still unpaid in Thessaly's quiet channel. A clerk at the far end still used Founders' Week stationery for memorial packets, because storage had given him pioneer blessing paper and seasons did not wait for prettier inventory. Copper trim on grief paper. Blue edge marks on unfinished names.
+Dominion custody called it the field budget instead, and they watched it the way Fleet crews watched fuel margins, except fuel margins had never once meant the difference between existing and not existing to anyone watching them. Heat did not vent here the way it ordinarily vented on a Fleet hull, in visible plumes an enemy sensor could read from a system away. Under the borrowed field it had nowhere to go at all. It sat in the plating, in the crawlspaces, in the air Calder breathed, climbing by careful fractions that a technician named Solan tracked on a slate she never let out of arm's reach, murmuring numbers to Vex in a voice pitched just above silence.
 
-Calder walked without performing certainty. He looked at the notices the way he looked at false confirmation loops: useful if named, lethal if worshipped. Thessaly looked at the people under the notices and counted who would still report for warning corridor duty when abandonment theater finished eating the break rooms.
+Calder had hull command. Vex had the field. The split sat between them like every other unfinished instrument they had ever sailed under: necessary, ugly, and nobody's preferred chair. Calder had spent a career learning to wait for one more compare. He had never once had to wait like this, where waiting was not only a choice he was making but the entire physics of the borrowed envelope around his own ship.
 
-Park stuck his head in from a lexicon alcove with the particular fatigue of a man who had already refused dictionaries while people died. "Rada wants one more spoken confirmation before Holdfast Three's names travel in open traffic beside holiday stationery. They're still talking on Tag Twelve. Meaning none. Keep refusing."
+"Passive only," Vex said, for what might have been the fourth time since transit began. "No active scan. No transmission, not to Helion, not to Contact Node Seven, not to each other past a hand and a slate. If we send one signal, the field does not fail quietly. It fails by telling whatever is out there exactly where we are standing when it happens."
 
-"Confirmed," Thessaly said. "Names travel under controlled dual messaging only. No cousins noun. No monster noun. Keep joint crews functional when identity narratives break."
+"Understood," Calder said, because it was the only word left that did not require heat he could not spare.
 
-Rowan's voice arrived on lag, dry and half-blind. *Mandate locked. Helion Accord instruments under negotiation. Will you still mediate.*
+He had expected, riding out under his own keel with a Dominion field bolted into it, to feel like a captain doing familiar work with unfamiliar constraints. He had not expected how different it felt to hold hull command with no soft update, no local override, no dual-key lock he could spend if the moment demanded it — not without killing the envelope Vex was there to keep alive. The Dominion specialists did the watching that kept them invisible. Calder did the watching that decided whether they turned for home. Both hungers were real. Neither man liked the other's chair.
 
-Calder looked once at Thessaly. She did not ask him for hope. She asked him for the next watch.
+Kell sat the sensor board with his gloves off for the first time Calder had ever seen, hands bare against the controls because gloves cost a half-second he could not afford to lose. "Contour crossing in four minutes," he said. "Last confirmed Dominion presence was two years ago, unmanned, one pass, no return signal after. We are past what anyone alive has verified."
 
-He answered Rowan with something that was not hope.
+"What did the unmanned pass see," Calder asked, quiet.
 
-"If we don't," Calder said, "the map keeps moving anyway."
+"Nothing that made it home to tell anyone in more than fragments," Kell said. "My grandmother said a door that has swallowed every hand that reached through it is still a door. We are reaching through it anyway."
 
-Thessaly wrote one last quiet-channel line few would read: *Act V close; cooperation re-chosen under loss; Holdfast Three unfinished; Calder's doctrine injury carried; people judgment locked; Accord mandate live.* Few would read it. That was why it mattered.
+The board went quiet in the specific way boards went quiet right before they stopped being empty.
 
-Ellis passed them with a custody slate and did not climb corridor notices into wall text. She nodded once at Thessaly, the way historians nodded when people leadership had kept nouns honest under ash, then walked toward the draft rooms where Accord instruments would be argued without friendship vows.
+Solan's voice, when it came, had no drama in it at all, which was somehow worse than if it had. "Passive return. Long-baseline. Something large ahead, off our bow, non-stellar. Estimate incomplete. It is not moving away."
 
-Somewhere a clerk stamped another memorial packet onto Founders' Week stationery. Somewhere Tag Twelve still answered in fractions. Somewhere Vex read names before boards and refused hatred grammar.
+Three separate passive sensors painted the same distortion inside the same ninety seconds, each one confirming what the others already suspected and none of them willing to be first to name it. Calder had spent Assist Yard Nine's worst hour wanting exactly this — a second reading, a third, agreement instead of contradiction. He had it now, and it did not feel like relief. It felt like a door opening onto a room larger than the one he had spent his whole career learning to be careful inside.
 
-Cooperation had been re-chosen under loss. Not optimism. Not alliance. Not finished certainty.
+A proximity ping chimed once on the auxiliary board, faint, automated — the scout's own docking transponder, dormant, supposedly dead, wired for a dockyard a hundred systems behind them, waking on its own schedule, one heartbeat from announcing itself to anything listening.
 
-Trust remained harder than war. The next rooms waited under ash.
+Solan's hand was already moving before the tone finished. She killed the circuit with two fingers and did not look up from the board.
+
+"Failure," she said. "Not detection. Ours." Her voice did not shake. Calder's did, internally, in a way no one aboard could see.
+
+"How close was that," he asked.
+
+"Close enough that I am now going to sit with my hand on that panel for the remainder of the transit," Solan said. "Do not ask me again. Asking costs a breath we may need later."
+
+Vex looked at Calder once, gloves on, expression unreadable in the low light Dominion crews preferred for heat discipline as much as habit. He had expected the scout captain to reach for an override the way Fleet initiative always reached — soft update, local spend, proof hungrier than silence. Calder did not. He held the hull quiet and let the field keep them alive. Vex filed that without warmth and without finishing the sentence it wanted to become: not lesser command. Different vessel. Different spend. Unfinished recognition. Still useful.
+
+"Welcome to the part of the war Fleet has never had to fight," he said. "Nothing is shooting at you. Everything is listening."
+
+*Kestrel Veil* went dark and quiet and kept moving, past every line anyone alive had verified, toward the shape ahead that had not yet decided it cared they were there.
+
+---
+***KESTREL VEIL — THE PROCESSING FRONT***
+*WHAT HE EXPECTED / WHAT WAS THERE*
+
+Calder had built, without meaning to, a picture in his head of what waited beyond the contour. Bases. Colonies. Supply lines running between them like the arteries of any empire he had ever studied at Academy — order, hierarchy, a shape a mediator could learn to read the way he had learned to read Dominion depth philosophy and Fleet council panic. Something with edges. Something a man trained to observe could eventually classify.
+
+There were no edges. There was only the front.
+
+He understood, then, why the old anomaly bins had never closed. This was not an empire arriving to declare war. This was work already in progress — assessment that had been running while Fleet still filed ghosts as dust and called a scout the cause of a pattern the scout had only walked into.
+
+The system ahead had no name on any chart *Kestrel Veil* carried, because no chart anyone alive had drawn extended this far. What had been a system — a star, at least four planets by the old gravitational math Kell ran twice to be certain — was in the act of stopping being one. A gas giant that should have shown storm bands and a hydrogen haze showed instead a skeletal lattice wrapped around what remained of it, atmosphere threading up through structures too regular to be anything but built, drawn off in strands that caught starlight and looked, for one terrible half second, like something exhaling. A rocky world closer in had lost its oceans to a shape Calder's mind kept trying and failing to file as a mining platform, because mining platforms did not extend past a planet's terminator and out the other side.
+
+"They are not taking anything from this system," Calder said, and heard how young his own voice sounded saying it. "They're taking the system."
+
+"Confirmed," Kell said, and did not offer him anything softer.
+
+Then the first capital shape crossed the gap between them and the dimmer background stars, and Calder understood, in the wordless way a body understands a threat before a mind finishes the math, that he had never actually seen a large ship before in his life.
+
+It did not look like a warship. It looked like a city that had learned to move. Lights — if they were lights, and not simply heat bleeding through a hull that size — ran along its flank in patterns too vast and too regular to read as decoration, structures nested inside structures the way a shipyard nested inside a harbor, foundries and refineries and processing lines Calder could only infer from the way smaller, faster shapes streamed in and out of ports along its length like traffic entering a city he had no name for. *Kestrel Veil*'s whole hull, Calder understood without needing Kell to confirm the number, could have vanished inside a single one of those ports and never been found again.
+
+"A Leviathan could dock in one of its bays," Vex said, flat, the closest thing to wonder Calder had ever heard in his voice. "Not the ship. One bay."
+
+The shape changed heading.
+
+It did not maneuver the way any vessel Calder had ever served aboard maneuvered — no visible thrust plume commensurate with the mass involved, no correction burn a Fleet helm officer would have recognized as physics doing its ordinary work. It simply, over the span of several minutes, was pointed somewhere else than it had been, the way a building might be pointed somewhere else if a building could decide to be. For those minutes it crossed directly between *Kestrel Veil* and the star behind it, and the star went out.
+
+Not dimmed. Out. A held breath's worth of true dark, filled edge to edge by something that was, Calder made himself understand, only one vessel among however many the front actually required.
+
+"It's not aware of us," Solan said, eyes on her board, voice carefully flat. "Passive confirms no scan lock, no course adjustment consistent with detection. We are a mote it hasn't bothered to notice, in a system it has already stopped needing to defend, because nothing left in it can fight back."
+
+Something moved along the near edge of a processing structure — smaller, faster, worker-scale against the mass behind it. Calder's eye caught it only because Kell's board flagged the return and slaved a passive optic toward it for the two seconds discipline allowed before cutting the feed. Radial. Limbs he counted without meaning to and lost count of before he finished. No face he could locate, no posture he could read as looking back, moving with a rotational ease that made "forward" and "backward" meaningless words applied to whatever it was. It was gone from the optic before he had finished flinching from it, folded back into the work it had been doing before the two seconds of attention interrupted nothing about its schedule at all.
+
+Underneath everything, faint on a passive audio channel someone had left open out of habit, something layered and dissonant threaded through the static — not loud, not close, structured in a way that made the hair on Calder's arms rise before his mind caught up to why. He had never heard it live before. He had only ever heard Park describe it secondhand, calmer than this, safer than this, filtered through relay lag and a professional's careful distance.
+
+They were talking to each other. Over the wreck of a system that used to have four planets and, at some point no chart would ever recover, people.
+
+Nobody on *Kestrel Veil* answered. Nobody could. That silence was the entire mission.
+
+---
+***KESTREL VEIL — WHAT THE TWELVE MINUTES BOUGHT***
+*EGRESS*
+
+Calder did the arithmetic the same way he did every arithmetic that mattered, which was too slowly, and too late to change anything it touched.
+
+He had watched a structure processing a gas giant's atmosphere at a rate Kell converted, on request, into a plain number: strands like the one Calder had watched exhale starlight carried away enough material in a single watch to have supplied three fringe colonies for a year. He had watched a capital shape change heading in minutes that would have been, on any Fleet board he had ever stood at, the entire length of a rescue window. He understood, with a clarity that arrived like cold water rather than insight, that the twelve minutes he had spent at Assist Yard Nine asking for one more compare had not been a delay measured against a slow war. They had been measured against this. Against a front that ate a system's oceans in the time it took a council clerk to argue a memo.
+
+"I kept thinking observation bought us time," he said, to no one in particular, low enough that only Vex, closest to him on the cramped deck, could have heard it. "It doesn't buy time. It only tells you how little of it you actually had."
+
+Vex did not offer comfort. It was not in him to offer it, and Calder no longer wanted it from anyone who would.
+
+"Orenna Voss-Callan was alive for every one of your twelve minutes," Vex said. "So was the runner who stayed with her. You already knew that. You are only now learning what twelve minutes costs when measured against something that does not slow down to argue with you. That is not forgiveness. It is not condemnation either. It is simply the number, finally sized correctly."
+
+Calder watched the front keep working. "We kept asking when they would come back."
+
+"They did not come back," Vex said. "They never left. We have been watching preparation and calling it weather."
+
+"I don't know how to hold that number and still make the next call," Calder said.
+
+"Then you will have to learn between here and home," Vex said. "Because home is going to ask you to make it anyway, whether you have learned or not. My instructors said a hull that has seen the depth does not get to pretend afterward that it only ever sailed the shallows. Solan. Field budget."
+
+"Eleven minutes before we cross back past detection risk for the heat we've already banked," Solan said. "We should not have stayed this long. I am glad we did. Both things are true. Egress now, or the field starts making decisions for us instead of the other way around."
+
+*Kestrel Veil* turned for home the way she had done everything else on this transit — without flare, without triumph, without any signal to mark that she had been anywhere at all. Calder watched the processing front recede behind them, still working, still indifferent, still not aware they had ever been close enough to see it clearly.
+
+He did not sleep during the transit back. He told himself it was the field budget keeping him alert, watching Solan's slate the way he had once watched confirmation grades, and knew, lying in the dark berth with his eyes open, that it wasn't.
+
+---
+***HELION — JOINT TABLE, NIGHT WATCH***
+*NO WORD YET*
+
+Thessaly held the joint table through the hours nobody scheduled, because someone had to, and the schedule she had inherited did not include a line for waiting.
+
+The channel to *Kestrel Veil* stayed exactly as empty as it had been the day the ramp sealed. No confirmed. No probable. No degraded. Just absence, which was its own category now, one she had learned to read without flinching at it in front of the councilors who kept asking, politely, when the demonstration Rowan had promised them might actually arrive.
+
+"Nothing," she told Rowan, when he asked, because that was the honest word and she had promised the room honest words before she had promised it anything else. "Nothing is not the same as bad news. I need everyone in this building to understand that before they invent a funeral out of a silence that was designed on purpose."
+
+Outside the annex glass, Helion kept practicing joy on schedule, the way it always did, indifferent to what the sealed rooms had decided to fear tonight. Somewhere past every chart in the building, a Fleet scout under a borrowed Dominion field was either coming home or it wasn't, and the only thing left that was actually hers to do was hold the table steady until she found out which.
+
+She wrote one line into the quiet channel before the watch turned over: *Recon transit ongoing. No confirmation either direction. Holding command as instructed. Waiting is not the same as doing nothing. It only looks that way from outside the room.*
+
+Few would read it. That was why it mattered.
 
 ---
 **END CHAPTER 22**

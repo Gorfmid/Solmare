@@ -1,5 +1,5 @@
 ---
-description: Solmare Revision Pass — Stage 2 structural/clarity/character revision
+description: Solmare Revision Pass — Stage 2 structural/clarity/character/AI-signature revision
 globs: Books/**/Chapters/chapter_*.md
 alwaysApply: false
 ---
@@ -11,12 +11,18 @@ When the user says **"Revision Pass on Chapter X"**, **"revise chapter X"**, **"
 1. Confirm **Revision Pass** stage (or author override) per `Writing_System/Pipeline/solmare_writing_lifecycle.md`.
 2. Load the **router only:** `Writing_System/revision_pass.md`
 3. Also load as needed: chapter list purpose notes, prior Final Candidate / LOCKED FINAL chapters, `Style_Guide/revision_philosophy.md`, relevant Characters/Universe docs.
-4. Run numbered passes **in order**, loading **one pass file at a time** (do not preload all four):
+4. Run numbered passes **in order**, loading **one pass file at a time** (do not preload all six):
    1. `Writing_System/Revision_Pass/01_people.md`
    2. `Writing_System/Revision_Pass/02_story_structure.md`
    3. `Writing_System/Revision_Pass/03_clarity_language.md`
    4. `Writing_System/Revision_Pass/04_continuity_preflight.md`
-5. After Pass 4, deliver the **combined report** from the router.
+   5. `Writing_System/Revision_Pass/05_character.md` (after structure; no plot/scene changes)
+   6. `Writing_System/Revision_Pass/06_ai_signature.md` (after Character Pass; strip AI polish)
+5. After the last pass run, deliver the **combined report** from the router.
+
+**Standalone triggers:**
+- *Character Pass on Chapter X* → Pass 5 only
+- *AI Signature Removal Pass on Chapter X* / *AI Signature Pass on Chapter X* → Pass 6 only
 
 ## Rules
 
@@ -27,6 +33,8 @@ When the user says **"Revision Pass on Chapter X"**, **"revise chapter X"**, **"
 - Pass 2: story/structure; trust the reader; plant life / payoff later.
 - Pass 3: captions, soft-noun ban, jargon, plain speech, name the damn thing.
 - Pass 4: successive continuity; protected cast / career (`PROTECTED_RECURRING_CAST.md`); *Veil*/Interface roster; strategic charts; search pass; **mandatory first-hearing preflight**.
+- Pass 5: character voice / perspective / behavior; no plot changes.
+- Pass 6: AI signature removal — meaning-after-image; over-articulate dialogue; excess narrative certainty; lived body not furniture / no recycled Book One check-ins (§6.4); no new scenes / no drama expansion.
 - Author mid-read *what does this mean?* = hard fail — plain-expand immediately.
 - Do not duplicate linked canon wholesale — load the canonical file when needed.
 

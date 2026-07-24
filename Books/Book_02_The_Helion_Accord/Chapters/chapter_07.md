@@ -1,451 +1,627 @@
 # Chapter 7
 
-## No Survivors
+## The First Watch
 
 ---
 
-***HELION — HISTORICAL OFFICE STRIP / CIVILIAN AFFAIRS JOINT***
-*FOUNDERS' REACH SURVIVOR WINDOW CLOSE*
+***HELION PRIME — LOWER MERIDIAN DISTRICT***
+*LUNCH COUNTER*
 
-Soraya Ellis arrived before the coffee urn finished its morning refill and before the banners outside Helion's civic wing finished inventing a war they could sell. She set her slate on the joint table the way she set every contested noun: carefully, as if the surface itself might try to rewrite it.
+On Lower Meridian, the emergency did not arrive with alarms.
 
-Civilian Affairs had already opened three screens. One held residual survey receipts from *Kestrel Veil*. One held prior census extracts for Founders' Reach under Segment 6 custody. One held the hope protocol checklist that still used present-tense verbs for people who had stopped answering.
+It did not arrive with a government broadcast, a warning siren, or a voice from a wall speaker telling people that their day had changed.
 
-"Window status," Ellis said.
+It arrived when people started looking at their slates.
 
-Clerk Denara Voss of Civilian Affairs tapped the hope strip without looking at Ellis. "Rescue bands closed at New Meridian ops. Emergency override unanswered through final cycle. Segment craft report no life returns on passive. Calder's field product remains: emptied, processing signature, no survivors answering. Thessaly's addendum: do not reopen rescue language without residual life confirmation."
+At The Rail Cut, a lunch counter beneath the yard tram line, Tavish Orrick was halfway through a coffee refill when the Segment traffic display above the service hatch changed from green route assignments to a string of holds.
 
-"Then close the window," Ellis said.
+At first, nobody noticed.
 
-A junior memorial tech at the wall flinched. "Ma'am. Families are still asking for search extensions. Founders' Week committees want a survivor narrative. Even one."
+The display changed constantly. Freight moved. Training lanes shifted. Maintenance windows opened and closed. Helion was a living station, and most people had learned to ignore the thousands of small adjustments that kept it moving.
 
-"Search extensions without residual life are theater," Ellis said. "Theater is not mourning. Close the window. Log the close under contested operational description. Public language: survivor search concluded. No certified survivors. Names proceed under census custody where recoverable."
+Then a dockworker near the window stopped eating.
 
-Denara's hand hovered. "If I close it, hope becomes logistics."
+He looked up at the display.
 
-"Hope already became logistics the moment the residual survey finished," Ellis said. "We are late to admit it. Close it."
+Then at his slate.
 
-Denara closed the window. The screen did not make a sound. The room did. Someone exhaled as if a pressure hatch had sealed. Someone else muttered a Founders' Week prayer under their breath and then looked embarrassed to have used holiday language in a work room.
+Then back at the display.
 
-Ellis did not correct the prayer. She corrected the draft header that had already tried to climb onto the board: *INVASION CASUALTY — FOUNDERS' REACH*.
+"Is anyone else seeing this?"
 
-"Strike *invasion*," she said. "Not certified. Not sole frame. Rowan authorized contested framing. I retain narrative hygiene on public mourning text. You get *catastrophic civilian loss*. You do not get a war noun as a comfort object."
+Nobody answered immediately.
 
-"Council staff sent that header twenty minutes ago," the junior tech said.
+The man checked the slate again, as if the second look might produce a different result.
 
-"Council staff can send headers. They cannot make residual geometry into a battle."
+It did not.
 
-Ellis opened the empty manifest herself. Founders' Reach prior census sat in ordinary columns: household units, agricultural trial assignments, container school enrollment, relay officer rotation, outbound Fleet applicants for the next selection cycle. Second-generation settlers. Self-sufficient enough to be ignored. Proud enough to keep sending people into Fleet. The shipping-container classrooms listed as temporary infrastructure that had become permanent by neglect. Children studied in them regardless.
+A woman waiting near the counter stepped away from the queue and looked toward the street outside. Another person lowered their voice in the middle of a conversation and never finished the sentence. The traffic board refreshed once more, the same holds remaining in place.
 
-The residual survey had returned those columns as silence.
+The room did not go silent all at once.
 
-No distress bands. No challenge traffic. No names answering from habitats that no longer held the shape of habitats. Orbital stock sorted along usefulness rather than impact. Atmospheric gradients weather did not write. Calder and Thessaly and Park had already said all of that in language that survived sealed rooms. Ellis's job was to keep that language from being eaten by banners.
+It faded.
 
-She loved Fleet beginnings. She had spent a career protecting Founders' Week from becoming a weapon or a fairy tale. The colony named for belief had finished under a G-type sun that did not care about commemorative cloth. She refused to underline the irony. The absence did that work without her help.
+One conversation ended.
 
-A family affairs runner from New Meridian came through on lag before Denara could move to the next strip. The woman on the screen had the posture of someone who had already taken three hard calls and expected a fourth.
+Then another.
 
-"Historical Office. Civilian Affairs. I have a household cluster on the line asking whether dark survivors could still be waiting for a friendly challenge. They want the search window held open through Founders' Week ceremonies."
+Forks slowed.
 
-"No," Ellis said. "Relay mast signature absent. Administrative ping dead. Emergency overrides unanswered through final cycle. Dark waiting is a story sensors do not support. Tell them the truth gently and once. Extensions without residual life teach families to distrust every later honesty."
+Cups stopped halfway to mouths.
 
-"They will say Command abandoned them."
+Finally, the man near the window looked toward Tavish.
 
-"They may," Ellis said. "Abandonment language belongs to politics. Forensic finality belongs to the board. Close the window and send them to name custody when it opens. Do not send them a fairy tale with my office's seal."
+"Turn on the news."
 
-The runner signed off looking unhappy and competent. Ellis preferred that combination to cheerful compliance.
+Tavish stared at him.
 
-"Name recovery status," she asked.
+"What?"
 
-Denara brought up the custody strip. "Prior census recoverable names: partial. Residual survey does not restore bodies. We can certify household lists where Segment records were mirrored off-world. We cannot certify final disposition for individuals beyond *accounted absent under catastrophic loss*. Empty berths at New Meridian already reserved for memorial logistics. Coffin inventory requested for ceremony. Most will never fill."
+"Just turn it on."
 
-"Print empty berth schedules without decorating them," Ellis said. "Families need a place to stand. Do not invent remains to make the standing feel complete."
+Nobody laughed.
 
-Denara hesitated again, then asked the question the room had been circling. "What do I tell the techs who keep wanting survivor language in the berth headers. *Pending recovery. Possible return.*"
+That was what bothered him.
 
-"Tell them pending recovery is a category for people who still exist somewhere," Ellis said. "These people are accounted absent under catastrophic loss. That is uglier. It is also accurate. Accuracy is the only respect left that does not require invention."
+Normally, someone would make a joke. Someone would complain about another delay, another announcement, another thing Fleet had decided everyone needed to worry about.
 
-A courier from the annex stuck his head in. "Admiral Rowan wants Historical Office confirmation that the survivor window is procedurally closed before the casualty board opens."
+Nobody did.
 
-"Confirm it," Ellis said. "No survivors answering. Search concluded. Reckoning begins. Tell him I will fight the nouns in the next room, not this one."
+Tavish reached for the wall display.
 
-The courier left.
+Before the channel loaded, a family affairs notice appeared on someone's slate.
 
-Ellis looked once more at the empty manifest. The last ordinary morning packet from the colony's administrative relay still sat in Segment mirrors under the author name Cade: weather nominal, processing output steady, no elevated medical. Ordinary civilization written in sentences that meant a place was working. The residual survey was the same place after someone else finished the working. Ellis kept both products visible on her slate because institutions forgot ordinary life faster than they forgot catastrophe, and forgetting ordinary life was how banners turned people into symbols.
+Then another.
 
-Hope protocols had done their job as long as sensors allowed them. Sensors had finished arguing. Grief had to change jobs.
+Outside, a patrol craft crossed above the tram line on a route that usually meant training.
 
-She logged the close in plain institutional language and sent the packet to New Meridian, Contact Node Seven, *Kestrel Veil*, and Rowan's annex.
+Nobody in The Rail Cut knew why it was there.
 
-No survivors.
+Nobody had been told anything.
 
-Not a slogan.
+That was the part that bothered them most.
 
-A status.
+The world had changed.
+
+And ordinary people were still waiting for someone to explain how.
 
 ---
-***HELION — COUNCIL MEMORIAL DRAFTING ROOM***
-*CASUALTY BOARD / PUBLIC LANGUAGE*
 
-The casualty board filled the long wall like a freight schedule that had learned how to hurt people. Names came up in batches where Segment mirrors allowed. Household clusters. School enrollment lists. Agricultural trial teams. The relay officer's rotation card. Outbound Fleet applicants who would never sit selection boards.
+***HELION — FIB / DOCTRINE CLOSED BRIEF***
+*CLASSIFIED CONTAINMENT*
 
-Rowan stood at the head of the table with Neve on one side and a Council memorial liaison on the other. Hale held the First Doctrine strip like a man who knew amendment hearings did not pause for funerals. Ellis sat where narrative hygiene could still reach the draft before it escaped into banners.
+The conference room had been built for meetings that ended.
 
-Coffee sat on the sideboard as work presence. Nobody used it as a clock.
+Agenda.
 
-"Public draft one," the memorial liaison said. "Founders' Reach was invaded by Peligar forces. Fleet mourns the dead and will answer this attack."
+Presentation.
 
-Ellis did not raise her voice. "Strike *invaded*. Strike *attack* as sole frame. Residual product contradicts battle narrative. You may say *catastrophic civilian loss under contested operational description*. You may say *Peligar* only as Dominion exonym for external behavior already on the joint board, with note that meaning and self-name remain unknown. You may not baptize a war playbook that the sensors refuse."
+Decision.
 
-The liaison looked at Rowan. "Admiral. Markets need a sentence. Founders' Week committees need an enemy. Industrial mobilization needs hatred with a face."
+Door.
 
-"Industrial mobilization needs logistics and doctrine that survive next week's evidence," Rowan said. "Ellis retains hygiene authority on public mourning text. Contested framing holds. No sole invasion lock."
+The kind of room where problems arrived in neat packets and left with signatures attached. Coffee went cold in the corridor afterward. Analysts returned to their desks. Officers returned to schedules. The building continued operating because the crisis had a beginning and an end.
 
-Neve kept her gloves on. "FIB can live with *catastrophic loss* in open galleries if sealed rooms keep *processing signature* and *extraction tempo*. If public rooms lock *invasion*, sealed rooms will be forced to launder every later correction as betrayal. Panic markets already price false certainty higher than contested truth. Do not feed them."
+This briefing had no end.
 
-A hawk from the mobilization bloc leaned forward. "Then what do we call a finished colony. An industrial accident. A natural disaster. Genocide. A Peligar attack. Pick one that moves ships."
+The room held nineteen people, though it had been designed for twelve. Additional chairs had been pulled from storage and arranged along the walls. Two analysts stood because there was nowhere else to sit. Temporary display panels had been installed, and cables crossed the floor where nobody had bothered to tape them down.
 
-"None fully fit," Ellis said. "That is the problem and the evidence. *Attack* implies a fight still happening or a hatred grammar we can answer. *Genocide* smuggles intent we have not certified. *Natural disaster* insults the dead and the living both. *Industrial accident* invents our negligence as the cause. *Invasion* invents an enemy who chose Founders' Reach for insult. The residual survey shows availability on a contour, not selection for theater."
+Nobody complained.
 
-"Availability," the hawk repeated, as if the word itself were an insult. "You want us to mourn people as feedstock."
+Nobody cared.
 
-"I want you to mourn people as people," Ellis said. "And to stop writing operational headers that pretend the process hated them. Hatred can end. This did not display hatred. It displayed finish."
+The Founders' Reach system graphic remained on the primary display.
 
-A second Council voice from the far end tried a softer trap. "Then call it genocide. That word moves moral force without requiring a battlefield photograph."
+Overlaid beside the imagery were the colony's last certified statistics.
 
-"Genocide is a claim about intent to destroy a people as a people," Ellis said. "We have destruction. We do not have certified motive language that survives residual geometry. If you use the word to mobilize, you will own every later correction when sealed rooms refuse to pretend we understood why. Prefer catastrophic civilian loss. Prefer contested operational description. Prefer the fight remaining visible."
+Population: 31,362.
 
-Silence held for a breath. Hale broke it carefully.
+Registered households: 8,914.
 
-"Doctrine can carry contested nouns," he said. "Academy will bleed if you force a war sermon into First Doctrine amendment text. Mobilization will bleed if you force observation language into funeral cloth. Keep the fight visible. Do not pretend consensus."
+School enrollment: 4,207.
 
-Neve put two unauthorized committee drafts on a side strip without reading them aloud in full. "FIB headers already tried *hostile consumptive strike* and *systematic civilian erasure event*. Both sound like they know more than the board. Kill them before gallery pools reprint them as Command voice."
+Agricultural trial hectares: 612.
 
-"Killed," Ellis said, and marked both as unauthorized for seal.
+Annual freight throughput: 1.4 million tons.
 
-Rowan nodded once. "Public draft becomes: Founders' Reach confirmed catastrophic civilian loss. Survivor search concluded. No certified survivors. Residual survey under sealed custody. Fringe alerts under review. Operational description contested. Memorial logistics authorized through New Meridian Civilian Affairs. No sole invasion lock. No vengeance sermon. No false precision mega-count."
+Last weather packet: ordinary.
 
-The liaison's stylus hovered. "Committees will call this cowardice."
+Every number was still current in the system.
 
-"They can," Rowan said. "They called contested language cowardice yesterday. The fringe did not stop burning because they were unhappy."
+None of them explained what the images showed.
 
-Ellis wrote her private refusal into the Historical Office strip while the public draft advanced without the war noun it wanted. Public-facing *attack/invasion* language still crawled through committee side channels. She could see the drafts stacking: *Peligar invasion of Founders' Reach*; *first Fleet world attacked*; *answer this insult*. She killed what she had authority to kill. She recorded what she could not kill as contested and unauthorized for Command seal.
+No one looked at the display anymore.
 
-The personal cost arrived sideways, as it always did in rooms that preferred banners. A Founders' Week organizer in the observer row stood without waiting for recognition.
+That had been the strange part.
 
-"You are the historian who will not say invaded," the organizer said. "While names go up on that wall. How do we mourn if you will not let us name the act."
+The first time people saw Founders' Reach, they could not look away.
 
-Ellis met the woman's eyes. "You mourn by saying their names. You do not require my office to invent their murderer so the holiday cloth feels coherent. If that makes me the villain of your week, take the title. I will still correct the caption tomorrow."
+After hours, they could not look at it at all.
 
-The organizer sat. Not converted. Contained. Rowan gave Ellis a look that meant he would pay for that sentence in three other rooms and still preferred it to a cleaner lie.
+The colony still existed in the records.
 
-Calder came on lag from *Kestrel*, voice flat with the particular fatigue of a man who had already walked emptied ground.
+The people did not.
 
-"Field note for the board," he said. "Orchard Compact remains contested. Third fringe indicator still degraded, not confirmed. Do not invent certainty for Helion's sake. Do not convert Founders' Reach dead into propaganda fuel for a war story the board still refuses. If Council needs grief, give them grief. If Council needs a cleaner enemy, they will have to invent one without my signature."
+Rowan sat at the end of the table with a slate open in front of him.
 
-"Acknowledged," Rowan said. "Hold Orchard. Hold the third indicator. Local judgment remains authorized."
+Fleet estimates.
 
-Thessaly's voice followed, brief and procedural. "Crew and specialists are through the first mourning window without speeches. Political observers on Node Seven are being managed as people, not as audiences. Do not send us memorial rhetoric packets that require performance. Send us work."
+Transit times.
 
-Park added one sensor line and nothing decorative. "Residual speech structure at Founders' Reach remains low-tempo. Meaning none. No translation. No self-identification. External behavior only."
+Available hulls.
 
-"Sending work," Neve said.
+Fuel reserves.
 
-Ellis almost thanked Thessaly out loud and did not. Gratitude was not hygiene. Hygiene was keeping the record from becoming a recruitment poster before the nouns earned their keep.
+Evacuation capacity.
 
-She looked at the casualty board again. Names. Empty berths. A school enrollment list that would become a memorial reading if Civilian Affairs did its job cleanly. Founders' Week cloth waited in storage like a holiday that had outlived its town.
+Warship readiness.
 
-Nobody underlined that either.
+Every number represented something that might matter in the next several hours.
+
+Every number was also a reminder of how limited Fleet actually was.
+
+He had stopped reading the numbers and started watching the people reading them.
+
+Neve had not moved from her chair in nearly an hour. She continued updating the intelligence summary, removing anything that could not survive an aggressive review. Hale still had the First Doctrine language open, although he had stopped scrolling through it.
+
+Ellis attended through audio projection from the Historical Office. The connection occasionally distorted as Helion's systems struggled under the sudden increase in demand.
+
+Nobody mentioned it.
+
+Nobody wanted to be the first person to say that the entire station was beginning to strain.
+
+A paper brief slipped from an analyst's hand near the door.
+
+It landed on the floor.
+
+Nobody moved.
+
+The room was quiet enough that everyone heard the paper settle against the tile.
+
+The analyst bent down to pick it up.
+
+That was when the room remembered it was full of people.
+
+A slate chimed.
+
+Then another.
+
+Then several at once.
+
+The quiet broke.
+
+"Freight routes are requesting guidance."
+
+"Council wants a statement before the gallery opens."
+
+"Family Affairs is requesting casualty language."
+
+"We do not have casualty language."
+
+The last voice came from Neve.
+
+Everyone looked toward her.
+
+She looked back at the Founders' Reach display.
+
+"We are asking the wrong question."
+
+She stood and walked closer to the display.
+
+"Everyone wants to know what to call it."
+
+She looked around the room.
+
+"Attack. Raid. Invasion. Accident."
+
+A pause.
+
+"We do not know yet."
+
+Nobody interrupted.
+
+"What we know is that a colony stopped answering."
+
+Her voice lowered.
+
+"And thirty-one thousand people disappeared."
 
 ---
-***HELION — HISTORICAL OFFICE PRIVATE BAY***
-*RECON PRODUCT / PATTERN COMPARISON / FRAME NOTES*
 
-Ellis closed the bay door and shut the gallery noise out of her ears. The private bay smelled like old paper, recycled air, and the particular dust of exhibit drafts that had outlived their openings. Founders' Week edition boards leaned against the far wall under cloth: pioneer routes, living settlers, the prospective grammar Fleet preferred when it told itself who it was.
+***HELION — COUNCIL OPEN GALLERY***
+*PUBLIC PRESSURE*
 
-She loved those boards. She had argued for years that commemorative myth was not evidence and that evidence was not a reason to stop loving beginnings. Today the beginnings board looked like a category error wearing holiday paint.
+The open gallery had been built for disagreements.
 
-She opened three products side by side.
+Not emergencies.
 
-First: *Kestrel*'s Founders' Reach residual. Emptied system. Processing signature. No survivors answering. No certified attack intent. Debris geometries sorted. Atmospheric scrape curves. Container school footprint as absence. Calder's refusal of war language. Thessaly's procedural cuts. Park's speech-structure residual without meaning. Okwelu and Mehta's sampling notes that had rewritten themselves from raid assumptions into industrial ecology because the tools demanded honesty.
+The room had hosted budget disputes, trade negotiations, Fleet appropriations, and political arguments that lasted longer than anyone wanted to admit. The acoustics were designed so every voice carried. The seating was arranged so every faction could see every other faction.
 
-Second: Dominion pattern library excerpts under sunset and veto from Contact Node Seven. Tempo signatures. Missing-return cascades. Continuity frontier advance. Resource graph pressure. Vex's professional line, still sitting in the joint log like a stone: a flood does not hate the valley; the valley still drowns. No gloating. No *we told you*. Shared loss posture without superiority, which Fleet rooms kept misreading as indifference because Fleet rooms expected grief to speak.
+It was a room built for people who believed arguments eventually produced answers.
 
-Third: Fleet war rhetoric drafts from Council staff, Founders' Week committees, and two FIB public-affairs templates that Neve had already flagged as politically useful and physically false.
+The upper rails carried Helion's institutional banners.
 
-She walked the comparison the way she walked exhibit proofs: one concrete observation at a time, no leap that would look clever in a gallery and false in a sealed room.
+Among them hung Founders' Week committee cloth — copper and blue — placed months early for the next season's debate over messaging.
 
-Fleet war rhetoric wanted wreck heat, chase traffic, demands, ransom, a hatred certificate, an ending condition. The residual survey offered sorted debris, feedstock-consistent gradients, silence where habitats had been, and a multi-vocal residual Park still marked as speech structure without meaning. Dominion pattern language called that processing. Continuity frontier. Resource graph pressure. Fleet rooms heard industry and flinched because industry did not feel like a reason to move fleets until people remembered people had lived inside the material.
+The actual week was still months away.
 
-An exhibit committee message sat flagged urgent on her side strip: *Replace living-pioneer panels with martyr panels. Public needs invasion grammar for Founders' Week coherence. Historical Office obstruction noted.*
+Nobody in the gallery had come to celebrate anything.
 
-Ellis answered in one line and copied Neve.
+The banners remained.
 
-*Obstruction is hygiene. Martyr panels invent a war story residual survey refuses. Temporary mourning annex only. Pioneer panels stay until evidence earns a different edition.*
+That bothered Rowan more than he expected.
 
-She loved those pioneer panels. That was the private wound she would not put in the sealed note. Fleet beginnings had been her vocation: living settlers, prospective routes, the belief that frontiers could be lived in without becoming speeches. Evidence now said war vocabulary was a category error for what had finished Founders' Reach. Loving beginnings did not require lying about endings.
+They hung exactly as they had yesterday.
 
-Ellis began her analysis note the way she began every note that might later be used against her: with what the sensors allowed, not what the banners required.
+The same colors.
 
-*Working frame — contested, not for public seal.*
+The same symbols.
 
-*Observed behavior at Founders' Reach matches Dominion processing signature class more closely than Fleet attack grammar. No ransom. No demands. No hatred signature. No negotiation product. Residual multi-vocal channel: speech structure, meaning none. Process finished or nearly finished on primary node. People absent as if removed from a resource graph rather than defeated in a campaign.*
+The same promises of a future that had seemed guaranteed.
 
-She paused. The next sentence wanted to arrive fully formed, the way thesis sentences always wanted to arrive when historians were tired. She had told Calder's room not to complete an extraction thesis they had not earned. She would not complete one now either. She would seed the distinction and leave the series its later work.
+The people beneath them had come for a colony that no longer existed.
 
-*Seed distinction for sealed channels (Calder / Rowan / Historical Office custody):*
+The gallery was full before Rowan entered.
 
-*Invasion language assumes an enemy chose a population as objective.*
+Freight representatives sat with open manifests and route projections. Council members whispered with aides who checked incoming messages faster than they could read them. Press pools crowded the lower floor with recorders already active and questions already prepared.
 
-*Extraction / processing language assumes a system chosen as material. Populations become obstacles inside that material, not the purpose of the action.*
+A civilian affairs clerk stood near the side aisle holding a memorial logistics packet against her chest.
 
-*Moral murder and operational attack are not the same category. Collapsing them comforts mobilization and poisons the next decision.*
+She looked exhausted.
 
-*Do not baptize motive. Do not claim self-name. Do not claim translation. Park-adjacent signal notes support language-exists-elsewhere without meaning exchange. Peligar remains exonym for external behavior.*
+Not panicked.
 
-She sat back. The cost of the note landed in her chest like a physical object. Historian-as-critical-path. Narrative hygiene under massacre tempo. The woman who would not say *invaded* while empty berths were being scheduled.
+Not overwhelmed.
 
-A soft chime. Rowan on secure audio.
+Just tired of being the person who had to tell people there were no answers yet.
 
-"Ellis. Council wants to know if you are going to become a problem in open gallery."
+As Rowan passed, he stopped briefly and placed a hand on her shoulder.
 
-"I am already a problem," she said. "The residual product made me one. If they force sole invasion language into Command seal, I will dissent on record. If they keep contested framing, I will keep killing soft synonyms and let mourning proceed."
+Then he continued to the Fleet Command seat.
 
-"Can you live with public *attack* in committee drafts you cannot stop."
+His shoulder hurt.
 
-"I can live with unauthorized drafts. I cannot live with my office blessing a false playbook. You authorized contested framing. Hold that line and I can keep working."
+His sleep had been measured in minutes.
 
-Rowan was quiet long enough that she heard the annex behind him: runners, arguments, the ugly arithmetic of order versus survival.
+His staff had asked twice if someone else should deliver the statement.
 
-"Your seed note is already circulating in sealed strips," he said. "Neve calls it useful heresy. Hale calls it doctrinally expensive. Calder called it the only honest sentence he has seen since the gallery asked for handles."
+He refused both times.
 
-"It is not a sentence that completes the argument," Ellis said. "It is a refusal to let the wrong argument finish first."
+The first words spoken in this room would decide the shape of the next several days.
 
-"I know. Keep it sealed. Keep it growing. Do not dump a cosmology into a funeral week."
+He looked at the gallery.
 
-"I will not."
+At the banners.
 
-"And Ellis. Founders' Week edition politics. The exhibit committee wants to pull the living-pioneer panels and replace them with martyr panels overnight."
+At the people waiting.
 
-Ellis looked at the cloth-covered boards. "Tell them no. Martyr panels invent a war story. Keep the pioneer panels and add a mourning annex that tells the truth we can certify: a colony ended. Contested how. Names where recoverable. No false enemy grammar. If they cannot stomach that, they can wait until Historical Office clears a temporary edition."
+"Founders' Reach is a catastrophic civilian loss," he said.
 
-"They will hate you."
+The room shifted.
 
-"They already do," Ellis said. "Hatred from committees is survivable. False nouns in the archive are not."
+Not much.
 
-After Rowan dropped, she sent the seed note under custody to Calder, Thessaly, Neve, and Rowan's annex. She marked it *analysis — contested — not public seal*. Then she stood, straightened the cloth on the Founders' Week boards, and went back to the rooms that wanted simpler words.
+A few slates moved.
+
+A few people leaned forward.
+
+Everyone heard the sentence they had been waiting for.
+
+Not the words he said.
+
+The ones he did not.
+
+"Residual survey information remains under sealed review. Fleet observation posture has been elevated across the outer corridor. Response assets are moving. Additional support preparations are underway."
+
+A voice from the upper rail cut through.
+
+"Are we at war?"
+
+The room went still.
+
+Rowan looked toward the speaker.
+
+He recognized the question.
+
+Not the person.
+
+The question had been asked in different forms in every room since the packet arrived.
+
+"No," he said.
+
+The answer moved through the gallery.
+
+Some people relaxed.
+
+Others did not.
+
+"Then what do we call this?"
+
+A Founders' Week organizer stood near the center aisle. Her hands were closed around a slate containing names that did not yet have official status.
+
+"If we cannot say who did this," she said, "how do we tell people what happened?"
+
+Rowan looked at her.
+
+Not the cameras.
+
+Not the Council.
+
+Her.
+
+"Eighteen months ago, we believed we were alone in the galaxy. Then we found the Dominion. Both Fleet and Dominion are still learning what that means."
+
+He paused.
+
+"I cannot tell you exactly what the Peligar are. I cannot tell you why they did what they did. I can tell you what we know."
+
+He looked around the room.
+
+"The Dominion calls them the Peligar. Their warning information matches what our scout recorded at Founders' Reach. The colony is gone. Thirty-one thousand people are missing."
+
+A pause.
+
+"That is the truth we have today."
+
+The room stirred.
+
+Not agreement.
+
+Not disagreement.
+
+The sound of people wanting something simpler.
+
+Someone from the freight section stood.
+
+"Dominion warned us."
+
+The room changed.
+
+There it was.
+
+The question underneath all the others.
+
+"Was this because of them?"
+
+Another voice followed.
+
+"Or did we ignore them?"
+
+Another:
+
+"Did they lead us into it?"
+
+The questions stacked before anyone could answer.
+
+Rowan let them.
+
+For a moment.
+
+Then he raised one hand.
+
+The room quieted.
+
+"We have Dominion information that correlates with Fleet observations at Founders' Reach," he said.
+
+A pause.
+
+"That matters."
+
+He looked toward the Dominion reference data.
+
+"We do not have evidence that makes them responsible for the loss."
+
+Another pause.
+
+"That matters too."
+
+A Council member leaned toward her microphone.
+
+"Admiral, people need certainty. Markets need certainty. Freight needs certainty. Families need certainty."
+
+Rowan looked toward the civilian affairs clerk.
+
+Then back.
+
+"I understand."
+
+His voice remained calm.
+
+"But certainty is not something I can order a sensor to produce."
+
+The press pool began writing again.
+
+"False certainty would satisfy this room for a few hours," Rowan said. "Then we would spend the next week repairing the damage it caused."
+
+A reporter stood.
+
+"Is First Doctrine dead?"
+
+The room changed.
+
+Even the Council stopped moving.
+
+"No."
+
+The answer came immediately.
+
+"First Doctrine is under strain. It was designed for moments like this."
+
+He looked toward Hale.
+
+"Observation remains the method. It is how we stop fear from starting a war."
+
+A pause.
+
+"But I will not abandon people while we wait to be sure."
+
+His eyes moved across the room.
+
+"Founders' Reach already taught us what that costs."
+
+The room erupted.
+
+Dominion.
+
+Fleet failure.
+
+Names.
+
+Evacuation.
+
+War.
+
+Responsibility.
+
+Rowan remained seated a moment longer and let the gallery spend its noise. Then he stood. "Fleet will provide additional information when we have information to provide. We will not provide guesses because people want something simpler." He looked across the room. "We lost a colony. We will not lose the truth with it."
+
+He left. The banners stayed where they were. The shouting followed him into the corridor until the door sealed shut.
 
 ---
-***NEW MERIDIAN — MEMORIAL LOGISTICS HALL***
-*EMPTY BERTHS / NAME CUSTODY*
 
-New Meridian smelled like frontier coffee, packing foam, and the particular soap Civilian Affairs used on memorial cloth. The hall had been a freight overflow bay two weeks earlier. Now it held rows of empty berths marked for Founders' Reach households, a custody desk for recoverable names, and a scheduling board for readings that would never have bodies to match.
+***SEGMENT 6 — ARDENT MEASURE***
+*SUPPORT WATCH*
 
-Ellis had come down the Segment corridor on Rowan's authority because public mourning text needed a historian in the room where families first met the empty spaces. Denara Voss met her at the door with a slate and the face of a woman who had already been asked twice whether this was a good idea.
+*Ardent Measure* had not been built for emergencies. Three days earlier she had been scheduled for routine patrol maintenance at Yard Three — sensor calibration, training rotations, the ordinary corrections that kept a scout ready. A successful patrol was one nobody remembered. Then the elevated observation order arrived, maintenance boards vanished under departure schedules, and sealed mission updates rewrote the route. Fleet did not pull a scout from routine and send it toward the outer corridor because nothing was happening.
 
-"Reading schedule is draft only," Denara said. "We have recoverable names from off-world census mirrors for most household clusters. Agricultural trial teams are nearly complete. Container school enrollment is complete. Relay officer card is complete. Individual final disposition remains *accounted absent*. Families are arriving for first viewing of the berth map."
+Captain Brann Kelso read Calder's posture order twice, looking for what was not written: passive observation, no illumination without survival need, support watch, local judgment. The words were careful in the way orders got careful when Helion was afraid of two failures at once — misunderstanding what waited out there, and becoming the next unfinished report someone watched too late to stop.
 
-"No speeches," Ellis said. "Procedure. Names. Where to stand. What we can certify. What we cannot."
+He looked toward the forward display as *Ardent Measure* cleared the yard. "Maintain passive profile," he said.
 
-They walked the rows. Empty berths. Cards with names where custody allowed. Blank cards where Segment mirrors had never held a full household list and residual survey could not invent one. Coffee urns against the wall for staff who had been awake too long. Ellis did not touch them. Presence was enough.
+"Approach vector remains unchanged," the operations officer answered.
 
-A man in a worn work jacket stopped at a berth marked *TRENNA HOUSEHOLD — AGRICULTURAL TRIAL THREE*. He put his hand on the rail and did not cry. He asked, in a voice that had practiced not breaking, whether the search was truly closed.
+"Good." Kelso watched the stars settle onto the departure vector. "We are not going there to be noticed."
 
-"Yes," Ellis said. "No certified survivors. I am sorry. The window is closed because the sensors finished, not because we got tired."
-
-He nodded once. "Then say their names clean. Don't turn them into a banner."
-
-"That is why I am here," Ellis said.
-
-Farther down, a woman held a school enrollment card and said nothing. She only stood. Thessaly would have approved of the standing without performance. Ellis approved of it too.
-
-Calder's lag note arrived on Ellis's slate while she reviewed the public mourning placard text.
-
-*Field: Orchard Compact still contested. Third indicator still degraded. Crew holding. Do not send us martyr language. Send us whether Helion can mourn without inventing a war. — C*
-
-Ellis replied in the same register, then broke it for one line at the end, because he was the only officer left who never made her explain herself twice.
-
-*Mourning without sole invasion lock is the current fight. Seed frame in sealed custody. Public text contested. Hold your board. You're one of maybe three people in this building who hasn't asked me to make it simpler. Don't start. — E*
-
-On the far side of the hall, two memorial techs argued about coffin inventory. One wanted full counts for ceremony optics. The other wanted honesty about empty ceremonies. Ellis settled it the only way that survived next week.
-
-"Schedule the readings. Do not fill boxes for optics. Empty berths are already the truth. Do not decorate them into false completeness."
-
-Denara posted the revised schedule. Families kept arriving. New Meridian's twelve thousand went about their hybrid military-civilian day around a hall that had become temporary sacred ground without anyone declaring it so. Freighters waited in holding patterns outside. Hardship exceptions stacked at family affairs. Ordinary civilization continued, which was its own kind of memorial and its own kind of insult.
-
-Ellis corrected one more placard before it went to print.
-
-Draft: *Here we remember those lost to the Peligar invasion of Founders' Reach.*
-
-Corrected: *Here we remember the people of Founders' Reach. Catastrophic civilian loss confirmed. Survivor search concluded. Operational description contested. Names under custody.*
-
-The print tech stared. "Committees will replace this by evening."
-
-"Then I will correct it again by morning," Ellis said. "That is the work."
+The bridge stayed quiet. A patrol went looking for trouble that might not be there. This was a watch because something enormous might already be on that bearing — and nobody here knew enough about it to feel safe.
 
 ---
-***CONTACT NODE SEVEN — JOINT OBSERVATION LOUNGE / DOMINION WATCH DETAIL***
-*DUAL MOURNING / SHARED LOSS WITHOUT TRUST*
 
-Contact Node Seven held sunset-shared overlays and the particular quiet of a place built for instruments that still worked while people learned how to stand near each other. Ellis arrived by lag image first, then by shuttle under dual-consent rules that made every courtesy look provisional. She had not come to negotiate. She had come because Rowan wanted Historical Office eyes on Dominion mourning posture before Fleet rooms finished calling composure indifference.
+***KESTREL VEIL — BRIDGE***
+*ORCHARD COMPACT WATCH*
 
-Vex waited at the Dominion side of the lounge table with pale koral tea set for his own detail and black koral for the watch rotation that had just come off board. He did not offer Fleet officers Dominion mourning tea as a statement. He drank what his people drank when grief was work. Calder sat opposite with coffee from the node urn. Thessaly held the middle seat where procedure could still referee culture. Park stood at the joint board and kept speech-structure residuals marked without playing audible fractions for anyone who needed pain to feel real.
+Calder watched the three scout markers move across the tactical display. *Kestrel Veil* held Founders' Reach — his call — because the colony had become evidence: last transmissions, residual scans, processing signatures that could not be recreated if they abandoned the site too soon. *Ardent Measure* moved toward Orchard Compact under support watch. *Cold Assay* waited on the tertiary strip, newest of the three, quietest systems, the hull designed to look without announcing itself.
 
-Senka attended by lag, coat closed. Orlen and Vorin held Dominion custody strips. A Civil Government memorial clerk from Vex's side had brought a plaque draft for an earlier fringe loss on their watch, not Founders' Reach, not a Fleet name, a Dominion district absence already carried in their own boards. The plaque language was plain: names, dates, service or civic function, no sermon.
+Park brought up the technical profile and enlarged the approach model. "Cold Assay has the updated passive array. Lower thermal output. Improved stealth coatings. Newer probe package. They can get closer without changing the environment around them."
 
-Ellis read it and felt the category difference land without anyone explaining it.
+Thessaly looked at Calder. "Which is why you are considering them."
 
-Fleet wanted speeches because Fleet thought speech made loss legible.
+"The best tool," Calder said. "Also the closest to the unknown."
 
-Dominion wanted plaques because Dominion thought continuity made loss usable.
+"You're choosing the newest hull because it has the best chance of staying invisible."
 
-Neither posture was cruelty. Both could be misread as performance by the other.
+"Yes. And because of that, it has the best chance of telling us something useful."
 
-The memorial clerk, an older woman with a veteran's hall pin and no interest in Fleet theater, set a second card beside the plaque. Private promotion notices for living officers on the same watch rotation. Public funeral discipline for the dead. Private advancement for the living who still had to hold the line. Ellis watched Fleet faces tighten around that pairing and understood the misread before anyone spoke it: Fleet saw careerism beside grief. Dominion saw continuity beside grief. The clerk did not apologize for either card.
+No one argued. The justification sat clean on the glass while the people who would carry the order were still names on a divert strip.
 
-"Your memorial hall at New Meridian is scheduling empty berths," Vex said. He kept his voice professional. "Our districts schedule public funerals when we have remains or certified service loss. When we have neither, we still read names. We do not require hatred grammar to stand in a square."
+A sealed strip arrived from Helion before Torren's request finished stacking. Rowan authentication. Short. No ceremony in the header.
 
-A young Fleet liaison on lag muttered, "They sound finished with feeling."
+*Designation: Scout Sector Lead, Segment 6 outer-corridor operations. Temporary. Until relieved. Diverted scout assets check posture with Kestrel Veil and hold your support-watch frame. Coordinate local decisions Helion lag cannot reach in time. No change of rank. No squadron title. Authority ends when relieved by Helion or Segment Command.*
 
-Thessaly cut that soft. "They sound practiced. Practice is not the absence of grief. Do not recruit me into that misread."
+Calder read it twice. *Kestrel Veil* had survived the first encounter. He had watched Founders' Reach end. Helion was hours behind any call that mattered out here. Three scout markers already shared the same unfinished dark. The strip did not congratulate him. It put his authentication on every scout decision in the sector until someone took it back.
 
-Ellis spoke before the room could harden. "Historical Office notes dual mourning without reconciliation. Shared loss posture is visible. Trust is not. That distinction matters for the archive and for any later cooperation talk."
+Thessaly finished reading over his shoulder. "He is not promoting you."
 
-Vex looked at her. He remained precise, no theater. "Your historian refuses invasion language."
+"I know."
 
-"I refuse sole invasion lock," Ellis said. "The residual product at Founders' Reach does not give us a battle. It gives us a finished process. If your pattern library calls that extraction pressure, sealed Fleet channels can carry the comparison. Public Fleet channels cannot yet. I am seeding the frame, not completing a cosmology."
+"He is giving you the part of the problem Helion cannot reach in time." She glanced at the tertiary strip. "When a call goes wrong out here, it belongs to this bridge."
 
-"Good," Vex said. "Completion would be a different kind of lie."
+Calder left the strip open on his slate where ordinary traffic would have to share the glass with it. "Acknowledge. Log Scout Sector Lead as temporary operational designation only. Packets stay support watch under field judgment."
 
-He set his cup down. "My instructor used to say preparation is love with a schedule. Your people hear our schedules and call us cold. We hear your speeches and call them late. Both can be true while the contour moves."
+Cold Assay's request arrived a minute later. Captain Lysa Torren could deploy a passive sensor package closer than either other scout. No active scan. No transmission beyond required telemetry. Abort on unexpected response.
 
-Calder did not smile. "We can mourn beside each other without calling it alliance."
+Thessaly read it. "She is asking because you are Scout Sector Lead."
 
-"We must," Vex said. "Necessity is already writing the next room. Trust is not invited."
+Calder looked at the Orchard Compact marker. The Dominion said the advance was there. Fleet sensors could not confirm it. Founders' Reach had already shown what waiting too long cost. The open designation strip waited under his hand when he answered.
 
-Park kept his eyes on the board. "Third fringe indicator still degraded on Fleet side. Orchard Compact still contested. Dominion expanding-pressure flag still on. No ransom. No demands. No hatred signature. Process logic continues whether we have nouns or not."
+"Authorize the package," Calder said.
 
-Orlen added, careful with lexicon custody, "Dominion Civil Government will accept shared loss language in closed strips. Public Dominion channels will not perform Fleet holiday grief. Do not ask us to."
+"Confirming?" Park asked.
 
-"We are not asking," Thessaly said. "We are observing that both sides can stand near absence without becoming family."
+"Confirm. Cold Assay gets the first look. Ardent Measure maintains support distance. Kestrel remains on Founders' Reach evidence authority."
 
-Vorin spoke the Dominion receipt for the lounge log. "Fleet mourning product observed. Dominion plaque discipline maintained for our earlier losses and for shared fringe absences under Civil Government custody. No superiority claim. No *we told you* language authorized. Necessity without trust remains condition."
-
-Ellis logged the dual posture in her own strip: Fleet empty berths and name custody; Dominion plaques and tea; mutual misread risk; shared mourning as trust ingredient and still insufficient for alliance.
-
-Senka's lag image did not soften. "SSD will hate how useful this looks. Usefulness is not friendship. Keep sunsets. Keep vetoes. Do not let grief become a depth-map exchange."
-
-"Agreed," Calder said.
-
-They did not reconcile. They did not toast. They sat with tea and coffee as work presence, with a plaque draft and a mourning placard correction, and with a joint board that still refused to invent a simpler enemy.
-
-Outside the lounge, Contact Node Seven kept running. Inside, dual empathy held for exactly as long as professional people could hold it without pretending it solved the contour.
+The order transmitted.
 
 ---
-***HELION — CIVILIAN AFFAIRS / COUNCIL NUMBERS ROOM***
-*MEGA-ESTIMATE DEBATE / AUTHORITY FLAG*
 
-The numbers room wanted a civilization-scale figure the way panic markets wanted a villain: as a handle.
+***COLD ASSAY — BRIDGE***
+*ORCHARD COMPACT APPROACH*
 
-Ellis stood with Denara, Neve, a Council demography staffer, and a mobilization analyst who kept tapping a range that had wandered in from older speculative drafts. Rowan listened from the annex by audio. Hale held the amendment strip open on a secondary board because every number was already trying to become doctrine.
+Captain Lysa Torren had spent most of her career believing the best scout crews were the ones nobody remembered: find, record, come home. As *Cold Assay* approached Orchard Compact, the bridge stayed quiet and focused. The colony came up on long-range sensors first, then visual. Torren watched the display without asking for a briefing. The pattern was already familiar — dark hulls, industrial scale, slow deliberate movement. The colony was not under attack. It was being processed.
 
-"Proposal," the mobilization analyst said. "Publish a mega-casualty estimate for industrial mobilization politics. Civilizational shock language. Something large enough that freight and yards move without another hearing."
+The Peligar vessels hung above Orchard Compact without formation and without urgency, the same impossible patience Fleet had recorded at Founders' Reach. No panic. No resistance. No communication. Work.
 
-Ellis did not let the number land as canon. "No. Founders' Reach is a named colony on Segment 6. Prefer colony and system scale grounded in census custody and residual survey. Fringe losses in view remain contested at Orchard Compact and degraded at the third indicator. Any civilization-scale figure stays unauthorized and uncalibrated until we have evidence to defend it. I will not lock a speculative range into public mourning text or Command seal."
+"Confirm visual match," Torren said.
 
-The demography staffer frowned. "If we suppress large estimates, cover-up narratives open."
+The sensor officer swallowed. "Configuration matches Founders' Reach."
 
-"If we invent large estimates, panic markets write doctrine," Neve said. "FIB prefers named losses we can defend: Founders' Reach household recovery under custody; New Meridian memorial logistics; Segment quiet labels under review. Civilizational shock can be stated as institutional fact without a false precision count."
+The report went out. *Kestrel Veil received. Helion received.* The live feed remained open. Founders' Reach had arrived as residual survey and sealed imagery after the fact. Orchard Compact was entering the same industrial path while people were still watching.
 
-"Committees are already floating older draft ranges in the hundreds of billions," the analyst said. "If Command stays silent, rumor certifies them."
+In Fleet Command ops, typing slowed when the visual confirmation locked. Rowan set down the transit-estimate slate and did not pick it up again. A casualty worksheet on the secondary board stayed blank; nobody had a finished number to enter while the feed was still live. At Contact Node Seven, Dana Holt kept the Orchard Compact window pinned and did not open a second channel.
 
-Denara set a colony-scale strip beside the analyst's speculative range without drama. "This is what we can defend today. Founders' Reach was a named colony, and it's finished. We're recovering household lists where the mirrors held. The school enrollment is complete. The relay officer's card is complete. Nearby quiet labels stay under review, not elevated into a second tragedy before we know what they are. New Meridian's twelve thousand are living neighbors doing memorial work. They are not a stand-in body count for a system that went silent."
+"Beginning passive package deployment," Torren said.
 
-"That will not scare yards into overtime," the analyst said.
+The probe left *Cold Assay* on a slow passive track without a sound. For several seconds nothing changed — colony, processing hulls, probe feed all ordinary. Then the sensor display updated.
 
-"Scare is not a custody standard," Ellis said. "If yards need overtime, authorize overtime on contested fringe pressure and residual survey product. Do not forge a mega-count because fear is easier to schedule than honesty."
+"New return."
 
-Rowan's voice came dry. "Command will not certify rumor. Publish what we can custody: Founders' Reach catastrophic loss, no survivors answering, recoverable names in process. State fringe pressure without elevating unconfirmed annexes into second memorials. Mark any mega-estimate as pending calibration. Ellis's hygiene holds."
+"Source?"
 
-Hale rubbed his temple. "Academy will say grief is being used to force amendment. Civilian affairs will say Command abandoned mourning to protect language. There is still no clean seat."
+"Unknown." The operator frowned. "One of the Peligar hulls has changed orientation."
 
-"There has not been a clean seat since Founders' Reach stopped answering," Ellis said. "Keep the disagreement visible. Names and colony scale in public. Contested operational description in sealed rooms. Mega-counts flagged pending. Do not let a mobilization number become the amendment hearing's false foundation."
+"Toward us?"
 
-The analyst tried one last range, quieter. "Even as a working band. Not sealed. Not public. Just enough for industrial planning rooms."
+"Yes."
 
-"Working bands become rumor the moment they leave this table," Neve said. "If planning rooms need planning, give them Orchard Compact contested and third indicator degraded and Founders' Reach finished. That is already enough arithmetic to move watch craft. It is not enough arithmetic to invent a civilization-scale figure and call it certified."
+Hands stayed on controls. The orientation change was too small for theater and too clean for coincidence. They had been seen.
 
-Denara posted the custody product that could survive morning:
+"Seal the probe feed," Torren ordered. "Break observation. Full evasion."
 
-*Founders' Reach: survivor search concluded. No certified survivors. Recoverable names under Civilian Affairs custody where prior census mirrors allow. Memorial logistics active at New Meridian. Operational description contested. Processing frame sealed. Public language: catastrophic civilian loss. No sole invasion lock. Civilization-scale casualty estimates: unauthorized, uncalibrated, not for release. Orchard Compact: contested, unnamed in rhetoric channels. Third fringe indicator: degraded, not confirmed.*
+The ship moved. The crew moved with it — no shouting, only checklist voices. "Max acceleration. Countermeasures active."
 
-The mobilization analyst looked cheated. The demography staffer looked relieved and unhappy in equal measure. Neve looked like someone who had kept a market from eating a truth.
+"Probe?"
 
-Ellis sent the product into the packet chain Rowan had opened the night the demand arrived: Council, New Meridian, Contact Node Seven, *Kestrel Veil*, Historical Office strip.
+"Still transmitting on its own."
 
-Reckoning without a locked mega-figure.
+"Leave it."
 
-Grief without a false handle.
+The emergency channel opened. Torren's voice stayed controlled. "All stations, this is Fleet scout vessel *Cold Assay*. This is an emergency transmission. We have confirmed Peligar processing activity at Orchard Compact."
 
-The fight remaining was not whether people had died. The fight was what Fleet would become by the nouns it chose next.
+The deck transmitted a vibration through the soles of boots — not a show, only enough to know something had reached them. "We are disengaging. Repeat, we are disengaging—"
+
+The transmission distorted. Bridge lights flickered. "Contact closing," the sensor officer said.
+
+Torren took the rail. "Continue transmission."
+
+"This is *Cold Assay*. We have confirmed—"
+
+The feed cut. Not faded. Cut.
+
+On Helion, the same fragment froze on three walls at once. An analyst said the packet was still open, then stopped updating the line when the timestamp stopped advancing. Rowan looked once at the empty update cycle, once at the blank casualty worksheet, and turned away from both. Holt stayed on the channel after the audio died, hand on the console edge, listening to a silence that no longer had a ship behind it.
 
 ---
-***HELION — FLEET COMMAND ANNEX***
-*POLITICAL BILL / COOPERATION PRESSURE*
 
-Night cycle again. Lighting change only. Arguments still awake.
+***KESTREL VEIL — BRIDGE***
+*LOSS OF CONTACT*
 
-Ellis stood in Rowan's annex with the casualty product open, the seed frame sealed, the dual mourning note logged, and the Founders' Week exhibit committee's latest martyr draft already dying under her stylus. Neve had gloves on. Hale looked worse. Calder and Thessaly held on lag from *Kestrel*, faces tired in the way of people who had refused easy myths and were being asked to keep refusing them.
+The emergency transmission remained frozen on the primary display — last image, last sound, last fragment of Torren's voice. Park kept his hands on the console after the energy release matched Cold Assay's last position.
 
-Rowan read the political bill the way he read sensor disagreements: out loud, so nobody could pretend they had not heard the cost.
+"Captain."
 
-"Council factions are splitting three ways," he said. "One wants invasion war against a simpler enemy. One wants isolation and Dominion blame. One wants observation language that Founders' Reach already proved can arrive late. None of those postures hold the fringe alone. Necessity is about to write terms whether we authorize them or not."
+"I see it," Calder said.
 
-"If you authorize cooperation posture now," Hale said, "Academy will say grief forced doctrine. If you refuse, the next quiet label may finish while we protect elegance."
+Thessaly looked at the support scout's marker. "Ardent Measure?"
 
-Neve did not decorate the options. "SSD will trade depth for buffer language if we panic. FIB will call that annexation by other means. Both fears remain rational. Neither moves the contour back."
+Calder's first instinct was still the human one: go, help, recover survivors, put the nearest hull into the hole where a ship had been. The order almost left his mouth — immediate support vector, no passive hold, last known position. Then he looked at the empty space where Cold Assay's marker had been. Torren had done the work correctly: quiet approach, passive probe, abort on attention, emergency transmission while the hull was still moving. The environment had answered anyway. Sending *Ardent Measure* in on a rescue clock would only put a second crew into the same unfinished dark.
 
-Calder's lag voice stayed mediator-flat. "I will not convert the dead into propaganda fuel. I will carry contested truth into any room you open. If the next room is limited military cooperation under sunset and veto, say so without calling it trust. Trust is still absent. Necessity is not."
+"Open Kelso," he said.
 
-Thessaly added the executable piece. "If politics invents a simpler war, field procedure will be asked to fight an enemy the boards do not show. Prefer instruments we can schedule: watches, warning exchange, ROE collision rules, dual vetoes. I can draft procedure for ugly cooperation. I cannot draft procedure for a comforting lie."
+Park opened the channel. "Send."
 
-Ellis felt the historian's cost settle into something like duty. Founders' Week narrative hygiene had become critical path. Love of Fleet beginnings had collided with evidence that war vocabulary was a category error. She would not complete the series thesis in an annex at night. She would keep the seed alive long enough for the next decisions to notice it.
+Calder kept his voice steady. "*Ardent Measure*, continue toward Orchard Compact. Maximum standoff. Passive observation only. No probes. No active scans. No illumination. No approach without my authorization. Your job is not to find wreckage. Your job is to stay alive long enough to report what happens next."
 
-"Public mourning text holds contested framing," she said. "Seed frame holds in sealed custody: extraction and processing logic versus invasion grammar; people as obstacles inside a resource graph, not the objective of a campaign. No self-name. No translation claim. No mega-figure lock. If Council forces sole invasion language anyway, Historical Office dissents on record. If you open terms talks with Dominion under necessity, I will keep the nouns from turning that necessity into a false alliance myth on day one."
+Park transmitted. Across the corridor, *Ardent Measure* adjusted course — still inbound, holding the new standoff line.
 
-Rowan looked at the map. Founders' Reach finished. Orchard Compact probable and still contested. Third indicator degraded. Contact Node Seven's shared overlays still running under sunset. Dual mourning logged without reconciliation. Casualty product demanded, delivered, and already insufficient for the hunger that had demanded it.
-
-"Authorize the next political step," he said. "I will take this bill into Council and Command as the price of grief: either Fleet opens a limited cooperation posture with Dominion military instruments under sunset and veto, or institutions will invent a simpler war against a simpler enemy and spend the dead on that invention. Necessity writes terms. Trust does not. Ellis's frame circulates sealed as contested analysis. No sole invasion lock tonight. Doctrine amendment remains open. Local field judgment remains authorized. Hold Orchard. Hold the third indicator. Do not invent certainty for my sake."
-
-Neve nodded. "That will make everyone angry."
-
-"Good," Rowan said. "Anger still arguing beats consensus built on a lie."
-
-Hale looked at the First Doctrine strip one more time. "Amendment hearing will receive this casualty product whether we like the optics or not. If cooperation talks open on the same day memorial readings begin, Academy will say you used empty berths as leverage."
-
-"Then Academy can say it," Rowan said. "Empty berths are leverage whether I admit it or not. I would rather admit the ugly arithmetic than pretend order can be preserved by nouns that fail the residual survey."
-
-He looked at Ellis. "You kept the nouns from finishing us. Keep doing that while the next rooms try to finish us anyway."
-
-"I will," Ellis said. "When terms talks open, send Historical Office the draft instruments before gallery pools rename them alliance. I can live with necessity language. I cannot live with myth language wearing Command seals."
-
-"You will get the drafts," Rowan said.
-
-On lag, Calder did not offer comfort. "We will hold the board."
-
-Thessaly did not offer a speech. "Send the cooperation pressure as work language when it hardens. Not as myth."
-
-Outside the annex, Helion kept moving. Inside, the casualty product sat complete enough to mourn and incomplete enough to force politics. No survivors at Founders' Reach. No clean war story. No locked mega-count. A seed frame that refused invasion as the only grammar. Dual mourning that proved shared loss was possible and still not trust.
-
-Rowan sent the packet onward toward the rooms that would have to price necessity.
-
-Ellis closed her slate on empty manifests, contested captions, and a historian's note that had begun resisting the word the banners loved most. She thought once of the container school petition still sitting in a Senate queue that no longer had a colony to answer, then set the thought aside as work for another caption if captions survived the week.
-
-The work continued.
-
-The fringe kept burning.
-
-Necessity had started writing the terms.
+On the tertiary strip, three positions remained where three scouts had been. *Kestrel Veil* held Founders' Reach. *Ardent Measure* tracked toward Orchard Compact under the restrictive profile. Cold Assay's slot stayed empty. Calder left Rowan's Scout Sector Lead strip open on his slate, authentication still live under the missing marker, and did not look away from the plot until *Ardent Measure*'s acknowledgment cleared.
 
 ---
 **END CHAPTER 7**

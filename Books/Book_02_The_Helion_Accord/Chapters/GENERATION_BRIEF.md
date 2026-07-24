@@ -1,10 +1,10 @@
 # Book Two — Chapter Generation Brief
 
-**Target:** 150,000–200,000 words total (Prelude + Ch. 1–25)  
+**Target:** 150,000–200,000 words total (Prelude + Ch. 1–27)  
 **Theme:** Trust is harder than war  
 **Time gap:** ~18 months after Book One  
 **Outlines:** `Planning/Outline/`  
-**Output:** `Chapters/prelude.md`, `Chapters/chapter_01.md` … `chapter_25.md`
+**Output:** `Chapters/prelude.md`, `Chapters/chapter_01.md` … `chapter_27.md`
 
 ## Priority (hard)
 

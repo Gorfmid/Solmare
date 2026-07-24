@@ -1,7 +1,7 @@
 # Book Two — *The Helion Accord*
 
 **Edition:** See [`VERSION.md`](VERSION.md) — **0.x** pre-publication (not 1.0 until retail)  
-**Status:** Prelude **Final Candidate** · Ch. 1–25 **Revision Pass** (not Final Lock)  
+**Status:** Prelude + Ch. 1–7 **Final Candidate** · Ch. 8 **2nd Revision Pass** · Ch. 9–27 **Revision Pass** (not Final Lock)  
 **Title:** *The Helion Accord* (locked)  
 **Folder:** `Books/Book_02_The_Helion_Accord/`  
 **Working theme:** **Trust is harder than war.**  
@@ -15,8 +15,8 @@ Book One was discovery — learning to observe before judging. Book Two asks whe
 
 ## Chapters (manuscript)
 
-Output: [`Chapters/`](Chapters/) — `prelude.md`, `chapter_01.md` … `chapter_25.md`  
-~142,400 words · Stages: Prelude **Final Candidate**; Ch. 1–25 **Revision Pass**
+Output: [`Chapters/`](Chapters/) — `prelude.md`, `chapter_01.md` … `chapter_27.md`  
+~151,000 words · Stages: Prelude + Ch. 1–7 **Final Candidate**; Ch. 8 **2nd Revision Pass**; Ch. 9–27 **Revision Pass**
 
 ### Chapter formatting (match Book One)
 
